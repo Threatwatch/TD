@@ -25,12 +25,12 @@ jobs:
 
     - name: Run script
       run: |
-        python script.py  # Replace with your script's name
+        python dashboard.py  
 
     - name: Push changes
       run: |
-        git config --local user.email "you@example.com"
-        git config --local user.name "Your Name"
+        git config --local user.email "faisal.s.albargan@gmail.com"
+        git config --local user.name "FSBARGAN"
         git add new_messages.json
         git commit -m "Auto-update JSON data"
         git push
