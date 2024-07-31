@@ -1192,6 +1192,91 @@
     ],
     "Anonymous_KSA": [
         {
+            "Message ID": 1215,
+            "Date": "2024-07-31",
+            "Content": "🚨 We announce the successful targeting and shutdown of 4 Pelephone servers in several areas in Israel and have been down for several hours so far, as the company has now made an attempt to repel our attack by shutting down the server partially after we destroyed it.\n\n🚨 نعلن عن استهداف وإيقاف 4 خوادم لشركة بيليفون بنجاح في عدة مناطق في إسرائيل وكانت متوقفة عن العمل لعدة ساعات حتى الآن، حيث قامت الشركة الآن بمحاولة صد هجومنا من خلال إيقاف الخادم جزئيًا بعد أن قمنا بتدميره.\n\nhttps://check-host.net/check-report/1ca3cec4kc01\nhttps://check-host.net/check-report/1ca3ca8bk3cc\nhttps://check-host.net/check-report/1ca3c6f9k8e1\nhttps://check-host.net/check-report/1ca3c495kaed\n\n➲ DOC : a78721e2af42f2efae6b6a3cfb424dd9\n➲ DAT : a17131133097f0251a37158bde1566b2\n➲ CRC : 3ea49eee6f45a09d6e7925ccae3c0387\n\n➫ Anonymouz.KSA\n\n⊹ @Anonymous_KSA\n⊹ @Anonymous_Leak\n⊹ @Anonymous_Reserve\n⊹ @Anonymous_CRC\n⊹ @Anonymouz.KSA\n#anonymous_ksa",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "tps://check-host.net/check-report/1ca3cec4kc01\nh",
+                "tps://check-host.net/check-report/1ca3ca8bk3cc\nh",
+                "tps://check-host.net/check-report/1ca3c6f9k8e1\nh",
+                "tps://check-host.net/check-report/1ca3c495kaed\n\n"
+            ]
+        },
+        {
+            "Message ID": 1214,
+            "Date": "2024-07-31",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1213,
+            "Date": "2024-07-31",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1212,
+            "Date": "2024-07-31",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1211,
+            "Date": "2024-07-31",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1210,
+            "Date": "2024-07-31",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1209,
+            "Date": "2024-07-31",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1208,
+            "Date": "2024-07-31",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
             "Message ID": 1207,
             "Date": "2024-07-31",
             "Content": "...⏳",
