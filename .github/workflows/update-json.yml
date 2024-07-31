@@ -26,14 +26,17 @@ jobs:
 
     - name: Run script
       run: |
-        python dashboard.py  # Replace with your actual script name
+        python dashboard.py  # Ensure this is the correct script name
 
-    - name: Push changes
+    - name: List changes
+      run: git status
+
+    - name: Commit and push changes if there are any
       run: |
         git config --local user.email "faisal.s.albargan@gmail.com"
         git config --local user.name "FSBARGAN"
         git add new_messages.json
-        git commit -m "Auto-update JSON data"
+        git diff --cached --exit-code || git commit -m "Auto-update JSON data"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
