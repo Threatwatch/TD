@@ -26,7 +26,7 @@ jobs:
 
     - name: Run script
       run: |
-        python dashboard.py  # Ensure this is the correct script name
+        python dashboard.py 
 
     - name: List changes
       run: git status
@@ -35,7 +35,7 @@ jobs:
       run: |
         git config --local user.email "faisal.s.albargan@gmail.com"
         git config --local user.name "FSBARGAN"
-        git add new_messages.json
+        git add messages.json
         git diff --cached --exit-code || git commit -m "Auto-update JSON data"
         git push
       env:
