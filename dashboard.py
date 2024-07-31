@@ -60,58 +60,62 @@ def extract_location(text):
     return locations if locations else ["N/A"]
 
 async def fetch_messages(channel_url, existing_messages_ids):
-    channel = await client.get_entity(channel_url)
-    limit = 100
-    offset_id = 0
-    new_messages = []
+    try:
+        channel = await client.get_entity(channel_url)
+        limit = 100
+        offset_id = 0
+        new_messages = []
 
-    history = await client(GetHistoryRequest(
-        peer=channel,
-        offset_id=offset_id,
-        offset_date=None,
-        add_offset=0,
-        limit=limit,
-        max_id=0,
-        min_id=0,
-        hash=0
-    ))
-    messages = history.messages
+        history = await client(GetHistoryRequest(
+            peer=channel,
+            offset_id=offset_id,
+            offset_date=None,
+            add_offset=0,
+            limit=limit,
+            max_id=0,
+            min_id=0,
+            hash=0
+        ))
+        messages = history.messages
 
-    for message in messages:
-        if message.id not in existing_messages_ids:
-            # Extract date without time
-            date = message.date.strftime('%Y-%m-%d')
-            
-            # Extract URLs if available
-            urls = []
-            if message.entities:
-                for entity in message.entities:
-                    if isinstance(entity, MessageEntityUrl):
-                        urls.append(message.message[entity.offset:entity.offset + entity.length])
+        for message in messages:
+            if message.id not in existing_messages_ids:
+                # Extract date without time
+                date = message.date.strftime('%Y-%m-%d')
+                
+                # Extract URLs if available
+                urls = []
+                if message.entities:
+                    for entity in message.entities:
+                        if isinstance(entity, MessageEntityUrl):
+                            urls.append(message.message[entity.offset:entity.offset + entity.length])
 
-            # Determine the attack type based on content
-            attack_type = "Unknown"
-            if message.message:
-                content_lower = message.message.lower()
-                for category, keywords in detailed_attack_keywords.items():
-                    if any(keyword in content_lower for keyword in keywords):
-                        attack_type = category
-                        break
+                # Determine the attack type based on content
+                attack_type = "Unknown"
+                if message.message:
+                    content_lower = message.message.lower()
+                    for category, keywords in detailed_attack_keywords.items():
+                        if any(keyword in content_lower for keyword in keywords):
+                            attack_type = category
+                            break
 
-            # Extract location from the message content
-            location = extract_location(message.message) if message.message else ["N/A"]
-            
-            new_messages.append({
-                'Message ID': message.id,
-                'Date': date,
-                'Content': message.message,
-                'Attack Type': attack_type,
-                'Location': location,
-                'URLs': urls
-            })
-        offset_id = message.id
+                # Extract location from the message content
+                location = extract_location(message.message) if message.message else ["N/A"]
+                
+                new_messages.append({
+                    'Message ID': message.id,
+                    'Date': date,
+                    'Content': message.message,
+                    'Attack Type': attack_type,
+                    'Location': location,
+                    'URLs': urls
+                })
+            offset_id = message.id
 
-    return channel.username if channel.username else 'N/A', new_messages
+        return channel.username if channel.username else 'N/A', new_messages
+    except Exception as e:
+        print(f"An error occurred while fetching messages: {e}")
+        return None, []
 
 def commit_and_push_changes(file_path):
     try:
@@ -144,7 +148,6 @@ def commit_and_push_changes(file_path):
     except subprocess.CalledProcessError as e:
         print(f"An error occurred while pushing changes: {e}")
 
-
 async def main():
     json_file_path = 'new_messages.json'  # Local path to save the JSON file
     iteration_count = 0
@@ -161,10 +164,11 @@ async def main():
             print(f"Fetching messages from {channel_url}")
             channel_name, new_messages = await fetch_messages(channel_url, 
                 {msg['Message ID'] for channel in all_channel_messages.values() for msg in channel})
-            if channel_name not in all_channel_messages:
-                all_channel_messages[channel_name] = []
-            # Prepend new messages to the list
-            all_channel_messages[channel_name] = new_messages + all_channel_messages[channel_name]
+            if new_messages:
+                if channel_name not in all_channel_messages:
+                    all_channel_messages[channel_name] = []
+                # Prepend new messages to the list
+                all_channel_messages[channel_name] = new_messages + all_channel_messages[channel_name]
 
         save_messages(json_file_path, all_channel_messages)
 
