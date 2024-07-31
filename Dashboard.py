@@ -1,5 +1,6 @@
 import json
 import os
+import subprocess
 import time
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetHistoryRequest
@@ -58,7 +59,6 @@ def extract_location(text):
     locations = [loc for loc in locations if not loc.startswith('http')]
     return locations if locations else ["N/A"]
 
-
 async def fetch_messages(channel_url, existing_messages_ids):
     channel = await client.get_entity(channel_url)
     limit = 100
@@ -113,8 +113,40 @@ async def fetch_messages(channel_url, existing_messages_ids):
 
     return channel.username if channel.username else 'N/A', new_messages
 
+def commit_and_push_changes(file_path):
+    try:
+        # Initialize git repository if not already done
+        if not os.path.exists('.git'):
+            subprocess.run(["git", "init"], check=True)
+
+        # Check if the remote is set
+        result = subprocess.run(["git", "remote"], stdout=subprocess.PIPE)
+        if not result.stdout.strip():
+            # Set the remote repository
+            subprocess.run(["git", "remote", "add", "origin", "https://github.com/FSBARGAN/TD.git"], check=True)
+
+        # Ensure we are on the main branch
+        subprocess.run(["git", "checkout", "-B", "main"], check=True)
+
+        # Add the specific file to the staging area
+        subprocess.run(["git", "add", file_path], check=True)
+
+        # Check if there are changes to commit
+        result = subprocess.run(["git", "status", "--porcelain"], stdout=subprocess.PIPE)
+        if result.stdout:
+            # Commit the changes
+            subprocess.run(["git", "commit", "-m", "Update JSON data"], check=True)
+
+            # Push the changes to the main branch
+            subprocess.run(["git", "push", "origin", "main"], check=True)
+        else:
+            print("No changes to commit.")
+    except subprocess.CalledProcessError as e:
+        print(f"An error occurred while pushing changes: {e}")
+
+
 async def main():
-    json_file_path = 'https://fsbargan.github.io/Test/new_messages.json'  # New file path to avoid overwriting
+    json_file_path = 'new_messages.json'  # Local path to save the JSON file
     iteration_count = 0
     max_iterations = 1  # Set the maximum number of iterations
 
@@ -135,6 +167,9 @@ async def main():
             all_channel_messages[channel_name] = new_messages + all_channel_messages[channel_name]
 
         save_messages(json_file_path, all_channel_messages)
+
+        # Commit and push changes to the repository
+        commit_and_push_changes(json_file_path)
 
         iteration_count += 1
         print(f"Data updated. Iteration {iteration_count}. Sleeping for 1 minute.")
