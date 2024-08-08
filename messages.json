@@ -1,6 +1,41 @@
 {
     "LulzsecMuslims_World": [
         {
+            "Message ID": 1511,
+            "Date": "2024-08-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1510,
+            "Date": "2024-08-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1509,
+            "Date": "2024-08-08",
+            "Content": "Hello everyone, we launched a quick attack on Argentina.\n\nWe hacked into the GITLAB account belonging to the official website of the municipality of Guacurari in the province of Misione, Argentina. \n\nPOC : guacurari.misiones.gov.ar/.git/config\n\nJust A little tour around gov.ar we haven't started yet\n\n#LulzSec_Muslims",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Argentina",
+                "Misione",
+                "Argentina"
+            ],
+            "URLs": [
+                "guacurari.misiones.gov.ar/.git/config",
+                "gov.ar"
+            ]
+        },
+        {
             "Message ID": 1508,
             "Date": "2024-08-08",
             "Content": "📍In Surat Al-Tawbah, God Almighty says In verse fifty one:\n \"قل لن يصيبنا إلا ما كتب الله لنا هو مولانا و على الله فاليتوكل المؤمنون\" \n📍Isn't this beautiful? \nHere you find the comfort that makes you pass every difficult stage \n📍We put our trust in God, and there is no winner but God, and nothing will reach us except what God has written for us \n\n🔥Glory and eternity to Palestine \n\n\n#LulzSec_Muslims\n#EvilByte \n#LulzSec_Black \n#Shad0de \n#Anonymous_Africa",
