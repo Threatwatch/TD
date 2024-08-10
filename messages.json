@@ -1,6 +1,75 @@
 {
     "LulzsecMuslims_World": [
         {
+            "Message ID": 1522,
+            "Date": "2024-08-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1521,
+            "Date": "2024-08-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1520,
+            "Date": "2024-08-10",
+            "Content": "Hello, tonight we targeted another Argentine news site: \n\nWhat does he say? : \n\nAn independent news website in Argentina that provides alternative media content independent of traditional media.\n\nTargets : \n\nhttps://televisionalternativa.com.ar\n\nhttps://diario.televisionalternativa.com.ar\n\nhttps://crm.televisionalternativa.com.ar\n\nhttps://vision.televisionalternativa.com.ar\n\nhttps://virtualdelights.televisionalternativa.com.ar\n\n#LulzSec_Muslims",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Argentina"
+            ],
+            "URLs": [
+                "https://televisionalternativa.com.ar",
+                "https://diario.televisionalternativa.com.ar",
+                "https://crm.televisionalternativa.com.ar",
+                "https://vision.televisionalternativa.com.ar",
+                "https://virtualdelights.televisionalternativa.com.ar"
+            ]
+        },
+        {
+            "Message ID": 1519,
+            "Date": "2024-08-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1518,
+            "Date": "2024-08-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1517,
+            "Date": "2024-08-10",
+            "Content": "Hello everyone, today we targeted Santa's agency and we were able to access their control panel this time: \n\nWhat is Santa?\n\nASSAl (Agencia Santafesina de Seguridad Alimentaria) is a government agency in the province of Santa Fe, Argentina, responsible for ensuring the safety and quality of food\n\nJust useless shit. Argentina has nothing exciting tonight, maybe tomorrow, hehe\n\nWe have covered the control panel url so that skidos does not damage it .xD\n\n#LulzSec_Muslims",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Santa",
+                "Santa Fe",
+                "Argentina",
+                "Argentina"
+            ],
+            "URLs": []
+        },
+        {
             "Message ID": 1516,
             "Date": "2024-08-09",
             "Content": "",
