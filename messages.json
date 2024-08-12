@@ -1,6 +1,48 @@
 {
     "LulzsecMuslims_World": [
         {
+            "Message ID": 1558,
+            "Date": "2024-08-12",
+            "Content": "We are far from you, do not involve us with your childish problems \nWe have our goals and our work to accomplish. We are here to defend Islam and Palestine. \nThis time is not like all other times, any mistake will cost a lot, so stay away from us and live your problems alone \nOur enemy is clear and we will continue to fight him until our last breath, so please do not distract us from our minds. We do not want to wage our wars with our brothers in God. \n\nThank you all\n\n\n#LulzSec_Muslims",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Palestine"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1557,
+            "Date": "2024-08-12",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1556,
+            "Date": "2024-08-12",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1555,
+            "Date": "2024-08-12",
+            "Content": "Hello everyone, today we found two Vulns in the Saudi government \n\n1 : Denial of Service ( DOS ) poc In The Pic\n\n2 : CORS Vuln  \n\nTarget : iarda.gov.sa\n\nyou well find the POC : in the text Enjoy \n\nThis is the first warning \n\n#LulzSec_Muslims",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Enjoy"
+            ],
+            "URLs": [
+                "iarda.gov.sa"
+            ]
+        },
+        {
             "Message ID": 1554,
             "Date": "2024-08-12",
             "Content": "",
