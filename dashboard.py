@@ -19,7 +19,7 @@ phone_number = '+966559166818'
 channel_urls = [
     'https://t.me/LulzsecMuslims_World',
     'https://t.me/Anonymous_KSA',
-    'https://t.me/testForapi174'
+
 ]
 
 # Create the client and connect
