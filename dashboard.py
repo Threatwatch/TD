@@ -18,7 +18,7 @@ phone_number = '+966559166818'
 # List of Telegram channel URLs
 channel_urls = [
     'https://t.me/LulzsecMuslims_World',
-    'https://t.me/Anonymous_KSA',
+    #'https://t.me/Anonymous_KSA',
 
 ]
 
