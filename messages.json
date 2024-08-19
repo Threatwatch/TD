@@ -4831,6 +4831,26 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2520,
+            "Date": "2024-08-19",
+            "Content": "OK I see now.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2519,
+            "Date": "2024-08-19",
+            "Content": "There are reports on Dread that Abacus is down and not working, with no further updates. Maybe at the time it was down, but I can get past the captcha and see the login screen.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Abacus"
+            ],
+            "URLs": []
+        },
+        {
             "Message ID": 2518,
             "Date": "2024-08-19",
             "Content": "nsfw",
