@@ -4831,6 +4831,40 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2518,
+            "Date": "2024-08-19",
+            "Content": "nsfw",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2517,
+            "Date": "2024-08-19",
+            "Content": "lol wtf\n\nhttps://x.com/PicturesFoIder/status/1825505247806013857/photo/1",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/PicturesFoIder/status/1825505247806013857/photo/1"
+            ]
+        },
+        {
+            "Message ID": 2516,
+            "Date": "2024-08-19",
+            "Content": "🚨Anonymous Guys Targeted the Website of Air Ocean Airlines\n\nhttps://darkwebinformer.com/anonymous-guys-targeted-the-website-of-air-ocean-airlines/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/anonymous-guys-targeted-the-website-of-air-ocean-airlines/"
+            ]
+        },
+        {
             "Message ID": 2515,
             "Date": "2024-08-19",
             "Content": "🚨Rhysida Ransomware Claims Waynesboro Nurseries\n\nhttps://darkwebinformer.com/rhysida-ransomware-claims-waynesboro-nurseries/",
