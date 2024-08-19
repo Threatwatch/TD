@@ -4831,6 +4831,16 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2495,
+            "Date": "2024-08-19",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
             "Message ID": 2493,
             "Date": "2024-08-18",
             "Content": "💡Daily Dose of Dark Web Informer - August 18th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-august-18th-2024/",
@@ -6011,6 +6021,16 @@
         }
     ],
     "RipperSec": [
+        {
+            "Message ID": 4636,
+            "Date": "2024-08-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
         {
             "Message ID": 4635,
             "Date": "2024-08-18",
