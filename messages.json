@@ -6022,6 +6022,28 @@
     ],
     "RipperSec": [
         {
+            "Message ID": 4656,
+            "Date": "2024-08-19",
+            "Content": "Next usa.gov?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "usa.gov"
+            ]
+        },
+        {
+            "Message ID": 4655,
+            "Date": "2024-08-19",
+            "Content": "More big company gonna be leaked by us. Stay tuned 😆",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
             "Message ID": 4653,
             "Date": "2024-08-19",
             "Content": "",
