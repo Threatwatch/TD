@@ -6022,6 +6022,16 @@
     ],
     "RipperSec": [
         {
+            "Message ID": 4651,
+            "Date": "2024-08-19",
+            "Content": "Update Down POC // 6:52PM (SG)\n\nNB: Our botnet will restart attack every 2 minutes, so if you see the site online. just refresh and the site will be down again.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
             "Message ID": 4650,
             "Date": "2024-08-19",
             "Content": "Sony database look tasty 😋",
