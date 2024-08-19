@@ -4831,6 +4831,18 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2506,
+            "Date": "2024-08-19",
+            "Content": "🚨EXECUTOR DDOS Has Targeted The Website of Netflix\n\nhttps://darkwebinformer.com/executor-ddos-has-targeted-the-website-of-netflix/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Netflix"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/executor-ddos-has-targeted-the-website-of-netflix/"
+            ]
+        },
+        {
             "Message ID": 2505,
             "Date": "2024-08-19",
             "Content": "⚠️Fish Market has Introduced Phase 4 Upgrades and New Features\n\nhttps://darkwebinformer.com/fish-market-has-introduced-phase-4-upgrades-and-new-features/",
@@ -6141,6 +6153,16 @@
         }
     ],
     "RipperSec": [
+        {
+            "Message ID": 4663,
+            "Date": "2024-08-19",
+            "Content": "🤣🤣🤣 Lets join our backup channel @RipperSecIO before this channel got banned",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
         {
             "Message ID": 4660,
             "Date": "2024-08-19",
