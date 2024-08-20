@@ -4831,6 +4831,28 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2533,
+            "Date": "2024-08-20",
+            "Content": "Poll",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2532,
+            "Date": "2024-08-20",
+            "Content": "https://x.com/DarkWebInformer/status/1825936416532304025",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1825936416532304025"
+            ]
+        },
+        {
             "Message ID": 2531,
             "Date": "2024-08-20",
             "Content": "🚨A Threat Actor has Allegedly Leaked Indonesian Ministry of Transportation Full Employees Database\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-indonesian-ministry-of-transportation-full-employees-database/",
