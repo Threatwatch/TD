@@ -4831,6 +4831,18 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2539,
+            "Date": "2024-08-20",
+            "Content": "💡Autopsy: A Digital Forensics Platform and Graphical Interface to The Sleuth Kit and Other Digital Forensics Tools\n\nhttps://darkwebinformer.com/autopsy-a-digital-forensics-platform-and-graphical-interface-to-the-sleuth-kit-and-other-digital-forensics-tools/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/autopsy-a-digital-forensics-platform-and-graphical-interface-to-the-sleuth-kit-and-other-digital-forensics-tools/"
+            ]
+        },
+        {
             "Message ID": 2538,
             "Date": "2024-08-20",
             "Content": "💡MyIP - A Better IP Toolbox\n\nhttps://darkwebinformer.com/myip-a-better-ip-toolbox/",
@@ -6522,6 +6534,16 @@
         }
     ],
     "RipperSec": [
+        {
+            "Message ID": 4669,
+            "Date": "2024-08-20",
+            "Content": "If this channel reach 5K Subscribers. We will release MegaMedusaV3.2",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
         {
             "Message ID": 4668,
             "Date": "2024-08-20",
