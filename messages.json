@@ -4831,6 +4831,601 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2540,
+            "Date": "2024-08-20",
+            "Content": "📰Microchip Technology Incorporated has Filed Form 8-K Due to a Cybersecurity Incident\n\nhttps://darkwebinformer.com/microchip-technology-incorporated-has-filed-form-8-k-due-to-a-cybersecurity-incident/\n\nFiling: https://www.sec.gov/Archives/edgar/data/827054/000082705424000153/mchp-20240820.htm\n\nOn August 17, 2024, Microchip Technology Incorporated (the \"Company\") detected potentially suspicious activity involving its information technology (\"IT\") systems. Upon detecting the issue, the Company began taking steps to assess, contain and remediate the potentially unauthorized activity. On August 19, 2024, the Company determined that an unauthorized party disrupted the Company’s use of certain servers and some business operations. The Company promptly took additional steps to address the incident, including isolating the affected systems, shutting down certain systems, and launching an investigation with the assistance of external cybersecurity advisors.\n\nAs a result of the incident, certain of the Company’s manufacturing facilities are operating at less than normal levels, and the Company’s ability to fulfill orders is currently impacted. The Company is working diligently to bring the affected portions of its IT systems back online, restore normal business operations and mitigate the impact of the incident.\n\nAs the Company’s investigation is ongoing, the full scope, nature and impact of the incident are not yet known. As of the date of this filing, the Company has not yet determined whether the incident is reasonably likely to materially impact the Company’s financial condition or results of operations.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/microchip-technology-incorporated-has-filed-form-8-k-due-to-a-cybersecurity-incident/\n",
+                "ttps://www.sec.gov/Archives/edgar/data/827054/000082705424000153/mchp-20240820.htm\n"
+            ]
+        },
+        {
+            "Message ID": 2539,
+            "Date": "2024-08-20",
+            "Content": "💡Autopsy: A Digital Forensics Platform and Graphical Interface to The Sleuth Kit and Other Digital Forensics Tools\n\nhttps://darkwebinformer.com/autopsy-a-digital-forensics-platform-and-graphical-interface-to-the-sleuth-kit-and-other-digital-forensics-tools/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/autopsy-a-digital-forensics-platform-and-graphical-interface-to-the-sleuth-kit-and-other-digital-forensics-tools/"
+            ]
+        },
+        {
+            "Message ID": 2538,
+            "Date": "2024-08-20",
+            "Content": "💡MyIP - A Better IP Toolbox\n\nhttps://darkwebinformer.com/myip-a-better-ip-toolbox/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/myip-a-better-ip-toolbox/"
+            ]
+        },
+        {
+            "Message ID": 2537,
+            "Date": "2024-08-20",
+            "Content": "💡Bulk Scanning and Exploitation Tool for CVE-2024-7928 FastAdmin Instances\n\nhttps://darkwebinformer.com/bulk-scanning-and-exploitation-tool-for-cve-2024-7928-fastadmin-instances/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/bulk-scanning-and-exploitation-tool-for-cve-2024-7928-fastadmin-instances/"
+            ]
+        },
+        {
+            "Message ID": 2536,
+            "Date": "2024-08-20",
+            "Content": "🚨EnergyWeaponUser and IntelBroker are Allegedly Selling Data Belonging to Toaping\n\nhttps://darkwebinformer.com/energyweaponuser-and-intelbroker-are-allegedly-selling-data-belonging-to-toaping/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/energyweaponuser-and-intelbroker-are-allegedly-selling-data-belonging-to-toaping/"
+            ]
+        },
+        {
+            "Message ID": 2535,
+            "Date": "2024-08-20",
+            "Content": "🚨A Threat Actor has Allegedly Leaked the LAPOR! Database\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-lapor-database/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-lapor-database/"
+            ]
+        },
+        {
+            "Message ID": 2534,
+            "Date": "2024-08-20",
+            "Content": "💡Can't say this enough.. if you care about your money.. you need to be 100% sure what you are using is NOT a scam.\n\nThe recommend site in the first comment has been in the subscribers area on my platform since the category was provided.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2533,
+            "Date": "2024-08-20",
+            "Content": "Poll",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2532,
+            "Date": "2024-08-20",
+            "Content": "https://x.com/DarkWebInformer/status/1825936416532304025",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1825936416532304025"
+            ]
+        },
+        {
+            "Message ID": 2531,
+            "Date": "2024-08-20",
+            "Content": "🚨A Threat Actor has Allegedly Leaked Indonesian Ministry of Transportation Full Employees Database\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-indonesian-ministry-of-transportation-full-employees-database/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-indonesian-ministry-of-transportation-full-employees-database/"
+            ]
+        },
+        {
+            "Message ID": 2530,
+            "Date": "2024-08-20",
+            "Content": "🚨SN_BLACKMETA Has Targeted the Website of The Saudi Arab National Bank\n\nhttps://darkwebinformer.com/sn_blackmeta-has-targeted-the-website-of-the-saudi-arab-national-bank/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/sn_blackmeta-has-targeted-the-website-of-the-saudi-arab-national-bank/"
+            ]
+        },
+        {
+            "Message ID": 2529,
+            "Date": "2024-08-20",
+            "Content": "💡Criminal IP: A Cybersecurity Platform that Provides Real-Time Threat Intelligence and Detailed Analysis\n\nhttps://darkwebinformer.com/criminal-ip-a-cybersecurity-platform-that-provides-real-time-threat-intelligence-and-detailed-analysis/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/criminal-ip-a-cybersecurity-platform-that-provides-real-time-threat-intelligence-and-detailed-analysis/"
+            ]
+        },
+        {
+            "Message ID": 2528,
+            "Date": "2024-08-20",
+            "Content": "🚨A Threat Actor Allegedly is Selling Access to an Unknown Indian Organization\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-access-to-an-unknown-indian-organization/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-access-to-an-unknown-indian-organization/"
+            ]
+        },
+        {
+            "Message ID": 2527,
+            "Date": "2024-08-20",
+            "Content": "🚨A Threat Actor is Allegedly Selling Data to Pu3 Restaurant\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-to-pu3-restaurant/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-to-pu3-restaurant/"
+            ]
+        },
+        {
+            "Message ID": 2526,
+            "Date": "2024-08-20",
+            "Content": "🚨A Threat Actor is Allegedly Selling RDP Access to an Unknown USA Company\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-access-to-an-unknown-usa-company-2/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-access-to-an-unknown-usa-company-2/"
+            ]
+        },
+        {
+            "Message ID": 2525,
+            "Date": "2024-08-20",
+            "Content": "🚨Chucky has Allegedly Leaked the Database of Olifel Visualgest\n\nhttps://darkwebinformer.com/chucky-has-allegedly-leaked-the-database-of-olifel-visualgest/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Chucky",
+                "the Database of Olifel Visualgest"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/chucky-has-allegedly-leaked-the-database-of-olifel-visualgest/"
+            ]
+        },
+        {
+            "Message ID": 2524,
+            "Date": "2024-08-20",
+            "Content": "🚨A Threat Actor has Allegedly Leaked a Database to Siam Cement Group (SCG)\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-a-database-to-siam-cement-group-scg/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-a-database-to-siam-cement-group-scg/"
+            ]
+        },
+        {
+            "Message ID": 2523,
+            "Date": "2024-08-20",
+            "Content": "🚨UNVERIFIED🚨\n\n🚨A Threat Actor is Allegedly Selling 1 Million USA Company Records with Social Security Numbers and Dates of Birth\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-1-million-usa-company-records-with-social-security-numbers-and-dates-of-birth/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-1-million-usa-company-records-with-social-security-numbers-and-dates-of-birth/"
+            ]
+        },
+        {
+            "Message ID": 2522,
+            "Date": "2024-08-20",
+            "Content": "🚨UNVERIFIED🚨\n\n🚨A Threat Actor is Allegedly Selling an Exclusive Dataset of 50K USA Social Security Numbers Including Other Highly Sensitive Information\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-an-exclusive-dataset-of-50k-usa-social-security-numbers-including-other-highly-sensitive-information/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-an-exclusive-dataset-of-50k-usa-social-security-numbers-including-other-highly-sensitive-information/"
+            ]
+        },
+        {
+            "Message ID": 2521,
+            "Date": "2024-08-19",
+            "Content": "💡Daily Dose of Dark Web Informer - August 19th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-august-19th-2024-copy/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-august-19th-2024-copy/"
+            ]
+        },
+        {
+            "Message ID": 2520,
+            "Date": "2024-08-19",
+            "Content": "OK I see now.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2519,
+            "Date": "2024-08-19",
+            "Content": "There are reports on Dread that Abacus is down and not working, with no further updates. Maybe at the time it was down, but I can get past the captcha and see the login screen.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Abacus"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2518,
+            "Date": "2024-08-19",
+            "Content": "nsfw",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2517,
+            "Date": "2024-08-19",
+            "Content": "lol wtf\n\nhttps://x.com/PicturesFoIder/status/1825505247806013857/photo/1",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/PicturesFoIder/status/1825505247806013857/photo/1"
+            ]
+        },
+        {
+            "Message ID": 2516,
+            "Date": "2024-08-19",
+            "Content": "🚨Anonymous Guys Targeted the Website of Air Ocean Airlines\n\nhttps://darkwebinformer.com/anonymous-guys-targeted-the-website-of-air-ocean-airlines/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/anonymous-guys-targeted-the-website-of-air-ocean-airlines/"
+            ]
+        },
+        {
+            "Message ID": 2515,
+            "Date": "2024-08-19",
+            "Content": "🚨Rhysida Ransomware Claims Waynesboro Nurseries\n\nhttps://darkwebinformer.com/rhysida-ransomware-claims-waynesboro-nurseries/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Rhysida"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/rhysida-ransomware-claims-waynesboro-nurseries/"
+            ]
+        },
+        {
+            "Message ID": 2514,
+            "Date": "2024-08-19",
+            "Content": "🚨🚨A Threat Actor is Allegedly Selling USA Bank Accounts\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-usa-bank-accounts/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-usa-bank-accounts/"
+            ]
+        },
+        {
+            "Message ID": 2513,
+            "Date": "2024-08-19",
+            "Content": "🚨🚨A Threat Actor is Allegedly Selling 7200 Credit Cards From South America\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-7200-credit-cards-from-south-america/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-7200-credit-cards-from-south-america/"
+            ]
+        },
+        {
+            "Message ID": 2512,
+            "Date": "2024-08-19",
+            "Content": "And back. I will catch up with the posts. Reminder: Paid subscribers for their respective tier now get direct links to forum posts, ransomware posts, etc within the designated post.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2511,
+            "Date": "2024-08-19",
+            "Content": "I ran into a hardware issue on my personal infra. I will be back shortly.\n\nThis is a good reminder to always keep a recent backup. 😀",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2510,
+            "Date": "2024-08-19",
+            "Content": "🚨HackNeT Targeted the Website of Kyiv City Blood Center\n\nhttps://darkwebinformer.com/hacknet-targeted-the-website-of-kyiv-city-blood-center/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/hacknet-targeted-the-website-of-kyiv-city-blood-center/"
+            ]
+        },
+        {
+            "Message ID": 2509,
+            "Date": "2024-08-19",
+            "Content": "💡Snoop Project: One of the Most Promising Tools for Finding Nicknames\n\nhttps://darkwebinformer.com/snoop-project-one-of-the-most-promising-tools-for-finding-nicknames-2/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/snoop-project-one-of-the-most-promising-tools-for-finding-nicknames-2/"
+            ]
+        },
+        {
+            "Message ID": 2508,
+            "Date": "2024-08-19",
+            "Content": "🚨Charleston County School District Has Been Named a Victim by RansomHub\n\nhttps://darkwebinformer.com/charleston-county-school-district-has-been-named-a-victim-by-ransomhub/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/charleston-county-school-district-has-been-named-a-victim-by-ransomhub/"
+            ]
+        },
+        {
+            "Message ID": 2507,
+            "Date": "2024-08-19",
+            "Content": "💡Daily Dose of Dread\n\nThe comments on this are gold. http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad[.]onion/post/23ec1cbe8d3a1b1b610f",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2506,
+            "Date": "2024-08-19",
+            "Content": "🚨EXECUTOR DDOS Has Targeted The Website of Netflix\n\nhttps://darkwebinformer.com/executor-ddos-has-targeted-the-website-of-netflix/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Netflix"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/executor-ddos-has-targeted-the-website-of-netflix/"
+            ]
+        },
+        {
+            "Message ID": 2505,
+            "Date": "2024-08-19",
+            "Content": "⚠️Fish Market has Introduced Phase 4 Upgrades and New Features\n\nhttps://darkwebinformer.com/fish-market-has-introduced-phase-4-upgrades-and-new-features/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkwebinformer.com/fish-market-has-introduced-phase-4-upgrades-and-new-features/"
+            ]
+        },
+        {
+            "Message ID": 2504,
+            "Date": "2024-08-19",
+            "Content": "⚠️Dark Matter Market has Suspended the Following Vendor accounts\n\nhttps://darkwebinformer.com/dark-matter-market-has-suspended-the-following-vendor-accounts/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkwebinformer.com/dark-matter-market-has-suspended-the-following-vendor-accounts/"
+            ]
+        },
+        {
+            "Message ID": 2503,
+            "Date": "2024-08-19",
+            "Content": "💡Name Chk: Check over 30 Domains and More than 90 Social Media Account Platforms\n\nhttps://darkwebinformer.com/name-chk-check-over-30-domains-and-more-than-90-social-media-account-platforms/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/name-chk-check-over-30-domains-and-more-than-90-social-media-account-platforms/"
+            ]
+        },
+        {
+            "Message ID": 2502,
+            "Date": "2024-08-19",
+            "Content": "🚨A Threat Actor is Allegedly Selling RDweb Access to an Unidentified USA and Canada Organization\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdweb-access-to-an-unidentified-usa-and-canada-organization/\n\nPaid subscribers now get access to forum posts!",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdweb-access-to-an-unidentified-usa-and-canada-organization/\n"
+            ]
+        },
+        {
+            "Message ID": 2501,
+            "Date": "2024-08-19",
+            "Content": "🚨A Threat Actor is Allegedly Selling Data Belonging to Doorman Registro de Visitantes\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-belonging-to-doorman-registro-de-visitantes/\n\nPaid Subscribers now get access to the forum link",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-belonging-to-doorman-registro-de-visitantes/\n"
+            ]
+        },
+        {
+            "Message ID": 2500,
+            "Date": "2024-08-19",
+            "Content": "🚨Chucky has Allegedly Leaked the Database Belonging to FlyTrendy\n\nhttps://darkwebinformer.com/chucky-has-allegedly-leaked-the-database-belonging-to-flytrendy/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Chucky"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/chucky-has-allegedly-leaked-the-database-belonging-to-flytrendy/"
+            ]
+        },
+        {
+            "Message ID": 2499,
+            "Date": "2024-08-19",
+            "Content": "🚨A Threat Actor is Allegedly Selling RDweb Access to an Unknown Australian Organization\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdweb-access-to-an-unknown-australian-organization/\n\nPaid Subscribers now get access to the direct post!",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdweb-access-to-an-unknown-australian-organization/\n"
+            ]
+        },
+        {
+            "Message ID": 2498,
+            "Date": "2024-08-19",
+            "Content": "🚨A Threat Actor is Allegedly Selling Data Belonging to Xpark\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-belonging-to-xpark/\n\nNote: Subscribers now get access to the post link.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Xpark"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-belonging-to-xpark/\n"
+            ]
+        },
+        {
+            "Message ID": 2497,
+            "Date": "2024-08-19",
+            "Content": "🚨A Threat Actor is Allegedly Selling Data Belonging to Bar2 UK\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-belonging-to-bar2-uk/\n\nNOTE: Subscribers now get access to the direct post",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-belonging-to-bar2-uk/\n"
+            ]
+        },
+        {
+            "Message ID": 2496,
+            "Date": "2024-08-19",
+            "Content": "🚨A Threat Actor is Allegedly Selling the Database to Carehands\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-to-carehands/\n\nNOTE: Subscribers now get access to the post link.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-to-carehands/\n"
+            ]
+        },
+        {
+            "Message ID": 2495,
+            "Date": "2024-08-19",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2493,
+            "Date": "2024-08-18",
+            "Content": "💡Daily Dose of Dark Web Informer - August 18th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-august-18th-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-august-18th-2024/"
+            ]
+        },
+        {
+            "Message ID": 2492,
+            "Date": "2024-08-18",
+            "Content": "💡LeakCheck - A Tool Designed to Help You Monitor and Protect Your Data from Being Exposed in Leaks or Breaches\n\nhttps://darkwebinformer.com/leakcheck-a-tool-designed-to-help-you-monitor-and-protect-your-data-from-being-exposed-in-leaks-or-breaches/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Leaks"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/leakcheck-a-tool-designed-to-help-you-monitor-and-protect-your-data-from-being-exposed-in-leaks-or-breaches/"
+            ]
+        },
+        {
+            "Message ID": 2491,
+            "Date": "2024-08-18",
+            "Content": "/Thread-SELLING-Ministry-Of-Security-Gov-Mail-With-Law-Enforcement-Access-And-CrowdStrike-And-Other\n\nOur good friends in the picture, lol.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2490,
+            "Date": "2024-08-18",
+            "Content": "🚨Anonymous Guys has Targeted the Website of Pakistan Ministry of Foreign Affairs\n\nhttps://darkwebinformer.com/anonymous-guys-has-targeted-the-website-of-pakistan-ministry-of-foreign-affairs/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/anonymous-guys-has-targeted-the-website-of-pakistan-ministry-of-foreign-affairs/"
+            ]
+        },
+        {
+            "Message ID": 2489,
+            "Date": "2024-08-18",
+            "Content": "💡Snov.io - Find email addresses on any website\n\nhttps://darkwebinformer.com/snov-io-find-email-addresses-on-any-website/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "💡Snov.io ",
+                "ttps://darkwebinformer.com/snov-io-find-email-addresses-on-any-website/"
+            ]
+        },
+        {
             "Message ID": 2488,
             "Date": "2024-08-18",
             "Content": "",
@@ -5952,6 +6547,347 @@
         }
     ],
     "RipperSec": [
+        {
+            "Message ID": 4669,
+            "Date": "2024-08-20",
+            "Content": "If this channel reach 5K Subscribers. We will release MegaMedusaV3.2",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4668,
+            "Date": "2024-08-20",
+            "Content": "We make RipperSec song. It’s about RipperSec fight for Palestine.\n\nPlease like/react and share if you like this song. 😄",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Palestine"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4667,
+            "Date": "2024-08-20",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4666,
+            "Date": "2024-08-20",
+            "Content": "We see many news say we are from Malaysia? It's an old story. Our Ex Leader is Malaysian but he already passed away and that does not mean RipperSec brings Malaysia's name. Now RipperSec is totally handled by the members from many countries aka international. We use the Malay language because our new Leader are Singaporean and in Singapore it has 2 national languages (Malay & English)\n\nDon't make stupid statements that you don't know.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Malaysia",
+                "Malaysia",
+                "Singapore"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4665,
+            "Date": "2024-08-20",
+            "Content": "We are so tired of this cyberwar. We're gonna take some rest for 1 week to restore our power and fix our mental health. Thank you.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4664,
+            "Date": "2024-08-20",
+            "Content": "قامت مجموعة RipperSec باختراق مواقع شركات كورية وسربت قواعد بياناتها وذلك كتأييد ودعم لفلسطين ، الحملة التي تشنها مجموعة القرصنة تأتي بسبب التعاون بين كوريا الحنوبية والكيان الصہيوني.\n\nوقامت RipperSec كذلك بتسريب قاعدة بيانات تخص شركة Sony العالمية ، كما هاجمت البوابة الرسمية للحكومة الأمريكية للمعلومات والخدمات والموارد للمواطنين ، وسربت بيانات تخص 106 مواطن أمريكي.\n\nالبيانات تضم  الاسم ، البريد الإلكتروني ، رقم الهاتف ، العنوان و المدينة ، الولاية ، الرمز البريدي ، الجنس وتاريخ الميلاد.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "لفلسطين"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4663,
+            "Date": "2024-08-19",
+            "Content": "🤣🤣🤣 Lets join our backup channel @RipperSecIO before this channel got banned",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4660,
+            "Date": "2024-08-19",
+            "Content": "⚡️Leaked By RipperSec ⚡️",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4659,
+            "Date": "2024-08-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4658,
+            "Date": "2024-08-19",
+            "Content": "Official U.S. Government Portal For Information, Services, And Citizen Resources, Database Leaked By RipperSec 🇺🇸 ⚡️\n\n-> Website 🌍⚡️ : \nhttps://USA.gov\n\n-> Data Details 💽 :\n106K Us Citizen Data\n- Name, Email, Phone Number, Address, City, State, Zip, Gender & DOB\n\n-> Our Message ⚠️ :  \n🇵🇸 Open Your Eyes!! This is Genocide not Self Defense 🇵🇸  #FreePalestine #ForJustice #ForHumanity\n\n📌 𝐎𝐮𝐫 𝐂𝐨𝐦𝐫𝐚𝐝𝐞𝐬 𝐈𝐧 𝐀𝐫𝐦𝐬 📌 \n\n#RipperSec #StucxTeam     \n#4-Exploitation #SylhetGang\n#NetGhostSec #CyberFattah\n#HacktivistSulawesi \n#SilentCyberForce \n#HelangMerahGroup \n#NoName057(16) \n#EagleCyberCrew #AlAhad\n#Z-BL4CK-H4T #WebSec #AhadunAhad #1722Team\n#KhalifahCyberCrew \n#SedihCrew #SKILLNET\n#LaskarPembebasanPalestina  #Zenimous #RADNET64\n#GarudaFromCyber #HolyLeague  #JatimRedStormXploit\n#MorrocanCyberBlackArmy \n#RussianCyberArmyTeam \n#SilentEnemyCrew #KhalifahHackers\n#AnonymousBD #TengkorakCyberCrew\n\nFollow Us ➡️ @RipperSec | @RipperSecGroup",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Us"
+            ],
+            "URLs": [
+                "ps://USA.gov\n\n-"
+            ]
+        },
+        {
+            "Message ID": 4657,
+            "Date": "2024-08-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4656,
+            "Date": "2024-08-19",
+            "Content": "Next usa.gov?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "usa.gov"
+            ]
+        },
+        {
+            "Message ID": 4655,
+            "Date": "2024-08-19",
+            "Content": "More big company gonna be leaked by us. Stay tuned 😆",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4653,
+            "Date": "2024-08-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4652,
+            "Date": "2024-08-19",
+            "Content": "Sony Leak (Torrent File) By RipperSec\n\n-> Website 🌍⚡️ : \nhttps://sony.com \n\n-> 𝐎𝐮𝐫 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 :  \n🇵🇸 Open Your Eyes!! This is Genocide not Self Defense 🇵🇸  #FreePalestine #SavePalestine #AllEyesOnRafah\n\n📌 𝐎𝐮𝐫 𝐂𝐨𝐦𝐫𝐚𝐝𝐞𝐬 𝐈𝐧 𝐀𝐫𝐦𝐬 📌 \n\n#RipperSec #StucxTeam     \n#4-Exploitation #SylhetGang\n#NetGhostSec #CyberFattah\n#HacktivistSulawesi \n#SilentCyberForce \n#HelangMerahGroup \n#NoName057(16) \n#EagleCyberCrew #AlAhad\n#Z-BL4CK-H4T #WebSec #AhadunAhad #1722Team\n#KhalifahCyberCrew \n#SedihCrew #SKILLNET\n#LaskarPembebasanPalestina  #Zenimous #RADNET64\n#GarudaFromCyber #HolyLeague  #JatimRedStormXploit\n#MorrocanCyberBlackArmy \n#RussianCyberArmyTeam \n#SilentEnemyCrew #KhalifahHackers\n#AnonymousBD #TengkorakCyberCrew\n\nFollow Us ➡️ @RipperSec | @RipperSecGroup",
+            "Attack Type": "Hacking",
+            "Location": [
+                "LaskarPembebasanPalestina"
+            ],
+            "URLs": [
+                "ttps://sony.com "
+            ]
+        },
+        {
+            "Message ID": 4651,
+            "Date": "2024-08-19",
+            "Content": "Update Down POC // 6:52PM (SG)\n\nNB: Our botnet will restart attack every 2 minutes, so if you see the site online. just refresh and the site will be down again.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4650,
+            "Date": "2024-08-19",
+            "Content": "Sony database look tasty 😋",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4649,
+            "Date": "2024-08-19",
+            "Content": "Hold Durations : 10K Seconds 🕥",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4648,
+            "Date": "2024-08-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4647,
+            "Date": "2024-08-19",
+            "Content": "Sweden: Resurs Bank Website Down By RipperSec ⚡️🇸🇪\n\n-> Target :\nhttps://www.resursbank.se/\nAttack Started at 5:55PM (SG)\n\n-> Our Message :  \nOpen Your Eyes, This is Genocide not Self Defense 🇵🇸  #FreePalestine\n\n-> POC // Report : \nhttps://check-host.net/check-report/1d5120eak301 (http)\nhttps://check-host.cc/report/va3r4tPnvCRPV2CqrqvQkQ (http)\nhttps://check-host.net/check-report/1d51283ak138 (ping)\nhttps://www.host-tracker.com/en/ic/3/30c27a5a-f96f-4c66-80ae-c75585d8fc8c\n\n📌 𝐎𝐮𝐫 𝐂𝐨𝐦𝐫𝐚𝐝𝐞𝐬 𝐈𝐧 𝐀𝐫𝐦𝐬 📌 \n#StucxTeam #4-Exploitation #SylhetGang #NetGhostSec #CyberFattah\n#HacktivistSulawesi \n#TengkorakCyberCrew \n#SilentCyberForce #RADNET64\n#HelangMerahGroup \n#NoName057(16) #AlAhad\n#EagleCyberCrew \n#Z-BL4CK-H4T #WebSec #AhadunAhad #1722Team\n#KhalifahCyberCrew \n#SedihCrew #SKILLNET\n#LaskarPembebasanPalestina #Zenimous #GarudaFromCyber #HolyLeague #JatimRedStormXploit\n#MorrocanCyberBlackArmy \n#RussianCyberArmyTeam \n#SilentEnemyCrew #KhilafahHackers #AnonymousBD \n\nFollow ➡️ @RipperSec | @RipperSecGroup",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Sweden",
+                "JatimRedStormXploit"
+            ],
+            "URLs": [
+                "tps://www.resursbank.se/\nA",
+                "s://check-host.net/check-report/1d5120eak301 (ht",
+                "s://check-host.cc/report/va3r4tPnvCRPV2CqrqvQkQ (ht",
+                "s://check-host.net/check-report/1d51283ak138 (pi",
+                "s://www.host-tracker.com/en/ic/3/30c27a5a-f96f-4c66-80ae-c75585d8fc8c\n\n📌 "
+            ]
+        },
+        {
+            "Message ID": 4646,
+            "Date": "2024-08-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4645,
+            "Date": "2024-08-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4644,
+            "Date": "2024-08-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4643,
+            "Date": "2024-08-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4642,
+            "Date": "2024-08-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4641,
+            "Date": "2024-08-19",
+            "Content": "Good Job Guys!\n\n🚀Target DOWN 🏴‍☠️\n\nhttps://check-host.net/check-report/1d50b883k431",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://check-host.net/check-report/1d50b883k431"
+            ]
+        },
+        {
+            "Message ID": 4640,
+            "Date": "2024-08-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4639,
+            "Date": "2024-08-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4638,
+            "Date": "2024-08-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4637,
+            "Date": "2024-08-19",
+            "Content": "🏴 Bismillahirrahmanirrahim, In The Name of Allah 🏴⚡️\n\nDDOS TIME 🌎0️⃣4️⃣:0⃣0️⃣pm (SG) \nDATE  📅 :19.August.2024\n\nTarget : https://chordtabs.in.th/\nIP address 27.254.81.19\nHost name :  server.chordtabs.in.th\nISP : CS Loxinfo Public Company Limited\nPorts: 21 | 22 | 25 | 53 | 80 | 110 | 111 | 443 | 465 | 587 | 993 | 995 | 2222 | 3306 |\nHTTP status: 200 |\n\n⚠️ 𝐎𝐮𝐫 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 ⚠️ \n-> Patani Will Be Independent\n#FreePatani #OpsPutus #StandWithPatani\n\n﻿📌 𝐎𝐮𝐫 𝐂𝐨𝐦𝐫𝐚𝐝𝐞𝐬 𝐈𝐧 𝐀𝐫𝐦𝐬 📌 \n#RipperSec #StucxTeam     \n#4-Exploitation #SylhetGang\n#NetGhostSec #CyberFattah\n#HacktivistSulawesi \n#SilentCyberForce \n#HelangMerahGroup \n#NoName057(16) \n#EagleCyberCrew #AlAhad\n#Z-BL4CK-H4T #WebSec #AhadunAhad #1722Team\n#KhalifahCyberCrew \n#SedihCrew #SKILLNET\n#LaskarPembebasanPalestina  #Zenimous #RADNET64\n#GarudaFromCyber #HolyLeague  #JatimRedStormXploit\n#MorrocanCyberBlackArmy \n#RussianCyberArmyTeam \n#SilentEnemyCrew #KhalifahHackers\n#TengkorakCyberCrew\n#AnonymousBD\nFollow Us ➡️ @RipperSec | @RipperSecGroup",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://chordtabs.in.th/\nIP ",
+                "54.81.19\nHos",
+                "er.chordtabs.in.th\nISP"
+            ]
+        },
+        {
+            "Message ID": 4636,
+            "Date": "2024-08-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4635,
+            "Date": "2024-08-18",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
         {
             "Message ID": 4634,
             "Date": "2024-08-18",
