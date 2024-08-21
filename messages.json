@@ -4831,6 +4831,26 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2570,
+            "Date": "2024-08-21",
+            "Content": "🤔",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2569,
+            "Date": "2024-08-21",
+            "Content": "Every time I come back to this window, I feel like the eyes have changed. 🤔",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
             "Message ID": 2568,
             "Date": "2024-08-21",
             "Content": "💡GC2: A Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet or Microsoft SharePoint List and exfiltrate files using Google Drive or Microsoft SharePoint Document\n\nhttps://darkwebinformer.com/gc2-a-command-and-control-application-that-allows-an-attacker-to-execute-commands-on-the-target-machine-using-google-sheet-or-microsoft-sharepoint-list-and-exfiltrate-files-using-google/",
