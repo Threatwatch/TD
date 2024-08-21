@@ -4831,6 +4831,30 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2555,
+            "Date": "2024-08-21",
+            "Content": "🚨🚨🚨ZeroSevenGroup is Allegedly Selling Access to 80TB of Data for Israeli Infrastructure\n\nhttps://darkwebinformer.com/zerosevengroup-is-allegedly-selling-access-to-80tb-of-data-for-israeli-infrastructure/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/zerosevengroup-is-allegedly-selling-access-to-80tb-of-data-for-israeli-infrastructure/"
+            ]
+        },
+        {
+            "Message ID": 2554,
+            "Date": "2024-08-21",
+            "Content": "https://t.me/investigations/151",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/investigations/151"
+            ]
+        },
+        {
             "Message ID": 2553,
             "Date": "2024-08-21",
             "Content": "💡WPScan: A WordPress Security Scanner\n\nhttps://darkwebinformer.com/wpscan-a-wordpress-security-scanner/",
