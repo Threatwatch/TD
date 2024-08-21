@@ -4831,6 +4831,16 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2567,
+            "Date": "2024-08-21",
+            "Content": "I don't know why he's angry :/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
             "Message ID": 2566,
             "Date": "2024-08-21",
             "Content": "💡Crawlee: A web scraping and browser automation library\n\nhttps://darkwebinformer.com/crawlee-a-web-scraping-and-browser-automation-library1/",
