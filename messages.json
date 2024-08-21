@@ -4831,6 +4831,18 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2553,
+            "Date": "2024-08-21",
+            "Content": "💡WPScan: A WordPress Security Scanner\n\nhttps://darkwebinformer.com/wpscan-a-wordpress-security-scanner/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/wpscan-a-wordpress-security-scanner/"
+            ]
+        },
+        {
             "Message ID": 2552,
             "Date": "2024-08-21",
             "Content": "💡BruteX: Automatically Brute Force all Services Running on a Target\n\nhttps://darkwebinformer.com/brutex-automatically-brute-force-all-services-running-on-a-target/",
