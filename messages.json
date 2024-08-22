@@ -4831,6 +4831,19 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2585,
+            "Date": "2024-08-22",
+            "Content": "🚨A Threat Actor is Allegedly Selling 30k UK Forex Recovery Leads\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-30k-uk-forex-recovery-leads/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Allegedly",
+                "UK"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-30k-uk-forex-recovery-leads/"
+            ]
+        },
+        {
             "Message ID": 2584,
             "Date": "2024-08-22",
             "Content": "Step 3 (Removing Exif/Metadata)\n\nThere's many apps and websites that remove your exif/metadata. they are good yeah but…. You should NEVER use a service or website to remove the exif/metadata for you! Don't do it. just think of it in this way: You're literally giving them with the picture your exif/metadata. No one knows who's really operating these services. (healthy paranoia)\nSo we gonna do it manually which is so easy to do\n\nTails\nTails provides a very handy tool to remove EXIF data, right click on the image file you wish to remove it from and then remove metadata.\nTails already comes with MAT2 (Metadata Anonymization Toolkit v2).\nMAT2 removes all exif or metadata from files leaving them empty, nothing to see. and it works for files too not just pictures such as (.docx, .pptx, .xlsx .torrent .flac .mp3 etc..) by simply right clicking your file and then hitting \"remove metadata\".\n\nWindows (Which you shouldn't use for DN activity)\n\nThis time am gonna spare you the lecture of you should not use Windows, and since you made it this far on DN and looking for how to remove your exif/metadata this is the easy steps on Windows as following\n1.Right-click on the picture and choose “Properties.”\nhttp://2.Click the “Details” tab. At the bottom of the “Details” tab, you'll see a blue link titled “Remove Properties and Personal Information.”\n3.On the Remove Properties section, select the Remove the following properties from this file option.\nhttp://4.Click the Select All to remove all potential properties.\n\nLinux\n\nThe metadata can be seen in Linux with many apps. Depending on your software set, there is a great chance that you have an app which can display it. For example, Ristretto and Thunar can show this info in image properties.\n\n1.For your convenience, place all image you want to process to the single folder.\n2.Navigate to that folder.\nhttp://3.Open a new terminal and run the following command:\nmogrify -strip your_filename.jpg\n\nThis will remove the meta data from a single specific picture.\n\nhttp://4.To process all files at once, execute the command\n\nmogrify -strip ./*.jpg\n\nAnd now you're good to go. take a look at Images Upload Sites⚠️ post if you still looking for onions sites to upload your pictures.",
