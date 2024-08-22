@@ -4831,6 +4831,19 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2593,
+            "Date": "2024-08-22",
+            "Content": "💡June 2022 - Cl0p Ransomware Gang Targeted in Ukrainian Police Raids\n\nhttps://darkwebinformer.com/june-2022-cl0p-ransomware-gang-targeted-in-ukrainian-police-raids/\n\nhttps://github.com/DarkWebInformer/OperationArchive",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Ukrainian"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/june-2022-cl0p-ransomware-gang-targeted-in-ukrainian-police-raids/\n",
+                "ttps://github.com/DarkWebInformer/OperationArchive"
+            ]
+        },
+        {
             "Message ID": 2592,
             "Date": "2024-08-22",
             "Content": "💡Exploring HTTrack: A Simple Tool for Website Mirroring and Offline Browsing\n\nhttps://darkwebinformer.com/exploring-httrack-a-simple-tool-for-website-mirroring-and-offline-browsing/",
