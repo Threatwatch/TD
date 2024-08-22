@@ -4831,6 +4831,18 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2591,
+            "Date": "2024-08-22",
+            "Content": "🚨EvilWeb Targeted the Website of Vodafone Ukraine\n\nhttps://darkwebinformer.com/evilweb-targeted-the-website-of-vodafone-ukraine/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Vodafone Ukraine"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/evilweb-targeted-the-website-of-vodafone-ukraine/"
+            ]
+        },
+        {
             "Message ID": 2590,
             "Date": "2024-08-22",
             "Content": "Poll https://x.com/DarkWebInformer/status/1826672856283185380",
