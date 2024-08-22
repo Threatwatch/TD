@@ -4831,6 +4831,36 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2605,
+            "Date": "2024-08-22",
+            "Content": "Just maintenance",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2604,
+            "Date": "2024-08-22",
+            "Content": "DNS looks fine for now.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2603,
+            "Date": "2024-08-22",
+            "Content": "BF down on both clearnet and onion?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
             "Message ID": 2602,
             "Date": "2024-08-22",
             "Content": "hmm",
