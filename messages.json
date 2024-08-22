@@ -4831,6 +4831,18 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2590,
+            "Date": "2024-08-22",
+            "Content": "Poll https://x.com/DarkWebInformer/status/1826672856283185380",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1826672856283185380"
+            ]
+        },
+        {
             "Message ID": 2589,
             "Date": "2024-08-22",
             "Content": "🚨A Threat Actor is Allegedly Selling Access to Wowo Agricultural Trade\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-wowo-agricultural-trade/",
