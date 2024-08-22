@@ -4831,6 +4831,18 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2599,
+            "Date": "2024-08-22",
+            "Content": "🚨A Threat Actor is Allegedly Selling a Gambling Database\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-a-gambling-database/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Gambling Database"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-a-gambling-database/"
+            ]
+        },
+        {
             "Message ID": 2598,
             "Date": "2024-08-22",
             "Content": "Sorry, the GitHub folder structure looks like ass right now.. will fix hopefully over the weekend",
