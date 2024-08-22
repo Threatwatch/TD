@@ -4831,6 +4831,66 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2584,
+            "Date": "2024-08-22",
+            "Content": "Step 3 (Removing Exif/Metadata)\n\nThere's many apps and websites that remove your exif/metadata. they are good yeah but…. You should NEVER use a service or website to remove the exif/metadata for you! Don't do it. just think of it in this way: You're literally giving them with the picture your exif/metadata. No one knows who's really operating these services. (healthy paranoia)\nSo we gonna do it manually which is so easy to do\n\nTails\nTails provides a very handy tool to remove EXIF data, right click on the image file you wish to remove it from and then remove metadata.\nTails already comes with MAT2 (Metadata Anonymization Toolkit v2).\nMAT2 removes all exif or metadata from files leaving them empty, nothing to see. and it works for files too not just pictures such as (.docx, .pptx, .xlsx .torrent .flac .mp3 etc..) by simply right clicking your file and then hitting \"remove metadata\".\n\nWindows (Which you shouldn't use for DN activity)\n\nThis time am gonna spare you the lecture of you should not use Windows, and since you made it this far on DN and looking for how to remove your exif/metadata this is the easy steps on Windows as following\n1.Right-click on the picture and choose “Properties.”\nhttp://2.Click the “Details” tab. At the bottom of the “Details” tab, you'll see a blue link titled “Remove Properties and Personal Information.”\n3.On the Remove Properties section, select the Remove the following properties from this file option.\nhttp://4.Click the Select All to remove all potential properties.\n\nLinux\n\nThe metadata can be seen in Linux with many apps. Depending on your software set, there is a great chance that you have an app which can display it. For example, Ristretto and Thunar can show this info in image properties.\n\n1.For your convenience, place all image you want to process to the single folder.\n2.Navigate to that folder.\nhttp://3.Open a new terminal and run the following command:\nmogrify -strip your_filename.jpg\n\nThis will remove the meta data from a single specific picture.\n\nhttp://4.To process all files at once, execute the command\n\nmogrify -strip ./*.jpg\n\nAnd now you're good to go. take a look at Images Upload Sites⚠️ post if you still looking for onions sites to upload your pictures.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Windows",
+                "Linux",
+                "Thunar"
+            ],
+            "URLs": [
+                "http://2.Click",
+                "http://4.Click",
+                "http://3.Open",
+                "http://4.To"
+            ]
+        },
+        {
+            "Message ID": 2583,
+            "Date": "2024-08-22",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2582,
+            "Date": "2024-08-22",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2581,
+            "Date": "2024-08-22",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2580,
+            "Date": "2024-08-22",
+            "Content": "💡Step By Step Guide: How To Remove Exif/Metadata From Your Pictures\n\nhttps://darkwebinformer.com/step-by-step-guide-how-to-remove-exif-metadata-from-your-pictures/\n\nThis post is best viewed on the website for formatting reasons\n\nThis article is based off the following thread on Dread and was created by /u/EmpBomb. Dread Link: http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/post/998f8e87e903409c1244\n\nImages of the thread are at the very botoom.\n\nStep By Step Guide: How To Remove Exif/Metadata From Your Picture.\nby /u/EmpBomb P MOD • 3 years ago* in /d/Reviews\nIn this Step by Step guide I will show you the ultimate way to remove exif/metadata that's embedded in your picture.\nWhat Is EXIF Metadata?\nMetadata connected to photos is stored in a format called “Exchangeable Image File Format” or EXIF. And the EXIF metadata include:\n\nLatitude and longitude coordinates for the location where the photo was taken (GPS Coordinates)\nCamera settings like ISO speed, shutter speed, focal length, aperture, white balance, and lens type.\nThe make and model of the phone/camera.\nThe date and time the photo was taken.\nThe name and build of all programs used to view or edit the photo.\n\nSo basically, Metadata tells the world where, when, and most crucially, who uploaded it.\nFun fact: Believe or not but the internet is full of cropped or blurred images in which the included EXIF thumbnail still shows the original picture.\n\nYou gonna need to upload pictures for your Review (Especially in this Subdread) or to upload pictures supporting your drama-post on Dread subs showing chat screenshots or whatever, or even uploading picture to markets when you have a dispute and needs to show some prove for your claims.\nStep 1 (Before taking pictures)\nAll of us use smartphones, and smartphones will automatically save your location via GPS when you take any pictures. so before taking any pictures you need to disable this feature in your phone settings as following:\nAndroid\n1.Open the Settings app on your Android and look for either the \"Connections\" tab or, depending on your phone, the \"Privacy\" tab.\n2.Tap \"Location\" and toggle the switch to off.\n3.You can also tap \"Emergency Location Service\" and \"Google Location Sharing\" to switch off location-tracking features there as well.\niPhone & iPad (iOS)\n1.Go to Settings > Privacy > Location Services\n2.Make sure that Location Services is off.\n\nNow your smartphone will not add your GPS location to the picture. but you should never blindly trust them.\nAlso your exif/metadata will still have information that will trace back to you. and later in this guide rest assured we will remove all this exif/metadata.\n\nStep 2 (Taking pictures)\n\nPlease pay attention to your phone camera lens. Sometimes when your fingers is bit greasy from eating food or god knows what you were doing. you'll leave your fingerprints on the lens when you touch it.\nYes, you can't easily see it and it won't show on the picture, but trust me, it's there in the picture! And if LE's have the right resources which probably they do, and would like to dig deep with your pictures, they will have your fingerprint from the picture.\n\nSo, first thing you should do is make sure to clean your Phone camera.\n\nSecond thing, pay attention to the surrounding, make sure nothing in the picture that could profile/leads to you or your house.\nNow take your beautiful shots. After that you need to crop/edit the picture and mess around a little bit with Exposure, Contrast etc.. you can even use those ready made filters on your phone (Don't go crazy with editing, we need to see a good picture not chaos).\nWhat we're actually doing now with this editing is adding more layers to the original picture to make it more difficult to trace it back. You can skip this tip, it's all up to you. just sayin'\nFinished with your masterpiece? Great, now let's remove all your exif/metadata.\n\nStep 3 (Removing Exif/Metadata)\n\nThere's many apps and websites that remove your exif/metadata. they are good yeah but…. You should NEVER use a service or website to remove the exif/metadata",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/step-by-step-guide-how-to-remove-exif-metadata-from-your-pictures/\n",
+                "ttp://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/post/998f8e87e903409c1244\n"
+            ]
+        },
+        {
             "Message ID": 2579,
             "Date": "2024-08-22",
             "Content": "https://t.me/DarkForumsME/262",
