@@ -4831,6 +4831,28 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2615,
+            "Date": "2024-08-23",
+            "Content": "🚨🚨A Threat Actor is Allegedly Selling RCE Exploits for Fortinet SSL VPN\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rce-exploits-for-fortinet-ssl-vpn/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rce-exploits-for-fortinet-ssl-vpn/"
+            ]
+        },
+        {
+            "Message ID": 2614,
+            "Date": "2024-08-23",
+            "Content": "Sup Unicorn guy? Been a minute.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
             "Message ID": 2613,
             "Date": "2024-08-23",
             "Content": "https://www.lanacion.com.ar/seguridad/investigacion-del-fbi-la-ruta-de-una-ciberestafa-de-norcoreanos-que-termino-en-el-departamento-de-un-nid21082024/",
