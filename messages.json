@@ -4831,6 +4831,30 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2620,
+            "Date": "2024-08-23",
+            "Content": "lol wtf https://www.youtube.com/watch?v=kQse2ml5UXY",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.youtube.com/watch?v=kQse2ml5UXY"
+            ]
+        },
+        {
+            "Message ID": 2619,
+            "Date": "2024-08-23",
+            "Content": "💡Changelog version 1.4\n\nhttps://darkwebinformer.com/changelog/\n\n🌟 Version 1.4 - August 23rd, 2024\n\n🎉 New Features:\n\n* None\n\n⚙️ Improvements:\n\n* Created a VIP Telegram channel that has up/down alerts of Clearnet and Onion sites in real time. Currently not available to anyone for now, but will be a Plus subscription in the future.\n* Created a Discord server that has up/down alerts of Clearnet and Onion sites in real time. Currently not available to anyone for now, but will be a Plus subscription in the future.\n\n🐛 Bug Fixes:\n* Android and iOS when visiting the site and choosing Desktop mode, the site would not show correctly as you would see it on a PC. This is fixed and was due to incorrect coding in a HBS file.\n\n🐛 Open Bugs:\n* When changing all images to have rounded corners it makes the images look stretched and not centered on the website/X/Telegram/LinkedIn.\n* X image previews on links are not center for the Feature image.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Version"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog/\n"
+            ]
+        },
+        {
             "Message ID": 2618,
             "Date": "2024-08-23",
             "Content": "📰Threat Actor, USDoD, has Allegedly been Identified\n\nhttps://darkwebinformer.com/threat-actor-usdod-has-allegedly-been-identified/",
