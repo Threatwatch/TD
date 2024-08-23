@@ -4831,6 +4831,16 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2635,
+            "Date": "2024-08-23",
+            "Content": "ugh what",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
             "Message ID": 2633,
             "Date": "2024-08-23",
             "Content": "Surprised monero-vps.com is actually available",
