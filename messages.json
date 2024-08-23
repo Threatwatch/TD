@@ -4831,6 +4831,30 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2613,
+            "Date": "2024-08-23",
+            "Content": "https://www.lanacion.com.ar/seguridad/investigacion-del-fbi-la-ruta-de-una-ciberestafa-de-norcoreanos-que-termino-en-el-departamento-de-un-nid21082024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.lanacion.com.ar/seguridad/investigacion-del-fbi-la-ruta-de-una-ciberestafa-de-norcoreanos-que-termino-en-el-departamento-de-un-nid21082024/"
+            ]
+        },
+        {
+            "Message ID": 2612,
+            "Date": "2024-08-23",
+            "Content": "🚨A Threat Actor Allegedly is Selling Access to a Municipality of Las Condes Database\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-access-to-a-municipality-of-las-condes-database/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-access-to-a-municipality-of-las-condes-database/"
+            ]
+        },
+        {
             "Message ID": 2611,
             "Date": "2024-08-23",
             "Content": "",
