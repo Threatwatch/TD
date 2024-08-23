@@ -4831,6 +4831,18 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2616,
+            "Date": "2024-08-23",
+            "Content": "🚨🚨🚨USDoD has allegedly had his identity doxed. https://hackread.com/usdod-hacker-ssn-leak-reveals-brazilian-citizen/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://hackread.com/usdod-hacker-ssn-leak-reveals-brazilian-citizen/"
+            ]
+        },
+        {
             "Message ID": 2615,
             "Date": "2024-08-23",
             "Content": "🚨🚨A Threat Actor is Allegedly Selling RCE Exploits for Fortinet SSL VPN\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rce-exploits-for-fortinet-ssl-vpn/",
