@@ -4831,6 +4831,18 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2658,
+            "Date": "2024-08-24",
+            "Content": "🚨🚨netnsher is Allegedly Selling 1.6 Million PII/Fullz from the UK\n\nhttps://darkwebinformer.com/netnsher-is-allegedly-selling-1-6-million-pii-fullz-from-the-uk/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "tps://darkwebinformer.com/netnsher-is-allegedly-selling-1-6-million-pii-fullz-from-the-uk/"
+            ]
+        },
+        {
             "Message ID": 2657,
             "Date": "2024-08-24",
             "Content": "https://www.youtube[.]com/watch?v=6cM2p7GU7ng",
@@ -7852,6 +7864,16 @@
         }
     ],
     "RipperSec": [
+        {
+            "Message ID": 4679,
+            "Date": "2024-08-24",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
         {
             "Message ID": 4678,
             "Date": "2024-08-24",
