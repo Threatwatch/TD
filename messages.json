@@ -4831,6 +4831,18 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2657,
+            "Date": "2024-08-24",
+            "Content": "https://www.youtube[.]com/watch?v=6cM2p7GU7ng",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.youtube"
+            ]
+        },
+        {
             "Message ID": 2656,
             "Date": "2024-08-24",
             "Content": "💡Exploring Epieos: The OSINT Tool That Unlocks Hidden Information\n\nhttps://darkwebinformer.com/exploring-epieos-the-osint-tool-that-unlocks-hidden-information/",
@@ -7840,6 +7852,16 @@
         }
     ],
     "RipperSec": [
+        {
+            "Message ID": 4676,
+            "Date": "2024-08-24",
+            "Content": "Good Morning Ladies & Gentleman 🌹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
         {
             "Message ID": 4673,
             "Date": "2024-08-24",
