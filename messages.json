@@ -4831,6 +4831,18 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2647,
+            "Date": "2024-08-24",
+            "Content": "🚨IntelBroker and EnergyWeaponUser have Allegedly Leaked Data to the Ministry of National Defense of the Republic of Korea\n\nhttps://darkwebinformer.com/intelbroker-and-energyweaponuser-have-allegedly-leaked-data-to-the-ministry-of-national-defense-of-the-republic-of-korea/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/intelbroker-and-energyweaponuser-have-allegedly-leaked-data-to-the-ministry-of-national-defense-of-the-republic-of-korea/"
+            ]
+        },
+        {
             "Message ID": 2646,
             "Date": "2024-08-24",
             "Content": "",
@@ -7724,6 +7736,16 @@
         }
     ],
     "RipperSec": [
+        {
+            "Message ID": 4673,
+            "Date": "2024-08-24",
+            "Content": "O God. Forgive us..",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
         {
             "Message ID": 4672,
             "Date": "2024-08-23",
