@@ -4831,6 +4831,26 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2654,
+            "Date": "2024-08-24",
+            "Content": "like it literally no longer works",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2653,
+            "Date": "2024-08-24",
+            "Content": "bro is it normal for a yubikey to completely fail?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
             "Message ID": 2652,
             "Date": "2024-08-24",
             "Content": "💡Hashcat: One of the Most Popular and Widely Used Password Crackers\n\nhttps://darkwebinformer.com/hashcat-one-of-the-most-popular-and-widely-used-password-crackers/",
