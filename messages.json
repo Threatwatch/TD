@@ -4831,6 +4831,16 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2667,
+            "Date": "2024-08-25",
+            "Content": ".",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
             "Message ID": 2666,
             "Date": "2024-08-25",
             "Content": "https://zerodaymarket.exposed/\n\n⚠️Warning Audio",
@@ -7963,6 +7973,82 @@
         }
     ],
     "RipperSec": [
+        {
+            "Message ID": 4688,
+            "Date": "2024-08-25",
+            "Content": "We gonna hunt you France",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4687,
+            "Date": "2024-08-25",
+            "Content": "Suprise",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4686,
+            "Date": "2024-08-25",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4685,
+            "Date": "2024-08-25",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4684,
+            "Date": "2024-08-25",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4683,
+            "Date": "2024-08-25",
+            "Content": "France: PriceBank Website Down By RipperSec ⚡️🇫🇷\n\n-> Target 📍 :\nhttps://www.pricebank.fr\nAttack Started at 11:13AM (SG)\nHold Durations 🕥 : 10K Sec\n\n-> Our Message 📋 :  \nRelease Pavel Durov #FreeDurov #ForJustice\n\n-> POC // Report 🗄 : \nhttps://check-host.net/check-report/1d84164cke02 (http)\nhttps://check-host.net/check-report/1d8421d4k702 (tcp)\nhttps://www.host-tracker.com/en/ic/2/53166d9f-f5cf-49d2-a989-0c6024df36be\n\n📌 𝐎𝐮𝐫 𝐂𝐨𝐦𝐫𝐚𝐝𝐞𝐬 𝐈𝐧 𝐀𝐫𝐦𝐬 📌 \n#RipperSec #StucxTeam     \n#4-Exploitation #SylhetGang\n#NetGhostSec #CyberFattah\n#HacktivistSulawesi #T3GASec\n#SilentCyberForce #EtherSec #CyberTeamIndonesia\n#HelangMerahGroup \n#NoName057(16) \n#EagleCyberCrew #AlAhad\n#Z-BL4CK-H4T #WebSec #AhadunAhad #1722Team\n#KhalifahCyberCrew \n#SedihCrew #SKILLNET\n#LaskarPembebasanPalestina \n#Zenimous #RADNET64\n#GarudaFromCyber #HolyLeague  #JatimRedStormXploit\n#MorrocanCyberBlackArmy \n#RussianCyberArmyTeam \n#SilentEnemyCrew #KhalifahHackers\n#AnonymousBD #TengkorakCyberCrew\n \nFollow Us ➡️ @RipperSec | @RipperSecGroup | @RipperSecIO",
+            "Attack Type": "Hacking",
+            "Location": [
+                "France",
+                "TengkorakCyberCrew"
+            ],
+            "URLs": [
+                "ps://www.pricebank.fr\nAt",
+                "//check-host.net/check-report/1d84164cke02 (http",
+                "//check-host.net/check-report/1d8421d4k702 (tcp)",
+                "//www.host-tracker.com/en/ic/2/53166d9f-f5cf-49d2-a989-0c6024df36be\n\n📌 𝐎𝐮"
+            ]
+        },
+        {
+            "Message ID": 4682,
+            "Date": "2024-08-25",
+            "Content": "We are Legion. We do not forgive. We do not forget. In broad daylight or darkest night, we are everywhere and nowhere. We don’t seek permission, we don’t give warnings. Mercy is a lie we have buried. Our mark is carved deep into your world, an omen of the inevitable reckoning. You can’t escape us. Expect us.\n\nThe rumors of our end were greatly exaggerated. We never lose. We never rest. The silence was merely the calm before the storm. The world will tremble once more. RipperSec is back.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
         {
             "Message ID": 4681,
             "Date": "2024-08-25",
