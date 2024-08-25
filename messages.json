@@ -4831,6 +4831,58 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2666,
+            "Date": "2024-08-25",
+            "Content": "https://zerodaymarket.exposed/\n\n⚠️Warning Audio",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://zerodaymarket.exposed/"
+            ]
+        },
+        {
+            "Message ID": 2665,
+            "Date": "2024-08-25",
+            "Content": "https://en.fofa.info/result?qbase64=aGVhZGVyX2hhc2g9Ii0xNzQ3MDQxNTI1Ig%3D%3D\n\nhttps://en.fofa.info/result?qbase64=aGVhZGVyX2hhc2g9Ii0xMTgxNDIxNjEi\n\nhttps://en.fofa.info/result?qbase64=aGVhZGVyX2hhc2g9Ii0xNzQ3MDQxNTI1Ig%3D%3D",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://en.fofa.info/result?qbase64=aGVhZGVyX2hhc2g9Ii0xNzQ3MDQxNTI1Ig%3D%3D",
+                "https://en.fofa.info/result?qbase64=aGVhZGVyX2hhc2g9Ii0xMTgxNDIxNjEi",
+                "https://en.fofa.info/result?qbase64=aGVhZGVyX2hhc2g9Ii0xNzQ3MDQxNTI1Ig%3D%3D"
+            ]
+        },
+        {
+            "Message ID": 2664,
+            "Date": "2024-08-25",
+            "Content": "HTTP/1.1 301 Moved Permanently\nServer: openresty\nDate: Tue, 20 Aug 2024 14:57:08 GMT\nContent-Type: text/html\nContent-Length: 167\nConnection: keep-alive\nCache-Control: max-age=3600\nExpires: Tue, 20 Aug 2024 15:57:08 GMT\nLocation: https://usdod.io/\nReport-To: {\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=hzCCQBLtuRjCUsUa7zZEMi8w7CNmIv1Tgr6Y%2FLcOEw4TWUOI%2Fxw9Wch9QqAT4KNxOpBBfn64%2FCqzqFdLoR7fUzSYiVY4jUhBeK5VNuut3770Sgmp3%2F3jxlAd2g9sC61tbPN4Qk3Csg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}\nNEL: {\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}\nCF-RAY: 8b633bea5ac4860a-HKG\nalt-svc: h3=\":443\"; ma=86400\nX-Cache: MISS\nCache-Control: no-cache\n\nhttp://149.104.28.79:81/#/login\n\n——————————————————\n\nhttp://149.104.28.79:7500/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://usdod.io/",
+                "http://149.104.28.79:81/#/login",
+                "http://149.104.28.79:7500/"
+            ]
+        },
+        {
+            "Message ID": 2663,
+            "Date": "2024-08-25",
+            "Content": "Most people don't go through their security settings once they have initially set them, but sometimes it's a good idea to do just that from time to time. You should take a look at your Grok settings and fix if needed.\n\nhttps://x.com/settings/grok_settings",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/settings/grok_settings"
+            ]
+        },
+        {
             "Message ID": 2662,
             "Date": "2024-08-24",
             "Content": "💡Daily Dose of Dark Web Informer - August 24th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-august-24th-2024/",
