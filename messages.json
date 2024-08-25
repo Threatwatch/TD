@@ -4831,6 +4831,18 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2670,
+            "Date": "2024-08-25",
+            "Content": "💡I have initially populated the Hosting category for subscribers. https://darkwebinformer.com/hosting/. 13 different hosts spanning across 25 URLs. More will be added in the very near future.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/hosting/."
+            ]
+        },
+        {
             "Message ID": 2669,
             "Date": "2024-08-25",
             "Content": "🚨A Threat Actor has Allegedly Leaked the National Research Council of Italy Database\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-national-research-council-of-italy-database/",
@@ -7997,6 +8009,51 @@
         }
     ],
     "RipperSec": [
+        {
+            "Message ID": 4702,
+            "Date": "2024-08-25",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4701,
+            "Date": "2024-08-25",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4700,
+            "Date": "2024-08-25",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4699,
+            "Date": "2024-08-25",
+            "Content": "France: Confédération Paysanne Website Down By RipperSec ⚡️🇫🇷\n\n-> Target 📍 : https://www.confederationpaysanne.fr/\nAttack Started at 12:43AM (SG)\nHold Durations 🕥 : 10K Sec\n\n-> Our Message 📋 :  \nRelease Pavel Durov #FreeDurov #ForJustice\n\n-> POC // Report 🗄 : \nhttps://check-host.net/check-report/1d894f33k502 (http)\nhttps://check-host.net/check-report/1d8962edk7b42 (ping)\n\n\n📌 𝐎𝐮𝐫 𝐂𝐨𝐦𝐫𝐚𝐝𝐞𝐬 𝐈𝐧 𝐀𝐫𝐦𝐬 📌 #RipperSec #StucxTeam     \n#4-Exploitation #SylhetGang\n#NetGhostSec #CyberFattah\n#HacktivistSulawesi #T3GASec\n#SilentCyberForce #EtherSec #CyberTeamIndonesia\n#HelangMerahGroup \n#NoName057(16) #DXPLOIT\n#EagleCyberCrew #AlAhad\n#Z-BL4CK-H4T #WebSec #AhadunAhad #1722Team\n#KhalifahCyberCrew \n#SedihCrew #SKILLNET\n#LaskarPembebasanPalestina \n#Zenimous #RADNET64\n#GarudaFromCyber #HolyLeague  #JatimRedStormXploit\n#MorrocanCyberBlackArmy \n#RussianCyberArmyTeam \n#SilentEnemyCrew #KhalifahHackers\n#AnonymousBD #TengkorakCyberCrew\n \nFollow Us ➡️ @RipperSec | @RipperSecGroup | @RipperSecIO",
+            "Attack Type": "Hacking",
+            "Location": [
+                "France",
+                "TengkorakCyberCrew"
+            ],
+            "URLs": [
+                "ps://www.confederationpaysanne.fr/\nAt",
+                "//check-host.net/check-report/1d894f33k502 (http",
+                "//check-host.net/check-report/1d8962edk7b42 (ping"
+            ]
+        },
         {
             "Message ID": 4698,
             "Date": "2024-08-25",
