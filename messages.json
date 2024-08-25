@@ -7964,6 +7964,26 @@
     ],
     "RipperSec": [
         {
+            "Message ID": 4681,
+            "Date": "2024-08-25",
+            "Content": "Morning good pepol",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4680,
+            "Date": "2024-08-25",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
             "Message ID": 4679,
             "Date": "2024-08-24",
             "Content": "",
