@@ -4831,6 +4831,24 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2677,
+            "Date": "2024-08-25",
+            "Content": "💡15 Popular Google Dorks\n\nhttps://darkwebinformer.com/15-popular-google-dorks/\n\n1. File Type Searches\nfiletype: – Searches for specific file types.Example: filetype:pdf \"cybersecurity report\" – Finds PDF files related to cybersecurity reports.\n\n2. Inurl Searches\ninurl: – Searches for URLs containing specific text.Example: inurl:admin – Finds URLs that include \"admin,\" potentially leading to admin login pages.\n\nallinurl: – Searches for multiple words in the URL.Example: allinurl:login.asp – Finds URLs that include both \"login\" and \"asp.\"\n\n3. Intitle Searches\nintitle: – Searches for pages with a specific word in the title.Example: intitle:\"index of\" – Often used to find directory listings.\n\nallintitle: – Searches for multiple words in the title.Example: allintitle:\"login\" \"admin\" – Finds pages with both \"login\" and \"admin\" in the title.\n\n4. Site Searches\nsite: – Restricts the search to a specific website or domain.Example: site:example.com – Searches only within the domain example.com.\n\n5. Index of\nintitle:\"index of\" – Used to find directory listings that may be publicly accessible.Example: intitle:\"index of\" \"backup\" – Finds directories with \"backup\" in the title, potentially exposing sensitive files.\n\n6. Cache Searches\ncache: – Shows the cached version of a webpage.Example: cache:example.com – Displays the cached version of the homepage of example.com.\n\n7. Link Searches\nlink: – Finds pages that link to a specific URL.Example: link:example.com – Finds all pages that link to example.com.\n\n8. Intext Searches\nintext: – Searches for specific words within the body text of a webpage.Example: intext:\"username\" – Finds pages that contain the word \"username.\"\n\n9. Directory Listings\nintitle:\"index of /\" – Looks for open directory listings on web servers.Example: intitle:\"index of /\" \"passwords\" – Finds directories that may contain password files.\n\n10. Confidential Information\nfiletype:xls username password – Searches for Excel files that might contain usernames and passwords.\n\"confidential\" filetype:pdf – Finds PDF files labeled as confidential.\n\n11. Login Pages\nintitle:\"Login Page\" – Finds pages with the title \"Login Page.\"\ninurl:login – Finds URLs that contain \"login,\" often leading to login portals.\n\n12. Sensitive Directories\nintitle:\"Index of /\" – Used to find open directories that may contain sensitive data.\ninurl:/admin/ – Looks for admin directories.\n\n13. Finding Cameras\ninurl:\"view/view.shtml\" – Finds live cameras.\nintitle:\"Live View / - AXIS\" – Specifically finds AXIS camera live views.\n\n14. Finding Vulnerable Servers\n\"phpinfo()\" \"mysql server version\" – Finds PHP info pages that may reveal server configurations.\ninurl:/proc/self/cwd – Can be used to find LFI (Local File Inclusion) vulnerabilities.\n\n15. Finding Email Addresses\n\"@domain.com\" \"email\" – Finds email addresses on a particular domain.\nintext:\"@gmail.com\" – Finds Gmail addresses on the web.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/15-popular-google-dorks/\n",
+                "xample.com ",
+                "xample.com.",
+                "xample.com ",
+                "xample.com.",
+                "xample.com ",
+                "xample.com."
+            ]
+        },
+        {
             "Message ID": 2676,
             "Date": "2024-08-25",
             "Content": "💡Uncovering the Dark Web’s Secrets: An Inside Look at Leaked[.]domains\n\nhttps://darkwebinformer.com/uncovering-the-dark-webs-secrets-an-inside-look-at-leaked-domains/",
