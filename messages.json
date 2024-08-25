@@ -4831,6 +4831,18 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2671,
+            "Date": "2024-08-25",
+            "Content": "💡Changelog updated to version 1.5\n\nhttps://darkwebinformer.com/changelog\n\n🌟 Version 1.5 - August 25th, 2024\n\n🎉 New Features:\n\n* None\n\n⚙️ Improvements:\n\n* Removed 1 vendor shop for possible FE scamming\n* Added \"Last Updated\" dates to all tracked categories in the subscriber area. When something is updated the last updated date will be manually updated.\n* Hosting Category populated. 13 Different types of hosts spanning 25 clearnet/onion urls. More to come in the near future.\n\n🐛 Bug Fixes:\n* Status Page was not working properly after host had an issue. Auto resolved.\n\n🐛 Open Bugs:\n* When changing all images to have rounded corners it makes the images look stretched and not centered on the website/X/Telegram/LinkedIn.\n* X image previews on links are not center for the Feature image.\n* Add new tags next to new urls is not showing properly against the table.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog\n"
+            ]
+        },
+        {
             "Message ID": 2670,
             "Date": "2024-08-25",
             "Content": "💡I have initially populated the Hosting category for subscribers. https://darkwebinformer.com/hosting/. 13 different hosts spanning across 25 URLs. More will be added in the very near future.",
