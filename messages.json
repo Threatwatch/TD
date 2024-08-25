@@ -4831,6 +4831,28 @@
     ],
     "TheDarkWebInformer": [
         {
+            "Message ID": 2680,
+            "Date": "2024-08-25",
+            "Content": "lets see how many of you are tech savy",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2679,
+            "Date": "2024-08-25",
+            "Content": "https://malwarebytes.fr/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://malwarebytes.fr/"
+            ]
+        },
+        {
             "Message ID": 2678,
             "Date": "2024-08-25",
             "Content": "🚨IntelBroker and EnergyWeaponUser Have Allegedly Breached eTenders the South African Government Tendering Site\n\nhttps://darkwebinformer.com/intelbroker-and-energyweapon-user-have-allegedly-breached-etenders-the-south-african-government-tendering-site/",
