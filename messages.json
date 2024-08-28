@@ -8050,6 +8050,68 @@
     ],
     "2108087364": [
         {
+            "Message ID": 2748,
+            "Date": "2024-08-28",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2747,
+            "Date": "2024-08-28",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        }
+    ],
+    "1914467285": [
+        {
+            "Message ID": 4789,
+            "Date": "2024-08-28",
+            "Content": "Join our backup, this channel maybe got banned soon. We got second warning from Government to shutdown this channel 🤣",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4788,
+            "Date": "2024-08-28",
+            "Content": "📌 ANNOUCMENT 📌\n\n❌Our Instagram & TikTok Got Banned and We Didn't Create Any Account On Instagram & TikTok Anymore ❌\n\nNow Our Official Account/Channel Only in Telegram ⚔️ :\n\nMain Channel : \nhttps://t.me/RipperSec\n\nBackup Channel :\nhttps://t.me/RipperSecIO\n\nCommunity Group :\nhttps://t.me/RipperSecGroup\n\nForum RipperSec X PyRoxy :\nhttps://t.me/PyRoxyForum",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Telegram"
+            ],
+            "URLs": [
+                "tps://t.me/RipperSec\n\n",
+                "tps://t.me/RipperSecIO\n\n",
+                "tps://t.me/RipperSecGroup\n\n",
+                "tps://t.me/PyRoxyForum"
+            ]
+        }
+    ],
+    "null": [],
+    "2108087364": [
+        {
+            "Message ID": 2749,
+            "Date": "2024-08-28",
+            "Content": "🚨A Threat Actor has Allegedly Leaked Data Belonging to the Federal Bureau of Investigation (FBI)\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-belonging-to-the-federal-bureau-of-investigation-fbi/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-belonging-to-the-federal-bureau-of-investigation-fbi/"
+            ]
+        },
+        {
             "Message ID": 2746,
             "Date": "2024-08-28",
             "Content": "💡JustDeleteMe: Simplifying Your Digital Life by Deleting Unwanted Accounts\n\nhttps://darkwebinformer.com/justdeleteme-simplifying-your-digital-life-by-deleting-unwanted-accounts/",
@@ -9186,45 +9248,32 @@
             "URLs": [
                 "https://x.com/fs0c131y/status/1827376559814070689"
             ]
-        },
-        {
-            "Message ID": 2649,
-            "Date": "2024-08-24",
-            "Content": "💡30 Cybersecurity Search Engines\n\nhttps://darkwebinformer.com/30-cybersecurity-search-engines/",
-            "Attack Type": "Unknown",
-            "Location": [
-                "N/A"
-            ],
-            "URLs": [
-                "ttps://darkwebinformer.com/30-cybersecurity-search-engines/"
-            ]
-        },
-        {
-            "Message ID": 2648,
-            "Date": "2024-08-24",
-            "Content": "💡IPRanges: List all IP ranges from Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and more\n\nhttps://darkwebinformer.com/ipranges-list-all-ip-ranges-from-google-cloud-googlebot-bing-bingbot-amazon-aws-microsoft-oracle-cloud-github-facebook-meta-openai-gptbot-and-more/",
-            "Attack Type": "Unknown",
-            "Location": [
-                "N/A"
-            ],
-            "URLs": [
-                "ttps://darkwebinformer.com/ipranges-list-all-ip-ranges-from-google-cloud-googlebot-bing-bingbot-amazon-aws-microsoft-oracle-cloud-github-facebook-meta-openai-gptbot-and-more/"
-            ]
-        },
-        {
-            "Message ID": 2647,
-            "Date": "2024-08-24",
-            "Content": "🚨IntelBroker and EnergyWeaponUser have Allegedly Leaked Data to the Ministry of National Defense of the Republic of Korea\n\nhttps://darkwebinformer.com/intelbroker-and-energyweaponuser-have-allegedly-leaked-data-to-the-ministry-of-national-defense-of-the-republic-of-korea/",
-            "Attack Type": "Data Breach",
-            "Location": [
-                "N/A"
-            ],
-            "URLs": [
-                "ttps://darkwebinformer.com/intelbroker-and-energyweaponuser-have-allegedly-leaked-data-to-the-ministry-of-national-defense-of-the-republic-of-korea/"
-            ]
         }
     ],
     "1914467285": [
+        {
+            "Message ID": 4801,
+            "Date": "2024-08-28",
+            "Content": "Looks like France just wanna Durov money and control him. Such as Pig Government Style.\n\n“France Arrest Durov Because For Safety & Freedom 🤓👆🏻” -\nFrance Lie Statement",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France",
+                "France"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4800,
+            "Date": "2024-08-28",
+            "Content": "A French judge will allow Telegram founder Pavel Durov to avoid pretrial detention by posting € 5 million bail, but he will not be allowed to leave the country.\n\nhttps://www.reuters.com/world/europe/french-judges-decide-next-step-durov-probe-2024-08-28/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.reuters.com/world/europe/french-judges-decide-next-step-durov-probe-2024-08-28/"
+            ]
+        },
         {
             "Message ID": 4799,
             "Date": "2024-08-28",
@@ -10324,76 +10373,6 @@
                 "France"
             ],
             "URLs": []
-        },
-        {
-            "Message ID": 4695,
-            "Date": "2024-08-25",
-            "Content": "⚠️ 💬💬💬💬💬💬📣\nWe RipperSec & DXPLOIT, Officially Alliance. 🔂\nWe hope this alliance will prove our jihad and will be proven for our team \n\n⚜️@RipperSec🤝@DXPLOIT66 ⚜️ \n\n☄️ We Stand For Justice & We Fight For Freedom☄️",
-            "Attack Type": "Unknown",
-            "Location": [
-                "N/A"
-            ],
-            "URLs": []
-        },
-        {
-            "Message ID": 4694,
-            "Date": "2024-08-25",
-            "Content": "We not post any db on channnel anymore. For download the db, please click the “database”",
-            "Attack Type": "Unknown",
-            "Location": [
-                "db"
-            ],
-            "URLs": []
-        }
-    ],
-    "null": [],
-    "2108087364": [
-        {
-            "Message ID": 2748,
-            "Date": "2024-08-28",
-            "Content": "",
-            "Attack Type": "Unknown",
-            "Location": [
-                "N/A"
-            ],
-            "URLs": []
-        },
-        {
-            "Message ID": 2747,
-            "Date": "2024-08-28",
-            "Content": "",
-            "Attack Type": "Unknown",
-            "Location": [
-                "N/A"
-            ],
-            "URLs": []
-        }
-    ],
-    "1914467285": [
-        {
-            "Message ID": 4789,
-            "Date": "2024-08-28",
-            "Content": "Join our backup, this channel maybe got banned soon. We got second warning from Government to shutdown this channel 🤣",
-            "Attack Type": "Unknown",
-            "Location": [
-                "N/A"
-            ],
-            "URLs": []
-        },
-        {
-            "Message ID": 4788,
-            "Date": "2024-08-28",
-            "Content": "📌 ANNOUCMENT 📌\n\n❌Our Instagram & TikTok Got Banned and We Didn't Create Any Account On Instagram & TikTok Anymore ❌\n\nNow Our Official Account/Channel Only in Telegram ⚔️ :\n\nMain Channel : \nhttps://t.me/RipperSec\n\nBackup Channel :\nhttps://t.me/RipperSecIO\n\nCommunity Group :\nhttps://t.me/RipperSecGroup\n\nForum RipperSec X PyRoxy :\nhttps://t.me/PyRoxyForum",
-            "Attack Type": "Unknown",
-            "Location": [
-                "Telegram"
-            ],
-            "URLs": [
-                "tps://t.me/RipperSec\n\n",
-                "tps://t.me/RipperSecIO\n\n",
-                "tps://t.me/RipperSecGroup\n\n",
-                "tps://t.me/PyRoxyForum"
-            ]
         }
     ]
 }
