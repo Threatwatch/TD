@@ -1135,6 +1135,52 @@
             "URLs": [
                 "ttps://darkwebinformer.com/intelowl-manage-your-threat-intelligence-at-scale/"
             ]
+        },
+        {
+            "Message ID": 2847,
+            "Date": "2024-09-01",
+            "Content": "So which one of you is mass suspending accounts on Instagram? 😂",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2846,
+            "Date": "2024-09-01",
+            "Content": "💡Updated to Version 1.6\n\nAll updates: https://darkwebinformer.com/changelog/\n\n🌟 Version 1.6 - September 1st, 2024\n\n🎉 New Features:\n\n* None\n\n⚙️ Improvements:\n\n* Added 16 Services to \"Communication\" for subscribers. This includes 25 new monitored links. The platform is now actively monitoring 400+ links in real time. As of this post, currently 362 are up, 25 are down, and 17 are paused.\n* Removed 2 sites that no longer exist\n* Updated 1 Hosting Onion to new URL\n\n🐛 Bug Fixes:\n* [Minor]: X image previews on links were rarely center. This issue is greatly improved moving forward.\n\n🐛 Open Bugs:\n* [Minor]: When changing all images to have rounded corners it makes the images look stretched and not centered on the website/X/Telegram/LinkedIn.\n* [Minor]: Add new tags next to new urls is not showing properly against the table.\n* [Minor]: Feature image on posts no longer zooms in/out after fixing previous image issues not zooming in and out properly specifically on posts. Workaround is to look down the post to see that initial image which can zoom in and out.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog/\n"
+            ]
+        },
+        {
+            "Message ID": 2845,
+            "Date": "2024-09-01",
+            "Content": "https://t.me/DarkStormTeamd/2644",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/DarkStormTeamd/2644"
+            ]
+        },
+        {
+            "Message ID": 2844,
+            "Date": "2024-09-01",
+            "Content": "⚠️Dark Storm Team is Threatening Attacks against the UAE, Israel, and France",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UAE",
+                "Israel",
+                "France"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
