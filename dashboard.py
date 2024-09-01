@@ -112,7 +112,7 @@ async def fetch_messages(channel_identifier, existing_messages_ids):
     return channel.id, channel.title, new_messages
 
 async def main():
-    json_file_path = 'messages.json'
+    json_file_path = 'posts.json'
     iteration_count = 0
     max_iterations = 1
     channel_id_map = {}  # Dictionary to store channel URL to ID mappings
