@@ -35,7 +35,7 @@ jobs:
       run: |
         git config --local user.email "faisal.s.albargan@gmail.com"
         git config --local user.name "FSBARGAN"
-        git add messages.json
+        git add posts.json
         git diff --cached --exit-code || git commit -m "Auto-update JSON data"
         git push
       env:
