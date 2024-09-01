@@ -1203,6 +1203,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2850,
+            "Date": "2024-09-01",
+            "Content": "💡Unmasking the Power of URLDNA: A Deep Dive into URL Behavior Analysis\n\nhttps://darkwebinformer.com/unmasking-the-power-of-urldna-a-deep-dive-into-url-behavior-analysis/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/unmasking-the-power-of-urldna-a-deep-dive-into-url-behavior-analysis/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
