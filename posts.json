@@ -1427,6 +1427,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2869,
+            "Date": "2024-09-02",
+            "Content": "💡Updated to Version 1.61. All updates: https://darkwebinformer.com/changelog\n\n🌟 Version 1.61 - September 2nd, 2024\n\n🎉 New Features:\n\n* None\n\n⚙️ Improvements:\n\n* None\n\n🐛 Bug Fixes:\n* [Minor]: The feature image at the top of the post was not allowing you to zoom. This has been fixed.\n\n🐛 Open Bugs:\n* [Minor]: When changing all images to have rounded corners it makes the images look stretched and not centered on the website/X/Telegram/LinkedIn.\n* [Minor]: Add new tags next to new urls is not showing properly against the table.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog\n"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
