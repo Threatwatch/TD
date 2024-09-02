@@ -1297,6 +1297,18 @@
             "URLs": [
                 "ttps://darkwebinformer.com/alleged-sale-of-scada-access-to-an-unidentified-retail-organization-in-the-usa/"
             ]
+        },
+        {
+            "Message ID": 2858,
+            "Date": "2024-09-02",
+            "Content": "🚨Alleged Sale of Access to an Unidentified Mexican Organization\n\nhttps://darkwebinformer.com/alleged-sale-of-access-to-an-unidentified-mexican-organization/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/alleged-sale-of-access-to-an-unidentified-mexican-organization/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -2783,6 +2795,19 @@
             "URLs": [
                 "tps://sso.eforpro.afpa.fr/\nI",
                 "2.99.102.18\nI"
+            ]
+        },
+        {
+            "Message ID": 4991,
+            "Date": "2024-09-02",
+            "Content": "#GARUDA_ERROR_SYSTEM\n#RipperSec\n\nCHANEL : \nt.me/GarudaErSec \nt.me/RipperSec\nTHANKS TU ALIANCE 🙏",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "t.me/GarudaErSec",
+                "t.me/RipperSec"
             ]
         }
     ]
