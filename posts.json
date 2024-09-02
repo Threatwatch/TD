@@ -1405,6 +1405,18 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-hukumonline-database-2/"
             ]
+        },
+        {
+            "Message ID": 2867,
+            "Date": "2024-09-02",
+            "Content": "🚨PoC Tool for Exploiting CVE-2024-7029 in AvTech Devices: Enabling RCE, Vulnerability Scanning, and Interactive Shell\n\nhttps://darkwebinformer.com/poc-tool-for-exploiting-cve-2024-7029-in-avtech-devices-enabling-rce-vulnerability-scanning-and-interactive-shell/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/poc-tool-for-exploiting-cve-2024-7029-in-avtech-devices-enabling-rce-vulnerability-scanning-and-interactive-shell/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
