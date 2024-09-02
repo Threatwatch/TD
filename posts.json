@@ -1157,6 +1157,19 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2877,
+            "Date": "2024-09-02",
+            "Content": "Please report: \n\nhttps://x.com/l4sec/status/1815718511299215469\nhttps://x.com/l4sec/status/1815809113185489174",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/l4sec/status/1815718511299215469",
+                "https://x.com/l4sec/status/1815809113185489174"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
