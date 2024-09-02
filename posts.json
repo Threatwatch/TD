@@ -1476,6 +1476,18 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdweb-access-to-an-unidentified-brazilian-company/"
             ]
+        },
+        {
+            "Message ID": 2873,
+            "Date": "2024-09-02",
+            "Content": "🚨A Threat Actor has Allegedly Leaked the Database of VKontakte\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-vkontakte/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "the Database of VKontakte\n\n"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-vkontakte/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
