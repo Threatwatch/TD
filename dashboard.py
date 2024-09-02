@@ -19,6 +19,21 @@ phone_number = '+966559166818'
 channel_urls = [
     "https://t.me/TheDarkWebInformer",
     "https://t.me/RipperSec",
+    "https://t.me/realLulzSec",
+    "https://t.me/YourAnonTl3xChatGroup",
+    "https://t.me/SylhetGangSgOfficial",
+    "https://t.me/hackmanac",
+    "https://t.me/ANONSTU",
+    "https://t.me/esteemrestorationeagle",
+    "https://t.me/ServerKillers",
+    "https://t.me/teamcyber_mafia",
+    "https://t.me/team_1956",
+    "https://t.me/DarkfeedNews",
+    "https://t.me/Hunt3rkill3rs1",
+    "https://t.me/TigerElectronicUnit",
+    "https://t.me/DarkStormTeamd",
+    "https://t.me/CyberVolk_K",
+    "https://t.me/blackopsmrhamza"
 ]
 
 
