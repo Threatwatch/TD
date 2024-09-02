@@ -2536,6 +2536,28 @@
                 ".22.33.160\nH",
                 ".22.33.160\nI"
             ]
+        },
+        {
+            "Message ID": 4973,
+            "Date": "2024-09-02",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4972,
+            "Date": "2024-09-02",
+            "Content": "🚀 Target DOWN 🏴‍☠️\n\nhttps://check-host.net/check-report/1dce7982k5c2\n\n#FreeDurov",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://check-host.net/check-report/1dce7982k5c2\n\n"
+            ]
         }
     ]
 }
