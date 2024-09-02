@@ -1381,6 +1381,30 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-general-directorate-of-traffic-dgt/"
             ]
+        },
+        {
+            "Message ID": 2866,
+            "Date": "2024-09-02",
+            "Content": "🚨Dark Strom Team Targeted the Website of NSO Group\n\nhttps://darkwebinformer.com/dark-strom-team-targeted-the-website-of-nso-group/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/dark-strom-team-targeted-the-website-of-nso-group/"
+            ]
+        },
+        {
+            "Message ID": 2865,
+            "Date": "2024-09-02",
+            "Content": "🚨A Threat Actor is Allegedly Selling the Hukumonline Database\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-hukumonline-database-2/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-hukumonline-database-2/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
