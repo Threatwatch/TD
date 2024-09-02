@@ -2668,6 +2668,28 @@
             "URLs": [
                 "https://check-host.net/check-report/1dcfe42ck2d3"
             ]
+        },
+        {
+            "Message ID": 4985,
+            "Date": "2024-09-02",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4984,
+            "Date": "2024-09-02",
+            "Content": "https://congo-taxes.com/admin/login/\nUsername: Admin_Djiri\nPassword: @xel2024\n\nPrancis: République du Congo, bahasa Kituba: Repubilika ya Kôngo\n\nThanks To:\n#NTB_CYBER_TEAM_GARUDA_TERSAKITI \n#RADENET64 \n#TEAM_ARXU \n#BLACK_CODE \n#LulzsecHacktifist \n#BONDOWOSOBLACKHAT \n#RCH_SEC \n#RipperSec \n#EthersecTeamCyber \n#CYBERCRIME_404\n#GARUDA_ERROR_SYSTEM\n#GrxSensei_Team \n#EvolusierTeamIndonesia \n#GHOST_OF_GAZZA_TEAM \n#CYBER_TEAM_INDONESIA \n#AlixSec \n#Team_Ahadun_Ahad_DEDSEC_MUSLIMS\n#T3GASEC_TEAM_ID\n#Khilafah_Hackers\n#TengkorakCyberCrewOfficial\n#CyberVolk\n#UNDERGROUND_NET",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Congo"
+            ],
+            "URLs": [
+                "https://congo-taxes.com/admin/login/"
+            ]
         }
     ]
 }
