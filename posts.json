@@ -1417,6 +1417,16 @@
             "URLs": [
                 "ttps://darkwebinformer.com/poc-tool-for-exploiting-cve-2024-7029-in-avtech-devices-enabling-rce-vulnerability-scanning-and-interactive-shell/"
             ]
+        },
+        {
+            "Message ID": 2868,
+            "Date": "2024-09-02",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
