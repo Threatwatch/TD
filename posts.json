@@ -17401,6 +17401,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1391,
+            "Date": "2024-09-02",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1390,
+            "Date": "2024-09-02",
+            "Content": "للدعم\nFor support\n\nBitcoin (BTC):\n14hJJ46o91ASckGmRRb3MggCXcsnNYrNSu\nEthereum(ETH):\n0x1CEb2aF9C9307C1cdcfa9eC543e4d9DD2F001a2A\nTether TRC20 (USDT):\nTNobLR3Qx8oZcSrBTJtAuQifwe5VcMSqpx\nBinance Coin (BNB):\n0xb75CA62C14c0c603fB9720EeD50B6e1cF5A2068c\n\nللتذكير الدعم فضلا و ليس امرا.\nAs a reminder, support is a favor, not an order.\n\n#Mr_Hamza",
+            "Attack Type": "Unknown",
+            "Location": [
+                "TNobLR3Qx8oZcSrBTJtAuQifwe5VcMSqpx"
+            ],
+            "URLs": []
         }
     ]
 }
