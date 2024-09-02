@@ -1309,6 +1309,18 @@
             "URLs": [
                 "ttps://darkwebinformer.com/alleged-sale-of-access-to-an-unidentified-mexican-organization/"
             ]
+        },
+        {
+            "Message ID": 2859,
+            "Date": "2024-09-02",
+            "Content": "🚨RipperSec Targeted the Website of Agence nationale pour la Formation Professionnelle des Adultes\n\nhttps://darkwebinformer.com/rippersec-targeted-the-website-of-agence-nationale-pour-la-formation-professionnelle-des-adultes/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Agence"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/rippersec-targeted-the-website-of-agence-nationale-pour-la-formation-professionnelle-des-adultes/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
