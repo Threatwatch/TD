@@ -1472,6 +1472,31 @@
             "URLs": [
                 "ttps://darkwebinformer.com/zerosevengroup-is-allegedly-selling-access-to-one-of-the-us-lottery-corps/"
             ]
+        },
+        {
+            "Message ID": 2907,
+            "Date": "2024-09-03",
+            "Content": "💡Updated to version 1.62. All updates: https://darkwebinformer.com/changelog\n\n🌟 Version 1.62 - September 3rd, 2024\n\n🎉 New Features:\n\n* You can now donate if you want via credit card by going to: https://darkwebinformer.com/#/portal/support. The default amount is $10 USD, but you can change it to whatever you want if you choose to support me and the platform. This is a one time non-refundable donation.\n\n⚙️ Improvements:\n\n* Removed 1 Onion & 1 Clearnet site (same Author) from \"Search Engines & Index Directories\" due to CSAM links being provided through a publicly accessible subdirectory even when not searchable. What a dumb F!\n\n🐛 Bug Fixes:\n* \n\n🐛 Open Bugs:\n* [Minor]: When changing all images to have rounded corners it makes the images look stretched and not centered on the website/X/Telegram/LinkedIn.\n* [Minor]: Add new tags next to new urls is not showing properly against the table.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog\n",
+                "ps://darkwebinformer.com/#/portal/support. T"
+            ]
+        },
+        {
+            "Message ID": 2906,
+            "Date": "2024-09-03",
+            "Content": "🚨RansomHub Has Named Amber Beverage Group, Removal[.]AI, and Sanyo\n\nhttps://darkwebinformer.com/ransomhub-has-named-amber-beverage-group-removal-ai-and-sanyo/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Sanyo"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/ransomhub-has-named-amber-beverage-group-removal-ai-and-sanyo/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -18647,6 +18672,16 @@
                 "Syria",
                 "Lebanon",
                 "Emirates"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1399,
+            "Date": "2024-09-03",
+            "Content": "الهدف التالي هي السجلات الطبية الفرنسية.\n\nThe next target is French medical records.\n\n#Ops_France",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
