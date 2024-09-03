@@ -1204,6 +1204,54 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2885,
+            "Date": "2024-09-03",
+            "Content": "🚨Alleged Sale of Web Shell Access to Unidentified Organization\n\nhttps://darkwebinformer.com/alleged-sale-of-web-shell-access-to-unidentified-organization/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/alleged-sale-of-web-shell-access-to-unidentified-organization/"
+            ]
+        },
+        {
+            "Message ID": 2884,
+            "Date": "2024-09-03",
+            "Content": "🚨A Threat Actor is Allegedly Selling Access to an Unidentified PrestaShop Platform in Spain\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-prestashop-platform-in-spain/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Spain"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-prestashop-platform-in-spain/"
+            ]
+        },
+        {
+            "Message ID": 2883,
+            "Date": "2024-09-03",
+            "Content": "🚨A Threat Actor is Allegedly Selling 5 Million Thailand Phone Leads\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-5-million-thailand-phone-leads/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-5-million-thailand-phone-leads/"
+            ]
+        },
+        {
+            "Message ID": 2882,
+            "Date": "2024-09-03",
+            "Content": "🚨A Threat Actor is Allegedly Selling Access to a Defense Contractor\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-a-defense-contractor/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-a-defense-contractor/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -2647,6 +2695,20 @@
                 "https://admin.ambientz.in/admin/auth/login",
                 "https://ims.graceway.co.in/admin",
                 "https://ndkservices.in/admin/login"
+            ]
+        },
+        {
+            "Message ID": 5027,
+            "Date": "2024-09-03",
+            "Content": "DDOS TIME 🌎:1️⃣0️⃣:0️⃣0️⃣pm (SG) \nDATE  📅 :03.September.2024\n\nTARGET: https://www.uthailocal.go.th/\nIP address : 52.77.176.90\nISP Amazon.com, Inc.\nPorts: 53 | 80 | 110 | 143 | 443 | 465 | 993 | 995 |\nHTTP status: 200 |\n\n⚠️ Message :  \n-> Patani Will Be Independent\n#FreePatani #OpsPutus #StandWithPatani\n﻿\n\n📌 𝐎𝐮𝐫 𝐂𝐨𝐦𝐫𝐚𝐝𝐞𝐬 𝐈𝐧 𝐀𝐫𝐦𝐬 📌\n#RipperSec #HelangMerahGroup #SedihCrew #NetGhostSec #StucxTeam\n #Zenimous #TengkorakCyberCrew\n\nFollow Us ➡️ @RipperSec | @RipperSecGroup | @RipperSecIO",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://www.uthailocal.go.th/\nI",
+                ".77.176.90\nI",
+                "azon.com, "
             ]
         }
     ],
@@ -9693,6 +9755,18 @@
                 "http://judo.satinatech.com/SONFONIA/wp-login.php/wp-login.php#admins@Satina2019@-",
                 "https://bigmedico.com/wp-login.php/wp-login.php#bigmedicoadmin@DrUjjal789#",
                 "https://villatheme.com/wp-login.php/wp-login.php#jvr1401@gmail.com@9aTw5RFqTd"
+            ]
+        },
+        {
+            "Message ID": 1864,
+            "Date": "2024-09-03",
+            "Content": "Kelapa cekolah🗿\n\nhttps://smplab-um.sch.id/sambutan-kepala-sekolah\n\n#RisXploit\n#Anonymous_bangladesh\n#EsteemRestorationEagle\n#IslamicCyberTeam\n#T3GASEC_CYBER_TEAM",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://smplab-um.sch.id/sambutan-kepala-sekolah\n"
             ]
         }
     ],
