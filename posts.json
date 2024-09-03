@@ -1252,6 +1252,42 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-a-defense-contractor/"
             ]
+        },
+        {
+            "Message ID": 2888,
+            "Date": "2024-09-03",
+            "Content": "💡PIP-INTEL: An OSINT Tool Designed Using Various Open-Source Tools and Pip Packages\n\nhttps://darkwebinformer.com/pip-intel-an-osint-tool-designed-using-various-open-source-tools-and-pip-packages/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/pip-intel-an-osint-tool-designed-using-various-open-source-tools-and-pip-packages/"
+            ]
+        },
+        {
+            "Message ID": 2887,
+            "Date": "2024-09-03",
+            "Content": "🚨A Threat Actor is Allegedly Selling Access to a Housing Development Corporation (HDC) Database\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-a-housing-development-corporation-hdc-database/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "https://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-a-housing-development-corporation-hdc-database/"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-a-housing-development-corporation-hdc-database/"
+            ]
+        },
+        {
+            "Message ID": 2886,
+            "Date": "2024-09-03",
+            "Content": "🚨grep has Allegedly Leaked Documents from Sunrun\n\nhttps://darkwebinformer.com/grep-has-allegedly-leaked-documents-from-sunrun/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/grep-has-allegedly-leaked-documents-from-sunrun/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -2709,6 +2745,38 @@
                 "tps://www.uthailocal.go.th/\nI",
                 ".77.176.90\nI",
                 "azon.com, "
+            ]
+        },
+        {
+            "Message ID": 5030,
+            "Date": "2024-09-03",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5029,
+            "Date": "2024-09-03",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5028,
+            "Date": "2024-09-03",
+            "Content": "1x C2_Panel\n\nhttps://check-host.cc/report/79Ch1heHFkrVHMJSWYeVQK",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://check-host.cc/report/79Ch1heHFkrVHMJSWYeVQK"
             ]
         }
     ],
@@ -6423,6 +6491,19 @@
             "URLs": [
                 "ttps://leesbyleena.in/ "
             ]
+        },
+        {
+            "Message ID": 4851,
+            "Date": "2024-09-03",
+            "Content": "A Large Number of People have stopped Visiting India and Choosing Pakistan for tourism 🙆‍♂️\n\nBTW please avoid Visiting Balochstan for now. Rebel groups are super Active there",
+            "Attack Type": "Unknown",
+            "Location": [
+                "India",
+                "Choosing",
+                "Pakistan",
+                "Balochstan"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -7578,6 +7659,47 @@
             "URLs": [
                 "://t.me/hackmanac\n\n🛟 S"
             ]
+        },
+        {
+            "Message ID": 659,
+            "Date": "2024-09-03",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 658,
+            "Date": "2024-09-03",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 657,
+            "Date": "2024-09-03",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 656,
+            "Date": "2024-09-03",
+            "Content": "🟧 #HackTuesday 🟧\n\nHack Tuesday: Week 28 Aug - 03 Sept 2024\n\n⚠️ 130 victims by 22 hacking groups ⚠️\n\nThe most active ransomware group this week is RansomHub with 28 claimed attacks.\n\nThe United States is the most affected country, accounting for 48% of the victims. The Manufacturing sector is the most impacted, representing 25% of the claimed targets, followed by the Professional, Scientific, and Technical sectors at 18%, and the Wholesale/Retail sector at 11%\n\nOverall, the claimed stolen data amounts to approximately 45.9 Terabytes.\n\nThe average Cyber Risk Factor is 4.0.\n\n#Hackmanac #HT #Cybersecurity",
+            "Attack Type": "Hacking",
+            "Location": [
+                "The United States",
+                "Hackmanac"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
