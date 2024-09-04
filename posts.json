@@ -3381,6 +3381,72 @@
             "URLs": [
                 "https://check-host.net/check-report/1de09144k9fd"
             ]
+        },
+        {
+            "Message ID": 5066,
+            "Date": "2024-09-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5065,
+            "Date": "2024-09-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5064,
+            "Date": "2024-09-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5063,
+            "Date": "2024-09-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5062,
+            "Date": "2024-09-04",
+            "Content": "Target: https://www.science.co.il/\nProof: https://check-host.net/check-report/1de156eeka8f\n\n1x xcddos",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.science.co.il/",
+                "https://check-host.net/check-report/1de156eeka8f"
+            ]
+        },
+        {
+            "Message ID": 5061,
+            "Date": "2024-09-04",
+            "Content": "DDOS TIME ▶️:0⃣8️⃣:0⃣0️⃣pm (SG) \nDATE  🗓 : 04-Sep-2024\n\nTARGET ❓ :https://www.science.co.il/ \nIP ❓: 159.223.154.55\nISP🛡 : DigitalOcean, LLC\nPort  ℹ️:21 | 22 | 80 | 443 |\n\n-> Our Message ⚠️:\nOpen Your Eyes! This Is Genocide Not Self Defence 🇵🇸🚨 #FreePalestine #ForJustice\n\n- > Out Royal Comrades 👑\n#RipperSec  #GarudaFromCyber #GarudaSec #HacktivistAceh #JabarErrorSystem #CyberTeamIndonesia #EtherSec\n#PowerCyberMods\n#T3GASEC\n \n\nFollow Us 🔔 @RipperSec | @RipperSecGroup | @RipperSecIO",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "JabarErrorSystem"
+            ],
+            "URLs": [
+                "ttps://www.science.co.il/ ",
+                "59.223.154.55\n"
+            ]
         }
     ],
     "لواء محمد ﷺ": [
@@ -5966,6 +6032,19 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6703,
+            "Date": "2024-09-04",
+            "Content": "Long time no see 👁\n\nhttps://www.microsoft.com/\n\nhttps://check-host.net/check-report/1de11572k1a6\n\n#Anonymous #YourAnonTl3x",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.microsoft.com/\n",
+                "ttps://check-host.net/check-report/1de11572k1a6\n"
+            ]
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -8421,6 +8500,16 @@
             "URLs": [
                 "tps://thehackernews.com/2024/09/secrets-exposed-why-your-ciso-should.html\n\n"
             ]
+        },
+        {
+            "Message ID": 669,
+            "Date": "2024-09-04",
+            "Content": "⚠️Cyberattack Alert - 🇪🇸IDOM\n\nThe hacking group Lynx claims to have breached IDOM, a multinational company providing professional services in consulting, engineering and architecture.\n\nAllegedly, contracts with customers, postal correspondence, personal data of employees, and financial documents were exfiltrated.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
