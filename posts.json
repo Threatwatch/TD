@@ -1691,6 +1691,62 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2928,
+            "Date": "2024-09-04",
+            "Content": "🚨CVE-2024-1212: Command Injection Exploit for Kemp LoadMaster\n\nhttps://darkwebinformer.com/cve-2024-1212-command-injection-exploit-for-kemp-loadmaster/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/cve-2024-1212-command-injection-exploit-for-kemp-loadmaster/"
+            ]
+        },
+        {
+            "Message ID": 2927,
+            "Date": "2024-09-04",
+            "Content": "🚨A Threat Actor is Allegedly Selling RDP Access to an Unidentified organization in Sweden\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-access-to-an-unidentified-organization-in-sweden/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Sweden"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-access-to-an-unidentified-organization-in-sweden/"
+            ]
+        },
+        {
+            "Message ID": 2926,
+            "Date": "2024-09-04",
+            "Content": "DDoS, DDoS, DDoS, DDoS, DDoS, Breach, DDoS, DDoS, DDoS, DDoS, Leak, DDoS, DDoS, DDoS",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2925,
+            "Date": "2024-09-04",
+            "Content": "🚨RipperSec Targeted the Website of Leumi International\n\nhttps://darkwebinformer.com/rippersec-targeted-the-website-of-leumi-international/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/rippersec-targeted-the-website-of-leumi-international/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -5036,6 +5092,16 @@
             "URLs": [
                 "https://github.com/jasonxtn/Kraken"
             ]
+        },
+        {
+            "Message ID": 1908,
+            "Date": "2024-09-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
