@@ -1827,6 +1827,48 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-wordpress-admin-access-for-a-cosmetics-shop-in-the-usa/"
             ]
+        },
+        {
+            "Message ID": 2939,
+            "Date": "2024-09-04",
+            "Content": "🚨A Threat Actor is Allegedly Selling Forticlient Access to an Unidentified Company in the USA\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-forticlient-access-to-an-unidentified-company-in-the-usa/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-forticlient-access-to-an-unidentified-company-in-the-usa/"
+            ]
+        },
+        {
+            "Message ID": 2938,
+            "Date": "2024-09-04",
+            "Content": "Yes, I left the contact information on there for TG only.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2937,
+            "Date": "2024-09-04",
+            "Content": "⚠️A Threat Actor on a Forum is Selling Various Different Hacked Accounts",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2936,
+            "Date": "2024-09-04",
+            "Content": "🚨A Threat Actor is Allegedly Selling VPN and Databse Access to an Unidentified Russian Petroleum Company",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -20123,6 +20165,48 @@
                 "Emirates"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1433,
+            "Date": "2024-09-04",
+            "Content": "بيانات اكثر من 20 مليون مواطن جزائري.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1432,
+            "Date": "2024-09-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1431,
+            "Date": "2024-09-04",
+            "Content": "ردا على مجموعة جزائرية تقوم بستهداف المغرب بسب و شتم لا غير. سيتم تسريب بيانات ملايين المواطنين الجزائريين.وهذا رد بسيط و تحذير.\n\nIn response to an Algerian group targeting Morocco with nothing more than insults and curses. The data of millions of Algerian citizens will be leaked. This is a simple response and warning.\n\n#Ops_Algerie",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Morocco"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1430,
+            "Date": "2024-09-04",
+            "Content": "باسم الله الرحمان الرحيم .\nتم إختراق موقع اختصاصه تداول العملات و الفوركس و الوصول للوحة الأدمين و التحكم و سيتم من بعد حذف جميع الصفحات و المعلومات في الموقع و تأتي هذه العملية ضمن الهجمات ضد الدول الداعة للكيان الصهيوني .\ntarget:\nhttps://wallstreetruler.com/wp-content/uploads/2024/09/index.html\n\n#Free_Palestine🇵🇸\n#MoroccanCyberAliens🇲🇦\n#Fuck_zionists\n#Fuck_israel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "https://wallstreetruler.com/wp-content/uploads/2024/09/index.html"
+            ],
+            "URLs": [
+                "https://wallstreetruler.com/wp-content/uploads/2024/09/index.html"
+            ]
         }
     ]
 }
