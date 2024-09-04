@@ -3293,6 +3293,59 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5057,
+            "Date": "2024-09-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5056,
+            "Date": "2024-09-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5055,
+            "Date": "2024-09-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5054,
+            "Date": "2024-09-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5053,
+            "Date": "2024-09-04",
+            "Content": "Target: https://www.worldjewishcongress.org\nProof: https://check-host.net/check-report/1ddfcfd3k8bc\n\n1x xcddos",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.worldjewishcongress.org",
+                "https://check-host.net/check-report/1ddfcfd3k8bc"
+            ]
         }
     ],
     "لواء محمد ﷺ": [
@@ -7035,6 +7088,16 @@
             "Date": "2024-09-03",
             "Content": "Congratulation\n\nBangladesh Cricket Team 🔥",
             "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4853,
+            "Date": "2024-09-04",
+            "Content": "Sheikh Aslam, also known as Sweden Aslam, a notorious criminal, has been released on bail from the Gazipur Kashimpur High-Security Central Jail.\n\nsource :- Dhaka Tribune",
+            "Attack Type": "Hacking",
             "Location": [
                 "N/A"
             ],
@@ -17826,6 +17889,18 @@
             "URLs": [
                 "ps://gamerpay.gg/\n🛡 ",
                 "/gamerpay.gg/\n🛡 保护 -"
+            ]
+        },
+        {
+            "Message ID": 492,
+            "Date": "2024-09-04",
+            "Content": "https://x.com/CyberVolk_Group/status/1831257066268397610",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/CyberVolk_Group/status/1831257066268397610"
             ]
         }
     ],
