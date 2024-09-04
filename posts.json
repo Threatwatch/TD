@@ -3269,6 +3269,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5052,
+            "Date": "2024-09-04",
+            "Content": "TIME ▶️:0⃣4️⃣:0⃣0️⃣pm (SG) \nDATE  🗓 : 04-SEP-2024\n\nTARGET ❓ : https://www.worldjewishcongress.org\nIP ❓: 54.204.238.15\nISP🛡 : Amazon.com, Inc.\nPort  ℹ️: 80 | 443 \nHTTP Status ⌛: 200 | 302\n\n-> Our Message ⚠️:\nOpen Your Eyes! This Is Genocide Not Self Defence 🇵🇸🚨 #FreePalestine #ForJustice\n\n- > Out Royal Comrades 👑\n#RipperSec #GarudaFromCyber #GarudaSec #HacktivistAceh #JabarErrorSystem #CyberTeamIndonesia #EtherSec\n#PowerCyberMods #T3GASEC\n\nFollow Us 🔔 @RipperSec | @RipperSecGroup | @RipperSecIO",
+            "Attack Type": "Hacking",
+            "Location": [
+                "JabarErrorSystem"
+            ],
+            "URLs": [
+                "ttps://www.worldjewishcongress.org\n",
+                "4.204.238.15\n",
+                "azon.com, "
+            ]
+        },
+        {
+            "Message ID": 5051,
+            "Date": "2024-09-04",
+            "Content": "⚠️ 💬💬💬💬💬💬📣\nWe RipperSec & Garnesia Team, Officially Alliance 🔂\n\nℹ️ RipperSec {@RipperSec} \nℹ️ Garnesia Team {@GarnesiaTeam}\n\n⭐️We Stand For Justice & We Fight For Freedom ⭐️",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "لواء محمد ﷺ": [
@@ -4684,6 +4708,16 @@
             "URLs": [
                 "112.0.0.0"
             ]
+        },
+        {
+            "Message ID": 1906,
+            "Date": "2024-09-04",
+            "Content": "علی بن موسی الرّضا (ع) 🖤",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
