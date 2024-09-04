@@ -1553,6 +1553,64 @@
             "URLs": [
                 "ttps://darkwebinformer.com/hacktivist-group-mr-hamza-allegedly-leaked-french-health-records/"
             ]
+        },
+        {
+            "Message ID": 2917,
+            "Date": "2024-09-04",
+            "Content": "🚨Alleged Sale of 5 RDP Access Points to U.S.-Based Companies\n\nhttps://darkwebinformer.com/alleged-sale-of-5-rdp-access-points-to-u-s-based-companies/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/alleged-sale-of-5-rdp-access-points-to-u-s-based-companies/"
+            ]
+        },
+        {
+            "Message ID": 2916,
+            "Date": "2024-09-04",
+            "Content": "🚨Alleged Sale of RD Web Access to Unidentified Organizations in the USA\n\nhttps://darkwebinformer.com/alleged-sale-of-rd-web-access-to-unidentified-organizations-in-the-usa/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/alleged-sale-of-rd-web-access-to-unidentified-organizations-in-the-usa/"
+            ]
+        },
+        {
+            "Message ID": 2915,
+            "Date": "2024-09-04",
+            "Content": "🚨A Threat Actor has Allegedly Leaked the eSSL Security Database",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2914,
+            "Date": "2024-09-04",
+            "Content": "🚨A Threat Actor has Allegedly Leaked the Database to Fleet Management\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-to-fleet-management/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-to-fleet-management/"
+            ]
+        },
+        {
+            "Message ID": 2913,
+            "Date": "2024-09-04",
+            "Content": "🚨RansomHub has Claimed Planned Parenthood as a Victim\n\nhttps://darkwebinformer.com/ransomhub-has-claimed-planned-parenthood-as-a-victim/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/ransomhub-has-claimed-planned-parenthood-as-a-victim/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -3446,6 +3504,20 @@
             "URLs": [
                 "ttps://www.science.co.il/ ",
                 "59.223.154.55\n"
+            ]
+        },
+        {
+            "Message ID": 5067,
+            "Date": "2024-09-04",
+            "Content": "DDOS TIME ▶️:1️⃣0️⃣:0⃣0️⃣pm (SG) \nDATE  🗓 : 04-Sep-2024\n\nTARGET ❓ : https://www.leumi.co.il/\nIP ❓: 159.223.154.55\nISP🛡 : Amazon.com, Inc\nPort  ℹ️:80 | 443 |\n\n-> Our Message ⚠️:\nOpen Your Eyes! This Is Genocide Not Self Defence 🇵🇸🚨 #FreePalestine #ForJustice\n\n- > Out Royal Comrades 👑\n#RipperSec  #GarudaFromCyber #GarudaSec #HacktivistAceh #JabarErrorSystem #CyberTeamIndonesia #EtherSec\n#PowerCyberMods\n#T3GASEC\n \nFollow Us 🔔 @RipperSec | @RipperSecGroup | @RipperSecIO",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "JabarErrorSystem"
+            ],
+            "URLs": [
+                "ttps://www.leumi.co.il/\n",
+                "59.223.154.55\n",
+                "azon.com, "
             ]
         }
     ],
@@ -7222,6 +7294,58 @@
             "Date": "2024-09-04",
             "Content": "Sheikh Aslam, also known as Sweden Aslam, a notorious criminal, has been released on bail from the Gazipur Kashimpur High-Security Central Jail.\n\nsource :- Dhaka Tribune",
             "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4858,
+            "Date": "2024-09-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4857,
+            "Date": "2024-09-04",
+            "Content": "We should also take some measures to Train the Fighters from Gaza \n\nBecause the soldiers we are giving training to is being used only by the government of Palestine \nand i don't think they are going to use any force against israel",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Gaza",
+                "Palestine",
+                "israel"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4856,
+            "Date": "2024-09-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4855,
+            "Date": "2024-09-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4854,
+            "Date": "2024-09-04",
+            "Content": "Palestinian Cadets completed their Training from Bangladesh Military Academy",
+            "Attack Type": "Unknown",
             "Location": [
                 "N/A"
             ],
