@@ -3359,6 +3359,28 @@
                 "ttps://tikvahfund.org\n",
                 "41.193.213.11\n"
             ]
+        },
+        {
+            "Message ID": 5060,
+            "Date": "2024-09-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5059,
+            "Date": "2024-09-04",
+            "Content": "https://check-host.net/check-report/1de09144k9fd",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://check-host.net/check-report/1de09144k9fd"
+            ]
         }
     ],
     "لواء محمد ﷺ": [
@@ -9786,6 +9808,32 @@
             ],
             "URLs": [
                 "https://www.accessoryhub.in/"
+            ]
+        },
+        {
+            "Message ID": 1629,
+            "Date": "2024-09-04",
+            "Content": "Sorry 4 website \n https://argucom.ac.in/ADMINISTRATION",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://argucom.ac.in/ADMINISTRATION"
+            ]
+        },
+        {
+            "Message ID": 1628,
+            "Date": "2024-09-04",
+            "Content": "Indian Another 3 website hacked by bee\n\nUrl : \nhttps://indovision.in/\n\nhttps://gsfation.in/\n\nhttps://bajrangiram.in/\n\n#fuck_rendia\n#india_out",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://indovision.in/",
+                "https://gsfation.in/",
+                "https://bajrangiram.in/"
             ]
         }
     ],
