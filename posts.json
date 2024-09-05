@@ -2089,6 +2089,52 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2964,
+            "Date": "2024-09-05",
+            "Content": "🚨A Threat Actor is Allegedly Selling Access to an Unidentified Financial Company in Thailand\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-financial-company-in-thailand/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Thailand"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-financial-company-in-thailand/"
+            ]
+        },
+        {
+            "Message ID": 2963,
+            "Date": "2024-09-05",
+            "Content": "🚨grep is Allegedly Selling Access to an Unidentified Argentina Company\n\nhttps://darkwebinformer.com/grep-is-allegedly-selling-access-to-an-unidentified-argentina-company/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/grep-is-allegedly-selling-access-to-an-unidentified-argentina-company/"
+            ]
+        },
+        {
+            "Message ID": 2962,
+            "Date": "2024-09-05",
+            "Content": "🚨A Threat Actor is Allegedly Selling Access to an Unidentified System of the Brazilian Army",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2961,
+            "Date": "2024-09-05",
+            "Content": "🚨grep is Allegedly Selling Access to an Unidentified Chinese Company\n\nhttps://darkwebinformer.com/grep-is-allegedly-selling-access-to-an-unidentified-chinese-company/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/grep-is-allegedly-selling-access-to-an-unidentified-chinese-company/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -4243,6 +4289,19 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5094,
+            "Date": "2024-09-05",
+            "Content": "TIME ▶️1️⃣0️⃣:0⃣0️⃣pm (SG) \nDATE  🗓 :05-Sep-2024\n\nTARGET ❓: https://nextflight.fr/\nIP ❓: 23.227.38.65\nISP🛡 : Cloudflare, Inc.\nPortℹ️ : 80 | 443 | 2052 | 2053 | 2082 | 2083 | 2086 | 2087 | 2095 | 8080 | 8443 | 8880 |\n\n⚠️𝐎𝐮𝐫 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 ⚠️\n-> Release Pavel Durov 🚨 #FreeDurov #ForJustice\n\n﻿-> Our Royal Comrades 👑\n#RipperSec #StucxTeam     \n#4-Exploitation #SylhetGang\n#NetGhostSec #CyberFattah\n#HacktivistSulawesi #T3GASec\n#SilentCyberForce #EtherSec #CyberTeamIndonesia\n#HelangMerahGroup #CGPLLNET\n#NoName057(16) #DXPLOIT\n#EagleCyberCrew #AlAhad\n#Z-BL4CK-H4T #WebSec #AhadunAhad #1722Team\n#KhalifahCyberCrew #VulcanSec\n#SedihCrew #SKILLNET\n#LaskarPembebasanPalestina \n#Zenimous #RADNET64\n#GarudaFromCyber #HolyLeague  #JatimRedStormXploit\n#MorrocanCyberBlackArmy \n#RussianCyberArmyTeam \n#SilentEnemyCrew #KhalifahHackers\n#AnonymousBD #TengkorakCyberCrew\n#HackerCouncil #AnonymousGuys \n#GarudaErrorSystem\n#NoMercyBlackHat\n#UndefinedHacker #GarnesiaTeam\n\nFollow Us 🔔 @RipperSec | @RipperSecGroup | @RipperSecIO\n﻿",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://nextflight.fr/\n",
+                "3.227.38.65\n"
+            ]
         }
     ],
     "لواء محمد ﷺ": [
@@ -11040,6 +11099,20 @@
                 "https://indovision.in/",
                 "https://gsfation.in/",
                 "https://bajrangiram.in/"
+            ]
+        },
+        {
+            "Message ID": 1631,
+            "Date": "2024-09-05",
+            "Content": "Another 3 Website Hacked By Bee\n\n\nurl : \nhttps://ssky.co.in\n\nhttps://sacredheartckgidderbaha.co.in/\n\nhttps://www.modernitibathinda.in/\n\n#Out_India\n\n#ANONSTU",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://ssky.co.in",
+                "https://sacredheartckgidderbaha.co.in/",
+                "https://www.modernitibathinda.in/"
             ]
         }
     ],
