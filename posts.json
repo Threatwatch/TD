@@ -2516,6 +2516,308 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3028,
+            "Date": "2024-09-05",
+            "Content": "Title: CDA Assurances falls victim to Kill Security Ransomware\nVictims: cda assurances, cda.be\nIndustry: Insurance\nCountry: Belgium\nLink: \nThreat Actor: Kill Security",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "cda.be"
+            ]
+        },
+        {
+            "Message ID": 3027,
+            "Date": "2024-09-05",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3026,
+            "Date": "2024-09-05",
+            "Content": "ok i'm done",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3025,
+            "Date": "2024-09-05",
+            "Content": "[Blockchair // Crypto Services // Clearnet] [🔴 Down] Proxy connection timed out",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3024,
+            "Date": "2024-09-05",
+            "Content": "[Black Suit // Ransomware // Dark Web] [✅ Up] 200 - OK",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3023,
+            "Date": "2024-09-05",
+            "Content": "[RAMP // Forum // Dark Web] [✅ Up] 403 - Forbidden",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3022,
+            "Date": "2024-09-05",
+            "Content": "[RAMP // Forum // Dark Web] [🔴 Down] Proxy connection timed out",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3021,
+            "Date": "2024-09-05",
+            "Content": "[Medusa // Ransomware // Dark Web] [🔴 Down] Proxy connection timed out",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3020,
+            "Date": "2024-09-05",
+            "Content": "[Blackout // Ransomware // Dark Web] [🔴 Down] Socks5 proxy rejected connection - HostUnreachable",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3019,
+            "Date": "2024-09-05",
+            "Content": "[BlackByte // Ransomware // Dark Web] [🔴 Down] Socks5 proxy rejected connection - HostUnreachable",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3018,
+            "Date": "2024-09-05",
+            "Content": "[Apt73 // Ransomware // Dark Web] [🔴 Down] Socks5 proxy rejected connection - HostUnreachable",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3017,
+            "Date": "2024-09-05",
+            "Content": "[Apt 73 // Ransomware // Dark Web Mirror] [🔴 Down] Socks5 proxy rejected connection - HostUnreachable",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3016,
+            "Date": "2024-09-05",
+            "Content": "[Abacus Market // Marketplace // Dark Web Mirror 3] [🔴 Down] Socks5 proxy rejected connection - HostUnreachable",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3015,
+            "Date": "2024-09-05",
+            "Content": "[CVV Union // Forum // Clearnet] [✅ Up] getaddrinfo ENOTFOUND cvv-union.at",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "cvv-union.at"
+            ]
+        },
+        {
+            "Message ID": 3014,
+            "Date": "2024-09-05",
+            "Content": "[Black Suit // Ransomware // Dark Web] [🔴 Down] Proxy connection timed out",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3013,
+            "Date": "2024-09-05",
+            "Content": "[TOR66 // Search Engine and Index // Dark Web] [✅ Up] 200 - OK",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3012,
+            "Date": "2024-09-05",
+            "Content": "[MetaGer // Search and Index // Dark Web] [🔴 Down] Proxy connection timed out",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3011,
+            "Date": "2024-09-05",
+            "Content": "[TOR66 // Search Engine and Index // Dark Web] [🔴 Down] read ECONNRESET",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3010,
+            "Date": "2024-09-05",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3009,
+            "Date": "2024-09-05",
+            "Content": "[AlphaLocker // Ransomware // Dark Web] [✅ Up] 200 - OK",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3008,
+            "Date": "2024-09-05",
+            "Content": "[CVV Union // Forum // Clearnet] [🔴 Down] getaddrinfo ENOTFOUND cvv-union.at",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "vv-union.at"
+            ]
+        },
+        {
+            "Message ID": 3007,
+            "Date": "2024-09-05",
+            "Content": "[Incognet // Hosting // Dark Web] [✅ Up] 200 - OK",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3006,
+            "Date": "2024-09-05",
+            "Content": "Title: Alleged sale of access to an unidentified Peru shop\nVictims:\nCountry: Peru\nLink: Redacted\nThreat Actor: charley88",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Peru"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3005,
+            "Date": "2024-09-05",
+            "Content": "[Snatch // Ransomware // Clearnet Mirror] [🔴 Down] getaddrinfo ENOTFOUND snatchnews.top",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "natchnews.top"
+            ]
+        },
+        {
+            "Message ID": 3004,
+            "Date": "2024-09-05",
+            "Content": "Title: CBT GmbH falls victim to RansomHub Ransomware\nVictims: cbt gmbh, cbt-gmbh.de\nIndustry: Hospital & Health Care\nCountry: Germany\nLink: Redacted\nThreat Actor: RansomHub",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "cbt-gmbh.de"
+            ]
+        },
+        {
+            "Message ID": 3003,
+            "Date": "2024-09-05",
+            "Content": "[Sonar // Communication // Dark Web] [✅ Up] 403 - Forbidden",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3002,
+            "Date": "2024-09-05",
+            "Content": "[RAMP // Forum // Dark Web] [✅ Up] 403 - Forbidden",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3001,
+            "Date": "2024-09-05",
+            "Content": "[CVV Union // Forum // Clearnet] [🔴 Down] getaddrinfo ENOTFOUND cvv-union.at",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "vv-union.at"
+            ]
+        },
+        {
+            "Message ID": 3000,
+            "Date": "2024-09-05",
+            "Content": "[Blackout // Ransomware // Dark Web] [🔴 Down] Socks5 proxy rejected connection - HostUnreachable",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -7565,6 +7867,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "Gaza"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6718,
+            "Date": "2024-09-05",
+            "Content": "أيها الصديق .. إن الثقة هي حجر الزاوية في اي علاقة كيفما كان نوعها ..\n\nفهي ما يسمح لنا بالشعور بالأمان لنكون مستعدين لمشاركة أعمق مخاوفنا وأعظم آمالنا.. ولكن عندما تدخل الكذبة الصورة تتعرض الثقة للخطر ..\n\nفهي تبدأ كصدع صغير غير مرئي تقريبا ولكن مع مرور الوقت ينتشر ... فحتى الرابطة التي كانت قوية جدا في يوم من الأيام تبدأ في الانهيار ..\n\n\nالكيان المتعلق بالأكاذيب هو نادرا ما يظل صغيرا وهشا.. فغالبا ما تؤدي كذبة واحدة إلى أخرى ثم أخرى..ثم يتعلق في شبكة من الخداع .. وغير قادر على إيجاد طريقة للخروج منها ..\n\nأيها العدو اللذيذ ...\n\nإن تلك الأكاذيب التي تبدو لك غير ضارة في البداية ;  تحريف بسيط للحقيقة, اغفال بسيط .. كل ذالك لتجنب الصراع والمرارة ولحماية مشاعر مجتمعك الهش .\n\nتعتقدون في أنفسكم أن الخداع المستمر والتلاعب  لا يمكن أن يؤذيكم في وقت ما .. لكن أكاذيبكم هذه بحد ذاتها هي سلاح لنا .. فهي  لديها طريقة لكشف نسيج كيانكم وإلى تأكله .. نهايتك افعى تأكل ذيلها ..\n\n باتباع الخطط غير المباشرة معكم ، فإننا  سنقطع رقابكم دون ان نستعمل سكاكين.. \n\n خلقت أكتاف الرجال لحمل البنادق، فإما عظماء فوق الأرض أوعظاما في جوفها .",
+            "Attack Type": "Unknown",
+            "Location": [
+                "إيجاد"
             ],
             "URLs": []
         }
@@ -19464,6 +19776,16 @@
             "Date": "2024-09-04",
             "Content": "",
             "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2655,
+            "Date": "2024-09-05",
+            "Content": "To purchase ddos services, databases,spam, phishing, social engineering \n\nContact @MRHELL112",
+            "Attack Type": "DDoS Attacks",
             "Location": [
                 "N/A"
             ],
