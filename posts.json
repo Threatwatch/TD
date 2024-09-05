@@ -2317,6 +2317,30 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-woodhouse-estonia-database/"
             ]
+        },
+        {
+            "Message ID": 2982,
+            "Date": "2024-09-05",
+            "Content": "💡Logicytics: System Data Harvester\n\nhttps://darkwebinformer.com/logicytics-system-data-harvester/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/logicytics-system-data-harvester/"
+            ]
+        },
+        {
+            "Message ID": 2981,
+            "Date": "2024-09-05",
+            "Content": "Title: RUSSIAN TASK POWER targets the website of UK Cyber Security Council\nVictims: uk cyber security council, ukcybersecuritycouncil.org.uk\nIndustry: Non-profit & Social Organizations\nCountry: UK\nLink: Redacted\nThreat Actor: RUSSIAN TASK POWER",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "ukcybersecuritycouncil.org.uk"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
