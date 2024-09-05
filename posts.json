@@ -2351,6 +2351,171 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2999,
+            "Date": "2024-09-05",
+            "Content": "[RAMP // Forum // Dark Web] [🔴 Down] Proxy connection timed out",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2998,
+            "Date": "2024-09-05",
+            "Content": "[Cockbox // Hosting // Dark Web] [✅ Up] 200 - OK",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2997,
+            "Date": "2024-09-05",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2996,
+            "Date": "2024-09-05",
+            "Content": "[DrugHub // Marketplace // Clearnet] [✅ Up] 403 - Forbidden",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2995,
+            "Date": "2024-09-05",
+            "Content": "[Sonar // Communication // Dark Web] [🔴 Down] Proxy connection timed out",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2994,
+            "Date": "2024-09-05",
+            "Content": "[Cockbox // Hosting // Dark Web] [🔴 Down] Socks5 proxy rejected connection - Failure",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2993,
+            "Date": "2024-09-05",
+            "Content": "[DrugHub // Marketplace // Clearnet] [🔴 Down] Request failed with status code 403",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2992,
+            "Date": "2024-09-05",
+            "Content": "[Incognet // Hosting // Dark Web] [🔴 Down] Proxy connection timed out",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2991,
+            "Date": "2024-09-05",
+            "Content": "[AlphaLocker // Ransomware // Dark Web] [🔴 Down] timeout of 72000ms exceeded",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2990,
+            "Date": "2024-09-05",
+            "Content": "🚨🚨I'm testing uptime/down notifications for next hour. Mute me for now if you want🚨🚨",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2989,
+            "Date": "2024-09-05",
+            "Content": "[DrugHub // Marketplace // Dark Web] [✅ Up] 200 - OK",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2988,
+            "Date": "2024-09-05",
+            "Content": "[Flocker // Ransomware // Dark Web] [✅ Up] 200 - OK",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2987,
+            "Date": "2024-09-05",
+            "Content": "Telegram Public Testing",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2986,
+            "Date": "2024-09-05",
+            "Content": "Title: RUSSIAN TASK POWER targets the website of Port of London Authority\nVictims: port of london authority, pla.co.uk\nIndustry: Transportation & Logistics\nCountry: UK\nLink: Redacted\nThreat Actor: RUSSIAN TASK POWER",
+            "Attack Type": "Unknown",
+            "Location": [
+                "london",
+                "UK"
+            ],
+            "URLs": [
+                "pla.co.uk"
+            ]
+        },
+        {
+            "Message ID": 2985,
+            "Date": "2024-09-05",
+            "Content": "Title: Inorde falls victim to RansomHub Ransomware\nVictims: inorde, inorde.com\nIndustry: Government Administration\nCountry: Spain\nLink: Redacted\nThreat Actor: RansomHub",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Spain"
+            ],
+            "URLs": [
+                "inorde.com"
+            ]
+        },
+        {
+            "Message ID": 2984,
+            "Date": "2024-09-05",
+            "Content": "test",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -6143,6 +6308,22 @@
                 "اللئيم"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1917,
+            "Date": "2024-09-05",
+            "Content": "🇵🇸A web server in Portugal was hacked by Fattah and  Liwaa Mohammad ﷺ\n\n🔗targets:\ndrpedropacheco.site/index.html\npsicologiabernapacheco.com/index.html\nallon4experience.com/index.html\n--------------------------------------\n🧬check:\nhttps://mirror-h.org/search/hacker/67579/\n--------------------------------------\n#طوفان_الأحرار | #شهید_قدس | #tufan_alahrar\n#all_eyes_on_Rafah | #free_palestine\n@fattahh_ir | @realLulzSec | @h0lyleague | @madad_team",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Portugal",
+                "Fattah"
+            ],
+            "URLs": [
+                "edropacheco.site/index.html\nps",
+                "cologiabernapacheco.com/index.html\nal",
+                "on4experience.com/index.html\n--",
+                "s://mirror-h.org/search/hacker/67579/\n---"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -7374,6 +7555,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6717,
+            "Date": "2024-09-05",
+            "Content": "This is Gaza, the cemetery of invaders 🟢",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Gaza"
             ],
             "URLs": []
         }
