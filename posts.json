@@ -2273,6 +2273,50 @@
             "URLs": [
                 "ttps://www.youtube.com/@SENTRY456123"
             ]
+        },
+        {
+            "Message ID": 2980,
+            "Date": "2024-09-05",
+            "Content": "I'm testing something, yes these are real alerts.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2979,
+            "Date": "2024-09-05",
+            "Content": "Title: HIMARS DDOS targets the website of AVANTA TELECOM\nVictims: аванта телеком, avanta-telecom.ru\nIndustry: Network & Telecommunications\nCountry: Russia\nLink: Redacted\nThreat Actor: HIMARS DDOS",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Russia"
+            ],
+            "URLs": [
+                "avanta-telecom.ru"
+            ]
+        },
+        {
+            "Message ID": 2978,
+            "Date": "2024-09-05",
+            "Content": "Title: Alleged sale of access to an unidentified USA company\nVictims:\nIndustry: Manufacturing\nCountry: USA\nLink: Redacted\nThreat Actor: prosper",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2977,
+            "Date": "2024-09-05",
+            "Content": "🚨A Threat Actor is Allegedly Selling the Woodhouse Estonia Database\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-woodhouse-estonia-database/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-woodhouse-estonia-database/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -6055,6 +6099,16 @@
             "URLs": [
                 "https://t.me/+PM8gAs6RsU9kOGE1"
             ]
+        },
+        {
+            "Message ID": 1916,
+            "Date": "2024-09-05",
+            "Content": "بسم الله الرحمن الرحيم \nاللهم صل على محمد وال محمد\n\nقال تعالى ﴿وما ظلمناهم ولكن كانوا أنفسهم يظلمون﴾\n\nاما بعد: \nتم اختراق موقع حكومه اقليم كردستان الرسمي ک اول هجماتنا ضد هذا الاقليم اللئيم من قبل فريقنا فريق FaD TeaM جاء ذلك الاختراق بعد تعاونهم مع وفد اسرائيلي بالخفاء في اربيل باعترافهم بعدما اتفقوا معهم بأن يجعلوهم دوله معترف بها \n\nومن خلال هذا المنبر احذر الحكومه الكرديه بأننا سوف نستمر في النظال واختراق المواقع الكرديه والسعوديه ولن نتوقف الى ان شاء الله والا فلا \n\nوفي الختام\nنسئل الله سبحانه ان يوفقنا وإياكم في ان نكون من الصالحين \n\nهذا واخر دعوانا عن الحمد لله رب العالمين وصل الله على محمد وآله الطيبين الطاهرين.\n\nنحن FaD TeaM \n\nتابعونا...\n@r3_6j",
+            "Attack Type": "Unknown",
+            "Location": [
+                "اللئيم"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
@@ -9994,6 +10048,16 @@
             "URLs": [
                 "tps://www.bleepingcomputer.com/news/security/fake-onlyfans-cybercrime-tool-infects-hackers-with-malware/\n\n"
             ]
+        },
+        {
+            "Message ID": 679,
+            "Date": "2024-09-05",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
