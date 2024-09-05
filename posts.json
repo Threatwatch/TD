@@ -2818,6 +2818,86 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3036,
+            "Date": "2024-09-05",
+            "Content": "🚨A Threat Actor is Selling Access to an Unidentified Peru Shop\n\n----------------------\n\nEnglish Translation:\n\nFast food chain in Peru\n\nCMS: Magento 1\n\nMonthly orders: on average 1000-1400+ (CC iframe ~400)\n\nAccess: Admin\n\nThe code to inject was not found, maybe someone can upload or find a way to inject it.\n\nStart: 100 USD\nStep: 50 USD\nBlitz: 300 USD\n\nEnd: 24 hours PPS\n\nBuyer-covering escrow is welcomed",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Peru"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3035,
+            "Date": "2024-09-05",
+            "Content": "🚨A Threat Actor Allegedly Leaked the Data of Desa Gapurosukolilo",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3034,
+            "Date": "2024-09-05",
+            "Content": "🚨A Threat Actor Allegedly Leaked Data to Desa Ngawen",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3033,
+            "Date": "2024-09-05",
+            "Content": "🚨A threat Actor is Allegedly Selling a Side Loader Payload",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3032,
+            "Date": "2024-09-05",
+            "Content": "🚨A Threat Actor is Allegedly Selling Remote Access to an Unidentified organization in Spain",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Spain"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3031,
+            "Date": "2024-09-05",
+            "Content": "T/y IB",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3030,
+            "Date": "2024-09-05",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3029,
+            "Date": "2024-09-05",
+            "Content": "🚨A Threat Actor is Allegedly Selling the Plastoria Database",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
