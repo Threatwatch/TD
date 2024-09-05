@@ -4023,6 +4023,18 @@
                 "/t.me/RipperSecGroup\n\nℹ️ Fo",
                 ".me/PyRoxyForum"
             ]
+        },
+        {
+            "Message ID": 5072,
+            "Date": "2024-09-05",
+            "Content": "https://blog.checkpoint.com/security/hacktivists-call-for-release-of-telegram-founder-with-freedurov-ddos-campaign/amp/\n\nThankyou for solid details",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.checkpoint.com/security/hacktivists-call-for-release-of-telegram-founder-with-freedurov-ddos-campaign/amp/"
+            ]
         }
     ],
     "لواء محمد ﷺ": [
@@ -20661,6 +20673,37 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1448,
+            "Date": "2024-09-05",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1447,
+            "Date": "2024-09-05",
+            "Content": "Password:Mr_Hamza",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1446,
+            "Date": "2024-09-05",
+            "Content": "تم تنفيذ عملية ضد الامن السيبراني الإسرءيلي و جهاز المخابرات و استهداف شركات كبرى صهيونية تدعم هذا الكيان.  \n\nAn operation was carried out against the Israeli cyber security and intelligence apparatus, targeting major Zionist companies that support this entity.\n\nألوت: تقدم حلول الأمن السيبراني وذكاء الشبكات.\n- بالرام: تصنع منتجات بلاستيكية للبناء والزراعة.\n- وكالة الأمن الإسرائيلية: وكالة الاستخبارات الداخلية ومكافحة الإرهاب في إسرائيل.\n- مجموعة آي سي إل: شركة كيميائية عالمية تركز على الصناعات الزراعية والغذائية.\n- أيه آر آي: تصمم أنظمة التحكم في المياه مثل صمامات الهواء ومنظمات التدفق.\n\n- Allot: Provides cybersecurity and network intelligence solutions.\n- Balram: Manufactures plastic products for construction and agriculture.\n- Israel Security Agency: Israel's domestic intelligence and counterterrorism agency.\n- ICL Group: A global chemical company focused on agriculture and food industries.\n- ARI: Designs water control systems such as air valves and flow regulators.\n\n#Ops_Isreal",
+            "Attack Type": "Unknown",
+            "Location": [
+                "الامن",
+                "Israel"
             ],
             "URLs": []
         }
