@@ -2341,6 +2341,16 @@
             "URLs": [
                 "ukcybersecuritycouncil.org.uk"
             ]
+        },
+        {
+            "Message ID": 2983,
+            "Date": "2024-09-05",
+            "Content": "Alert",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
