@@ -3038,6 +3038,39 @@
             "URLs": [
                 "/darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-to-bitfinex/"
             ]
+        },
+        {
+            "Message ID": 3052,
+            "Date": "2024-09-06",
+            "Content": "🚨A Threat Actor is Allegedly Selling RDP Access to an Unidentified USA Organization\n\nHello everyone,\n\nGeolocation: USA\nAccess Type: RDP\nSource: Brute-force\nFinancial Revenue: $5 Million\nIndustry: Architecture, Engineering & Design\n3 Signals Found\nInformation about the access:\n\nOperating System: Windows Server 2016\nAntivirus: Windows Defender\nUser in Domain: 167 Hosts\nDeal only with a Guarantor exploit!\n\nSTART: $800\nSTEP: $200\nBLITZ: $1600\nPPS: 24H",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brute",
+                "Domain"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3051,
+            "Date": "2024-09-06",
+            "Content": "💡A Threat Actor has Allegedly Leaked the Database to ShipOffers",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3050,
+            "Date": "2024-09-06",
+            "Content": "💡Taranis AI: A Cutting-Edge #OSINT Tool Leveraging AI for Advanced Information Gathering and Situational Analysis\n\nhttps://darkwebinformer.com/taranis-ai-a-cutting-edge-osint-tool-leveraging-ai-for-advanced-information-gathering-and-situational-analysis/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/taranis-ai-a-cutting-edge-osint-tool-leveraging-ai-for-advanced-information-gathering-and-situational-analysis/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -6954,6 +6987,31 @@
                 "Fattah"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1927,
+            "Date": "2024-09-06",
+            "Content": "Cobalt Strike 4.9\n\nDownload: https://ponies.cloud/c2/CobaltStrike%204.9%20Cracked%20uCare@Pwn3rzs.7z\nPassword: 20231004_2218\n\nFull Black client: https://ponies.cloud/c2/CobaltStrike%204.9%20Client%20Only%20Full%20Theme%20uCare@Pwn3rzs.7z\nPassword: 20231005_2033\n\nEnjoy!\n\n#tools",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://ponies.cloud/c2/CobaltStrike%204.9%20Cracked%20uCare@Pwn3rzs.7z",
+                "https://ponies.cloud/c2/CobaltStrike%204.9%20Client%20Only%20Full%20Theme%20uCare@Pwn3rzs.7z"
+            ]
+        },
+        {
+            "Message ID": 1926,
+            "Date": "2024-09-06",
+            "Content": "https://github.com/fortra/CVE-2024-30051\n\nWindows DWM Core Library Elevation of Privilege Vulnerability (CVE-2024-30051) (Published August 15 of 2024)\n#github #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/fortra/CVE-2024-30051"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -21040,6 +21098,31 @@
             ],
             "URLs": [
                 "https://arm.gov"
+            ]
+        },
+        {
+            "Message ID": 503,
+            "Date": "2024-09-06",
+            "Content": "https://x.com/CyberVolk_Group/status/1832030925150171494",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/CyberVolk_Group/status/1832030925150171494"
+            ]
+        },
+        {
+            "Message ID": 502,
+            "Date": "2024-09-06",
+            "Content": "Greetings, Citizens of the World,\n\nAs announced by CyberVolk we have leaked 10% of the database from the Atmospheric Radiation Measurement  (ARM)  (arm.gov). We emphasize that only the least sensitive parts of the database have been released publicly.\n\nDownload database: https://we.tl/t-HSzKvfziEx\n\nFor access to the entire database, including passwords and other sensitive information, please contact us via the communication bot in the CyberVolk channel biography.\n\nPrice of the entire database: $19,000 \n\nIf they don't pay the amount.\n\nWe are CyberVolk, hacktivists of elegance.\nIn Shadows We Trust, In Silence We Strike.\n\n#OpUSA",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arm.gov",
+                "https://we.tl/t-HSzKvfziEx"
             ]
         }
     ],
