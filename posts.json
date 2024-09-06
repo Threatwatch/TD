@@ -3290,6 +3290,30 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-vpn-access-to-an-unidentified-usa-company-with-a-revenue-of-5-billion/"
             ]
+        },
+        {
+            "Message ID": 3074,
+            "Date": "2024-09-06",
+            "Content": "🚨natohub has Allegedly Leaked Data Belonging to Euraxess Europe\n\nhttps://darkwebinformer.com/natohub-has-allegedly-leaked-data-belonging-to-euraxess-europe/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "natohub"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/natohub-has-allegedly-leaked-data-belonging-to-euraxess-europe/"
+            ]
+        },
+        {
+            "Message ID": 3073,
+            "Date": "2024-09-06",
+            "Content": "🚨TWS NETWORK Has Targeted Hotel Murah\n\nhttps://darkwebinformer.com/tws-network-has-targeted-hotel-murah/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/tws-network-has-targeted-hotel-murah/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
