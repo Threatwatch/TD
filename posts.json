@@ -3177,6 +3177,19 @@
             "URLs": [
                 "ttps://darkwebinformer.com/natohub-has-allegedly-leaked-data-from-idm-europe/"
             ]
+        },
+        {
+            "Message ID": 3063,
+            "Date": "2024-09-06",
+            "Content": "💡Changelog updated to Version 1.63. All Versions: https://darkwebinformer.com/changelog\n\n🌟 Version 1.63 - September 6th, 2024\n\n🎉 New Features:\n\n* \n\n⚙️ Improvements:\n\n* Added 1 Ransomware group that was missing. Credit to the guy who sent me feedback!\n* Removed 1 non-working Ransomware Onion link and updated the group with 7 new onion mirrors.\n\n🐛 Bug Fixes:\n* \n\n🐛 Open Bugs:\n* [Minor]: When changing all images to have rounded corners it makes the images look stretched and not centered on the website/X/Telegram/LinkedIn.\n* [Minor]: Add new tags next to new urls is not showing properly against the table.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Version",
+                "Version"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog\n"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -7117,6 +7130,18 @@
             ],
             "URLs": [
                 "https://github.com/fortra/CVE-2024-30051"
+            ]
+        },
+        {
+            "Message ID": 1928,
+            "Date": "2024-09-06",
+            "Content": "http://a1websolutions.co.in/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://a1websolutions.co.in/"
             ]
         }
     ],
