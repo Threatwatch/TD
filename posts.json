@@ -9406,6 +9406,28 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4874,
+            "Date": "2024-09-06",
+            "Content": "📌target  : faragalla company \n\n📌Reason:  Exporting thousands of food shipments to Israel\n\nhttps://check-host.net/check-report/1df49cc1k372\n\n#SG \n#D01",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "tps://check-host.net/check-report/1df49cc1k372\n\n"
+            ]
+        },
+        {
+            "Message ID": 4873,
+            "Date": "2024-09-06",
+            "Content": "We Stand Affirm with Sudanese Muslims ⚠\n\nUAE will pay for their affiliation with RSF ( Rapid Support Forces) of Sudan\n\nwho are conducting a Genocide ☠",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Sudan"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -20693,6 +20715,30 @@
             ],
             "URLs": [
                 "https://x.com/CyberVolk_Group/status/1831942814047043631"
+            ]
+        },
+        {
+            "Message ID": 500,
+            "Date": "2024-09-06",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 499,
+            "Date": "2024-09-06",
+            "Content": "Greetings,\n\nToday, we reveal 10% of the data from (arm.gov). Download it here: https://we.tl/t-HSzKvfziEx . Be sure to watch the video footage below carefully.\n\nBTC Address: bc1q3c9pt084cafxfvyhn8wvh7mq04rq6naew0mk87\n\nCyberVolk,\nIn Shadows We Trust, In Silence We Strike.\n\nStay updated and follow us on X: https://x.com/CyberVolk_Group/status/1832030925150171494\n\n#OpUSA #Global #CyberVolk",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arm.gov",
+                "https://we.tl/t-HSzKvfziEx",
+                "https://x.com/CyberVolk_Group/status/1832030925150171494"
             ]
         }
     ],
