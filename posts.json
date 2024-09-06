@@ -2984,6 +2984,60 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3049,
+            "Date": "2024-09-06",
+            "Content": "Title: Arbitech falls victim to LYNX Ransomware\nVictims: arbitech, arbitech.com\nIndustry: Computer Hardware\nCountry: USA\nLink:\nThreat Actor: LYNX",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arbitech.com"
+            ]
+        },
+        {
+            "Message ID": 3048,
+            "Date": "2024-09-06",
+            "Content": "🚨SYLHET GANG-SG is threatening to target UAE citizens",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3047,
+            "Date": "2024-09-06",
+            "Content": "💡Cybersecurity Ecosystem Diagram\n\nIt's recommended to download the image and zoom in to see everything!\n\nCredit: strategyofsecurity[.]com",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3046,
+            "Date": "2024-09-06",
+            "Content": "25 BTC = $1.379.778 USD",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3045,
+            "Date": "2024-09-06",
+            "Content": "🚨🚨🚨UNVERIFIED🚨🚨🚨\n\n🚨A Threat Actor is Allegedly Selling the Database to Bitfinex\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-to-bitfinex/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "/darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-to-bitfinex/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -9611,6 +9665,16 @@
                 "Emirati"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4882,
+            "Date": "2024-09-06",
+            "Content": "ان لله وان اليه راجعون \n\n\nتعازينا الحارة لمجموعه investgation anonymous \n\n\n\n\nقال تعالي:  (وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا بَلْ أَحْيَاءٌ عِنْدَ رَبِّهِمْ يُرْزَقُونَ)\n\n#Sylhet_gang_sg\n#investgation_anonymous",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -12533,6 +12597,26 @@
                 "https://sacredheartckgidderbaha.co.in/",
                 "https://www.modernitibathinda.in/"
             ]
+        },
+        {
+            "Message ID": 1633,
+            "Date": "2024-09-06",
+            "Content": "Thank You 😊",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1632,
+            "Date": "2024-09-06",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Esteem Restoration Eagle": [
@@ -22785,5 +22869,19 @@
             "URLs": []
         }
     ],
-    "RipperSec | РипперСек": []
+    "RipperSec | РипперСек": [
+        {
+            "Message ID": 287,
+            "Date": "2024-09-06",
+            "Content": "⚠️ 🚨🚨🚨🚨🚨🚨  📣\nWe just got news about telegram scam being more worried in Asia. \n\nWe afraid of this case being more aggressive and Telegram maybe got banned by Government. \n\nSo we invite you all to join this group below that fight all of this scammers :\n\nℹ️Anti-Scam, Anti Malware Awareness Group :\n- If you have any scam link / scammers details. Share in this group\n🔗https://t.me/ASAMAlert ☄️\n\nℹ️Global Scammers Cyber Court  :\n- If you have scammers details, share in this group for awarness \n🔗https://t.me/GlobalCyberCourt ☄️",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "t.me/ASAMAlert ☄️\n\nℹ️G",
+                ".me/GlobalCyberCourt ☄️"
+            ]
+        }
+    ]
 }
