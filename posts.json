@@ -3071,6 +3071,18 @@
             "URLs": [
                 "ttps://darkwebinformer.com/taranis-ai-a-cutting-edge-osint-tool-leveraging-ai-for-advanced-information-gathering-and-situational-analysis/"
             ]
+        },
+        {
+            "Message ID": 3053,
+            "Date": "2024-09-06",
+            "Content": "⚠️Eagle Spy Rat: Android Hacking Demonstration\n\nhttps://darkwebinformer.com/eagle-spy-rat-android-hacking-demonstration/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkwebinformer.com/eagle-spy-rat-android-hacking-demonstration/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -8270,6 +8282,16 @@
             "Message ID": 6719,
             "Date": "2024-09-06",
             "Content": "Hi",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6724,
+            "Date": "2024-09-06",
+            "Content": "",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -21123,6 +21145,18 @@
             "URLs": [
                 "arm.gov",
                 "https://we.tl/t-HSzKvfziEx"
+            ]
+        },
+        {
+            "Message ID": 504,
+            "Date": "2024-09-06",
+            "Content": "https://x.com/CyberVolk_Group/status/1832084592016380133\n\nRepost Our Post guy's",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/CyberVolk_Group/status/1832084592016380133"
             ]
         }
     ],
