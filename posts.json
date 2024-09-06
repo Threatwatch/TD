@@ -22181,5 +22181,89 @@
             ],
             "URLs": []
         }
+    ],
+    "RipperSec iO": [
+        {
+            "Message ID": 239,
+            "Date": "2023-06-24",
+            "Content": "-",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 191,
+            "Date": "2022-08-14",
+            "Content": "-",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 178,
+            "Date": "2022-01-31",
+            "Content": "-",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 144,
+            "Date": "2021-12-03",
+            "Content": "...",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 143,
+            "Date": "2021-12-03",
+            "Content": "-",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 69,
+            "Date": "2021-11-08",
+            "Content": "-",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4,
+            "Date": "2021-10-18",
+            "Content": "RipperSec V2 (Backup) ✅️\nhttps://t.me/RipperSecIO",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/RipperSecIO"
+            ]
+        },
+        {
+            "Message ID": 1,
+            "Date": "2021-10-13",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        }
     ]
 }
