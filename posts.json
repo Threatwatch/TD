@@ -10820,6 +10820,30 @@
                 "tps://hackmanac.com/news/supply-chain-and-cyber-security-from-risks-to-solutions).",
                 "ckmanac.com/news/supply-chain-and-cyber-security-key-incidents-and-lessons-learned\n\n#CyberSe"
             ]
+        },
+        {
+            "Message ID": 686,
+            "Date": "2024-09-06",
+            "Content": "For our second technical post, we have an analysis of a Windows RCE vulnerability in the Wi-Fi driver (CVE-2024-30078), which includes a detailed root cause analysis and exploitation constraints. Enjoy :)\n\nhttps://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.crowdfense.com/windows-wi-fi-driver-rce-vulnerability-cve-2024-30078/"
+            ]
+        },
+        {
+            "Message ID": 685,
+            "Date": "2024-09-06",
+            "Content": "Introduction to Cyber Threat Intelligence\nhttps://ift.tt/p5TxUh2",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://ift.tt/p5TxUh2"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -22393,5 +22417,6 @@
             ],
             "URLs": []
         }
-    ]
+    ],
+    "RipperSec | РипперСек": []
 }
