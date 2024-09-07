@@ -3490,6 +3490,41 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3093,
+            "Date": "2024-09-07",
+            "Content": "🚨888 Has Allegedly Leaked the Muzu.co Database\n\nhttps://darkwebinformer.com/888-has-allegedly-leaked-the-muzu-co-database/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Database"
+            ],
+            "URLs": [
+                "uzu.co ",
+                "ttps://darkwebinformer.com/888-has-allegedly-leaked-the-muzu-co-database/"
+            ]
+        },
+        {
+            "Message ID": 3092,
+            "Date": "2024-09-07",
+            "Content": "Placeholder. youtube.com/@DarkWebInformer",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "youtube.com/@DarkWebInformer"
+            ]
+        },
+        {
+            "Message ID": 3091,
+            "Date": "2024-09-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -23649,6 +23684,16 @@
             "URLs": [
                 "https://t.me/contact_MCA_bot"
             ]
+        },
+        {
+            "Message ID": 1456,
+            "Date": "2024-09-07",
+            "Content": "لقد عدنا مرة أخرى\nwe are back again\n\nالدور على أوكرانيا\nUkraine's turn\n\n#Ops_Ukraine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec iO": [
