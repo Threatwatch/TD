@@ -3392,6 +3392,26 @@
             "URLs": [
                 "https://x.com/DarkWebInformer/status/1832264116460822689?t=sZgaANd5aZ45jg5HOQ1cww&s=19"
             ]
+        },
+        {
+            "Message ID": 3083,
+            "Date": "2024-09-07",
+            "Content": "🚨A Threat Actor is Allegedly Selling Access to an Unidentified WooCommerce-Based Online Shop in India",
+            "Attack Type": "Hacking",
+            "Location": [
+                "India"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3082,
+            "Date": "2024-09-07",
+            "Content": "🚨A Threat Actor is Allegedly Selling Access to Unidentified Restaurants in the USA",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -11722,6 +11742,30 @@
             ],
             "URLs": [
                 "https://ift.tt/lS426CW"
+            ]
+        },
+        {
+            "Message ID": 689,
+            "Date": "2024-09-07",
+            "Content": "Car rental giant Avis discloses data breach impacting customers\n\nhttps://www.bleepingcomputer.com/news/security/car-rental-giant-avis-discloses-data-breach-impacting-customers/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/car-rental-giant-avis-discloses-data-breach-impacting-customers/"
+            ]
+        },
+        {
+            "Message ID": 688,
+            "Date": "2024-09-07",
+            "Content": "North Korean hackers are targeting developers on #LinkedIn with fake job offers, using coding tests to infect macOS. Once inside, they steal credentials, access code, and drain crypto funds. Social engineering remains a serious cyber threat\nhttps://thehackernews.com/2024/09/north-korean-threat-actors-deploy.html",
+            "Attack Type": "Hacking",
+            "Location": [
+                "LinkedIn"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/09/north-korean-threat-actors-deploy.html"
             ]
         }
     ],
