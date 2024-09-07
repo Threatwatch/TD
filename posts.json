@@ -3559,6 +3559,16 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-the-database-to-indian-academy-of-pediatrics/"
             ]
+        },
+        {
+            "Message ID": 3097,
+            "Date": "2024-09-07",
+            "Content": ".",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -11957,6 +11967,16 @@
             "URLs": [
                 "tps://securityaffairs.com/168145/security/litespeed-cache-plugin-wordpress-flaw.html\n\n"
             ]
+        },
+        {
+            "Message ID": 691,
+            "Date": "2024-09-07",
+            "Content": "⚠️Cyberattack Alert - 🇪🇸Grupo Cortefiel, Medusa Demands $800,000\n\nThe hacking group Medusa claims to have breached Grupo Cortefiel, one of Europe's leading fashion retailers operating in the specialised chain segment.\n\nAllegedly, 724.59 GB of data were exfiltrated.\nRansom demand: $800,000.\nRansom deadline: 17th Sep 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "GB"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
