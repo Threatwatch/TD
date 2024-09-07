@@ -3412,6 +3412,50 @@
                 "USA"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3087,
+            "Date": "2024-09-07",
+            "Content": "🚨A Threat Actor is Allegedly Selling Singapore Citizens Leads\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-singapore-citizens-leads/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-singapore-citizens-leads/"
+            ]
+        },
+        {
+            "Message ID": 3086,
+            "Date": "2024-09-07",
+            "Content": "🚨A Threat Actor has Allegedly Leaked Data to the Nigerian Navy",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3085,
+            "Date": "2024-09-07",
+            "Content": "X is down, no surprise",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3084,
+            "Date": "2024-09-07",
+            "Content": "🚨A Threat Actor has Allegedly Leaked the Database of SmilePath Australia\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-smilepath-australia/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Australia"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-smilepath-australia/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -11766,6 +11810,18 @@
             ],
             "URLs": [
                 "https://thehackernews.com/2024/09/north-korean-threat-actors-deploy.html"
+            ]
+        },
+        {
+            "Message ID": 690,
+            "Date": "2024-09-07",
+            "Content": "🚨 Critical Vulnerability Alert 🚨\n\nA critical flaw in the LiteSpeed Cache plugin for WordPress could allow unauthenticated users to take control of arbitrary accounts.\n \nhttps://securityaffairs.com/168145/security/litespeed-cache-plugin-wordpress-flaw.html\n\n#vulnerability #wordpress #cyberthreatmonitoring #hackmanac",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://securityaffairs.com/168145/security/litespeed-cache-plugin-wordpress-flaw.html\n\n"
             ]
         }
     ],
