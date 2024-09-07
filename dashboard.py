@@ -33,7 +33,10 @@ channel_urls = [
     "https://t.me/TigerElectronicUnit",
     "https://t.me/DarkStormTeamd",
     "https://t.me/CyberVolk_K",
-    "https://t.me/blackopsmrhamza"
+    "https://t.me/blackopsmrhamza",
+    "https://t.me/Team_R70",
+    "https://t.me/Arab_Hackers_Union",
+    "https://t.me/AnonymousEgypt"
 ]
 
 
