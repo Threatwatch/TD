@@ -3456,6 +3456,40 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-smilepath-australia/"
             ]
+        },
+        {
+            "Message ID": 3090,
+            "Date": "2024-09-07",
+            "Content": "🚨A Threat Actor is Allegedly Selling Access to an Unidentified Dutch Company\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-dutch-company/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-dutch-company/"
+            ]
+        },
+        {
+            "Message ID": 3089,
+            "Date": "2024-09-07",
+            "Content": "https://x.com/DarkWebInformer/status/1832445260418654241",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1832445260418654241"
+            ]
+        },
+        {
+            "Message ID": 3088,
+            "Date": "2024-09-07",
+            "Content": "💡The 6 Different Types of Hackers",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -8820,6 +8854,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "jendegi va harzegi"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6738,
+            "Date": "2024-09-07",
+            "Content": "SUCCESSFUL ATTACK FROM LULZSEC DUCK ✅ \nAttack 1 » ewrcommercial .com/lulzduck.html\nAttack 2 » worldviewcoachinginstitute .org//lulzduck.html\nAttack 3 » compradetcc .com/lulzduck.html",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
