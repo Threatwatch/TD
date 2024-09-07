@@ -3547,6 +3547,28 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3097,
+            "Date": "2024-09-07",
+            "Content": ".",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3096,
+            "Date": "2024-09-07",
+            "Content": "🚨A Threat Actor Allegedly Has Leaked the Database to Indian Academy of Pediatrics\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-the-database-to-indian-academy-of-pediatrics/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-the-database-to-indian-academy-of-pediatrics/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
