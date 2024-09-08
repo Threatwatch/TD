@@ -4157,6 +4157,96 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3167,
+            "Date": "2024-09-08",
+            "Content": "I would say the average notifications you will see between now and 12 hours from now is about 50-70 notifications.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3166,
+            "Date": "2024-09-08",
+            "Content": "📅Date/Time: 2024-09-08T22:12:47Z\n🚨Title: HIMARS DDOS targets the website of Vainakh Telecom",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3165,
+            "Date": "2024-09-08",
+            "Content": "📅Date/Time: 2024-09-08T22:11:34Z\n🚨Title: Alleged sale of Wallapop admin panel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3164,
+            "Date": "2024-09-08",
+            "Content": "📅Date/Time: 2024-09-08T22:05:07Z\n🚨Title: Alleged leak of vulnerability in the website of Dico Products",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3163,
+            "Date": "2024-09-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3162,
+            "Date": "2024-09-08",
+            "Content": "📅Date/Time: 2024-09-08T22:02:53Z\n🚨Title: Alleged database sale of uBreakiFix",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3161,
+            "Date": "2024-09-08",
+            "Content": "📅Date/Time: 2024-09-08T21:54:38Z\n🚨Title: Alleged database sale of Bank of Valletta (BOV)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3160,
+            "Date": "2024-09-08",
+            "Content": "📅Date/Time: 2024-09-08T21:53:29Z\n🚨Title: Dark Spot claims to target Israel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3159,
+            "Date": "2024-09-08",
+            "Content": "📅Date/Time: 2024-09-08T21:48:56Z\n🚨Title: RCH POWER targets the website of iTrade Pro Academy",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -32332,6 +32422,16 @@
         },
         {
             "Message ID": 25522,
+            "Date": "2024-09-08",
+            "Content": "Best Cloud Prived \n\nBest For Ever",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 25532,
             "Date": "2024-09-08",
             "Content": "Best Cloud Prived \n\nBest For Ever",
             "Attack Type": "Unknown",
