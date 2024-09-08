@@ -3835,6 +3835,68 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-is-reportedly-selling-indian-business-vendor-lead-data/"
             ]
+        },
+        {
+            "Message ID": 3126,
+            "Date": "2024-09-08",
+            "Content": "🚨A Threat Actor is Allegedly Selling Multiple E-commerce Website Databases in the USA",
+            "Attack Type": "Hacking",
+            "Location": [
+                "USA"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3125,
+            "Date": "2024-09-08",
+            "Content": "📅Date/Time: \n🏷️Title: Alleged sale of multiple e-commerce website database in USA",
+            "Attack Type": "Hacking",
+            "Location": [
+                "USA"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3124,
+            "Date": "2024-09-08",
+            "Content": "💡Nginx Bad Bot and User-Agent Blocker: Protect Against Bots, Vulnerabilities, Malware, and DDoS with Fail2Ban Integration\n\nhttps://darkwebinformer.com/nginx-bad-bot-and-user-agent-blocker-protect-against-bots-vulnerabilities-malware-and-ddos-with-fail2ban-integration/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/nginx-bad-bot-and-user-agent-blocker-protect-against-bots-vulnerabilities-malware-and-ddos-with-fail2ban-integration/"
+            ]
+        },
+        {
+            "Message ID": 3123,
+            "Date": "2024-09-08",
+            "Content": "Testing a live feed, you shouldn't get too many alerts.. if so just mute for a couple hours.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3122,
+            "Date": "2024-09-08",
+            "Content": "Date/Time: 2024-09-08T17:10:45Z\nTitle: Ketapang Grey Hat Team targets the website of Alfulk cruises",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3121,
+            "Date": "2024-09-08",
+            "Content": "2024-09-08T17:10:45ZKetapang Grey Hat Team targets the website of Alfulk cruises",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -24254,6 +24316,26 @@
                 "الحكومات",
                 "الصهيونية",
                 "ادهسوا"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1464,
+            "Date": "2024-09-08",
+            "Content": "Password:Mr_Hamza",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1463,
+            "Date": "2024-09-08",
+            "Content": "تم الوصول الى العديد من الملفات والوثائق الحساسة من الحكومة الإسرائيلية ومؤسساتها.\n\nMany sensitive files and documents from the Israeli government and its institutions were accessed.\n\n#Ops_Israel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
