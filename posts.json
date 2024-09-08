@@ -3623,6 +3623,46 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3105,
+            "Date": "2024-09-08",
+            "Content": "🚨grep Has Leaked The Heritage Foundation Database that was Breached by SiegedSec\n\nhttps://darkwebinformer.com/grep-has-leaked-the-heritage-foundation-database-that-was-breached-by-siegedsec/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/grep-has-leaked-the-heritage-foundation-database-that-was-breached-by-siegedsec/"
+            ]
+        },
+        {
+            "Message ID": 3104,
+            "Date": "2024-09-08",
+            "Content": "💡Updated to Version 1.64. All updates: https://darkwebinformer.com/changelog\n\n🌟 Version 1.64 - September 8th, 2024\n\n🎉 New Features:\n\n* Added an embed of Ransomware.live to https://darkwebinformer.com/ransomware-feed/ (PRO SUBSCRIBERS ONLY). This page will auto-refresh every 60 minutes and will default to this view regardless of which page you're on, directly integrating with Ransomware.live. Eventually, an instance will be hosted on my own infrastructure, as it is open-source: https://github.com/JMousqueton/ransomware.live.\n\n⚙️ Improvements:\n\n* \n\n🐛 Bug Fixes:\n* \n\n🐛 Open Bugs:\n* [Minor]: When changing all images to have rounded corners it makes the images look stretched and not centered on the website/X/Telegram/LinkedIn.\n* [Minor]: Add new tags next to new urls is not showing properly against the table.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Version"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog\n",
+                "somware.live to",
+                "ps://darkwebinformer.com/ransomware-feed/ (P",
+                "somware.live. E",
+                "ps://github.com/JMousqueton/ransomware.live.\n\n"
+            ]
+        },
+        {
+            "Message ID": 3103,
+            "Date": "2024-09-07",
+            "Content": "💡Daily Dose of Dark Web Informer - September 7th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-september-7th-2024-copy-2/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-september-7th-2024-copy-2/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -13535,6 +13575,18 @@
                 "https://rscedu.co.in/",
                 "https://t.me/ANONSTU/1638"
             ]
+        },
+        {
+            "Message ID": 1639,
+            "Date": "2024-09-07",
+            "Content": "Indian Website hacked By Bee\n\n\nUrl : https://www.maharajapvtiti.co.in/\n\n\n\n#Out_India\n#ANONSTU",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.maharajapvtiti.co.in/"
+            ]
         }
     ],
     "Esteem Restoration Eagle": [
@@ -21392,6 +21444,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2659,
+            "Date": "2024-09-08",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "CyberVolk. Group.": [
@@ -23861,6 +23923,17 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1459,
+            "Date": "2024-09-08",
+            "Content": "من نعم و فضل قيام الليل و صلاة الفجر كونك مستيقض أو خارج البيت في أثناء ما يقومون باقتحام عليك و يكون لك أمل بالفرار ، أخجلتنا بكرمك و رحمتك يا الله ☝🏻، قوموا لقيام الليل و صلاة الفجر فإنهما ثقيلتان على المنافقين ، اللهم وفقنا لهما خيارا و ليس اضطراراً 🤲🏻",
+            "Attack Type": "Unknown",
+            "Location": [
+                "فضل",
+                "خارج"
             ],
             "URLs": []
         }
