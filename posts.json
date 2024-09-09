@@ -4479,6 +4479,46 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3195,
+            "Date": "2024-09-09",
+            "Content": "Alleged sale of CIA documents",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3194,
+            "Date": "2024-09-09",
+            "Content": "🚨A Threat Actor is Allegedly Selling WordPress Admin Panel Access to a Shop in the USA",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3193,
+            "Date": "2024-09-09",
+            "Content": "wut",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3192,
+            "Date": "2024-09-09",
+            "Content": "<@U07LM3LPSNP> has joined the channel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -8634,6 +8674,16 @@
             "URLs": [
                 "https://github.com/RSSNext/Follow"
             ]
+        },
+        {
+            "Message ID": 1947,
+            "Date": "2024-09-09",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
