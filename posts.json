@@ -4435,6 +4435,40 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3190,
+            "Date": "2024-09-09",
+            "Content": "Dark Web Informer Alert Powered By:\n\n      Title: Test Alert\n\n      Category: Test Category\n\n      Content: This is test content\n\n      Threat Actor: Test Actor\n\n      Victim Country: Test Country\n\n      URL: https://example.com",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://example.com"
+            ]
+        },
+        {
+            "Message ID": 3189,
+            "Date": "2024-09-09",
+            "Content": "🚨Alleged Leak of Indonesian Citizens Personal Data",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3188,
+            "Date": "2024-09-09",
+            "Content": "Dark Web Informer Alert:\n\n      Title: Test Alert\n\n      Category: Test Category\n\n      Content: This is test content\n\n      Threat Actor: Test Actor\n\n      Victim Country: Test Country\n\n      URL: https://example.com",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://example.com"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
