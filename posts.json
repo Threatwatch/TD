@@ -14427,6 +14427,28 @@
             "URLs": [
                 "https://alsuwaid.ae/"
             ]
+        },
+        {
+            "Message ID": 1642,
+            "Date": "2024-09-09",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1641,
+            "Date": "2024-09-09",
+            "Content": "Url : https://www.lifecompanion.ae/gallery/gallery.php?id=3\n\nHacked by bee\n\n#ANONSTU",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.lifecompanion.ae/gallery/gallery.php?id=3"
+            ]
         }
     ],
     "Esteem Restoration Eagle": [
