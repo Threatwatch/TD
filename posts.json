@@ -4425,6 +4425,16 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-to-start-your-content-academy/"
             ]
+        },
+        {
+            "Message ID": 3187,
+            "Date": "2024-09-09",
+            "Content": "🚨A Threat Actor Allegedly is Selling the database to Tsb2024 KMITL",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -14689,6 +14699,19 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1647,
+            "Date": "2024-09-09",
+            "Content": "🎯 Target India\n\nurl : https://vamech.co.in/\n\n\n#OUT_INDIA\n#ANONSTU",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Target",
+                "India"
+            ],
+            "URLs": [
+                "ttps://vamech.co.in/\n"
+            ]
         }
     ],
     "Esteem Restoration Eagle": [
@@ -37207,6 +37230,16 @@
             "URLs": [
                 "xmpp:ransomblackbit@xmpp.jp"
             ]
+        },
+        {
+            "Message ID": 26359,
+            "Date": "2024-09-09",
+            "Content": "Halving Family 🔔\n\nCrypto : @HalvingFamily\nCarding : @ChezHalving\nCanal : @CanalHalving\nVouches : @VouchesHalving\n\nCanal Officiel : @HalvingOfficial",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ]
 }
