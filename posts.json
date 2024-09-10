@@ -40777,6 +40777,491 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 27081,
+            "Date": "2024-09-10",
+            "Content": "KillSec: Announcement on Belgium data leak series.\n\nWe have successfully compromised a third-party provider (PenBox.IO) that Belgian companies use to process clients sensitive data, such as PII, contact information, login details, and other data that should be handled with care. We have also downloaded a large volume of documents belonging to major companies.\n\nWe keep this data safe and will remove it if we reach an agreement with the affected companies. Otherwise, it will be published and leading to serious lawsuits and GDPR fines.\n\nWe request that any company impacted by this incident act with professionalism and urgency by reaching out to us as soon as possible to discuss the matter further. If we do not receive a response from you, we will have no choice but to make the data public.\n\nReach out to us directly, negotiation firms are not welcome.\n\nWe will provide updates on this announcement.\n\nFIRST CHANNEL\nSECOND CHANNEL\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Belgium"
+            ],
+            "URLs": [
+                "PenBox.IO"
+            ]
+        },
+        {
+            "Message ID": 27080,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27079,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27078,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27077,
+            "Date": "2024-09-10",
+            "Content": "Another one bites the dust, this time is pv.be\n\nWe have compromised a third-party provider and exfiltrated data related from SaaS enterprise clients. This company is implicated in the breach, and we will publish all relevant documents if a resolution is not reached.\n\nDOWNLOAD\n\nFIRST CHANNEL\nSECOND CHANNEL\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "pv.be"
+            ]
+        },
+        {
+            "Message ID": 27076,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27075,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27074,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27073,
+            "Date": "2024-09-10",
+            "Content": "Another one bites the dust, this time is schynsassurances.be\n\nWe have compromised a third-party provider and exfiltrated data related from SaaS enterprise clients. This company is implicated in the breach, and we will publish all relevant documents if a resolution is not reached.\n\nDOWNLOAD\n\nFIRST CHANNEL\nSECOND CHANNEL\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "schynsassurances.be"
+            ]
+        },
+        {
+            "Message ID": 27072,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27071,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27070,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27069,
+            "Date": "2024-09-10",
+            "Content": "Another one bites the dust, this time is dvv.be\n\nWe have compromised a third-party provider and exfiltrated data related from SaaS enterprise clients. This company is implicated in the breach, and we will publish all relevant documents if a resolution is not reached.\n\nDOWNLOAD\n\nFIRST CHANNEL\nSECOND CHANNEL\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "dvv.be"
+            ]
+        },
+        {
+            "Message ID": 27068,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27067,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27066,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27065,
+            "Date": "2024-09-10",
+            "Content": "Another one bites the dust, this time is belfius.be\n\nWe have compromised a third-party provider and exfiltrated data related from SaaS enterprise clients. This company is implicated in the breach, and we will publish all relevant documents if a resolution is not reached.\n\nDOWNLOAD\n\nFIRST CHANNEL\nSECOND CHANNEL\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "belfius.be"
+            ]
+        },
+        {
+            "Message ID": 27064,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27063,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27062,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27061,
+            "Date": "2024-09-10",
+            "Content": "Another one bites the dust, this time is cda.be\n\nWe have compromised a third-party provider and exfiltrated data related from SaaS enterprise clients. This company is implicated in the breach, and we will publish all relevant documents if a resolution is not reached. \n\nDOWNLOAD\n\nFIRST CHANNEL\nSECOND CHANNEL\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "cda.be"
+            ]
+        },
+        {
+            "Message ID": 27060,
+            "Date": "2024-09-10",
+            "Content": "Another one bites the dust, this time is tjs.com\n\nWe have comprehensive order data for all clients of tjs.com - OVER 70K records, including, but not limited to, those who are gold and jewelry buyers.\n\n- Private Information (names, phone numbers, VAT registration number, Itemized pricing and total amounts)\n\nSample: https://gofile.io/d/5Rc6Gz\nDOWNLOAD\n\nFIRST CHANNEL\nSECOND CHANNEL\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tjs.com",
+                "tjs.com",
+                "https://gofile.io/d/5Rc6Gz"
+            ]
+        },
+        {
+            "Message ID": 27059,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27058,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27057,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27056,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27055,
+            "Date": "2024-09-10",
+            "Content": "www.avf-biomedical.com \nLocation de terrains et d’autres biens immobiliers\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.avf-biomedical.com"
+            ]
+        },
+        {
+            "Message ID": 27054,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27053,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27052,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27051,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27050,
+            "Date": "2024-09-10",
+            "Content": "www.bsg.com.au \nBSG was established by the Lever family and is well known throughout the Australasian leisure and hospitality industry. BSG was founded by Keith Lever with a modest beginning, being operated from under his family home. In 1977 his son Dennis along with wife Pam were handed the baton, dedicating over three decades to growing the business from a back yard operation to a multifaceted business. Today, BSG remains owned and operated by the Lever family\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.bsg.com.au"
+            ]
+        },
+        {
+            "Message ID": 27049,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27048,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27047,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27046,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27045,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27044,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27043,
+            "Date": "2024-09-10",
+            "Content": "www.dpe.go.th \nFrom school sport to sport science, Thailand’s Department of Physical Education is making sure Thai youth, and the adults, get a safe and quality access to regular physical activity. \nThe role of Thailand’s Department of Physical Education, part of the Ministry of Tourism and Sports, is to promote and further develop sport, recreation, and sport science.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.dpe.go.th"
+            ]
+        },
+        {
+            "Message ID": 27042,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27041,
+            "Date": "2024-09-10",
+            "Content": "www.iiitd.ac.in \nIndraprastha Institute of Information Technology Delhi (IIIT-Delhi) was created by an act of Delhi legislature empowering it to carry out R&D, conduct educational programs, and grant degrees. The General Council is the apex body of the Institute, chaired by Hon'ble Lt. Governor of Delhi and the Board of Governors is the policy and decision-making body of the Institute. The Senate is empowered to take all academic decisions. IIIT-Delhi is accelerating on the path of becoming one of the leading comprehensive research-led teaching institutes in India and has proven to be consistently responsive towards the evolving needs of society. The faculty members at IIIT-Delhi are among the finest in the country and are internationally recognized. Carrying out cutting-edge research is in the institutional DNA of IIIT-Delhi.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "IIIT",
+                "Delhi",
+                "Delhi",
+                "India"
+            ],
+            "URLs": [
+                "www.iiitd.ac.in"
+            ]
+        },
+        {
+            "Message ID": 27040,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27039,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27038,
+            "Date": "2024-09-10",
+            "Content": "www.unige.it \nThe University of Genoa helps you with guidance services from high school to job placement.\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.unige.it"
+            ]
+        },
+        {
+            "Message ID": 27037,
+            "Date": "2024-09-10",
+            "Content": "Investor stock exchange information database\nCountry : indonesia\ntarget:\nhttps://tpfx.co.id/\n8 Million User Database \n\n\nTarget:\nhttps://www.idx.co.id/\n4.5 Million user database \n\nTarget:\nhttps://investor.id/\n11. million user database \n\n\nTarget:\nhttps://www.motiontrade.id/\n7.9 million user database \n\n\nTarget:\nhttps://pasarmodal.ojk.go.id/\n10 million user database\n\nDOWNLOAD\n\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "indonesia"
+            ],
+            "URLs": [
+                "https://tpfx.co.id/",
+                "https://www.idx.co.id/",
+                "https://investor.id/",
+                "https://www.motiontrade.id/",
+                "https://pasarmodal.ojk.go.id/"
+            ]
         }
     ]
 }
