@@ -4886,6 +4886,40 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3232,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 19:08:05\n🚨Title: Alleged data sale of Balance of Nature\n🛡Victim Countries: USA\n🏭Victim Industries: Health & Fitness\n🏢Victim Organizations: balance of nature\n🌐Victim Sites: balanceofnature.com\n📜Category: Data Breach\n🔗URL: https://breachforums.st/Thread-SELLING-balance-of-nature-customer-data\n🕵️‍♂️Threat Actors: infamous\n🌍Network: openweb\n📝Content: The threat actor claims to be selling 1465800 lines of data from Balance of Nature. The claimed data includes name, email, phone number, country, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "ofnature.com\n📜Categ",
+                "reachforums.st/Thread-SELLING-balance-of-nature-customer-data\n🕵️‍♂️Thr"
+            ]
+        },
+        {
+            "Message ID": 3231,
+            "Date": "2024-09-10",
+            "Content": "🚨A Threat Actor is Allegedly Selling Data to the Company Balance of Nature",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3230,
+            "Date": "2024-09-10",
+            "Content": "💡Cheat Sheet for Designing Secure Systems",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -21359,6 +21393,16 @@
             "Date": "2024-09-07",
             "Content": "\"VoltActivist x Hunterkiller: Two forces, one mission. We rise not just for the code, but for the people. Behind every breach, there’s a purpose—fighting against oppression, exposing corruption, and tearing down walls of censorship. Our masks hide faces, but not our cause. This isn’t just hacktivism; it’s a battle for justice, a stand against injustice in every form. Together, we disrupt systems of control and build a future where freedom is not a privilege but a right. The fight is digital, but the cause is human.\"\n\nMust join both teams: @VoltActivist\n                                        @Hunt3rkill3rs1",
             "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 825,
+            "Date": "2024-09-10",
+            "Content": "снова Израиль...😂😂",
+            "Attack Type": "Unknown",
             "Location": [
                 "N/A"
             ],
