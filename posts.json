@@ -5227,6 +5227,84 @@
                 "🔗DarkWebInformer.com:",
                 "beales.com\n📜Categ"
             ]
+        },
+        {
+            "Message ID": 3264,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 23:13:47\n🚨Title: Alleged database leak of Unidentified company in USA\n🛡️Victim Countries: USA\n🏭Victim Industries: Unknown\n🏢Victim Organizations: Unknown\n🌐Victim Sites: Unknown\n📜Category: Data Leak\n🔗URL: https://breachforums.st/Thread-SELLING-USA-security-software-company-Database-481277-Customer\n🕵️‍♂️Threat Actors: agreindex\n🌍Network: openweb\n📝Content: The threat actor claims to be selling 481277 lines of Customer data from an security software company database in USA. The claimed data includes Email addresses, Names, Phone numbers, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "USA",
+                "USA",
+                "USA"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:"
+            ]
+        },
+        {
+            "Message ID": 3263,
+            "Date": "2024-09-10",
+            "Content": "🚨A Threat Actor is Allegedly Selling the Database of Aalberts N.V.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3262,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 23:05:46\n🚨Title: Alleged database sale of Aalberts N.V.\n🛡️Victim Countries: Netherlands\n🏭Victim Industries: Mechanical or Industrial Engineering\n🏢Victim Organizations: aalberts n.v.\n🌐Victim Sites: aalberts.com\n📜Category: Data Breach\n🔗URL: https://breachforums.st/Thread-SELLING-Aalberts-Global-Management-Employee-contacts\n🕵️‍♂️Threat Actors: 0xghost\n🌍Network: openweb\n📝Content: The threat actor claims to be selling 14,500 employee records from Aalberts N.V. The claimed data includes Name, Role, Company, Phone number, Email, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Netherlands"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "s.com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3261,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 22:59:20\n🚨Title: Allegedlly leaked database of IMMIGRUS\n🛡️Victim Countries: Ivory Coast\n🏭Victim Industries: Leisure & Travel\n🏢Victim Organizations: immigrus\n🌐Victim Sites: immigrus.org\n📜Category: Data Breach\n🔗URL: https://breachforums.st/Thread-DATABASE-Immigrus-Database-Leaked-Download\n🕵️‍♂️Threat Actors: regret\n🌍Network: openweb\n📝Content: The threat actor claims to have leaked 7K lines of data from IMMIGRUS. The claimed data includes Dates of birth, Email addresses, Names, Phone numbers, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Ivory Coast"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "s.org\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3260,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 22:38:33\n🚨Title: Rupicard falls victim to Kill Security Ransomware\n🛡️Victim Countries: India\n🏭Victim Industries: Financial Services\n🏢Victim Organizations: rupicard\n🌐Victim Sites: rupicard.com\n📜Category: Ransomware\n🔗URL: http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion/post/2k18AOO7ib0Pn2MIZKCnySWCa\n🕵️‍♂️Threat Actors: Kill Security\n🌍Network: tor\n📝Content: The group claims to have obtained over 600 GB of the organization's data. Sample screenshots are provided on their Dark Web portal, and they intend to publish the data within 7-8 days.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "India",
+                "GB"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "d.com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3259,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 22:29:41\n🚨Title: Rupicard falls victim to Kill Security Ransomware\n🛡️Victim Countries: USA\n🏭Victim Industries: Financial Services\n🏢Victim Organizations: rupicard\n🌐Victim Sites: rupicard.com\n📜Category: Ransomware\n🔗URL: http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion/post/2k18AOO7ib0Pn2MIZKCnySWCa\n🕵️‍♂️Threat Actors: Kill Security\n🌍Network: tor\n📝Content: The group claims to have obtained over 600 GB of the organization's data. Sample screenshots are provided on their Dark Web portal, and they intend to publish the data within 7-8 days.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA",
+                "GB"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "d.com\n📜Categ"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -48305,6 +48383,416 @@
             "URLs": [
                 "https://israel.travel/transportation/"
             ]
+        },
+        {
+            "Message ID": 27853,
+            "Date": "2024-09-10",
+            "Content": "the database they stole is :\n\nRUSSIA - 5 TB An-Security, \n\ndata contains: customer, financial, confidential documents, infrasturcture, network data, passwords,email conversation,etc\nNews proof- https://cybernewsint.com/attack-on-the-security-ru-company\n\nAnd the web has been seized by the fbi\n\nSHA256 527f71e2ac55ee18f4376f213a242a20aa63f7ab501a23888b7d41ea8661802b ,",
+            "Attack Type": "Unknown",
+            "Location": [
+                "https://cybernewsint.com/attack-on-the-security-ru-company"
+            ],
+            "URLs": [
+                "https://cybernewsint.com/attack-on-the-security-ru-company"
+            ]
+        },
+        {
+            "Message ID": 27852,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27851,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27850,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27849,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27848,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27847,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27846,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27845,
+            "Date": "2024-09-10",
+            "Content": "Guys, I found out who arranged all this, this is a stupid and ridiculous revenge of one of the competitors under the nickname Signature on Exploit forum, he is also the owner of the Cl0p affiliate program, he is taking revenge on me in this way for the ban on Exploit, as you all may remember, the leaders of other RaaS programs which no longer exist created Exploit blacks on him for an unproven scam, also with me nothing worked out and he was banned for simply refusing to deal through a guarantor.\nAnyone who knows any information about this person, please provide this information to me not for free via TOX\n022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\nThis may not necessarily be his identity, perhaps you know his old nicknames and any crypto transactions, all these can help me find him.\nIf anyone from the FBI or FSB knows his identity, please also provide me with this information, not for free via TOX, before you get him, I am sure that someone knows his identity for sure, because he is an old fellow on the forums .\nAN-Security now has almost all details of the person who owns their decryptor and their stolen data.\n\n𓆩LockBitSuppRaas𓆪\nContact us\n\n( Будьте осторожны. Blackchat сменил название на RansomHub. )\n@LockBitSuppRaas",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Exploit",
+                "Exploit"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27844,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27843,
+            "Date": "2024-09-10",
+            "Content": "This company was attacked by a leaked builder, here is the note that the company employees gave me. Judging by the note, the attacker is very cunning and smart, thanks to him I learned a new service for anonymous communication without leaving traces on the Internet, not like these TOXs and panels with chats on TOR. I wish the guys from AN-Security not to be upset, now you will become stronger and will take security more seriously, even Accenture was pentested and somehow they still live.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27842,
+            "Date": "2024-09-10",
+            "Content": "LockBit RaaS admin, LockBitSupp, responded promptly to this incident, emphasizing that LockBit refrains from encrypting companies based in the Commonwealth of Independent States (CIS). Recognizing the severity of the situation, LockBitSupp even extended a gesture of help by reaching out to the affected Russian organization to offer their support:",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27841,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27840,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27839,
+            "Date": "2024-09-10",
+            "Content": "Evidently this cyberattack involved imposters attempting to impersonate LockBit and exploit their brand to enhance their chances of receiving ransom payment.\nAnother notable example of LockBit’s impersonators has been observed at the end of January 2024 when a Russian security company “AN-Security” was compromised by LockBit imposters who allegedly exfiltrated around 5TB of data and demanded 100 BTCs from the victim organization:",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27838,
+            "Date": "2024-09-10",
+            "Content": "LockBit Imposters\nSO BE CAREFUL OF PEOPLE WHO CLAIM TO BE US!!!\nSince the leak of LockBit Black by a disgruntled developer of LockBit in 2022, we have observed numerous threat actors attempting to capitalize on it by impersonating LockBit ransomware and leveraging their well-known brand for their financial gain. Previously we have seen a similar behavior with the infamous REvil gang where REvil imposters tried to leverage their name by revamping the Revil leaksite and modifying an existing REvil binary. Joining the LockBit affiliate program is typically challenging, requiring individuals to prove themselves and establish a reputation before gaining access. However, the leaked LockBit 3.0 provided an opportunity for threat actors to quickly enter the scene, encrypt smaller enterprises, and reap profits without meeting these stringent requirements.\nLockBit Black also enabled LockBit's competitors to undermine their reputation by acting on LockBit's behalf and violating the LockBit RaaS rules. By leveraging LockBit's name and operating outside the established affiliate program rules, these actors sought to discredit LockBit RaaS and gain an advantage in the ransomware market.\nIn December 24, 2023, the Katholische Hospitalvereinigung Ostwestfalen (KHO), a German healthcare network, became the target of a cyber attack, resulting in the paralysis of operations across three major hospitals in Germany. Initially, the attack was attributed to LockBit ransomware, however LockBit later refuted their involvement. In a private TOX chat with vx-underground, LockBit provided the following clarification on the KHO incident:\n\n\nThe LockBit’s Attempt to Stay Relevant, Its Imposters and New Opportunistic Ransomware Groups\n\nNewS:\nhttps://www.trellix.com/blogs/research/the-lockbits-attempt-to-stay-relevant-its-imposters-and-new-opportunistic-ransomware-groups/\n\n\n𓆩LockBitSuppRaas𓆪\nContact us\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n( Будьте осторожны. Blackchat сменил название на RansomHub. )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "US",
+                "Germany"
+            ],
+            "URLs": [
+                "https://www.trellix.com/blogs/research/the-lockbits-attempt-to-stay-relevant-its-imposters-and-new-opportunistic-ransomware-groups/"
+            ]
+        },
+        {
+            "Message ID": 27837,
+            "Date": "2024-09-10",
+            "Content": "ransomware could scare and stop us, and so far we could not be caught by the FBI. If they couldn't catch us in 3 years, they probably never will, and we will keep working. \nProbably the best software and the most extensive list of operating systems and architectures you can attack. \nYou negotiate and make all the decisions yourself. \nPayments to your wallet: there is no way we can cheat you and commit exit scams, as many affiliate programs have done and will continue to do. In addition, in 3 years we have earned a lot of money, so much so that there is no point in ruining your reputation because of some insignificant amount of a few million dollars. \nWe store stolen company data for as long as possible on our blog so that companies are afraid to allow leaks and pay for stolen data if there are backups and there is no need to pay for a decrypter. \nWe have no payout limits - you can encrypt RDP individuals or companies with any income level, any payout is nice for us - both $5,000,000 and $50 million, because we love our work and the process itself, and money is just a nice addition. \nThe best anti-ddos protection and a lot of mirrors, stability of communication with companies is very important for getting payouts. \nPossibility to create private chats for secret communication with Recovery companies: it is very useful to keep secrecy of correspondence and avoid disrupting negotiations. \nDecrypter security: the maximum protection for decrypters allows you to be sure that your company will not be decrypted for free due to any vulnerabilities in the web panel. \nBug bounty program: we understand that there is always a possibility of zero-day vulnerability attacks and we fight this threat with all possible means. \n\nThis page is translated in Google translator. If you are a native speaker and you see a grammatical error, please let us know so that we can correct it and thus show respect to your language and culture.\n\nAnd we don't care who you attack and you have to make sure you can get 5 btc in 1 month\n\nAnd we do not ask you to ask for a ransom from the company, as we wish, because this is your job and your profit, so you can ask the company for any amount for a ransom. Whether it's 20 BTC, 30 BTC or 50 BTC, what's clear is that you can get 5 BTC in 1 month and we will take 20% profit on those 5 BTC. \nAnd the rest is your own profit.\n\nEven if you get 10 btc we only take 20% of your ransom\n\nAnd actually we only take 20% of the profit percentage, but because you paid us 1 btc to start this program, so we will only ask for\n 19% therefore And the rest is your profit. That is your own result. \n\nSo enjoy it and earn millions of $\n𓆩LockBitSuppRaas𓆪\n Contact us\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n( Будьте осторожны. Blackchat сменил название на RansomHub. )\n@LockBitSuppRaas",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27836,
+            "Date": "2024-09-10",
+            "Content": "which should surely be generously paid. \n\nIf you have any questions, doubts or complaints, you do not like something, please tell it to TOX support. If you are very shy, you can do it anonymously by creating a new one-time TOX. It is very important for us to know about all our strengths and weaknesses in order to constantly improve our service. \n\nEvery candidate to join our affiliate program should understand that we are constantly trying to be hacked and harmed in some way. This is why we pay a lot of attention to the candidates who join our partnership program. When joining, a lot of factors are taken into consideration, such as the reputation on the forums, the team composition, evidence of work with other affiliate programs, your wallet balance, the amount of previous payments and much more. You can also join our team by a guarantee of our partners, who are already active and time-tested. \n\nAfter many years of experience, we concluded that the most effective way to test a candidate for accession is a deposit. When you join, you deposit 1 bitcoin in our wallet, in fact, this amount is an advance and will be used at your subsequent payments as payment for our 20% share. For example, the company paid you a ransom for decrypting 100 bitcoins, you have to transfer a share of 20 bitcoins to us, but thanks to the deposit you made when you joined, the amount of the share paid will be 19 bitcoins. This procedure is required only once, only when you join the affiliate program. The deposit weeds out insecure newbies, cops, FBI agents, journalists, white haters, web pentesters, competitors, and other small rodent pests. The deposit amount may be reduced or not required at all, depending on what reputation you have and what information you can provide about yourself. For those who are afraid to trust us with their money and think that we are scammers, it is possible to carry out this procedure through a guarantor, any reputable forum, in this case, you make a deposit on the balance of the forum, where we describe the conditions of the deposit, which are very simple, for example, if you can not earn 5 bitcoins in a month, then your deposit goes to us. \n\nPlease, be understanding with such a careful attitude to your candidacy, because you personally would not be very pleased if your newly encrypted company was decrypted for free by the FBI thanks to some person who easily gained access to the panel and made a masterful hack of our servers using zero-day vulnerabilities. \n\nRecommended, but not required, application form when joining: \n\n1) Links to your profiles on various hacker forums - the older your account, the better. \n2) Describe your experience with other affiliate programs, preferably with some evidence, such as screenshots and transactions that show your payouts. \n3) Show your balance in cryptocurrency at the moment. \n4) Explain the reasons why you left another affiliate program and want to work with us. \n5) Tell about the current accesses you have and are ready to attack immediately after joining us. It is recommended to prove yourself immediately after joining - the sooner you get the first payment, the less doubt will be cast on your identity. \n6) It is desirable to have already downloaded information for the blog from the intended target for the attack and provide evidence of the existence of this information, such as screenshots, file tree or access to these files. \n7) Ask your friends or acquaintances who already work with us to vouch for you. \n8) Request a bitcoin or monero wallet to make a deposit, in case you are confident in your abilities and ready to earn millions of dollars with us. \n\nTo summarize, the reasons why it is better to work with us: \n\nLockBit brand - the whole planet knows about us, we are trusted by encrypted companies, we have shown everyone that it is safe to cooperate with us, we are responsible for our words, we have never cheated anyone and always fulfill our agreements. Decrypter work, stolen data is deleted. \nStability: we have been working for 3 years, and no negative news regarding",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27835,
+            "Date": "2024-09-10",
+            "Content": "u should be aware that your partner may turn out to be a mole or be arrested by the police at any moment. \nIt is forbidden not to fulfill agreements that you stated in chat before payment. For example, promising to give a file tree, and then not doing so. \nIt is imperative to download valuable information from every company you attack. If you can't bypass your firewall settings and you don't have the ability to download the information, then perhaps our proprietary StealBit Stealer can help you. \nIt is not forbidden to work with competitors, but be sure to report it and explain why and what you like from your competitors, we will implement any of your worthy wishes, we care very much about progress and constant development. \n\nCategories of targets to attack: \n\nIt is illegal to encrypt files in critical infrastructure, such as nuclear power plants, thermal power plants, hydroelectric power plants, and other similar organizations. Allowed to steal data without encryption. If you can't figure out if an organization is a critical infrastructure, ask your helpdesk. \nThe oil and gas industry, such as pipelines, gas pipelines, oil production stations, refineries, and other similar organizations are not allowed to be encrypted. It is allowed to steal data without encryption. \nIt is forbidden to attack the post-Soviet countries such as: Armenia, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, Russia, Tajikistan, Turkmenistan, Uzbekistan, Ukraine and Estonia. This is due to the fact that most of our developers and partners were born and grew up in the Soviet Union, the former largest country in the world, but now we are located in the Netherlands. \n\nIt is allowed to attack non-profit organizations. If an organization has computers, it must take care of the security of the corporate network. \nIt is allowed to attack any educational institutions as long as they are private and have a revenue. \nIt is allowed to very carefully and selectively attack medical related institutions such as pharmaceutical companies, dental clinics, plastic surgeries, especially those that change sex and force to be very careful in Thailand, as well as any other organizations provided that they are private and have rhubarb. It is forbidden to encrypt institutions where damage to the files could lead to death, such as cardiology centers, neurosurgical departments, maternity hospitals and the like, that is, those institutions where surgical procedures on high-tech equipment using computers may be performed. It is allowed to steal data from any medical facilities without encryption, as it may be a medical secret and must be strictly protected in accordance with the law. If you can't pinpoint whether or not a particular medical organization can be attacked, contact the helpdesk. \nIt is very commendable to attack police stations and any other law enforcement agencies that are engaged in finding and arresting hackers, they do not appreciate our useful work as a pentest with postpaid and consider it a violation of the law, we should show them that a competent computer network setup is very important and write a fine for computer illiteracy. \nIt is allowed to attack government organizations, only with revenue. \n\nPercentage rate of affiliate program is 20% of the ransom, if you think that this is too much and because of this you are working with another affiliate program or using your personal software, then you should not deny yourself the pleasure of working with us, just increase the amount of ransom by 20% and be happy. \n\nYou receive payments from companies to your personal wallets in any convenient currency and only then transfer the share to our affiliate program. However, for ransom amounts over $500 thousand, you give the attacked company 2 wallets for payment - one is yours, to which the company will transfer 80%, and the second is ours for 20%, thus we will be protected from scam on your part. \n\nYou personally communicate with the attacked companies and decide yourself how much money to take for your invaluable pentest work,",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Armenia",
+                "Belarus",
+                "Georgia",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Moldova",
+                "Russia",
+                "Tajikistan",
+                "Turkmenistan",
+                "Uzbekistan",
+                "Ukraine",
+                "Estonia",
+                "the Soviet Union",
+                "Netherlands",
+                "Thailand"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27834,
+            "Date": "2024-09-10",
+            "Content": "The oldest international [Ransomware] LockBit affiliate program welcomes you. \n\nWe are located in the Netherlands, completely apolitical and only interested in money. \nWe always have an unlimited amount of affiliates, enough space for all professionals. It does not matter what country you live in, what types of language you speak, what age you are, what religion you believe in, anyone on the planet can work with us at any time of the year. \nFirst and foremost, we're looking for cohesive and experienced teams of pentestors. \nIn the second turn we are ready to work with access providers: sale or on a percentage of redemption, but you have to trust us completely. We provide a completely transparent process - you can control the communication with the victim. In case when the company was encrypted and has not paid, you will see the stolen data in the blog. \nWe also work with those who don't encrypt networks, but just want to sell the stolen data, posting it on the largest blog on the planet. \n\nBrief description of functionality: \n\n- admin panel on the Tor network; \n- communication with companies on the Tor network, chat with notifications and file transfer; \n- the ability to create private chats for secret communication with companies; \n- automatic decryption of test files; \n- automatic decrypter output, by pressing the button in the panel; \n- possibility of maximum protection of the decrypter, in this case the decrypter is stored on the flash drive; \n- StealBit stealer, searchable by file name and extension; \n- automatic data uploading to the blog, by you personally without our participation; \n- Possibility to specify any Internet port in StealBit for downloading, for example 22 or 3389, to bypass network security policies; \n- The ability to upload pictures to the blog; \n- Ability to post the history of correspondence with the attacked company to the blog; \n- ability to generate builds with different settings, but with one encryption key for one corporate network; \n- 2 different encryption lockers for Windows in one panel, written by different programmers, allowing to encrypt the network twice, if time allows, it will be useful for paranoiacs who doubt the reliability and implementation of the cryptographic algorithm and believe in free decryption; \n- ability to edit the list to kill processes and services; \n- ability to edit the list of exceptions - computer name, names and file extensions that do not need to be encrypted; \n- the fastest and most efficient cleanup (without the possibility of recovery) of free space after encryption; \n- file name encryption, helps to avoid even partial recovery of a piece of information from the desired file; \n- killing and removing Windows Defender; \n- impersonation to automatically elevate permissions on local computers; \n- SafeMode operation for bypassing anti-viruses and stronger encryption; \n- port scanner in local subnets, can detect all shared DFS, SMB, WebDav resources; \n- automatic distribution in the domain network at runtime without the need for scripts, GPO or psexec methods; \n- safely delete the shadow copies; \n- delete artifacts from system journals. It necessary to protect from forensics examination; \n- shutting down the computer after finishing work, to make it impossible to remove the dump from RAM; \n- printing claims on network printers in infinite numbers; \n- work on all versions of Windows, with very flexible settings (exe, dll, ReflectiveDll, ps1); \n- running on all versions of ESXi (except 4.0), with very flexible settings; \n- work on multiple Linux versions (14 architectures for NAS encryption, RedHat, KVM and others); \n\nAll this and much more awaits you, if you join our team. If you do not find one of your favorite features, please inform us, maybe we will add it especially for you. \n\nRules of the affiliate program: \n\nYou must be active to work with our software package. \nIt is strictly forbidden to give access to the panel to other people. If you work with an affiliate, you may be given a sub-account with correspondence reading rights for your affiliate.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Netherlands",
+                "Linux"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27833,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27832,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27831,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27830,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27829,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27828,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27827,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27826,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27825,
+            "Date": "2024-09-10",
+            "Content": "Want to join our team? Become our partner? And our affiliate? Read the rules carefully!\n\n\nRead the Rules carefully before you contact us.\n\n+___LockBit 3.0 Raas Affiliate Program:\nYou can pay us 1 btc for affiliate team.\n1 btc after that, when I give you panel.\nYou can take any build from malware bazaar and give me the ID.\nAnd after that I will give you the decryption\nthat is proof that I am the Admin\n\nSUPPORT OUR CHANNEL\n\nContact us\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n( Будьте осторожны. Blackchat сменил название на RansomHub. )\n@LockBitSuppRaas\n\n\nNews:\nhttps://www.thefinalhop.com/lockbit-3-0-the-affiliate-program-thats-more-exclusive-than-a-vip-club/\n\nNEWS:\nhttps://blog.talosintelligence.com/ransomware-affiliate-model/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.thefinalhop.com/lockbit-3-0-the-affiliate-program-thats-more-exclusive-than-a-vip-club/",
+                "https://blog.talosintelligence.com/ransomware-affiliate-model/"
+            ]
+        },
+        {
+            "Message ID": 27824,
+            "Date": "2024-09-10",
+            "Content": "contest.omg \nОбъявляю конкурс \n\n\nДля участия в конкурсе необходимо связаться с родственниками или бедолагой, который скорее всего не удачно миксанул крипту в обмен на мою и привлёк к себе внимание ФБР, а вместе с ним и награду в 10 миллионов долларов за свою голову. \n\nКто первый напишет и узнает, как обстоят дела у бедолаги, жив он или не жив, здоров или уже не очень, получит 1000 долларов. \n\nВидео, фото, скриншоты присылайте мне в токс https://tox.chat/download.html \n\nTox ID Support 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\nВ архиве через мой файлообменник \nhttp://lockbitfilzhrvt6eya2lvnp7te4iifzmwybendqclgujqbzu3k4gaid.onion/ \nhttp://lockbitfilzu5e62fybhieutf6653cpv6wco7twgjtkqwdgubn4q5rad.onion/ \nhttp://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion/ \n\n\nКонтакты бедолаги про которого думают, что он это я: \nKHOROSHEV, Dmitry Yuryevich (a.k.a. KHOROSHEV, Dmitrii Yuryevich; a.k.a. KHOROSHEV, Dmitriy Yurevich; a.k.a. YURIEVICH, Dmitry; a.k.a. \"LOCKBITSUPP\"), Russia; DOB 17 Apr 1993; POB Russian Federation; nationality Russia; citizen Russia; Email Address khoroshev1@icloud.com; alt. Email Address sitedev5@yandex.ru; Gender Male; Digital Currency Address - XBT bc1qvhnfknw852ephxyc5hm4q520zmvf9maphetc9z; Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201; Passport 2018278055 (Russia); alt. Passport 2006801524 (Russia); Tax ID No. 366110340670 (Russia) (individual) [CYBER2]. \n\nДмитрий Юрьевич, если ты живой и читаешь это, свяжись со мной, я переживаю за тебя. \n\nКонкурс актуален до тех пор, пока это объявление опубликовано у меня в блоге. Впереди возможны конкурсы с более существенной наградой, следите за обновлениями в блоге. \n\nI'm announcing a contest. \nTo participate in the contest you need to contact your relatives or the poor guy, who most likely did not successfully mix crypto in exchange for mine and attracted the attention of the FBI, and with it the reward of 10 million dollars for his head. \n\nWhoever is the first to write and find out how the poor guy is doing, whether he's alive or not, healthy or not so healthy anymore, will get 1000 dollars. \n\nSend me videos, photos, screenshots to my Tox https://tox.chat/download.html \n\nTOX ID SUPPORT  022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n\nArchived via my file sharing site \nhttp://lockbitfilzhrvt6eya2lvnp7te4iifzmwybendqclgujqbzu3k4gaid.onion/ \nhttp://lockbitfilzu5e62fybhieutf6653cpv6wco7twgjtkqwdgubn4q5rad.onion/ \nhttp://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion/ \n\n\nContacts of the poor guy they think he's me: \nKHOROSHEV, Dmitry Yuryevich (a.k.a. KHOROSHEV, Dmitrii Yuryevich; a.k.a. KHOROSHEV, Dmitriy Yurevich; a.k.a. YURIEVICH, Dmitry; a.k.a. \"LOCKBITSUPP\"), Russia; DOB 17 Apr 1993; POB Russian Federation; nationality Russia; citizen Russia; Email Address khoroshev1@icloud.com; alt. Email Address sitedev5@yandex.ru; Gender Male; Digital Currency Address - XBT bc1qvhnfknw852ephxyc5hm4q520zmvf9maphetc9z; Secondary sanctions risk: Ukraine-Russia-Related Sanctions Regulations, 31 CFR 589.201; Passport 2018278055 (Russia); alt. Passport 2006801524 (Russia); Tax ID No. 366110340670 (Russia) (individual) [CYBER2]. \n\nDmitry Yurievich, if you are alive and reading this, contact me, I am worried about you. \n\nThe contest is relevant as long as this announcement is published on my blog. There may be contests with more substantial rewards ahead, stay tuned to my blog for updates. \n\n\nДобавление данных из гугла, не знаю на сколько верны: \nВК: https://vk.com/d_khoroshev \nTelegram: @TPABMATOJIOr \nСНИЛС: 18994837568 \nПаспорта: 2013618447, 2018278055 \nАвто: Н753ЕА136 \nПочта: \nKHOROSHEV1@ICLOUD.COM \nD.HOROSHEV@GMAIL.COM \nКарты: 4154816955937722; 5211786641859275; 4154816982000361; 4154816935667019; 5211786642408783; 4584432812268200; 5211786647176476 \nПрописка: РОССИЯ ВОРОНЕЖСКАЯ ОБЛ Г ВОРОНЕЖ 394044 КАЛИНИНГРАДСКАЯ УЛ Д. 108 КВ. 61 \nАдреса: Воронеж, улица Шишкова, 72/5 кв.165 эт.7 домоф.165, \nВоронеж, улица\nCHANNELS\n\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "KHOROSHEV",
+                "KHOROSHEV",
+                "a.k.a",
+                "Russia",
+                "Russia",
+                "Russia",
+                "Russia",
+                "Russia",
+                "Russia",
+                "свяжись",
+                "мной",
+                "возможны",
+                "KHOROSHEV",
+                "KHOROSHEV",
+                "a.k.a",
+                "Russia",
+                "Russia",
+                "Russia",
+                "Ukraine",
+                "Russia",
+                "Russia",
+                "Russia",
+                "Адреса"
+            ],
+            "URLs": [
+                "https://tox.chat/download.html",
+                "http://lockbitfilzhrvt6eya2lvnp7te4iifzmwybendqclgujqbzu3k4gaid.onion/",
+                "http://lockbitfilzu5e62fybhieutf6653cpv6wco7twgjtkqwdgubn4q5rad.onion/",
+                "http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion/",
+                "https://tox.chat/download.html",
+                "http://lockbitfilzhrvt6eya2lvnp7te4iifzmwybendqclgujqbzu3k4gaid.onion/",
+                "http://lockbitfilzu5e62fybhieutf6653cpv6wco7twgjtkqwdgubn4q5rad.onion/",
+                "http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion/",
+                "https://vk.com/d_khoroshev"
+            ]
+        },
+        {
+            "Message ID": 27823,
+            "Date": "2024-09-10",
+            "Content": "https://techinformed.com/did-the-fbi-get-lockbitsupp-wrong/\n\nPeople wonder if I got caught?\nOf course it is impossible for the FBI to wrongly arrest an innocent person.\n\nDmitry Khoroshev\n\nMaybe this makes everyone curious and just assume that the person who has been identified by the FBI is me as the big founder and Leader of Lockbit 3.0\n\nwe have been active for 5 years and working for 5 years in Ransomware affiliate program \n\nSo if you come to us, you don't need to hesitate to express anything or anything related to access, purchasing information, databases, or asking about encryption, descriptions and so on. Other or join our group, you don't need to hesitate and be shy to contact us.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://techinformed.com/did-the-fbi-get-lockbitsupp-wrong/"
+            ]
+        },
+        {
+            "Message ID": 27822,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27821,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27820,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27819,
+            "Date": "2024-09-10",
+            "Content": "4 leaks of active duty personal from 4 branches of the US Military \n \nBranches \nAir Force \nNavy \nArmy \nCoast Guard \n \nSize of each branch \nAir Force 5 TB document secret and access database \n\n\nNavy 2 TB document secret and access database \n\n\nArmy 750 GB  document Secret and access database \n\n\nCoast Guard  1 TB document secret and access database \n\nFile Information: \nID, NAME, TITLE, EMAIL, PHONE, UNITS,SECRET DOCUMENTS, WEAPONS RECORDS, ETC. and much more detailed information\n\n\nPRICE 25,000$\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Hacking",
+            "Location": [
+                "GB"
+            ],
+            "URLs": []
         }
     ],
     "TestAlert": [
