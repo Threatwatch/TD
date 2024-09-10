@@ -13463,6 +13463,16 @@
                 "GB"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 702,
+            "Date": "2024-09-10",
+            "Content": "🚨Data Breach ‼️ - Japan 🇯🇵\n\nSeveral accommodation facilities in Japan have reported unauthorized access to their systems, likely due to the use of a common reservation management platform.\n\nThe impacted accomodation facilities include:\n- La Vista Kirishima Hills;\n- Natural Hot Spring Onyado Nono Kanazawa;\n- Dormy Inn Higashi Muroran;\n- WeBase Hakata;\n- Hotel Resol Kyoto Shijo Muromachi;\n- Best Western Okinawa Kouki Beach.\n\nThe compromised data includes names, addresses, phone numbers, emails, and other personal details.\n\nFull article:\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00001/09741/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Japan"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
@@ -19793,6 +19803,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4418,
+            "Date": "2024-09-10",
+            "Content": "September 10, 2024  Hunters  #Financial #Hunters #Malaysia",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Malaysia"
             ],
             "URLs": []
         }
