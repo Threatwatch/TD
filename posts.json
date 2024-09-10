@@ -13453,6 +13453,16 @@
                 "GB"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 695,
+            "Date": "2024-09-10",
+            "Content": "⚠️Cyberattack Alert - 🇫🇷AVF Biomedical\n\nThe hacking group RansomHub claims to have breached AVF Biomedical. \n\nAllegedly, 31 GB of data were exfiltrated.\nRansom deadline: 23rd Sep 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "GB"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
