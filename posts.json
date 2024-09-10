@@ -5106,6 +5106,127 @@
                 "Brazil"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3258,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 22:17:12\n🚨Title: Alleged data leak of planetshop.dk\n🛡️Victim Countries: Denmark\n🏭Victim Industries: Retail Industry\n🏢Victim Organizations: planetshop.dk\n🌐Victim Sites: planetshop.dk\n📜Category: Data Leak\n🔗URL: https://leakbase.io/threads/database-planetshop-dk.29163/\n🕵️‍♂️Threat Actors: Henryz\n🌍Network: openweb\n📝Content: The threat actor claims to have leaked the database of planetshop.dk.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Denmark"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "netshop.dk\n🛡️",
+                "shop.dk\n🌐Vict",
+                "hop.dk\n📜Categ",
+                "k."
+            ]
+        },
+        {
+            "Message ID": 3257,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 22:06:08\n🚨Title: Mr Hamza targets the website of Amantran weddings\n🛡️Victim Countries: India\n🏭Victim Industries: Events Services\n🏢Victim Organizations: amantran weddings\n🌐Victim Sites: amantranweddings.com\n📜Category: Defacement\n🔗URL: https://t.me/blackopsmrhamza/1491\n🕵️‍♂️Threat Actors: Mr Hamza\n🌍Network: telegram\n📝Content: Group claims to have defaced the website of Amantran weddings.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "Amantran",
+                "India",
+                "Amantran"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "nweddings.com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3256,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 22:05:19\n🚨Title: Alleged VPN access sale to Taiwan University\n🛡️Victim Countries: Taiwan\n🏭Victim Industries: Unknown\n🏢Victim Organizations: Unknown\n🌐Victim Sites: Unknown\n📜Category: Initial Access\n🔗URL: https://breachforums.st/Thread-VPN-Taiwan-University-1-Billion-Revenue\n🕵️‍♂️Threat Actors: RADAR\n🌍Network: openweb\n📝Content: The threat actor claims to be selling VPN access to Taiwan University. The company has an annual turnover of $ 1 Billion.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Taiwan"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:"
+            ]
+        },
+        {
+            "Message ID": 3255,
+            "Date": "2024-09-10",
+            "Content": "🚨grep has Allegedly Leaked Scraped Data Belonging to Trello dated January 2024",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3253,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 21:46:50\n🚨Title: Alleged leak of Computerised National Identity Card data\n🛡️Victim Countries: Pakistan\n🏭Victim Industries: Unknown\n🏢Victim Organizations: computerised national identity card\n🌐Victim Sites: Unknown\n📜Category: Data Leak\n🔗URL: https://t.me/Hacktivist_Vanguard/1856\n🕵️‍♂️Threat Actors: HACKTIVIST VANGUARD\n🌍Network: telegram\n📝Content: Group claims to have leaked Computerised National Identity Card data.\nSize: 10GB",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Pakistan",
+                "GB"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:"
+            ]
+        },
+        {
+            "Message ID": 3252,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 21:34:00\n🚨Title: Al Ahad targets the website of Bank of Israel\n🛡️Victim Countries: Israel\n🏭Victim Industries: Financial Services\n🏢Victim Organizations: bank of israel\n🌐Victim Sites: boi.org.il/en\n📜Category: DDoS Attack\n🔗URL: https://t.me/AlAhadSecurity/1507\n🕵️‍♂️Threat Actors: Al Ahad\n🌍Network: telegram\n📝Content: Proof of downtime: https://check-host.net/check-report/1e1d3b2bkf74",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Israel",
+                "israel"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                ".il/en\n📜Categ",
+                "k-host.net/check-report/1e1d3b2bkf74"
+            ]
+        },
+        {
+            "Message ID": 3251,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 21:29:54\n🚨Title: RCH-PROOF targets the website of Anly\n🛡️Victim Countries: Belgium\n🏭Victim Industries: Manufacturing\n🏢Victim Organizations: anly\n🌐Victim Sites: anly.com.tw\n📜Category: DDoS Attack\n🔗URL: https://t.me/RCH_POWER/73\n🕵️‍♂️Threat Actors: RCH-PROOF\n🌍Network: telegram\n📝Content: Proof of downtime: https://check-host.net/check-report/1e1cd2bekb6e",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Belgium"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "m.tw\n📜Categ",
+                "k-host.net/check-report/1e1cd2bekb6e"
+            ]
+        },
+        {
+            "Message ID": 3250,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 21:28:51\n🚨Title: Evans Distribution Systems falls victim to PLAY Ransomware\n🛡️Victim Countries: USA\n🏭Victim Industries: Transportation & Logistics\n🏢Victim Organizations: evans distribution systems\n🌐Victim Sites: evansdist.com\n📜Category: Ransomware\n🔗URL: http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/topic.php?id=Wy5s1zRu8xRxYP\n🕵️‍♂️Threat Actors: PLAY\n🌍Network: tor\n📝Content: The group claims to have obtained the organization's data, which includes private and personal confidential information such as client documents, budget details, payroll records, accounting data, contracts, tax information, and IDs, and intends to publish it on September 15, 2024.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "st.com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3249,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 21:23:25\n🚨Title: Weldco-Beales Manufacturing falls victim to PLAY Ransomware\n🛡️Victim Countries: USA\n🏭Victim Industries: Machinery Manufacturing\n🏢Victim Organizations: weldco-beales manufacturing\n🌐Victim Sites: weldco-beales.com\n📜Category: Ransomware\n🔗URL: http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/topic.php?id=CcJuJrzAclsSF\n🕵️‍♂️Threat Actors: PLAY\n🌍Network: tor\n📝Content: The group claims to have obtained the organization's data, which includes private and personal confidential information such as client documents, budget details, payroll records, accounting data, contracts, tax information, and IDs, and intends to publish it on September 15, 2024.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "beales.com\n📜Categ"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -26310,6 +26431,20 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1491,
+            "Date": "2024-09-10",
+            "Content": "تم اختراق موقع شركة Amantran Weddings الذي يقدم خدمات تنظيم حفلات الزفاف، وتنسيق التخطيط للحفلات وتنسيق المناسبات، مثل توفير القاعات، الطعام، والديكورات.وهو من بين اشهر الشركات للتنظيم الحفلات في الهند حيث انهم يملكون عدة فروع في جميع انحاء الهند.\n\nAmantran Weddings, a wedding planning, event planning and event management company, has been hacked. It is one of the most popular event planning companies in India with branches across India.\n\nhttps://amantranweddings.com\n\nجاء هذا الاختراق كمساعدة للعدة فرق مغربية التي اعلنت هجمات شرسة ضد الهند.\n\nThis hack came as an aid to several Moroccan teams that announced fierce attacks against India.\n\n#Ops_India",
+            "Attack Type": "Hacking",
+            "Location": [
+                "India",
+                "India",
+                "India"
+            ],
+            "URLs": [
+                "https://amantranweddings.com"
+            ]
         }
     ],
     "RipperSec iO": [
@@ -47994,6 +48129,182 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 27818,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27817,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27816,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27815,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27814,
+            "Date": "2024-09-10",
+            "Content": "Indeed, today we are flooded with information about China, until the files reach TB.\n\nwe've uploaded it for about a few TB on our VIP channel \n\nYou can join if you want lots of great Chinese information\n\nTox ID Support:\n022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n\nXMPP :\nxmpp:ransomblackbit@xmpp.jp\n\nget to the point when dm | @LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "xmpp:ransomblackbit@xmpp.jp"
+            ]
+        },
+        {
+            "Message ID": 27813,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27812,
+            "Date": "2024-09-10",
+            "Content": "8 726 594 clients of delivery company\n\nphone|member_name|member_stat|member_address|sex|member_level|prov|region|auth_path|distribution| and other\n\nCSV, 100 records\nSIZE = 2.4GB (full pack)\n\n\nTox ID Support:\n022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n\nXMPP :\nxmpp:ransomblackbit@xmpp.jp\n\nget to the point when dm | @LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "GB"
+            ],
+            "URLs": [
+                "xmpp:ransomblackbit@xmpp.jp"
+            ]
+        },
+        {
+            "Message ID": 27811,
+            "Date": "2024-09-10",
+            "Content": "China leaked by the Ministry of Human Resources and Social Security 4 millions data\n\nFor Sale: 4 millions  Data on Chinese middle and high-end people\n\nSource:  Data from http://www.mohrss.gov.cn/  internal leak \n\nBreach Date:\nThis is the latest data for this year, dumped on January 12, 2024",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "http://www.mohrss.gov.cn/"
+            ]
+        },
+        {
+            "Message ID": 27810,
+            "Date": "2024-09-10",
+            "Content": "141 639 668 users of jd.com \n\nreal name, user name, password, email, QQ number, phone number, ID card\n\nCSV, sample\nSIZE = 11.5GB\n\nno password! sample",
+            "Attack Type": "Unknown",
+            "Location": [
+                "GB"
+            ],
+            "URLs": [
+                "jd.com"
+            ]
+        },
+        {
+            "Message ID": 27809,
+            "Date": "2024-09-10",
+            "Content": "sample.json",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27808,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27807,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27806,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27805,
+            "Date": "2024-09-10",
+            "Content": "NATO Database + Documents Confidential 3 TB database \n\ndatabase with +3 TB members / partners from NATO, Classified Documents and Technical Reports\n\nSome of the Security Classification Levels of the Documents\nNR (NATO Restricted)\nNC (NATO Confidential)\nNS (NATO Secret)\n\nPrice Database Documents Secret: 5000$\nPrice for access:\n15.000$\nContact: message me on the site\n(One time sale)\n\nSome of the Agencys involve in the database\nMinistry of Armed Forces of France\nMinistry of Defence of the Netherlands\nTurkish Government\nUK Government\nUnited States Navy\nCanadian Armed Forces\nNASA Glenn Research Center\nMinistry of Defence of Spain\nNaval Air Systems Command\nNATO Research and Technology Agency\nMinistry of Defence of Italy\nDepartment of Defence of Australia\nMinistry of Foreign Affairs of Georgia\nPolish Space Agency\nMinistry of Defence of Latvia\nScience and Technology Agency of Singapore\nSecretary of the Navy in Mexico\nFile Information \nGender, First Name, Last Name, Nationality, Country, Email1, Email2, Phone1, Phone2, Fax1, Fax2, Address1, Address2, Employer, Job Title\n\nSample\nGender, First Name, Last Name, Nationality, Country, Email1, Email2, Phone1, Phone2, Fax1, Fax2, Address1, Address2, Employer, Job Title\nMr, Arnie, Delstanche, United Kingdom, United Kingdom, adelstanche@dstl.gov.uk, , +44 (0)1980 955582, , , , Dstl, Portsdown West, Portsdown Hill, Fareham, PO16 6AD, Dstl, Senior Data Analyst\nMr., G. H., ABUMERI, United States, United States, qalib.h.abumeri@grc.nasa.gov, , +1 216 977 1408, , + 1 216 977 1334, , QSS Group INC, 21000 Brookpark Road, Cleveland, OH 44135, , , ,\nDR, DAMODAR, AMBUR, United States, United States, damodar.r.ambur@nasa.gov, , (011 + 1)757-864-1718, , (011 +1)757-864-8320, , MS 162, HAMPTON, VA 23681, , NASA LANGLEY RESEARCH CENTER, DEPUTY DIRECTOR\nMr, Peter, KERR, Australia, United Kingdom, Peter.Kerr@defence.gov.au, , +61 2 62652941, +61 8 82 59 67 41, , , Russell Offices - R1-2-D034, , Australian Dept. of  Defence, Scientific Advisor - Joint\nCapt., Ing. Augusto, D´ANGLADE, Spain, Spain, a1jalrtamarsub@fn.mde.es, , +34 (91) 379 5478, , +34 (91) 379 5465, , Ministerio de Defensa, Jefatura Apoyo Logistico Armada Avda Pio VII 83 Despacho 369 28036 Madrid, , ,\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Hacking",
+            "Location": [
+                "NC",
+                "Georgia",
+                "Singapore",
+                "United Kingdom",
+                "United Kingdom",
+                "Portsdown Hill",
+                "United States",
+                "United States",
+                "Cleveland",
+                "DR",
+                "United States",
+                "United States",
+                "Australia",
+                "United Kingdom",
+                "Spain",
+                "Spain",
+                "Madrid"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27804,
+            "Date": "2024-09-10",
+            "Content": "5 Million database of information \nhttps://israel.travel/transportation/\n\nWe are taking down the website as a warning. If you don't pay, we may also share sensitive information for free. \n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://israel.travel/transportation/"
+            ]
         }
     ],
     "TestAlert": [
