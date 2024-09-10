@@ -4753,6 +4753,70 @@
             "URLs": [
                 "https://x.com/DarkWebInformer/status/1833248415683170763"
             ]
+        },
+        {
+            "Message ID": 3223,
+            "Date": "2024-09-10",
+            "Content": "🚨A Threat Actor is Allegedly Selling RDP Access to an UK Company",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3222,
+            "Date": "2024-09-10",
+            "Content": "🚨A Threat Actor is Allegedly Selling Access to Thailand Government Websites",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3221,
+            "Date": "2024-09-10",
+            "Content": "🚨A Threat Actor has Allegedly Leaked Data to the Peruvian Ministry of Education",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3220,
+            "Date": "2024-09-10",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-10 19:41:25\n🚨Title: Alleged data leak of Punjab Police Pakistan\n🛡Victims: punjab police, <http://punjabpolice.gov.pk|punjabpolice.gov.pk>\n🏭Industry: Law Enforcement\n🗺Country: Pakistan\n🖼Screenshot Links: Unknown\n🕵️‍♂️Threat Actor: Hindutva Warriors",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Pakistan"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "://punjabpolice.gov.pk|pun",
+                "abpolice.gov.pk>\n🏭I"
+            ]
+        },
+        {
+            "Message ID": 3219,
+            "Date": "2024-09-10",
+            "Content": "🚨A Threat Actor is Allegedly Selling a Preauth RCE 0day Exploit That Affects Dolibarr",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3218,
+            "Date": "2024-09-10",
+            "Content": "🚨A Threat Actor is Allegedly Selling the Database of Nan Hospital",
+            "Attack Type": "Unknown",
+            "Location": [
+                "the Database of Nan Hospital"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -44196,6 +44260,554 @@
                 "GB"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 27426,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27425,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27424,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27423,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27422,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27421,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27420,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27419,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27418,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27417,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27416,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27415,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27414,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27413,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27412,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27411,
+            "Date": "2024-09-10",
+            "Content": "BIG INDIAN DATABASE \n\n\n\n110 million (11 Crore) indian cardholder's cards data including personal details and KYC soft copy ( PAN,Aadhar etc) Leaked from a company's server in india.                                                                                                                                  6 TERABYTES Data nad 350 GB Compressed mysql dump data includes KYC details, Addresses, phone number, Aadhar card data, and other detail of the user\n\nAadhaar\nPAN Card\nDriving License\nPassport\nBank Card\nVoter ID\nMobile Number\nEmail Address\nDate of Birth\nHouse Address Number\nVehicle Number\nCVV\nBANK STATEMENT                      Registration Details\n\nWork with us: targets' providers, software engineers, pentesters, journalists.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Aadhar",
+                "india",
+                "Aadhar"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27410,
+            "Date": "2024-09-10",
+            "Content": "HDI \n \nHDI is a diversified, global mining group with more than 25 years of mineral development success. \n \nRevenue: $100 Millions \n \nData Volume: 9.5 TB \n \nData description: \nMultiple affiliated companies’ data\n    Wide companies’ and their projects’ financial data \n    HR data \n    Partners and vendors data \n    Engineering data \n    Incidents and injuries data \n    Litigations data \n    Restricted data \n    Geological data \n    Data of projects and business operating in Africa/CIS and EU contries/Brazil/China and other regions \n    Minerals/graphite/silver/gold and other materials mining fields data \n    Mailboxes and internal & external email correspondence \n    Databases\n\n\nWork with us: targets' providers, software engineers, pentesters, journalists.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Brazil",
+                "China"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27409,
+            "Date": "2024-09-10",
+            "Content": "Smart Source, Inc. \n \nhttps://smartsource-inc.com \n \nSmartSource is a leading provider of technology talent, multi-site deployments, and technical solutions. They provide both the people and processes needed for VARs and OEMs to grow and win with technology. \n \nCEO: Joe Iovinelli \n \nBusiness email: jiovinelli@smartsource-inc.com \nMobile Phone:  +1 (630) 818-1046 \n \nPresident: Tony Iovinelli \n \nBusiness email: tiovinelli@smartsource-inc.com \nMobile Phone: +1 (630) 373-1532 \n \nVP of Strategy & Dvlpmnt: Keith Giffney \n \nBusiness email: kgiffney@smartsource-inc.com \nMobile Phone: +1 (630) 926-8460\nRevenue: > $80 Millions \nData volume: 700 Gb \nData description:\n NDA\n    Financial data \n    Clients data \n    QuickBooks \n    Email archive\n\nWork with us: targets' providers, software engineers, pentesters, journalists.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://smartsource-inc.com"
+            ]
+        },
+        {
+            "Message ID": 27408,
+            "Date": "2024-09-10",
+            "Content": "Majestic Metals \n \nhttps://fathommfg.com/fathom-denver \n \nMajestic Metals is a precision sheet metal fabrication services provider. Formed in 1979, Majestic Metals has evolved into one of the most progressive, single-source suppliers of custom, precision sheet metal products in the nation. \n \nSupervisor: Stacey Kelley \n \nBusiness Email: stacey.kelley@fathommfg.com \nBusiness Email: stacey.kelley@majesticmetals.com \nCell Phone: +1-303-638-9752 \nCell Phone: +1-720-974-3121 \n \nSupervisor: Douglas Roberts \n \nBusiness Email: doug.roberts@majesticmetals.com \nBusiness Email: dougr@majesticmetals.com \n \nSupervisor: David Roberts \n \nBusiness Email: david.roberts@majesticmetals.com \nBusiness Email: davidr@majesticmetals.com \n \nSupervisor: David Roberts \n \nBusiness Email: levi.roberts@fathommfg.com \nCell Phone: +1-303-921-8662\nRevenue: $24.1 Millions \nData Volume: 735 GB \nData description:\nFinance data \n    HR data \n    Partners and customers data \n    Engineering and technologies \n    Mailboxes \n    Internal and external email correspondence \n    Databases                                                                                                          \nBusiness data ,CAD files, Finance data, Graphic data, Technical data.\n\n\nWork with us: targets' providers, software engineers, pentesters, journalists.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Hacking",
+            "Location": [
+                "GB"
+            ],
+            "URLs": [
+                "https://fathommfg.com/fathom-denver"
+            ]
+        },
+        {
+            "Message ID": 27407,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27406,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27405,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27404,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27403,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27402,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27401,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27400,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27399,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27398,
+            "Date": "2024-09-10",
+            "Content": "GCA Global Cargo Alliance \n \nhttps://gcargo.com \n \nGCA Global Cargo Alliance, a leading freight forwarder in the logistics market established in 1994, is a customer-dedicated company that delivers premium service at very competitive prices. \n \nPresident: Jamil Atallah \n \nBusiness Email: jamil.atallah@gcargo.com \nCell Phone: +1-786-556-5043 \n                                                                                                                                                                                                                                                                        CFO: Soraya Atallah \n \nBusiness Email: soraya.atallah@gcargo.com \nCell Phone: +1-786-556-4643 \n                                                                                                                                                     Sales Director: Samira Atallah \n \nBusiness Email: samira.atallah@gcargo.com \nCell Phone: +1-786-556-5041 \n                                                                                                                                                  Business Development Director: Alejandro Parra \n \nBusiness Email: alejandro.parra@gcargo.com \nCell Phone: +1-786-942-7394 \n                                                                                                                                                   Battle Lumber Co. \n \nBattle Lumber Co., Inc is a lumber supply company that provides modern hardwood grade lumber & pallets. \n \nRevenue: $106 Millions \n \nData Volume: 1.1 TB \n \nData description: \n   \n Finance data \n    HR data \n    Partners and vendors data \n    Clients and customers data \n    Engineering \n    PII and PHI records \n    Incidents and accidents data \n    Mailboxes and internal & external email correspondence\n\nWork with us: targets' providers, software engineers, pentesters, journalists.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://gcargo.com"
+            ]
+        },
+        {
+            "Message ID": 27397,
+            "Date": "2024-09-10",
+            "Content": "Battle Lumber Co. \n \nBattle Lumber Co., Inc is a lumber supply company that provides modern hardwood grade lumber & pallets. \n \nRevenue: $106 Millions \n \nData Volume: 1.1 TB \n \nData description: \n    Finance data \n    HR data \n    Partners and vendors data \n    Clients and customers data \n    Engineering \n    PII and PHI records \n    Incidents and accidents data \n    Mailboxes and internal & external email correspondence\n\nWork with us: targets' providers, software engineers, pentesters, journalists.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27396,
+            "Date": "2024-09-10",
+            "Content": "Anniversary Holding \n \nHolding Companies & Conglomerates. \n \nPresident: James Glasgow \n \nBusiness Email: JGlasgow@ahclallc.com \nCell Phone: +1-337-344-6960 \nCell Phone: +1-337-837-4567 \n \nProperty Manager: Glenda Glasgow \n \nBusiness Email: GGlasgow@ahclallc.com \nCell Phone: +1-337-298-3650 \nCell Phone: +1-337-261-0961 \n \nCFO: Brad Cohen \n \nBusiness Email: Brad@ahclallc.com \nCell Phone: +1-337-344-3600 \nCell Phone: +1-337-456-8500 \n \nDynasty Energy Services Executive Vice President: Keith Alexander \n \nBusiness Email: kalexander@dynastyes.com \nCell Phone: +1-713-817-9187 \n \nCohesive Connections President: Kevin Cohen \n \nBusiness Email: kcohen@cohesiveconnections.com \nCell Phone: +1-337-278-9364 \nRevenue: $5 Millions \nData Volume: 2.9 TB \nData description: \n Finance data \n    HR data \n    Four of AHCLA’s relative companies’ data \n    Partners, vendors, and customers data \n    PII and PHI records (including injury reports, health and medical records) \n    Mailboxes \n    Internal and external email correspondence    \n                                                                                                                                                                                                                                                                                                                                  Business data, Finance data , Private & Confidential ,  Technical data\n\nWork with us: targets' providers, software engineers, pentesters, journalists.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27395,
+            "Date": "2024-09-10",
+            "Content": "Keya Accounting and Tax Services LLC \n \nhttps://keyatax.com/ \n \nKeya Accounting Services LLC experienced team of accountants, bookkeepers, payroll specialists, marketing and IT professionals understanding of the business climate in the Washington. \n \nCEO: Keshab Baral \n \nEmail: keya8951@gmail.com \nMobile Phone:571-407-5900 \n \nRevenue: > $5 Millions \n \nData description: \nPersonal Data. \n    Accounting, budget, financial data. \n    Clients data: 625 corporate clients, 864 personal clients \n \nData of this company will be available soon. It will be published block by block, so stay tuned for updates of this company daily                                                                                        Work with us: targets' providers, software engineers, pentesters, journalists.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Washington"
+            ],
+            "URLs": [
+                "https://keyatax.com/"
+            ]
+        },
+        {
+            "Message ID": 27394,
+            "Date": "2024-09-10",
+            "Content": "CK Associates \n \nhttps://www.c-ka.com \n \nCK Associates is an environmental consulting firm that is fully owned by its employees. CK was established in 1981 and became an employeeowned firm in 2004. CK’s offices are located in Baton Rouge, Lake Charles, Shreveport and Houston. \n \nCEO: Dan Strecker \n \nBusiness email: Dan.Strecker@c-ka.com \nMobile Phone:  +1 (225) 229-8856 \n \nChief Operating Officer: Tre Wharton \n \nBusiness email: tre.wharton@c-ka.com \nMobile Phone: +1 (225) 923-6460 \n \nChief Finance Officer: Pat Long \n \nBusiness email: pat.long@c-ka.com \nMobile Phone: +1 (225) 252-7237 \nRevenue: > $12 Millions \nData volume: 1 Tb \nData description: \nClients and customers data. \n    Finance data. \n    Engineering and technologies. \n    Contract data and NDA’s. \n    Incidents and accidents. \n    Operational and business files. \n    Mailboxes & Internal and external email correspondence. \n \nData of this company will be available soon. It will be published block by block, so stay tuned for updates of this company daily                                                 Work with us: targets' providers, software engineers, pentesters, journalists.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Baton Rouge",
+                "Lake Charles",
+                "Shreveport",
+                "Houston"
+            ],
+            "URLs": [
+                "https://www.c-ka.com"
+            ]
+        },
+        {
+            "Message ID": 27393,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27392,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27391,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27390,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27389,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27388,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27387,
+            "Date": "2024-09-10",
+            "Content": "Studio Legale Associato Isolabella \n \nStudio Legale Associato Isolabella is a company that operates in the Law Firms & Legal Services industry. \n \nFounder: Lodovico Isolabella \n \nBusiness Email: lodovico.isolabella@studioisolabella.it                                                                           Partner: Francesco Isolabella \n \nBusiness Email: francesco.isolabella@studioisolabella.it \nCell Phone: +39-348-382-0733 \n Partner: Luigi Isolabella \n \nBusiness Email: luigi.isolabella@studioisolabella.it \nCell Phone: +39-348-382-2526 \n Revenue: <$5 Millions \n Data Volume: 1.3 TB \n \nData description: \n\n    Finance data \n    HR data \n    Incidents & casefiles \n    Court and litigations’ data \n    Exhibits \n    Clients’ PII & PHI records \n    Mailboxes \n    Internal and external email correspondence \n \nHere are some samples of data taken from Isolabella’s systems                                     Work with us: targets' providers, software engineers, pentesters, journalists.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27386,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27385,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27384,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27383,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27382,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27381,
+            "Date": "2024-09-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27380,
+            "Date": "2024-09-10",
+            "Content": "Stein Fibers \n \nFounded in 1976, Stein Fibers, Ltd. is a supplier and producer of polyester fiberfill and nonwoven fibers in North America. \n \nCEO: Chip Stein \n \nBusiness Email: chip@steinfibers.com \nBusiness Email: chip1@chip-stein.com \nCell Phone: +1-518-322-7216                                                                                                    President: Jaren Edwards \n \nBusiness Email: jaren@steinfibers.com \nCell Phone: +1-980-253-2231 \n \nRevenue: $100 Millions \n \nData Volume: 707 GB \n \nData description: \n\n    Finance data \n    HR data \n    Partners and vendors data \n    Clients and customers data \n    Engineering and technologies \n    Incidents and accidents \n    Mailboxes & Internal and external email correspondence \n    Databases \n \nCo-CEO: Peter Spitalny \n \nBusiness Email: peter@steinfibers.com \nCell Phone: +1-518-469-2146                                                                                                     Work with us: targets' providers, software engineers, pentesters, journalists.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "GB"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27379,
+            "Date": "2024-09-10",
+            "Content": "Kadokawa Co Jp \nWebsite                                                                                                                         Takeshi Natsuno \n \nWe are waiting for your corporate network to be fully restored. Be prepared... \n \nhttp://ng2gzceugc2df6hp6s7wtg7hpupw37vqkvamaydhagv2qbrswdqlq6ad.onion/dwango/ \nLink\n\n\nWork with us: targets' providers, software engineers, pentesters, journalists.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://ng2gzceugc2df6hp6s7wtg7hpupw37vqkvamaydhagv2qbrswdqlq6ad.onion/dwango/"
+            ]
+        },
+        {
+            "Message ID": 27378,
+            "Date": "2024-09-10",
+            "Content": "OSDA Contract Services \nWebsite \n \nOSDA's capability for rapid prototyping and new product introduction is one of our core competencies. OSDA has been providing this service for over 28 years, so you can depend on this experience to get your product to market in the shortest time possible. \n \nWe draw from our large inventory of parts and use the most efficient processes in the industry to provide quick one, two or three day turn-around to expedite your product to market. \nLink\n\nWork with us: targets' providers, software engineers, pentesters, journalists.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27377,
+            "Date": "2024-09-10",
+            "Content": "Hollywood Burbank Airport \nWebsite \n \nHollywood Burbank Airport (BUR) is owned and operated by the Burbank-Glendale-Pasadena Airport Authority, a joint powers agency created in 1977 \n \nDespite all attempts to contact the management of this company - we saw stunning ignorance. \n \nNow all data is public. \nLink\n\n\nWork with us: targets' providers, software engineers, pentesters, journalists.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Hollywood"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27376,
+            "Date": "2024-09-10",
+            "Content": "Clatronic International GmbH \nWebsite \n \nThe owner-managed family business Clatronic International GmbH has been in existence since 1982 as an importer of small electrical appliances. \n \nClatronic offers customers an extensive and innovative product range of over 300 articles. \n \nFrom its 100,000 sqm logistics center in Kempen on the Lower Rhine, Clatronic supplies all leading national and international trading companies in over 60 countries. \n \nSince Clatronic management preferred to ignore our warning about personal data and chose money, not people, here you can see a three-archive data set. Hope you will be satisfied. \nLink\n\nWork with us: targets' providers, software engineers, pentesters, journalists.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Kempen"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 27375,
+            "Date": "2024-09-10",
+            "Content": "malonetoyota.com \nWebsite                                                                                                                  https://malonetoyota.com/ \n \nmalonetoyota.com \nCompany size     200 Employees \nRevenue          $17.7 Million \nIndustry         Motor Vehicle Manufacturing \nPhone Number     (801) 553-5800 \nHeadquarters     11453 S Lone Peak Pkwy, Draper, Utah, 84020, United States \n \nWho is Karl Malone Toyota \nDiscover brand-new Toyota models, quality pre-owned vehicles, noteworthy service and excellent auto finance options in Draper, UT, at Karl Malone \n \nhttps://www.zoominfo.com/c/karl-malone-toyota/371602313 \nhttps://www.linkedin.com/company/karl-malone-toyota \n \n \nY:\\malonetoyota.com data - 132gb \n \n08/07/2024  06:24 AM    <DIR>          Acct \n08/07/2024  06:11 AM    <DIR>          CH \n08/07/2024  06:12 AM    <DIR>          Eldorado \n08/07/2024  06:13 AM    <DIR>          felix \n08/07/2024  06:50 AM    <DIR>          FORKY \n08/07/2024  06:50 AM    <DIR>          Glenwood \n08/07/2024  06:50 AM    <DIR>          GM Reports \n08/07/2024  06:50 AM    <DIR>          Heber \n08/07/2024  06:50 AM    <DIR>          JTCH \n08/07/2024  06:51 AM    <DIR>          KMD \n08/07/2024  06:51 AM    <DIR>          kmpsvc \n08/07/2024  06:51 AM    <DIR>          KMRCashier \n08/07/2024  06:51 AM    <DIR>          KrystaMac \n08/08/2024  04:36 AM    <DIR>          Malone Properties DATA \n08/07/2024  06:51 AM    <DIR>          MJDocs \n08/07/2024  06:52 AM    <DIR>          Parts \n08/07/2024  06:52 AM    <DIR>          Payroll (secure) \n08/07/2024  06:52 AM    <DIR>          Power Docs \n08/08/2024  04:23 AM    <DIR>          Quickbooks \n08/07/2024  06:52 AM    <DIR>          Ruston \n08/07/2024  06:52 AM    <DIR>          Sales \n08/07/2024  06:52 AM    <DIR>          Vickie \n \nTotal Files Listed: \n99342 File(s) 132,587,328,106 bytes \n29951 Dir(s)  10,007,517,077,504 bytes free \n \n \n \n                          Malonetoyota customers are very wealthy and are perfect for various schemes for scams \n \n  Download link >> \n \nLink\n\n\n\nWork with us: targets' providers, software engineers, pentesters, journalists.\n\nCHANNELS\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( RansomHub ребрендинг BlackCat, будьте аккуратны )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Utah",
+                "United States",
+                "MJDocs",
+                "Malonetoyota"
+            ],
+            "URLs": [
+                "malonetoyota.com",
+                "https://malonetoyota.com/",
+                "malonetoyota.com",
+                "https://www.zoominfo.com/c/karl-malone-toyota/371602313",
+                "https://www.linkedin.com/company/karl-malone-toyota",
+                "malonetoyota.com"
+            ]
         }
     ],
     "TestAlert": [
