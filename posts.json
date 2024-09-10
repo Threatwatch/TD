@@ -41499,6 +41499,16 @@
                 "Saudi Arabia"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3,
+            "Date": "2024-09-10",
+            "Content": "Saudi",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ]
 }
