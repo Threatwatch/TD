@@ -6912,6 +6912,442 @@
                 "ulungagung.sch.id\n📜Categ",
                 "or-h.org/zone/5749964/"
             ]
+        },
+        {
+            "Message ID": 3439,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3438,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 13:33:30\n🚨Title: Clatronic International GmbH falls victim to FOG Ransomware\n🛡️Victim Countries: Germany\n🏭Victim Industries: Wholesale\n🏢Victim Organizations: clatronic international gmbh\n🌐Victim Sites: clatronic.com\n📜Category: Ransomware\n🔗URL: http://xbkv2qey6u3gd3qxcojynrt4h5sgrhkar6whuo74wo63hijnn677jnyd.onion/posts/66e1826fffa6d0708588b613/\n🕵️‍♂️Threat Actors: FOG\n🌍Network: tor\n📝Content: The group claims to have access to the organization's data.\n\nNote: Clatronic International GmbH had previously fallen victim to BLACK SUIT Ransomware on 29 August 2024.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Germany"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "ic.com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3437,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3436,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 13:31:35\n🚨Title: Alleged sale of 2.8 million Crunchbase data\n🛡️Victim Countries: Unknown\n🏭Victim Industries: Software Development\n🏢Victim Organizations: crunchbase\n🌐Victim Sites: crunchbase.com\n📜Category: Data Breach\n🔗URL: https://breachforums.st/Thread-SELLING-Crunchbase-database-2024-2-8m-lines\n🕵️‍♂️Threat Actors: selukas\n🌍Network: openweb\n📝Content: The threat actor claims to be selling 2.8 million Crunchbase data.\n\nFormat: CSV",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "ase.com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3435,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3434,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3433,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 13:18:56\n🚨Title: NoName targets the website of Official website of the Poltava City Council\n🛡️Victim Countries: Ukraine\n🏭Victim Industries: Government Administration\n🏢Victim Organizations: poltava city council\n🌐Victim Sites: rada-poltava.gov.ua\n📜Category: DDoS Attack\n🔗URL: https://t.me/noname05716eng/4256\n🕵️‍♂️Threat Actors: NoName057(16)\n🌍Network: telegram\n📝Content: Proof of downtime: https://check-host.net/check-report/1e23770ak295",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine",
+                "rada-poltava.gov.ua"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "ltava.gov.ua\n📜Categ",
+                "k-host.net/check-report/1e23770ak295"
+            ]
+        },
+        {
+            "Message ID": 3432,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3431,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3430,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 13:17:06\n🚨Title: NoName targets the website of Dnipropetrovsk Regional State Administration\n🛡️Victim Countries: Ukraine\n🏭Victim Industries: Government Administration\n🏢Victim Organizations: dnipropetrovsk regional state administration\n🌐Victim Sites: adm.dp.gov.ua\n📜Category: DDoS Attack\n🔗URL: https://t.me/noname05716eng/4256\n🕵️‍♂️Threat Actors: NoName057(16)\n🌍Network: telegram\n📝Content: Proof of Downtime: https://check-host.net/check-report/1e237916k897",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "gov.ua\n📜Categ",
+                "k-host.net/check-report/1e237916k897"
+            ]
+        },
+        {
+            "Message ID": 3429,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3428,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3427,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 13:15:38\n🚨Title: NoName targets the website of Vinnytsia City Council\n🛡️Victim Countries: Ukraine\n🏭Victim Industries: Government Administration\n🏢Victim Organizations: vinnytsia city council\n🌐Victim Sites: vmr.gov.ua\n📜Category: DDoS Attack\n🔗URL: https://t.me/noname05716eng/4256\n🕵️‍♂️Threat Actors: NoName057(16)\n🌍Network: telegram\n📝Content: Proof of downtime: https://check-host.net/check-report/1e2375d2k45a",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                ".ua\n📜Categ",
+                "k-host.net/check-report/1e2375d2k45a"
+            ]
+        },
+        {
+            "Message ID": 3426,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3425,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3424,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 13:14:39\n🚨Title: NoName targets the website of Odesa Sea Trade Port\n🛡️Victim Countries: Ukraine\n🏭Victim Industries: Maritime\n🏢Victim Organizations: odesa sea trade port\n🌐Victim Sites: omtp.com.ua\n📜Category: DDoS Attack\n🔗URL: https://t.me/noname05716eng/4256\n🕵️‍♂️Threat Actors: NoName057(16)\n🌍Network: telegram\n📝Content: Proof of Downtime: https://check-host.net/check-report/1e237840kd97",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "m.ua\n📜Categ",
+                "k-host.net/check-report/1e237840kd97"
+            ]
+        },
+        {
+            "Message ID": 3423,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3422,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3421,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 13:14:21\n🚨Title: NoName targets the website of Luhansk Regional State Administration\n🛡️Victim Countries: Ukraine\n🏭Victim Industries: Government Administration\n🏢Victim Organizations: luhansk regional state administration\n🌐Victim Sites: loga.gov.ua\n📜Category: DDoS Attack\n🔗URL: https://t.me/noname05716eng/4256\n🕵️‍♂️Threat Actors: NoName057(16)\n🌍Network: telegram\n📝Content: Proof of Downtime: https://check-host.net/check-report/1e237a09ke5a",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "v.ua\n📜Categ",
+                "k-host.net/check-report/1e237a09ke5a"
+            ]
+        },
+        {
+            "Message ID": 3420,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3419,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3418,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 13:13:21\n🚨Title: NoName targets the website of Luhansk Regional State Administration\n🛡️Victim Countries: Ukraine\n🏭Victim Industries: Government Administration\n🏢Victim Organizations: luhansk regional state administration\n🌐Victim Sites: loga.gov.ua\n📜Category: DDoS Attack\n🔗URL: https://t.me/noname05716eng/4256\n🕵️‍♂️Threat Actors: NoName057(16)\n🌍Network: telegram\n📝Content: Proof of Downtime: https://check-host.net/check-report/1e237a09ke5a",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "v.ua\n📜Categ",
+                "k-host.net/check-report/1e237a09ke5a"
+            ]
+        },
+        {
+            "Message ID": 3417,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3416,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3415,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 13:13:05\n🚨Title: NoName targets the website of Zaporizhzhia City Council\n🛡️Victim Countries: Ukraine\n🏭Victim Industries: Government Administration\n🏢Victim Organizations: zaporizhzhia city council\n🌐Victim Sites: zp.gov.ua\n📜Category: DDoS Attack\n🔗URL: https://t.me/noname05716eng/4256\n🕵️‍♂️Threat Actors: NoName057(16)\n🌍Network: telegram\n📝Content: Proof of downtime : https://check-host.net/check-report/1e237424k64",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "ua\n📜Categ",
+                "k-host.net/check-report/1e237424k64"
+            ]
+        },
+        {
+            "Message ID": 3414,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3413,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3412,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 13:11:43\n🚨Title: NoName targets the website of Zaporizhzhia City Council\n🛡️Victim Countries: Ukraine\n🏭Victim Industries: Government Administration\n🏢Victim Organizations: zaporizhzhia city council\n🌐Victim Sites: zp.gov.ua\n📜Category: DDoS Attack\n🔗URL: https://t.me/noname05716eng/4256\n🕵️‍♂️Threat Actors: NoName057(16)\n🌍Network: telegram\n📝Content: Proof of downtime : check-host.net/check-report/1e237424k64",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "ua\n📜Categ",
+                "et/check-report/1e237424k64"
+            ]
+        },
+        {
+            "Message ID": 3411,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3410,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3409,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 13:10:17\n🚨Title: NoName targets the website of Odesa Sea Trade Port\n🛡️Victim Countries: Ukraine\n🏭Victim Industries: Maritime\n🏢Victim Organizations: odesa sea trade port\n🌐Victim Sites: omtp.com.ua\n📜Category: DDoS Attack\n🔗URL: https://t.me/noname05716eng/4256\n🕵️‍♂️Threat Actors: NoName057(16)\n🌍Network: telegram\n📝Content: Proof of Downtime: https://check-host.net/check-report/1e237840kd97",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "m.ua\n📜Categ",
+                "k-host.net/check-report/1e237840kd97"
+            ]
+        },
+        {
+            "Message ID": 3408,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3407,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3406,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 13:07:02\n🚨Title: NoName targets the website of Sumy City Council\n🛡️Victim Countries: Ukraine\n🏭Victim Industries: Government Relations\n🏢Victim Organizations: sumy city council\n🌐Victim Sites: smr.gov.ua\n📜Category: DDoS Attack\n🔗URL: https://t.me/noname05716eng/4256\n🕵️‍♂️Threat Actors: NoName057(16)\n🌍Network: telegram\n📝Content: Proof of Downtime: https://check-host.net/check-report/1e2377c0kfdf",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                ".ua\n📜Categ",
+                "k-host.net/check-report/1e2377c0kfdf"
+            ]
+        },
+        {
+            "Message ID": 3405,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3404,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 13:01:33\n🚨Title: Allegedly leaked Badan Restorasi Gambut dan Mangrove database\n🛡️Victim Countries: Indonesia\n🏭Victim Industries: Government Administration\n🏢Victim Organizations: badan restorasi gambut dan mangrove\n🌐Victim Sites: Unknown\n📜Category: Data Breach\n🔗URL: https://breachforums.st/Thread-DATABASE-Badan-Restorasi-Leaked\n🕵️‍♂️Threat Actors: vwilsv\n🌍Network: openweb\n📝Content: The threat actor claims to have leaked the Badan Restorasi Gambut dan Mangrove database.\n\nTotal Records: 804,000 (1.04GB)",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Indonesia",
+                "GB"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:"
+            ]
+        },
+        {
+            "Message ID": 3403,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3402,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 12:51:26\n🚨Title: Advanced Physician Management Services falls victim to MEOW Ransomware\n🛡️Victim Countries: USA\n🏭Victim Industries: Accounting\n🏢Victim Organizations: advanced physician management services\n🌐Victim Sites: advancedphysician.com\n📜Category: Ransomware\n🔗URL: http://meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion/product/81\n🕵️‍♂️Threat Actors: MEOW\n🌍Network: tor\n📝Content: Group claims to have obtained 3 GB of confidential data from Advanced Physician Management Services, a company that provides essential management and accounting services for healthcare facilities. Based in Jenkintown, Pennsylvania, Advanced Physician Management Services specializes in medical billing, personnel management, and administrative operations, allowing healthcare providers to prioritize patient care. The stolen data includes Employee data, Patient information, including dates of birth, SSN numbers, and other confidential details, Scans of payment documents, Lab test results, Medical records, Patient prescriptions, Internal financial documents, Certifications and much more confidential data",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "USA",
+                "GB",
+                "Jenkintown",
+                "Pennsylvania"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "dphysician.com\n📜Categ"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -17427,6 +17863,23 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1654,
+            "Date": "2024-09-11",
+            "Content": "ইন্ডিয়ান ওয়েবসাইট হ্যাকড ব্যয় Hacker B ee\n\n\nurl : \nhttps://www.sksdmahilakalasala.ac.in/\n\nhttps://www.sircrreddycollege.ac.in/\n\n\nhttps://gdcnarasannapeta.ac.in/\n\nhttps://www.sssgdc.ac.in/home.php\n\nhttps://www.ksngdcw.ac.in/home.php\n\nhttp://gdcc.ac.in/\n\n\n\n#ANONSTU\n#Out_india",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.sksdmahilakalasala.ac.in/",
+                "https://www.sircrreddycollege.ac.in/",
+                "https://gdcnarasannapeta.ac.in/",
+                "https://www.sssgdc.ac.in/home.php",
+                "https://www.ksngdcw.ac.in/home.php",
+                "http://gdcc.ac.in/"
+            ]
         }
     ],
     "Esteem Restoration Eagle": [
@@ -23464,6 +23917,67 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 830,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 829,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 828,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 827,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 826,
+            "Date": "2024-09-11",
+            "Content": "И снова мы подключились к модемам израильской компании Bakarim7.\nЗдесь мы разместили некоторые из них, чтобы подтвердить доступ.😎\n\n\nAnd again we penetrated the modems of the Israeli company Bakarim7.\nHere we put some for you to prove access.😎\n\nhttp://2.55.224.210:8088/\n\nhttp://2.55.224.172:8088/\n\nhttp://2.55.233.111:8088/\n\nhttp://2.55.224.220:8088/\n\nhttp://2.55.64.178:8088/\n\nhttp://2.54.87.115:8088/\n\nUsername&Password:\nHunt3rKill3rs",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Здесь мы разместили некоторые",
+                "http://2.55.233.111:8088/",
+                "http://2.55.64.178:8088/",
+                "http://2.54.87.115:8088/",
+                "Username&Password"
+            ],
+            "URLs": [
+                "tp://2.55.224.210:8088/\n\n",
+                "tp://2.55.224.172:8088/\n\n",
+                "tp://2.55.233.111:8088/\n\n",
+                "tp://2.55.224.220:8088/\n\n",
+                "tp://2.55.64.178:8088/\n\n",
+                "tp://2.54.87.115:8088/\n\n"
+            ]
         }
     ],
     "Electronic Tigers Unit": [
@@ -55236,6 +55750,1068 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 29439,
+            "Date": "2024-09-11",
+            "Content": "Leaks: credright.com\nIndia \n70 GB KYC document photo / video / voice.\n\nCOMPANY INFO:\n\nCredRight is a data-driven lending platform that facilitates credit for micro, small, and medium enterprises through NBFCs and banks.\nIt helps users register online, upload the requisite documents, and apply online to get a loan in substantially less time.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "India",
+                "GB"
+            ],
+            "URLs": [
+                "credright.com"
+            ]
+        },
+        {
+            "Message ID": 29438,
+            "Date": "2024-09-11",
+            "Content": "120,000 CEO database for the USA, spanning across all industries. Gain access to a wealth of data fields including Email, Company Name, URL, Contact Name, First Name, Last Name, Contact Title, Address, City, State, Zip, Country, Phone, Fax, Employees, Industry Type, Personal LinkedIn, and Company LinkedIn. Leverage this comprehensive resource to connect with CEOs, establish business partnerships, and fuel your growth strategies with accurate and up-to-date information\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( Dmitry Yuryevich Khoroshev )\n@LockBitSuppRaas",
+            "Attack Type": "Hacking",
+            "Location": [
+                "USA",
+                "Khoroshev"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29437,
+            "Date": "2024-09-11",
+            "Content": "Database of personal data of US citizens (Part#16). 2024\nThe database includes First Name, Last Name, Age, Phone, Email, GEO, Real Estate, Education.\nTotal lines: 11.000,000\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( Dmitry Yuryevich Khoroshev )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "US",
+                "Email",
+                "Khoroshev"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29436,
+            "Date": "2024-09-11",
+            "Content": ".)\nIndia Banks Loans Customers (FName, DOB, Mobile, BankNo, Email) 230k\n\nList of banks included in the package:\n\nCitizen Credit Cooperative Bank Limited, Baroda Uttar Pradesh Gramin Bank, Kotak Mahindra Bank Limited, Central Bank Of India, Bandhan Bank Limited, Union Bank Of India, Punjab National Bank, State Bank Of India, Indian Overseas Bank, ICICI Bank Limited, Bank Of Baroda, Canara Bank, Indian Bank, IDBI Bank, HDFC Bank, AXIS Bank, UCO Bank\n\nHeaders:\n\nDealer Id, Application Login Date, Application Status, Bank Name, First Name, Middle Name, Last Name, DOB, Zip Code, City, State, Personal Mobile Number, Approved Amount by CRO, Dealer Name, Asset Ctg, Asset Model No, Applied Amount, Serial Number/Imei Number, Remark, Personal Email Address\n\nTOX ID SUPPORT 022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n( Dmitry Yuryevich Khoroshev )\n@LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Mobile",
+                "Khoroshev"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29435,
+            "Date": "2024-09-11",
+            "Content": "USA BUSINESS DATABASE LEAK\nCONTAINS HIGHLY USEFULL DATA\n\nBUSINESS NAME, MAILING ADDRESS, MAILING CITY, MAILING STATE, MAILING ZIP, AREA CODE AND PHONE, FAX, SALES VOLUME, NUMBER OF EMPLOYEES, PUBLIC PRIVATE COMPANY, LOCATION TYPE, FIRM INDIVIDUAL, CREDIT SCORE CODE, STOCK EXCHANGE, STOCK TICKER SYMBOL, WEB ADDRESS, FIRSTNAME, LASTNAME, TITLE, EMAIL, SIC NAME1, SIC, NAICS, NCCI\n\nTotal csv size - 2.13 GB\ncompressed size - 0.55 GB\nsample :-  https://anonymfile.com/RDzW/sample.xlsx",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA",
+                "NCCI",
+                "GB",
+                "GB"
+            ],
+            "URLs": [
+                "https://anonymfile.com/RDzW/sample.xlsx"
+            ]
+        },
+        {
+            "Message ID": 29434,
+            "Date": "2024-09-11",
+            "Content": "A file containing 560,000 clients from usa\nData\nname\nphone\nAnd some other details\n90% women\ninterest\nShopping and fashion",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29433,
+            "Date": "2024-09-11",
+            "Content": "Today I have uploaded the ALPHA B GROUP Data for you to download, thanks for reading and enjoy!\n\"Established in 2005. Specializing in taxes for tech employees, working professionals, small businesses, startups, and real estate investors.\"\nContains:36,242 Files, 8,523 Folders\n, UncompressedSize:100 GB - compressedSize 53GB Compressed\nFiles Tree: https://privatebin.net/?780cd676aa462bbe#CrxjteCx9ZafP4CJ8jRQhGpR2VJjQczuos2EBpQtddf1",
+            "Attack Type": "Unknown",
+            "Location": [
+                "GB"
+            ],
+            "URLs": [
+                "https://privatebin.net/?780cd676aa462bbe#CrxjteCx9ZafP4CJ8jRQhGpR2VJjQczuos2EBpQtddf1"
+            ]
+        },
+        {
+            "Message ID": 29432,
+            "Date": "2024-09-11",
+            "Content": "Today I have uploaded the 28 million USA Consumer Optin email database for you to download, thanks for reading and enjoy!\nCompromised data:  EMail,Fname,Lname,Address,City,State,Zip,Phone Number,Gender,DOB",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29431,
+            "Date": "2024-09-11",
+            "Content": "PHONE CARRIER FILTERED FROM 34M USA DEPT\nhttps://pixeldrain.com/u/rxVGr7dy",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://pixeldrain.com/u/rxVGr7dy"
+            ]
+        },
+        {
+            "Message ID": 29430,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29429,
+            "Date": "2024-09-11",
+            "Content": "Ultimate ID Pack 21.4 GB Psd Templates + Scans + fonts + software",
+            "Attack Type": "Unknown",
+            "Location": [
+                "GB"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29428,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29427,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29426,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29425,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29424,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29423,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29422,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29421,
+            "Date": "2024-09-11",
+            "Content": "ADT - 'American security'\nToday, I am leaking a collection of internal documents belonging the ADT - an American security company that provides electronic security services to residential and small businesses, fire protection, and other related alarm monitoring services throughout the United States.\nContains zip, mp3, m4a wav, msg, doc, jpeg, png, xls/x, pdf files - related to ADT technical support and its clients.\nTotal number of files +2400. Dates vary from 2020 to 2023.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "the United States"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29420,
+            "Date": "2024-09-11",
+            "Content": "Thailand] Internal Security Operations Command Leaked 2024\n\nIn early 2024 , the Internal Security Operations Command (ISOC) , the political arm of the Royal Thai Armed Forces , suffered\nThe leaked data included 178 GB of documents , secret documents , project files and video files in various formats \nSample Files : https://files.offshore.cat/r7ljOZdn.7z",
+            "Attack Type": "Hacking",
+            "Location": [
+                "GB"
+            ],
+            "URLs": [
+                "https://files.offshore.cat/r7ljOZdn.7z"
+            ]
+        },
+        {
+            "Message ID": 29419,
+            "Date": "2024-09-11",
+            "Content": "U.S Doctor Database Database & Bonus\nThe Compromised Data Includes:\n[Doctor Database Part 1] (Download 1)\nContactName,FirstName,LastName,Speciality,specialityID,Description,Title,CompanyName,EmailAddress,website,PhoneNumber,FaxNumber,Address,City,State,Country,ZipCode\nLines: 969383\n[Doctor Database Part 2] (Download 2)\nContactName,FirstName,LastName,Speciality,specialityID,Description,Title,CompanyName,EmailAddress,website,PhoneNumber,FaxNumber,Address,City,State,Country,ZipCode\nLines: 296363\n[Bonus 250k Doctors] (Download 3)\nNPI,Full Name,First Name,Middle Name,Last Name,Suffix,Specialty Code,Specialty,Specialty2,City,State,Zip,County,MSA,Emai",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "U.S",
+                "LastName",
+                "LastName",
+                "Suffix",
+                "Specialty",
+                "Zip,County"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29418,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29417,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29416,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29415,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29414,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29413,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29412,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29411,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29410,
+            "Date": "2024-09-11",
+            "Content": "USA medical technology company. \nRevenue: $30 Million\n\nhttps://earlens.com/a-hearing-solution-f...ic-lovers/\nhttps://www.forbes.com/health/hearing-ai...em-review/\n\nThis is data pack is from recent leak from penetrated company that develops hearing solutions, USA.\n\nInside this data pack:\n- Business materials.\n- BOD meeting materials.\n- Example of files from President PC.\n- Employees data (passports, ID's, etc..).\n- Example of company legal conflicts and internal investigations",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA",
+                "USA"
+            ],
+            "URLs": [
+                "https://earlens.com/a-hearing-solution-f...ic-lovers/",
+                "https://www.forbes.com/health/hearing-ai...em-review/"
+            ]
+        },
+        {
+            "Message ID": 29409,
+            "Date": "2024-09-11",
+            "Content": "Description:\nThe Chinese Academy of Sciences (CAS) is a premier institution in China focused on advancing high technology and natural sciences. Established in 1949, CAS serves as the national scientific think tank and academic governing body, with an extensive network comprising:\nResearch and Development: CAS operates numerous research institutes across various scientific disciplines, such as physical sciences, life sciences, earth sciences, engineering, and technology.\nHigher Education: It oversees several educational institutions, including the University of Chinese Academy of Sciences and the CAS Institute of Advanced Technology, offering undergraduate to doctoral programs.\nMerit-Based Academic Society: CAS brings together top scientists and engineers, both domestic and international, to foster collaboration and innovation. It emphasizes addressing both theoretical and applied scientific problems using world-class research and management methodologies.\nCAS also plays a pivotal role in national scientific and technological initiatives, contributing to significant advancements in fields like space exploration, environmental protection, and sustainable development\n\nDATA INCLUDES:config files,research files,documents,user files,system files..etc\nFILZE SIZE: 5GB\nLINK: https://mega.nz/folder/PR1hmZpZ",
+            "Attack Type": "Unknown",
+            "Location": [
+                "China",
+                "GB"
+            ],
+            "URLs": [
+                "https://mega.nz/folder/PR1hmZpZ"
+            ]
+        },
+        {
+            "Message ID": 29408,
+            "Date": "2024-09-11",
+            "Content": "July 12 marks the eighth anniversary of the 2016 Arbitral Ruling regarding the maritime dispute in the #WestPhilippineSea. This clearly shows that legal victory is on the side of the Philippines. Meanwhile, China continues to harass our personnel and claim our resources. In response to China's bullying, We are now releasing the Chinese Academy of Sciences (https://www.cas.cn) data to demonstrate our opposition to China's aggressive actions toward our FilipinoPersonnel and FilipinoFishermen. This move is a stand against the continuous harassment and unlawful claims in the WestPhilippineSea.\nWe will not stop until China leaves our #Territories",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Philippines",
+                "China",
+                "China",
+                "China",
+                "WestPhilippineSea",
+                "China"
+            ],
+            "URLs": [
+                "https://www.cas.cn"
+            ]
+        },
+        {
+            "Message ID": 29407,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29406,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29405,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29404,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29403,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29402,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29401,
+            "Date": "2024-09-11",
+            "Content": "FBI.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29400,
+            "Date": "2024-09-11",
+            "Content": "ID,\"Purchase Point\",\"Purchase Date\",\"Bill-to Name\",\"Ship-to Name\",\"Grand Total (Base)\",\"Grand Total (Purchased)\",Status,\"Billing Address\",\"Shipping Address\",\"Shipping Information\",\"Customer Email\",\"Customer Group\",Subtotal,\"Shipping and Handling\",\"Customer Name\",\"Payment Method\",\"Total Refunded\",\"Allocated sources\",\"Pickup Location Code\",\"Includes Bundle Pack\",\"Bundle Pack(s)\",\"Fraud Estimation\"\n- smoothiecrates.com",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "smoothiecrates.com"
+            ]
+        },
+        {
+            "Message ID": 29399,
+            "Date": "2024-09-11",
+            "Content": "100.000 India Export Database",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29398,
+            "Date": "2024-09-11",
+            "Content": "1 Million China Crypto",
+            "Attack Type": "Unknown",
+            "Location": [
+                "China"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29397,
+            "Date": "2024-09-11",
+            "Content": "1.500.000 UK",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29396,
+            "Date": "2024-09-11",
+            "Content": "Information on 20,000 Russian citizens (for plagiarism) containing:\n\nNAME, DATE OF BIRTH, PASSPORT, CARD NUMBER, CARD EXPIRATION DATE, STATUS OF THE WAY4 CARD, CONTRACT STATUS ON WAY4, CARD ACCOUNT NUMBER, BRANCH, PAR., WORK ADDRESSES IN ADVID DATE, PLACE OF WORK, POSTAL CODE, DISTRICT,CITY, STREET, HOME, ACCOMMODATION, OFFICE, Apartment, PHONE, HOME PHONE, WORKPLACE PHONE, Blood group",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CITY",
+                "Apartment",
+                "Blood"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29395,
+            "Date": "2024-09-11",
+            "Content": "☄️ American Bank Systems  Data Leak☄️\n➖➖➖➖➖➖\n📍 Bank Modules [5.78 GB]⏰\n⏲ ِDownload \n\n📍 Compliance [3.6 GB]⏰\n⏲ ِDownload\n\n📍 Loans Sales SQL & other [3.33 GB]⏰\n⏲ ِDownload\n\n📍 Sample - Bank Database [7.67 GB]⏰\n⏲ ِDownload\n\n📍 Development [32.2 GB]⏰\n⏲ ِDownload",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "GB",
+                "GB",
+                "GB",
+                "GB",
+                "GB"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29394,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29393,
+            "Date": "2024-09-11",
+            "Content": "donald trump dox",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29392,
+            "Date": "2024-09-11",
+            "Content": "Law Office of Michael H Joseph Feb 15, 2024\nTandem Feb 13, 2024\nRobert D. Clements Jr Law Group, LLLP Feb 12, 2024\nBay Orthopedic & Rehabilitation Supply Feb 10, 2024\nCTSI Feb 9, 2024\nMA Engineering Feb 9, 2024\nNortheast Spine and Sports Medicine's Feb 7, 2024\nAkumin Feb 3, 2024\nChaney, Couch, Callaway, Carter & Associates Family Dentistry. Feb 2, 2024\nGreenbox Loans Inc. Feb 2, 2024\nCislo & Thomas LLP Jan 25, 2024\nKC Pharmaceuticals Jan 19, 2024\nMartinaire Aviation Jan 19, 2024\nNorth Star Tax And Accounting Jan 18, 2024\nRepublic Shipping Consolidators, Inc Jan 8, 2024\nSomerset Logistics Jan 8, 2024\nIndependent Recovery Resources, Inc. Jan 7, 2024\nAMCO Proteins Dec 29, 2023\nPlastic Molding Technology Inc. Dec 29, 2023\nSoutheast Vermont Transit (MOOver) Dec 29, 2023\nElectrical Connections Dec 17, 2023\nSML Group Dec 17, 2023\nGrowers Express Nov 16, 2023\nUnited Site Services Nov 7, 2023\nPrasan Enterprises Oct 31, 2023\nTNT Plastic Molding Oct 25, 2023\nDow Golub Remels & Gilbreath Oct 17, 2023\nGriffing & Company, P.C Oct 17, 2023\nInternational Biomedical Ltd Oct 17, 2023\nLutheran Church and Preschool Sep 26, 2023\nSaint Mark Catholic Church Sep 26, 2023\nKramer Tree Specialists, Inc Sep 24, 2023\nRoad Safety Sep 20, 2023\nNew Venture Escrow Sep 8, 2023\nAsian Network Pacific Home Care & Hospice Aug 25, 2023\nCMC Marine Aug 23, 2023\nConstellation Kidney Group Aug 23, 2023\nCollins Aerospace (An RTX Business) Aug 10, 2023\nArmortex Aug 8, 2023\nSpokane Spinal Sports Care Clinic Aug 3, 2023\nCarvin Software Aug 1, 2023\nRetail Information Systems Jul 29, 2023\nHenock Construction Jul 28, 2023\nAmerican Crane Rental Jul 21, 2023\nCumberland Pharmaceuticals Inc. Jul 19, 2023\nMagnolia Steel Jul 19, 2023\nNew Braunfels Cardiology Jul 19, 2023",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29391,
+            "Date": "2024-09-11",
+            "Content": "usa\"\nDordt University Jun 13, 2024\nCritchfield & Johnston Jun 7, 2024\nElite Limousine Plus Inc Jun 7, 2024\nMAH Machine Jun 7, 2024\nDelta Pipeline Jun 6, 2024\ndefi SOLUTIONS. Jun 5, 2024\nWestern Saw Inc. Jun 2, 2024\nNutec Group May 31, 2024\nAffiliated Dermatologists and Dermatologic Surgeons May 29, 2024\nPanacea Healthcare Services May 29, 2024\nPavilion Construction LLC May 29, 2024\nNational Publisher Services LLC May 24, 2024\nPayne & Jones May 24, 2024\nWind Composite Services Group, LLC May 24, 2024\nAzteca Tax Systems May 20, 2024\nClinica de Salud del Valle de Salinas May 20, 2024\nDragon Tax and Management INC May 20, 2024\nNikolaus & Hohenadel May 20, 2024\nOptometric Physicians of Middle Tennessee May 20, 2024\nBluebonnet Nutrition May 17, 2024\nCenter for Digestive Health May 17, 2024\nLT Business Dynamics May 6, 2024\nNeurobehavioral Medicine Consultants Apr 30, 2024\nPioneer Oil Company, Inc. Apr 30, 2024\nGROWTH by NCRC Apr 26, 2024\nOn Q Financial, LLC Apr 23, 2024\nTexas Retina Associates Apr 21, 2024\nJE Owens & Company PA. Apr 18, 2024\nB&B Electric Inc Apr 18, 2024\nImage Craft Apr 18, 2024\nChambers Construction Apr 10, 2024\nCentral Carolina Insurance Agency Inc. Apr 8, 2024\nP&B Capital Group Apr 5, 2024\nConsolidated Benefits Resources Apr 1, 2024\nLieberman LLP Apr 1, 2024\nDr. Leeman ENT Mar 26, 2024\nMartin's, Inc. Mar 26, 2024\nRoncelli Plastics Mar 24, 2024\nMayer Antonellis Jachowicz & Haranas, LLP Mar 15, 2024\nShoma group Mar 13, 2024\nLindsay Municipal Hospital Mar 8, 2024\nDobrowski Stafford & Pierce Mar 7, 2024\nFirst Professional Services Mar 7, 2024\nHypertension Nephrology Associates, P.C. Mar 7, 2024\nNew York Home Healthcare Mar 7, 2024\nPalmer Construction Co., Inc Mar 7, 2024\nHRTec Inc Mar 2, 2024\nCole, Cole, Easley & Sciba Feb 28, 2024\nAdvantage Orthopedic & Sports Medicine Clinic Feb 27, 2024\nHypertension Nephrology Associates, P.C. Feb 27, 2024\nInstron & ITW Inc Feb 21, 2024\nJ.P. Original Feb 21, 2024\nMarchassociates Feb 20, 2024\nNOVA Business Law Group Feb 20, 2024\nThe Wiser Financial Group Feb 19, 2024\nGRTC Transit System Feb 18, 2024",
+            "Attack Type": "Hacking",
+            "Location": [
+                "LLP Mar",
+                "Shoma",
+                "P.C.",
+                "P.C."
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29390,
+            "Date": "2024-09-11",
+            "Content": "13,6 Million Data Bank Indian User Data\nbank include:https://centralbankofindia.co.in/en\nhttps://www.bankofbaroda.in/https://www.bankbazaar.com/\nhttps://finobank.com/https://apgvbank.in/\nhttps://www.unionbankofindia.co.in/english/home.aspxhttps://www.hdfcbank.com/\nhttps://www.icicibank.com/https://www.kotak.com/en/home.html\nhttps://ujjivansfb.in/https://www.airtel.in/bank/\nhttps://www.pnbindia.in/https://www.axisbank.com/\nhttps://saraswatbank.com/https://www.idfcfirstbank.com/\n\n\nFile information: ACC_no,ACC_name,ifcs,phone,email user\"ifcs CODE\" to know which of the bank data it is \n\n\nTotal user: 13,613,754\nFile Size: 11.2 GB\nDate: 2024,June,26\nFormat : Csv",
+            "Attack Type": "Unknown",
+            "Location": [
+                "GB"
+            ],
+            "URLs": [
+                "https://centralbankofindia.co.in/en",
+                "https://www.bankofbaroda.in/https://www.bankbazaar.com/",
+                "https://finobank.com/https://apgvbank.in/",
+                "https://www.unionbankofindia.co.in/english/home.aspxhttps://www.hdfcbank.com/",
+                "https://www.icicibank.com/https://www.kotak.com/en/home.html",
+                "https://ujjivansfb.in/https://www.airtel.in/bank/",
+                "https://www.pnbindia.in/https://www.axisbank.com/",
+                "https://saraswatbank.com/https://www.idfcfirstbank.com/"
+            ]
+        },
+        {
+            "Message ID": 29389,
+            "Date": "2024-09-11",
+            "Content": "https://t.me/LockBitRaasRansomware/16631?single",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/LockBitRaasRansomware/16631?single"
+            ]
+        },
+        {
+            "Message ID": 29388,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29387,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29386,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29385,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29384,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29383,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29382,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29381,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29380,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29379,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29378,
+            "Date": "2024-09-11",
+            "Content": "60 million ITALY LEADS\n\nINFO :2020-2024 Consumer Database\nTYPE OF DATABASE : LEADS\nCOUNTRY : Italy\n\nRECORD: 60.000.000\nCONTENTS : Full Name, Phone, Fiscal Code, also some have full addresses\nPRICE: NEGOTIABLE\nItalian Leads most of the leads has been used for selling campaings light and gas in italy, forex, consumers and telephony\nTox ID Support:\n022A7EEB83B648F55DA7A6BEFD130C2156C74F3501A31D853234EC2D18E77A1EA9FCE8BF45DE\n\n\nXMPP :\nxmpp:ransomblackbit@xmpp.jp\n\nget to the point when dm | @LockBitSuppRaas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Italy",
+                "italy"
+            ],
+            "URLs": [
+                "xmpp:ransomblackbit@xmpp.jp"
+            ]
+        },
+        {
+            "Message ID": 29377,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29376,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29375,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29374,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29373,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29372,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29371,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29370,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29369,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29368,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29367,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29366,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29365,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29364,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29363,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29362,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29361,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29360,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29359,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29358,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29357,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29356,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29355,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29354,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29353,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29352,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29351,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29350,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29349,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29348,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29347,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29346,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29345,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29344,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29343,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29342,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29341,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29340,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "TestAlert": [
@@ -55283,6 +56859,16 @@
             "Message ID": 7,
             "Date": "2024-09-11",
             "Content": "SABIC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 8,
+            "Date": "2024-09-11",
+            "Content": "Sabic",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
