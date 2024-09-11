@@ -5759,6 +5759,52 @@
                 "🔗DarkWebInformer.com:",
                 "are-oakwellfarms.com\n📜Categ"
             ]
+        },
+        {
+            "Message ID": 3309,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3308,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 04:04:16\n🚨Title: Alleged database leak of Kitchen Arena\n🛡️Victim Countries: Malaysia\n🏭Victim Industries: Hospitality & Tourism\n🏢Victim Organizations: kitchen arena\n🌐Victim Sites: kitchen-arena.com.my\n📜Category: Data Breach\n🔗URL: https://breachforums.st/Thread-kitchen-arena-com-my-2024\n🕵️‍♂️Threat Actors: Hoover\n🌍Network: openweb\n📝Content: The threat actor claims to have leaked data from Kitchen Arena. The leaked data contains 61,806 records in .csv format, which contains Id, Name, Email, Phone Number, Address, Date of Birth, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Malaysia"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "-arena.com.my\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3307,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3306,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 03:56:28\n🚨Title: Alleged data leak of  Indian Institute Of Water Management\n🛡️Victim Countries: India\n🏭Victim Industries: Government Relations\n🏢Victim Organizations: indian institute of water management\n🌐Victim Sites: iiwm.icar.gov.in\n📜Category: Data Breach\n🔗URL: https://breachforums.st/Thread-Indian-Institute-Of-Water-Management-database\n🕵️‍♂️Threat Actors: DayzeroDay\n🌍Network: openweb\n📝Content: The threat actor claims to be leaked data from Indian Institute Of Water Management.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "ar.gov.in\n📜Categ"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
