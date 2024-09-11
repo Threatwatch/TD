@@ -7348,6 +7348,111 @@
                 "🔗DarkWebInformer.com:",
                 "dphysician.com\n📜Categ"
             ]
+        },
+        {
+            "Message ID": 3448,
+            "Date": "2024-09-11",
+            "Content": "Nice it's still working",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3447,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3446,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 14:09:08\n🚨Title: Cathedral Preparatory School falls victim to INC RANSOM Ransomware\n🛡️Victim Countries: USA\n🏭Victim Industries: Education\n🏢Victim Organizations: cathedral preparatory school\n🌐Victim Sites: cathedral-prep.com\n📜Category: Ransomware\n🔗URL: http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures/66c269a14b3085060936da7a\n🕵️‍♂️Threat Actors: INC RANSOM\n🌍Network: tor\n📝Content: Group claims to have obtained organization's database. Sample screenshots are provided in their dark web portal.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "al-prep.com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3445,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3444,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 13:59:30\n🚨Title: Bangladesh dark net targets the website of Ministry of Corporate Affairs\n🛡️Victim Countries: India\n🏭Victim Industries: Government Relations\n🏢Victim Organizations: ministry of corporate affairs\n🌐Victim Sites: mca.gov.in\n📜Category: DDoS Attack\n🔗URL: https://t.me/BD_DARK_NET/1909\n🕵️‍♂️Threat Actors: Bangladesh dark net\n🌍Network: telegram\n📝Content: Proof of downtime : https://check-host.net/check-report/1e2309a3k16a",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                ".in\n📜Categ",
+                "k-host.net/check-report/1e2309a3k16a"
+            ]
+        },
+        {
+            "Message ID": 3443,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3442,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 13:55:51\n🚨Title: Alleged sale of PayBack.de Checker\n🛡️Victim Countries: Germany\n🏭Victim Industries: Computer Networking\n🏢Victim Organizations: payback\n🌐Victim Sites: payback.de\n📜Category: Malware\n🔗URL: https://breachforums.st/Thread-SELLING-%E2%9A%9C%EF%B8%8FPayBack-de-Checker%E2%9A%9C%EF%B8%8F\n🕵️‍♂️Threat Actors: j0ker9933\n🌍Network: openweb\n📝Content: The threat actor claims to be selling a Beta version of PayBack.de checker.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Germany"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "Back.de Ch",
+                ".de\n📜Categ",
+                "hecker."
+            ]
+        },
+        {
+            "Message ID": 3441,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3440,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 13:41:18\n🚨Title: S. Walter Packaging falls victim to FOG Ransomware\n🛡️Victim Countries: USA\n🏭Victim Industries: Manufacturing\n🏢Victim Organizations: s. walter packaging\n🌐Victim Sites: swalter.com\n📜Category: Ransomware\n🔗URL: http://xbkv2qey6u3gd3qxcojynrt4h5sgrhkar6whuo74wo63hijnn677jnyd.onion/posts/66e17c2effa6d0708588b5c5/\n🕵️‍♂️Threat Actors: FOG\n🌍Network: tor\n📝Content: The group claims to have access to the organization's data.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                ".com\n📜Categ"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
