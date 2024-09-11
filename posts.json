@@ -7966,6 +7966,250 @@
             "URLs": [
                 "ttps://darkwebinformer.com/zerosevengroup-is-allegedly-selling-vpn-access-to-an-unidentified-social-service-organization-in-the-usa/"
             ]
+        },
+        {
+            "Message ID": 3512,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3511,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 20:14:38\n🚨Title: T3GASEC TEAM ID targets the website of Desa Bejalen\n🛡️Victim Countries: Indonesia\n🏭Victim Industries: Agriculture & Farming\n🏢Victim Organizations: desa bejalen\n🌐Victim Sites: estumukti.bejalen.com, bpd.bejalen.com, rt.bejalen.com, dadibara.bejalen.com\n📜Category: Defacement\n🔗URL: https://t.me/GarudaSecID/2444\n🕵️‍♂️Threat Actors: T3GASEC TEAM ID\n🌍Network: telegram\n📝Content: Group claims to have defaced the website of Desa Bejalen.\n\nMirror: https://defacer.id/archive/notifier=Arex091/page=1",
+            "Attack Type": "Defacement",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "ti.bejalen.com, bpd.b",
+                "alen.com, rt.be",
+                "len.com, dadib",
+                "a.bejalen.com\n📜Categ",
+                "cer.id/archive/notifier=Arex091/page=1"
+            ]
+        },
+        {
+            "Message ID": 3510,
+            "Date": "2024-09-11",
+            "Content": "👀",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3509,
+            "Date": "2024-09-11",
+            "Content": "I'm removing the script in this channel in 1 hour.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3508,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3507,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 19:56:34\n🚨Title: Bangladesh dark net targets the website of Palermo Airport\n🛡️Victim Countries: Italy\n🏭Victim Industries: Airlines & Aviation\n🏢Victim Organizations: palermo airport\n🌐Victim Sites: palermo-airport.com\n📜Category: DDoS Attack\n🔗URL: https://t.me/BDNOfficialTelegramChannel/8\n🕵️‍♂️Threat Actors: Bangladesh dark net\n🌍Network: telegram\n📝Content: Proof of Downtime: https://check-host.net/check-report/1e253d60kba0",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Italy"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "-airport.com\n📜Categ",
+                "k-host.net/check-report/1e253d60kba0"
+            ]
+        },
+        {
+            "Message ID": 3506,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3505,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 19:56:27\n🚨Title: Karakaya Group falls victim to MEDUSA Ransomware\n🛡️Victim Countries: Turkey\n🏭Victim Industries: Building and construction\n🏢Victim Organizations: karakaya group\n🌐Victim Sites: karakayagroup.com\n📜Category: Ransomware\n🔗URL: http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/detail?id=99dfa82b2c6da6dae3b3a686ef4849e1\n🕵️‍♂️Threat Actors: MEDUSA\n🌍Network: tor\n📝Content: The group claims to have obtained 198.60 GB of the organization's data. Sample screenshots are provided in their dark web portal and intends to publish it within 9-10 days.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Turkey",
+                "GB"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "agroup.com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3503,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3502,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 19:52:05\n🚨Title: Bangladesh dark net targets the website of AU Small Finance Bank\n🛡Victim Countries: India\n🏭Victim Industries: Banking & Mortgage\n🏢Victim Organizations: au small finance bank\n🌐Victim Sites: aubank.in\n📜Category: DDoS Attack\n🔗URL: https://t.me/BDNOfficialTelegramChannel/7\n🕵️‍♂️Threat Actors: Bangladesh dark net\n🌍Network: telegram\n📝Content: Proof of Downtime: https://check-host.net/check-report/1e2433b6kd80",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "in\n📜Categ",
+                "k-host.net/check-report/1e2433b6kd80"
+            ]
+        },
+        {
+            "Message ID": 3501,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3500,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 19:51:12\n🚨Title: Starr-Iva Water & Sewer District falls victim to MEDUSA Ransomware\n🛡️Victim Countries: USA\n🏭Victim Industries: Energy & Utilities\n🏢Victim Organizations: starr-iva water & sewer district\n🌐Victim Sites: siwater.net\n📜Category: Ransomware\n🔗URL: http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/detail?id=67f456a9e2a8ae646a3e0864584148f1\n🕵️‍♂️Threat Actors: MEDUSA\n🌍Network: tor\n📝Content: The group claims to have obtained the organization's data. Sample screenshots are provided in their dark web portal and intends to publish it within 7-8 days.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                ".net\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3499,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3498,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 19:45:49\n🚨Title: Z-BL4CX-H4T targets the website of Holidaypack Travel\n🛡️Victim Countries: India\n🏭Victim Industries: Leisure & Travel\n🏢Victim Organizations: holidaypack travel\n🌐Victim Sites: holidaypack.in\n📜Category: Defacement\n🔗URL: https://t.me/Z_BL4CK_H4T/7476\n🕵️‍♂️Threat Actors: Z-BL4CX-H4T\n🌍Network: telegram\n📝Content: Group claims to have defaced the website of Holidaypack Travel.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "pack.in\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3497,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3496,
+            "Date": "2024-09-11",
+            "Content": "💡Just another day on Dread!\n\nDread Thread: dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad[.]onion/post/7b04b9e8c3aa14a704c9",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3495,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3494,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 19:45:08\n🚨Title: Z-BL4CX-H4T targets the website of Regency Tours Pvt. Ltd.\n🛡️Victim Countries: India\n🏭Victim Industries: Leisure & Travel\n🏢Victim Organizations: regency tours pvt. ltd.\n🌐Victim Sites: regencytours.in\n📜Category: Defacement\n🔗URL: https://t.me/Z_BL4CK_H4T/7476\n🕵️‍♂️Threat Actors: Z-BL4CX-H4T\n🌍Network: telegram\n📝Content: Group claims to have defaced the website of Regency Tours Pvt. Ltd.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "tours.in\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3493,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3492,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 19:43:44\n🚨Title: Hospital Episcopal San Lucas falls victim to MEDUSA Ransomware\n🛡️Victim Countries: USA\n🏭Victim Industries: Hospital & Health Care\n🏢Victim Organizations: hospital episcopal san lucas\n🌐Victim Sites: sanlucaspr.org\n📜Category: Ransomware\n🔗URL: http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/detail?id=15814a2d8b629486b8920b89eb259078\n🕵️‍♂️Threat Actors: MEDUSA\n🌍Network: tor\n📝Content: The group claims to have obtained 309.00 GB of the organization's data. Sample screenshots are provided in their dark web portal and intends to publish it within 6-7 days.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA",
+                "GB"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "spr.org\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3491,
+            "Date": "2024-09-11",
+            "Content": "🚨888 is Allegedly Selling the Database of Sacara\n\nhttps://darkwebinformer.com/888-is-allegedly-selling-the-database-of-sacara/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "the Database of Sacara"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/888-is-allegedly-selling-the-database-of-sacara/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
