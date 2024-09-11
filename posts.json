@@ -7713,6 +7713,131 @@
                 "🔗DarkWebInformer.com:",
                 ".mx\n📜Categ"
             ]
+        },
+        {
+            "Message ID": 3479,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 18:09:43\n🚨Title: RipperSec targets the website of Bureau of Consular Affairs, Taiwan\n🛡️Victim Countries: Taiwan\n🏭Victim Industries: Government Administration\n🏢Victim Organizations: bureau of consular affairs, taiwan\n🌐Victim Sites: visawebapp.boca.gov.tw\n📜Category: DDoS Attack\n🔗URL: https://t.me/RipperSecIO/5296\n🕵️‍♂️Threat Actors: RipperSec\n🌍Network: telegram\n📝Content: Proof of Downtime: https://check-host.net/check-report/1e239f4fk316",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Taiwan",
+                "Taiwan",
+                "taiwan"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "app.boca.gov.tw\n📜Categ",
+                "k-host.net/check-report/1e239f4fk316"
+            ]
+        },
+        {
+            "Message ID": 3478,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 18:09:34\n🚨Title: RipperSec targets the website of Bureau of Consular Affairs, Taiwan\n🛡️Victim Countries: Taiwan\n🏭Victim Industries: Government Administration\n🏢Victim Organizations: bureau of consular affairs, taiwan\n🌐Victim Sites: visawebapp.boca.gov.tw\n📜Category: DDoS Attack\n🔗URL: https://t.me/RipperSecIO/5296\n🕵️‍♂️Threat Actors: RipperSec\n🌍Network: telegram\n📝Content: Proof of Downtime: https://check-host.net/check-report/1e239f4fk316",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Taiwan",
+                "Taiwan",
+                "taiwan"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "app.boca.gov.tw\n📜Categ",
+                "k-host.net/check-report/1e239f4fk316"
+            ]
+        },
+        {
+            "Message ID": 3477,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 18:09:29\n🚨Title: RipperSec targets the website of Bureau of Consular Affairs, Taiwan\n🛡️Victim Countries: Taiwan\n🏭Victim Industries: Government Administration\n🏢Victim Organizations: bureau of consular affairs, taiwan\n🌐Victim Sites: visawebapp.boca.gov.tw\n📜Category: DDoS Attack\n🔗URL: https://t.me/RipperSecIO/5296\n🕵️‍♂️Threat Actors: RipperSec\n🌍Network: telegram\n📝Content: Proof of Downtime: https://check-host.net/check-report/1e239f4fk316",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Taiwan",
+                "Taiwan",
+                "taiwan"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "app.boca.gov.tw\n📜Categ",
+                "k-host.net/check-report/1e239f4fk316"
+            ]
+        },
+        {
+            "Message ID": 3476,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 18:09:26\n🚨Title: RipperSec targets the website of Bureau of Consular Affairs, Taiwan\n🛡️Victim Countries: Taiwan\n🏭Victim Industries: Government Administration\n🏢Victim Organizations: bureau of consular affairs, taiwan\n🌐Victim Sites: visawebapp.boca.gov.tw\n📜Category: DDoS Attack\n🔗URL: https://t.me/RipperSecIO/5296\n🕵️‍♂️Threat Actors: RipperSec\n🌍Network: telegram\n📝Content: Proof of Downtime: https://check-host.net/check-report/1e239f4fk316",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Taiwan",
+                "Taiwan",
+                "taiwan"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "app.boca.gov.tw\n📜Categ",
+                "k-host.net/check-report/1e239f4fk316"
+            ]
+        },
+        {
+            "Message ID": 3475,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 18:09:24\n🚨Title: RipperSec targets the website of Bureau of Consular Affairs, Taiwan\n🛡️Victim Countries: Taiwan\n🏭Victim Industries: Government Administration\n🏢Victim Organizations: bureau of consular affairs, taiwan\n🌐Victim Sites: visawebapp.boca.gov.tw\n📜Category: DDoS Attack\n🔗URL: https://t.me/RipperSecIO/5296\n🕵️‍♂️Threat Actors: RipperSec\n🌍Network: telegram\n📝Content: Proof of Downtime: https://check-host.net/check-report/1e239f4fk316",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Taiwan",
+                "Taiwan",
+                "taiwan"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "app.boca.gov.tw\n📜Categ",
+                "k-host.net/check-report/1e239f4fk316"
+            ]
+        },
+        {
+            "Message ID": 3474,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3473,
+            "Date": "2024-09-11",
+            "Content": "💡I have been able to get the live feed working on both Discord and Telegram. The next step is to implement this into the website on a single page. I hope to have everything working and in a testing state by the end of the weekend.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Discord",
+                "Telegram"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3472,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3471,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 18:00:46\n🚨Title: EMorocco Hacktivies targets the website of News Nexus\n🛡️Victim Countries: India\n🏭Victim Industries: Broadcast Media\n🏢Victim Organizations: news nexus\n🌐Victim Sites: newsnexus.in/\n📜Category: Defacement\n🔗URL: https://t.me/evilmorocco/69\n🕵️‍♂️Threat Actors: EMorocco Hacktivies\n🌍Network: telegram\n📝Content: Group claims to have defaced the website of News Nexus.\n\nMirror : https://mirror-h.org/zone/5749972/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "us.in/\n📜Categ",
+                "or-h.org/zone/5749972/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -13517,6 +13642,36 @@
                 "للأزمات"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6770,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6769,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6768,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -18269,6 +18424,18 @@
                 "https://www.sssgdc.ac.in/home.php",
                 "https://www.ksngdcw.ac.in/home.php",
                 "http://gdcc.ac.in/"
+            ]
+        },
+        {
+            "Message ID": 1656,
+            "Date": "2024-09-11",
+            "Content": "🔌You can invite friends and get rewards in TON. \n\n💎For each friend you will receive 0.01 TON. \n\nhttps://t.me/FleepCoinTap_bot?start=08906357374\n\n✔️Invited: 0",
+            "Attack Type": "Unknown",
+            "Location": [
+                "TON"
+            ],
+            "URLs": [
+                "tps://t.me/FleepCoinTap_bot?start=08906357374\n\n"
             ]
         }
     ],
