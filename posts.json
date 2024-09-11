@@ -8210,6 +8210,125 @@
             "URLs": [
                 "ttps://darkwebinformer.com/888-is-allegedly-selling-the-database-of-sacara/"
             ]
+        },
+        {
+            "Message ID": 3522,
+            "Date": "2024-09-11",
+            "Content": "ok it's off.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3521,
+            "Date": "2024-09-11",
+            "Content": "🚨A Threat Actor is Allegedly Selling SSH Access to an Unidentified Insurance Company in Russia",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Russia"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3520,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3519,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 20:49:02\n🚨Title: RipperSec targets the website of Apexxs Technologies\n🛡️Victim Countries: India\n🏭Victim Industries: Retail Industry\n🏢Victim Organizations: apexxs technologies\n🌐Victim Sites: apexxstore.in/rip.html\n📜Category: Defacement\n🔗URL: https://t.me/RipperSecIO/5310\n🕵️‍♂️Threat Actors: RipperSec\n🌍Network: telegram\n📝Content: Group claims to have defaced the website of Apexxs Technologies.\n\nMirror: https://haxor.id/archive/mirror/207635",
+            "Attack Type": "Defacement",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "ore.in/rip.html\n📜Categ",
+                "r.id/archive/mirror/207635"
+            ]
+        },
+        {
+            "Message ID": 3518,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3517,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 20:45:03\n🚨Title: Charles Darwin School falls victim to BLACK SUIT Ransomware\n🛡️Victim Countries: UK\n🏭Victim Industries: Education\n🏢Victim Organizations: charles darwin school\n🌐Victim Sites: cdarwin.com\n📜Category: Ransomware\n🔗URL: http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion/?id=BSpvdMIZki3L0BK4\n🕵️‍♂️Threat Actors: BLACK SUIT\n🌍Network: tor\n📝Content: The group claims to have obtained more than 200 GB of the organization's data and intends to publish it within 24 hours.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                ".com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3516,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3515,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 20:23:07\n🚨Title: CyberVolk. Group targets the website of RIAA\n🛡️Victim Countries: USA\n🏭Victim Industries: Music\n🏢Victim Organizations: the recording industry association of america (riaa)\n🌐Victim Sites: riaa.com\n📜Category: DDoS Attack\n🔗URL: https://t.me/CyberVolk_K/537\n🕵️‍♂️Threat Actors: CyberVolk. Group.\n🌍Network: telegram\n📝Content: Proof of Downtime: https://check-host.net/check-report/1e25ded1kb0a",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "m\n📜Categ",
+                "k-host.net/check-report/1e25ded1kb0a"
+            ]
+        },
+        {
+            "Message ID": 3514,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3513,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 20:20:33\n🚨Title: Alleged data sale of LearnOutLoud.com\n🛡️Victim Countries: USA\n🏭Victim Industries: E-Learning\n🏢Victim Organizations: learnoutloud.com\n🌐Victim Sites: learnoutloud.com\n📜Category: Data Breach\n🔗URL: https://breachforums.st/Thread-SELLING-Learnoutloud-com-users-493k-Country-US\n🕵️‍♂️Threat Actors: manojhalan\n🌍Network: openweb\n📝Content: The threat actor claims to be selling the data of LearnOutLoud.com. The leaked data contains 4,93,273 rows, which includes Username, Email, Password, Phone Number, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "USA",
+                "Username",
+                "Password"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "rnOutLoud.com\n🛡️",
+                "utloud.com\n🌐Vict",
+                "tloud.com\n📜Categ",
+                ".com. The leaked"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -14057,6 +14176,176 @@
         },
         {
             "Message ID": 6771,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6789,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6788,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6787,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6786,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6785,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6784,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6783,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6782,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6781,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6780,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6779,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6778,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6777,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6776,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6775,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6774,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6773,
             "Date": "2024-09-11",
             "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
             "Attack Type": "Unknown",
@@ -24927,6 +25216,36 @@
                 "tp://2.55.64.178:8088/\n\n",
                 "tp://2.54.87.115:8088/\n\n"
             ]
+        },
+        {
+            "Message ID": 833,
+            "Date": "2024-09-11",
+            "Content": "PASSWORD : FUCK_UKRINE .",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 832,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 831,
+            "Date": "2024-09-11",
+            "Content": "работающий...\n\nWorking...",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Electronic Tigers Unit": [
@@ -29669,6 +29988,43 @@
             ],
             "URLs": [
                 "https://t.me/GREENARMOR_BOT"
+            ]
+        },
+        {
+            "Message ID": 1495,
+            "Date": "2024-09-11",
+            "Content": "كتعبير عن دعمنا لامة الاسلامية اعلن عن تعطيل خوادم موقع لأكبر مؤسسة مناصرة تعنى بنشر كل ما يصدر عن الدولة الإسلامية (الارهابية) بعد الرعود.[ISIS].\n\nAs an expression of our support for the Islamic nation, I announce the disruption of the servers of the website of the largest advocacy organization concerned with publishing everything issued by the Islamic State (terrorist) after the thunders [ISIS].\n\nSite:\n\nhttps://i3l.in.net\n\nCheck:\n\nhttps://check-host.net/check-http?host=https://i3l.in.net\n\n#Ops_ISIS",
+            "Attack Type": "Unknown",
+            "Location": [
+                "كل ما يصدر عن الدولة الإسلامية"
+            ],
+            "URLs": [
+                "https://i3l.in.net",
+                "https://check-host.net/check-http?host=https://i3l.in.net"
+            ]
+        },
+        {
+            "Message ID": 1494,
+            "Date": "2024-09-11",
+            "Content": "On this day, I announce my joining the Cyber ​​Resistance Axis, which focuses on establishing several units to defend Palestine and the attacks of the enemies of the Islamic nation. I announce to my followers that I have taken over the leadership of the resistance fronts called the Support Front. We also need to establish a group of brothers who support and specialize in attacks. We do not want people who have no connection to the field or who do not help in organizing attacks. Completing this unit or front is a burden. So, welcome to those with experience. Connect with me in private for anyone who has experience. \nLink to the Islamic Resistance Here: \n\nhttps://t.me/Mhwercyber4",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Palestine"
+            ],
+            "URLs": [
+                "https://t.me/Mhwercyber4"
+            ]
+        },
+        {
+            "Message ID": 1493,
+            "Date": "2024-09-11",
+            "Content": "في هذا اليوم اعلن عن انضمامي لمحور المقاومة السيبراني الذي يركز على انشاء عدة وحدات للدفاع على فلسطين و مهجمات اعداء الامة الاسلامية.فأعلن لمتابعيني انني تسلمت قيادة من جبهات المقاومة التي تسمى جبهة الاسناد.وايضا نحتاج في الى انشاء  \nمجموعة من الإخوة مساندة ومتخصصة في الهجمات لا نريد اشخاص لاعلاقة لهم بلمجال او لايساعد في تنضيم الهجمات. اكمال هذه الوحدة او الجبهة يعتبر عاتق.فأهلا وسهلا بأصحاب الخبرة.توصلوا معي في الخاص لكل شخص لديه خبرة.\nرابط جبهة المقاومة الاسلامية:\n\nhttps://t.me/Mhwercyber4",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/Mhwercyber4"
             ]
         }
     ],
