@@ -6713,6 +6713,164 @@
                 "t.gov.tw\n📜Categ",
                 "k-host.net/check-report/1e21d500k9c2"
             ]
+        },
+        {
+            "Message ID": 3398,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3397,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 11:05:35\n🚨Title: Alleged leak of USA databases\n🛡️Victim Countries: USA\n🏭Victim Industries: Unknown\n🏢Victim Organizations: Unknown\n🌐Victim Sites: Unknown\n📜Category: Data Leak\n🔗URL: https://breachforums.st/Thread-Giveaway-12-000-Officer365-Emails-Business-database-from-a-CRM-Majorly-USA\n🕵️‍♂️Threat Actors: RonyKingSourcingINC\n🌍Network: openweb\n📝Content: The threat actor claims to have obtained 12,000 US databases, including Full Name, Job Title, Company Name, Email, Direct Phone Number, Corporate Phone Number, Employees, Industry, Person LinkedIn URL, Company Website, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "USA",
+                "USA",
+                "US"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:"
+            ]
+        },
+        {
+            "Message ID": 3396,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3395,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 10:53:22\n🚨Title: Al Ahad targets the website of National Agency of Ukraine for Civil Service (NADS)\n🛡️Victim Countries: Ukraine\n🏭Victim Industries: Government Administration\n🏢Victim Organizations: national agency of ukraine for civil service (nads)\n🌐Victim Sites: nads.gov.ua\n📜Category: DDoS Attack\n🔗URL: https://t.me/AlAhadSecurity/1522\n🕵️‍♂️Threat Actors: Al Ahad\n🌍Network: telegram\n📝Content: Proof of downtime: https://check-host.net/check-report/1e22a27ak1bb",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "v.ua\n📜Categ",
+                "k-host.net/check-report/1e22a27ak1bb"
+            ]
+        },
+        {
+            "Message ID": 3394,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3393,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 10:49:02\n🚨Title: Alleged data leak of Astron Technology Corporation\n🛡️Victim Countries: Taiwan\n🏭Victim Industries: Electrical & Electronic Manufacturing\n🏢Victim Organizations: astron technology corporation\n🌐Victim Sites: astron.com.tw\n📜Category: Data Breach\n🔗URL: https://t.me/RipperSecIO/5286\n🕵️‍♂️Threat Actors: RipperSec\n🌍Network: telegram\n📝Content: Group claims to have leaked the organization's data.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Taiwan"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "com.tw\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3392,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3391,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 10:38:10\n🚨Title: Java DDOS Power Proof targets the website of SURGA55\n🛡️Victim Countries: Indonesia\n🏭Victim Industries: Gambling & Casinos\n🏢Victim Organizations: surga55\n🌐Victim Sites: surga55.id\n📜Category: DDoS Attack\n🔗URL: https://t.me/JavaDDoS/907\n🕵️‍♂️Threat Actors: Java DDOS Power Proof\n🌍Network: telegram\n📝Content: Proof of downtime : https://check-host.net/check-report/1e229669k497",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                ".id\n📜Categ",
+                "k-host.net/check-report/1e229669k497"
+            ]
+        },
+        {
+            "Message ID": 3390,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3389,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 10:29:55\n🚨Title: Ende Enrichment house database allegedly kept for sale\n🛡️Victim Countries: Singapore\n🏭Victim Industries: Non-profit & Social Organizations\n🏢Victim Organizations: ende enrichment house\n🌐Victim Sites: ende.com.sg\n📜Category: Data Breach\n🔗URL: https://breachforums.st/Thread-SELLING-Singapore-ende-com-sg-2024--137313\n🕵️‍♂️Threat Actors: F33\n🌍Network: openweb\n📝Content: The threat actor claims to be selling the Ende Enrichment house database.\n\nTotal lines: 380,587",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Singapore"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "m.sg\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3388,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 10:28:25\n🚨Title: Team insane Pakistan targets the website of Naivedya Thali\n🛡️Victim Countries: India\n🏭Victim Industries: Restaurants\n🏢Victim Organizations: naivedya thali\n🌐Victim Sites: naivedyathali.in\n📜Category: Defacement\n🔗URL: https://t.me/TEAM_INSANE_PAKISTAN2/809\n🕵️‍♂️Threat Actors: Team insane Pakistan\n🌍Network: telegram\n📝Content: Group claims to have defaced the website of Naivedya Thali \n\nMirror: https://www.zone-h.org/mirror/id/41281546",
+            "Attack Type": "Defacement",
+            "Location": [
+                "Pakistan",
+                "India",
+                "Pakistan"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "athali.in\n📜Categ",
+                "zone-h.org/mirror/id/41281546"
+            ]
+        },
+        {
+            "Message ID": 3387,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3386,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 10:24:04\n🚨Title: Alleged sale of South Korea investors data\n🛡️Victim Countries: South Korea\n🏭Victim Industries: Unknown\n🏢Victim Organizations: Unknown\n🌐Victim Sites: Unknown\n📜Category: Data Leak\n🔗URL: https://breachforums.st/Thread-SELLING-South-korea-inverstor\n🕵️‍♂️Threat Actors: denverDR\n🌍Network: openweb\n📝Content: The threat actor claims to be selling 1 million lines of South Korea investors data.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "South Korea",
+                "South Korea",
+                "South Korea"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
