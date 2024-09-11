@@ -6221,6 +6221,129 @@
                 ".id\n📜Categ",
                 "k-host.net/check-report/1e1e7961kc81"
             ]
+        },
+        {
+            "Message ID": 3354,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3353,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 08:16:05\n🚨Title: Alleged sale of Mentor Gue database\n🛡️Victim Countries: Indonesia\n🏭Victim Industries: Education\n🏢Victim Organizations: mentor gue\n🌐Victim Sites: mentorgue.com\n📜Category: Data Breach\n🔗URL: https://breachforums.st/Thread-DATABASE-MentorGue-com-Indonesia-20K-USER\n🕵️‍♂️Threat Actors: SWFox2K00\n🌍Network: openweb\n📝Content: The threat actor claims to be selling 20K Mentor Gue users' data. The claimed data includes ID, Email, Password, Name, Status, Phone, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Indonesia",
+                "Password"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "ue.com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3352,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3351,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 08:06:06\n🚨Title: ANON BLACK FLAG targets the website of BPR Gerbang Serasan\n🛡️Victim Countries: Indonesia\n🏭Victim Industries: Financial Services\n🏢Victim Organizations: bpr gerbang serasan\n🌐Victim Sites: bprgerbangserasan.com\n📜Category: Defacement\n🔗URL: https://t.me/PaluAnonCyber/2924\n🕵️‍♂️Threat Actors: ANON BLACK FLAG\n🌍Network: telegram\n📝Content: Group claims to have defaced the website of BPR Gerbang Serasan.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "angserasan.com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3350,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3349,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 07:52:47\n🚨Title: Allegedly leaked OnlineGIBDD.ru database\n🛡️Victim Countries: Russia\n🏭Victim Industries: Information Technology (IT) Services\n🏢Victim Organizations: onlinegibdd.ru\n🌐Victim Sites: onlinegibdd.ru\n📜Category: Data Breach\n🔗URL: https://breachforums.st/Thread-Onlinegibdd-ru-2024\n🕵️‍♂️Threat Actors: Hoover\n🌍Network: openweb\n📝Content: The threat actor claims to have leaked the OnlineGIBDD.ru database. The claimed data includes Email, Password (HASH), Full Name, Phone Number, City, VK, etc.\n\nSize：147MB\nFile type: TXT\nTotal lines: 491,528",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Russia",
+                "City",
+                "VK"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "ineGIBDD.ru da",
+                "gibdd.ru\n🌐Vict",
+                "ibdd.ru\n📜Categ",
+                "ru database. T"
+            ]
+        },
+        {
+            "Message ID": 3348,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3347,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 07:40:28\n🚨Title: Ladov Law Firm falls victim to BianLian Ransomware\n🛡️Victim Countries: USA\n🏭Victim Industries: Law Practice & Law Firms\n🏢Victim Organizations: ladov law firm, p.c.\n🌐Victim Sites: ladovlaw.com\n📜Category: Ransomware\n🔗URL: http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion/companies/ladovlaw.com/\n🕵️‍♂️Threat Actors: BianLian\n🌍Network: tor\n📝Content: Group claims to have access to 105 GB of organization's data, which includes financial records, HR data, case files, court and litigation documents, exhibits, clients' PII, and mailboxes containing both internal and external email correspondence.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA",
+                "p.c.\n"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "w.com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3346,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3345,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 07:27:47\n🚨Title: EXECUTOR DDOS targets the website of Pandawin\n🛡️Victim Countries: Indonesia\n🏭Victim Industries: Gambling & Casinos\n🏢Victim Organizations: pandawin\n🌐Victim Sites: pandawinjp.autos\n📜Category: DDoS Attack\n🔗URL: https://t.me/EXECUTORDDOS/8751\n🕵️‍♂️Threat Actors: EXECUTOR DDOS\n🌍Network: telegram\n📝Content: Proof of downtime : https://check-host.net/check-report/1e216987k58a",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "njp.autos\n📜Categ",
+                "k-host.net/check-report/1e216987k58a"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -11967,6 +12090,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6766,
+            "Date": "2024-09-11",
+            "Content": "Critical RCE Vulnerability in SRX Series Firewalls and EX Series Switches       https://ghostmanews.blogspot.com/2024/09/critical-rce-vulnerability-in-srx.html",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://ghostmanews.blogspot.com/2024/09/critical-rce-vulnerability-in-srx.html"
+            ]
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -16681,6 +16816,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1652,
+            "Date": "2024-09-11",
+            "Content": "Also see this vid of us exposing a bangladeshi youtuber/nigger/ddoser https://youtu.be/BObUKl_t-M8?si=9OaPlTYLq9REP43b",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://youtu.be/BObUKl_t-M8?si=9OaPlTYLq9REP43b"
+            ]
         }
     ],
     "Esteem Restoration Eagle": [
