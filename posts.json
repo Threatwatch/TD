@@ -5998,6 +5998,229 @@
                 "ers.com.br\n📜Categ",
                 "r.id/archive/attacker/Dimax66"
             ]
+        },
+        {
+            "Message ID": 3344,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3343,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 07:18:42\n🚨Title: RipperSec targets the website of The Ministry of Agriculture of Taiwan\n🛡️Victim Countries: Taiwan\n🏭Victim Industries: Government Administration\n🏢Victim Organizations: the ministry of agriculture of taiwan\n🌐Victim Sites: moa.gov.tw\n📜Category: DDoS Attack\n🔗URL: https://t.me/RipperSecIO/5280\n🕵️‍♂️Threat Actors: RipperSec\n🌍Network: telegram\n📝Content: Group claims to have taken down the website of The Ministry of Agriculture of Taiwan.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Taiwan",
+                "taiwan",
+                "https://t.me/RipperSecIO/5280"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                ".tw\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3342,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3341,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 07:03:04\n🚨Title: DEFACER INDONESIA targets the website of Zima Mitra Jaya\n🛡️Victim Countries: Indonesia\n🏭Victim Industries: Building and construction\n🏢Victim Organizations: zima mitra jaya\n🌐Victim Sites: zimamitrajaya.com\n📜Category: Defacement\n🔗URL: https://t.me/DefacerIndonesia/1660\n🕵️‍♂️Threat Actors: DEFACER INDONESIA\n🌍Network: telegram\n📝Content: Group claims to have defaced the website of Zima Mitra Jaya.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "rajaya.com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3340,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3339,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 06:55:12\n🚨Title: DEFACER INDONESIA targets the website of Digihub Media\n🛡️Victim Countries: India\n🏭Victim Industries: Marketing, Advertising & Sales\n🏢Victim Organizations: digihub media manager\n🌐Victim Sites: digihubmedia.in\n📜Category: Defacement\n🔗URL: https://t.me/DefacerIndonesia/1660\n🕵️‍♂️Threat Actors: DEFACER INDONESIA\n🌍Network: telegram\n📝Content: Group claims to have defaced the website of Digihub Media.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "Digihub Media",
+                "India",
+                "Digihub Media"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "media.in\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3338,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3337,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3336,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 06:44:22\n🚨Title: TengkorakCyberCrew targets the website of Black Water Defense\n🛡️Victim Countries: Thailand\n🏭Victim Industries: Military Industry\n🏢Victim Organizations: black water defense\n🌐Victim Sites: blackwaterdefenses.com\n📜Category: Defacement\n🔗URL: https://t.me/tengkorakcybercrew/20053\n🕵️‍♂️Threat Actors: TengkorakCyberCrew\n🌍Network: telegram\n📝Content: Group claims to have defaced the website of Black Water Defense.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "TengkorakCyberCrew",
+                "Thailand"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "terdefenses.com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3335,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3334,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 06:39:06\n🚨Title: DEFACER INDONESIA targets the website of Asia Best Mart\n🛡️Victim Countries: Indonesia\n🏭Victim Industries: Retail Industry\n🏢Victim Organizations: asia best mart\n🌐Victim Sites: asiabest.id\n📜Category: Defacement\n🔗URL: https://t.me/DefacerIndonesia/1660\n🕵️‍♂️Threat Actors: DEFACER INDONESIA\n🌍Network: telegram\n📝Content: Group claims to have defaced the website of Asia Best Mart.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "t.id\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3333,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3332,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 06:33:29\n🚨Title: DEFACER INDONESIA targets the website of Design Thinking Academy\n🛡️Victim Countries: Indonesia\n🏭Victim Industries: Professional Training\n🏢Victim Organizations: design thinking academy\n🌐Victim Sites: designthinkingacademy.id\n📜Category: Defacement\n🔗URL: https://t.me/DefacerIndonesia/1660\n🕵️‍♂️Threat Actors: DEFACER INDONESIA\n🌍Network: telegram\n📝Content: Group claims to have defaced the website of Design Thinking Academy.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "hinkingacademy.id\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3331,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3330,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 06:29:18\n🚨Title: DEFACER INDONESIA targets the website of Reyhan Print\n🛡️Victim Countries: Indonesia\n🏭Victim Industries: Design\n🏢Victim Organizations: reyhan print\n🌐Victim Sites: reyhanprint.id\n📜Category: Defacement\n🔗URL: https://t.me/DefacerIndonesia/1660\n🕵️‍♂️Threat Actors: DEFACER INDONESIA\n🌍Network: telegram\n📝Content: Group claims to have defaced the website of Reyhan Print.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "rint.id\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3329,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3328,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 06:28:07\n🚨Title: DEFACER INDONESIA targets the website of Reyhan Print\n🛡️Victim Countries: Indonesia\n🏭Victim Industries: Design\n🏢Victim Organizations: reyhan print\n🌐Victim Sites: savethedate.reyhanprint.id\n📜Category: Defacement\n🔗URL: https://t.me/DefacerIndonesia/1660\n🕵️‍♂️Threat Actors: DEFACER INDONESIA\n🌍Network: telegram\n📝Content: Group claims to have defaced the website of Reyhan Print.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "date.reyhanprint.id\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3327,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3326,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 06:20:01\n🚨Title: RCH-PROOF targets the website of PT Link Net Tbk\n🛡️Victim Countries: Indonesia\n🏭Victim Industries: Network & Telecommunications\n🏢Victim Organizations: pt link net tbk\n🌐Victim Sites: linknet.id\n📜Category: DDoS Attack\n🔗URL: https://t.me/RCH_POWER/76\n🕵️‍♂️Threat Actors: RCH-PROOF\n🌍Network: telegram\n📝Content: Proof of downtime : https://check-host.net/check-report/1e1e7961kc81",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                ".id\n📜Categ",
+                "k-host.net/check-report/1e1e7961kc81"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -53272,6 +53495,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "Saudi Arabia"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 7,
+            "Date": "2024-09-11",
+            "Content": "SABIC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
