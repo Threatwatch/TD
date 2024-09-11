@@ -8361,6 +8361,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3527,
+            "Date": "2024-09-11",
+            "Content": "Who comes up with these names?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3526,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -30080,6 +30100,16 @@
             "URLs": [
                 "https://clientfoster.com/wp-content/uploads/2024/09/MrHamza.html"
             ]
+        },
+        {
+            "Message ID": 1497,
+            "Date": "2024-09-11",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec iO": [
