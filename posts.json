@@ -7565,6 +7565,94 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3465,
+            "Date": "2024-09-11",
+            "Content": "My Canary and PGP Key can always be found at the footer of the website:\n\nCanary: https://darkwebinformer.com/canary/\nPGP Key: https://darkwebinformer.com/pgp/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkwebinformer.com/canary/",
+                "https://darkwebinformer.com/pgp/"
+            ]
+        },
+        {
+            "Message ID": 3464,
+            "Date": "2024-09-11",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3463,
+            "Date": "2024-09-11",
+            "Content": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA512\n\nToday is the 11th of September 2024.\n\nI am Dark Web Informer and I am in control of my PGP key and all identities listed below.\n\nIdentities added below are the Subdread on Dread and a YouTube placeholder.\n\nThis canary will be updated by the 25th of September 2024. Donations are very much appreciated!\n\nCredit Cards: https://darkwebinformer.com/#/portal/support\n\nBTC Donations: bc1qd9q0fpkchjs9zz2u27mx29vz6vggkfmw6rxgfa\n\nMonero Donations: 868pSMZ2RVBAjEUGGbEUhHZD4x6zun2WXgXTFVFPzYJuRnZAJTVZoahWvL3gUDLi7vPxTpcEePxjLUjMrJhGm4gNU4TGFDv\n\nWebsite: https://darkwebinformer.com/\nSecondary Website: https://darkwebinformer.io\nX/Twitter: https://x.com/DarkWebInformer\nMedium: https://medium.com/@DarkWebInformer\nGitHub: https://github.com/DarkWebInformer\nLinkedIn: https://linkedin.com/company/darkwebinformer\nTelegram Channel: https://t.me/TheDarkWebInformer\nTelegram Contact: https://t.me/D4rkWebInformer\nReddit: https://reddit.com/user/DarkWebInformer\nDread: @DarkWebInformer\nSubdread: /d/DarkWebInformer\nPitch: @darkwebinformer\nXMPP: darkwebinformer@xmpp.is\nDiscord: darkwebinformer\nSignal: DarkWebInformer.99\nYouTube: https://youtube.com/@DarkWebInformer\n\nLatest Monero block hash:\n44d8a1513e0397266a30e6a0d0dae8300a110d3a723ac588823117cea9b9a03b\n-----BEGIN PGP SIGNATURE-----\n\niHUEARYKAB0WIQQ9/D9VgPN15+Zez18HxZ/3+EVxnQUCZuGuKQAKCRAHxZ/3+EVx\nnfrAAPsGhywNq4XENZ9i6vNXGI3W3wVGjixPfZPkkTXpSoxRPQD/Z0/jyDAWiEsS\n1IbBJ7fok8CxCKfzNqrJ6FerNGYe5QI=\n=xiuK\n-----END PGP SIGNATURE-----",
+            "Attack Type": "Unknown",
+            "Location": [
+                "LinkedIn",
+                "Discord"
+            ],
+            "URLs": [
+                "https://darkwebinformer.com/#/portal/support",
+                "https://darkwebinformer.com/",
+                "https://darkwebinformer.io",
+                "https://x.com/DarkWebInformer",
+                "https://medium.com/@DarkWebInformer",
+                "https://github.com/DarkWebInformer",
+                "https://linkedin.com/company/darkwebinformer",
+                "https://t.me/TheDarkWebInformer",
+                "https://t.me/D4rkWebInformer",
+                "https://reddit.com/user/DarkWebInformer",
+                "https://youtube.com/@DarkWebInformer"
+            ]
+        },
+        {
+            "Message ID": 3462,
+            "Date": "2024-09-11",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3461,
+            "Date": "2024-09-11",
+            "Content": "💡How DNS Works",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3460,
+            "Date": "2024-09-11",
+            "Content": "🚨A Threat Actor is Allegedly Selling Data Belonging to the Company Analog Bits\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-belonging-to-the-company-analog-bits/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-belonging-to-the-company-analog-bits/"
+            ]
+        },
+        {
+            "Message ID": 3459,
+            "Date": "2024-09-11",
+            "Content": "🚨A Threat Actor has Allegedly Leaked the Database of Kitchen Arena",
+            "Attack Type": "Unknown",
+            "Location": [
+                "the Database of Kitchen Arena"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
