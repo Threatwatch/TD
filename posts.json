@@ -7838,6 +7838,134 @@
                 "us.in/\n📜Categ",
                 "or-h.org/zone/5749972/"
             ]
+        },
+        {
+            "Message ID": 3490,
+            "Date": "2024-09-11",
+            "Content": "🚨A Threat Actor Has Allegedly Leaked the Database of Bookgenville\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-bookgenville/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "the Database of Bookgenville"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-bookgenville/"
+            ]
+        },
+        {
+            "Message ID": 3489,
+            "Date": "2024-09-11",
+            "Content": "🚨A Threat Actor is Allegedly Selling Access to an Unidentified Shop in the USA",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3488,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3487,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 18:46:28\n🚨Title: Z-BL4CX-H4T targets the website of Hello GTX\n🛡️Victim Countries: India\n🏭Victim Industries: Leisure & Travel\n🏢Victim Organizations: hello gtx\n🌐Victim Sites: b2b.hellogtx.com\n📜Category: Defacement\n🔗URL: https://t.me/Z_BL4CK_H4T/7472\n🕵️‍♂️Threat Actors: Z-BL4CX-H4T\n🌍Network: telegram\n📝Content: Group claims to have defaced the website of Hello GTX.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "logtx.com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3486,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3485,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 18:40:38\n🚨Title: Alleged access sale of unidentified shop in USA\n🛡️Victim Countries: USA\n🏭Victim Industries: Unknown\n🏢Victim Organizations: Unknown\n🌐Victim Sites: Unknown\n📜Category: Initial Access\n🔗URL: https://forum.exploit.in/topic/247221/\n🕵️‍♂️Threat Actors: Khalid\n🌍Network: openweb\n📝Content: The threat actor claims to be selling WordPress admin access with full rights of unidentified shop in USA.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA",
+                "USA",
+                "USA"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:"
+            ]
+        },
+        {
+            "Message ID": 3484,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3483,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 18:32:37\n🚨Title: Database of Bookgenville allegedly leaked\n🛡️Victim Countries: Indonesia\n🏭Victim Industries: E-Learning\n🏢Victim Organizations: bookgenville\n🌐Victim Sites: bookgenville.com\n📜Category: Data Breach\n🔗URL: https://breachforums.st/Thread-DATABASE-Bookgenville-com-User-Data-Indonesia-Download\n🕵️‍♂️Threat Actors: Hiken\n🌍Network: openweb\n📝Content: The threat actor claims to be leaked database of Bookgenville. The leaked data contains 2.8k lines of data, which includes Id, Name, Phone Number, Email, Address, Date of Birth, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Indonesia",
+                "Bookgenville"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "ville.com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3482,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3481,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 18:19:53\n🚨Title: RipperSec targets the website of Forestry and Nature Conservation Agency\n🛡️Victim Countries: Taiwan\n🏭Victim Industries: Government Administration\n🏢Victim Organizations: forestry and nature conservation agency\n🌐Victim Sites: jmlnt-en.forest.gov.tw\n📜Category: DDoS Attack\n🔗URL: https://t.me/RipperSecIO/5305\n🕵️‍♂️Threat Actors: RipperSec\n🌍Network: telegram\n📝Content: Group claims to have taken down the website of Forestry and Nature Conservation Agency.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Taiwan"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "n.forest.gov.tw\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3480,
+            "Date": "2024-09-11",
+            "Content": "🚨ZeroSevenGroup is Allegedly Selling VPN Access to an Unidentified Social Service Organization in the USA\n\nhttps://darkwebinformer.com/zerosevengroup-is-allegedly-selling-vpn-access-to-an-unidentified-social-service-organization-in-the-usa/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/zerosevengroup-is-allegedly-selling-vpn-access-to-an-unidentified-social-service-organization-in-the-usa/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -13667,6 +13795,26 @@
             "Message ID": 6768,
             "Date": "2024-09-11",
             "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6772,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6771,
+            "Date": "2024-09-11",
+            "Content": "يا اخي نريد كورسات نتعلم وحنا معكم",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
