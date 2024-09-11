@@ -7453,6 +7453,118 @@
                 "🔗DarkWebInformer.com:",
                 ".com\n📜Categ"
             ]
+        },
+        {
+            "Message ID": 3458,
+            "Date": "2024-09-11",
+            "Content": "🚨A Threat Actor has Allegedly Leaked the OlineGIBDD[.]ru Database",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3457,
+            "Date": "2024-09-11",
+            "Content": "🚨A Threat Actor is Allegedly Selling RDP Access to an Unidentified Saudi Arabian Company\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-access-to-an-unidentified-saudi-arabian-company/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-access-to-an-unidentified-saudi-arabian-company/"
+            ]
+        },
+        {
+            "Message ID": 3456,
+            "Date": "2024-09-11",
+            "Content": "🚨A Threat Actor is Allegedly Selling the Ende Enrichment House Database\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-ende-enrichment-house-database/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-ende-enrichment-house-database/"
+            ]
+        },
+        {
+            "Message ID": 3455,
+            "Date": "2024-09-11",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3454,
+            "Date": "2024-09-11",
+            "Content": "🚨A Threat Actor Allegedly is Selling a Database to the Company Crunchbase\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-a-database-to-the-company-crunchbase/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-a-database-to-the-company-crunchbase/"
+            ]
+        },
+        {
+            "Message ID": 3453,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3452,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 14:42:41\n🚨Title: Alleged sale of Analog Bits data\n🛡️Victim Countries: USA\n🏭Victim Industries: Semiconductors\n🏢Victim Organizations: analog bits, inc.\n🌐Victim Sites: analogbits.com\n📜Category: Data Breach\n🔗URL: https://xss.is/threads/122513/\n🕵️‍♂️Threat Actors: teddyJ\n🌍Network: openweb\n📝Content: The threat actor claims to be selling Analog Bits data, including confidential source codes, datasheets, and other technical documentation for Intel, Samsung, TSMC, and UMC, totaling 700 GB.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "USA",
+                "GB"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:",
+                "its.com\n📜Categ"
+            ]
+        },
+        {
+            "Message ID": 3451,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3450,
+            "Date": "2024-09-11",
+            "Content": "🔗DarkWebInformer.com: New Threat Alert\n📅Date: 2024-09-11 14:31:59\n🚨Title: Alleged sale of RDP access to an unidentified Saudi Arabian company\n🛡️Victim Countries: Saudi Arabia\n🏭Victim Industries: Unknown\n🏢Victim Organizations: Unknown\n🌐Victim Sites: Unknown\n📜Category: Initial Access\n🔗URL: https://xss.is/threads/122516/\n🕵️‍♂️Threat Actors: prosper\n🌍Network: openweb\n📝Content: The threat actor is offering to sell RDP access to an unidentified Saudi Arabian company in the IT and Commercial and Residential Construction industry.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Saudi Arabia"
+            ],
+            "URLs": [
+                "🔗DarkWebInformer.com:"
+            ]
+        },
+        {
+            "Message ID": 3449,
+            "Date": "2024-09-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
