@@ -8575,6 +8575,18 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-fuerza-del-pueblo-database/"
             ]
+        },
+        {
+            "Message ID": 3545,
+            "Date": "2024-09-12",
+            "Content": "🚨A Threat Actor is Allegedly Selling Citrix Access of an Unidentified Organization in the USA\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-citrix-access-of-an-unidentified-organization-in-the-usa/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-citrix-access-of-an-unidentified-organization-in-the-usa/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -59649,5 +59661,6 @@
             "URLs": []
         }
     ],
+    "null": [],
     "null": []
 }
