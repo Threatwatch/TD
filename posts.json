@@ -8507,6 +8507,74 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3544,
+            "Date": "2024-09-12",
+            "Content": "Yes, I verified.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3543,
+            "Date": "2024-09-12",
+            "Content": "🚨888 Has Allegedly Leaked the Data of WeCloudData\n\nhttps://darkwebinformer.com/888-has-allegedly-leaked-the-data-of-weclouddata/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/888-has-allegedly-leaked-the-data-of-weclouddata/"
+            ]
+        },
+        {
+            "Message ID": 3542,
+            "Date": "2024-09-12",
+            "Content": "🚨IntelBroker and EnergyWeaponUser have Allegedly Leaked the Database of WeOne Skills\n\nhttps://darkwebinformer.com/intelbroker-and-energyweaponuser-have-allegedly-leaked-the-database-of-weone-skills/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/intelbroker-and-energyweaponuser-have-allegedly-leaked-the-database-of-weone-skills/"
+            ]
+        },
+        {
+            "Message ID": 3541,
+            "Date": "2024-09-12",
+            "Content": "His new TG channel https://t.me/EQCHQ",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/EQCHQ"
+            ]
+        },
+        {
+            "Message ID": 3540,
+            "Date": "2024-09-12",
+            "Content": "USDoD wanted me to share with you",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3539,
+            "Date": "2024-09-12",
+            "Content": "🚨A Threat Actor has Allegedly Leaked the Fuerza del Pueblo Database\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-fuerza-del-pueblo-database/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-fuerza-del-pueblo-database/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -59580,5 +59648,6 @@
             ],
             "URLs": []
         }
-    ]
+    ],
+    "null": []
 }
