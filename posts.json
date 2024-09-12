@@ -12694,6 +12694,16 @@
             "URLs": [
                 "https://github.com/bigherocenter/CVE-2024-7029-EXPLOIT"
             ]
+        },
+        {
+            "Message ID": 1959,
+            "Date": "2024-09-12",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
