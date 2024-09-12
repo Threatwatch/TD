@@ -8655,6 +8655,40 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-belonging-to-connect-world/"
             ]
+        },
+        {
+            "Message ID": 3554,
+            "Date": "2024-09-12",
+            "Content": "🚨Chucky, has Allegedly Leaked the Database of PT Krakatau Engineering",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Chucky"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3553,
+            "Date": "2024-09-12",
+            "Content": "💡Fortinet confirms a data breach of more than 440GB\n\nhttps://www.bleepingcomputer.com/news/security/fortinet-confirms-data-breach-after-hacker-claims-to-steal-440gb-of-files/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "GB"
+            ],
+            "URLs": [
+                "ttps://www.bleepingcomputer.com/news/security/fortinet-confirms-data-breach-after-hacker-claims-to-steal-440gb-of-files/"
+            ]
+        },
+        {
+            "Message ID": 3552,
+            "Date": "2024-09-12",
+            "Content": "🚨A Threat Actor is Allegedly Selling RDP Access to an Unidentified Company in Brazil\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-access-to-an-unidentified-company-in-brazil/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-access-to-an-unidentified-company-in-brazil/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -12991,6 +13025,46 @@
         },
         {
             "Message ID": 1963,
+            "Date": "2024-09-12",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1967,
+            "Date": "2024-09-12",
+            "Content": "🔻إِنَّا مِنَ الْمُجْرِمِينَ مُنْتَقِمُونَ\n\nالميدان لحزب الله\n\n فَإِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْغَٰلِبُونَ",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1966,
+            "Date": "2024-09-12",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1965,
+            "Date": "2024-09-12",
+            "Content": "بوركت اياديكم 🤍🌹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1964,
             "Date": "2024-09-12",
             "Content": "",
             "Attack Type": "Unknown",
