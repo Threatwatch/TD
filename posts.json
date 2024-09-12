@@ -8405,6 +8405,41 @@
             "URLs": [
                 "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-september-11th-2024/"
             ]
+        },
+        {
+            "Message ID": 3532,
+            "Date": "2024-09-12",
+            "Content": "🚨A Threat Actor has Allegedly Leaked the Database of Dolphin Solutions",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3531,
+            "Date": "2024-09-12",
+            "Content": "🚨🚨BREAKING: Arrest made in NCA investigation into Transport for London cyber attack\n\nhttps://www.nationalcrimeagency.gov.uk/news/arrest-made-in-nca-investigation-into-transport-for-london-cyber-attack",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Transport",
+                "London"
+            ],
+            "URLs": [
+                "tps://www.nationalcrimeagency.gov.uk/news/arrest-made-in-nca-investigation-into-transport-for-london-cyber-attack"
+            ]
+        },
+        {
+            "Message ID": 3530,
+            "Date": "2024-09-12",
+            "Content": "🚨Double Stealer is being Promoted on GitHub\n\nhttps://github.com/Rbmk343/Double_Stealer",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://github.com/Rbmk343/Double_Stealer"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
