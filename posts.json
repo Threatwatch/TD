@@ -8945,6 +8945,36 @@
                 "the Database of TotalEnergies"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3581,
+            "Date": "2024-09-13",
+            "Content": "🚨A Threat Actor is Allegedly Selling VPN Access to an Unidentified Organization in Spain",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Spain"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3580,
+            "Date": "2024-09-13",
+            "Content": "🚨A Threat Actor has Allegedly Leaked the Source Code to RobbinHood Ransomware",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3579,
+            "Date": "2024-09-13",
+            "Content": "🚨A Threat Actor is Allegedly Selling RDP Access to an Unidentified Organization in the UK",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -62459,6 +62489,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 29882,
+            "Date": "2024-09-13",
+            "Content": "IntelEyes #ComeBack 📣\n\nhttps://inteleyes.pro \n\nNous faisons notre retour avec cette fois si un site encore mieux que notre ancien bot.\n\nRecherche:\n-Nazapi\n-Database\n-Doxbin Database\n-FiveM Database\n-Findemail\n-OathNet\n-OsintIndustrie\n-intelx Soon...\n\n\nNous ferons des mise à jour chaque semaine avec des new api chaque 2 semaines et pour toute demande dm @ogMew\n\nPack Prix:\n\nBasic 25: 15$\nPremium 50:  25$\nUnlimited +API inteleyes Soon [exclusivité osint industrie et intelx Soon...]: 150$\nRecherche Supplementaire 1: 0.6$\n\nContact : @ogMew",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://inteleyes.pro "
+            ]
         }
     ],
     "TestAlert": [
