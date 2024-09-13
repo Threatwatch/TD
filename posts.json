@@ -8975,6 +8975,21 @@
                 "UK"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3582,
+            "Date": "2024-09-13",
+            "Content": "💡Updated to Version 1.8. All updates: https://darkwebinformer.com/changelog\n\n🌟 Version 1.8 - September 13th, 2024\n\n🎉 New Features:\n\n* Created a separate Ransomware feed outside of the current one that is being used here for Pro subscribers (https://darkwebinformer.com/ransomware-feed/). This new feed will update all recent victims on one page. This is version 0.01 and does not contain any features. Bugs are currently not on this changelog.\n* Created a Live Threat Feed for the website, which is working similar to Discord and Telegram. This is version 0.03. Bugs are currently not on this changelog.\n\n⚙️ Improvements:\n\n*\n\n🐛 Bug Fixes:\n*\n\n🐛 Open Bugs:\n* [Minor]: When changing all images to have rounded corners it makes the images look stretched and not centered on the website/X/Telegram/LinkedIn.\n* [Minor]: Add new tags next to new urls is not showing properly against the table.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Version",
+                "Discord",
+                "Telegram"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog\n",
+                "ps://darkwebinformer.com/ransomware-feed/). "
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
