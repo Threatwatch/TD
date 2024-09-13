@@ -28427,6 +28427,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 546,
+            "Date": "2024-09-13",
+            "Content": "We officially announce the closure of the various Israeli sites. We fight against all forms of violence.\n\nIP Address: 194.90.126.16\n------------------------------------------------------\nspsaviv.tel-aviv.gov.il\nrap.tel-aviv.gov.il\nsps106.tel-aviv.gov.il\ncellaviv.tel-aviv.gov.il\nsps.tel-aviv.gov.il\nspsfridge.tel-aviv.gov.il\nmoss.tel-aviv.gov.il\nrap2010.tel-aviv.gov.il\n\n#APTZone\n#CyberVolk\n#AnonymousActivist\n#7OctoberUnion",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "194.90.126.16",
+                "spsaviv.tel-aviv.gov.il",
+                "rap.tel-aviv.gov.il",
+                "sps106.tel-aviv.gov.il",
+                "cellaviv.tel-aviv.gov.il",
+                "sps.tel-aviv.gov.il",
+                "spsfridge.tel-aviv.gov.il",
+                "moss.tel-aviv.gov.il",
+                "rap2010.tel-aviv.gov.il"
+            ]
         }
     ],
     "Mr Hamza": [
@@ -61913,6 +61933,5 @@
             "URLs": []
         }
     ],
-    "null": [],
     "null": []
 }
