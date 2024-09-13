@@ -8915,6 +8915,36 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3578,
+            "Date": "2024-09-13",
+            "Content": "😏",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3577,
+            "Date": "2024-09-13",
+            "Content": "🚨Chucky has Allegedly Leaked the Database of Printphoto",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Chucky"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3576,
+            "Date": "2024-09-13",
+            "Content": "🚨A Threat Actor is Allegedly Selling the Database of TotalEnergies SE",
+            "Attack Type": "Unknown",
+            "Location": [
+                "the Database of TotalEnergies"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -13373,6 +13403,54 @@
             ],
             "URLs": [
                 "https://github.com/CICADA8-Research/MyMSIAnalyzer"
+            ]
+        },
+        {
+            "Message ID": 1978,
+            "Date": "2024-09-13",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1977,
+            "Date": "2024-09-13",
+            "Content": "Target Baku or Azerbaijan cities of Iran  🇦🇿\n\n     😆 Government website 😆\n           👏 https://e-gov.az 👏\n\nhttps://check-host.net/check-report/1e39c59dkef6",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Baku",
+                "Azerbaijan",
+                "Iran"
+            ],
+            "URLs": [
+                "://e-gov.az 👏\n\nh",
+                "//check-host.net/check-report/1e39c59dkef6"
+            ]
+        },
+        {
+            "Message ID": 1976,
+            "Date": "2024-09-13",
+            "Content": "We are using the Double-face Botnet",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1975,
+            "Date": "2024-09-13",
+            "Content": "Target country 🇸🇦 \n\n\n       Target bank 🏦https://alahli.com \n\nhttps://check-host.net/check-report/1e39a6e5k7f4",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://alahli.com \n\n",
+                "ps://check-host.net/check-report/1e39a6e5k7f4"
             ]
         }
     ],
