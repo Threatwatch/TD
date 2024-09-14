@@ -9401,6 +9401,18 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-of-brazil-official-federal-2/"
             ]
+        },
+        {
+            "Message ID": 3624,
+            "Date": "2024-09-14",
+            "Content": "🚨Anonymous KSA Targeted Numerous UAE Websites\n\nhttps://darkwebinformer.com/anonymous-ksa-targeted-numerous-uae-websites/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/anonymous-ksa-targeted-numerous-uae-websites/"
+            ]
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -13985,6 +13997,46 @@
             "URLs": [
                 "https://github.com/Vigrahak/XSSpector"
             ]
+        },
+        {
+            "Message ID": 1989,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1988,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1987,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1986,
+            "Date": "2024-09-14",
+            "Content": "— 🇮🇷 🇮🇷 WATCH: The IRGC Aerospace Force successfully launched the 'Chamran-1' research satellite into Low-Earth Orbit with the Qaem-100 SLV\n\n@Middle_East_Spectator",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
