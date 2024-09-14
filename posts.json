@@ -9214,6 +9214,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3609,
+            "Date": "2024-09-14",
+            "Content": "🚨A Threat Actor has Allegedly Leaked Dutch Contact Center Leads",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3608,
+            "Date": "2024-09-14",
+            "Content": "💡How Tor Works",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -63645,6 +63665,16 @@
             "Message ID": 29890,
             "Date": "2024-09-14",
             "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29956,
+            "Date": "2024-09-14",
+            "Content": "kdoublezx",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
