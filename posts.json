@@ -9164,6 +9164,56 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3607,
+            "Date": "2024-09-14",
+            "Content": "💡For anyone who wants to donate to me via USDT. My ETH (USDT-ERC20) is: 0x828B98817aBF157A269D6a1eF204F539A28f1752",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3606,
+            "Date": "2024-09-14",
+            "Content": "🚨A Threat Actor is Allegedly Selling the CNfans Database",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3605,
+            "Date": "2024-09-14",
+            "Content": "🚨A Threat Actor is Allegedly Selling the Source Code of Mumara Campaign",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3604,
+            "Date": "2024-09-14",
+            "Content": "🚨A Threat Actor is Allegedly Selling the Royal Thai Police Database",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3603,
+            "Date": "2024-09-14",
+            "Content": "🚨A Threat Actor is Allegedly Selling the Deguns[.]net database",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
@@ -13699,6 +13749,54 @@
             ],
             "URLs": [
                 "https://t.me/Iranian_resistance"
+            ]
+        },
+        {
+            "Message ID": 1985,
+            "Date": "2024-09-14",
+            "Content": "https://github.com/horizon3ai/CVE-2024-29847\n\nIvanti EPM AgentPortal RCE Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/horizon3ai/CVE-2024-29847"
+            ]
+        },
+        {
+            "Message ID": 1984,
+            "Date": "2024-09-14",
+            "Content": "https://github.com/S3N4T0R-0X0/BEAR\n\nBear C2 is a compilation of C2 scripts, payloads, and stagers used in simulated attacks by Russian APT groups, Bear features a variety of encryption methods, including AES, XOR, DES, TLS, RC4, RSA and ChaCha to secure communication between the payload and the operator machine.\n#github #tools #APT",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/S3N4T0R-0X0/BEAR"
+            ]
+        },
+        {
+            "Message ID": 1983,
+            "Date": "2024-09-14",
+            "Content": "https://github.com/S3N4T0R-0X0/APT-Attack-Simulation\n\nThis repository is a compilation of all APT simulations that target many vital sectors,both private and governmental. The simulation includes written tools, C2 servers, backdoors, exploitation techniques, stagers, bootloaders, and many other tools that attackers might have used in actual attacks. These tools and TTPs are simulated here.\n#github #tools #exploit #分析 #APT",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/S3N4T0R-0X0/APT-Attack-Simulation"
+            ]
+        },
+        {
+            "Message ID": 1982,
+            "Date": "2024-09-14",
+            "Content": "https://github.com/Vigrahak/XSSpector\n\nXSSpector: A powerful tool for detecting XSS vulnerabilities in web apps. Advanced detection, customizable payloads, proxy support, and cookie management. Open-source and free to use.\n#github #tools #xss",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://github.com/Vigrahak/XSSpector"
             ]
         }
     ],
@@ -62889,6 +62987,669 @@
             "URLs": [
                 "ttps://t.me/CloudPrivedChat"
             ]
+        },
+        {
+            "Message ID": 29955,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29954,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29953,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29952,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29951,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29950,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29949,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29948,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29947,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29946,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29945,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29944,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29943,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29942,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29941,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29940,
+            "Date": "2024-09-14",
+            "Content": "База данных граждан Франции.\nБаза включает Имя, Фамилия, Телефон, Email, Адрес, Индекс.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Фамилия",
+                "Телефон",
+                "Email",
+                "Адрес"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29939,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29938,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29937,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29936,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29935,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29934,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29933,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29932,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29931,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29930,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29929,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29928,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29927,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29926,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29925,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29924,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29923,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29922,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29921,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29920,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29919,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29918,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29917,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29916,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29915,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29914,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29913,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29912,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29911,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29910,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29909,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29908,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29907,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29906,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29905,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29904,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29903,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29902,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29901,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29900,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29899,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29898,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29897,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29896,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29895,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29894,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29893,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29892,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29891,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29890,
+            "Date": "2024-09-14",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "TestAlert": [
