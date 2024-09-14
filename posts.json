@@ -9070,6 +9070,38 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3596,
+            "Date": "2024-09-14",
+            "Content": ".",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3595,
+            "Date": "2024-09-13",
+            "Content": "💡Daily Dose of Dark Web Informer - September 13th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-september-13th-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-september-13th-2024/"
+            ]
+        },
+        {
+            "Message ID": 3594,
+            "Date": "2024-09-13",
+            "Content": "🚨A Threat Actor is Allegedly Selling Access to an Unidentified Shipping and Transportation Company's WordPress Website",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec (ريفرسيچ)": [
