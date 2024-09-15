@@ -14105,6 +14105,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1990,
+            "Date": "2024-09-15",
+            "Content": "https://github.com/Chocapikk/CVE-2024-8504\n\nExploit for CVE-2024-8504 & CVE-2024-8503: SQLi and RCE\n#github #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://github.com/Chocapikk/CVE-2024-8504"
+            ]
         }
     ],
     "Anonymous Chat": [
