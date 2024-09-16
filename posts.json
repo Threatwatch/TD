@@ -1547,6 +1547,100 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-nailsup/"
             ]
+        },
+        {
+            "Message ID": 3678,
+            "Date": "2024-09-16",
+            "Content": "🚨A Threat Actor is Allegedly Selling RDP Access to an Unidentified Organization in Spain\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-access-to-an-unidentified-organization-in-spain/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Spain"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-access-to-an-unidentified-organization-in-spain/"
+            ]
+        },
+        {
+            "Message ID": 3677,
+            "Date": "2024-09-16",
+            "Content": "💡Blackbird is an #OSINT Tool Used to Search Accounts by Username and Emails Across Different Social Networks\n\nhttps://darkwebinformer.com/blackbird-is-an-osint-tool-used-to-search-accounts-by-username-and-emails-across-different-social-networks/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/blackbird-is-an-osint-tool-used-to-search-accounts-by-username-and-emails-across-different-social-networks/"
+            ]
+        },
+        {
+            "Message ID": 3676,
+            "Date": "2024-09-16",
+            "Content": "100 BTC = $5,780,320.00 USD",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3675,
+            "Date": "2024-09-16",
+            "Content": "🚨🚨🚨Port of Seattle has been Claimed a Victim by Rhysida Ransomware\n\nhttps://darkwebinformer.com/port-of-seattle-has-been-claimed-a-victim-by-rhysida-ransomware1/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Seattle"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/port-of-seattle-has-been-claimed-a-victim-by-rhysida-ransomware1/"
+            ]
+        },
+        {
+            "Message ID": 3673,
+            "Date": "2024-09-16",
+            "Content": "🚨A Threat Actor has Allegedly Leaked Indonesian Data\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-indonesian-data/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-indonesian-data/"
+            ]
+        },
+        {
+            "Message ID": 3672,
+            "Date": "2024-09-16",
+            "Content": "🚨A Threat Actor is Allegedly Selling a Database of Facturas Cloud\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-a-database-of-facturas-cloud/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-a-database-of-facturas-cloud/"
+            ]
+        },
+        {
+            "Message ID": 3671,
+            "Date": "2024-09-16",
+            "Content": "🚨MCNA Dental has been Claimed a Victim by Everest Ransomware\n\nhttps://darkwebinformer.com/mcna-dental-has-been-claimed-a-victim-by-everest-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/mcna-dental-has-been-claimed-a-victim-by-everest-ransomware/"
+            ]
+        },
+        {
+            "Message ID": 3670,
+            "Date": "2024-09-16",
+            "Content": "🚨A Threat Actor Allegedly Leaked Data of Treasure Trails\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-treasure-trails/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-treasure-trails/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -2959,6 +3053,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1999,
+            "Date": "2024-09-16",
+            "Content": "https://github.com/0x6rss/WhatsApp-extension-manipulation-PoC/tree/main\n\nAndroid malware (.apk) can be spread through a fake PDF document by manipulating the file extension in the WhatsApp application. PoC is available in this repo\n#github #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/0x6rss/WhatsApp-extension-manipulation-PoC/tree/main"
+            ]
         }
     ],
     "Anonymous Chat": [
