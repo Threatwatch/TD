@@ -1856,6 +1856,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3698,
+            "Date": "2024-09-16",
+            "Content": "💡I created a Donations page that links to the footer of the site and removed the Donation Addresses.\n\nhttps://darkwebinformer.com/donations/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/donations/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
