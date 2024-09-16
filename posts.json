@@ -1677,6 +1677,85 @@
             "URLs": [
                 "ttps://darkwebinformer.com/overflame-targeted-the-website-of-bank-of-kaohsiung/"
             ]
+        },
+        {
+            "Message ID": 3688,
+            "Date": "2024-09-16",
+            "Content": "💡Website updated to Version 1.9. All changes: https://darkwebinformer.com/changelog\n\n🌟 Version 1.9 - September 16th, 2024\n\n🎉 New Features:\n\n* \n\n⚙️ Improvements:\n\n* Added 2 new Ransomware groups\n* Live Threat Feed is currently on version 0.04; Functionality is working, plan to release this in September for paid members. I'm working on splitting the feed for Plus and Pro members. Example, if you are a Pro member, you get everything, if you are a Plus member then things like DDoS, Defacement and Ransomware you wouldn't see.\n* Ransomware Feed is currently on version 0.03; Functionality is working, plan to release this in September for Pro members.\n* I'm working on tapping into some resources for a Scene Leak Feed, this is an early stage and no code has even been written.\n\n🐛 Bug Fixes:\n\n* Many in Live Threat Feed and Ransomware Feed\n\n🐛 Open Bugs:\n\n* [Minor]: When changing all images to have rounded corners it makes the images look stretched and not centered on the website/X/Telegram/LinkedIn.\n* [Minor]: Add new tags next to new urls is not showing properly against the table.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Version",
+                "DDoS"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog\n"
+            ]
+        },
+        {
+            "Message ID": 3687,
+            "Date": "2024-09-16",
+            "Content": "🚨A Threat Actor Allegedly Leaked and Accessed NOAA's Atlantic Oceanographic and Meteorological Laboratory (AOML)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3686,
+            "Date": "2024-09-16",
+            "Content": "🚨Providence Public Schools has Been Claimed a Victim by MEDUSA Ransomware\n\nhttps://darkwebinformer.com/providence-public-schools-has-been-claimed-a-victim-by-medusa-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/providence-public-schools-has-been-claimed-a-victim-by-medusa-ransomware/"
+            ]
+        },
+        {
+            "Message ID": 3685,
+            "Date": "2024-09-16",
+            "Content": "🚨A Threat Actor is Allegedly Selling Access to a Brazil Police Military Panel and Document Accounts\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-a-brazil-police-military-panel-and-document-accounts/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-a-brazil-police-military-panel-and-document-accounts/"
+            ]
+        },
+        {
+            "Message ID": 3684,
+            "Date": "2024-09-16",
+            "Content": "🚨A Threat Actor is Allegedly Selling Temu Customer Data",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3683,
+            "Date": "2024-09-16",
+            "Content": "https://i.ibb.co/4MBNL1F/532981.gif",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://i.ibb.co/4MBNL1F/532981.gif"
+            ]
+        },
+        {
+            "Message ID": 3682,
+            "Date": "2024-09-16",
+            "Content": "💡Data Architecture & Engineering",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -5327,6 +5406,26 @@
                 "Targeted",
                 "India",
                 "Bangladesh"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4958,
+            "Date": "2024-09-16",
+            "Content": "পেইড প্রোমোশন স্টার্ট করবো ভাবতেছি 😸\n\nকরবো নাকি?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4957,
+            "Date": "2024-09-16",
+            "Content": "হ‍্যাপি ৮ম বার্থডে সিলেট গ‍্যাং ❤\n\nগিফ্ট দেন সবাই এখন 😸\n\n@Musab_63",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
