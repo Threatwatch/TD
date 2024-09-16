@@ -2691,6 +2691,18 @@
                 "https://check-host.net/check-report/1e3e45b0ke21",
                 "https://u.ae/"
             ]
+        },
+        {
+            "Message ID": 1996,
+            "Date": "2024-09-16",
+            "Content": "✅FTP login | port : 21\nLocation : Israel 🌟\n\ndellwpsrv.pet.ac.il | •user: yuvalproj | •pass: 026 -->Login Successful\n\n#free_palestine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "ellwpsrv.pet.ac.il "
+            ]
         }
     ],
     "Anonymous Chat": [
