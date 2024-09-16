@@ -1788,6 +1788,64 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3696,
+            "Date": "2024-09-16",
+            "Content": "🚨GARUDA ERROR SYSTEM Allegedly Leaked Data of PT. Hudaya Maju Mandiri",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3695,
+            "Date": "2024-09-16",
+            "Content": "🚨A Threat Actor Allegedly is Selling Philippine Citizens Data\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-philippine-citizens-data/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-philippine-citizens-data/"
+            ]
+        },
+        {
+            "Message ID": 3694,
+            "Date": "2024-09-16",
+            "Content": "🚨Exploit for CVE-2024-29847 PoC for Ivanti Endpoint Manager AgentPortal Deserialization of Untrusted Data Remote Code Execution Vulnerability\n\nhttps://darkwebinformer.com/exploit-for-cve-2024-29847-poc-for-ivanti-endpoint-manager-agentportal-deserialization-of-untrusted-data-remote-code-execution-vulnerability/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/exploit-for-cve-2024-29847-poc-for-ivanti-endpoint-manager-agentportal-deserialization-of-untrusted-data-remote-code-execution-vulnerability/"
+            ]
+        },
+        {
+            "Message ID": 3693,
+            "Date": "2024-09-16",
+            "Content": "🚨A Threat Actor is Allegedly Selling Over 20 Mixed Government Emails\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-over-20-mixed-government-emails/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-over-20-mixed-government-emails/"
+            ]
+        },
+        {
+            "Message ID": 3692,
+            "Date": "2024-09-16",
+            "Content": "🚨A Threat Actor is Allegedly Selling 200 High Quality USA CC\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-200-high-quality-usa-cc/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-200-high-quality-usa-cc/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
