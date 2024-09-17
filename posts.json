@@ -6711,6 +6711,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 788,
+            "Date": "2024-09-17",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇯🇵Japan - Yokohama National University\n\nYokohama National University has reported that a server used by one of its laboratories for numerical calculations and other purposes was illegally accessed and used as a platform for external attacks. \n\nOn Thursday, September 5, 2024, an external agency alerted the university about suspicious communications originating from the server’s IP address. Upon investigation, it was confirmed that the server had been compromised by unauthorized access, and it was immediately disconnected from the network.\n\nThe unauthorized access occurred through an SSH server used for remote connections. While the investigation is ongoing, the university confirmed that no confidential or personal information was stored on the server.\n\nSource:\nhttps://www.ynu.ac.jp/hus/joho/32308/detail.html",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
