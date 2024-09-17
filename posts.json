@@ -28605,6 +28605,18 @@
             "URLs": [
                 "https://pixeldrain.com/u/N4UCAz1w"
             ]
+        },
+        {
+            "Message ID": 30978,
+            "Date": "2024-09-17",
+            "Content": "- India 🇮🇳 / Mobile Network Consumer Database -\n\n> Country: #India 🇮🇳\n> Information: This dataset offers comprehensive mobile network consumer information for approximately 750 million individuals in India, covering 85% of the population.\n> Contents: \n- person name: customer name\n- phone number: mobile number\n- alternate number: secondary contact number\n- address: residential address\n- national id number: national identification number (e.g., Aadhaar number)\n- photo id proof number: government-issued photo identification number\n- relative name: family member name\n> Record: 750 Million\n> Type: #Leaks\n> Available: #Yes 🟢\n> Format: #Csv\n> Limited Sale\n> Contact: @LockBitSuppRaas \n> Compressed data size: 600GB\n> Uncompressed data size: 1.8TB\n> Full Content:\nTELEPHONE NUMBER,CAF SERIAL NO,aadhar_no_of_customer,NAME OF THE SUBSCRIBER,UNIQUE KYC RESPONSE CODE(CUSTOMER AUTHORIZATION),DATE(CUSTOMER AUTHORIZATION),TIME(CUSTOMER AUTHORIZATION),UNIQUE KYC RESPONSE CODE(CUSTOMER DECLARATION),DATE(CUSTOMER DECLARATION),TIME(CUSTOMER DECLARATION),DATE OF BIRTH,FATHER'S/HUSBAND'S NAME,LOCAL ADDRESS(C/O)(D/O)(S/O)(W/O)(H/O),LOCAL ADDRESS - HOUSE NO/FLAT NO,LOCAL ADDRESS - STREET ADDRESS/NAME,LOCAL ADDRESS - LOCALITY,LOCAL ADDRESS - CITY,LOCAL ADDRESS - STATE/UT,LOCAL ADDRESS - POSTAL CODE,PERMANENT ADDRESS - HOUSE NO/FLAT NO,PERMANENT ADDRESS - STREET ADDRESS/NAME,PERMANENT ADDRESS - LOCALITY,PERMANENT ADDRESS - CITY,PERMANENT ADDRESS - STATE/UT,PERMANENT ADDRESS - POSTAL CODE,ALTERNATE PHONE NO,EMAIL ID (IF ANY),GENDER,NATIONALITY,PROFESSION OF THE SUBSCRIBER,PAN/GIR NO,UID NO(IF AVAILABLE),PHOTO ID PROOF TYPE,PHOTO ID - DOCUMENT NO,PHOTO ID - DATE OF ISSUE,PHOTO ID - PLACE OF ISSUE,PHOTO ID - ISSUING AUTHORITY,ADDRESS PROOF TYPE,ADDRESS PROOF - DOCUMENT NO,ADDRESS PROOF - DATE OF ISSUE,ADDRESS PROOF - PLACE OF ISSUE,ADDRESS PROOF - ISSUING AUTHORITY,STATUS OF SUBSCRIBER(INDIBULK/FOREIGNER/OUTSTATION/CORPORATE),CONNECTION TYPE (PRE-PAID/POST-PAID),IF POSTPAID (FORM OF PAYMENT),IF CHEQUE PAYMENT(BANK ACCOUNT NO),IF CHEQUE PAYMENT(BANK NAME),IF CHEQUE PAYMENT(BRANCH NAME & ADDRESS),IMSI NO,SERVICE PROVIDER (INITIAL),CIRCLE (INITIAL),SIM ACTIVATION DATE,SIM ACTIVATION TIME,CURRENT STATUS OF CONNECTION (ACTIVE/ SUSPENDED),PREVIOUS SERVICE PROVIDER,PREVIOUS CIRCLE,POINT OF SALE CODE,POINT OF SALE NAME,POINT OF SALE AGENT NAME,POINT OF SALE AGENT ADHAAR NUMBER,UNIQUE KYC RESPONSE CODE RECEIVED FROM UIDAI FOR AUTHENTICATION,DATE(POS AUTHENTICATION),TIME (POS AUTHENTICATION),POINT OF SALE ADDRESS - HOUSE NO/FLAT NO,POINT OF SALE ADDRESS - STREET ADDRESS/NAME,POINT OF SALE ADDRESS - LOCALITY,POINT OF SALE ADDRESS - CITY,POINT OF ADDRESS - STATE/UT,POINT OF SALE ADDRESS - POSTAL CODE,DETAILS OF ADD-ON/VALUE ADDED FACILITIES ACTIVATED ON SIM CARD,SCANNED PHOTOGRAPH (COLOURED) OF THE SUBSCRIBER,NAME & DESIGNATION OF OFFICER ACTIVATING THE SIM,RE-VERIFICATION STATUS,ADH_TOKEN_NO,TRANSACT_LOG",
+            "Attack Type": "Unknown",
+            "Location": [
+                "India",
+                "GB",
+                "AUTHENTICATION"
+            ],
+            "URLs": []
         }
     ],
     "TestAlert": [
@@ -28645,6 +28657,615 @@
             "Attack Type": "Unknown",
             "Location": [
                 "Saudi Arabia"
+            ],
+            "URLs": []
+        }
+    ],
+    "CyberS102": [
+        {
+            "Message ID": 86,
+            "Date": "2024-09-17",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 82,
+            "Date": "2024-09-17",
+            "Content": "بعصنه وزارة العدل والمحامات",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 81,
+            "Date": "2024-09-17",
+            "Content": "تم تسريب بيانات بعض المحامين في المملكة العربية السعودية، إلى جانب معلومات حساسة تخص وزارة العدل\n\nسيتم تسريب البيانات قريباً\n\nThe data of several lawyers in Saudi Arabia, along with sensitive information related to the Ministry of Justice\n\nData will be leaked soon.\n\nby: @CyberS102 : @wa0_0_o,  @Wa0_3, @yosvz, @sh4dx0r.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "المملكة",
+                "Saudi Arabia"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 77,
+            "Date": "2024-09-11",
+            "Content": "نعتذر عن عدم التواجد، ولكننا سنعود قريبًا.\n\nWe apologize for our absence, but we will be back soon.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 76,
+            "Date": "2024-09-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 75,
+            "Date": "2024-09-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 74,
+            "Date": "2024-09-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 73,
+            "Date": "2024-09-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 72,
+            "Date": "2024-09-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 71,
+            "Date": "2024-09-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 70,
+            "Date": "2024-09-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 68,
+            "Date": "2024-09-07",
+            "Content": "Databases of educational websites and Algerian associations😁",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 66,
+            "Date": "2024-08-28",
+            "Content": "Wait for us soon a surprise...😁",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 65,
+            "Date": "2024-08-25",
+            "Content": "🇲🇦❤️🇵🇸",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 64,
+            "Date": "2024-08-25",
+            "Content": "Hello Israel... It seems that the data of the body responsible for managing social insurance programs is under our control...\n\nمرحباً إسرائيل... يبدو أن بيانات الهيئة المسؤولة عن إدارة برامج التأمين الاجتماعي  تحت سيطرتنا...سنقوم بتسريب ما سمح لنا بتسريبه...\nMOROCCAN SOLDIERS 🇲🇦 \n\n#free_palestine \n#moroccan_soldiers \n#op_il",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 63,
+            "Date": "2024-08-24",
+            "Content": "اعتقال مؤسس \"تلجرام\" بافيل دوروف في باريس بعد نزوله من طائرته الخاصة قادما من أذربيجان.\n\n‏مذكرة الاعتقال صدرت بسبب عدم تعاون دوروف مع قوات الأمن الفرنسية ، أي أنه لا يقدم معلومات وبيانات القنوات والحسابات والمجموعات بسهولة للحكومات.\n\nتطبيق تليجرام لمالكه الروسي بافيل دوروف يقع مقره الرئيسي في الإمارات ، وسياسته لا تخضع للغرب ويجد به أغلب الناشطين متسعا وحرية أكبر ، فهو عكس تطبيقات ومواقع التواصل الشهيرة كالفيسبوك وتويتر التي تفرض قيود على المحتوى المؤيد لفلسطين.\n#FreePavelDurov\n#الحرية_لدوروف",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 62,
+            "Date": "2024-08-24",
+            "Content": "📍The CEO of Telegram was arrested in France at 8PM (approx. 3 hours ago as of this writing)\n\n📍It is alleged he was arrested for lack of moderation on Telegram and not complying with Law Enforcement agencies\n\nhttps://www.tf1info.fr/justice-faits-divers/info-tf1-lci-le-fondateur-et-pdg-de-la-messagerie-cryptee-telegram-interpelle-en-france-2316072.html",
+            "Attack Type": "Hacking",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "tps://www.tf1info.fr/justice-faits-divers/info-tf1-lci-le-fondateur-et-pdg-de-la-messagerie-cryptee-telegram-interpelle-en-france-2316072.html"
+            ]
+        },
+        {
+            "Message ID": 61,
+            "Date": "2024-08-23",
+            "Content": "تم إختراق موقع  https://www.guay2.com وتم الوصول إلى معلومات حساسة تحتوي هذه المعلومات  طرق صناعة مختلف الأسلحة النارية مثل المسدسات وبنادق القنص وغيرها طرق صناعة مختلف الأسلحة إن كان في المستطاع فسنقوم بنشر بعض البيانات مع أن هذه البيانات خطيرة ويعاقب عليها القانون بأقصى العقوبات لأنها تتضمن طرق صناعة الأسلحة\n\n\nتحياتي كان معكم قائد كتيبة جيش المسلمين المجهولين ونوجه تحية إلى كل كتائب الجهاد الإلكتروني وخصوصا الكتائب المغربية التالية:\n\n# Mr Hamza \n# Moroccan Soldiers \n# Moroccan Cyber forces \n# Moroccan Cyber Aliens \n# Black Squads",
+            "Attack Type": "Hacking",
+            "Location": [
+                "الأسلحة",
+                "الأسلحة",
+                "الأسلحة"
+            ],
+            "URLs": [
+                "https://www.guay2.com"
+            ]
+        },
+        {
+            "Message ID": 60,
+            "Date": "2024-08-23",
+            "Content": "تم إيقاف موقع هنتاي تايم.\n\n\nHentai Time website has been taken down\n\ncheck: https://check-host.net/check-report/1d750ebdkef8\n\nby @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://check-host.net/check-report/1d750ebdkef8"
+            ]
+        },
+        {
+            "Message ID": 59,
+            "Date": "2024-08-18",
+            "Content": "سيتم تسريب بيانات اغلب الجامعات بس مو هسه\n\nMost universities' data will be leaked, but not now.\n\nLol for universities",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 58,
+            "Date": "2024-08-18",
+            "Content": "Done...",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 57,
+            "Date": "2024-08-18",
+            "Content": "قاعدة بيانات طلبة جامعة التراث\nتحتوي قاعدة البيانات على معلومات شاملة حول الطلبة، بما في ذلك:\n\nالهوية الشخصية: رقم الطالب، الاسم (بالعربية والإنجليزية)، الكلية، والقسم.\nالتفاصيل الأكاديمية: نوع الدراسة، المستوى الدراسي، الصف، وحالة الطالب.\nمعلومات الاتصال: البريد الإلكتروني.\nالصور: مسار الصورة المرتبط بكل طالب.\n\nAl-Turath University Student Database\nThe database includes comprehensive student information such as:\n\nPersonal Identity: Student ID, name (in Arabic and English), college, and section.\nAcademic Details: Study type, level, class, and student status.\nContact Information: Email address.\nPhotos: Path to each student's photo.\n\nby @CyberS102 . Wa⁰",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 56,
+            "Date": "2024-08-18",
+            "Content": "إيقاف موقع جامعة الزهراء\n\nتم إيقاف موقع جامعة الزهراء: https://alzahraa.edu.iq/\n\nUniversity of Zahra Website Suspension\n\nThe University of Zahra website has been suspended at the following link: https://alzahraa.edu.iq/\n\nby @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://alzahraa.edu.iq/",
+                "https://alzahraa.edu.iq/"
+            ]
+        },
+        {
+            "Message ID": 55,
+            "Date": "2024-08-18",
+            "Content": "https://main.soran.edu.iq/\n\nhttps://check-host.net/check-report/1d4a6ca5k49f\n\nايقاف موقع جماعه المنثور\nby @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://main.soran.edu.iq/",
+                "https://check-host.net/check-report/1d4a6ca5k49f"
+            ]
+        },
+        {
+            "Message ID": 54,
+            "Date": "2024-08-18",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 53,
+            "Date": "2024-08-18",
+            "Content": "https://mybenefits.gov.il/\n\nhttps://check-host.net/check-report/1d4a2ce5kc5c\nتم ايقاف موقع الحكومه الاسرائيليه تضامن مع اهل غزه\n\n\n\n\nThe Israeli government website has been stopped in solidarity with Gaza people\n\nby @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Gaza"
+            ],
+            "URLs": [
+                "https://mybenefits.gov.il/",
+                "https://check-host.net/check-report/1d4a2ce5kc5c"
+            ]
+        },
+        {
+            "Message ID": 52,
+            "Date": "2024-08-18",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 51,
+            "Date": "2024-08-18",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 50,
+            "Date": "2024-08-18",
+            "Content": "https://cbi.iq/\n\nby @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cbi.iq/"
+            ]
+        },
+        {
+            "Message ID": 49,
+            "Date": "2024-08-17",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 48,
+            "Date": "2024-08-17",
+            "Content": "site: https://www.atso-iq.com\n\ncheck: https://check-host.net/check-http?host=https://www.atso-iq.com/\n\n\nInternational Conference and Exhibition Site for Counter-Terrorism, Special Operations and Cybersecurity\n\n\nموقع المؤتمر والمعرض الدولي لمكافحه الإرهاب والعمليات الخاصة والأمن السيبراني\n\nby @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "الخاصة"
+            ],
+            "URLs": [
+                "https://www.atso-iq.com",
+                "https://check-host.net/check-http?host=https://www.atso-iq.com/"
+            ]
+        },
+        {
+            "Message ID": 44,
+            "Date": "2024-08-17",
+            "Content": "today...",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 43,
+            "Date": "2024-08-17",
+            "Content": "site: https://www.egyptianbanks.com/\n\ncheck: https://check-host.net/check-report/1d420500k3d8\n\nby @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.egyptianbanks.com/",
+                "https://check-host.net/check-report/1d420500k3d8"
+            ]
+        },
+        {
+            "Message ID": 41,
+            "Date": "2024-08-16",
+            "Content": "site:https://yrer.dropify.shop/\n\ncheck:https://check-host.net/check-report/1d3c88f1k5d9\n\nby @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://yrer.dropify.shop/",
+                "https://check-host.net/check-report/1d3c88f1k5d9"
+            ]
+        },
+        {
+            "Message ID": 40,
+            "Date": "2024-08-16",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 39,
+            "Date": "2024-08-05",
+            "Content": "https://shbabbek.com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://shbabbek.com/"
+            ]
+        },
+        {
+            "Message ID": 38,
+            "Date": "2024-08-05",
+            "Content": "تم ايقاف الموقع من احد مواقع الثانويه العامه المصريه من اجل الطلاب😉\n\nby @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 37,
+            "Date": "2024-08-05",
+            "Content": "سحب نتيجه الثانويه العامه بمصر قبل نزولها بساعات⭐️",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 36,
+            "Date": "2024-08-03",
+            "Content": "ايقاف موقع جامعه الشعب \nhttps://alshaab.edu.iq/\nرابط الفحص:https://check-host.net/check-report/1cbbdbacke82\n\nStopping the alshaab University website \nhttps://alshaab.edu.iq/\nExamination link:https://check-host.net/check-report/1cbbdbacke82\n\nby @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://alshaab.edu.iq/",
+                "https://check-host.net/check-report/1cbbdbacke82",
+                "https://alshaab.edu.iq/",
+                "https://check-host.net/check-report/1cbbdbacke82"
+            ]
+        },
+        {
+            "Message ID": 35,
+            "Date": "2024-08-03",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 33,
+            "Date": "2024-08-02",
+            "Content": "سيتم تسريب بيانات طلاب جامعة تراث قريبًا. uoturath.edu.iq\n\nTurath University student data will be leaked soon.\nuoturath.edu.iq\n\nby @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "uoturath.edu.iq",
+                "uoturath.edu.iq"
+            ]
+        },
+        {
+            "Message ID": 31,
+            "Date": "2024-07-31",
+            "Content": "هههههه هذا موقع مصري يقدم دورات تعليمية في الأمن السيبراني وتم إغلاق السيرفرات 😂\n😂😂\n\nHahaha this is an Egyptian website that offers educational courses in cybersecurity and the servers have been closed 😂😂😂\n\nby @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "إغلاق"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 30,
+            "Date": "2024-07-26",
+            "Content": "نعتذر عن إعادة النشر بسبب خطأ غير متوقع في الملف. نقدر تفهمك ونتطلع إلى تقديم محتوى أفضل يلبي توقعاتك في المستقبل\nWe apologize for the repost due to an unexpected file error. We appreciate your understanding and look forward to providing better content that meets your expectations in the future.\n\nby @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 29,
+            "Date": "2024-07-26",
+            "Content": "The website au.edu.iq has been breached and databases have been extracted by: @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "au.edu.iq"
+            ]
+        },
+        {
+            "Message ID": 26,
+            "Date": "2024-07-24",
+            "Content": "Data Breach and Leak from the Website  \nstaff.uoitc.edu.iq  \nBy: @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "staff.uoitc.edu.iq"
+            ]
+        },
+        {
+            "Message ID": 20,
+            "Date": "2024-07-13",
+            "Content": "Welcome today we will show you Ddos👺\n services on the sites at a nominal price that varies from one site to another \nPayment methods: USDT & TON  For💰💰\n\n\n\nmore details about the service @Ddosattachedbot ✅✅",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 19,
+            "Date": "2024-07-13",
+            "Content": "🆕🆕🆕",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 17,
+            "Date": "2024-07-12",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 16,
+            "Date": "2024-07-12",
+            "Content": "تم إصابة سيرفرات أحد مواقع التداول الاحتيالية\n\nThe servers of a fraudulent trading site have been infected\n\nby @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 15,
+            "Date": "2024-07-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 14,
+            "Date": "2024-07-07",
+            "Content": "by @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 13,
+            "Date": "2024-07-06",
+            "Content": "supercell.iq",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "supercell.iq"
+            ]
+        },
+        {
+            "Message ID": 12,
+            "Date": "2024-07-06",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 11,
+            "Date": "2024-07-06",
+            "Content": "تم اغلاق سيرفرات موقع سوبر سيل 😂😂😂\n\nSuperSale website servers have been closed 😂😂\n\nby @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "اغلاق"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 10,
+            "Date": "2024-07-01",
+            "Content": "deci.almentor.net",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "deci.almentor.net"
+            ]
+        },
+        {
+            "Message ID": 9,
+            "Date": "2024-07-01",
+            "Content": "هههههه هذا موقع مصري يقدم دورات تعليمية في الأمن السيبراني وتم إغلاق السيرفرات 😂😂😂\n\nby @CyberS102 . Wa⁰ Wa¹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "إغلاق"
             ],
             "URLs": []
         }

@@ -38,6 +38,7 @@ channel_urls = [
     "https://t.me/Arab_Hackers_Union",
     "https://t.me/AnonymousEgypt",
     "https://t.me/+0EHsVXVuasEyOGY0",
+    "https://t.me/CyberS102"
 ]
 
 
