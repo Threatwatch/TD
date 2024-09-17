@@ -2239,6 +2239,56 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-velez-sarsfield/"
             ]
+        },
+        {
+            "Message ID": 3735,
+            "Date": "2024-09-17",
+            "Content": "💡I added a card style for each alert, added some spacing between the lines and optimized the pagination.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3734,
+            "Date": "2024-09-17",
+            "Content": "🚨A Threat Actor is Allegedly Selling U.S. Black Spear Project documents",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Allegedly"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3733,
+            "Date": "2024-09-17",
+            "Content": "dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad[.]onion/post/4ea8cb0b3e6f3f0be985",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3732,
+            "Date": "2024-09-17",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3731,
+            "Date": "2024-09-17",
+            "Content": "💡Daily Dose of Dread",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -3744,6 +3794,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "lebanon"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2008,
+            "Date": "2024-09-17",
+            "Content": "Natan ⌛️ النتن",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Natan"
             ],
             "URLs": []
         }
@@ -29943,6 +30003,16 @@
                 "lockbit6knrauo3qafoksvl742vieqbujxw7rd6ofzdtapjb4rrawqad.onion",
                 "lockbit7ouvrsdgtojeoj5hvu6bljqtghitekwpdy3b6y62ixtsu5jqd.onion"
             ]
+        },
+        {
+            "Message ID": 31043,
+            "Date": "2024-09-17",
+            "Content": "If you are a XMR (Monero) user, take some time and read the recent news about possible issues with not running a local node. In summary, a shady corporation found a way to make Netflow Analysis on Monero users easier/possible. PLEASE take the time and read into this. Once Netflow logs are aggregated, they will not disappear. If the reports are accurate this will be a permanent fingerprint once the Netflow logs have been handed over by your ISP and you used a poisoned node. Best bet it so start with a new wallet and run a local node, if that is possible.\n\nDON'T IGNORE THIS MESSAGE IF YOU ARE A MONERO USER.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Monero"
+            ],
+            "URLs": []
         }
     ],
     "TestAlert": [
