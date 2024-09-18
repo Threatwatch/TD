@@ -3047,6 +3047,42 @@
             "URLs": [
                 "ps://darkwebinformer.com/overflame-targeted-the-website-of-salzburg-airport/"
             ]
+        },
+        {
+            "Message ID": 3806,
+            "Date": "2024-09-18",
+            "Content": "well you dont see this often https://x.com/fsocietypro/status/1836513476400845303",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/fsocietypro/status/1836513476400845303"
+            ]
+        },
+        {
+            "Message ID": 3805,
+            "Date": "2024-09-18",
+            "Content": "🚨🇨🇳A Threat Actor is Allegedly Selling the Database of ELLIPAL\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-ellipal/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-ellipal/"
+            ]
+        },
+        {
+            "Message ID": 3804,
+            "Date": "2024-09-18",
+            "Content": "🚨🇨🇦A Threat Actor Allegedly is Selling RDWeb Access to an Unidentified Canadian Company\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-rdweb-access-to-an-unidentified-canadian-company/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-rdweb-access-to-an-unidentified-canadian-company/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -4693,6 +4729,36 @@
         },
         {
             "Message ID": 2021,
+            "Date": "2024-09-18",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2024,
+            "Date": "2024-09-18",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2023,
+            "Date": "2024-09-18",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2022,
             "Date": "2024-09-18",
             "Content": "",
             "Attack Type": "Unknown",
