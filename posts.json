@@ -2565,6 +2565,173 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-marjane/"
             ]
+        },
+        {
+            "Message ID": 3774,
+            "Date": "2024-09-18",
+            "Content": "🚨A Threat Actor Allegedly Leaked the Database of Digitop",
+            "Attack Type": "Unknown",
+            "Location": [
+                "the Database of Digitop"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3773,
+            "Date": "2024-09-18",
+            "Content": "🚨HBI Targeted the Website of Jajiga Online Tourism Service\n\nhttps://darkwebinformer.com/hbi-targeted-the-website-of-jajiga-online-tourism-service/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "HBI Targeted"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/hbi-targeted-the-website-of-jajiga-online-tourism-service/"
+            ]
+        },
+        {
+            "Message ID": 3772,
+            "Date": "2024-09-18",
+            "Content": "🚨Chernan Technology Co., Ltd. has been Claimed by Orca Ransomware\n\nhttps://darkwebinformer.com/chernan-technology-co-ltd-has-been-claimed-by-orca-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/chernan-technology-co-ltd-has-been-claimed-by-orca-ransomware/"
+            ]
+        },
+        {
+            "Message ID": 3771,
+            "Date": "2024-09-18",
+            "Content": "🚨A Threat Actor Allegedly Leaked the Database of Earnscape\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-the-database-of-earnscape/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-the-database-of-earnscape/"
+            ]
+        },
+        {
+            "Message ID": 3770,
+            "Date": "2024-09-18",
+            "Content": "🚨Byte Blitz Defaced the Website of Shafran Consultancy & Management\n\nhttps://darkwebinformer.com/byte-blitz-defaced-the-website-of-shafran-consultancy-management/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/byte-blitz-defaced-the-website-of-shafran-consultancy-management/"
+            ]
+        },
+        {
+            "Message ID": 3769,
+            "Date": "2024-09-18",
+            "Content": "🚨Russian Cyber Army Team Claims to Target Water Infrastructure in the United States\n\nhttps://darkwebinformer.com/russian-cyber-army-team-claims-to-target-water-infrastructure-in-the-united-states/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "the United States"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/russian-cyber-army-team-claims-to-target-water-infrastructure-in-the-united-states/"
+            ]
+        },
+        {
+            "Message ID": 3768,
+            "Date": "2024-09-18",
+            "Content": "🚨A Threat Actor has Allegedly Leaked the Database of Protelindo Contractor\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-protelindo-contractor/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-protelindo-contractor/"
+            ]
+        },
+        {
+            "Message ID": 3767,
+            "Date": "2024-09-18",
+            "Content": "🚨Rex power Proof Targeted the Website of GitHub\n\nhttps://darkwebinformer.com/rex-power-proof-targeted-the-website-of-github/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/rex-power-proof-targeted-the-website-of-github/"
+            ]
+        },
+        {
+            "Message ID": 3766,
+            "Date": "2024-09-18",
+            "Content": "🚨Byte Blitz Defaced the Website of The Financial Information Collection Unit\n\nhttps://darkwebinformer.com/byte-blitz-defaced-the-website-of-the-financial-information-collection-unit/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/byte-blitz-defaced-the-website-of-the-financial-information-collection-unit/"
+            ]
+        },
+        {
+            "Message ID": 3765,
+            "Date": "2024-09-18",
+            "Content": "🚨RipperSec Targeted the Website of IIT Mandi\n\nhttps://darkwebinformer.com/rippersec-targeted-the-website-of-iit-mandi/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/rippersec-targeted-the-website-of-iit-mandi/"
+            ]
+        },
+        {
+            "Message ID": 3764,
+            "Date": "2024-09-18",
+            "Content": "💡New Release: Tor Browser 13.5.4 @torproject \n\nhttps://blog.torproject.org/new-release-tor-browser-1354/\n\nTor Browser 13.5.4 is now available from the Tor Browser download page and also from our distribution directory.\n\nThis version includes important security updates to Firefox.\n\nSend us your feedback\nIf you find a bug or have a suggestion for how we could improve this release, please let us know.\n\nFull changelog\nThe full changelog since Tor Browser 13.5.3 is:\n\nAll Platforms\nUpdated NoScript to 11.4.37\nUpdated OpenSSL to 3.0.15\nWindows + macOS + Linux\nBug tor-browser#41835: Review default search engine options\nAndroid\nBug tor-browser#43124: Implement a migration procedure for Android\nBug tor-browser#43145: Backport Android security fix from 130.0.1\nBuild System\nAll Platforms\nBug tor-browser-build#41229: Migrate OpenSSL download location to github releases\nmacOS\nBug tor-browser-build#41231: Use var/browser_release_date in tools/signing/gatekeeper-bundling.sh",
+            "Attack Type": "Unknown",
+            "Location": [
+                "github"
+            ],
+            "URLs": [
+                "ttps://blog.torproject.org/new-release-tor-browser-1354/\n",
+                "atekeeper-bundling.sh"
+            ]
+        },
+        {
+            "Message ID": 3763,
+            "Date": "2024-09-18",
+            "Content": "🚨EXECUTOR DDOS Targeted the Website of ICWPost\n\nhttps://darkwebinformer.com/executor-ddos-targeted-the-website-of-icwpost/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/executor-ddos-targeted-the-website-of-icwpost/"
+            ]
+        },
+        {
+            "Message ID": 3762,
+            "Date": "2024-09-18",
+            "Content": "🚨EXECUTOR DDOS Targeted the Website of Moje Płatności\n\nhttps://darkwebinformer.com/executor-ddos-targeted-the-website-of-moje-platnosci/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/executor-ddos-targeted-the-website-of-moje-platnosci/"
+            ]
+        },
+        {
+            "Message ID": 3761,
+            "Date": "2024-09-18",
+            "Content": "🚨DenBots Proof Targeted the Website of TikTok Shop\n\nhttps://darkwebinformer.com/denbots-proof-targeted-the-website-of-tiktok-shop/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/denbots-proof-targeted-the-website-of-tiktok-shop/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -4193,6 +4360,16 @@
             "Message ID": 2019,
             "Date": "2024-09-18",
             "Content": "As what i said… , they are doing it again against all radio devices",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2020,
+            "Date": "2024-09-18",
+            "Content": "Make sure the bluetooth is off on your devices",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
