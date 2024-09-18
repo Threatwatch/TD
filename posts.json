@@ -2461,6 +2461,42 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3753,
+            "Date": "2024-09-18",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3752,
+            "Date": "2024-09-18",
+            "Content": "🔗 DarkWebInformer.com: New Threat Alert\n📅 Date: 2024-09-18 01:26:59\n🚨 Title: Alleged sale of access to a Crypto Exchanges in Asia\n🛡️ Victim Countries: Japan, China, Thailand\n🏭 Victim Industries: Financial Services\n🏢 Victim Organizations: \n🌐 Victim Sites: \n📜 Category: Initial Access\n🔗 URL: https://breachforums.st/Thread-Asian-Crypto-Exchange\n🕵️‍♂️ Threat Actors: IntelBroker\n🌍 Network: openweb\n📝 Content: Threat actor claims to be selling unauthorized access to an unidentified cryptocurrency exchange in Asia. The alleged access reportedly includes Azure Vault, databases, AMQP, AWS S3, AWS SES, AWS Cognito, IBM HPSB, Redis, GitHub, Fireblocks, KeyPairs, and CI/CD pipelines.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Japan",
+                "China",
+                "Thailand"
+            ],
+            "URLs": [
+                "arkWebInformer.com:"
+            ]
+        },
+        {
+            "Message ID": 3751,
+            "Date": "2024-09-17",
+            "Content": "💡Daily Dose of Dark Web Informer - September 17th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-september-17th-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-september-17th-2024/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -4069,6 +4105,16 @@
             "Message ID": 2009,
             "Date": "2024-09-17",
             "Content": "#عاجـــــــــــــــل \n\nهجوم سيبراني يطال الموقع الرسمي لشركة طيران حيفا  אייר חיפה في مطار حيفا",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2018,
+            "Date": "2024-09-18",
+            "Content": "",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -8887,6 +8933,16 @@
             "Message ID": 1671,
             "Date": "2024-09-15",
             "Content": "Mawlid Un Nabi (SAW) Mubarak⛔️\nসকল কে সুবেচ্ছা 🧛‍♂️\n\n#Anonymous_bangladesh",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1672,
+            "Date": "2024-09-18",
+            "Content": "🤖OUR NAGAD ACCOUNT BLOCK\n\nIS SUCCESSFULLY READY✅\n\n🌚YOU CAN BLOCK ANYONE NAGAD ACCOUNT ✅\n\n🎯3 POINT = 1 ATTACK\n🧑‍🤝‍🧑Reffer and earn coin 👛 \n\n\n🤖\nBot Link : @bd_all_in_onebot✅",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -18739,6 +18795,19 @@
                 "Gottwaldmann.com",
                 "Gottwaldmann.com",
                 "ttps://www.gottwaldmann.com/wp-content/uploads/2024/09/MrHamza.html\n"
+            ]
+        },
+        {
+            "Message ID": 1522,
+            "Date": "2024-09-18",
+            "Content": "ردا على الهجمات الهندية اعلن على اختراق و سحب كافة البيانات منصة الخدمات المصرفية للبنك الفيدراليFedNet، الذي يقع مقره الرئيسي في الهند. انشاء الله في ساعات المقبلة سننشر البيانات.\n\nIn response to the Indian attacks, it was announced that all data of the banking services platform of the Federal Bank, FedNet, which is headquartered in India, has been hacked and withdrawn. God willing, in the coming hours we will publish the data.\n\nhttps://www.fednetbank.com\n\nنلتقي غدا ان شاء الله\n\nWe will meet tomorrow, God willing\n\n#Ops_India",
+            "Attack Type": "Hacking",
+            "Location": [
+                "الهندية",
+                "India"
+            ],
+            "URLs": [
+                "https://www.fednetbank.com"
             ]
         }
     ],
