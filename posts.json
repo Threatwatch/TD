@@ -2864,6 +2864,28 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3789,
+            "Date": "2024-09-18",
+            "Content": "🚨🇮🇳RipperSec Targeted the Website of Defence Research and Development Organisation\n\nhttps://darkwebinformer.com/rippersec-targeted-the-website-of-defence-research-and-development-organisation/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rippersec-targeted-the-website-of-defence-research-and-development-organisation/"
+            ]
+        },
+        {
+            "Message ID": 3788,
+            "Date": "2024-09-18",
+            "Content": "🚨🇨🇳A Threat Actor is Allegedly Selling Shell Access to Miluo People's Congress Network",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -4507,6 +4529,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2021,
+            "Date": "2024-09-18",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
@@ -5658,6 +5690,26 @@
                 "s://t.me/aboOmqweAr_bot\n  \n",
                 "me/Mhwercyber4 ⚪️"
             ]
+        },
+        {
+            "Message ID": 6821,
+            "Date": "2024-09-18",
+            "Content": "Theze*",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6820,
+            "Date": "2024-09-18",
+            "Content": "There are those online news links that I would links that I would like to get removed",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -33317,5 +33369,6 @@
             ],
             "URLs": []
         }
-    ]
+    ],
+    "null": []
 }
