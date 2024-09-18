@@ -2986,6 +2986,67 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3803,
+            "Date": "2024-09-18",
+            "Content": "🚨🇸🇪A Threat Actor is Allegedly Selling RDWeb Access to an Unidentified Sweden Company\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdweb-access-to-an-unidentified-sweden-company/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdweb-access-to-an-unidentified-sweden-company/"
+            ]
+        },
+        {
+            "Message ID": 3802,
+            "Date": "2024-09-18",
+            "Content": "🚨CVE-2024-26581 Vulnerability Checker for BGN Internal\n\nhttps://darkwebinformer.com/cve-2024-26581-vulnerability-checker-for-bgn-internal/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/cve-2024-26581-vulnerability-checker-for-bgn-internal/"
+            ]
+        },
+        {
+            "Message ID": 3801,
+            "Date": "2024-09-18",
+            "Content": "💡Updated to Version 1.91. All changes: https://darkwebinformer.com/changelog\n\n🌟 Version 1.91 - September 18th, 2024\n\n🎉 New Features:\n\n* \n\n⚙️ Improvements:\n\n* Created a \"Live Scene Leak Feed\" that provides all releases from Gaming, Movies, TV and More by various scene groups. Version 0.01.\n* Removed 1 Darknet Market due to exit scamming (9/16/24).\n* Removed 1 Ransomware group due to getting seized (9/18/24).\n* Live Threat Feed is currently on version 0.05; The UI looks a little friendlier.\n* Ransomware Feed is still on version 0.03.\n\n🐛 Bug Fixes:\n\n* \n\n🐛 Open Bugs:\n\n* [Minor]: When changing all images to have rounded corners it makes the images look stretched and not centered on the website/X/Telegram/LinkedIn.\n* [Minor]: Add new tags next to new urls is not showing properly against the table.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Version",
+                "Gaming"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog\n"
+            ]
+        },
+        {
+            "Message ID": 3800,
+            "Date": "2024-09-18",
+            "Content": "🚨🇮🇩BTTH Targeted the Website of Badan Narkotika Nasional Republik Indonesia\n\nhttps://darkwebinformer.com/btth-targeted-the-website-of-badan-narkotika-nasional-republik-indonesia/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/btth-targeted-the-website-of-badan-narkotika-nasional-republik-indonesia/"
+            ]
+        },
+        {
+            "Message ID": 3799,
+            "Date": "2024-09-18",
+            "Content": "🚨🇦🇹OverFlame Targeted the Website of Salzburg Airport\n\nhttps://darkwebinformer.com/overflame-targeted-the-website-of-salzburg-airport/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/overflame-targeted-the-website-of-salzburg-airport/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
