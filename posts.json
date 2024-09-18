@@ -2886,6 +2886,64 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3794,
+            "Date": "2024-09-18",
+            "Content": "🚨🇵🇰Pakistan Rawalpindi Police Stations Complaints and FIR Database Allegedly for Sale",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Pakistan"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3793,
+            "Date": "2024-09-18",
+            "Content": "🚨🇦🇺Liquid Blood Targeted the Website of Travellers Autobarn\n\nhttps://darkwebinformer.com/liquid-blood-targeted-the-website-of-travellers-autobarn/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/liquid-blood-targeted-the-website-of-travellers-autobarn/"
+            ]
+        },
+        {
+            "Message ID": 3792,
+            "Date": "2024-09-18",
+            "Content": "🚨🇺🇦RUSSIAN TASK POWER Targeted the Website of Come Back Alive\n\nhttps://darkwebinformer.com/russian-task-power-targeted-the-website-of-come-back-alive/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/russian-task-power-targeted-the-website-of-come-back-alive/"
+            ]
+        },
+        {
+            "Message ID": 3791,
+            "Date": "2024-09-18",
+            "Content": "🚨🇺🇦RUSSIAN TASK POWER Targeted the Website of Georgian Legion\n\nhttps://darkwebinformer.com/russian-task-power-targeted-the-website-of-georgian-legion/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/russian-task-power-targeted-the-website-of-georgian-legion/"
+            ]
+        },
+        {
+            "Message ID": 3790,
+            "Date": "2024-09-18",
+            "Content": "https://x.com/zachxbt/status/1836473279479189916",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/zachxbt/status/1836473279479189916"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -7078,6 +7136,16 @@
             "Location": [
                 "Dhaka",
                 "Bangladesh"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4977,
+            "Date": "2024-09-18",
+            "Content": "Bangladesh Army Exercise today in Rajshahi 🙆‍♂️\n\nBruh India will tomorrow make a news with headline that Taliban Took Over Bangladesh",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Bruh India"
             ],
             "URLs": []
         }
@@ -33370,5 +33438,6 @@
             "URLs": []
         }
     ],
+    "null": [],
     "null": []
 }
