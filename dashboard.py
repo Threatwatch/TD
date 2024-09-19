@@ -77,7 +77,8 @@ async def fetch_messages(channel_identifier, existing_messages_ids):
     try:
         channel = await client.get_entity(channel_identifier)
     except Exception as e:
-        print(f"Failed to fetch the channel {channel_identifier}: {e}")
+        print(f"Failed to fetch the channel {channel_identifier} you need to update the URL")
+        # Return just an empty list of messages if fetching the channel failed
         return None, None, []
 
     limit = 100
@@ -99,7 +100,7 @@ async def fetch_messages(channel_identifier, existing_messages_ids):
     for message in messages:
         if message.id not in existing_messages_ids:
             date = message.date.strftime('%Y-%m-%d')
-            
+
             # Extract URLs if available
             urls = []
             if message.entities:
@@ -131,6 +132,7 @@ async def fetch_messages(channel_identifier, existing_messages_ids):
 
     return channel.id, channel.title, new_messages
 
+
 async def main():
     json_file_path = 'posts.json'
     iteration_count = 0
@@ -148,8 +150,15 @@ async def main():
             channel_identifier = channel_id_map.get(channel_url, channel_url)
             channel_id, channel_name, new_messages = await fetch_messages(channel_identifier, 
                 {msg['Message ID'] for channel in all_channel_messages.values() for msg in channel})
-            if channel_id:
-                channel_id_map[channel_url] = channel_id
+            
+            # Skip channels that couldn't be fetched
+            if channel_id is None or channel_name is None:
+                continue  # Skip to the next channel without adding null
+
+            # Update channel ID map if the channel was fetched successfully
+            channel_id_map[channel_url] = channel_id
+            
+            # Add the channel name only if valid and not already in the messages
             if channel_name not in all_channel_messages:
                 all_channel_messages[channel_name] = []
             
