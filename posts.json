@@ -3083,6 +3083,41 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-rdweb-access-to-an-unidentified-canadian-company/"
             ]
+        },
+        {
+            "Message ID": 3809,
+            "Date": "2024-09-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3808,
+            "Date": "2024-09-19",
+            "Content": "🔗 DarkWebInformer.com: New Threat Alert\n📅 Date: 2024-09-19 01:48:11\n🚨 Title: Vidisco data allegedly breached\n🛡️ Victim Countries: Israel\n🏭 Victim Industries: Defense & Space\n🏢 Victim Organizations: vidisco\n🌐 Victim Sites: vidisco.com\n📜 Category: Alert\n🔗 URL: https://t.me/handala_hack2/98\n🕵️‍♂️ Threat Actors: Handala Hack\n🌍 Network: telegram\n📝 Content: Group claims to have access to 8 TB of sensitive data from Vidisco, including names of agents, customers, emails, backdoor sources, software sources, financial and administrative documents, and more. They allege that Vidisco's software, linked to Mossad, provides secret access to airport security checks and plan to release the data soon.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com:",
+                ".com\n📜 Cate"
+            ]
+        },
+        {
+            "Message ID": 3807,
+            "Date": "2024-09-18",
+            "Content": "💡Daily Dose of Dark Web Informer - September 18th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-september-18th-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-september-18th-2024/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -4761,6 +4796,16 @@
             "Message ID": 2022,
             "Date": "2024-09-18",
             "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2025,
+            "Date": "2024-09-18",
+            "Content": "{يَوْمَ نَبْطِشُ الْبَطْشَةَ الْكُبْرَىٰ إِنَّا مُنتَقِمُونَ}\n\n-سورة الدّخان الآية 16",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -9804,6 +9849,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1675,
+            "Date": "2024-09-19",
+            "Content": "Something is cooking!!\n\n🤕😁😁😁",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1674,
+            "Date": "2024-09-19",
+            "Content": "DDOS ATTACK IN INDIA\n\n\n\n\nCOMING SOON 🔜",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "INDIA"
+            ],
+            "URLs": []
         }
     ],
     "Esteem Restoration Eagle": [
@@ -11132,6 +11197,29 @@
             ],
             "URLs": [
                 "https://defacer.id/mirror/id/123759"
+            ]
+        },
+        {
+            "Message ID": 1880,
+            "Date": "2024-09-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1879,
+            "Date": "2024-09-19",
+            "Content": "Hacked By X7exploit\n\n🌐 [ Sites ] \nhttps://smkn1grogolkediri.sch.id\n\n\n🪞 [ Mirror ] \nhttps://defacer.id/mirror/id/125730\n\n\n🎩 [ Geertz ]\n\n#RisXploit\n#Anonymous_bangladesh\n#IslamicCyberTeam\n#EsteemRestorationEagle\n#TeamTigerForceTtf",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://smkn1grogolkediri.sch.id\n",
+                "tps://defacer.id/mirror/id/125730\n\n"
             ]
         }
     ],
