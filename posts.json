@@ -3308,6 +3308,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/tims-medical-has-been-claimed-by-abyss-ransomware/"
             ]
+        },
+        {
+            "Message ID": 3826,
+            "Date": "2024-09-19",
+            "Content": "🚨🇺🇸A Threat Actor Allegedly Has Leaked Over 10,800 Employees Data Belonging to Dell and It's Partners\n\nhttps://darkwebinformer.com/allegedly-leaked-dell-database/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/allegedly-leaked-dell-database/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -10206,6 +10218,46 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1685,
+            "Date": "2024-09-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1684,
+            "Date": "2024-09-19",
+            "Content": "💔",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1683,
+            "Date": "2024-09-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1682,
+            "Date": "2024-09-19",
+            "Content": "তোফাজ্জেল ভাই গায়ে আঘাত কারী  ধবংস হ তরা \n\nআমাদের দাবি হত্যা সাথে জড়িত দের ফাঁসি। \n\nআপনি তার জায়গায় নিজেকে ভাবুন সব কিছু হারানো\n\nমিথ্যা দোষে হত্যা করা হয়েছে তাকে\n\nRest in peace! \n\n#Anonymous_bangladesh",
+            "Attack Type": "Unknown",
+            "Location": [
+                "দাবি"
             ],
             "URLs": []
         }
