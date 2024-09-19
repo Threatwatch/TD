@@ -4845,6 +4845,19 @@
             "URLs": [
                 "https://github.com/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache"
             ]
+        },
+        {
+            "Message ID": 2028,
+            "Date": "2024-09-19",
+            "Content": "https://blog.includesecurity.com/2024/09/vulnerabilities-in-open-source-c2-frameworks/\n\nVulnerabilities in Open Source C2 Frameworks\n\nhttps://github.com/hyperreality/c2-vulnerabilities\n\nPoCs of RCEs against open source C2 servers.\n\n#github #exploit #tools",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.includesecurity.com/2024/09/vulnerabilities-in-open-source-c2-frameworks/",
+                "https://github.com/hyperreality/c2-vulnerabilities"
+            ]
         }
     ],
     "Anonymous Chat": [
