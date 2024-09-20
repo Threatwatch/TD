@@ -3592,6 +3592,52 @@
             "URLs": [
                 "https://darkwebinformer.com/rss/"
             ]
+        },
+        {
+            "Message ID": 3855,
+            "Date": "2024-09-20",
+            "Content": "🤫",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3854,
+            "Date": "2024-09-19",
+            "Content": "💡Daily Dose of Dark Web Informer - September 19th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-september-19th-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-september-19th-2024/"
+            ]
+        },
+        {
+            "Message ID": 3853,
+            "Date": "2024-09-19",
+            "Content": "🚨🇺🇸A Threat Actor is Allegedly Selling RDP Sccess to an Unidentified U.S.-based Company\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-sccess-to-an-unidentified-u-s-based-company/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-sccess-to-an-unidentified-u-s-based-company/"
+            ]
+        },
+        {
+            "Message ID": 3852,
+            "Date": "2024-09-19",
+            "Content": "🚨🇹🇭A Threat Actor is Allegedly Selling RDP Access to an Unidentified Thailand-based Company\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-access-to-an-unidentified-thailand-based-company/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Unidentified Thailand"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-access-to-an-unidentified-thailand-based-company/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -5322,6 +5368,16 @@
                 "https://blog.includesecurity.com/2024/09/vulnerabilities-in-open-source-c2-frameworks/",
                 "https://github.com/hyperreality/c2-vulnerabilities"
             ]
+        },
+        {
+            "Message ID": 2029,
+            "Date": "2024-09-20",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
@@ -6509,6 +6565,16 @@
             "Date": "2024-09-18",
             "Content": "Hi everyone",
             "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6824,
+            "Date": "2024-09-20",
+            "Content": "İf you want powerfull ddos test? COME DM",
+            "Attack Type": "DDoS Attacks",
             "Location": [
                 "N/A"
             ],
@@ -10532,6 +10598,16 @@
                 "দাবি"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1686,
+            "Date": "2024-09-20",
+            "Content": "আমার কি করা উচিত",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Esteem Restoration Eagle": [
@@ -11904,6 +11980,19 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1883,
+            "Date": "2024-09-20",
+            "Content": "https://perpustakaan.komisiyudisial.go.id/assets/crot.html\nhttps://dprd-luwutimurkab.go.id/ok.htm\n\nKegabutan pagi ini >_\n\nWe are\n#EsteemRestorationEagle",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Kegabutan"
+            ],
+            "URLs": [
+                "https://perpustakaan.komisiyudisial.go.id/assets/crot.html",
+                "https://dprd-luwutimurkab.go.id/ok.htm"
+            ]
         }
     ],
     "SERVER KILLERS": [
