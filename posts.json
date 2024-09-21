@@ -4322,6 +4322,37 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-the-nairobi-expressway-database/"
             ]
+        },
+        {
+            "Message ID": 3917,
+            "Date": "2024-09-21",
+            "Content": "💡How A Drive By Download Works",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3916,
+            "Date": "2024-09-21",
+            "Content": "💡Made a couple UI changes to the Live Threat Feed. It shows 4 per row and 20 per page. Pagination now shows at the top and bottom of the page.\n\nI have a couple backend changes that need to be done before anyone can see this Alpha version. For now this will be a Pro subscriber feed. Once this feed is running properly, I will create a feed for Plus subscribers that will filter out threats that doesn't belong to that subscription plan (DDoS, Defacements, etc.).",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "UI",
+                "Alpha"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3915,
+            "Date": "2024-09-21",
+            "Content": "🚨🇨🇳Alleged sale of China Natural Gas database",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -6178,6 +6209,36 @@
             "Message ID": 2034,
             "Date": "2024-09-21",
             "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2045,
+            "Date": "2024-09-21",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2044,
+            "Date": "2024-09-21",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2043,
+            "Date": "2024-09-21",
+            "Content": "Thanks for the 1M$  \n\nbtc:\n16pkGQEQxEmfszi5R4bY93BSGgZQ9BTTN3",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
