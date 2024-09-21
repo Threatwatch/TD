@@ -4365,6 +4365,64 @@
             "URLs": [
                 "https://x.com/dprkcert/status/1837333177867911439"
             ]
+        },
+        {
+            "Message ID": 3923,
+            "Date": "2024-09-21",
+            "Content": "💡The Live Scene Leak page has an initial card layout. Still very early.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3922,
+            "Date": "2024-09-21",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3921,
+            "Date": "2024-09-21",
+            "Content": "🔗 DarkWebInformer.com: New Threat Alert\n📅 Date: 2024-09-21 19:56:23\n🚨 Title: Alleged sale of BISE Multan database\n🛡️ Victim Country: Pakistan\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: board of intermediate and secondary education, multan\n🌐 Victim Site: bisemultan.edu.pk\n📜 Category: Data Breach\n🔗 Claim: https://breachforums.st/Thread-SELLING-bisemultan-edu-pk-%C2%A0-1-400-000-person-Pakistan\n🕵️‍♂️ Threat Actor: 0xy0um0m\n🌍 Network: openweb\n📝 Content: The threat actor claims to be selling the BISE Multan database. The claimed data includes 1,400,000 persons' Name, Father Name, Register Number, Date of Birth, Sex, Status, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Multan",
+                "Victim",
+                "Pakistan",
+                "Multan"
+            ],
+            "URLs": [
+                "arkWebInformer.com:",
+                "tan.edu.pk\n📜 Cate"
+            ]
+        },
+        {
+            "Message ID": 3920,
+            "Date": "2024-09-21",
+            "Content": "🚨🇷🇺A Threat Actor Allegedly is Selling the Database of Skinline[.]ru",
+            "Attack Type": "Unknown",
+            "Location": [
+                "the Database of Skinline[.]ru"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3919,
+            "Date": "2024-09-21",
+            "Content": "🚨🇪🇸A Threat Actor has Allegedly Leaked the Data of Ibero-American States\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-ibero-american-states/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-ibero-american-states/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
