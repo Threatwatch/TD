@@ -4703,6 +4703,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3949,
+            "Date": "2024-09-22",
+            "Content": "🚨🇹🇭A Threat Actor is Allegedly Selling Balance Brand Customer Data\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-balance-brand-customer-data/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-balance-brand-customer-data/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -8047,6 +8059,26 @@
             "Date": "2024-09-22",
             "Content": "Any existing vulnerability",
             "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6841,
+            "Date": "2024-09-22",
+            "Content": "This person is a scammer. He uses someone else's ID.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6840,
+            "Date": "2024-09-22",
+            "Content": "",
+            "Attack Type": "Unknown",
             "Location": [
                 "N/A"
             ],
