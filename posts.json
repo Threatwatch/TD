@@ -4661,6 +4661,48 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-the-data-and-server-access-to-synople-tv/"
             ]
+        },
+        {
+            "Message ID": 3948,
+            "Date": "2024-09-22",
+            "Content": "🚨🇺🇸A Threat Actor is Allegedly Selling Arkansas USA SSN Data\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-arkansas-usa-ssn-data/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Arkansas"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-arkansas-usa-ssn-data/"
+            ]
+        },
+        {
+            "Message ID": 3947,
+            "Date": "2024-09-22",
+            "Content": "🚨🇨🇦A Threat Actor is Allegedly Selling Canada Recovery Leads Data",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3946,
+            "Date": "2024-09-22",
+            "Content": "🚨🗺A Threat Actor is Allegedly Selling KYC Data from Various Countries",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3945,
+            "Date": "2024-09-22",
+            "Content": "🚨🇮🇩A threat Actor Allegedly has Leaked Indonesian Data",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -7994,6 +8036,16 @@
             "Message ID": 6838,
             "Date": "2024-09-22",
             "Content": "If anyone can hack a website, please message me and I will pay.‼️",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6839,
+            "Date": "2024-09-22",
+            "Content": "Any existing vulnerability",
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
@@ -13727,6 +13779,21 @@
             "URLs": [
                 "https://perpustakaan.komisiyudisial.go.id/assets/crot.html",
                 "https://dprd-luwutimurkab.go.id/ok.htm"
+            ]
+        },
+        {
+            "Message ID": 1886,
+            "Date": "2024-09-22",
+            "Content": "Hacked by X7exploit 🤡\n\nSites:\n\nhttps://dispora.boltimkab.go.id\nhttps://bappeda.boltimkab.go.id\nhttps://satpolppkar.boltimkab.go.id\nhttps://setwan.boltimkab.go.id\n\nThanks To\n\n#TeamTigerForceTtf\n#EsteemRestorationEagle\n#Anonymous_bangladesh\n#IslamicCyberTeam\n#RisXploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://dispora.boltimkab.go.id\n",
+                "ttps://bappeda.boltimkab.go.id\n",
+                "ttps://satpolppkar.boltimkab.go.id\n",
+                "ttps://setwan.boltimkab.go.id\n"
             ]
         }
     ],
