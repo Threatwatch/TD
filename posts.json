@@ -4715,6 +4715,50 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-balance-brand-customer-data/"
             ]
+        },
+        {
+            "Message ID": 3953,
+            "Date": "2024-09-22",
+            "Content": "🚨🇺🇸A Threat Actor is Allegedly Selling the Database of LMKFriends\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-lmkfriends/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "the Database of LMKFriends"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-lmkfriends/"
+            ]
+        },
+        {
+            "Message ID": 3952,
+            "Date": "2024-09-22",
+            "Content": "🚨🇧🇷A Threat Actor has Allegedly Leaked the Porto Digital Database",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3951,
+            "Date": "2024-09-22",
+            "Content": "🚨🇮🇳A threat Actor is Selling the Database o IFB Appliances",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3950,
+            "Date": "2024-09-22",
+            "Content": "🚨🇩🇪grep has Allegedly Leaked the Database of simplyOrg\n\nhttps://darkwebinformer.com/grep-has-allegedly-leaked-the-database-of-simplyorg/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/grep-has-allegedly-leaked-the-database-of-simplyorg/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -8076,6 +8120,16 @@
         },
         {
             "Message ID": 6840,
+            "Date": "2024-09-22",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6842,
             "Date": "2024-09-22",
             "Content": "",
             "Attack Type": "Unknown",
