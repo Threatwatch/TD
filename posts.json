@@ -5144,6 +5144,52 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3990,
+            "Date": "2024-09-23",
+            "Content": "💡Telegram is now cooperating with law enforcement agencies.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3989,
+            "Date": "2024-09-23",
+            "Content": "🚨🇮🇱Al Ahad Targeted the Website of El Al Israel Airlines\n\nhttps://darkwebinformer.com/al-ahad-targeted-the-website-of-el-al-israel-airlines/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/al-ahad-targeted-the-website-of-el-al-israel-airlines/"
+            ]
+        },
+        {
+            "Message ID": 3988,
+            "Date": "2024-09-23",
+            "Content": "🚨🚨🇺🇸grep has Allegedly Leaked a Twilio Database\n\nhttps://darkwebinformer.com/grep-has-allegedly-leaked-the-twilio-database/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Twilio Database"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/grep-has-allegedly-leaked-the-twilio-database/"
+            ]
+        },
+        {
+            "Message ID": 3987,
+            "Date": "2024-09-23",
+            "Content": "🚨🇺🇸Kravit, Hovel & Krawczyk S.C has Been Claimed a Victim to Qilin Ransomware\n\nhttps://darkwebinformer.com/kravit-hovel-krawczyk-s-c-has-been-claimed-a-victim-to-qilin-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Qilin Ransomware"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/kravit-hovel-krawczyk-s-c-has-been-claimed-a-victim-to-qilin-ransomware/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -8659,6 +8705,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6847,
+            "Date": "2024-09-23",
+            "Content": "Upload ảnh kèm caption: \n/b <nội dung> : ảnh kèm 1 cái box và có nội dung bên trong\n/x: ảnh sẽ có dấu chéo\n/f: ảnh sẽ có cái mộc chữ \"fake\"\n/xb: ảnh sẽ vừa có dấu chéo và box nội dung",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6846,
+            "Date": "2024-09-23",
+            "Content": "/help@Chongluadao_autobot",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -10380,6 +10446,16 @@
             "Location": [
                 "Lebanon",
                 "Syria"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5010,
+            "Date": "2024-09-23",
+            "Content": "Labbaik Ya Rasul Allah (saw) 🏴",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
