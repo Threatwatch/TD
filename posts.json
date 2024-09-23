@@ -5190,6 +5190,40 @@
             "URLs": [
                 "ps://darkwebinformer.com/kravit-hovel-krawczyk-s-c-has-been-claimed-a-victim-to-qilin-ransomware/"
             ]
+        },
+        {
+            "Message ID": 3993,
+            "Date": "2024-09-23",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3992,
+            "Date": "2024-09-23",
+            "Content": "🚨🇮🇱Moroccan Cyber Forces Targeted the Website of Groo\n\nhttps://darkwebinformer.com/moroccan-cyber-forces-targeted-the-website-of-groo/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/moroccan-cyber-forces-targeted-the-website-of-groo/"
+            ]
+        },
+        {
+            "Message ID": 3991,
+            "Date": "2024-09-23",
+            "Content": "🚨🇺🇸A Threat Actor Allegedly is Selling RDP Access to an Unidentified USA Company\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-rdp-access-to-an-unidentified-usa-company/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-rdp-access-to-an-unidentified-usa-company/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
