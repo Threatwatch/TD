@@ -5224,6 +5224,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-rdp-access-to-an-unidentified-usa-company/"
             ]
+        },
+        {
+            "Message ID": 3995,
+            "Date": "2024-09-23",
+            "Content": "🚨🇮🇱SWA TEAM Targeted the Website of StudiOne\n\nhttps://darkwebinformer.com/swa-team-targeted-the-website-of-studione/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/swa-team-targeted-the-website-of-studione/"
+            ]
+        },
+        {
+            "Message ID": 3994,
+            "Date": "2024-09-23",
+            "Content": "🚨🇵🇰A Threat Actor Allegedly Leaked the Government of Sindh Database\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-the-government-of-sindh-database/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-the-government-of-sindh-database/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -8754,6 +8778,16 @@
             "Message ID": 6846,
             "Date": "2024-09-23",
             "Content": "/help@Chongluadao_autobot",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6848,
+            "Date": "2024-09-23",
+            "Content": "",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -24193,6 +24227,30 @@
                 "تأكدنا",
                 "البرمجية",
                 "القادمة"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1558,
+            "Date": "2024-09-23",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1557,
+            "Date": "2024-09-23",
+            "Content": "في 7 أكتوبر 2024، ستنطلق عملية نوعية تستهدف مصالح العدو بهجمات متتالية وقوية. سيتم اختراق المواقع، سحب البيانات، وحجب الخدمات، لدعم القضية الفلسطينية والشعوب المناضلة في العراق، لبنان، سوريا، واليمن. هذه العملية تهدد كل من يدعم جرائم إسرائيل وحلفاءها ضد الفلسطينيين. سنقف مع الحق، والله معنا.\n\nOn October 7, 2024, a qualitative operation will be launched targeting the enemy's interests with successive and powerful attacks. Websites will be hacked, data will be withdrawn, and services will be blocked, in support of the Palestinian cause and the struggling peoples in Iraq, Lebanon, Syria, and Yemen. This operation threatens all those who support the crimes of Israel and its allies against the Palestinians. We will stand with the truth, and God is with us.\n\n#Op_7October",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Iraq",
+                "Lebanon",
+                "Syria",
+                "Yemen",
+                "Israel"
             ],
             "URLs": []
         }
