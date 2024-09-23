@@ -6830,6 +6830,26 @@
                 "-79-183-247-143.red.bezeqint.net\n🌐D",
                 "qint.net\n❔In"
             ]
+        },
+        {
+            "Message ID": 2059,
+            "Date": "2024-09-23",
+            "Content": "الابادة لم تعد في غزة فقط.. بل انتقلت الى لبنان..",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2058,
+            "Date": "2024-09-23",
+            "Content": "🔴غارات عنيفه في وسط بلدة مشغرة على المدنيين وعلى وسط بلدة سحمر ويحمر",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
@@ -11040,6 +11060,27 @@
             "Date": "2024-09-20",
             "Content": "",
             "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 861,
+            "Date": "2024-09-23",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇨🇦Canada - Canstar Restorations\n\nThe hacking group Qilin claims to have breached Canstar Restorations. \n\nAllegedly, 287 GB of data were exfiltrated.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Qilin",
+                "GB"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 860,
+            "Date": "2024-09-23",
+            "Content": "DeltaPrime Suffers Major Hack Resulting in Nearly $6 Million Loss\n\nhttps://coinmarketcap.com/community/articles/66e8064662083241cbd3ced4/",
+            "Attack Type": "Hacking",
             "Location": [
                 "N/A"
             ],
