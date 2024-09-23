@@ -5102,6 +5102,48 @@
             "URLs": [
                 "ttps://darkwebinformer.com/enhancing-online-safety-with-checkphish-by-bolster-ai/"
             ]
+        },
+        {
+            "Message ID": 3986,
+            "Date": "2024-09-23",
+            "Content": "https://x.com/DarkWebInformer/status/1838292186707677638",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1838292186707677638"
+            ]
+        },
+        {
+            "Message ID": 3985,
+            "Date": "2024-09-23",
+            "Content": "He'll see this. :)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3984,
+            "Date": "2024-09-23",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3983,
+            "Date": "2024-09-23",
+            "Content": "Remember how I mentioned several weeks ago LoadEX was leaking it's IP.. I told the admin of  that site.. well... this is the last time I help any of you stupid MFers.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -10327,6 +10369,17 @@
             "Location": [
                 "Iraq",
                 "New York"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5009,
+            "Date": "2024-09-23",
+            "Content": "The displacement of citizens from Lebanon to Syria 💔",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Lebanon",
+                "Syria"
             ],
             "URLs": []
         }
