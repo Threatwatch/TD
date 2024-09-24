@@ -2,7 +2,7 @@ name: Update JSON
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs at the start of every hour
+    - cron: '*/10 * * * *'  # Runs every 10 minutes
   workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
