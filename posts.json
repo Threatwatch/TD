@@ -5258,6 +5258,51 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4000,
+            "Date": "2024-09-24",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3999,
+            "Date": "2024-09-24",
+            "Content": "🔗 DarkWebInformer.com: New Threat Alert\n📅 Date: 2024-09-24 01:30:14\n🚨 Title: Alleged sale of unauthorized access to the network of CardCom\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Financial Services\n🏢 Victim Organization: cardcom\n🌐 Victim Site: cardcom.solutions\n📜 Category: Initial Access\n🔗 Claim: https://breachforums.st/Thread-RDP-Access-to-CardCom-Entire-Server-Network-Israel\n🕵️‍♂️ Threat Actor: SoftDeveloper\n🌍 Network: openweb\n📝 Content: Threat actor claims to be selling unauthorized access to the entire server network of CardCom, a clearing company that offers credit and debit solutions to businesses through technology. The access reportedly includes full control over all servers, databases, and sensitive information, such as millions of credit card transactions, personal data, and financial records.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com:",
+                ".solutions\n📜 Cate"
+            ]
+        },
+        {
+            "Message ID": 3998,
+            "Date": "2024-09-23",
+            "Content": ".",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3997,
+            "Date": "2024-09-23",
+            "Content": "💡Daily Dose of Dark Web Informer - September 23rd, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-september-23rd-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-september-23rd-2024/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -8796,6 +8841,36 @@
         },
         {
             "Message ID": 6848,
+            "Date": "2024-09-23",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6851,
+            "Date": "2024-09-24",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6850,
+            "Date": "2024-09-24",
+            "Content": "هم يبحثون عن نصر سريع جدا ..\n\n\n\nوانت سيد المواقف .. يريدون منك أن تتراجع بنفسك وراءَ .. او تتخلى عن دورك الثقيل عليهم ..هذا كله ضمن الضغط ..\n\n قد خططوا أيضا لجعل الطريق مزدحمة بالفارين الذين ارعبوهم بطرق تواصلية او استخبارتية  متعددة ..\n\nهذا كي يتحقق لهم فارق كبير في عدد القتلى بسبب تأخر الحصول على الإسعافات  الأولية..\n\nهذا كله ضمن الفوضة المنظمة طبعا بالنسبة لهم .. كي يجعلوا هذه الفوضى تتجه شمالا ..\n\nأنت لست وحدك 🫵🏼 عدلا ورحمة.. فالكل يشهد على إسنادك ..\n\nوغرضهم هو أن يحرقوا لك هذه الورقة سياسيا ثم ما يحدث عسكريا واستخبارتيا ..\n\nولكن اعلم ان الله خلق شيء اسمه التجديد ومن الحاجة تنبتق الاختراعات ..\nضيّق دائرة قرارك ..وأغلق الثغرة  .. \n\nتذكر أن هدفهم هو استسلامك لا قتلك .. بل جعلك منعزلا ..\n\nلأن قتلك يعلمون انه يأتي  عكس توقعاتهم بمكاسب أعلى بكثير من استسلامك..\n\nفي مثل هذه الظروف تفكر الكتلة في تحالفات .. وهذه التحالفات تكون خطيرة بقدر ما تكون حتمية .. لذالك احذر من التنازلات القيمة ..\n\nولكن هذا لا يعني أنه لا توجد بعض الأشياء التي لم تعد لها قيمة ويمكن التنازل عليها لتغطية ما..",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6849,
             "Date": "2024-09-23",
             "Content": "",
             "Attack Type": "Unknown",
