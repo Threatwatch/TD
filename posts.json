@@ -7423,6 +7423,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2070,
+            "Date": "2024-09-24",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
@@ -19961,6 +19971,16 @@
             "Message ID": 4426,
             "Date": "2024-09-21",
             "Content": "September 21, 2024  Israeli Insurance Company Menora Targeted in Darkant Forum Sale  #Intel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4428,
+            "Date": "2024-09-24",
+            "Content": "September 24, 2024  Access to Israeli Clearing Company Servers Sold on Dark Web  #Intel",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
