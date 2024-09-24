@@ -7433,6 +7433,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2071,
+            "Date": "2024-09-24",
+            "Content": "إنا منتقمون🌟",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
@@ -8922,6 +8932,16 @@
         {
             "Message ID": 6849,
             "Date": "2024-09-23",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6852,
+            "Date": "2024-09-24",
             "Content": "",
             "Attack Type": "Unknown",
             "Location": [
@@ -11989,6 +12009,28 @@
                 "Brazil"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 876,
+            "Date": "2024-09-24",
+            "Content": "#Telegram Agrees to Share User Data With Authorities for Criminal Investigations\n\nhttps://thehackernews.com/2024/09/telegram-agrees-to-share-user-data-with.html",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 875,
+            "Date": "2024-09-24",
+            "Content": "\"Cybersecurity issue\" takes MoneyGram offline for three days – and counting\n\nhttps://www.theregister.com/2024/09/23/moneygram_cybersecurity_issue/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.theregister.com/2024/09/23/moneygram_cybersecurity_issue/"
+            ]
         }
     ],
     "ANONYM∅US": [
