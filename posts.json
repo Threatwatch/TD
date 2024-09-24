@@ -5351,6 +5351,64 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-unauthorized-access-to-the-network-of-cardcom/"
             ]
+        },
+        {
+            "Message ID": 4009,
+            "Date": "2024-09-24",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4008,
+            "Date": "2024-09-24",
+            "Content": "🚨🇮🇱Pro-Palestine Hackers Movement Targeted the Website of El Al Airlines\n\nhttps://darkwebinformer.com/pro-palestine-hackers-movement-targeted-the-website-of-el-al-airlines/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/pro-palestine-hackers-movement-targeted-the-website-of-el-al-airlines/"
+            ]
+        },
+        {
+            "Message ID": 4007,
+            "Date": "2024-09-24",
+            "Content": "🚨🇹🇷Z-BL4CX-H4T Defaced the Website of Adana Farmers Union\n\nhttps://darkwebinformer.com/z-bl4cx-h4t-defaced-the-website-of-adana-farmers-union/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/z-bl4cx-h4t-defaced-the-website-of-adana-farmers-union/"
+            ]
+        },
+        {
+            "Message ID": 4006,
+            "Date": "2024-09-24",
+            "Content": "🚨🇺🇸A Threat Actor has Allegedly Leaked Email Addresses/Domains of U.S. Department of State & FBI\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-email-addresses-domains-of-u-s-department-of-state-fbi/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-email-addresses-domains-of-u-s-department-of-state-fbi/"
+            ]
+        },
+        {
+            "Message ID": 4005,
+            "Date": "2024-09-24",
+            "Content": "🚨🇮🇱Ghost Algérie Defaced the Website of Argaman Real Estate\n\nhttps://darkwebinformer.com/ghost-algerie-defaced-the-website-of-argaman-real-estate/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/ghost-algerie-defaced-the-website-of-argaman-real-estate/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -12215,6 +12273,16 @@
             "URLs": [
                 "tps://hackmanac.com/news/hack-tuesday-week-18-24-september-2024\n\n"
             ]
+        },
+        {
+            "Message ID": 882,
+            "Date": "2024-09-24",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - College Hospital Costa Mesa\n\nLockBit ransomware group claims to have breached College Hospital Costa Mesa. \n\nAllegedly, 1.09 TB of data were exfiltrated.\nRansom deadline: 15th Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
