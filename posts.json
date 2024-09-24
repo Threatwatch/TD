@@ -5487,6 +5487,40 @@
             "URLs": [
                 "http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/post/b1bb01b61a940e2054cc"
             ]
+        },
+        {
+            "Message ID": 4019,
+            "Date": "2024-09-24",
+            "Content": "🚨🇱🇺A Threat Actor Allegedly Leaked Exported CRM Data from Netcompany-Intrasoft\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-exported-crm-data-from-netcompany-intrasoft/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-exported-crm-data-from-netcompany-intrasoft/"
+            ]
+        },
+        {
+            "Message ID": 4018,
+            "Date": "2024-09-24",
+            "Content": "🚨🇸🇰Chucky has Allegedly Leaked the Exported CRM Data from IBL Software Engineering\n\nhttps://darkwebinformer.com/chucky-has-allegedly-leaked-the-exported-crm-data-from-ibl-software-engineering/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Chucky"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/chucky-has-allegedly-leaked-the-exported-crm-data-from-ibl-software-engineering/"
+            ]
+        },
+        {
+            "Message ID": 4017,
+            "Date": "2024-09-24",
+            "Content": "I guess that's one way to get the feds attention",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -10980,6 +11014,16 @@
                 "Bangladesh"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5019,
+            "Date": "2024-09-24",
+            "Content": "مَنْ سَبَّ اللَّهَ فَاقْتُلُوه\nWhoever insult Prophet (PBUH) ,Kill him\nযেই রাসুল সাঃ কে অপমান করবে তাকে হত‍্যা কর⚠\n\n#chaloMumbai",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -12356,6 +12400,16 @@
             "Message ID": 882,
             "Date": "2024-09-24",
             "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - College Hospital Costa Mesa\n\nLockBit ransomware group claims to have breached College Hospital Costa Mesa. \n\nAllegedly, 1.09 TB of data were exfiltrated.\nRansom deadline: 15th Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 883,
+            "Date": "2024-09-24",
+            "Content": "🚨Data Leak Alert ‼️\n\nReportedly, A Breach At 911 Interpreter Led To The Exfiltration Of 12K Twilio Call Records\n\nYesterday, on September 23, the threat actor known as \"grep\" claimed that an American call interpreter suffered a data breach leading to the exfiltration of 11,802 Twilio's call records, which were subsequently leaked for free on a hacking forum.\n\nToday, in another post, the cybercriminal revealed that Twilio's call records were stolen by breaching 911 Interpreter, a company that provides telephone, video, on-site, and written translation services.\nOnce again, the data was leaked for free.\n\nThe confirmation or denial of these claims has yet to be verified.",
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
