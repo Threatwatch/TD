@@ -5615,6 +5615,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-data-of-uprofit/"
             ]
+        },
+        {
+            "Message ID": 4027,
+            "Date": "2024-09-24",
+            "Content": "🚨PoC for Lobe Chat CVE-2024-47066\n\nhttps://darkwebinformer.com/poc-for-lobe-chat-cve-2024-47066/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/poc-for-lobe-chat-cve-2024-47066/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -7806,6 +7818,43 @@
                 "90.61.101.215:21:",
                 "9.252.134.90:21:",
                 "90.61.98.201:21:"
+            ]
+        },
+        {
+            "Message ID": 2077,
+            "Date": "2024-09-24",
+            "Content": "⭕️ تعرضت 9 مواقع إسرائيلية مهمة، بما في ذلك: مواقع البرمجيات الإسرائيلية، ومواقع النفط والصناعة، ومواقع التعدين والصناعات الزراعية، لهجمات قطع الخدمة (DDOS) في هجوم سيبراني من قبل الجبهة الإيرانية ولم تكن متاحة لعدة ساعات.\n\n🔵https://mechinot.org.il/\n\n✔️https://check-host.net/check-report/1ea1c568ke52\n\n🔵https://ofran.co.il/\n\n✔️https://check-host.net/check-report/1ea1dbffk8e6\n\n🔵https://sdebar.co.il/\n\n✔️https://check-host.net/check-report/1ea1e080kbcd\n\n🔵https://www.magicsoftware.com/\n\n✔️https://check-host.net/check-report/1ea1e7bdkca6\n\n🔵https://www.nice.com/\n\n✔️https://check-host.net/check-report/1ea1ea69k9a7\n\n🔵https://g-city.com/\n\n✔️https://check-host.net/check-report/1ea22183ka1b\n\n🔵https://shikunbinui.com\n\n✔️https://check-host.net/check-report/1ea2293bk9ff\n\n🔵https://www.paz.co.il\n\n✔️https://check-host.net/check-report/1ea23dffke40\n\n🔵https://milog.co.il\n\n✔️https://check-host.net/check-report/1ea23effk714\n\n#free_palestine #DDos\n⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️\n@Mhwercyber4✊",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "⚪",
+                "⚪",
+                "⚪",
+                "⚪",
+                "⚪",
+                "⚪",
+                "⚪",
+                "⚪",
+                "⚪"
+            ],
+            "URLs": [
+                "ttps://mechinot.org.il/\n",
+                "ttps://check-host.net/check-report/1ea1c568ke52\n",
+                "tps://ofran.co.il/\n\n",
+                "tps://check-host.net/check-report/1ea1dbffk8e6\n\n",
+                "ps://sdebar.co.il/\n\n✔",
+                "ps://check-host.net/check-report/1ea1e080kbcd\n\n🔵",
+                "s://www.magicsoftware.com/\n\n✔️",
+                "s://check-host.net/check-report/1ea1e7bdkca6\n\n🔵h",
+                "://www.nice.com/\n\n✔️h",
+                "://check-host.net/check-report/1ea1ea69k9a7\n\n🔵ht",
+                "//g-city.com/\n\n✔️ht",
+                "//check-host.net/check-report/1ea22183ka1b\n\n🔵htt",
+                "/shikunbinui.com\n\n✔️htt",
+                "/check-host.net/check-report/1ea2293bk9ff\n\n🔵http",
+                "www.paz.co.il\n\n✔️http",
+                "check-host.net/check-report/1ea23dffke40\n\n🔵https",
+                "ilog.co.il\n\n✔️https",
+                "heck-host.net/check-report/1ea23effk714\n\n#free_p"
             ]
         }
     ],
