@@ -5545,6 +5545,28 @@
             "URLs": [
                 "arkwebinformer.com/a-threat-actor-allegedly-is-selling-telegram-data/"
             ]
+        },
+        {
+            "Message ID": 4023,
+            "Date": "2024-09-24",
+            "Content": "🚨🇹🇷A Threat Actor Allegedly Leaked Data of Sekizdesekiz Bilgisayar\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-sekizdesekiz-bilgisayar/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-sekizdesekiz-bilgisayar/"
+            ]
+        },
+        {
+            "Message ID": 4022,
+            "Date": "2024-09-24",
+            "Content": "💡Cybersecurity 101",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -11046,6 +11068,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5020,
+            "Date": "2024-09-24",
+            "Content": "We will be on action tonight \n\nRegarding the Insult of Prophet Muhammad (PUBH) in India ⚠",
+            "Attack Type": "Unknown",
+            "Location": [
+                "India"
             ],
             "URLs": []
         }
