@@ -5639,6 +5639,41 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-vpn-access-to-an-unidentified-italian-company/"
             ]
+        },
+        {
+            "Message ID": 4031,
+            "Date": "2024-09-24",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4030,
+            "Date": "2024-09-24",
+            "Content": "🔗 DarkWebInformer.com: New Threat Alert\n📅 Date: 2024-09-24 19:47:48\n🚨 Title: Alleged data leak of Stefab India Limited\n🛡️ Victim Country: India\n🏭 Victim Industry: Machinery Manufacturing\n🏢 Victim Organization: stefab india limited\n🌐 Victim Site: stefab.com\n📜 Category: Data Breach\n🔗 Claim: https://t.me/forumsblackeaglepersonality/101\n🕵️‍♂️ Threat Actor: Black Eagle Personality\n🌍 Network: telegram\n📝 Content: Group claims to have leaked data from Stefab India Limited. which includes name, phone number, email, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Victim Country",
+                "India",
+                "india"
+            ],
+            "URLs": [
+                "arkWebInformer.com:",
+                "com\n📜 Cate"
+            ]
+        },
+        {
+            "Message ID": 4029,
+            "Date": "2024-09-24",
+            "Content": "Yall really hope Telegram won't find you sooner or later.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
