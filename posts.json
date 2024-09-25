@@ -12932,6 +12932,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 886,
+            "Date": "2024-09-25",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇯🇵Japan - Ricoh Japan Co., Ltd. reported a ransomware attack on its subcontractor, Kuragyo Service Co., Ltd., resulting in the potential leakage of customer and employee information. \n\nThe attack occurred on September 12, 2024, and was disclosed to Ricoh Japan on September 20, 2024. The affected data includes customer delivery details (company names, department names, addresses, phone numbers, and contact persons) involving 3,841 cases, as well as the potential exposure of personal information of 2,603 employees.\n\nSource:\nhttps://jp.ricoh.com/info/notice/2024/0924_1",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
