@@ -5934,6 +5934,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/grep-allegedly-leaked-a-dell-database/"
             ]
+        },
+        {
+            "Message ID": 4056,
+            "Date": "2024-09-25",
+            "Content": "🚨🇯🇵A Threat Actor Allegedly is Selling WordPress Access of an Unidentified Organization in Japan\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-wordpress-access-of-an-unidentified-organization-in-japan/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Japan"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-wordpress-access-of-an-unidentified-organization-in-japan/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -9792,6 +9804,36 @@
                 "ps://t.me/Mhwercyber4bot\n\n⚪",
                 "s://t.me/Mhwercyber2bot\n\n\nو"
             ]
+        },
+        {
+            "Message ID": 6870,
+            "Date": "2024-09-25",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6869,
+            "Date": "2024-09-25",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6868,
+            "Date": "2024-09-25",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -13292,6 +13334,16 @@
             "Location": [
                 "South Korea - Kumho Tire",
                 "Samyang Tire"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 894,
+            "Date": "2024-09-25",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Xtera Communications, Medusa Demands $390K\n\nMedusa ransomware group claims to have breached Xtera Communications. \n\nRansom demand: $390,000.\nRansom deadline: 05th Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
