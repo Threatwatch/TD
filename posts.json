@@ -5842,6 +5842,52 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-vulnerabilities-in-the-website-of-partido-nacional/"
             ]
+        },
+        {
+            "Message ID": 4051,
+            "Date": "2024-09-25",
+            "Content": "🚨🇨🇦A Threat Actor is Allegedly Selling Access to an Unidentified Shop in Canada",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Canada"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4050,
+            "Date": "2024-09-25",
+            "Content": "🚨🇺🇸A Threat Actor Allegedly is Selling a Classified Document from the U.S. Department of Defense\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-a-classified-document-from-the-u-s-department-of-defense/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-a-classified-document-from-the-u-s-department-of-defense/"
+            ]
+        },
+        {
+            "Message ID": 4049,
+            "Date": "2024-09-25",
+            "Content": "🚨🇺🇸A Threat Actor Allegedly is Selling USA SSN Data\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-usa-ssn-data/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-usa-ssn-data/"
+            ]
+        },
+        {
+            "Message ID": 4048,
+            "Date": "2024-09-25",
+            "Content": "🚨🇮🇱A Threat Actor Allegedly is Selling Data of Harel Group\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-data-of-harel-group/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-data-of-harel-group/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -8070,6 +8116,18 @@
                 "check-host.net/check-report/1ea23dffke40\n\n🔵https",
                 "ilog.co.il\n\n✔️https",
                 "heck-host.net/check-report/1ea23effk714\n\n#free_p"
+            ]
+        },
+        {
+            "Message ID": 2078,
+            "Date": "2024-09-25",
+            "Content": "https://github.com/navidrome/navidrome/security/advisories/GHSA-58vj-cv5w-v4v6\n\ncve-2024-47062\n\n#github #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/navidrome/navidrome/security/advisories/GHSA-58vj-cv5w-v4v6"
             ]
         }
     ],
@@ -11666,6 +11724,23 @@
                 "https://check-host.net/check-report/1eac6cf7k14",
                 "https://www.indianmotorcycle.com/",
                 "https://wikipedia.org/wiki/Indian_Motorcycle"
+            ]
+        },
+        {
+            "Message ID": 5035,
+            "Date": "2024-09-25",
+            "Content": "We've successfully taken down the official web server of TATA, the largest conglomerate with products and services in over 150 countries, operations in 100 countries, and a staggering net worth of ₹33.7 trillion (US$403 billion) as of 20 August 2024! 💥\n\n🚨 Status Update: 🚨  \n🕒 Wed Sep 25 14:09:20 UTC 2024\n🔗 https://check-host.net/check-report/1eac7cd2k7bf\n🕒 Wed Sep 25 14:19:21 UTC 2024\n🔗 https://check-host.net/check-report/1eac9135kb7b\n🕒 Wed Sep 25 14:23:38 UTC 2024\n🔗 https://check-host.net/check-report/1eac9a38kbfc\n🕒 Wed Sep 25 14:33:00 UTC 2024\n🔗 https://check-host.net/check-report/1eacad1dk221\n\n🌐 URL: https://www.tata.com/\n📖 Wiki Page: https://en.wikipedia.org/wiki/Tata_Group\n⚠️ Current Status: 500 Server Error 🆘\n\nBiiznillah! ⚔️\n\n#SGxF07 🔥",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "://check-host.net/check-report/1eac7cd2k7bf\n🕒 We",
+                "/check-host.net/check-report/1eac9135kb7b\n🕒 Wed ",
+                "heck-host.net/check-report/1eac9a38kbfc\n🕒 Wed Se",
+                "ck-host.net/check-report/1eacad1dk221\n\n🌐 URL: ht",
+                "tata.com/\n📖 Wiki Page",
+                "kipedia.org/wiki/Tata_Group\n⚠️ Current S"
             ]
         }
     ],
