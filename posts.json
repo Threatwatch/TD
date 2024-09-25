@@ -6110,6 +6110,26 @@
             "URLs": [
                 "ttps://darkwebinformer.com/poc-for-cve-2024-7593-ivanti-virtual-traffic-manager-22-2r1-22-7r2-admin-panel-authentication-bypass/"
             ]
+        },
+        {
+            "Message ID": 4072,
+            "Date": "2024-09-25",
+            "Content": "400TB 😂",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4071,
+            "Date": "2024-09-25",
+            "Content": "Works",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
