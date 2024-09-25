@@ -9600,6 +9600,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6864,
+            "Date": "2024-09-25",
+            "Content": "Terrorist:",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -12960,6 +12970,16 @@
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 889,
+            "Date": "2024-09-25",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - The Menninger Clinic\n\nBlack Suit ransomware group claims to have breached The Menninger Clinic.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "USA"
             ],
             "URLs": []
         }
