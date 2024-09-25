@@ -6040,6 +6040,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-over-3-million-lines-of-personal-data-to-usa-citizens/"
             ]
+        },
+        {
+            "Message ID": 4065,
+            "Date": "2024-09-25",
+            "Content": "🚨🇮🇱ByteBlitz has Defaced Five Different Israeli Companies\n\nhttps://darkwebinformer.com/byteblitz-has-defaced-five-different-israeli-companies/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/byteblitz-has-defaced-five-different-israeli-companies/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
