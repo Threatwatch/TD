@@ -5980,6 +5980,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-kreen-database/"
             ]
+        },
+        {
+            "Message ID": 4061,
+            "Date": "2024-09-25",
+            "Content": "🚨🇫🇷A Threat Actor is Allegedly Selling WordPress Access to an Unidentified Shop in France\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-wordpress-access-to-an-unidentified-shop-in-france/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-wordpress-access-to-an-unidentified-shop-in-france/"
+            ]
+        },
+        {
+            "Message ID": 4060,
+            "Date": "2024-09-25",
+            "Content": "🚨A Threat Actor Allegedly is Selling Web Shell Access to a Small National Bank\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-web-shell-access-to-a-small-national-bank/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-web-shell-access-to-a-small-national-bank/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
