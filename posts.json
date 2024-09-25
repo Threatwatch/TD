@@ -6098,6 +6098,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/the-night-hunters-have-defaced-twelve-different-pakistani-companies/"
             ]
+        },
+        {
+            "Message ID": 4070,
+            "Date": "2024-09-25",
+            "Content": "🚨PoC for CVE-2024-7593 Ivanti Virtual Traffic Manager 22.2R1 / 22.7R2 Admin Panel Authentication Bypass\n\nhttps://darkwebinformer.com/poc-for-cve-2024-7593-ivanti-virtual-traffic-manager-22-2r1-22-7r2-admin-panel-authentication-bypass/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/poc-for-cve-2024-7593-ivanti-virtual-traffic-manager-22-2r1-22-7r2-admin-panel-authentication-bypass/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
