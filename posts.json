@@ -13283,6 +13283,17 @@
             "URLs": [
                 "https://www.group-ib.com/blog/dragonforce-ransomware/?utm_source=twitter&utm_campaign=Dragonforce%20Ransomware&utm_medium=social"
             ]
+        },
+        {
+            "Message ID": 893,
+            "Date": "2024-09-25",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇰🇷South Korea - Kumho Tire (formerly known as Samyang Tire)\n\nLockBit 3.0 ransomware group claims to have breached Kumho Tire. \n\nThe group states: \"Encrypted up on 09/07, since then the recovery progress has been 0.0%.\"\n\nAllegedly, exfiltrated data include finance, payroll, legal, email, IT, and chat records. \n\nRansom deadline: 05th Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "South Korea - Kumho Tire",
+                "Samyang Tire"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
@@ -21371,6 +21382,16 @@
             "Message ID": 4428,
             "Date": "2024-09-24",
             "Content": "September 24, 2024  Access to Israeli Clearing Company Servers Sold on Dark Web  #Intel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4429,
+            "Date": "2024-09-25",
+            "Content": "September 25, 2024  Medusa Blog  #Medusa_Blog #Technology #United_Kingdom",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
