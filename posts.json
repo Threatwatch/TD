@@ -5796,6 +5796,52 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4047,
+            "Date": "2024-09-25",
+            "Content": "🚨🇰🇼Z-BL4CX-H4T Defaced the Website of Medica Energy\n\nhttps://darkwebinformer.com/z-bl4cx-h4t-defaced-the-website-of-medica-energy/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/z-bl4cx-h4t-defaced-the-website-of-medica-energy/"
+            ]
+        },
+        {
+            "Message ID": 4046,
+            "Date": "2024-09-25",
+            "Content": "🚨🇮🇳A Threat Actor Allegedly Leaked Data of Maxpays",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4045,
+            "Date": "2024-09-25",
+            "Content": "🚨🇹🇼RipperSec Allegedly Leaked the Database of Taiwan Horticultural Therapy Association\n\nhttps://darkwebinformer.com/rippersec-allegedly-leaked-the-database-of-taiwan-horticultural-therapy-association",
+            "Attack Type": "Unknown",
+            "Location": [
+                "the Database of Taiwan"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rippersec-allegedly-leaked-the-database-of-taiwan-horticultural-therapy-association"
+            ]
+        },
+        {
+            "Message ID": 4043,
+            "Date": "2024-09-25",
+            "Content": "🚨🇺🇾A Threat Actor Allegedly Has Leaked Vulnerabilities in the Website of Partido Nacional\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-vulnerabilities-in-the-website-of-partido-nacional/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-vulnerabilities-in-the-website-of-partido-nacional/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -11605,6 +11651,21 @@
             ],
             "URLs": [
                 "http://proficientindustries.in/"
+            ]
+        },
+        {
+            "Message ID": 5034,
+            "Date": "2024-09-25",
+            "Content": "We have successfully taken down Indian Motorcycle, an international motorcycle brand based in India!\n\nWed Sep 25 13:52:42 UTC 2024: -->\nhttps://check-host.net/check-report/1eac5a31kd6f\nWed Sep 25 14:02:46 UTC 2024: -->\nhttps://check-host.net/check-report/1eac6cf7k14\n\nLink: https://www.indianmotorcycle.com/\nWiki: https://wikipedia.org/wiki/Indian_Motorcycle\nSite Status : (500 Server Error)🆘\n\nBiiznillah⚔️\n\n#SGxF07",
+            "Attack Type": "Unknown",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "https://check-host.net/check-report/1eac5a31kd6f",
+                "https://check-host.net/check-report/1eac6cf7k14",
+                "https://www.indianmotorcycle.com/",
+                "https://wikipedia.org/wiki/Indian_Motorcycle"
             ]
         }
     ],
