@@ -5762,6 +5762,40 @@
             "URLs": [
                 "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-september-24th-2024-copy/"
             ]
+        },
+        {
+            "Message ID": 4042,
+            "Date": "2024-09-25",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4041,
+            "Date": "2024-09-25",
+            "Content": "🔗 DarkWebInformer.com: New Threat Alert\n📅 Date: 2024-09-25 02:58:28\n🚨 Title: Alleged leak of US espionage data\n🛡️ Victim Country: USA\n🏭 Victim Industry: \n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Data Leak\n🔗 Claim: https://breachforums.st/Thread-DOCUMENTS-U-S-Espionage-Den-Classified-Secret-73-77\n🕵️‍♂️ Threat Actor: WHOISTHAT\n🌍 Network: openweb\n📝 Content: Threat actor claims to be offering a folder containing classified documents allegedly captured during the 1979 U.S. embassy takeover in Tehran.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "US",
+                "U.S.",
+                "Tehran"
+            ],
+            "URLs": [
+                "arkWebInformer.com:"
+            ]
+        },
+        {
+            "Message ID": 4040,
+            "Date": "2024-09-25",
+            "Content": ". 🤫",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
