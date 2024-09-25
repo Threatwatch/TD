@@ -6052,6 +6052,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/byteblitz-has-defaced-five-different-israeli-companies/"
             ]
+        },
+        {
+            "Message ID": 4066,
+            "Date": "2024-09-25",
+            "Content": "🚨🇺🇸888 Alegedly Has Leaked Data Belonging to DoorDash\n\nIt's not that juicy!😭\n\nhttps://darkwebinformer.com/888-alegedly-has-leaked-data-belonging-to-doordash/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/888-alegedly-has-leaked-data-belonging-to-doordash/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -16708,6 +16720,18 @@
                 "ttps://bappeda.boltimkab.go.id\n",
                 "ttps://satpolppkar.boltimkab.go.id\n",
                 "ttps://setwan.boltimkab.go.id\n"
+            ]
+        },
+        {
+            "Message ID": 1891,
+            "Date": "2024-09-25",
+            "Content": "STOP KLAIM MALAYDESH !!\n\ngot hacked by ./EsteemRestorationEagle\n\nhttps://ebaka.dvs.gov.my/frontend_old/stop.htm\n\n#EsteemRestorationEagle",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://ebaka.dvs.gov.my/frontend_old/stop.htm"
             ]
         }
     ],
