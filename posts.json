@@ -12992,6 +12992,16 @@
                 "USA"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 890,
+            "Date": "2024-09-25",
+            "Content": "🚨Data Breach Alert ‼️\n\n🇯🇵Japan - WeWork\n\nA potential data breach at WeWork Japan has been detected on a hacking forum.\n\nAccording to the post, all of the data compromised by the threat actor is up to September 2024 and includes source code, PDFs, CSVs, confidential files, and hardcoded credentials.\n\nThe confirmation or denial of these claims has yet to be verified.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
