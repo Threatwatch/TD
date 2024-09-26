@@ -13660,6 +13660,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 895,
+            "Date": "2024-09-26",
+            "Content": "⚠️ A critical SQL injection vulnerability has been identified in the 'The Events Calendar' WordPress plugin (CVE-2024-8275), with a CVSS score of 9.8. ⚠️\n\nhttps://securityonline.info/critical-sql-injection-vulnerability-discovered-in-the-events-calendar-wordpress-plugin-cve-2024-8275/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
