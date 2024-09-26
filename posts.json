@@ -6304,6 +6304,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-company-in-switzerland/"
             ]
+        },
+        {
+            "Message ID": 4088,
+            "Date": "2024-09-26",
+            "Content": "💡Hacking Kia: Remotely Controlling Cars With Just a License Plate\n\nDisclosure: https://samcurry.net/hacking-kia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://samcurry.net/hacking-kia"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
