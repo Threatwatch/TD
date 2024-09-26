@@ -13720,6 +13720,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 901,
+            "Date": "2024-09-26",
+            "Content": "⚠️A vulnerability in the memory feature of #OpenAI's #ChatGPT app for macOS, known as \"SpAIware,\" may have let attackers insert spyware, potentially exposing user data from multiple conversations. ⚠️\n\nhttps://thehackernews.com/2024/09/chatgpt-macos-flaw-couldve-enabled-long.html",
+            "Attack Type": "Hacking",
+            "Location": [
+                "OpenAI"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
