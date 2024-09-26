@@ -13710,6 +13710,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 900,
+            "Date": "2024-09-26",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇯🇵Japan - Ransomware Hits Takano Sogo (高野総合会計事務所), Potential Data Risk for Sumitomo Mitsui Trust Bank (三井住友信託銀行株式会社)\n\nOn September 25, 2024, Sumitomo Mitsui Trust Bank disclosed that Takano Sogo Consulting Co., Ltd., a company to which they outsource services, was the victim of a ransomware attack. \n\nThere is a potential risk of personal information leakage of the bank's employees, including former employees, which was entrusted to Takano Sogo for outsourced work. \n\nCurrently, there is no confirmed evidence of data leakage or public disclosure, but some external communication traces were identified, meaning a leak cannot be entirely ruled out. \n\nThe bank advises employees to report any suspicious inquiries immediately.\n\nSource:\nhttps://www.smtb.jp/-/media/tb/business/pdf/240925.pdf",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
