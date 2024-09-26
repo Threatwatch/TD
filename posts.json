@@ -12166,6 +12166,19 @@
                 "তথ্য"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5042,
+            "Date": "2024-09-26",
+            "Content": "We've successfully seized the official web server of IndianOil, an Indian multinational oil and gas company under the ownership of the Ministry of Petroleum and Natural Gas, Government of India, and a staggering net worth of ₹43,161 crore (US$5.2 billion) as of 2024! 💥\n\n🚨 Status Update: 🚨  \n🕒 Sep 26 10:04:08: --> Link\n\n🌐 URL: https://iocl.com/\n📖 Wiki: https://en.wikipedia.org/wiki/Indian_Oil_Corporation\n⚠️ Status: 500 Server Error 🆘\n\nBiiznillah! ⚔️\n\n#SGxF07 🔥",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "://iocl.com/\n📖 Wi",
+                "//en.wikipedia.org/wiki/Indian_Oil_Corporation\n⚠️ St"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
@@ -13740,6 +13753,18 @@
             "Attack Type": "Hacking",
             "Location": [
                 "OpenAI"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 902,
+            "Date": "2024-09-26",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇪🇸Spain - TOLSA\n\nAbyss hacking group claims to have breached Tolsa.\n\nAt the time of writing, Tolsa's website appears to be down.\n\nAllegedly, 5.1 TB of data were exfiltrated.\nRansom deadline: 03rd Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Spain",
+                "Tolsa",
+                "Tolsa"
             ],
             "URLs": []
         }
