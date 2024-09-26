@@ -6152,6 +6152,50 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4078,
+            "Date": "2024-09-26",
+            "Content": "🚨🇮🇩A Threat Actor Allegedly Leaked Indonesia Ministry & President Personal Data\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-indonesia-ministry-president-personal-data/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-indonesia-ministry-president-personal-data/"
+            ]
+        },
+        {
+            "Message ID": 4077,
+            "Date": "2024-09-26",
+            "Content": "🚨🇺🇸A Threat Actor has Allegedly Leaked a Database of Sales Prophet",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4076,
+            "Date": "2024-09-26",
+            "Content": "🚨🇮🇩A Threat Actor Allegedly Leaked Data of PT Global Service Indonesia\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-pt-global-service-indonesia/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-pt-global-service-indonesia/"
+            ]
+        },
+        {
+            "Message ID": 4075,
+            "Date": "2024-09-26",
+            "Content": "🚨🇵🇭A Threat Actor Allegedly Has Leaked Data from Province of Cavite",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
