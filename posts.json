@@ -6338,6 +6338,18 @@
             "URLs": [
                 "https://x.com/DarkWebInformer/status/1839337142117618045"
             ]
+        },
+        {
+            "Message ID": 4091,
+            "Date": "2024-09-26",
+            "Content": "🚨🇹🇹A Threat Actor is Allegedly Selling the Data of Capital Markets Elite Group\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-data-of-capital-markets-elite-group/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-data-of-capital-markets-elite-group/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -14066,6 +14078,16 @@
             "Location": [
                 "Germany",
                 "GB"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 908,
+            "Date": "2024-09-26",
+            "Content": "🚨Severe Unauthenticated RCE Flaw (CVSS 9.9) in GNU/Linux Systems Awaiting Full Disclosure 🚨\n\nhttps://securityonline.info/severe-unauthenticated-rce-flaw-cvss-9-9-in-gnu-linux-systems-awaiting-full-disclosure/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
