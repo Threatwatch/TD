@@ -6232,6 +6232,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-jakarta-population-database/"
             ]
+        },
+        {
+            "Message ID": 4082,
+            "Date": "2024-09-26",
+            "Content": "🚨🇺🇦NoName Targeted the website of Localka\n\nhttps://darkwebinformer.com/noname-targeted-the-website-of-localka/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Localka"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/noname-targeted-the-website-of-localka/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -13929,6 +13941,17 @@
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 907,
+            "Date": "2024-09-26",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇩🇪Germany - Schäfer Dein Bäcker\n\nAkira ransomware group claims to have breached Schäfer Dein Bäcker, a food production company based out of Langer Kornweg\n\nAllegedly, 14 GB of data were exfiltrated, including personal information of employees, financial data, partner details, contracts, and agreements.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Germany",
+                "GB"
             ],
             "URLs": []
         }
