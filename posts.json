@@ -14202,6 +14202,16 @@
                 "Rhysida"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 911,
+            "Date": "2024-09-27",
+            "Content": "⚠️Over 75,000 exposed CUPS daemons have been found on the Internet.⚠️\n\nThe vulnerability, which impacts all GNU/Linux systems and possibly others, enables unauthenticated remote code execution (RCE). Major industry players such as Canonical and Red Hat have recognized its severity, assigning it a CVSS score of 9.9 out of 10.\n\nhttps://www.shodan.io/search/report?query=product%3Acups",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
