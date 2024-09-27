@@ -6586,6 +6586,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-weather-event/"
             ]
+        },
+        {
+            "Message ID": 4113,
+            "Date": "2024-09-27",
+            "Content": "💡Updated the Stats page a day early so it can be done on Fridays instead of Saturdays.\n\nhttps://darkwebinformer.com/stats/\n\nNew Stats:\n\n- GitHub Followers\n- Signal Group Members\n- Platform Total Members\n\nHaven't reached out to any Market admins yet to see if they would be willing to provide some stats.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/stats/\n"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
