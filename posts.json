@@ -6562,6 +6562,30 @@
             "URLs": [
                 "ttps://darkwebinformer.com/poc-honeypot-for-detecting-exploit-attempts-against-cve-2024-47177/"
             ]
+        },
+        {
+            "Message ID": 4112,
+            "Date": "2024-09-27",
+            "Content": "💡New Release: Tor Browser 13.5.5. Update!\n\nhttps://blog.torproject.org/new-release-tor-browser-1355/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://blog.torproject.org/new-release-tor-browser-1355/"
+            ]
+        },
+        {
+            "Message ID": 4111,
+            "Date": "2024-09-27",
+            "Content": "🚨🇺🇸A Threat Actor has Allegedly Leaked Data of Weather Event\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-weather-event/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-weather-event/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
