@@ -6610,6 +6610,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-australian-citizens/"
             ]
+        },
+        {
+            "Message ID": 4115,
+            "Date": "2024-09-27",
+            "Content": "🚨🇮🇳Bangladesh Civilian Force Targeted the Website of Mumbai Custom\n\nhttps://darkwebinformer.com/bangladesh-civilian-force-targeted-the-website-of-mumbai-custom/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/bangladesh-civilian-force-targeted-the-website-of-mumbai-custom/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -10629,6 +10641,16 @@
             "Message ID": 6885,
             "Date": "2024-09-27",
             "Content": "Use signal",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6886,
+            "Date": "2024-09-27",
+            "Content": "looking for group dm me",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -25438,6 +25460,16 @@
             "Date": "2024-09-27",
             "Content": "20% discount for limited time on ddos services.\n\nPurchase/contact : @MRHELL112",
             "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2669,
+            "Date": "2024-09-27",
+            "Content": null,
+            "Attack Type": "Unknown",
             "Location": [
                 "N/A"
             ],
