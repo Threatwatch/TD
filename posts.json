@@ -14212,6 +14212,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 912,
+            "Date": "2024-09-27",
+            "Content": "🚨 Cyberattack Alert‼️\n\n🇯🇵Japan - Zacros (Fujimori Kogyo co. ltd.)\n\nOn September 14, 2024, 藤森工業ZACROS, identified a ransomware attack that affected some servers in its production management and core systems, encrypting stored information. \n\nDespite receiving a ransom demand, the company has chosen not to comply. They have isolated the affected systems, begun forensic investigations, and implemented a backup system to resume production and operations. \n\nThere have been delays in production and shipping as a result of the incident.\n\nDisclosure:\nhttps://ssl4.eir-parts.net/doc/7917/tdnet/2505075/00.pdf",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
