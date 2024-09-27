@@ -12517,6 +12517,16 @@
                 "Lebanon"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5045,
+            "Date": "2024-09-27",
+            "Content": "Which Arab Country?????",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -14166,6 +14176,18 @@
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 909,
+            "Date": "2024-09-27",
+            "Content": "🚨Cyberattacks Alert ‼️\n\n🇯🇵Japan - Naniwa Pump Manufacturing and Tokiwa Sangyo\n\nRansomHub hacking group claims to have hit two Japanese companies:\n\n- Naniwa Pump Manufacturing (31 GB allegedly exfiltrated)\n\n- Tokiwa Sangyo (87 GB allegedly exfiltrated)\n\nFor both attacks, the cybercriminal group has published samples, and the ransom deadlines are set for October 3.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Japan",
+                "GB",
+                "GB"
             ],
             "URLs": []
         }
