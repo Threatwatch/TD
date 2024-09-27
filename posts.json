@@ -19142,6 +19142,19 @@
                 "https://check-host.net/check-report/1ebf60a2ke4e",
                 "https://check-host.net/check-report/1ebf3ef9k6bc"
             ]
+        },
+        {
+            "Message ID": 468,
+            "Date": "2024-09-27",
+            "Content": "\" сайт не выдержал нашей атаки \"\n\nhttps://www.migration.gv.at/\n\nhttps://check-host.net/check-report/1ec0bc38k29",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.migration.gv.at/",
+                "https://check-host.net/check-report/1ec0bc38k29"
+            ]
         }
     ],
     "TEAM CYBER MAFIA": [
