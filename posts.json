@@ -6980,6 +6980,30 @@
             "URLs": [
                 "https://x.com/DarkWebInformer/status/1840128810781470722"
             ]
+        },
+        {
+            "Message ID": 4149,
+            "Date": "2024-09-28",
+            "Content": "What is this? https://3.76.38.238/dashboard",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://3.76.38.238/dashboard"
+            ]
+        },
+        {
+            "Message ID": 4148,
+            "Date": "2024-09-28",
+            "Content": "nice name https://frontend-bad.secure-coding-demo.thelegogroup.com/login",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://frontend-bad.secure-coding-demo.thelegogroup.com/login"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
