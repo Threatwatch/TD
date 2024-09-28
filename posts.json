@@ -6840,6 +6840,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/al-ahad-claims-to-be-targeting-israel/"
             ]
+        },
+        {
+            "Message ID": 4135,
+            "Date": "2024-09-28",
+            "Content": "🚨🇺🇸A Threat Actor has Allegedly Leaked Data of World Bank Group\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-world-bank-group/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-world-bank-group/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -10929,6 +10941,16 @@
             "Message ID": 6888,
             "Date": "2024-09-28",
             "Content": "If you have wireshark available, please message me. I will pay for it.🏴‍☠️🏴‍☠️",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6889,
+            "Date": "2024-09-28",
+            "Content": "الله يثبت قلوب كل المجاهدين",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
