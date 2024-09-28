@@ -6852,6 +6852,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-world-bank-group/"
             ]
+        },
+        {
+            "Message ID": 4136,
+            "Date": "2024-09-28",
+            "Content": "💡The Live Scene Leak Feed page is live. The feed version is only 0.08 so there will be a lot of changes in the future. This is for PRO Subscribers only.\n\nhttps://darkwebinformer.com/live-scene-leak-feed/\n\nThe NFO is missing from a lot of posts, which is why you are seeing 'No Image Available'.\n\nI've created a temporary link on the header of the web site so you can get to it easily until I can develop some sort of drop down.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/live-scene-leak-feed/\n"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
