@@ -27676,6 +27676,16 @@
                 "Israel"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1561,
+            "Date": "2024-09-28",
+            "Content": "نتيجة الاعتداءات المتكررة التي يتعرض لها الشعب اللبناني، بما في ذلك القصف والاغتيالات التي تستهدف شخصيات بارزة من حزب الله، سنقوم بتنفيذ سلسلة من الهجمات الرقمية (DDoS) في الفترة التي تسبق السابع من أكتوبر. هذه الهجمات قد تتم بالتنسيق مع فرق أخرى، وستكون بمثابة رد حازم على تلك الانتهاكات.\n\nDue to the repeated attacks against the Lebanese people, including bombings and assassinations targeting Hezbollah figures, we will conduct a series of digital attacks (DDoS) in the run-up to October 7. These attacks may be carried out in coordination with other teams and will constitute a firm response to these violations.\n\n#Ops_Isreal",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "السابع"
+            ],
+            "URLs": []
         }
     ],
     "We Are \"Team_R70\"": [
