@@ -6728,6 +6728,28 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4126,
+            "Date": "2024-09-28",
+            "Content": "https://x.com/ApSec404/status/1840033879417122926",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/ApSec404/status/1840033879417122926"
+            ]
+        },
+        {
+            "Message ID": 4125,
+            "Date": "2024-09-28",
+            "Content": "🚨🇲🇾A Threat Actor Allegedly has Leaked Malaysian Passport and Driver's License Data",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -9013,6 +9035,26 @@
             "URLs": [
                 "https://github.com/EQSTLab/CVE-2024-9014"
             ]
+        },
+        {
+            "Message ID": 2084,
+            "Date": "2024-09-28",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2083,
+            "Date": "2024-09-28",
+            "Content": "وداعاً يا قائدي و حبيبي و سيدي وداعاً يا حسين زماني وداعاً يا قدوتي و سيفي وداعاً يا درعي و سندي وداعاً و سلام على الدنيا من بعدك ، هنيئا لك  حسن الختام ،  انت الآن بجوار اجدادي  و حبيبتي جدتي الزهراء ، انت الان في احسن مكان  ، هنيئاً يا سيدي أوصلت اجيال و وصلت و علمتنا طريق الوصول ،  و عهداً يا قائدنا أننا باقون على النهج الشريف و ان نختم الدنيا شهداء منتصرين باذن الله 💔💔🌹🌹",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
@@ -12967,6 +13009,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "Ghazi"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5053,
+            "Date": "2024-09-28",
+            "Content": "Bangladesh into SAF Under 17 Final 🔥",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
