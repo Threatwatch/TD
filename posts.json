@@ -6796,6 +6796,16 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-9-2-million-records-of-data-from-unidentified-chinese-companies/"
             ]
+        },
+        {
+            "Message ID": 4131,
+            "Date": "2024-09-28",
+            "Content": "🚨🇮🇩A Threat Actor Allegedly Leaked Indonesian students Data",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -19413,6 +19423,16 @@
                 "https://www.migration.gv.at/",
                 "https://check-host.net/check-report/1ec0bc38k29"
             ]
+        },
+        {
+            "Message ID": 469,
+            "Date": "2024-09-28",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "TEAM CYBER MAFIA": [
