@@ -6762,6 +6762,40 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-thai-honda/"
             ]
+        },
+        {
+            "Message ID": 4130,
+            "Date": "2024-09-28",
+            "Content": "🚨🗺A Threat Actor Allegedly has Leaked Scraped Data From Doxbin\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-scraped-data-from-doxbin/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-scraped-data-from-doxbin/"
+            ]
+        },
+        {
+            "Message ID": 4129,
+            "Date": "2024-09-28",
+            "Content": "🚨🇺🇸A Threat Actor Allegedly has Leaked Data of Binance USA",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4128,
+            "Date": "2024-09-28",
+            "Content": "🚨🇨🇳A Threat Actor Allegedly Leaked 9.2 million Records of Data From Unidentified Chinese Companies\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-9-2-million-records-of-data-from-unidentified-chinese-companies/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-9-2-million-records-of-data-from-unidentified-chinese-companies/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
