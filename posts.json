@@ -7237,6 +7237,16 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-digidirect/"
             ]
+        },
+        {
+            "Message ID": 4170,
+            "Date": "2024-09-29",
+            "Content": "🚨🇺🇸A Threat Actor Allegedly Leaked Data of TastyFX",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -9702,6 +9712,18 @@
             "URLs": [
                 "https://www.partner.co.il/",
                 "https://check-host.net/check-report/1ed04adbk584"
+            ]
+        },
+        {
+            "Message ID": 2101,
+            "Date": "2024-09-29",
+            "Content": "https://github.com/p33d/CVE-2024-45519\n\nCVE-2024-45519\n#github #exploit",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/p33d/CVE-2024-45519"
             ]
         }
     ],
