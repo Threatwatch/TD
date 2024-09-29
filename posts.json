@@ -7040,6 +7040,30 @@
             "URLs": [
                 "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-september-28th-2024/"
             ]
+        },
+        {
+            "Message ID": 4154,
+            "Date": "2024-09-29",
+            "Content": "🚨Meduza Stealer 2.9\n\nhttp://www.mozg55.com/auth/login",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttp://www.mozg55.com/auth/login"
+            ]
+        },
+        {
+            "Message ID": 4153,
+            "Date": "2024-09-29",
+            "Content": "🚨🇸🇦Cas Allegedly is Selling an IDOR Vulnerability in Al-Rajhi Bank APIs\n\nhttps://darkwebinformer.com/cas-allegedly-is-selling-an-idor-vulnerability-in-al-rajhi-bank-apis/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/cas-allegedly-is-selling-an-idor-vulnerability-in-al-rajhi-bank-apis/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -27880,6 +27904,16 @@
             "Attack Type": "DDoS Attacks",
             "Location": [
                 "السابع"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1572,
+            "Date": "2024-09-29",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
