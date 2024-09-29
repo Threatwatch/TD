@@ -7298,6 +7298,28 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-leaked-a-database-of-an-indonesian-company/"
             ]
+        },
+        {
+            "Message ID": 4176,
+            "Date": "2024-09-29",
+            "Content": "🚨🇬🇧A Threat Actor Allegedly Leaked the Mobility Compare Database\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-the-mobility-compare-database/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-the-mobility-compare-database/"
+            ]
+        },
+        {
+            "Message ID": 4175,
+            "Date": "2024-09-29",
+            "Content": "🚨🇨🇳A Threat Actor Allegedly Leaked Data of Chinese Students and Parents",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -9798,6 +9820,29 @@
             "URLs": [
                 "https://idlib.university",
                 "https://check-host.net/check-report/1ed09888kdc4"
+            ]
+        },
+        {
+            "Message ID": 2105,
+            "Date": "2024-09-29",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2104,
+            "Date": "2024-09-29",
+            "Content": "Target usa portal azure Microsoft \n\nhttps://portal.azure.us/\n\nhttps://check-host.net/check-report/1ed0ccc4kcf3\n\n#أبناء_السيد 🇱🇧",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://portal.azure.us/",
+                "https://check-host.net/check-report/1ed0ccc4kcf3"
             ]
         }
     ],
