@@ -7201,6 +7201,42 @@
             "URLs": [
                 "ps://darkwebinformer.com/al-ahad-targeted-the-website-of-jerusalem-university-college/"
             ]
+        },
+        {
+            "Message ID": 4169,
+            "Date": "2024-09-29",
+            "Content": "🚨🇺🇸DDOS TEAM ANONYMOUS Targeted the Website of New Israel Fund\n\nhttps://darkwebinformer.com/ddos-team-anonymous-targeted-the-website-of-new-israel-fund/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "🇺"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/ddos-team-anonymous-targeted-the-website-of-new-israel-fund/"
+            ]
+        },
+        {
+            "Message ID": 4168,
+            "Date": "2024-09-29",
+            "Content": "🚨🇯🇵A Threat Actor Allegedly has Leaked Data of Japanese Doctors\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-data-of-japanese-doctors/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-data-of-japanese-doctors/"
+            ]
+        },
+        {
+            "Message ID": 4167,
+            "Date": "2024-09-29",
+            "Content": "🚨🇦🇺A Threat Actor is Allegedly Selling the Database of digiDirect\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-digidirect/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-digidirect/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -9643,6 +9679,29 @@
             "URLs": [
                 "https://www.mdais.org/",
                 "https://check-host.net/check-report/1ecfe4a1kfe6"
+            ]
+        },
+        {
+            "Message ID": 2100,
+            "Date": "2024-09-29",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2099,
+            "Date": "2024-09-29",
+            "Content": "Target israel  Partner Communications Company \n\n    https://www.partner.co.il/\n\n\n\nhttps://check-host.net/check-report/1ed04adbk584\n\n#أبناء_السيد 🇱🇧",
+            "Attack Type": "Unknown",
+            "Location": [
+                "israel"
+            ],
+            "URLs": [
+                "https://www.partner.co.il/",
+                "https://check-host.net/check-report/1ed04adbk584"
             ]
         }
     ],
