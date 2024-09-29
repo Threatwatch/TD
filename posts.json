@@ -9449,6 +9449,29 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2093,
+            "Date": "2024-09-29",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2092,
+            "Date": "2024-09-29",
+            "Content": "israel Microsoft 💻down\n \n       https://www.microsoftrnd.co.il/\n\n https://check-host.net/check-report/1ecfd7adkbf7\n\n#أبناء_السيد 🇱🇧",
+            "Attack Type": "Unknown",
+            "Location": [
+                "israel"
+            ],
+            "URLs": [
+                "ttps://www.microsoftrnd.co.il/\n",
+                "ttps://check-host.net/check-report/1ecfd7adkbf7\n"
+            ]
         }
     ],
     "Anonymous Chat": [
