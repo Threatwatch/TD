@@ -7084,6 +7084,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4157,
+            "Date": "2024-09-29",
+            "Content": "🚨🇵🇪A Threat Actor Allegedly has Leaked the Data of Ministerio de Educación del Perú\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-the-data-of-ministerio-de-educacion-del-peru/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Leaked"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-the-data-of-ministerio-de-educacion-del-peru/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -9471,6 +9483,61 @@
             "URLs": [
                 "ttps://www.microsoftrnd.co.il/\n",
                 "ttps://check-host.net/check-report/1ecfd7adkbf7\n"
+            ]
+        },
+        {
+            "Message ID": 2098,
+            "Date": "2024-09-29",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2097,
+            "Date": "2024-09-29",
+            "Content": "http://finkeltech.co.il/backend/.env",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://finkeltech.co.il/backend/.env"
+            ]
+        },
+        {
+            "Message ID": 2096,
+            "Date": "2024-09-29",
+            "Content": "Israel site CMS",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2095,
+            "Date": "2024-09-29",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2094,
+            "Date": "2024-09-29",
+            "Content": "israel red cross magen david adom down \n\nhttps://www.mdais.org/\n\nhttps://check-host.net/check-report/1ecfe4a1kfe6\n\n\n#أبناء_السيد 🇱🇧",
+            "Attack Type": "Unknown",
+            "Location": [
+                "israel"
+            ],
+            "URLs": [
+                "https://www.mdais.org/",
+                "https://check-host.net/check-report/1ecfe4a1kfe6"
             ]
         }
     ],
