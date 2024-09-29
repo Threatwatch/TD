@@ -7132,6 +7132,27 @@
             "URLs": [
                 "ps://darkwebinformer.com/banei-ishmael-defaced-the-website-of-lawforums/"
             ]
+        },
+        {
+            "Message ID": 4162,
+            "Date": "2024-09-29",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4161,
+            "Date": "2024-09-29",
+            "Content": "🚨🇧🇪🇩🇪A Threat actor is Allegedly Selling PII data from Belgium and Germany",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Belgium",
+                "Germany"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
