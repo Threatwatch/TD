@@ -7247,6 +7247,57 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4174,
+            "Date": "2024-09-29",
+            "Content": "🚨🇺🇸A Threat Actor is Allegedly Selling 500 CC from USA\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-500-cc-from-usa/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Allegedly",
+                "CC",
+                "USA"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-500-cc-from-usa/"
+            ]
+        },
+        {
+            "Message ID": 4173,
+            "Date": "2024-09-29",
+            "Content": "🚨🇺🇸A Threat Actor Allegedly is Selling 1000 CC from USA\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-1000-cc-from-usa/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CC",
+                "USA"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-1000-cc-from-usa/"
+            ]
+        },
+        {
+            "Message ID": 4172,
+            "Date": "2024-09-29",
+            "Content": "🚨🇧🇧pryx is Allegedly Selling Documents of Government of Barbados\n\nhttps://darkwebinformer.com/pryx-is-allegedly-selling-documents-of-government-of-barbados/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/pryx-is-allegedly-selling-documents-of-government-of-barbados/"
+            ]
+        },
+        {
+            "Message ID": 4171,
+            "Date": "2024-09-29",
+            "Content": "🚨🇮🇩A Threat Actor has Leaked a Database of an Indonesian Company\n\nhttps://darkwebinformer.com/a-threat-actor-has-leaked-a-database-of-an-indonesian-company/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Leaked"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-leaked-a-database-of-an-indonesian-company/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -9724,6 +9775,29 @@
             ],
             "URLs": [
                 "https://github.com/p33d/CVE-2024-45519"
+            ]
+        },
+        {
+            "Message ID": 2103,
+            "Date": "2024-09-29",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2102,
+            "Date": "2024-09-29",
+            "Content": "Target  idlib Zionist arab \n            \n           https://idlib.university\n\n\nhttps://check-host.net/check-report/1ed09888kdc4\n\n#أبناء_السيد 🇱🇧",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://idlib.university",
+                "https://check-host.net/check-report/1ed09888kdc4"
             ]
         }
     ],
