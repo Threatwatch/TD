@@ -20452,6 +20452,28 @@
                 "Продаю"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 471,
+            "Date": "2024-09-30",
+            "Content": "🆘 Infrastructure: Austria Airports has been down\n\n\n🔴https://www.innsbruck-airport.com/\nhttps://check-host.net/check-report/1ec6905cke80\n\n🔴https://www.salzburg-airport.com/\nhttps://check-host.net/check-report/1ec69452kdf1\n\n🔴https://www.linz-airport.com/en\nhttps://check-host.net/check-report/1ec6968bkfff\n\n🔴https://graz-airport.at/\nhttps://check-host.net/check-report/1ec699dfkb03\n\n🔴https://www.klagenfurt-airport.at/\nhttps://check-host.net/check-report/1ec69fa1k75c\n\n#OpAustria\n\nSERVER KILLERS | NoName057(16)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "https://www.klagenfurt-airport.at/",
+                "NoName057(16"
+            ],
+            "URLs": [
+                "tps://www.innsbruck-airport.com/\nh",
+                "tps://check-host.net/check-report/1ec6905cke80\n\n",
+                "ps://www.salzburg-airport.com/\nht",
+                "ps://check-host.net/check-report/1ec69452kdf1\n\n🔴",
+                "s://www.linz-airport.com/en\nhtt",
+                "s://check-host.net/check-report/1ec6968bkfff\n\n🔴h",
+                "://graz-airport.at/\nhttp",
+                "://check-host.net/check-report/1ec699dfkb03\n\n🔴ht",
+                "//www.klagenfurt-airport.at/\nhttps",
+                "//check-host.net/check-report/1ec69fa1k75c\n\n#OpA"
+            ]
         }
     ],
     "TEAM CYBER MAFIA": [
