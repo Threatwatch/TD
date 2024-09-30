@@ -7431,6 +7431,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-warren-james-jewellers-data/"
             ]
+        },
+        {
+            "Message ID": 4188,
+            "Date": "2024-09-30",
+            "Content": "🚨🇺🇸A Threat Actor Allegedly is Selling My Cable Mart Data\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-my-cable-mart-data/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-my-cable-mart-data/"
+            ]
+        },
+        {
+            "Message ID": 4187,
+            "Date": "2024-09-30",
+            "Content": "🚨🇹🇷A Threat Actor Allegedly Leaked Data of General Directorate of Land Registry and Cadastre\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-general-directorate-of-land-registry-and-cadastre/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-general-directorate-of-land-registry-and-cadastre/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
