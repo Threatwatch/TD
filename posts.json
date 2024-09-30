@@ -7654,6 +7654,18 @@
             "URLs": [
                 "ttps://x.com/SarahFergu936/with_replies"
             ]
+        },
+        {
+            "Message ID": 4207,
+            "Date": "2024-09-30",
+            "Content": "💡Discovery: Nitrogren Ransomware Group\n\nhttps://darkwebinformer.com/discovery-nitrogren-ransomware-group-their-first-6-claimed-victims/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/discovery-nitrogren-ransomware-group-their-first-6-claimed-victims/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -16147,6 +16159,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "France"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 927,
+            "Date": "2024-09-30",
+            "Content": "🚨Alert - Major Widespread Outages Reported in the USA. \n\nVerizon, T-Mobile, AT&T, Spectrum, and UScellular Affected.\n\nUsers are reporting being stuck in SOS mode.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
             ],
             "URLs": []
         }
