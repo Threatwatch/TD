@@ -7455,6 +7455,41 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-general-directorate-of-land-registry-and-cadastre/"
             ]
+        },
+        {
+            "Message ID": 4191,
+            "Date": "2024-09-30",
+            "Content": "🚨🇱🇧SWA TEAM Allegedly has Breached ROADSTER DINER\n\nhttps://darkwebinformer.com/swa-team-allegedly-has-breached-roadster-diner/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Breached"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/swa-team-allegedly-has-breached-roadster-diner/"
+            ]
+        },
+        {
+            "Message ID": 4190,
+            "Date": "2024-09-30",
+            "Content": "🚨🇺🇦A Threat Actor is Allegedly Selling Clip2Net Data",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4189,
+            "Date": "2024-09-30",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-09-30 12:24:45\n🚨 Title: Alleged data leak of Universitas Terbuka\n🛡 Victim Country: Indonesia\n🏭 Victim Industry: Education\n🏢 Victim Organization: universitas terbuka\n🌐 Victim Site: Unknown\n📜 Category: Data Breach\n🔗 Claim: Redacted\n🕵️‍♂️ Threat Actor: XSadCat\n🌍 Network: Unknown\n📝 Description: The group claims to have leaked data from Universitas Terbuka. The leaked data reportedly includes names, study programs, student addresses, and more.\nScreenshots:",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Indonesia",
+                "Universitas Terbuka"
+            ],
+            "URLs": [
+                "arkWebInformer.com "
+            ]
         }
     ],
     "RipperSec | РипперСек": [
