@@ -7642,6 +7642,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4206,
+            "Date": "2024-09-30",
+            "Content": "🚨Threat Actor: https://x.com/SarahFergu936/with_replies",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://x.com/SarahFergu936/with_replies"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
