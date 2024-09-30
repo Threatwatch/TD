@@ -7580,6 +7580,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4200,
+            "Date": "2024-09-30",
+            "Content": "💡H4X-Tools: An Open-Source Toolkit Designed for Scraping, OSINT, and a Variety of Other Powerful Functionalities\n\nhttps://darkwebinformer.com/h4x-tools-an-open-source-toolkit-designed-for-scraping-osint-and-a-variety-of-other-powerful-functionalities/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Scraping"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/h4x-tools-an-open-source-toolkit-designed-for-scraping-osint-and-a-variety-of-other-powerful-functionalities/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -20746,6 +20758,25 @@
                 "Kenya"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 474,
+            "Date": "2024-09-30",
+            "Content": "❗️We have targeted most backend network infrastructure of Kenya. Most kenyan websites will encounter problems.\n\nWe cannot reveal details of the attack, but we're certain this attack has harmed their infrastructure a lot and they know this very well.\n\nHere's a sample of some websites that were severely harmed by our attack on the backend of the network infrastructure in Kenya :\n\n🔴Communications Authority \nhttps://www.ca.go.ke/\n🌟https://check-host.net/check-report/1ed9f8d8kd3a\n\n🔴Ministry of Foregian Affairs\nhttps://mfa.go.ke/\n🌟https://check-host.net/check-report/1ed9fd02k2ff\n\n🔴Kenyan Commercial Bank\nhttps://ke.kcbgroup.com/\n🌟https://check-host.net/check-report/1ed9f90bk1a3\n\n\n+ 100's more of critical infrastructure in Kenya that cannot be announced, but they will feel it\n\n\n#ServerKillers\n#FUCK_KENYA",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Kenya",
+                "Kenya",
+                "Kenya"
+            ],
+            "URLs": [
+                "ttps://www.ca.go.ke/\n",
+                "tps://check-host.net/check-report/1ed9f8d8kd3a\n\n",
+                "ps://mfa.go.ke/\n🌟h",
+                "s://check-host.net/check-report/1ed9fd02k2ff\n\n🔴K",
+                "://ke.kcbgroup.com/\n🌟htt",
+                "//check-host.net/check-report/1ed9f90bk1a3\n\n\n+ 1"
+            ]
         }
     ],
     "TEAM CYBER MAFIA": [
