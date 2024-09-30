@@ -15802,6 +15802,17 @@
                 "Germany"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 921,
+            "Date": "2024-09-30",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇫🇷France - CDC Biodiversité\n\nBlackout hacking group claims to have breached CDC Biodiversité. \n\nAllegedly, 70 GB of data, including documents about their clients and projects, were exfiltrated.\nRansom deadline: 13th Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "France",
+                "GB"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
