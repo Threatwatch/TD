@@ -7676,6 +7676,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4210,
+            "Date": "2024-09-30",
+            "Content": "💡I’ve added an Intel link to the website header. This is where I store my findings related to Intel, Recon, and Personal OSINT. For the most part, I’ll still be sharing updates directly on social media, unless it’s part of an investigation (exposure).\n\nhttps://darkwebinformer.com/intel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/intel"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
