@@ -7490,6 +7490,18 @@
             "URLs": [
                 "arkWebInformer.com "
             ]
+        },
+        {
+            "Message ID": 4192,
+            "Date": "2024-09-30",
+            "Content": "🚨🇳🇴Isola AS has Been Claimed by MEDUSA Ransomware\n\nhttps://darkwebinformer.com/isola-as-has-been-claimed-by-medusa-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/isola-as-has-been-claimed-by-medusa-ransomware/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -24192,6 +24204,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4431,
+            "Date": "2024-09-30",
+            "Content": "September 30, 2024  Medusa Blog  #Manufacturing #Medusa_Blog #Norway",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Norway"
             ],
             "URLs": []
         }
