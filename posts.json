@@ -7710,6 +7710,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4214,
+            "Date": "2024-09-30",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4213,
+            "Date": "2024-09-30",
+            "Content": "💡Images should now populate the NFO & the NFO file itself will be a clickable link. If you see no image & no NFO available, it means the API does not have that information, but when the page refreshes it also looks to fetch new data. So if it's added then you will see the image and NFO. Screenshot 1 is initial image. Upon refresh/fetch the second image updates with the missing data.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -10299,6 +10319,39 @@
             "URLs": [
                 "https://www.walla.co.il/",
                 "https://check-host.net/check-report/1edbc44fka3a"
+            ]
+        },
+        {
+            "Message ID": 2116,
+            "Date": "2024-09-30",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2115,
+            "Date": "2024-09-30",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2114,
+            "Date": "2024-09-30",
+            "Content": "Target \n         Rafael advanced Defense systems \n\nhttps://www.rafael.co.il/\n\nhttps://check-host.net/check-report/1edbda28k75d\n\n#أبناء_السيد 🇱🇧",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.rafael.co.il/",
+                "https://check-host.net/check-report/1edbda28k75d"
             ]
         }
     ],
