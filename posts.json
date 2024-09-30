@@ -7700,6 +7700,16 @@
             "URLs": [
                 "ps://darkwebinformer.com/grep-allegedly-leaked-the-sportstech-database/"
             ]
+        },
+        {
+            "Message ID": 4212,
+            "Date": "2024-09-30",
+            "Content": "💡Fixed auto update not refreshing on the Live Scene Leak page. Also made a couple optimizations. Still working on all posts showing images and the .NFO link. I'm also aware of when you click on any of the pages they force you to the top. It should work the same way as the Live Scene Leak feed will, when you click on the page # it keeps you were you are on the screen instead of forcing you to the very top or bottom.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
