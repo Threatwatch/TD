@@ -15789,6 +15789,19 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 920,
+            "Date": "2024-09-30",
+            "Content": "🚨Cyberattacks Alert ‼️\n\nIn the last few hours, Play ransomware group listed eleven new victims on its data leak site:\n\n🇺🇸 USA - Garvey’s Carpet\n🇺🇸 USA - Classic Business Products\n🇳🇱 Netherlands - Rubber Resources BV\n🇸🇪 Sweden - InfraCom Group AB\n🇺🇸 USA - G/S Solutions\n🇺🇸 USA - Andantex USA\n🇺🇸 USA - 4B Components\n🇩🇪 Germany - Reutter\n🇺🇸 USA - Performance Food Centers\n🇺🇸 USA - InteriorWorx Commercial Flooring\n🇺🇸 USA - AFFIRM Agency",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Sweden",
+                "USA",
+                "USA",
+                "Germany"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
