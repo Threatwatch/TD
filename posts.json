@@ -15759,6 +15759,16 @@
                 "GB"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 916,
+            "Date": "2024-09-30",
+            "Content": "🚨 Cyberattack Alert Update ‼️\n\n🇯🇵Japan - Kantsu Co., Ltd. (株式会社関通)\n\nKantsu Co., Ltd. reported that it suffered a cyber attack, resulting in unauthorized access to its systems. The breach, discovered through an external network connection, led to the encryption of several servers and caused disruptions to its goods storage and retrieval systems.\n\nThe attack impacted both Kantsu and its business partners, delaying operational processes. Some of the affected servers contained personal information, prompting the company to file a report with the Personal Information Protection Commission. The potential exposure involves customer and employee data.\n\nSource:\nhttps://www.kantsu.com/news/6615/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
