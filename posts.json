@@ -7514,6 +7514,52 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-government-of-tegal-regency/"
             ]
+        },
+        {
+            "Message ID": 4197,
+            "Date": "2024-09-30",
+            "Content": "💡What is DevSecOps?\n\nLarger version can be found: https://darkwebinformer.com/what-is-devsecops/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/what-is-devsecops/"
+            ]
+        },
+        {
+            "Message ID": 4196,
+            "Date": "2024-09-30",
+            "Content": "💡LootBot 1.0\n\nhxxp://109.207.172.142/\nhxxp://154.201.64.67/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4195,
+            "Date": "2024-09-30",
+            "Content": "🚨🇺🇦OverFlame Targeted the Website of Agroprosperis Bank (AP Bank)\n\nhttps://darkwebinformer.com/overflame-targeted-the-website-of-agroprosperis-bank-ap-bank/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/overflame-targeted-the-website-of-agroprosperis-bank-ap-bank/"
+            ]
+        },
+        {
+            "Message ID": 4194,
+            "Date": "2024-09-30",
+            "Content": "🚨🇸🇦Mr Hamza Targeted the Website of Presidency of State Security (PSS)\n\nhttps://darkwebinformer.com/mr-hamza-targeted-the-website-of-presidency-of-state-security-pss/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/mr-hamza-targeted-the-website-of-presidency-of-state-security-pss/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -15946,6 +15992,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "UK"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 924,
+            "Date": "2024-09-30",
+            "Content": "🚨 HACKMANAC GLOBAL CYBER ATTACKS REPORT 2024 🚨\n\n📊 Our Global Cyber Attacks Report 2024 is now available!\n\n📈 In this 40+ page study we analyze more than 7,000 known attacks that occurred globally in 2023 and compare them to those of the previous five years (2018-2022), highlighting key trends such as:\n\n🔍 Evolution of cyber threats\n🔍 Most targeted industries\n🔍 Most used attack techniques\n🔍 Types of attackers\n🔍 Most dangerous cybercrime gangs\n🔍 Attack impact by industry, attacker, etc.\n\n📥 Visit our download area for a free copy of the report ⤵\nhttps://hackmanac.com/hackmanac-global-cyber-attacks-report-2024\n\n#Hackmanac #CyberSecurityReport #CyberThreatMonitoring #CyberAttacks2024 #CyberThreats #CyberRiskManagement #ImpactAnalysis",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Hackmanac"
             ],
             "URLs": []
         }
