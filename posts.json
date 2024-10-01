@@ -16543,6 +16543,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 937,
+            "Date": "2024-10-01",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇯🇵Japan - Like Kids Co., Ltd. (ライクキッズ株式会社)\n\nOn September 30, 2024, Like Kids Co., Ltd. suffered a ransomware attack resulting in unauthorized access to their server. \n\nThe attackers may have gained access to corporate and personal information, though no confirmed data leaks have been reported yet.\n\nSource: like-kd.co.jp",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "e-kd.co.jp"
+            ]
         }
     ],
     "ANONYM∅US": [
