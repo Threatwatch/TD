@@ -16738,6 +16738,16 @@
             "URLs": [
                 "tps://hackmanac.com/news/hack-tuesday-week-25-sept-01-oct-2024\n\n"
             ]
+        },
+        {
+            "Message ID": 942,
+            "Date": "2024-10-01",
+            "Content": "🚨🚨🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Emerson\n\nMedusa ransomware group claims to have breached Emerson, a leading global technology, software, and engineering company.\n\nAllegedly, 938 GB of data, including an Oracle database of their subsidiary company Zedi, were exfiltrated. \n\nRansom demand: $100,000.\nRansom deadline: 09th Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "GB"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
@@ -25052,6 +25062,26 @@
             "Message ID": 4433,
             "Date": "2024-10-01",
             "Content": "October 1, 2024  New Threat Actor  #Intel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4435,
+            "Date": "2024-10-01",
+            "Content": "October 1, 2024  Medusa Blog  #Manufacturing #Medusa_Blog #United_States",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4434,
+            "Date": "2024-10-01",
+            "Content": "October 1, 2024  Operation Cronos V2 has unveiled significant new information about the Evil Corp cybercriminal group and LockBit  #Intel",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
