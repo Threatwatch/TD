@@ -7858,6 +7858,30 @@
             "URLs": [
                 "https://x.com/DarkWebInformer/status/1841120198964711559"
             ]
+        },
+        {
+            "Message ID": 4227,
+            "Date": "2024-10-01",
+            "Content": "Fucking nerds\n\nhttps://x.com/DarkWebInformer/status/1841133597341728821",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1841133597341728821"
+            ]
+        },
+        {
+            "Message ID": 4226,
+            "Date": "2024-10-01",
+            "Content": "Full thread. Appreciate any engagement!\n\nhttps://x.com/DarkWebInformer/status/1841130920851448012",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1841130920851448012"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -16670,6 +16694,49 @@
             ],
             "URLs": [
                 "e-kd.co.jp"
+            ]
+        },
+        {
+            "Message ID": 941,
+            "Date": "2024-10-01",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 940,
+            "Date": "2024-10-01",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 939,
+            "Date": "2024-10-01",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 938,
+            "Date": "2024-10-01",
+            "Content": "🟧 #HackTuesday 🟧\n\nHack Tuesday: Week 25 Sept - 01 Oct 2024\n\n‼️ 94 victims by 26 hacking groups ‼️\n\nThe most active ransomware group this week is Play, claiming responsibility for 13 attacks.\n\nThe United States is the most affected country, accounting for 49% of the victims. The Manufacturing sector is the hardest hit, representing 27% of the claimed targets, followed by the Professional, Scientific, and Technical sectors, as well as the Wholesale/Retail sectors, both at 11%\n\nOverall, the claimed stolen data amounts to approximately 19.5 Terabytes.\n\nThe average Cyber Risk Factor stands at 4.1.\n\nFollow the link for the full list of victims:\nhttps://hackmanac.com/news/hack-tuesday-week-25-sept-01-oct-2024\n\n#Hackmanac #HT #Cybersecurity",
+            "Attack Type": "Hacking",
+            "Location": [
+                "The United States",
+                "Hackmanac"
+            ],
+            "URLs": [
+                "tps://hackmanac.com/news/hack-tuesday-week-25-sept-01-oct-2024\n\n"
             ]
         }
     ],
