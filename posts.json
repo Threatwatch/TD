@@ -10375,6 +10375,16 @@
                 "https://www.rafael.co.il/",
                 "https://check-host.net/check-report/1edbda28k75d"
             ]
+        },
+        {
+            "Message ID": 2117,
+            "Date": "2024-10-01",
+            "Content": "Attack renewed",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
