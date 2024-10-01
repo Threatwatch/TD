@@ -10731,6 +10731,29 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2133,
+            "Date": "2024-10-01",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2132,
+            "Date": "2024-10-01",
+            "Content": "Target  \n\n https://newmedenergy.com\n\n\n\nhttps://check-host.net/check-report/1ee3235ek9e0\n\n#أبناء_السيد 🇱🇧",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://newmedenergy.com",
+                "https://check-host.net/check-report/1ee3235ek9e0"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -28334,6 +28357,16 @@
             "Date": "2024-09-28",
             "Content": "DDos attacks start at $20 contact @MRHELL112 to purchase.",
             "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2671,
+            "Date": "2024-10-01",
+            "Content": "🚀🚀🚀🚀🚀🚀\n\n#FuckIsrael",
+            "Attack Type": "Unknown",
             "Location": [
                 "N/A"
             ],
