@@ -16416,6 +16416,46 @@
                 "India"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 933,
+            "Date": "2024-10-01",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 932,
+            "Date": "2024-10-01",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 931,
+            "Date": "2024-10-01",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 930,
+            "Date": "2024-10-01",
+            "Content": "🚨Cyberattacks Alert - New Ransomware Group Detected: Nitrogen\n\nThe newly discovered Nitrogen ransomware group claims to have breached six victims:\n\n🇺🇸 USA - MDSi (data amount: 1.1 TB - Leaked)\n🇺🇸 USA - Idealease (data amount: 922 GB- Leaked)\n🇺🇸 USA - Brechbuhler Scales (data amount: 1.353 TB - Leaked)\n🇨🇦 Canada - Magenta Photo (data amount: 1.688 TB - Leaked)\n🇺🇸 USA - Spectrum Industries (data amount: 1.1 GB - Leaked)\n🇺🇸 USA - Control Panels USA (data amount: 39 GB - Leaked)\n\nFurther details regarding this ransomware group will be made available as soon as possible.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "GB"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
