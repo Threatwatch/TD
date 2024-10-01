@@ -7928,6 +7928,37 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4233,
+            "Date": "2024-10-01",
+            "Content": "Today: DDoS, DDoS, DDoS, DDoS, DDoS, DDoS, DDoS, Ransomware, DDoS, DDoS, DDoS, DDoS, Defacement, DDoS, DDoS, DDoS, DDoS, Breach, DDoS, DDoS, DDoS, DDoS, DDoS, and on and on",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "Defacement",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "Breach",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS",
+                "DDoS"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -30785,6 +30816,16 @@
             "Attack Type": "Hacking",
             "Location": [
                 "lebanon"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1228,
+            "Date": "2024-10-01",
+            "Content": "اذاعة الجيش الإسرائيلي اليوم 1 أكتوبر 😉",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
