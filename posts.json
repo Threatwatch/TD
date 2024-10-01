@@ -7752,6 +7752,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4218,
+            "Date": "2024-10-01",
+            "Content": "🚨🇬🇧A Threat Actor Allegedly Leaked the Database of Local Experiences",
+            "Attack Type": "Unknown",
+            "Location": [
+                "the Database of Local Experiences"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4217,
+            "Date": "2024-10-01",
+            "Content": "🚨🇮🇩A Threat Actor is Allegedly Selling the Database of KGXpress",
+            "Attack Type": "Unknown",
+            "Location": [
+                "the Database of KGXpress"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
