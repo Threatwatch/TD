@@ -16386,6 +16386,16 @@
                 "Japan"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 929,
+            "Date": "2024-10-01",
+            "Content": "🚨Cyberattack ‼️\n\n🇮🇳India - Kill Security ransomware group continues to strike in India, this time targeting the healthcare sector. Two new victims have been added to their data leak site:\n\n- Telehealth Center\n- Credihealth\n\nFor both affected entities, the cybercriminal group claims to have exfiltrated highly sensitive data, with the ransom payment deadline set for October 8, 2024.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "India"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
