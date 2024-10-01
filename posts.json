@@ -7772,6 +7772,18 @@
                 "the Database of KGXpress"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4219,
+            "Date": "2024-10-01",
+            "Content": "🚨🇮🇱LulzSec Muslims Defaced Multiple Israeli Websites\n\nhttps://darkwebinformer.com/lulzsec-muslims-defaced-multiple-israeli-websites/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/lulzsec-muslims-defaced-multiple-israeli-websites/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -14630,6 +14642,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5069,
+            "Date": "2024-10-01",
+            "Content": "The time of Jihad has come\n\nPeople around Lebanon \nSomehow enter it and Join the war🏴",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Lebanon"
             ],
             "URLs": []
         }
