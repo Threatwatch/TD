@@ -16456,6 +16456,27 @@
                 "GB"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 935,
+            "Date": "2024-10-01",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Performance Therapies\n\nQilin ransomware group claims to have breached Performance Therapies.\n\nAllegedly, exfiltrated data include confidential agreements, financial data, and more.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Qilin"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 934,
+            "Date": "2024-10-01",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇩🇪Germany - GALAB Laboratories GmbH\n\nCactus ransomware group claims to have breached GALAB Laboratories GmbH. \n\nAllegedly, 120 GB of data, including database backups, corporate data, projects/drawings, and corporate correspondence, were exfiltrated.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Germany",
+                "GB"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
