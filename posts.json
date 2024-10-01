@@ -7993,6 +7993,26 @@
             "URLs": [
                 "ttps://darkwebinformer.com/ominis-osint-web-hunter-for-online-information-gathering/"
             ]
+        },
+        {
+            "Message ID": 4238,
+            "Date": "2024-10-01",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4237,
+            "Date": "2024-10-01",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -10888,6 +10908,29 @@
             "URLs": [
                 "https://www.cairo.gov.eg/",
                 "https://check-host.net/check-report/1ee402acke1a"
+            ]
+        },
+        {
+            "Message ID": 2144,
+            "Date": "2024-10-01",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2143,
+            "Date": "2024-10-01",
+            "Content": "Target \n     \n          https://www.amazon.sa/\n\nhttps://check-host.net/check-report/1ee42126k179\n\n#أبناء_السيد 🇱🇧",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.amazon.sa/",
+                "https://check-host.net/check-report/1ee42126k179"
             ]
         }
     ],
