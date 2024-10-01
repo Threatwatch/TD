@@ -10583,6 +10583,39 @@
                 "فلسطين"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2125,
+            "Date": "2024-10-01",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2124,
+            "Date": "2024-10-01",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2123,
+            "Date": "2024-10-01",
+            "Content": "Target  \n\npayment method bancontact \n           https://www.bancontact.com/\n\n\n\n\nhttps://check-host.net/check-report/1ee25b98k6eb\n\n#أبناء_السيد 🇱🇧",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bancontact.com/",
+                "https://check-host.net/check-report/1ee25b98k6eb"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -14812,6 +14845,26 @@
             "Attack Type": "Unknown",
             "Location": [
                 "Iran"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5075,
+            "Date": "2024-10-01",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5074,
+            "Date": "2024-10-01",
+            "Content": "🔥🔥",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
