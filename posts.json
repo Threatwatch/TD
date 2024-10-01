@@ -7806,6 +7806,36 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4223,
+            "Date": "2024-10-01",
+            "Content": "https://x.com/DarkWebInformer/status/1841126435555082325",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1841126435555082325"
+            ]
+        },
+        {
+            "Message ID": 4222,
+            "Date": "2024-10-01",
+            "Content": "https://x.com/DarkWebInformer/status/1841119970664628621\nhttps://x.com/DarkWebInformer/status/1841120198964711559\nhttps://x.com/DarkWebInformer/status/1841120829402210551\nhttps://x.com/DarkWebInformer/status/1841122284225868063\nhttps://x.com/DarkWebInformer/status/1841122825760866707\nhttps://x.com/DarkWebInformer/status/1841123337646244351\nhttps://x.com/DarkWebInformer/status/1841124430618984803",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1841119970664628621",
+                "https://x.com/DarkWebInformer/status/1841120198964711559",
+                "https://x.com/DarkWebInformer/status/1841120829402210551",
+                "https://x.com/DarkWebInformer/status/1841122284225868063",
+                "https://x.com/DarkWebInformer/status/1841122825760866707",
+                "https://x.com/DarkWebInformer/status/1841123337646244351",
+                "https://x.com/DarkWebInformer/status/1841124430618984803"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
