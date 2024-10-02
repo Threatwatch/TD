@@ -22294,6 +22294,30 @@
                 "ttps://www.helb.co.ke/ ",
                 "tps://check-host.net/check-report/1ee29c4bk3a\n\n"
             ]
+        },
+        {
+            "Message ID": 479,
+            "Date": "2024-10-02",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 478,
+            "Date": "2024-10-02",
+            "Content": "🟢https://x.com/DailyDarkWeb/status/1841176252045988091\n\n🟢https://x.com/FalconFeedsio/status/1840691222362423354\n\n🟢https://x.com/Cyberspl/status/1841055662970675595\n\n\n\n#ServerKillers",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://x.com/DailyDarkWeb/status/1841176252045988091\n",
+                "tps://x.com/FalconFeedsio/status/1840691222362423354\n\n",
+                "ps://x.com/Cyberspl/status/1841055662970675595\n\n\n"
+            ]
         }
     ],
     "TEAM CYBER MAFIA": [
