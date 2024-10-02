@@ -8025,6 +8025,26 @@
             "URLs": [
                 "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-1st-2024/"
             ]
+        },
+        {
+            "Message ID": 4241,
+            "Date": "2024-10-02",
+            "Content": "Zero-days for me. Running an exploit that no one has patched yet—that’s a thrill.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4240,
+            "Date": "2024-10-02",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -10950,6 +10970,16 @@
             "Date": "2024-10-01",
             "Content": "Phishing site down (phishing are used to target innocent people woman and man )\n\n\nAlso phishing is for noobs not for hackers",
             "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2146,
+            "Date": "2024-10-02",
+            "Content": "الحمد لله على هذا النصر...",
+            "Attack Type": "Unknown",
             "Location": [
                 "N/A"
             ],
