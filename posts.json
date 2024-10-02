@@ -8145,6 +8145,48 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-the-database-of-indragiri-hulu-district-health-service/"
             ]
+        },
+        {
+            "Message ID": 4254,
+            "Date": "2024-10-02",
+            "Content": "🚨🇮🇹A Threat Actor Allegedly Leaked the Tecnosell Database",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4253,
+            "Date": "2024-10-02",
+            "Content": "🚨🇦🇷A Threat Actor Allegedly Leaked Data of Argentine Orange Card",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4252,
+            "Date": "2024-10-02",
+            "Content": "🚨🇮🇩A Threat Actor is Allegedly Selling the Database of Sinbad\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-sinbad/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-sinbad/"
+            ]
+        },
+        {
+            "Message ID": 4251,
+            "Date": "2024-10-02",
+            "Content": "🚨A Threat Actor is Allegedly Selling Access to an Unidentified Digital Asset Company",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -11104,6 +11146,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2150,
+            "Date": "2024-10-02",
+            "Content": "https://github.com/murat-exp/EDR-Antivirus-Bypass-to-Gain-Shell-Access\n\nEDR & Antivirus Bypass to Gain Shell Access\n#github #tools #bypass",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/murat-exp/EDR-Antivirus-Bypass-to-Gain-Shell-Access"
+            ]
+        },
+        {
+            "Message ID": 2149,
+            "Date": "2024-10-02",
+            "Content": "https://github.com/vvpoglazov/cve-2024-41110-checker\n\nCheck multiple hosts for efficient scanning. cve-2024-41110\n#github #tools #exploit",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/vvpoglazov/cve-2024-41110-checker"
+            ]
         }
     ],
     "Anonymous Chat": [
