@@ -8067,6 +8067,60 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4248,
+            "Date": "2024-10-02",
+            "Content": "🚨🇷🇺A Threat Actor Allegedly Leaked Data of Rusprofile",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4247,
+            "Date": "2024-10-02",
+            "Content": "🚨🇵🇭A Threat Actor has Allegedly Leaked Data of Gracious Group Lending",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4246,
+            "Date": "2024-10-02",
+            "Content": "🚨🇲🇾A Threat Actor is Allegedly Selling Malaysian Forex User Data",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4245,
+            "Date": "2024-10-02",
+            "Content": "🚨🇺🇸A Threat Actor is Allegedly Selling Log Data from Charles Schwab Bank\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-log-data-from-charles-schwab-bank/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-log-data-from-charles-schwab-bank/"
+            ]
+        },
+        {
+            "Message ID": 4244,
+            "Date": "2024-10-02",
+            "Content": "🚨🇲🇭A Threat Actor is Allegedly Selling Access to the Support and Ticket System of BullsEye Markets\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-the-support-and-ticket-system-of-bullseye-markets/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-the-support-and-ticket-system-of-bullseye-markets/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -12951,6 +13005,16 @@
             "Date": "2024-10-02",
             "Content": "Source?",
             "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6908,
+            "Date": "2024-10-02",
+            "Content": "💯",
+            "Attack Type": "Unknown",
             "Location": [
                 "N/A"
             ],
