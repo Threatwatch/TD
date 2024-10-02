@@ -17434,6 +17434,16 @@
                 "Spain"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 945,
+            "Date": "2024-10-02",
+            "Content": "🚨Phishing Alert ‼️\n\nJim Fan, Senior Research Manager at NVIDIA, fell victim to a phishing attack despite using two-factor authentication (2FA). He mistakenly entered both his password and the 2FA code into a phishing site that appeared authentic. The hacker quickly posted a crypto scam on his account 15 minutes after obtaining his login.\n\nDespite acknowledging his error, Fan criticized Gmail's failure to filter the phishing email, marking it as \"Important\" instead.\n\nSource: https://x.com/DrJimFan/status/1841146978484568120",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
