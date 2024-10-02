@@ -8121,6 +8121,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-the-support-and-ticket-system-of-bullseye-markets/"
             ]
+        },
+        {
+            "Message ID": 4249,
+            "Date": "2024-10-02",
+            "Content": "🚨🇻🇪A Threat Actor Allegedly Leaked Data of The Bolivarian Republic of Venezuela\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-the-bolivarian-republic-of-venezuela/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-the-bolivarian-republic-of-venezuela/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -13014,6 +13026,46 @@
             "Message ID": 6908,
             "Date": "2024-10-02",
             "Content": "💯",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6914,
+            "Date": "2024-10-02",
+            "Content": "Fire for 🔥",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6913,
+            "Date": "2024-10-02",
+            "Content": "Need help in hack dm",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6912,
+            "Date": "2024-10-02",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6911,
+            "Date": "2024-10-02",
+            "Content": "",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
