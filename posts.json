@@ -11287,6 +11287,29 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2156,
+            "Date": "2024-10-02",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2155,
+            "Date": "2024-10-02",
+            "Content": "Target \n       https://www.israelgives.org/\n\n\nhttps://check-host.net/check-report/1eeaee40k3fb\n\n#أبناء_السيد 🇱🇧",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.israelgives.org/",
+                "https://check-host.net/check-report/1eeaee40k3fb"
+            ]
         }
     ],
     "Anonymous Chat": [
