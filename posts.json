@@ -8187,6 +8187,46 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4258,
+            "Date": "2024-10-02",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4257,
+            "Date": "2024-10-02",
+            "Content": "lol ok",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4256,
+            "Date": "2024-10-02",
+            "Content": "🚨🇵🇹A Threat Actor is Allegedly Selling RDP Access of an Unidentified Company in Portugal",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Portugal"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4255,
+            "Date": "2024-10-02",
+            "Content": "🚨🇪🇸A Threat Actor is Allegedly Selling Access of an Unidentified Shop in Spain",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Spain"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
