@@ -11210,6 +11210,30 @@
             "URLs": [
                 "https://github.com/vvpoglazov/cve-2024-41110-checker"
             ]
+        },
+        {
+            "Message ID": 2152,
+            "Date": "2024-10-02",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2151,
+            "Date": "2024-10-02",
+            "Content": "🩸 The Brazilian government website was destroyed by Islamic resistance teams\n\n⛓‍💥target:\nhttps://www.cambira.pr.gov.br/hacked/\n\n❕check:\nhttps://mirror-h.org/zone/5758743/\n\n\n#free_palestine | #Lebanon | #iran \n________\n\n@fattahh_ir  | @realLulzSec\n@Mhwercyber4 | @Iranian_resistance",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Lebanon",
+                "iran"
+            ],
+            "URLs": [
+                "tps://www.cambira.pr.gov.br/hacked/\n\n",
+                "tps://mirror-h.org/zone/5758743/\n\n"
+            ]
         }
     ],
     "Anonymous Chat": [
