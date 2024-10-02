@@ -12835,6 +12835,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6897,
+            "Date": "2024-10-02",
+            "Content": "⚪️ مَتِّعْ عَيْنَيْكَ مِنْ مَعْرَكَةٍ جَوِّيَّةٍ ضِدَّ دِفَاعَاتٍ جَوِّيَّةٍ إِسْرَائِيلِيَّةٍ بِالأَمْسِ ضِمْنَ مَعْرَكَةِ \"الوَعْدِ الصَّادِقِ ٢\" 💥، التَّصْوِيرُ جَنُوبَ قِطَاعِ غَزَّةَ. 🇮🇷",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -17401,6 +17411,17 @@
             "Attack Type": "Hacking",
             "Location": [
                 "GB"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 943,
+            "Date": "2024-10-02",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇮🇹Italy - SMEG\n\nSmeg, the Italian home appliance company, suffered a cyberattack that disrupted its operations. The attack, which occurred on Friday, September 27th, forced the company to suspend activities at its headquarters in San Girolamo di Guastalla and other branches across Italy. \n\nThe attack targeted Smeg's SAP management system, which handles key processes such as production, logistics, human resources, and accounting. \n\nAs a precaution, Smeg sent its employees home and halted production.\n\nFull article:\nhttps://www.wired.it/article/cyberattacco-smeg-elettrodomestici/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "San Girolamo",
+                "Italy"
             ],
             "URLs": []
         }
