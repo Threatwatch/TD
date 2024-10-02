@@ -8352,6 +8352,16 @@
             "URLs": [
                 "ttps://blog.torproject.org/new-release-tor-browser-1356/"
             ]
+        },
+        {
+            "Message ID": 4270,
+            "Date": "2024-10-02",
+            "Content": "🚨🚨Red Barrels, the creator of the popular Outlast video game series, has confirmed that their IT systems have been breached.\n\nNitrogen Ransomware Group has claimed them as a victim (h/t: @AlvieriD)",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
