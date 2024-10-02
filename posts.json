@@ -8227,6 +8227,29 @@
                 "Spain"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4260,
+            "Date": "2024-10-02",
+            "Content": "🚨🇺🇸A Threat Actor is Allegedly Selling Data of an Unidentified Organization in the USA\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-an-unidentified-organization-in-the-usa/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA",
+                "https://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-an-unidentified-organization-in-the-usa/"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-an-unidentified-organization-in-the-usa/"
+            ]
+        },
+        {
+            "Message ID": 4259,
+            "Date": "2024-10-02",
+            "Content": "🚨🇵🇪A Threat Actor Allegedly is Selling RDWeb Access to an Unidentified Company in Peru",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Peru"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -11237,6 +11260,16 @@
         },
         {
             "Message ID": 2153,
+            "Date": "2024-10-02",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2154,
             "Date": "2024-10-02",
             "Content": "",
             "Attack Type": "Unknown",
@@ -15817,6 +15850,29 @@
                 "Bangladesh"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5094,
+            "Date": "2024-10-02",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5093,
+            "Date": "2024-10-02",
+            "Content": "Indian Popular Educational Instritute Sardar Patel College, Hilsa (Nalanda, Bihar), is hacked by Sylhet Gang - SG 🆘\n\nWe have dumped the entire database of Sardar Patel College, Hilsa, Nalanda (Bihar), and leaking sensitive student information.\n\nLeaked Data Includes:  \n- Name  \n- Address Details (Mohalla, Post Office, etc.)\n- Disability Status  \n- Father’s Name  \n- Mother’s Name  \n- Date of Birth  \n- Gender  \n- Category  \n- Religion  \n- SI No\n- UAN No\n   \nAffected Users: 1,100+\n\nLink: https://sardarpatelcollege.in/\nJustdial Review: Click here \n\n⚠ Database Download: [Click here]\n\nGreatz: @SylhetGangSgOfficial 🔪\n\n\n#SGxF07 ❄️",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Bihar",
+                "Hilsa"
+            ],
+            "URLs": [
+                "ttps://sardarpatelcollege.in/\n"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
