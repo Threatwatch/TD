@@ -22702,6 +22702,26 @@
                 "tps://x.com/FalconFeedsio/status/1840691222362423354\n\n",
                 "ps://x.com/Cyberspl/status/1841055662970675595\n\n\n"
             ]
+        },
+        {
+            "Message ID": 480,
+            "Date": "2024-10-02",
+            "Content": "🆘 We attacked to Taiwan Airports | Мы атаковали аэропорты Тайваня\n\n\n🔴Taoyuan Airport\n\nhttps://www.taoyuan-airport.com/\nhttps://check-host.net/check-report/1eea86a6k80d\n\n🔴Taipei Songshan Airport \n\nhttps://www.tsa.gov.tw/\nhttps://check-host.net/check-report/1eea87c0kafb\n\n🔴Taitung Airport\n\nhttps://www.tta.gov.tw/\nhttps://check-host.net/check-report/1eea8474k29e\n\n🔴Aviation Meteorological Service\n\nhttps://aoaws.anws.gov.tw/\nhttps://check-host.net/check-report/1eea8155ka13\n\n#OpTaiwan\n\nSERVER KILLERS | NoName057(16)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Taiwan",
+                "https://check-host.net/check-report/1eea86a6k80d"
+            ],
+            "URLs": [
+                "tps://www.taoyuan-airport.com/\nh",
+                "tps://check-host.net/check-report/1eea86a6k80d\n\n",
+                "ps://www.tsa.gov.tw/\nht",
+                "ps://check-host.net/check-report/1eea87c0kafb\n\n🔴",
+                "s://www.tta.gov.tw/\nhtt",
+                "s://check-host.net/check-report/1eea8474k29e\n\n🔴A",
+                "://aoaws.anws.gov.tw/\nhttp",
+                "://check-host.net/check-report/1eea8155ka13\n\n#Op"
+            ]
         }
     ],
     "TEAM CYBER MAFIA": [
