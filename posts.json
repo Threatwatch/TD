@@ -11006,6 +11006,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2148,
+            "Date": "2024-10-02",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2147,
+            "Date": "2024-10-02",
+            "Content": "عاجل – ح..ز..ب الله: بينما كانت قوة للعدو الإسرائيلي تُحاول الالتفاف على بلدة يارون من جهة الحرش، باغتها مجاهدو المقاومة بِتفجير عبوة خاصة وأوقعوا جميع أفراد القوة بين قتيلٍ وجريح.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
@@ -12910,6 +12930,16 @@
             "Message ID": 6905,
             "Date": "2024-10-02",
             "Content": "ماهي الأدوات التي تم استعمالها",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6906,
+            "Date": "2024-10-02",
+            "Content": "",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -17539,6 +17569,18 @@
             "URLs": [
                 "hackmanac.com/news/ai-and-cyberattacks-from-exploitation-to-targeting\n\n#AI #A"
             ]
+        },
+        {
+            "Message ID": 947,
+            "Date": "2024-10-02",
+            "Content": "🚨Data Leak Alert ‼️\n\n🇮🇱Israel - The hacktivist group Handala continues its campaign against Israel.\nFollowing the claim on September 26, where the group stated it had leaked 60,000 \"secret\" emails from Israel's Ministry of Foreign Affairs, today Handala claims to have leaked 110,000 secret emails from former Prime Minister Ehud Barak.\n\nThe confirmation or denial of these claims has yet to be verified.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel",
+                "Israel",
+                "Israel"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
