@@ -8514,6 +8514,26 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-data-of-darty/"
             ]
+        },
+        {
+            "Message ID": 4287,
+            "Date": "2024-10-03",
+            "Content": "🚨🇮🇱Mysterious Team Bangladesh is Threatening to Target Israel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4286,
+            "Date": "2024-10-03",
+            "Content": "🚨🇮🇳A Threat Actor has Allegedly Leaked Data of Kharupetia College",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
