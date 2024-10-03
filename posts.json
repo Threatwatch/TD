@@ -8468,6 +8468,40 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4284,
+            "Date": "2024-10-03",
+            "Content": "🚨🇮🇱A Threat Actor is Allegedly Selling Data of Rafael Advanced Defense Systems\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-rafael-advanced-defense-systems/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-rafael-advanced-defense-systems/"
+            ]
+        },
+        {
+            "Message ID": 4283,
+            "Date": "2024-10-03",
+            "Content": "🚨🇪🇬A Threat Actor is Allegedly Selling Unauthorized Access to Orange Egypt",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Orange Egypt"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4282,
+            "Date": "2024-10-03",
+            "Content": "🚨🇫🇷A Threat Actor is Allegedly Selling 12.7 Million Lines of Data of Molotov TV\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-12-7-million-lines-of-data-of-molotov-tv/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-12-7-million-lines-of-data-of-molotov-tv/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -18267,6 +18301,62 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 955,
+            "Date": "2024-10-03",
+            "Content": "🚨 AI & Cyberattacks: From Exploitation To Targeting 🚨\n\nIn our latest article, we dive deep into the dark side of Artificial Intelligence and its relationship with cyberattacks. \nFrom AI-powered scams to attacks targeting AI systems themselves, the cyber landscape is becoming more dangerous and complex. \nHere are some key highlights:\n\n🔹 AI-generated voice scams tricking victims \n🔹 Cryptocurrency fraud like CryptoRom\n🔹 Fake Liquidity Mining scams\n🔹 WormGPT: A malicious AI aiding BEC (Business Email Compromise) scams \n🔹 How AI systems are under threat from evasion, poisoning, and privacy attacks\n\nRead the full article here 👉 https://hackmanac.com/news/ai-and-cyberattacks-from-exploitation-to-targeting\n\n#AI #ArtificialIntelligence #Cybersecurity #Cyberattacks #AIThreats #ExpertInsights #Hackmanac",
+            "Attack Type": "Hacking",
+            "Location": [
+                "AI",
+                "AI"
+            ],
+            "URLs": [
+                "hackmanac.com/news/ai-and-cyberattacks-from-exploitation-to-targeting\n\n#AI #A"
+            ]
+        },
+        {
+            "Message ID": 954,
+            "Date": "2024-10-03",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 953,
+            "Date": "2024-10-03",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 952,
+            "Date": "2024-10-03",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 951,
+            "Date": "2024-10-03",
+            "Content": "🟧 #HackTuesday 🟧\n\nHack Tuesday: Week 25 Sept - 01 Oct 2024\n\n‼️ 94 victims by 26 hacking groups ‼️\n\nThe most active ransomware group this week is Play, claiming responsibility for 13 attacks.\n\nThe United States is the most affected country, accounting for 49% of the victims. The Manufacturing sector is the hardest hit, representing 27% of the claimed targets, followed by the Professional, Scientific, and Technical sectors, as well as the Wholesale/Retail sectors, both at 11%\n\nOverall, the claimed stolen data amounts to approximately 19.5 Terabytes.\n\nThe average Cyber Risk Factor stands at 4.1.\n\nFollow the link for the full list of victims:\nhttps://hackmanac.com/news/hack-tuesday-week-25-sept-01-oct-2024\n\n#Hackmanac #HT #Cybersecurity",
+            "Attack Type": "Hacking",
+            "Location": [
+                "The United States",
+                "Terabytes"
+            ],
+            "URLs": [
+                "tps://hackmanac.com/news/hack-tuesday-week-25-sept-01-oct-2024\n\n"
+            ]
         }
     ],
     "ANONYM∅US": [
