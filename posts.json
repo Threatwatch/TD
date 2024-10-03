@@ -8674,6 +8674,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4302,
+            "Date": "2024-10-03",
+            "Content": "🚨🇮🇩Hiken Allegedly Leaked the Data of MEVAL\n\nhttps://darkwebinformer.com/hiken-allegedly-leaked-the-data-of-meval/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/hiken-allegedly-leaked-the-data-of-meval/"
+            ]
+        },
+        {
+            "Message ID": 4301,
+            "Date": "2024-10-03",
+            "Content": "🚨🇮🇱STUXNET Defaced the Website of QAMA\n\nhttps://darkwebinformer.com/stuxnet-defaced-the-website-of-qama/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/stuxnet-defaced-the-website-of-qama/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
