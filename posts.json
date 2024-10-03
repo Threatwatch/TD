@@ -18204,6 +18204,17 @@
                 "Dubai"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 949,
+            "Date": "2024-10-03",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇯🇵Japan - Kyocera (京セラコミュニケーションシステム株式会社)\n\nKyocera Communication Systems Co., Ltd. has reported a ransomware infection during the installation of their library system at Ikaruga Town Library in Nara Prefecture. The attack was discovered on September 30, 2024, when an error in the server connection revealed that data had been encrypted by ransomware.\n\nThe ransomware attack has delayed the launch of the library system, impacting the ability of users to search the collection via the library's website.\n\nSource:\nhttps://www.kccs.co.jp/news/release/2024/1002/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Japan",
+                "Nara Prefecture"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
