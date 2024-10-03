@@ -8644,6 +8644,16 @@
                 "USA"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4298,
+            "Date": "2024-10-03",
+            "Content": "💡The live threat feed now has a working WebSocket. This provides a lot of benefits.. real-time communication, lower latency, reduces server load, etc.\n\nThe front end is stable, once I'm done with the backend it will go live. After everything goes live, I will monitor the feed for a couple days and then will start working on additional features.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
