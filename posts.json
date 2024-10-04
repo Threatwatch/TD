@@ -11844,6 +11844,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2161,
+            "Date": "2024-10-04",
+            "Content": "https://github.com/masa42/CVE-2024-38816-PoC\n\nCVE-2024-38816 Proof of Concept\n#github #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/masa42/CVE-2024-38816-PoC"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -18688,6 +18700,16 @@
             "Location": [
                 "Tarakanda",
                 "Tarakanda"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 959,
+            "Date": "2024-10-04",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇩🇪Germany - Lyomark Pharma GmbH\n\nDragonForce hacking group claims to have breached Lyomark Pharma GmbH. \n\nAllegedly, 51.31 GB of data were exfiltrated.\nRansom deadline: 05th Oct 24",
+            "Attack Type": "Hacking",
+            "Location": [
+                "🇪Germany"
             ],
             "URLs": []
         }
