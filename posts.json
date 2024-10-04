@@ -18726,6 +18726,16 @@
                 "Ukraine"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 961,
+            "Date": "2024-10-04",
+            "Content": "🚨Data Breach Alert ‼️\n\n🇮🇱Israel - Shin Bet\n\nOn October 3, 2024, the pro-Palestinian hacktivist group Handala claims to have hacked Shin Bet, the Israeli security agency, through a complex supply chain attack.\n\nAccording to Handala, they breached the main server of Shin Bet’s exclusive security system, designed to protect the mobile devices of its officers. This security system is intended to prevent data transmission to companies like Meta and Google, but Handala claims to have installed a Trojan on all Shin Bet officers' phones.\n\nAllegedly, this hack resulted in the theft of over 7 TB of sensitive data, including phone models, IMEIs, mobile numbers, emails, apps, search histories, and geolocation data of approximately 30,000 officers.\n\nHandala has reportedly leaked 46 million rows of data as proof of the hack.\n\nThe confirmation or denial of these claims has yet to be verified",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
