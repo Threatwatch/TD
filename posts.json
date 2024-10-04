@@ -18766,6 +18766,27 @@
                 "Japan"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 964,
+            "Date": "2024-10-04",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇮🇶Iraq - AlSharqiya TV\n\nAn anti-Zionist hacker group, Fatemiyoun Cyber Team, has claimed responsibility for a cyberattack on the official website of Al Sharqiya channel.\n\nAllegedly, the group hacked the website in response to the channel's media support for the Zionist entity. The attackers reportedly displayed their logo and various posts on the site as a form of protest. \n\nIn some statements, they claim to have exfiltrated the entire database of Al Sharqiya, though these details have not been independently verified.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 963,
+            "Date": "2024-10-04",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇸🇦 Saudi Arabia - Fursan Travel\n\nRansomHouse hacking group claims to have breached Fursan Travel, a leading travel service in the Kingdom of Saudi Arabia.\n\nOn the data leak site, the cybercriminal group provided samples and stated that the ransomware attack dates back to September 6.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Saudi Arabia -",
+                "the Kingdom of Saudi Arabia"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
