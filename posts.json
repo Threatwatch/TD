@@ -18736,6 +18736,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 962,
+            "Date": "2024-10-04",
+            "Content": "🚨Cyberattack Update ‼️\n\n🇯🇵Japan - H2O Retailing (エイチ・ツー・オー リテイリング): Possible Data Exposure Due to Contractor Ransomware Attack\n\nOn September 30, 2024, Like Kids, Inc., a contractor responsible for operating H2O Nursery School under H2O Retailing Co., Ltd., suffered a ransomware attack. \n\nIt is suspected that both corporate and personal information held by Like Kids, Inc. may have been compromised. \n\nThe investigation into the incident is ongoing, with H2O Retailing requesting Like Kids, Inc. to assess the cause and determine the extent of the potential data breach.\n\nSource:\nhttps://www.h2o-retailing.co.jp/ja/news/news-8363494731287314314/main/0/link/20241004_toushajigyounojigyouuneiitakugaishacyberkougekikanousei.pdf",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Japan"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
