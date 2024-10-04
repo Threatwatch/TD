@@ -18861,6 +18861,25 @@
                 "the Kingdom of Saudi Arabia"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 965,
+            "Date": "2024-10-04",
+            "Content": "SEE YOU AT CYBERNEXTGEN FOR ECSC 2024\n\nOur CEO Sofia Scozzari  will be present at the CyberNextGen (https://cybersecnatlab.it/cybernextgen-speciale-ragazze-10-ottobre-workshop-gratuito-studentesse-scuole-superiori/) event on October 10, 2024 in Turin, Italy, organized by CINI, the Italian Cybersecurity National Lab (https://cybersecnatlab.it/), in collaboration with the ACN, Italian National Cybersecurity Agency (https://www.acn.gov.it/portale/home), and in conjunction with the European Cybersecurity Challenge (ECSC, https://ecsc.eu/).\n\nSofia, who is also a member of the Board of Directors of the Community Women For Security ,(https://womenforsecurity.it/) , will be present at the panel “Women and Cybersecurity”, a moment of discussion with 3 other successful women from WFS, who will share their career paths, moderated by founder Cinzia Ercolano.\n\nSee you in Italy!\n\n#hackmanac #corporatenews #events #Italy #WomenForSecurity #WomenInCybersecurity #WomenAndCybersecurity",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CyberNextGen",
+                "Turin",
+                "Italy",
+                "Italy"
+            ],
+            "URLs": [
+                "https://cybersecnatlab.it/cybernextgen-speciale-ragazze-10-ottobre-workshop-gratuito-studentesse-scuole-superiori/",
+                "https://cybersecnatlab.it/",
+                "https://www.acn.gov.it/portale/home",
+                "https://ecsc.eu/",
+                "https://womenforsecurity.it/"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -30208,6 +30227,16 @@
             "Attack Type": "DDoS Attacks",
             "Location": [
                 "Powerproof"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2675,
+            "Date": "2024-10-04",
+            "Content": "To purchase ddos services, databases,spam, phishing, social engineering \n\nContact @MRHELL112",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Contact"
             ],
             "URLs": []
         }
