@@ -11900,6 +11900,72 @@
             "URLs": [
                 "https://github.com/masa42/CVE-2024-38816-PoC"
             ]
+        },
+        {
+            "Message ID": 2167,
+            "Date": "2024-10-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2166,
+            "Date": "2024-10-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2165,
+            "Date": "2024-10-04",
+            "Content": "Targeted israel\nBen Gurion (TLV) Airport \nhttps://bengurion.co.il/ ✈️\nHost Killed 🤺\n\n🔥 https://check-host.net/check-report/1efa15c5k531 🔥\n\n💥",
+            "Attack Type": "Unknown",
+            "Location": [
+                "israel"
+            ],
+            "URLs": [
+                "https://bengurion.co.il/",
+                "tps://check-host.net/check-report/1efa15c5k531 🔥"
+            ]
+        },
+        {
+            "Message ID": 2164,
+            "Date": "2024-10-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2163,
+            "Date": "2024-10-04",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2162,
+            "Date": "2024-10-04",
+            "Content": "Targeted israel train website ✔️\n\n      ♾https://ravkavonline.co.il/♾\n\n🍌https://check-host.net/check-report/1efa0772k23e 🧂",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Targeted",
+                "israel"
+            ],
+            "URLs": [
+                "ttps://check-host.net/check-report/1efa0772k23e "
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -24966,6 +25032,19 @@
             "URLs": [
                 "https://conversenowdev.wpengine.com",
                 "https://haxor.id/archive/mirror/208647"
+            ]
+        },
+        {
+            "Message ID": 620,
+            "Date": "2024-10-04",
+            "Content": "SUCCES NEW ALLIANCE\n\nTENGKORAK CYBER SECURITY\nhttps://t.me/TengkorakCyberSecurity\n\nCYBER TEAM INDONESIA\nhttps://t.me/+Bfjek1DS3344YzZl\n\nHastag:\n\n#CYBER_TEAM_INDONESIA\n#TENGKORAK_CYBER_SECURITY\n#NEW_ALLIANCE",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/TengkorakCyberSecurity",
+                "https://t.me/+Bfjek1DS3344YzZl"
             ]
         }
     ],
