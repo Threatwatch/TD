@@ -8786,6 +8786,16 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-data-of-superfive/"
             ]
+        },
+        {
+            "Message ID": 4314,
+            "Date": "2024-10-04",
+            "Content": "💡Notifications are available when the feed gets updated. You just need to permit the browser to allow it. Works for both Linux and Windows. Pretty basic for now but still a working feature.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -16601,6 +16611,16 @@
             "Message ID": 5098,
             "Date": "2024-10-04",
             "Content": "They arrested him because he had an Black flag\nWtf what's the problem in Black Flag?\nWe demand release of him as soon as possible",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5100,
+            "Date": "2024-10-04",
+            "Content": "* released already",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
