@@ -18712,6 +18712,20 @@
                 "🇪Germany"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 960,
+            "Date": "2024-10-04",
+            "Content": "The U.S. Department of Justice announced the seizure of 41 internet domains used by Russian intelligence agents, specifically the \"Callisto Group,\" part of the Russian FSB, for conducting spear-phishing campaigns targeting U.S. government entities. \n\nConcurrently, Microsoft filed a civil action to seize 66 additional domains used by the same group, tracked by Microsoft as \"Star Blizzard.\" \n\nBetween January 2023 and August 2024, over 30 civil society organizations, including journalists and NGOs, were targeted by these phishing campaigns. These domains were used to steal sensitive information from U.S. government departments, defense contractors, and other entities. \n\nTwo Callisto Group members were previously charged in December 2023 for hacking campaigns targeting the U.S., UK, NATO countries, and Ukraine.\n\nSource:\nhttps://www.justice.gov/opa/pr/justice-department-disrupts-russian-intelligence-spear-phishing-efforts",
+            "Attack Type": "Hacking",
+            "Location": [
+                "U.S.",
+                "U.S.",
+                "U.S.",
+                "UK",
+                "Ukraine"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
