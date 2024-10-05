@@ -12016,6 +12016,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2173,
+            "Date": "2024-10-05",
+            "Content": "https://github.com/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits\n\nCritical RCE Vulnerabilities in HPE Aruba Devices (may 2024)\n#github #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Aruba"
+            ],
+            "URLs": [
+                "https://github.com/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits"
+            ]
         }
     ],
     "Anonymous Chat": [
