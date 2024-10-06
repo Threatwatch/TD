@@ -8832,6 +8832,19 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-9-9-million-records-of-usa-auto-insurance-data/"
             ]
+        },
+        {
+            "Message ID": 4401,
+            "Date": "2024-10-06",
+            "Content": "🔗 **DarkWebInformer.com - Cyber Threat Intelligence**\n📅 **Date:** 2024-10-06 21:17:21\n🚨 **Title:** Allegedly leaked National Bank of Egypt database\n🛡️ **Victim Country:** Egypt\n🏭 **Victim Industry:** Banking & Mortgage\n🏢 **Victim Organization:** national bank of egypt (nbe)\n🌐 **Victim Site:** \n📜 **Category:** Data Breach\n🕵️‍♂️ **Threat Actor:** bxxxx1\n🌍 **Network:** openweb\n🔗 **Claim:** https://breachforums.st/Thread-DATABASE-National-Bank-of-Egypt-al-ahly-%D9%85%D8%B5%D8%B1\n📝 **Description:** The threat actor claims to have leaked the National Bank of Egypt employees' database.\n\nFormat: PDF\nSize: 484 KB",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Egypt"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-DATABASE-National-Bank-of-Egypt-al-ahly-%D9%85%D8%B5%D8%B1\n📝 **Descri"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
