@@ -8796,6 +8796,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4383,
+            "Date": "2024-10-06",
+            "Content": "🚨🇮🇱A Threat Actor Allegedly Leaked Data of the Israeli Police\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-the-israeli-police/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-the-israeli-police/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
