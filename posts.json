@@ -8869,6 +8869,78 @@
                 "arkWebInformer.com ",
                 ".is/threads/124247/\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4445,
+            "Date": "2024-10-06",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4444,
+            "Date": "2024-10-06",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 00:14:08\n🚨 Title: Database of IPN Academy allegedly leaked\n🛡️ Victim Country: India\n🏭 Victim Industry: Education\n🏢 Victim Organization: ipn academy\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: KAL EGY HACKER 319\n🌍 Network: telegram\n🔗 Claim: https://t.me/KALEGY319/252\n📝 Description: The group claims to have obtained organization's database.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/KALEGY319/252\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4443,
+            "Date": "2024-10-06",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4442,
+            "Date": "2024-10-06",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 00:10:14\n🚨 Title: Alleged leak of 2 million phone numbers from the USA and Canada\n🛡️ Victim Country: USA\n🏭 Victim Industry: \n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Data Leak\n🕵️‍♂️ Threat Actor: UserSec\n🌍 Network: telegram\n🔗 Claim: https://t.me/user_secc/395\n📝 Description: The group claims to have leaked over 2 million phone numbers from the USA and Canada, releasing a total of 2,149,658 records. The data, stored in a 30.75MB text file, includes phone numbers sorted by geolocation across both countries.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "USA",
+                "Canada",
+                "USA",
+                "Canada"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/user_secc/395\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4441,
+            "Date": "2024-10-06",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4440,
+            "Date": "2024-10-06",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 00:06:29\n🚨 Title: Alleged data leak of SodaStream\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Manufacturing\n🏢 Victim Organization: sodastream\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: LulzSec Black\n🌍 Network: telegram\n🔗 Claim: https://t.me/Luzsec_Black/2189\n📝 Description: The group claims to have leaked organization's database.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/Luzsec_Black/2189\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
