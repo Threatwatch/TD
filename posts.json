@@ -9224,6 +9224,31 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4471,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4470,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 04:07:37\n🚨 Title: Alleged sale of unauthorized access to an unidentified company in Mexico\n🛡️ Victim Country: Mexico\n🏭 Victim Industry: \n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Initial Access\n🕵️‍♂️ Threat Actor: 0xghost\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-Access-to-Cloud-Infrastructure-and-Payment-Gateway\n📝 Description: Threat actor claims to be selling unauthorized access to an unidentified company in Mexico. The access reportedly includes the company's cloud infrastructure, compute resources, and payment gateway, along with API credentials and SSH keys.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Mexico",
+                "Mexico",
+                "Mexico"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-Access-to-Cloud-Infrastructure-and-Payment-Gateway\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -46912,6 +46937,18 @@
             "Message ID": 104,
             "Date": "2024-09-25",
             "Content": "Looks like we're going to have to change our location🥲",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        }
+    ],
+    "Unkw_team": [
+        {
+            "Message ID": 105,
+            "Date": "2024-10-07",
+            "Content": "Be ready......",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
