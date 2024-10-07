@@ -11103,6 +11103,29 @@
                 "arkWebInformer.com ",
                 "e/MoroccanCyberForces/1132\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4631,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4630,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 11:39:45\n🚨 Title: Allegedly leaked TEXT 10x database\n🛡️ Victim Country: USA\n🏭 Victim Industry: Industrial Automation\n🏢 Victim Organization: text 10x\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: Chucky\n🌍 Network: openweb\n🔗 Claim: https://leakbase.io/threads/database-leaked-text10x-ai-2-2m-crm-text-tool-ai-chatbot.30143/\n📝 Description: A group claims to have leaked the database of TEXT 10x. The leaked data includes 2.2 million records containing email addresses, contact information, company names, CRM and leads data, chatbot interaction history, etc",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "kbase.io/threads/database-leaked-text10x-ai-2-2m-crm-text-tool-ai-chatbot.30143/\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -21835,6 +21858,16 @@
             "Message ID": 970,
             "Date": "2024-10-07",
             "Content": "🚨Cyberattack Alert ‼️\n\n🇮🇳India - The Wedding Company (Weddings by Betterhalf)\n\nKill Security hacking group claims to have breached The Wedding Company, previously known as Weddings by Betterhalf.\n\nAllegedly, exfiltrated data include personal information, family details, educational records, employment data, medical records, government-issued documents, biometric data, financial details, religious information, caste data, astrological details, vaccination records, and identity numbers.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 971,
+            "Date": "2024-10-07",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Albany College of Pharmacy and Health Sciences\n\nMedusa ransomware group claims to have breached Albany College of Pharmacy and Health Sciences.\n\nRansom demand: $150,000.\nRansom deadline: 11th Oct 24.\n\nOn September 19, NEWS10 ABC reported that Albany College of Pharmacy and Health Sciences experienced a disruption to their computer systems due to a \"network security incident.\"\nhttps://www.news10.com/news/albany-county/cyber-threat-under-investigation-at-albany-college-of-pharmacy-and-health-sciences/",
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
