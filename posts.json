@@ -12651,6 +12651,91 @@
                 "arkWebInformer.com ",
                 "e/Z_BL4CK_H4T/8394\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4768,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4767,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 18:31:24\n🚨 Title: Ketapang Grey Hat Team targets the website of PassportCard\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Leisure & Travel\n🏢 Victim Organization: passportcard\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: Ketapang Grey Hat Team\n🌍 Network: telegram\n🔗 Claim: https://t.me/KetapangGreyHatTeamV2/4091\n📝 Description: Proof of downtime: https://check-host.cc/report/jQpcMdVCsG727YsVcsG9f1",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/KetapangGreyHatTeamV2/4091\n📝 Descript",
+                "k-host.cc/report/jQpcMdVCsG727YsVcsG9f1"
+            ]
+        },
+        {
+            "Message ID": 4766,
+            "Date": "2024-10-07",
+            "Content": "💡For those of you who will be using the live threat feed externally in some form. I've uploaded 3 posts in JSON format for any preparations that you may need to do. Link: https://justpaste.it/75aaj\n\nIt would be nice if you could reference my website in some form. I'm working on CSV/XML format.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "JSON"
+            ],
+            "URLs": [
+                "ttps://justpaste.it/75aaj\n"
+            ]
+        },
+        {
+            "Message ID": 4765,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4764,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 18:27:51\n🚨 Title: LulzSec targets the website of Kataeb.org\n🛡️ Victim Country: Lebanon\n🏭 Victim Industry: Online Publishing\n🏢 Victim Organization: kataeb.org\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: LulzSec\n🌍 Network: telegram\n🔗 Claim: https://t.me/realLulzSec/2195\n📝 Description: Proof of downtime: https://check-host.net/check-report/1f1275bfk7d",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Lebanon"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "aeb.org\n🛡️",
+                ".org\n🌐 Vic",
+                "e/realLulzSec/2195\n📝 Descript",
+                "k-host.net/check-report/1f1275bfk7d"
+            ]
+        },
+        {
+            "Message ID": 4763,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4762,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 18:22:26\n🚨 Title: Alleged data leak of Integrated Government Online Directory\n🛡️ Victim Country: India\n🏭 Victim Industry: Government & Public Sector\n🏢 Victim Organization: integrated government online directory\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: Al Ahad\n🌍 Network: telegram\n🔗 Claim: https://t.me/AlAhadSecurity/1802\n📝 Description: Group claims to have leaked data from Integrated Government Online Directory. which includes Name, Address, Number, Adhaar card, Pan card, Bank details, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/AlAhadSecurity/1802\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
