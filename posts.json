@@ -12736,6 +12736,56 @@
                 "arkWebInformer.com ",
                 "e/AlAhadSecurity/1802\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4772,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4771,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 18:41:05\n🚨 Title: Alleged leak of Ecuador data\n🛡️ Victim Country: Ecuador\n🏭 Victim Industry: \n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Data Leak\n🕵️‍♂️ Threat Actor: PUTACANA\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-Data-leakage-ECUADOR-COCIBER\n📝 Description: The threat actor claims to have leaked a database from the civil registry of Ecuador. The claimed data includes ID, Country Code, Country Name, Region Name, City Name, Postal Code, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Ecuador",
+                "Ecuador",
+                "Ecuador",
+                "Region Name"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-Data-leakage-ECUADOR-COCIBER\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4770,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4769,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 18:35:07\n🚨 Title: Ketapang Grey Hat Team targets the website of Job Master Ltd\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Human Resources\n🏢 Victim Organization: job master ltd\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: Ketapang Grey Hat Team\n🌍 Network: telegram\n🔗 Claim: https://t.me/KetapangGreyHatTeamV2/4094\n📝 Description: Proof of downtime: https://check-host.net/check-report/1f12c74ak5e7",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/KetapangGreyHatTeamV2/4094\n📝 Descript",
+                "k-host.net/check-report/1f12c74ak5e7"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
