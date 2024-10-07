@@ -11312,6 +11312,30 @@
                 "e/anonNepal/828\n📝 Descript",
                 "k-host.net/check-report/1f102dd2k390"
             ]
+        },
+        {
+            "Message ID": 4648,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4647,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 12:35:20\n🚨 Title: RipperSec targets the website of The Makeup Lounge\n🛡️ Victim Country: India\n🏭 Victim Industry: Cosmetics\n🏢 Victim Organization: the makeup lounge\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: RipperSec\n🌍 Network: telegram\n🔗 Claim: https://t.me/RipperSecIO/6040\n📝 Description: Proof of Downtime: https://check-host.net/check-report/1f10fbf3kd5b",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/RipperSecIO/6040\n📝 Descript",
+                "k-host.net/check-report/1f10fbf3kd5b"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
