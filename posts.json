@@ -11152,6 +11152,67 @@
                 "arkWebInformer.com ",
                 "e/handala_hack3/87\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4638,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 12:14:21\n🚨 Title: Anonymous Nepal targets the website of Bangladesh Skill Bank\n🛡️ Victim Country: Bangladesh\n🏭 Victim Industry: Education\n🏢 Victim Organization: bangladesh skill bank\n🌐 Victim Site: \n📜 Category: Defacement\n🕵️‍♂️ Threat Actor: Anonymous Nepal\n🌍 Network: telegram\n🔗 Claim: https://t.me/anonNepal/830\n📝 Description: Group claims to have defaced the website of Bangladesh Skill Bank-BSB.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/anonNepal/830\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4637,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4636,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 11:58:25\n🚨 Title: Allegedly leaked Pekalongan City database\n🛡️ Victim Country: Indonesia\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: pekalongan city\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: Eagle Error System\n🌍 Network: telegram\n🔗 Claim: https://t.me/eagle_error/1763\n📝 Description: he threat actor claims to have leaked the Pekalongan City database. The leaked data includes ID, Email, Address, Website etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Pekalongan City",
+                "Indonesia",
+                "Pekalongan City"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/eagle_error/1763\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4635,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4634,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 11:58:07\n🚨 Title: Istrail falls victim to MEDUSA Ransomware\n🛡️ Victim Country: Norway\n🏭 Victim Industry: Manufacturing\n🏢 Victim Organization: istrail\n🌐 Victim Site: \n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: MEDUSA\n🌍 Network: tor\n🔗 Claim: http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/detail?id=5e6ac1669f4d1d94abb14ad0306e6c14\n📝 Description: The group claims to have access to the organization's data and intends to publish it within 7-8 days.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Norway"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/detail?id=5e6ac1669f4d1d94abb14ad0306e6c14\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
