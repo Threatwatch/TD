@@ -10688,6 +10688,31 @@
                 "arkWebInformer.com ",
                 "e/blackhun73/401\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4596,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4595,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 09:51:00\n🚨 Title: DDOS Team Anonymous Targets the Website of Fukuyama Botanical Garden\n🛡️ Victim Country: Taiwan\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: fukuyama botanical garden\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: DDOS TEAM ANONYMOUS\n🌍 Network: telegram\n🔗 Claim: https://t.me/DdosTeamAnonymous/1588\n📝 Description: Proof of Downtime : https://check-host.net/check-report/1f0faed5k6c2",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Fukuyama",
+                "Taiwan"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/DdosTeamAnonymous/1588\n📝 Descript",
+                "k-host.net/check-report/1f0faed5k6c2"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -19090,6 +19115,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "Iran"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5121,
+            "Date": "2024-10-07",
+            "Content": "☠ When?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
