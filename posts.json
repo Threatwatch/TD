@@ -11852,6 +11852,39 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4695,
+            "Date": "2024-10-07",
+            "Content": "ok its still broke",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4694,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4693,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 14:47:59\n🚨 Title: GARUDA HACKTIVIST targets the website of Eradoors\n🛡️ Victim Country: India\n🏭 Victim Industry: Manufacturing\n🏢 Victim Organization: eradoors\n🌐 Victim Site: No site available, No site available, No site available, No site available\n📜 Category: Defacement\n🕵️‍♂️ Threat Actor: GARUDA HACKTIVIST\n🌍 Network: telegram\n🔗 Claim: https://t.me/GarudaErrorSystem/4529\n📝 Description: Group claims to have defaced the website of Eradoors",
+            "Attack Type": "Hacking",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/GarudaErrorSystem/4529\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
