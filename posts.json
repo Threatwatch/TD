@@ -9657,6 +9657,100 @@
                 "e/Moroccan_Dragons/611\n📝 Descript",
                 "k-host.net/check-report/1f0f5b64kb79"
             ]
+        },
+        {
+            "Message ID": 4513,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4512,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 06:46:07\n🚨 Title: Fatimion cyber team targets the website of Safed City\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: safed city\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: Fatimion cyber team\n🌍 Network: telegram\n🔗 Claim: https://t.me/hak993/2513\n📝 Description: The group claims to have taken down the organization's website.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Safed City",
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/hak993/2513\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4511,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4510,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 06:42:09\n🚨 Title: Fatimion cyber team targets the website of Nahariya Municipality\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: nahariya municipality\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: Fatimion cyber team\n🌍 Network: telegram\n🔗 Claim: https://t.me/hak993/2512\n📝 Description: The group claims to have taken down the organization's website.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/hak993/2512\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4509,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4508,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 06:38:14\n🚨 Title: Alleged data leak of Israel Government Tourist Corporation\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: israel government tourist corporation\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: LordZeroDay\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-DATABASE-ISRAEL-https-igtc-co-il-Leak-2024\n📝 Description: Threat actor claims to have leaked the data of the Israel Government Tourist Corporation (IGTC), a government entity responsible for promoting Israel as a global tourist destination. The leaked data reportedly contains information such as names, locations, ID numbers, ticket details, and other personal information.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Israel",
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-DATABASE-ISRAEL-https-igtc-co-il-Leak-2024\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4507,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4506,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 06:37:06\n🚨 Title: Allegedly leaked data from Municipal Security and Public Order Association of Israel\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Government Relations\n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Alert\n🕵️‍♂️ Threat Actor: The Returnees\n🌍 Network: telegram\n🔗 Claim: https://t.me/TheReturnees710/607\n📝 Description: The group claims to have hacked the Municipal Security and Public Order Association of the Zionist entity, extracting 40 GB of sensitive files detailing the association’s security activities and public order procedures. Additionally, the group claims to have obtained detailed personal data on 540 individuals who have worked with the association over the past nine years.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/TheReturnees710/607\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
