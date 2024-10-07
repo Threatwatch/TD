@@ -9379,6 +9379,55 @@
                 "arkWebInformer.com ",
                 "achforums.st/Thread-Town-of-brooklyn-workers-2024\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4486,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4485,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 05:52:18\n🚨 Title: ANONYM∅US claims to target Israel\n🛡️ Victim Country: Israel\n🏭 Victim Industry: \n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Alert\n🕵️‍♂️ Threat Actor: ANONYM∅US\n🌍 Network: telegram\n🔗 Claim: https://t.me/ANONSTU/1741\n📝 Description: A recent post by the group indicates that they are targeting Israel.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel",
+                "Israel",
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/ANONSTU/1741\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4484,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4483,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 05:49:56\n🚨 Title: EMorocco Hacktivies targets the website of Rimon\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Network & Telecommunications\n🏢 Victim Organization: rimon\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: EMorocco Hacktivies\n🌍 Network: telegram\n🔗 Claim: https://t.me/evilmorocco/100\n📝 Description: Proof of downtime: https://check-host.net/check-report/1f0e8a2dk84f",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/evilmorocco/100\n📝 Descript",
+                "k-host.net/check-report/1f0e8a2dk84f"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
