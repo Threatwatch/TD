@@ -10278,6 +10278,141 @@
                 "-host.net/check-report/1f0fdb83k549\nProof of Do",
                 "-host.net/check-report/1f0fdd55k1fa"
             ]
+        },
+        {
+            "Message ID": 4571,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4570,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4569,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4568,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 08:58:53\n🚨 Title: NoName targets the website of Provincie Vlaams-Brabant\n🛡️ Victim Country: Belgium\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: provincie vlaams-brabant\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/noname05716/9771\n📝 Description: Proof of Downtime: http://check-host.net/check-report/1f0fe3aak6bf",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Belgium"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/noname05716/9771\n📝 Descript",
+                "-host.net/check-report/1f0fe3aak6bf"
+            ]
+        },
+        {
+            "Message ID": 4567,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4566,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4565,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4564,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 08:55:11\n🚨 Title: NoName targets the website of Provincie Oost-Vlaanderen\n🛡️ Victim Country: Belgium\n🏭 Victim Industry: Government & Public Sector\n🏢 Victim Organization: provincie oost-vlaanderen\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/noname05716/9771\n📝 Description: Proof of Downtime: http://check-host.net/check-report/1f0fe05ck7a8",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Belgium"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/noname05716/9771\n📝 Descript",
+                "-host.net/check-report/1f0fe05ck7a8"
+            ]
+        },
+        {
+            "Message ID": 4563,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4562,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4561,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4560,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 08:51:09\n🚨 Title: NoName targets the website of Province of Limburg\n🛡️ Victim Country: Belgium\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: province of limburg (belgium)\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/noname05716/9771\n📝 Description: Proof of Downtime: http://check-host.net/check-report/1f0fdf54k24d",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Province of Limburg",
+                "Belgium",
+                "limburg",
+                "belgium"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/noname05716/9771\n📝 Descript",
+                "-host.net/check-report/1f0fdf54k24d"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -18670,6 +18805,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "Israel"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5120,
+            "Date": "2024-10-07",
+            "Content": "Al Jazeera Broadcaster Jamal Rayyan\ntweets that \" Iran has Tested their first Nuclear Bomb in the desert \"  ☠",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Iran"
             ],
             "URLs": []
         }
