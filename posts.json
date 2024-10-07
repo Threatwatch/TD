@@ -9751,6 +9751,75 @@
                 "arkWebInformer.com ",
                 "e/TheReturnees710/607\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4519,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4518,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 06:52:51\n🚨 Title: Fatimion cyber team targets the website of Tzur Hadassah\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: tzur hadassah\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: Fatimion cyber team\n🌍 Network: telegram\n🔗 Claim: https://t.me/hak993/2516\n📝 Description: The group claims to have taken down the organization's website.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/hak993/2516\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4517,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4516,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 06:49:37\n🚨 Title: Alleged data leak of Investment DOJO\n🛡️ Victim Country: USA\n🏭 Victim Industry: Financial Services\n🏢 Victim Organization: investment dojo\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: SilentPulse\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-DATABASE-InvestmentDojo-Crypto-Database-Leaked-Download\n📝 Description: Threat actor claims to have leaked the data of Investment DOJO, a moderated social trading and gaming platform. The compromised data reportedly includes information on 84,000 clients, such as emails, passwords, devices, and IP addresses.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-DATABASE-InvestmentDojo-Crypto-Database-Leaked-Download\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4515,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4514,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 06:48:31\n🚨 Title: Fatimion cyber team targets the website of Municipality of Ashkelon\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: municipality of ashkelon\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: Fatimion cyber team\n🌍 Network: telegram\n🔗 Claim: https://t.me/hak993/2514\n📝 Description: The group claims to have taken down the organization's website.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/hak993/2514\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -20353,6 +20422,19 @@
             "Attack Type": "Unknown",
             "Location": [
                 "Japan"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 967,
+            "Date": "2024-10-07",
+            "Content": "🚨Data Breach Alert ‼️\n\n🇸🇦Saudi Arabia - Jarir Bookstore\n\nA potential data breach at Jarir Bookstore has been detected on a hacking forum, reportedly affecting 26 million users.\n\nAccording to the post, the compromised information includes full names, physical addresses, email addresses, and phone numbers. The threat actor also claims that the database contains data from branches in Kuwait, Qatar, Bahrain, and the UAE.\n\nThe confirmation or denial of these claims has yet to be verified, but in the meantime, Jarir Bookstore users are advised to remain cautious of potential phishing attempts.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Saudi Arabia - Jarir Bookstore",
+                "Kuwait",
+                "Qatar",
+                "Bahrain"
             ],
             "URLs": []
         }
