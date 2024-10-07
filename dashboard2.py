@@ -47,10 +47,10 @@ def extract_field(pattern, text):
         return match.group(1).strip()
     return "N/A"
 
-# Function to extract all URLs from a given text
 def extract_urls(text):
-    # A more general regex pattern to capture all URLs in the message
-    url_pattern = r"(https?://[^\s]+)"
+    # Modified pattern to capture URLs without http/https or www
+    # The regex will match typical domain formats followed by paths and query strings
+    url_pattern = r"([a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(?:/[^\s]*)?)"
     return re.findall(url_pattern, text)  # Returns all matches as a list
 
 
