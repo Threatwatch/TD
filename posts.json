@@ -11336,6 +11336,54 @@
                 "e/RipperSecIO/6040\n📝 Descript",
                 "k-host.net/check-report/1f10fbf3kd5b"
             ]
+        },
+        {
+            "Message ID": 4652,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4651,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 12:45:58\n🚨 Title: XC Fixxeds  targets the website of World Nuclear Association\n🛡️ Victim Country: UK\n🏭 Victim Industry: Energy & Utilities\n🏢 Victim Organization: world nuclear association\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: XC Fixxeds\n🌍 Network: telegram\n🔗 Claim: https://t.me/XC_Fixxed/3831\n📝 Description: Proof of Downtime : https://check-host.net/check-report/1f106672kd74",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/XC_Fixxed/3831\n📝 Descript",
+                "k-host.net/check-report/1f106672kd74"
+            ]
+        },
+        {
+            "Message ID": 4650,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4649,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 12:45:34\n🚨 Title: Alleged sale of Dewatiket data\n🛡️ Victim Country: Indonesia\n🏭 Victim Industry: Online Publishing\n🏢 Victim Organization: dewatiket\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: Hiken\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-DATABASE-dewatiket-id-Customer-Data-Indonesia\n📝 Description: The threat actor claims to be selling the customer data of Dewatiket. The data includes over 184,000 rows of records containing registration date, name, phone number, email, KTP (ID number), status, total spending, city, birthday, gender, etc",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Indonesia",
+                "Dewatiket"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-DATABASE-dewatiket-id-Customer-Data-Indonesia\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
