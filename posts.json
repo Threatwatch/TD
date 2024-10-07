@@ -9353,6 +9353,32 @@
                 "arkWebInformer.com ",
                 "e/MysteriousTeam0/5754\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4482,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4481,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 05:26:57\n🚨 Title: Alleged data leak of Town of Brookline\n🛡️ Victim Country: USA\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: town of brookline\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: henrymans0n\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-Town-of-brooklyn-workers-2024\n📝 Description: Threat actor claims to have leaked data from the Town of Brookline, the official website of Brookline, Massachusetts. The leaked data reportedly contains information such as names, addresses, phone numbers, emails, and other personal details.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Town",
+                "the Town of Brookline",
+                "Brookline",
+                "Massachusetts"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-Town-of-brooklyn-workers-2024\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
