@@ -10233,6 +10233,51 @@
                 "e/noname05716/9771\n📝 Descript",
                 "-host.net/check-report/1f0fd8c8kb4b"
             ]
+        },
+        {
+            "Message ID": 4559,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4558,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4557,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4556,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 08:47:21\n🚨 Title: NoName targets the website of Antwerpen\n🛡️ Victim Country: Belgium\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: antwerpen\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/noname05716/9771\n📝 Description: Proof of Downtime: http://check-host.net/check-report/1f0fdb83k549\nProof of Downtime: http://check-host.net/check-report/1f0fdd55k1fa",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Belgium"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/noname05716/9771\n📝 Descript",
+                "-host.net/check-report/1f0fdb83k549\nProof of Do",
+                "-host.net/check-report/1f0fdd55k1fa"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -20915,6 +20960,17 @@
                 "Italy",
                 "Spain",
                 "Yassir"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 969,
+            "Date": "2024-10-07",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇪🇸Spain - Ibermutua\n\nHunters International ransomware group claims to have breached Ibermutua, a mutual society collaborating with Spain's social security system.\n\nAllegedly, 647.7 GB (386,607 files) of data were exfiltrated, including source code, database information, passwords, PII, financial data, customer data, and government data.\n\nAt the time of writing, the Ibermutua website is not functioning.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Spain",
+                "Spain"
             ],
             "URLs": []
         }
