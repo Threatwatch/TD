@@ -9610,6 +9610,53 @@
                 "ews.com\n🌐 Vic",
                 "e/jakartacyberwhite/1665\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4505,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4504,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 06:26:21\n🚨 Title: ShadowDefenders targets the website of Sanguard\n🛡️ Victim Country: India\n🏭 Victim Industry: Energy & Utilities\n🏢 Victim Organization: sanguard\n🌐 Victim Site: \n📜 Category: Defacement\n🕵️‍♂️ Threat Actor: ShadowDefenders\n🌍 Network: telegram\n🔗 Claim: https://t.me/shadowdefendersgroup/491\n📝 Description: The group claims to have defaced the organization's website.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/shadowdefendersgroup/491\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4503,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4502,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 06:19:14\n🚨 Title: Moroccan Dragons targets the website of Emuna Academic College of Education\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Education\n🏢 Victim Organization: emuna academic college of education\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: Moroccan Dragons\n🌍 Network: telegram\n🔗 Claim: https://t.me/Moroccan_Dragons/611\n📝 Description: Proof of downtime: https://check-host.net/check-report/1f0f5b64kb79",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/Moroccan_Dragons/611\n📝 Descript",
+                "k-host.net/check-report/1f0f5b64kb79"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
