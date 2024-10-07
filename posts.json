@@ -12490,6 +12490,30 @@
             "URLs": [
                 "ttps://darkwebinformer.com/onion-lookup-tor-onion-address-lookup/"
             ]
+        },
+        {
+            "Message ID": 4749,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4748,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 17:50:52\n🚨 Title: Alleged sale of Club Movistar data\n🛡️ Victim Country: Argentina\n🏭 Victim Industry: Network & Telecommunications\n🏢 Victim Organization: club movistar\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: MileiSenpai\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-SELLING-ARGENTINA-CLUB-MOVISTAR-3-5M\n📝 Description: The threat actor claims to be selling Club Movistar data. The claimed data includes 3.4M users' ID, Status, Full Name, Personal Phrase, Email, Email Verification, Sex, Date of Birth, DNI, Number of Adults, Number of Teenagers, Number of Children, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Argentina",
+                "Email"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-SELLING-ARGENTINA-CLUB-MOVISTAR-3-5M\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
