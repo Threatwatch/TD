@@ -12786,6 +12786,29 @@
                 "e/KetapangGreyHatTeamV2/4094\n📝 Descript",
                 "k-host.net/check-report/1f12c74ak5e7"
             ]
+        },
+        {
+            "Message ID": 4774,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4773,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 18:49:42\n🚨 Title: RipperSec targets the website of SARAS\n🛡️ Victim Country: India\n🏭 Victim Industry: Government & Public Sector\n🏢 Victim Organization: saras -revenue management system\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: RipperSec\n🌍 Network: telegram\n🔗 Claim: https://t.me/RipperSecIO/6052\n📝 Description: Group claims to have taken down the website of SARAS.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/RipperSecIO/6052\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -16304,6 +16327,39 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2203,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2202,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2201,
+            "Date": "2024-10-07",
+            "Content": "🌐Target:\nhttps://new.embassies.gov.il/\n\n💻Check host:\nhttps://check-host.net/check-report/1f13b9eck965\n\n#free_palestine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://new.embassies.gov.il/\n",
+                "tps://check-host.net/check-report/1f13b9eck965\n\n"
+            ]
         }
     ],
     "Anonymous Chat": [
