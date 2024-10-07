@@ -9093,6 +9093,137 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4469,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4468,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 03:33:34\n🚨 Title: CyberVolk. Group. targets the website rabbit.itvision-eg.com\n🛡️ Victim Country: \n🏭 Victim Industry: \n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Defacement\n🕵️‍♂️ Threat Actor: CyberVolk. Group.\n🌍 Network: telegram\n🔗 Claim: https://t.me/CyberVolk_TNT/712\n📝 Description: The group claims to have defaced the website.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "bit.itvision-eg.com\n🛡️",
+                "e/CyberVolk_TNT/712\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4467,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4466,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 03:30:02\n🚨 Title: CyberVolk. Group. targets the website of Yamanlar Petrol\n🛡️ Victim Country: Turkey\n🏭 Victim Industry: Oil & Gas\n🏢 Victim Organization: yamanlar petrol\n🌐 Victim Site: \n📜 Category: Defacement\n🕵️‍♂️ Threat Actor: CyberVolk. Group.\n🌍 Network: telegram\n🔗 Claim: https://t.me/CyberVolk_TNT/711\n📝 Description: The group claims to have defaced the organization's website.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "Turkey"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/CyberVolk_TNT/711\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4465,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4464,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 03:23:55\n🚨 Title: INDOHAXSEC claims to target Israel and India\n🛡️ Victim Country: Israel\n🏭 Victim Industry: \n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Alert\n🕵️‍♂️ Threat Actor: INDOHAXSEC\n🌍 Network: telegram\n🔗 Claim: https://t.me/INDOHAXSEC/3167\n📝 Description: A recent post by the group indicates that they are targeting Israel and India.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel",
+                "India",
+                "Israel",
+                "Israel",
+                "India"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/INDOHAXSEC/3167\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4463,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4462,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 03:17:42\n🚨 Title: Broward Realty Corp falls victim to Everest Ransomware\n🛡️ Victim Country: USA\n🏭 Victim Industry: Real Estate\n🏢 Victim Organization: broward realty corp\n🌐 Victim Site: \n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: Everest\n🌍 Network: tor\n🔗 Claim: http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/broward-realty-corp/\n📝 Description: The group claims to have obtained organization's database and plans to publish it on October 21,2024 . Sample screenshots are provided in their dark web portal.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Everest Ransomware"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "omocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/broward-realty-corp/\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4461,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4460,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 03:01:57\n🚨 Title: Alleged leak of 270 million login data for Pelephone Israel\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Network & Telecommunications\n🏢 Victim Organization: pelephone\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: Anonymous KSA\n🌍 Network: telegram\n🔗 Claim: https://t.me/Anonymouz_KSA/633\n📝 Description: The group claims to have obtained 270 million login data for the Israeli company Pelephone.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Israel",
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/Anonymouz_KSA/633\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4459,
+            "Date": "2024-10-07",
+            "Content": "Go big, or go home. 👨‍💻",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -12528,6 +12659,16 @@
                 "ttps://campus.gov.il/\n",
                 "tps://check-host.net/check-report/1f0d434dk9bf\n\n"
             ]
+        },
+        {
+            "Message ID": 2192,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
