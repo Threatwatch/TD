@@ -12202,6 +12202,64 @@
                 "https://youtube.com/@DarkWebInformer",
                 "https://infosec.exchange/@DarkWebInformer"
             ]
+        },
+        {
+            "Message ID": 4727,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4726,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4725,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 16:16:55\n🚨 Title: TrulySmall falls victim to RansomHub Ransomware\n🛡️ Victim Country: Canada\n🏭 Victim Industry: Software\n🏢 Victim Organization: trulysmall\n🌐 Victim Site: \n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: RansomHub\n🌍 Network: tor\n🔗 Claim: http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion/c32b0905-35c9-4867-a0c9-4e7f4bb75849/\n📝 Description: Group claims to have access to the organization's data and sample screenshots are provided on their dark web portal.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Canada"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "omxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion/c32b0905-35c9-4867-a0c9-4e7f4bb75849/\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4724,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4723,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 16:14:57\n🚨 Title: Database of Raffle 321 allegedly leaked\n🛡️ Victim Country: Brazil\n🏭 Victim Industry: Online Publishing\n🏢 Victim Organization: raffle 321\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: Chucky\n🌍 Network: openweb\n🔗 Claim: https://leakbase.io/threads/database-leaked-rifa321-com-7m.30142/\n📝 Description: The threat actor claims to be leaked database of Raffle 321. The leaked data contains 7 million records in SQL format, which contains information such as Name, Email, Phone Number, Password, social media accounts details, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Brazil",
+                "Name",
+                "Password"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "kbase.io/threads/database-leaked-rifa321-com-7m.30142/\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -15690,6 +15748,16 @@
                 "https://kataeb.org",
                 "https://check-host.net/check-report/1f1275bfk7d"
             ]
+        },
+        {
+            "Message ID": 2198,
+            "Date": "2024-10-07",
+            "Content": "My friend is in Lebanon, \n\nWe will launch an attack on the Israeli network \n\n(Servers, various operating systems, and websites.)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Lebanon"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
