@@ -83,12 +83,27 @@ def parse_group_3(content, message_id):
     }
 
 def parse_group_4(content, message_id):
-    return {
-        'Message ID': message_id,
-        'Title': extract_field(r"Title:\s*(.*)", content),
-        'Date': extract_field(r"Date:\s*(.*)", content),
-        'Source': extract_field(r"Source:\s*(https?://[^\s]+)", content)
-    }
+    # Check if it's a "Data dump" style message by looking for the "Title" field
+    if "Title:" in content:
+        return {
+            'Message ID': message_id,
+            'Title': extract_field(r"Title:\s*(.*)", content),
+            'Date': extract_field(r"Date:\s*(.*)", content),
+            'Source': extract_field(r"Source:\s*(https?://[^\s]+)", content)
+        }
+    
+    # Check if it's a CVE-related message by looking for the "CVE-ID" field
+    elif "CVE-ID:" in content:
+        return {
+            'Message ID': message_id,
+            'CVE-ID': extract_field(r"CVE-ID:\s*(.*)", content),
+            'Source': extract_field(r"Source:\s*(https?://[^\s]+)", content),
+            'Description': extract_field(r"Description:\s*(.*)", content),
+            'Publication Date': extract_field(r"Publication Date:\s*(.*)", content)
+        }
+
+    # If neither structure matches, return None (optional)
+    return None
 
 # Determine the parsing logic based on the channel URL
 def parse_message(channel_url, content, message_id):

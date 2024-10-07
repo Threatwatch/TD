@@ -2540,28 +2540,118 @@
     ],
     "Cyberthint's Dark Monitor": [
         {
-            "Message ID": 86376,
-            "Title": "N/A",
+            "Message ID": 86387,
+            "Title": "American Water shuts down customer portal amid cybersecurity incident",
             "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47968"
+            "Source": "https://www.scworld.com/news/american-water-shuts-down-customer-portal-amid-cybersecurity-incident"
+        },
+        {
+            "Message ID": 86386,
+            "Title": "ADT discloses second breach in 2 months, hacked via stolen credentials",
+            "Date": "2024-10-07",
+            "Source": "https://www.bleepingcomputer.com/news/security/adt-discloses-second-breach-in-2-months-hacked-via-stolen-credentials/"
+        },
+        {
+            "Message ID": 86385,
+            "CVE-ID": "CVE-2024-45060",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-45060",
+            "Description": "PHPSpreadsheet is a pure PHP library for reading and writing spreadsheet files. One of the sample scripts in PhpSpreadsheet is susceptible to a cross-site scripting (XSS) vulnerability due to improper handling of input where a number is expected leading to formula injection. The code in in `45_Quadratic_equation_solver.php` concatenates the user supplied parameters directly into spreadsheet formulas. This allows an attacker to take control over the formula and output unsanitized data into the page, resulting in JavaScript execution. This issue has been addressed in release versions 1.29.2, 2.1.1, and 2.3.0. All users are advised to upgrade. There are no known workarounds for this vulnerability.",
+            "Publication Date": "Tue Oct 08 01:13:36 2024",
+            "Date": "2024-10-07"
+        },
+        {
+            "Message ID": 86384,
+            "CVE-ID": "CVE-2024-45290",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-45290",
+            "Description": "PHPSpreadsheet is a pure PHP library for reading and writing spreadsheet files. It's possible for an attacker to construct an XLSX file which links media from external URLs. When opening the XLSX file, PhpSpreadsheet retrieves the image size and type by reading the file contents, if the provided path is a URL. By using specially crafted `php://filter` URLs an attacker can leak the contents of any file or URL. Note that this vulnerability is different from GHSA-w9xv-qf98-ccq4, and resides in a different component. An attacker can access any file on the server, or leak information form arbitrary URLs, potentially exposing sensitive information such as AWS IAM credentials. This issue has been addressed in release versions 1.29.2, 2.1.1, and 2.3.0. All users are advised to upgrade. There are no known workarounds for this vulnerability.",
+            "Publication Date": "Tue Oct 08 01:13:26 2024",
+            "Date": "2024-10-07"
+        },
+        {
+            "Message ID": 86383,
+            "CVE-ID": "CVE-2024-45291",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-45291",
+            "Description": "PHPSpreadsheet is a pure PHP library for reading and writing spreadsheet files. It's possible for an attacker to construct an XLSX file that links images from arbitrary paths. When embedding images has been enabled in HTML writer with `$writer->setEmbedImages(true);` those files will be included in the output as `data:` URLs, regardless of the file's type. Also URLs can be used for embedding, resulting in a Server-Side Request Forgery vulnerability. When embedding images has been enabled, an attacker can read arbitrary files on the server and perform arbitrary HTTP GET requests. Note that any PHP protocol wrappers can be used, meaning that if for example the `expect://` wrapper is enabled, also remote code execution is possible. This issue has been addressed in release versions 1.29.2, 2.1.1, and 2.3.0. All users are advised to upgrade. there are no known workarounds for this vulnerability.",
+            "Publication Date": "Tue Oct 08 01:13:15 2024",
+            "Date": "2024-10-07"
+        },
+        {
+            "Message ID": 86382,
+            "CVE-ID": "CVE-2024-45919",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-45919",
+            "Description": "A security flaw has been discovered in Solvait version 24.4.2 that allows an attacker to elevate their privileges. By manipulating the Request ID and Action Type parameters in /AssignToMe/SetAction, an attacker can bypass approval workflows leading to unauthorized access to sensitive information or approval of fraudulent requests.",
+            "Publication Date": "Tue Oct 08 01:13:04 2024",
+            "Date": "2024-10-07"
+        },
+        {
+            "Message ID": 86381,
+            "CVE-ID": "CVE-2024-47610",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47610",
+            "Description": "InvenTree is an Open Source Inventory Management System. In affected versions of InvenTree it is possible for a registered user to store javascript in markdown notes fields, which are then displayed to other logged in users who visit the same page and executed. The vulnerability has been addressed as follows: 1. HTML sanitization has been enabled in the front-end markdown rendering library - `easymde`. 2. Stored markdown is also validated on the backend, to ensure that malicious markdown is not stored in the database. These changes are available in release versions 0.16.5 and later. All users are advised to upgrade. There are no workarounds, an update is required to get the new validation functions.",
+            "Publication Date": "Tue Oct 08 01:12:53 2024",
+            "Date": "2024-10-07"
+        },
+        {
+            "Message ID": 86380,
+            "CVE-ID": "CVE-2024-47772",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47772",
+            "Description": "Discourse is an open source platform for community discussion. An attacker can execute arbitrary JavaScript on users' browsers by sending a maliciously crafted chat message and replying to it. This issue only affects sites with CSP disabled. This problem is patched in the latest version of Discourse. All users are advised to upgrade. Users unable to upgrade should ensure CSP is enabled on the forum. Users who do upgrade should also consider enabling a CSP as well as a proactive measure.",
+            "Publication Date": "Tue Oct 08 01:12:42 2024",
+            "Date": "2024-10-07"
+        },
+        {
+            "Message ID": 86379,
+            "CVE-ID": "CVE-2024-47967",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47967",
+            "Description": "Improper resource initialization handling in firmware of some Solidigm DC Products may allow an attacker to potentially enable denial of service.",
+            "Publication Date": "Tue Oct 08 01:12:32 2024",
+            "Date": "2024-10-07"
+        },
+        {
+            "Message ID": 86378,
+            "CVE-ID": "CVE-2024-47974",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47974",
+            "Description": "Race condition during resource shutdown in some Solidigm DC Products may allow an attacker to potentially enable denial of service.",
+            "Publication Date": "Tue Oct 08 01:12:21 2024",
+            "Date": "2024-10-07"
+        },
+        {
+            "Message ID": 86377,
+            "Title": "DemonForums - [GIVEAWAY] 12,000 || Office 365 B2B || Email leads || Multiple countries",
+            "Date": "2024-10-07",
+            "Source": "N/A"
+        },
+        {
+            "Message ID": 86376,
+            "CVE-ID": "CVE-2024-47968",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47968",
+            "Description": "Improper resource shutdown in middle of certain operations on some Solidigm DC Products may allow an attacker to potentially enable denial of service.",
+            "Publication Date": "Tue Oct 08 01:01:01 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86375,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47817"
+            "CVE-ID": "CVE-2024-47817",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47817",
+            "Description": "Lara-zeus Dynamic Dashboard simple way to manage widgets for your website landing page, and filament dashboard and Lara-zeus artemis is a collection of themes for the lara-zeus ecosystem. If values passed to a paragraph widget are not valid and contain a specific set of characters, applications are vulnerable to XSS attack against a user who opens a page on which a paragraph widget is rendered. Users are advised to upgrade to the appropriate fix versions detailed in the advisory metadata. There are no known workarounds for this vulnerability.",
+            "Publication Date": "Tue Oct 08 01:00:51 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86374,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47782"
+            "CVE-ID": "CVE-2024-47782",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47782",
+            "Description": "WikiDiscover is an extension designed for use with a CreateWiki managed farm to display wikis. Special:WikiDiscover is a special page that lists all wikis on the wiki farm. However, the special page does not make any effort to escape the wiki name or description. Therefore, if a wiki sets its name and/or description to an XSS payload, the XSS will execute whenever the wiki is shown on Special:WikiDiscover. This issue has been patched with commit `2ce846dd93` and all users are advised to apply that patch. User unable to upgrade should block access to `Special:WikiDiscover`.",
+            "Publication Date": "Tue Oct 08 01:00:40 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86373,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47781"
+            "CVE-ID": "CVE-2024-47781",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47781",
+            "Description": "CreateWiki is an extension used at Miraheze for requesting & creating wikis. The name of requested wikis is not escaped on Special:RequestWikiQueue, so a user can insert arbitrary HTML that is displayed in the request wiki queue when requesting a wiki. If a wiki creator comes across the XSS payload, their user session can be abused to retrieve deleted wiki requests, which typically contains private information. Likewise, this can also be abused on those with the ability to suppress requests to view sensitive information. This issue has been patched with commit `693a220` and all users are advised to apply the patch. Users unable to upgrade should disable Javascript and/or prevent access to the vulnerable page (Special:RequestWikiQueue).",
+            "Publication Date": "Tue Oct 08 01:00:29 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86372,
@@ -2589,207 +2679,227 @@
         },
         {
             "Message ID": 86368,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-31227"
+            "CVE-ID": "CVE-2024-31227",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-31227",
+            "Description": "Redis is an open source, in-memory database that persists on disk. An authenticated with sufficient privileges may create a malformed ACL selector which, when accessed, triggers a server panic and subsequent denial of service. The problem exists in Redis 7 prior to versions 7.2.6 and 7.4.1. Users are advised to upgrade. There are no known workarounds for this vulnerability.",
+            "Publication Date": "Tue Oct 08 00:15:30 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86367,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-31449"
+            "CVE-ID": "CVE-2024-31449",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-31449",
+            "Description": "Redis is an open source, in-memory database that persists on disk. An authenticated user may use a specially crafted Lua script to trigger a stack buffer overflow in the bit library, which may potentially lead to remote code execution. The problem exists in all versions of Redis with Lua scripting. This problem has been fixed in Redis versions 6.2.16, 7.2.6, and 7.4.1. Users are advised to upgrade. There are no known workarounds for this vulnerability.",
+            "Publication Date": "Tue Oct 08 00:15:19 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86366,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-45051"
+            "CVE-ID": "CVE-2024-45051",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-45051",
+            "Description": "Discourse is an open source platform for community discussion. A maliciously crafted email address could allow an attacker to bypass domain-based restrictions and gain access to private sites, categories and/or groups. This issue has been patched in the latest stable, beta and tests-passed version of Discourse. All users area are advised to upgrade. There are no known workarounds for this vulnerability.",
+            "Publication Date": "Tue Oct 08 00:15:08 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86365,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-45297"
+            "CVE-ID": "CVE-2024-45297",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-45297",
+            "Description": "Discourse is an open source platform for community discussion. Users can see topics with a hidden tag if they know the label/name of that tag. This issue has been patched in the latest stable, beta and tests-passed version of Discourse. All users area are advised to upgrade. There are no known workarounds for this vulnerability.",
+            "Publication Date": "Tue Oct 08 00:14:53 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86364,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-43789"
+            "CVE-ID": "CVE-2024-43789",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-43789",
+            "Description": "Discourse is an open source platform for community discussion. A user can create a post with many replies, and then attempt to fetch them all at once. This can potentially reduce the availability of a Discourse instance. This problem has been patched in the latest version of Discourse. All users area are advised to upgrade. There are no known workarounds for this vulnerability.",
+            "Publication Date": "Tue Oct 08 00:14:39 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86363,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-9225"
+            "CVE-ID": "CVE-2024-9225",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-9225",
+            "Description": "The SEOPress – On-site SEO plugin for WordPress is vulnerable to Reflected Cross-Site Scripting due to the use of add_query_arg & remove_query_arg without appropriate escaping on the URL in all versions up to, and including, 8.1.1. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.",
+            "Publication Date": "Tue Oct 08 00:14:28 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86362,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-45293"
+            "CVE-ID": "CVE-2024-45293",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-45293",
+            "Description": "PHPSpreadsheet is a pure PHP library for reading and writing spreadsheet files. The security scanner responsible for preventing XXE attacks in the XLSX reader can be bypassed by slightly modifying the XML structure, utilizing white-spaces. On servers that allow users to upload their own Excel (XLSX) sheets, Server files and sensitive information can be disclosed by providing a crafted sheet. The security scan function in src/PhpSpreadsheet/Reader/Security/XmlScanner.php contains a flawed XML encoding check to retrieve the input file's XML encoding in the toUtf8 function. The function searches for the XML encoding through a defined regex which looks for `encoding=\"*\"` and/or `encoding='*'`, if not found, it defaults to the UTF-8 encoding which bypasses the conversion logic. This logic can be used to pass a UTF-7 encoded XXE payload, by utilizing a whitespace before or after the = in the attribute definition. Sensitive information disclosure through the XXE on sites that allow users to upload their own excel spreadsheets, and parse them using PHPSpreadsheet's Excel parser. This issue has been addressed in release versions 1.29.1, 2.1.1, and 2.3.0. All users are advised to upgrade. There are no known workarounds for this vulnerability.",
+            "Publication Date": "Tue Oct 08 00:14:17 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86361,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-45292"
+            "CVE-ID": "CVE-2024-45292",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-45292",
+            "Description": "PHPSpreadsheet is a pure PHP library for reading and writing spreadsheet files. `\\PhpOffice\\PhpSpreadsheet\\Writer\\Html` does not sanitize \"javascript:\" URLs from hyperlink `href` attributes, resulting in a Cross-Site Scripting vulnerability. This issue has been addressed in release versions 1.29.2, 2.1.1, and 2.3.0. All users are advised to upgrade. There are no known workarounds for this vulnerability.",
+            "Publication Date": "Tue Oct 08 00:14:06 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86360,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-3037"
+            "CVE-ID": "CVE-2024-3037",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-3037",
+            "Description": "An arbitrary file deletion vulnerability exists in PaperCut NG/MF, specifically affecting Windows servers with Web Print enabled. To exploit this vulnerability, an attacker must first obtain local login access to the Windows Server hosting PaperCut NG/MF and be capable of executing low-privilege code directly on the server.",
+            "Publication Date": "Tue Oct 08 00:13:55 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86359,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-9513"
+            "CVE-ID": "CVE-2024-9513",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-9513",
+            "Description": "A vulnerability was found in Netadmin Software NetAdmin IAM up to 3.5 and classified as problematic. Affected by this issue is some unknown functionality of the file /controller/api/Answer/ReturnUserQuestionsFilled of the component HTTP POST Request Handler. The manipulation of the argument username leads to information exposure through discrepancy. The attack may be launched remotely. The complexity of an attack is rather high. The exploitation is known to be difficult. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure is planning to release a fix in mid-October 2024.",
+            "Publication Date": "Tue Oct 08 00:13:44 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86358,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-43362"
+            "CVE-ID": "CVE-2024-43362",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-43362",
+            "Description": "Cacti is an open source performance and fault management framework. The `fileurl` parameter is not properly sanitized when saving external links in `links.php` . Morever, the said fileurl is placed in some html code which is passed to the `print` function in `link.php` and `index.php`, finally leading to stored XSS. Users with the privilege to create external links can manipulate the `fileurl` parameter in the http post request while creating external links to perform stored XSS attacks. The vulnerability known as XSS (Cross-Site Scripting) occurs when an application allows untrusted user input to be displayed on a web page without proper validation or escaping. This issue has been addressed in release version 1.2.28. All users are advised to upgrade. There are no known workarounds for this issue.",
+            "Publication Date": "Tue Oct 08 00:13:33 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86357,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-43364"
+            "CVE-ID": "CVE-2024-43364",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-43364",
+            "Description": "Cacti is an open source performance and fault management framework. The `title` parameter is not properly sanitized when saving external links in links.php . Morever, the said title parameter is stored in the database and reflected back to user in index.php, finally leading to stored XSS. Users with the privilege to create external links can manipulate the `title` parameter in the http post request while creating external links to perform stored XSS attacks. The vulnerability known as XSS (Cross-Site Scripting) occurs when an application allows untrusted user input to be displayed on a web page without proper validation or escaping. This issue has been addressed in release version 1.2.28. All users are advised to upgrade. There are no known workarounds for this vulnerability.",
+            "Publication Date": "Tue Oct 08 00:13:22 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86356,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-43365"
+            "CVE-ID": "CVE-2024-43365",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-43365",
+            "Description": "Cacti is an open source performance and fault management framework. The`consolenewsection` parameter is not properly sanitized when saving external links in links.php . Morever, the said consolenewsection parameter is stored in the database and reflected back to user in `index.php`, finally leading to stored XSS. Users with the privilege to create external links can manipulate the “consolenewsection” parameter in the http post request while creating external links to perform stored XSS attacks. The vulnerability known as XSS (Cross-Site Scripting) occurs when an application allows untrusted user input to be displayed on a web page without proper validation or escaping. This issue has been addressed in release version 1.2.28. All users are advised to upgrade. There are no known workarounds for this vulnerability.",
+            "Publication Date": "Tue Oct 08 00:13:12 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86355,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-8758"
+            "CVE-ID": "CVE-2024-8758",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-8758",
+            "Description": "The Quiz and Survey Master (QSM)  WordPress plugin before 9.1.3 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).",
+            "Publication Date": "Tue Oct 08 00:13:01 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86354,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-43363"
+            "CVE-ID": "CVE-2024-43363",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-43363",
+            "Description": "Cacti is an open source performance and fault management framework. An admin user can create a device with a malicious hostname containing php code and repeat the installation process (completing only step 5 of the installation process is enough, no need to complete the steps before or after it) to use a php file as the cacti log file. After having the malicious hostname end up in the logs (log poisoning), one can simply go to the log file url to execute commands to achieve RCE. This issue has been addressed in version 1.2.28 and all users are advised to upgrade. There are no known workarounds for this vulnerability.",
+            "Publication Date": "Tue Oct 08 00:12:50 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86353,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47973"
-        },
-        {
-            "Message ID": 86352,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86351,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86350,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86349,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86348,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
+            "CVE-ID": "CVE-2024-47973",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47973",
+            "Description": "In some Solidigm DC Products, a defect in device overprovisioning may provide information disclosure to an attacker.",
+            "Publication Date": "Tue Oct 08 00:12:39 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86347,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-9018"
+            "CVE-ID": "CVE-2024-9018",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-9018",
+            "Description": "The WP Easy Gallery – WordPress Gallery Plugin plugin for WordPress is vulnerable to time-based SQL Injection via the ‘key’ parameter in all versions up to, and including, 4.8.5 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for authenticated attackers, with Contributor-level access and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.",
+            "Publication Date": "Tue Oct 08 00:00:37 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86346,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-8799"
+            "CVE-ID": "CVE-2024-8799",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-8799",
+            "Description": "The Custom Banners plugin for WordPress is vulnerable to Reflected Cross-Site Scripting due to the use of add_query_arg without appropriate escaping on the URL in all versions up to, and including, 3.3. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.",
+            "Publication Date": "Tue Oct 08 00:00:26 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86345,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-46278"
+            "CVE-ID": "CVE-2024-46278",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-46278",
+            "Description": "Teedy 1.11 is vulnerable to Cross Site Scripting (XSS) via the management console.",
+            "Publication Date": "Tue Oct 08 00:00:15 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86344,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-8505"
+            "CVE-ID": "CVE-2024-8505",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-8505",
+            "Description": "The WordPress Infinite Scroll – Ajax Load More plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘button_label’ parameter in all versions up to, and including, 7.1.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.",
+            "Publication Date": "Tue Oct 08 00:00:04 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86343,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-45374"
-        },
-        {
-            "Message ID": 86342,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
+            "CVE-ID": "CVE-2024-45374",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-45374",
+            "Description": "In the goTenna Pro ATAK Plugin application, the encryption keys are",
+            "Publication Date": "Mon Oct 07 23:59:53 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86341,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-42831"
+            "CVE-ID": "CVE-2024-42831",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-42831",
+            "Description": "A reflected cross-site scripting (XSS) vulnerability in Elaine's Realtime CRM Automation v6.18.17 allows attackers to execute arbitrary JavaScript code in the web browser of a user via injecting a crafted payload into the dialog parameter at wrapper_dialog.php.",
+            "Publication Date": "Mon Oct 07 23:26:31 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86340,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-44674"
+            "CVE-ID": "CVE-2024-44674",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-44674",
+            "Description": "D-Link COVR-2600R FW101b05 is vulnerable to Buffer Overflow. In the function sub_24E28, the HTTP_REFERER is obtained through an environment variable, and this field is controllable, allowing it to be used as the value for src.",
+            "Publication Date": "Mon Oct 07 23:26:20 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86339,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-38911"
+            "CVE-ID": "CVE-2023-38911",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-38911",
+            "Description": "A Cross-Site Scripting (XSS) vulnerability in CSZ CMS 1.3.0 allows attackers to execute arbitrary code via a crafted payload to the Gallery parameter in the YouTube URL fields.",
+            "Publication Date": "Mon Oct 07 23:26:09 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86338,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47972"
+            "CVE-ID": "CVE-2024-47972",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47972",
+            "Description": "Improper resource management in firmware of some Solidigm DC Products may allow an attacker to potentially control the performance of the resource.",
+            "Publication Date": "Mon Oct 07 23:25:58 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86337,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47971"
+            "CVE-ID": "CVE-2024-47971",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47971",
+            "Description": "Improper error handling in firmware of some SSD DC Products may allow an attacker to enable denial of service.",
+            "Publication Date": "Mon Oct 07 23:25:47 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86336,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-35887"
+            "CVE-ID": "CVE-2023-35887",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-35887",
+            "Description": "Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Apache Software Foundation Apache MINA.",
+            "Publication Date": "Mon Oct 07 23:25:36 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86335,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-38910"
+            "CVE-ID": "CVE-2023-38910",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-38910",
+            "Description": "CSZ CMS 1.3.0 is vulnerable to cross-site scripting (XSS), which allows attackers to execute arbitrary web scripts or HTML via a crafted payload entered in the 'Carousel Wiget' section and choosing our carousel widget created above, in 'Photo URL' and 'YouTube URL' plugin.",
+            "Publication Date": "Mon Oct 07 23:25:26 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86334,
@@ -2799,21 +2909,27 @@
         },
         {
             "Message ID": 86333,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-38890"
+            "CVE-ID": "CVE-2023-38890",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-38890",
+            "Description": "Online Shopping Portal Project 3.1 allows remote attackers to execute arbitrary SQL commands/queries via the login form, leading to unauthorized access and potential data manipulation. This vulnerability arises due to insufficient validation of user-supplied input in the username field, enabling SQL Injection attacks.",
+            "Publication Date": "Mon Oct 07 23:14:05 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86332,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-38839"
+            "CVE-ID": "CVE-2023-38839",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-38839",
+            "Description": "SQL injection vulnerability in Kidus Minimati v.1.0.0 allows a remote attacker to obtain sensitive information via theID parameter in the fulldelete.php component.",
+            "Publication Date": "Mon Oct 07 23:13:54 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86331,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-32200"
+            "CVE-ID": "CVE-2023-32200",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-32200",
+            "Description": "There is insufficient restrictions of called script functions in Apache Jena",
+            "Publication Date": "Mon Oct 07 23:13:43 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86330,
@@ -2823,117 +2939,139 @@
         },
         {
             "Message ID": 86329,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-7671"
+            "CVE-ID": "CVE-2024-7671",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-7671",
+            "Description": "A maliciously crafted DWFX file, when parsed in dwfcore.dll through Autodesk Navisworks, can force an Out-of-Bounds Write. A malicious actor can leverage this vulnerability to cause a crash, write sensitive data, or execute arbitrary code in the context of the current process.",
+            "Publication Date": "Mon Oct 07 23:02:18 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86328,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-7673"
+            "CVE-ID": "CVE-2024-7673",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-7673",
+            "Description": "A maliciously crafted DWFX file, when parsed in w3dtk.dll through Autodesk Navisworks, can force a Heap-based Buffer Overflow. A malicious actor can leverage this vulnerability to cause a crash or execute arbitrary code in the context of the current process.",
+            "Publication Date": "Mon Oct 07 23:02:07 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86327,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-7674"
+            "CVE-ID": "CVE-2024-7674",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-7674",
+            "Description": "A maliciously crafted DWF file, when parsed in dwfcore.dll through Autodesk Navisworks, can force a Heap-based Buffer Overflow. A malicious actor can leverage this vulnerability to cause a crash or execute arbitrary code in the context of the current process.",
+            "Publication Date": "Mon Oct 07 23:01:56 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86326,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-7675"
+            "CVE-ID": "CVE-2024-7675",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-7675",
+            "Description": "A maliciously crafted DWF file, when parsed in w3dtk.dll through Autodesk Navisworks, can force a Use-After-Free. A malicious actor can leverage this vulnerability to cause a crash or execute arbitrary code in the context of the current process.",
+            "Publication Date": "Mon Oct 07 23:01:45 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86325,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-7672"
+            "CVE-ID": "CVE-2024-7672",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-7672",
+            "Description": "A maliciously crafted DWF file, when parsed in dwfcore.dll through Autodesk Navisworks, can force an Out-of-Bounds Write. A malicious actor can leverage this vulnerability to cause a crash, write sensitive data, or execute arbitrary code in the context of the current process.",
+            "Publication Date": "Mon Oct 07 23:01:34 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86324,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47556"
+            "CVE-ID": "CVE-2024-47556",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47556",
+            "Description": "Pre-Auth RCE via Path Traversal",
+            "Publication Date": "Mon Oct 07 23:01:23 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86323,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-6362"
+            "CVE-ID": "CVE-2023-6362",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-6362",
+            "Description": "A vulnerability has been discovered in Winhex affecting version 16.1 SR-1 and 20.4. This vulnerability consists of a buffer overflow controlling the Structured Exception Handler (SEH) registers. This could allow attackers to execute arbitrary code via a long filename argument.",
+            "Publication Date": "Mon Oct 07 23:01:12 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86322,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-7670"
+            "CVE-ID": "CVE-2024-7670",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-7670",
+            "Description": "A maliciously crafted DWFX file, when parsed in w3dtk.dll through Autodesk Navisworks, can force an Out-of-Bounds Read. A malicious actor can leverage this vulnerability to cause a crash, read sensitive data, or execute arbitrary code in the context of the current process.",
+            "Publication Date": "Mon Oct 07 23:01:01 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86321,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-39666"
+            "CVE-ID": "CVE-2023-39666",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-39666",
+            "Description": "D-Link DIR-842 fw_revA_1-02_eu_multi_20151008 was discovered to contain multiple buffer overflows in the fgets function via the acStack_120 and acStack_220 parameters.",
+            "Publication Date": "Mon Oct 07 23:00:50 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86320,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-27458"
+            "CVE-ID": "CVE-2024-27458",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-27458",
+            "Description": "A potential security vulnerability has been identified in the HP Hotkey Support software, which might allow local escalation of privilege. HP is releasing mitigation for the potential vulnerability. Customers using HP Programmable Key are recommended to update HP Hotkey Support.",
+            "Publication Date": "Mon Oct 07 23:00:39 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86319,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-39665"
+            "CVE-ID": "CVE-2023-39665",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-39665",
+            "Description": "D-Link DIR-868L fw_revA_1-12_eu_multi_20170316 was discovered to contain a buffer overflow via the acStack_50 parameter.",
+            "Publication Date": "Mon Oct 07 23:00:28 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86318,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-44068"
+            "CVE-ID": "CVE-2024-44068",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-44068",
+            "Description": "An issue was discovered in the m2m scaler driver in Samsung Mobile Processor and Wearable Processor Exynos 9820, 9825, 980, 990, 850,and W920. A Use-After-Free in the mobile processor leads to privilege escalation.",
+            "Publication Date": "Mon Oct 07 23:00:17 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86317,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-30515"
+            "CVE-ID": "CVE-2024-30515",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-30515",
+            "Description": "Missing Authorization vulnerability in Pixelite Events Manager.This issue affects Events Manager: from n/a through 6.4.6.4.",
+            "Publication Date": "Mon Oct 07 22:48:55 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86316,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47557"
+            "CVE-ID": "CVE-2024-47557",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47557",
+            "Description": "Pre-Auth RCE via Path Traversal",
+            "Publication Date": "Mon Oct 07 22:48:44 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86315,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47558"
+            "CVE-ID": "CVE-2024-47558",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47558",
+            "Description": "Authenticated RCE via Path Traversal",
+            "Publication Date": "Mon Oct 07 22:48:33 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86314,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-45894"
-        },
-        {
-            "Message ID": 86313,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86312,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
+            "CVE-ID": "CVE-2024-45894",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-45894",
+            "Description": "BlueCMS 1.6 suffers from Arbitrary File Deletion via the file_name parameter in an /admin/database.php?act=del request.",
+            "Publication Date": "Mon Oct 07 22:48:22 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86311,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47559"
+            "CVE-ID": "CVE-2024-47559",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47559",
+            "Description": "Authenticated RCE via Path Traversal",
+            "Publication Date": "Mon Oct 07 22:36:45 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86310,
@@ -2943,15 +3081,19 @@
         },
         {
             "Message ID": 86309,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-23984"
+            "CVE-ID": "CVE-2024-23984",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-23984",
+            "Description": "Observable discrepancy in RAPL interface for some Intel(R) Processors may allow a privileged user to potentially enable information disclosure via local access.",
+            "Publication Date": "Mon Oct 07 22:23:51 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86308,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-34395"
+            "CVE-ID": "CVE-2023-34395",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-34395",
+            "Description": "Improper Neutralization of Argument Delimiters in a Command ('Argument Injection') vulnerability in Apache Software Foundation Apache Airflow ODBC Provider.",
+            "Publication Date": "Mon Oct 07 22:23:40 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86307,
@@ -2961,183 +3103,73 @@
         },
         {
             "Message ID": 86306,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-35798"
+            "CVE-ID": "CVE-2023-35798",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-35798",
+            "Description": "Input Validation vulnerability in Apache Software Foundation Apache Airflow ODBC Provider, Apache Software Foundation Apache Airflow MSSQL Provider.This vulnerability is considered low since it requires DAG code to use `get_sqlalchemy_connection` and someone with access to connection resources specifically updating the connection to exploit it.",
+            "Publication Date": "Mon Oct 07 22:12:20 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86305,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-9289"
+            "CVE-ID": "CVE-2024-9289",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-9289",
+            "Description": "The WordPress & WooCommerce Affiliate Program plugin for WordPress is vulnerable to authentication bypass in all versions up to, and including, 8.4.1. This is due to the rtwwwap_login_request_callback() function not properly validating a user's identity prior to authenticating them to the site. This makes it possible for unauthenticated attackers to log in as any user, including administrators, granted they have access to the administrator's email.",
+            "Publication Date": "Mon Oct 07 22:12:09 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86304,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-22886"
+            "CVE-ID": "CVE-2023-22886",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-22886",
+            "Description": "Improper Input Validation vulnerability in Apache Software Foundation Apache Airflow JDBC Provider.",
+            "Publication Date": "Mon Oct 07 22:11:58 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86303,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-43047"
+            "CVE-ID": "CVE-2024-43047",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-43047",
+            "Description": "Memory corruption while maintaining memory maps of HLOS memory.",
+            "Publication Date": "Mon Oct 07 22:11:47 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86302,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-35797"
+            "CVE-ID": "CVE-2023-35797",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-35797",
+            "Description": "Improper Input Validation vulnerability in Apache Software Foundation Apache Airflow Hive Provider.",
+            "Publication Date": "Mon Oct 07 22:11:36 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86301,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-39669"
+            "CVE-ID": "CVE-2023-39669",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-39669",
+            "Description": "D-Link DIR-880 A1_FW107WWb08 was discovered to contain a NULL pointer dereference in the function FUN_00010824.",
+            "Publication Date": "Mon Oct 07 22:11:25 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86300,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-39668"
+            "CVE-ID": "CVE-2023-39668",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-39668",
+            "Description": "D-Link DIR-868L fw_revA_1-12_eu_multi_20170316 was discovered to contain a buffer overflow via the param_2 parameter in the inet_ntoa() function.",
+            "Publication Date": "Mon Oct 07 22:11:14 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86299,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47555"
-        },
-        {
-            "Message ID": 86298,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86297,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86296,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86295,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86294,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86293,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86292,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86291,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86290,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86289,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
+            "CVE-ID": "CVE-2024-47555",
+            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47555",
+            "Description": "Missing Authentication - User & System Configuration",
+            "Publication Date": "Mon Oct 07 22:11:04 2024",
+            "Date": "2024-10-07"
         },
         {
             "Message ID": 86288,
             "Title": "Android security advisory – October 2024 Monthly Rollup (AV24-566)",
             "Date": "2024-10-07",
             "Source": "https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-october-2024-monthly-rollup-av24-566"
-        },
-        {
-            "Message ID": 86287,
-            "Title": "Red Hat security advisory (AV24-566)",
-            "Date": "2024-10-07",
-            "Source": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-566"
-        },
-        {
-            "Message ID": 86286,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86285,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86284,
-            "Title": "Qualcomm patches high-severity zero-day exploited in attacks",
-            "Date": "2024-10-07",
-            "Source": "https://www.bleepingcomputer.com/news/security/qualcomm-patches-high-severity-zero-day-exploited-in-attacks/"
-        },
-        {
-            "Message ID": 86283,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2023-39671"
-        },
-        {
-            "Message ID": 86282,
-            "Title": "[Control systems] CISA ICS security advisories (AV24-565)",
-            "Date": "2024-10-07",
-            "Source": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-565"
-        },
-        {
-            "Message ID": 86281,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47846"
-        },
-        {
-            "Message ID": 86280,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-46076"
-        },
-        {
-            "Message ID": 86279,
-            "Title": "N/A",
-            "Date": "2024-10-07",
-            "Source": "https://nvd.nist.gov/vuln/detail/CVE-2024-47849"
-        },
-        {
-            "Message ID": 86278,
-            "Title": "DemonForums - [Giveaway]  200,000  USA citizen from secureagentleads.com [cellPhone number  sorted]",
-            "Date": "2024-10-07",
-            "Source": "N/A"
-        },
-        {
-            "Message ID": 86277,
-            "Title": "Large scale Google Ads campaign targets utility software",
-            "Date": "2024-10-07",
-            "Source": "https://www.malwarebytes.com/blog/cybercrime/2024/10/large-scale-google-ads-campaign-targets-utility-software"
         }
     ]
 }
