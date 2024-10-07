@@ -11692,6 +11692,98 @@
                 "arkWebInformer.com ",
                 "e/RipperSecIO/6047\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4686,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 14:11:14\n🚨 Title: Websec targets the website of Ben Gurion International Airport\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Airlines & Aviation\n🏢 Victim Organization: ben gurion international airport\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: Websec\n🌍 Network: telegram\n🔗 Claim: https://t.me/teamwebsec/1236\n📝 Description: Group claims to have taken down the website of Ben Gurion International Airport.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/teamwebsec/1236\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4685,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4684,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 13:59:51\n🚨 Title: UserSec targets the website of Kyivstar\n🛡️ Victim Country: Ukraine\n🏭 Victim Industry: Network & Telecommunications\n🏢 Victim Organization: kyivstar\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: UserSec\n🌍 Network: telegram\n🔗 Claim: https://t.me/user_secc/400\n📝 Description: Proof of Downtime: https://check-host.net/check-report/1f11de99kbf3",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/user_secc/400\n📝 Descript",
+                "k-host.net/check-report/1f11de99kbf3"
+            ]
+        },
+        {
+            "Message ID": 4683,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4682,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4681,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4680,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 13:51:40\n🚨 Title: NoName targets the website of Verkhovna Rada of Ukraine\n🛡️ Victim Country: Ukraine\n🏭 Victim Industry: Government & Public Sector\n🏢 Victim Organization: verkhovna rada of ukraine\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/noname05716/9779\n📝 Description: Proof of Downtime: http://check-host.net/check-report/1f115368k517\nProof of Downtime: http://check-host.net/check-report/1f1155cek419\nProof of Downtime: http://check-host.net/check-report/1f1158cak88c\nProof of Downtime: http://check-host.net/check-report/1f115af9ka00\nProof of Downtime: http://check-host.net/check-report/1f115d43k643\nProof of Downtime: http://check-host.net/check-report/1f115f27kae7\nProof of Downtime: http://check-host.net/check-report/1f116234kcde\nProof of Downtime: http://check-host.net/check-report/1f1163a9k1b9\nProof of Downtime: http://check-host.net/check-report/1f1164ebk174\nProof of Downtime: http://check-host.net/check-report/1f116657k7d7",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine",
+                "Ukraine",
+                "ukraine"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/noname05716/9779\n📝 Descript",
+                "-host.net/check-report/1f115368k517\nProof of Do",
+                "-host.net/check-report/1f1155cek419\nProof of Do",
+                "-host.net/check-report/1f1158cak88c\nProof of Do",
+                "-host.net/check-report/1f115af9ka00\nProof of Do",
+                "-host.net/check-report/1f115d43k643\nProof of Do",
+                "-host.net/check-report/1f115f27kae7\nProof of Do",
+                "-host.net/check-report/1f116234kcde\nProof of Do",
+                "-host.net/check-report/1f1163a9k1b9\nProof of Do",
+                "-host.net/check-report/1f1164ebk174\nProof of Do",
+                "-host.net/check-report/1f116657k7d7"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
