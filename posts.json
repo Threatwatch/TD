@@ -12809,6 +12809,85 @@
                 "arkWebInformer.com ",
                 "e/RipperSecIO/6052\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4781,
+            "Date": "2024-10-07",
+            "Content": "its off",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4780,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4779,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 19:10:33\n🚨 Title: Anonymous Nepal targets the website of Agrani Model School & College\n🛡️ Victim Country: Bangladesh\n🏭 Victim Industry: Education\n🏢 Victim Organization: agrani model school & college\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: Anonymous Nepal\n🌍 Network: telegram\n🔗 Claim: https://t.me/anonNepal/832\n📝 Description: Group claims to have taken down the website of Agrani Model School & College.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/anonNepal/832\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4778,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4777,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 19:06:58\n🚨 Title: AnonPioneers targets the website of Health Korner\n🛡️ Victim Country: India\n🏭 Victim Industry: E-commerce & Online Stores\n🏢 Victim Organization: health korner\n🌐 Victim Site: \n📜 Category: Defacement\n🕵️‍♂️ Threat Actor: AnonPioneers\n🌍 Network: telegram\n🔗 Claim: https://t.me/AnonPioneers/35\n📝 Description: Group claims to have defaced the website of Health Korner.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/AnonPioneers/35\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4776,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4775,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 18:58:09\n🚨 Title: Alleged data leak of Kinosphere\n🛡️ Victim Country: India\n🏭 Victim Industry: Entertainment & Movie Production\n🏢 Victim Organization: kinosphere\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: UNDERGROUND-NET\n🌍 Network: telegram\n🔗 Claim: https://t.me/SangNubBroo/5041\n📝 Description: Group claims to have leaked data from Kinosphere.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/SangNubBroo/5041\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -16359,6 +16438,39 @@
             "URLs": [
                 "ttps://new.embassies.gov.il/\n",
                 "tps://check-host.net/check-report/1f13b9eck965\n\n"
+            ]
+        },
+        {
+            "Message ID": 2206,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2205,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2204,
+            "Date": "2024-10-07",
+            "Content": "🌐Target:\nhttps://cinema-city.co.il/\n\n💻Check host:\nhttps://check-host.net/check-report/1f13d565ke6c \n\n#free_palestine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://cinema-city.co.il/\n",
+                "tps://check-host.net/check-report/1f13d565ke6c \n"
             ]
         }
     ],
