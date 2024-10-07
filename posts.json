@@ -9049,6 +9049,50 @@
                 "arkWebInformer.com ",
                 "e/TheReturnees710/579\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4458,
+            "Date": "2024-10-07",
+            "Content": "👍",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4457,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4456,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 01:04:56\n🚨 Title: Alleged data leak of Alsuper\n🛡️ Victim Country: Mexico\n🏭 Victim Industry: Retail Industry\n🏢 Victim Organization: alsuper\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: 0xghost\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-alsuper-customer-database\n📝 Description: Threat actor claims to have leaked the data of Alsuper, a retail chain of food supermarkets in Mexico. The leaked data reportedly contains 120K rows of customer information, including ID, email, name, gender, phone number, address, and other personal details.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Mexico",
+                "Mexico"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-alsuper-customer-database\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4455,
+            "Date": "2024-10-06",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
