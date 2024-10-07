@@ -11784,6 +11784,64 @@
                 "-host.net/check-report/1f1164ebk174\nProof of Do",
                 "-host.net/check-report/1f116657k7d7"
             ]
+        },
+        {
+            "Message ID": 4691,
+            "Date": "2024-10-07",
+            "Content": "Hmm why is victim site blank",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4690,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4689,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 14:16:28\n🚨 Title: WOLF CYBER ARMY targets the website of  Pacific Online Pvt Ltd\n🛡️ Victim Country: India\n🏭 Victim Industry: Information Technology (IT) Services\n🏢 Victim Organization: pacific online pvt ltd.\n🌐 Victim Site: \n📜 Category: Defacement\n🕵️‍♂️ Threat Actor: WOLF CYBER ARMY\n🌍 Network: telegram\n🔗 Claim: https://t.me/wolf_army1/6440\n📝 Description: Group claims to have defaced the website of  Pacific Online Pvt Ltd.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/wolf_army1/6440\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4688,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4687,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 14:15:49\n🚨 Title: DDOS TEAM ANONYMOUS targets the website of Government of Indonesia\n🛡️ Victim Country: Indonesia\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: government of indonesia\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: DDOS TEAM ANONYMOUS\n🌍 Network: telegram\n🔗 Claim: https://t.me/DdosTeamAnonymous/1640\n📝 Description: Proof of Downtime: https://check-host.cc/report/u17fNbE5E3LDqRxnYrC2hh",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Indonesia",
+                "indonesia"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/DdosTeamAnonymous/1640\n📝 Descript",
+                "k-host.cc/report/u17fNbE5E3LDqRxnYrC2hh"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
