@@ -10929,6 +10929,29 @@
                 "e/RipperSecIO/6035\n📝 Descript",
                 "k-host.net/check-report/1f10b99ek85d"
             ]
+        },
+        {
+            "Message ID": 4616,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4615,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 10:57:36\n🚨 Title: Moroccan Cyber Forces targets the website of The Technological College of Beer-Sheva\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Education\n🏢 Victim Organization: the technological college of beer-sheva\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: Moroccan Cyber Forces\n🌍 Network: telegram\n🔗 Claim: https://t.me/MoroccanCyberForces/1131\n📝 Description: The group claims to have hacked the organization's website and obtained data",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/MoroccanCyberForces/1131\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -19343,6 +19366,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5122,
+            "Date": "2024-10-07",
+            "Content": "Israeli website is hacked by @blackhun73\n\n#WE_LOVE_PALESTINE\n\nURL: https://barburpro.co.il\n\n#OP",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://barburpro.co.il"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
