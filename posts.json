@@ -10905,6 +10905,30 @@
                 "arkWebInformer.com ",
                 "e/RipperSecIO/6029\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4614,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4613,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 10:40:43\n🚨 Title: RipperSec targets the website of Taiwan Institute for Sustainable Energy\n🛡️ Victim Country: Taiwan\n🏭 Victim Industry: Non-profit & Social Organizations\n🏢 Victim Organization: taiwan institute for sustainable energy\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: RipperSec\n🌍 Network: telegram\n🔗 Claim: https://t.me/RipperSecIO/6035\n📝 Description: Proof of Downtime: https://check-host.net/check-report/1f10b99ek85d",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Taiwan"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/RipperSecIO/6035\n📝 Descript",
+                "k-host.net/check-report/1f10b99ek85d"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
