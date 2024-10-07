@@ -10064,6 +10064,63 @@
                 "arkWebInformer.com ",
                 "e/team_scf_pk/2492\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4545,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4544,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 08:08:57\n🚨 Title: Alleged data sale of Els Servis\n🛡️ Victim Country: Turkey\n🏭 Victim Industry: \n🏢 Victim Organization: els servis\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: Al-Sheikh\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-DATABASE-els-servis-com-turkish-company\n📝 Description: Threat actor claims to be selling data from Els Servis. The compromised data reportedly includes information on 3.2 million customers and 760 AspNetUsers, including names, emails, passwords, phone numbers, and other personal details.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Turkey",
+                "Els Servis"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-DATABASE-els-servis-com-turkish-company\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4543,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4542,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4541,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 07:57:16\n🚨 Title: Alleged data leak of The Israeli Ministry of Finance\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: the israeli ministry of finance\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: The Returnees\n🌍 Network: telegram\n🔗 Claim: https://t.me/TheReturnees710/598\n📝 Description: Group claims to have breached The Israeli Ministry of Finance, extracting 30 GB of sensitive files related to the Ministry’s activities and various projects. The compromised data reportedly includes detailed information on 4,000 publishers, including personal and employment data.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/TheReturnees710/598\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
