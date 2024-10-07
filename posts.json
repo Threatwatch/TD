@@ -12260,6 +12260,62 @@
                 "arkWebInformer.com ",
                 "kbase.io/threads/database-leaked-rifa321-com-7m.30142/\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4732,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4731,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 16:31:09\n🚨 Title: Alleged database leak of Arrow Credit\n🛡️ Victim Country: USA\n🏭 Victim Industry: Banking & Mortgage\n🏢 Victim Organization: arrow credit\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: markitto35\n🌍 Network: openweb\n🔗 Claim: https://leakbase.io/threads/arrowcredit-com-sql-1gb.30156/\n📝 Description: The threat actor claims to have leaked data from Arrow Credit. The leaked data contains 1 GB of information in SQL format. Surfaced in March 2024.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "markitto35"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "kbase.io/threads/arrowcredit-com-sql-1gb.30156/\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4730,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4729,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4728,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 16:21:17\n🚨 Title: AUTODOC PRO falls victim to RansomHub Ransomware\n🛡️ Victim Country: Germany\n🏭 Victim Industry: Retail Industry\n🏢 Victim Organization: autodoc pro\n🌐 Victim Site: No site available, No site available, No site available, No site available\n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: RansomHub\n🌍 Network: tor\n🔗 Claim: http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion/043e40a1-5bc6-4e73-b132-d8ec1801550b/\n📝 Description: Group claims to have access to the organization's data and sample screenshots are provided on their dark web portal.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Germany"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "omxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion/043e40a1-5bc6-4e73-b132-d8ec1801550b/\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -23058,6 +23114,17 @@
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 972,
+            "Date": "2024-10-07",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇯🇵Japan - Tokyo Sompo Appraisal (東京損保鑑定株式会社)\n\nTokyo Sompo Appraisal Co., Ltd., reported unauthorized access to its server, resulting in the encryption of files through ransomware on August 29, 2024. \n\nThe company established a task force and involved security experts and lawyers to assess the damage, prevent further spread, and conduct recovery efforts. As of October 4, no data leaks or unauthorized use of information have been confirmed. \n\nThe investigation is ongoing, with results expected after November.\n\nSource:\nhttps://to-son.co.jp/news/25858",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Japan",
+                "Tokyo"
             ],
             "URLs": []
         }
