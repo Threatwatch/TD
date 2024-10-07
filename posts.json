@@ -10664,6 +10664,30 @@
                 "e/noname05716/9771\n📝 Descript",
                 "-host.net/check-report/1f0fe4fck521"
             ]
+        },
+        {
+            "Message ID": 4594,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4593,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 09:37:40\n🚨 Title: Alleged data leak of Israel Society of Ecology and Environmental Sciences\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Environmental Services\n🏢 Victim Organization: israel society of ecology and environmental sciences\n🌐 Victim Site: \n📜 Category: Data Leak\n🕵️‍♂️ Threat Actor: blackhun73r - cyber warrior\n🌍 Network: telegram\n🔗 Claim: https://t.me/blackhun73/401\n📝 Description: Threat actor claims to have leaked data from Israel Society of Ecology and Environmental Sciences (ISEES).",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Israel",
+                "israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/blackhun73/401\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
