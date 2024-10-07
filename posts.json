@@ -10041,6 +10041,29 @@
                 "arkWebInformer.com ",
                 "e/eagle_error/1747\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4540,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4539,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 07:51:50\n🚨 Title: Alleged leak of admin access to The Goa Urban Co-operative Bank\n🛡️ Victim Country: India\n🏭 Victim Industry: Banking & Mortgage\n🏢 Victim Organization: the goa urban co-operative bank ltd\n🌐 Victim Site: \n📜 Category: Initial Access\n🕵️‍♂️ Threat Actor: SILENT CYBER FORCE\n🌍 Network: telegram\n🔗 Claim: https://t.me/team_scf_pk/2492\n📝 Description: The threat actor claims to have leaked admin credential access to the Goa Urban Co-operative Bank",
+            "Attack Type": "Hacking",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/team_scf_pk/2492\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -20690,6 +20713,19 @@
                 "Kuwait",
                 "Qatar",
                 "Bahrain"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 968,
+            "Date": "2024-10-07",
+            "Content": "🚨Cyberattack Alert ‼️\n\n\nKill Security claims to have breached Yassir, but the sample shows sensitive medical and financial documents tied to Italy and Spain.\n\nThe ransomware group states that the exfiltrated data includes personal identification information, medical records, diagnostic test results, healthcare provider details, financial information, business documents, tax-related data, and institutional information.\n\nInterestingly, the samples provided by the ransomware group contain diagnostic data belonging to the Italian healthcare facility \"Ospedale Italiano Policlinico San Martino\" and invoices from the Italian and Spanish branches of Top Doctors.\n\nAccording to our database, Top Doctors was listed among the victims of RansomHub on September 16\n\nWhether these data are connected to Yassir remains to be determined, but it wouldn't be the first time a hacking group mislabels the victim's name.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Yassir",
+                "Italy",
+                "Spain",
+                "Yassir"
             ],
             "URLs": []
         }
