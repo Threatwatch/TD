@@ -12316,6 +12316,76 @@
                 "arkWebInformer.com ",
                 "omxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion/043e40a1-5bc6-4e73-b132-d8ec1801550b/\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4738,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4737,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 17:18:14\n🚨 Title: Alliance Industries, LLC falls victim to el dorado Ransomware\n🛡️ Victim Country: USA\n🏭 Victim Industry: Manufacturing\n🏢 Victim Organization: alliance industries, llc\n🌐 Victim Site: \n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: el dorado\n🌍 Network: tor\n🔗 Claim: http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/\n📝 Description: The group claims to have access to the organization's data.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "leakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4736,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4735,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 17:14:35\n🚨 Title: Avio and Sforza Real Estate Administrations falls victim to el dorado Ransomware\n🛡️ Victim Country: Italy\n🏭 Victim Industry: Real Estate\n🏢 Victim Organization: avio e sforza amministrazioni immobiliari\n🌐 Victim Site: \n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: el dorado\n🌍 Network: tor\n🔗 Claim: http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/\n📝 Description: The group claims to have access to the organization's data.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Italy"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "leakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4734,
+            "Date": "2024-10-07",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4733,
+            "Date": "2024-10-07",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-07 17:03:43\n🚨 Title: Alleged data leak of maimo\n🛡️ Victim Country: USA\n🏭 Victim Industry: Software\n🏢 Victim Organization: maimo\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: markitto35\n🌍 Network: openweb\n🔗 Claim: https://leakbase.io/threads/maimo-co-mssql-13-gb.30190/\n📝 Description: The threat actor claims to have leaked data of maimo. Surfaced in March 2024.\nData Type : MSSQL\nData Size : 13 GB",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "markitto35",
+                "GB"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "kbase.io/threads/maimo-co-mssql-13-gb.30190/\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -15812,6 +15882,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "Lebanon"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2199,
+            "Date": "2024-10-07",
+            "Content": "Greetings guys,\n\nWe have maked an automated shells finder. The price it cheap only $150\n\nDaily lot of result like 500-600 shells  🏦\n\nContact: @shellfindertool_bot\n\nPayment 🔸📈💰💲💰💳",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
@@ -20805,6 +20885,19 @@
                 "the Non arab Muslims"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5125,
+            "Date": "2024-10-07",
+            "Content": "The website of Jerusalem Post has bee Knocked off\n\nhttps://m.jpost.com\n\nhttps://check-host.net/check-report/1f132107k44b\nThe War Against Zionist Entity will Continue \n\n#AlAqsaStorm\n\nBotnet:- @powerproofsziy",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://m.jpost.com",
+                "https://check-host.net/check-report/1f132107k44b"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
