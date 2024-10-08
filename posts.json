@@ -13447,6 +13447,87 @@
                 "arkWebInformer.com ",
                 "um.exploit.in/topic/248413/\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4836,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4835,
+            "Date": "2024-10-08",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-08 06:40:26\n🚨 Title: Moroccan Dragons targets the website of BARAK\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Entertainment & Movie Production\n🏢 Victim Organization: barak\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: Moroccan Dragons\n🌍 Network: telegram\n🔗 Claim: https://t.me/Moroccan_Dragons/627\n📝 Description: Proof of downtime : https://check-host.net/check-http?host=barak-tickets.co.il",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/Moroccan_Dragons/627\n📝 Descript",
+                "k-host.net/check-http?host=barak-tickets.co.il"
+            ]
+        },
+        {
+            "Message ID": 4834,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4833,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4832,
+            "Date": "2024-10-08",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-08 06:33:45\n🚨 Title: Moroccan Dragons targets the website of MAX\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Financial Services\n🏢 Victim Organization: max\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: Moroccan Dragons\n🌍 Network: telegram\n🔗 Claim: https://t.me/Moroccan_Dragons/621\n📝 Description: Proof of downtime : https://check-host.net/check-ping?host=leumi-card.co.il",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/Moroccan_Dragons/621\n📝 Descript",
+                "k-host.net/check-ping?host=leumi-card.co.il"
+            ]
+        },
+        {
+            "Message ID": 4831,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4830,
+            "Date": "2024-10-08",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-08 06:24:21\n🚨 Title: Anonymous Nepal targets the website of Bangladesh Madrasah Education Board\n🛡️ Victim Country: Bangladesh\n🏭 Victim Industry: Government Relations\n🏢 Victim Organization: bangladesh madrasah education board\n🌐 Victim Site: \n📜 Category: Defacement\n🕵️‍♂️ Threat Actor: Anonymous Nepal\n🌍 Network: telegram\n🔗 Claim: https://t.me/anonNepal/834\n📝 Description: The group claims to have defaced the organization's website.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/anonNepal/834\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
