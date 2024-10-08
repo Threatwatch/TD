@@ -13354,6 +13354,76 @@
                 "arkWebInformer.com ",
                 "e/TheReturnees710/616\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4827,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4826,
+            "Date": "2024-10-08",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-08 05:34:53\n🚨 Title: Alleged data breach of Israel data analysis company Arma\n🛡️ Victim Country: Israel\n🏭 Victim Industry: \n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Alert\n🕵️‍♂️ Threat Actor: The Returnees\n🌍 Network: telegram\n🔗 Claim: https://t.me/TheReturnees710/625\n📝 Description: The group claims to have breached the data analysis company, Arma. They state that they gained complete control over the company's electronic infrastructure, accessing core systems and customer databases. The compromised data includes sensitive information on companies and organizations that rely on Arma's services, along with critical security and business analytics.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel",
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/TheReturnees710/625\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4825,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4824,
+            "Date": "2024-10-08",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-08 05:31:19\n🚨 Title: Alleged data breach of Grafana system of the well-known GITA restaurant chain in the Zionist entity\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Restaurants\n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Alert\n🕵️‍♂️ Threat Actor: The Returnees\n🌍 Network: telegram\n🔗 Claim: https://t.me/TheReturnees710/624\n📝 Description: The group claims to have breached the Grafana system of the well-known GITA restaurant chain in the Zionist entity. Through this breach, they gained access to sensitive data related to operations management and performance analysis within the chain. The group highlights the security weaknesses in the restaurant's systems, exposing the fragility of the information they manage.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/TheReturnees710/624\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4823,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4822,
+            "Date": "2024-10-08",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-08 05:26:43\n🚨 Title: Alleged data breach of Sheba Tel Hashomer Medical Center\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Hospital & Health Care\n🏢 Victim Organization: sheba medical center\n🌐 Victim Site: \n📜 Category: Alert\n🕵️‍♂️ Threat Actor: The Returnees\n🌍 Network: telegram\n🔗 Claim: https://t.me/TheReturnees710/621\n📝 Description: The group claims to have breached Sheba Tel Hashomer Medical Center, one of the largest hospitals in the Zionist entity. They assert having obtained sensitive personal and employment data of doctors and staff, as well as medical records of 190,000 patients, including Zionist settlers, detailing their health conditions, tests, and treatments. The group also claims to have gained access to critical hospital systems",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/TheReturnees710/621\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -22036,6 +22106,16 @@
             "Attack Type": "Hacking",
             "Location": [
                 "Jordan"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5128,
+            "Date": "2024-10-08",
+            "Content": "The speech of Abu Obaida \nYesterday, calling for Cyber Attack",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
