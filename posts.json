@@ -13584,6 +13584,41 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4902,
+            "Date": "2024-10-08",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-08 12:35:58\n🚨 Title: INDIAN CYBER MAFIA targets the website of Mandari Fazil (Degree) Madrasa\n🛡️ Victim Country: Bangladesh\n🏭 Victim Industry: Education\n🏢 Victim Organization: mandari fazil (degree) madrasa\n🌐 Victim Site: \n📜 Category: Defacement\n🕵️‍♂️ Threat Actor: INDIAN CYBER MAFIA\n🌍 Network: telegram\n🔗 Claim: https://t.me/indiancybermafia/161\n📝 Description: Group claims to have defaced the website of Mandari Fazil (Degree) Madrasa.\nMirror: https://ownzyou.com/zone/252514\nMirror: https://www.zone-h.org/mirror/id/41287459",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/indiancybermafia/161\n📝 Descript",
+                "you.com/zone/252514\nMirror: htt",
+                "zone-h.org/mirror/id/41287459"
+            ]
+        },
+        {
+            "Message ID": 4899,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4897,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -24720,6 +24755,26 @@
             "Location": [
                 "Japan",
                 "Casio"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 982,
+            "Date": "2024-10-08",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇬🇧United Kingdom - Matki\n\nCactus ransomware group claims to have breached Matki.\n\nAllegedly, 267 GB of data were exfiltrated, including personally identifiable information, database backups, financial documents, executives' and employees' personal data, and corporate confidential data and correspondence.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "United Kingdom - Matki"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 981,
+            "Date": "2024-10-08",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Corporate Job Bank\n\nCactus ransomware group claims to have breached Corporate Job Bank. \n\nAllegedly, 65 GB of data were exfiltrated, including personally identifiable information, corporate confidential documents and correspondence, employees and executives' personal data, project details, and customer information.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
