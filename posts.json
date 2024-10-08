@@ -13643,6 +13643,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4926,
+            "Date": "2024-10-08",
+            "Content": "Once I'm caught up I'll start posting here again, so either scroll up for what you missed or watch X for now",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4925,
+            "Date": "2024-10-08",
+            "Content": "ok ill turn it off",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -24811,6 +24831,59 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 988,
+            "Date": "2024-10-08",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 987,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 986,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 985,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 984,
+            "Date": "2024-10-08",
+            "Content": "🟧 #HackTuesday 🟧\n\nHack Tuesday: Week 02 - 08 October 2024\n\n⚠️103 cyberattacks across 21 countries⚠️\n\nThe most active ransomware group this week is RansomHub, claiming responsibility for 15 attacks.\n\nThe United States is the most affected country, accounting for 57% of the victims. The Professional, Scientific, and Technical sectors are the most impacted, representing 24% of the claimed targets, followed by the Manufacturing sector with 21%.\n\nOverall, the claimed stolen data amounts to approximately 33 Terabytes.\n\nThe average Cyber Risk Factor stands at 4.0.\n\nFollow the link for the full list of victims⬇️\nhttps://hackmanac.com/news/hack-tuesday-week-02-08-october-2024\n\n#Hackmanac #HT #Cybersecurity",
+            "Attack Type": "Hacking",
+            "Location": [
+                "The United States",
+                "Terabytes"
+            ],
+            "URLs": [
+                "tps://hackmanac.com/news/hack-tuesday-week-02-08-october-2024\n\n"
+            ]
         }
     ],
     "ANONYM∅US": [
