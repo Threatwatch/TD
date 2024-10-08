@@ -50,11 +50,20 @@ jobs:
     # Step 8: Commit and push changes with conflict handling
     - name: Commit and push changes if there are any
       run: |
+        set -e  # Stop the script if any command returns a non-zero status
         git config --local user.email "faisal.s.albargan@gmail.com"
         git config --local user.name "FSBARGAN"
-        git add news.json posts.json  # Add both JSON files
+
+        # Stage the changes
+        git add news.json posts.json
+
+        # Commit the changes if there are any
         git diff --cached --exit-code || git commit -m "Auto-update JSON data for News and Posts"
-        git pull --rebase origin main || git rebase --abort  # Pull latest changes and handle conflicts
+
+        # Pull the latest changes with rebase, handle conflicts by aborting if needed
+        git pull --rebase origin main || { git rebase --abort; exit 1; }
+
+        # Push changes to the remote repository
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
