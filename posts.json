@@ -13424,6 +13424,29 @@
                 "arkWebInformer.com ",
                 "e/TheReturnees710/621\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4829,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4828,
+            "Date": "2024-10-08",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-08 06:04:45\n🚨 Title: Alleged data leak of Autotrader\n🛡️ Victim Country: USA\n🏭 Victim Industry: Automotive\n🏢 Victim Organization: autotrader\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: wick17\n🌍 Network: openweb\n🔗 Claim: https://forum.exploit.in/topic/248413/\n📝 Description: Threat actor claims to have leaked the data of Autotrader, an American online marketplace for car buyers and sellers. The leaked data reportedly contains information on 1.4 million users, including email addresses, phone numbers, home addresses, vehicle details, and vehicle identification numbers (VINs).",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "um.exploit.in/topic/248413/\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
