@@ -13619,6 +13619,20 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4903,
+            "Date": "2024-10-08",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-08 12:41:40\n🚨 Title: Alleged access leak to Practice Management Software for CA Practitioners & CA Firms\n🛡️ Victim Country: India\n🏭 Victim Industry: Education\n🏢 Victim Organization: the institute of chartered accountants of india\n🌐 Victim Site: \n📜 Category: Initial Access\n🕵️‍♂️ Threat Actor: Madison01\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-India-rdevendrakumarassociates-cacloud-ca-in-Access\n📝 Description: The threat actor claims to have leaked access to Practice Management Software for CA Practitioners & CA Firms",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "India",
+                "india"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-India-rdevendrakumarassociates-cacloud-ca-in-Access\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
