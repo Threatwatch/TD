@@ -13012,6 +13012,18 @@
             "URLs": [
                 "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-7th-2024/"
             ]
+        },
+        {
+            "Message ID": 4793,
+            "Date": "2024-10-08",
+            "Content": "https://x.com/DarkWebInformer/status/1843452979241988390",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1843452979241988390"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -16615,6 +16627,49 @@
             "Date": "2024-10-07",
             "Content": "",
             "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2213,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2212,
+            "Date": "2024-10-08",
+            "Content": "🌐Target:\nhttps://www.isoc.org.il/  \n\n💻Check host:\nhttps://check-host.net/check-report/1f164702k28\n\n#free_palestine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.isoc.org.il/ ",
+                "tps://check-host.net/check-report/1f164702k28\n\n"
+            ]
+        },
+        {
+            "Message ID": 2210,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2209,
+            "Date": "2024-10-08",
+            "Content": "Telegram banned our\n\n (LulzSec Leaked database channel)\n\n🙂\n\nOk @telegram",
+            "Attack Type": "Data Breach",
             "Location": [
                 "N/A"
             ],
