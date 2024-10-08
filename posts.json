@@ -13283,6 +13283,77 @@
                 "arkWebInformer.com ",
                 "e/M0roccan_Black_CyberArmy/2860?single\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4821,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4820,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4819,
+            "Date": "2024-10-08",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-08 05:23:20\n🚨 Title: Alleged data breach of H-ERP accounting application\n🛡️ Victim Country: Israel\n🏭 Victim Industry: \n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Alert\n🕵️‍♂️ Threat Actor: The Returnees\n🌍 Network: telegram\n🔗 Claim: https://t.me/TheReturnees710/620\n📝 Description: The group claims to have breached the H-ERP accounting application used by numerous Zionist companies to manage their financial systems. They assert having extracted the full source code of the application, along with data from 1,400 customers, including financial records and business operations details. The group also claims to have obtained over 300 GB of data related to the application’s usage and escalated their attack by deleting all customer data, disrupting accounting systems and causing chaos in financial transactions.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/TheReturnees710/620\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4818,
+            "Date": "2024-10-08",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-08 05:23:18\n🚨 Title: Alleged data leak of Omnimaga\n🛡️ Victim Country: Canada\n🏭 Victim Industry: Social Media & Online Social Networking\n🏢 Victim Organization: omnimaga\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: Flexico\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-omnimaga-org\n📝 Description: Threat actor claims to have leaked data from Omnimaga, a website dedicated to Casio calculator programming, PC game development, and music creation. The leaked data reportedly includes a total of 35,688 records containing usernames, passwords, email addresses, and IP addresses.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Canada",
+                "Casio"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-omnimaga-org\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4817,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4816,
+            "Date": "2024-10-08",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-08 05:17:38\n🚨 Title: Alleged data breach of Israeli Mapping Center\n🛡️ Victim Country: Israel\n🏭 Victim Industry: \n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Alert\n🕵️‍♂️ Threat Actor: The Returnees\n🌍 Network: telegram\n🔗 Claim: https://t.me/TheReturnees710/616\n📝 Description: The group claims to have breached the Israeli Mapping Center, extracting 130 gigabytes of detailed data, including maps and geographical information related to the occupied territories. The stolen files reportedly contain crucial details about infrastructure, borders, and plans used by Israel to manage and expand its occupation. In addition to accessing sensitive data, the group asserts control over the center's systems, allowing them to disrupt its operations, which depend on these systems for mapping and territorial management.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel",
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/TheReturnees710/616\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
