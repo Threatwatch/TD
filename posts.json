@@ -17323,6 +17323,42 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2217,
+            "Date": "2024-10-08",
+            "Content": "https://github.com/AbdElRahmanEzzat1995/CVE-2024-20404\n\ncve-2024-20404\n#github #exploit",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/AbdElRahmanEzzat1995/CVE-2024-20404"
+            ]
+        },
+        {
+            "Message ID": 2216,
+            "Date": "2024-10-08",
+            "Content": "https://github.com/geniuszlyy/CVE-2024-7029\n\nA PoC exploit for the CVE-2024-7029 vulnerability found in AvTech devices, allowing Remote Code Execution (RCE)\n#github #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/geniuszlyy/CVE-2024-7029"
+            ]
+        },
+        {
+            "Message ID": 2215,
+            "Date": "2024-10-08",
+            "Content": "https://github.com/0xKayala/NucleiFuzzer\n\nNucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications\n#github #tools",
+            "Attack Type": "Unknown",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://github.com/0xKayala/NucleiFuzzer"
+            ]
         }
     ],
     "Anonymous Chat": [
