@@ -24691,6 +24691,27 @@
                 "Spain"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 980,
+            "Date": "2024-10-08",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇮🇱Israel - MaxShop\n\nThe pro-Palestinian hacktivist group Handala claims to have hacked Max Shop, a store terminal cloud software used by over 9,000 stores in Israel and the occupied territories. \n\nThe group reportedly exfiltrated 1.5 TB of data, defaced kiosk monitor screens, sent threatening messages to more than 250,000 individuals, and wiped all data from the systems.\n\nAllegedly, the database includes details of over 250,000 orders.\n\nThe confirmation or denial of these claims has yet to be verified",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 979,
+            "Date": "2024-10-08",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇯🇵Japan - Casio (カシオ計算機)\n\nCasio Computer Co., Ltd. experienced unauthorized access to its network on October 5, 2024, resulting in a system failure that disrupted some services.\n\nThe company is currently investigating the breach with the help of external specialists to determine whether any personal or sensitive information has been leaked.\n\nSoruce:\nhttps://www.casio.co.jp/release/2024/1008-incident/\n\nN.B.: At Hackmanac, we previously reported that on April 5 this year, the Indian branch of Casio was reportedly compromised by the Stormous hacking group.\nThe attack allegedly led to the exfiltration of 175 GB of data, including confidential personal identification data, private information, financial data, construction projects, agreements, drawings, corporate correspondence, accounting, operational data, and personal folders of top managers and key employees, among others.\n\nHackmanac Casio India post: https://x.com/H4ckManac/status/1776250880423039352",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Japan",
+                "Casio"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
