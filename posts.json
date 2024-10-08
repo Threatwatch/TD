@@ -24565,6 +24565,29 @@
                 "US"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 975,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 974,
+            "Date": "2024-10-08",
+            "Content": "🚨Cyberattack Update ‼️\n\n🇯🇵Japan - ITOCHU Techno-Solutions Corporation\n\n\nOn August 13, 2024, ITOCHU Techno-Solutions Corporation reported a potential information leakage after one of its subcontractors was attacked by a ransomware group, resulting in unauthorized access to a file-sharing service used for business operations. This potentially exposed corporate and personal information of business partners, including customers.\n\nOn October 7, 2024, ITOCHU provided an update confirming that no files were exfiltrated. The investigation revealed that a subcontractor's PC had been compromised via a brute-force attack, leading to the execution of ransomware and access to a cloud-based file-sharing service. However, no sensitive files related to ITOCHU’s business were found on the compromised PC, and no downloads from the file-sharing service were detected.\n\nSource\n\nAugust 13: https://www.ctc-g.co.jp/company/info/20240813-01779.html\nOctober 07: https://www.ctc-g.co.jp/company/info/20241007-01799.html",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Japan"
+            ],
+            "URLs": [
+                "ps://www.ctc-g.co.jp/company/info/20240813-01779.html\nOc",
+                "ps://www.ctc-g.co.jp/company/info/20241007-01799.html"
+            ]
         }
     ],
     "ANONYM∅US": [
