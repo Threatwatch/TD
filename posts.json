@@ -13528,6 +13528,52 @@
                 "arkWebInformer.com ",
                 "e/anonNepal/834\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 4840,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4839,
+            "Date": "2024-10-08",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-08 07:10:47\n🚨 Title: RipperSec targets the website of GNJOY platform\n🛡️ Victim Country: Thailand\n🏭 Victim Industry: Gaming\n🏢 Victim Organization: gnjoy\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: RipperSec\n🌍 Network: telegram\n🔗 Claim: https://t.me/RipperSecIO/6060\n📝 Description: The group claims to have taken down the organization's website.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Thailand"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/RipperSecIO/6060\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 4838,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4837,
+            "Date": "2024-10-08",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-08 07:06:28\n🚨 Title: Alleged leak of KYC pictures from RAINBOWEX\n🛡️ Victim Country: \n🏭 Victim Industry: \n🏢 Victim Organization: rainbowex\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: G0DHAND\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-RainbowEx-life-ALL-KYC-Pictures-LATAM\n📝 Description: Threat actor claims to have leaked KYC pictures from the RAINBOWEX platform across multiple countries. The leaked images include the front and back of passports, as well as individuals holding their ID cards or passports.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-RainbowEx-life-ALL-KYC-Pictures-LATAM\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -24588,6 +24634,21 @@
                 "ps://www.ctc-g.co.jp/company/info/20240813-01779.html\nOc",
                 "ps://www.ctc-g.co.jp/company/info/20241007-01799.html"
             ]
+        },
+        {
+            "Message ID": 976,
+            "Date": "2024-10-08",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇮🇱Israel - Pearl Cohen\n\nBianLian ransomware group claims to have breached Pearl Cohen, an international law firm with offices in New York, Boston, Los Angeles, Tel Aviv, and London\n\nAllegedly, 1.2 TB of data were exfiltrated, including company customer data (technical, briefs, new and prospective customers, paperwork, negotiations), project data, HR data, business files, technical data, MSG and email archives up to 2024, operational SQL backups, and fileserver data.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel",
+                "New York",
+                "Boston",
+                "Los Angeles",
+                "Tel Aviv",
+                "London"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
