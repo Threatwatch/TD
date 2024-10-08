@@ -30,44 +30,31 @@ jobs:
     # Step 4: Run script to update news.json
     - name: Update News Data
       run: |
-        python dashboard2.py  # Run the second script (for news.json)
+        python dashboard2.py  # Run the script for news.json
 
     # Step 5: Run script to update posts.json
     - name: Update Posts Data
       run: |
-        python dashboard.py  # Run the script (for posts.json)
+        python dashboard.py  # Run the script for posts.json
 
-    # Step 6: Ensure newlines at the end of both JSON files
-    - name: Ensure newline at end of files
+    # Step 6: Commit and push changes for news.json (similar to your previous setup)
+    - name: Commit and push changes for news.json
       run: |
-        sed -i -e '$a\' news.json
-        sed -i -e '$a\' posts.json
-
-    # Step 7: List changes (optional, for debugging purposes)
-    - name: List changes
-      run: git status
-
-    # Step 8: Commit and push changes with conflict handling
-    - name: Commit and push changes if there are any
-      run: |
-        set -e  # Stop the script if any command returns a non-zero status
         git config --local user.email "faisal.s.albargan@gmail.com"
         git config --local user.name "FSBARGAN"
-
-        # Stage the changes
-        git add news.json posts.json
-
-        # Commit the changes if there are any
-        git diff --cached --exit-code || git commit -m "Auto-update JSON data for News and Posts"
-
-        # Pull the latest changes with rebase, handle conflicts by aborting if needed
-        git pull --rebase origin main || { git rebase --abort; exit 1; }
-
-        # Push changes to the remote repository
+        git add news.json
+        git diff --cached --exit-code || git commit -m "Auto-update JSON data for news"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    # Step 9: Check repository status (optional, for debugging purposes)
-    - name: Check repository status
-      run: git status
+    # Step 7: Commit and push changes for posts.json (similar to your previous setup)
+    - name: Commit and push changes for posts.json
+      run: |
+        git config --local user.email "faisal.s.albargan@gmail.com"
+        git config --local user.name "FSBARGAN"
+        git add posts.json
+        git diff --cached --exit-code || git commit -m "Auto-update JSON data for posts"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
