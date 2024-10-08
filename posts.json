@@ -13024,6 +13024,31 @@
             "URLs": [
                 "https://x.com/DarkWebInformer/status/1843452979241988390"
             ]
+        },
+        {
+            "Message ID": 4795,
+            "Date": "2024-10-08",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4794,
+            "Date": "2024-10-08",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-08 03:17:19\n🚨 Title: Alleged data breach of Grafana system of the Tamer restaurant chain in Israel\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Restaurants\n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Alert\n🕵️‍♂️ Threat Actor: The Returnees\n🌍 Network: telegram\n🔗 Claim: https://t.me/TheReturnees710/652\n📝 Description: The group claims to have breached the Grafana system of the well-known Tamer restaurant chain in Israel. Through this breach, they reportedly gained access to sensitive data related to the chain's operations management and performance analysis.  By exploiting Grafana, a system used to monitor and analyze data, they assert that they accessed critical information about the restaurant’s operations and service delivery processes.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel",
+                "Israel",
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/TheReturnees710/652\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -16670,6 +16695,16 @@
             "Date": "2024-10-08",
             "Content": "Telegram banned our\n\n (LulzSec Leaked database channel)\n\n🙂\n\nOk @telegram",
             "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2214,
+            "Date": "2024-10-08",
+            "Content": null,
+            "Attack Type": "Unknown",
             "Location": [
                 "N/A"
             ],
