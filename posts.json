@@ -25405,6 +25405,48 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1003,
+            "Date": "2024-10-09",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1002,
+            "Date": "2024-10-09",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1001,
+            "Date": "2024-10-09",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1000,
+            "Date": "2024-10-09",
+            "Content": "🚨A new ransomware group has been detected: Sarcoma, 30 victims 🚨\n\n🇺🇸 ICS Nett\n🇪🇸 Ferrer & Ojeda\n🇺🇸 AHI Supply\n🇧🇴 Importadora Monterrey SRL\n🇿🇦 National Edging\n🇯🇵 Nexus-Shinozaki\n🇬🇧 Structure-flex\n🇧🇷 Ciclo Cairu\n🇸🇪 Nora-Lindefrakt\n🇺🇸 Rio Marine\n🇺🇸 InCare Technologies\n🇫🇷 Antenne Reunion Radio\n🇿🇦 GMG Mining Supplies\n🇧🇬 Smart Media Group Bulgaria\n🇺🇸 The Roberts Family Law Firm\n🇨🇦 Gedco\n🇺🇸 EARTHWORKS Group\n🇦🇺 Perfection Fresh\n🇳🇿 Advanced Accounting & Business Advisory\n🇦🇺 Road Distribution Services\n🇪🇸 Lácteos Lorán\n🇪🇸 Curtidos Barbero\n🇧🇲 EasyPay\n🇶🇦 Jumbo Electronics Qatar\n🇮🇹 Navarra & Marzano\n🇰🇼 Costa Del Sol Hotels\n🇦🇺 The Plastic Bag\n🇨🇦 Elevator One\n🇨🇦 March Elevator\n🇵🇭 Suntrust Properties\n\nIn total, Sarcoma claims to have exfiltrated 5,324.76 GB.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Rio Marine",
+                "Bulgaria",
+                "Qatar"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
