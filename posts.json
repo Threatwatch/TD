@@ -22625,6 +22625,18 @@
                 "Pakistan"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5134,
+            "Date": "2024-10-09",
+            "Content": "👹Satanyahu : Lebanon could suffer destruction like the Gaza Strip",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Satanyahu",
+                "Lebanon",
+                "the Gaza Strip"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -25180,6 +25192,32 @@
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 995,
+            "Date": "2024-10-09",
+            "Content": "🔐 Leverage AI Safely: Maximize Benefits While Mitigating Risks 🤖\n\nAI has great potential, but it also comes with Cyber Security challenges. \n\nAs part of our series about AI & Cyber Security, we've explored both opportunities and risks (https://hackmanac.com/news/ai-and-cyber-security-from-risks-to-opportunities) and cyberattacks already occurred thanks to this technology (https://hackmanac.com/news/ai-and-cyberattacks-from-exploitation-to-targeting). \n\nNow, we’re concluding with essential guidelines in order to safely harness the power of AI while protecting your organization.\n\n✅ In this article, we cover:\n•  Audit AI systems🔍\n•  Privacy Protection🔒\n•  Software and Systems Maintenance 🔄\n•  Adversarial Training 🛡\n•  Staff Training 📚\n•  Incident Response Plan 📝\n\n👉 Read the full article here: https://hackmanac.com/news/leverage-ai-safely-maximize-benefits-while-mitigating-risks\n\n#AI #Cybersecurity #AIsafety #TechTrends #DataProtection #CyberSecurityAwareness #Hackmanac #ExpertInsights",
+            "Attack Type": "Hacking",
+            "Location": [
+                "AI",
+                "AI"
+            ],
+            "URLs": [
+                "tps://hackmanac.com/news/ai-and-cyber-security-from-risks-to-opportunities) ",
+                "tps://hackmanac.com/news/ai-and-cyberattacks-from-exploitation-to-targeting).",
+                "ackmanac.com/news/leverage-ai-safely-maximize-benefits-while-mitigating-risks\n\n#AI #Cy"
+            ]
+        },
+        {
+            "Message ID": 994,
+            "Date": "2024-10-09",
+            "Content": "⚠️Libano-Suisse exposed unprotected data from an Azure Blob. ⚠️\n\nLibano-Suisse Insurance Company is an insurance company established in Lebanon, the Middle East, the Gulf and North Africa.\nhttps://medium.com/@newschu.substack.com/libano-suisse-exposed-unprotected-data-from-an-azure-blob-f4d017143633",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Lebanon",
+                "North Africa"
             ],
             "URLs": []
         }
