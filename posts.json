@@ -25152,6 +25152,36 @@
                 "China"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 993,
+            "Date": "2024-10-09",
+            "Content": "🚨Microsoft has detected an increase in the use of legitimate file hosting services like SharePoint, OneDrive, and Dropbox in Business Email Compromise (BEC) attacks, commonly seen in enterprise environments, as part of a tactic to evade detection.\n\nhttps://thehackernews.com/2024/10/microsoft-detects-growing-use-of-file.html",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 992,
+            "Date": "2024-10-09",
+            "Content": "🚨Cyberattack Update ‼️\n\n🇪🇸Spain  - Tendam \n\nTendam admits that the cyberattack it suffered puts at risk data such as the ID numbers of its loyalty club members.\n\nArticle by El Pais:\nhttps://elpais.com/economia/2024-10-08/tendam-admite-que-el-ciberataque-que-sufrio-pone-en-peligro-datos-como-el-dni-de-los-miembros-de-sus-clubes-de-fidelidad.html\n\nOn September 7th, we reported that the Medusa hacking group claimed to have breached Grupo Cortefiel (Tendam) and demanded $800,000.\n\nA few days later, on September 16th, the cybercriminal group \"Valencia Ransomware\" also claimed to have attacked Tendam.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Spain"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 991,
+            "Date": "2024-10-09",
+            "Content": "🚨Cyberattacks Alert ‼️\n\nThe Play ransomware group has been particularly active in recent hours, adding six new victims to their data leak site:\n\n🇺🇸Accounting Resource Group\n🇸🇪AnVa Industries\n🇺🇸Saratoga Liquor\n🇺🇸Smokers Choice\n🇺🇸Eagle Recovery Associates\n🇺🇸Aaren Scientific\n\nThe ransom deadlines expire between October 11 and 12.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
