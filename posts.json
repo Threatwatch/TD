@@ -17469,6 +17469,39 @@
                 "israel"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2231,
+            "Date": "2024-10-09",
+            "Content": "Transport tickets app",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2230,
+            "Date": "2024-10-09",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2229,
+            "Date": "2024-10-09",
+            "Content": "🌐Target:\nhttps://ravkavonline.co.il/  \n\n💻Check host:\nhttps://check-host.net/check-report/1f20138dkb73\n\n#free_palestine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://ravkavonline.co.il/ ",
+                "tps://check-host.net/check-report/1f20138dkb73\n\n"
+            ]
         }
     ],
     "Anonymous Chat": [
