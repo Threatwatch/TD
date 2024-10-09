@@ -25220,6 +25220,16 @@
                 "North Africa"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 996,
+            "Date": "2024-10-09",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇫🇷France - Université Paris-Saclay\n\nRansomHouse hacking group claims to have breached Université Paris-Saclay. Allegedly, 1 TB of data were exfiltrated.\n\nLast August 12, through its X social media account, Université Paris-Saclay announced that a ransomware cyberattack had affected the university on 11/08/2024, which coincides exactly with the encryption date communicated by the ransomware group.\nhttps://x.com/UnivParisSaclay/status/1822993151428121078",
+            "Attack Type": "Hacking",
+            "Location": [
+                "France"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
