@@ -17680,6 +17680,39 @@
                 "ttps://www.hertz.co.il/\n",
                 "tps://check-host.net/check-report/1f2310e9kd8c\n\n"
             ]
+        },
+        {
+            "Message ID": 2247,
+            "Date": "2024-10-09",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2246,
+            "Date": "2024-10-09",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2245,
+            "Date": "2024-10-09",
+            "Content": "🌐 Target:\nhttps://stars-taxi.co.il/\n\n\n             Airport taxi app\n💻 Check host:\n\nhttps://check-host.net/check-report/1f233695k68e\n\n#free_palestine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://stars-taxi.co.il/\n",
+                "tps://check-host.net/check-report/1f233695k68e\n\n"
+            ]
         }
     ],
     "Anonymous Chat": [
