@@ -17525,6 +17525,19 @@
                 "ttps://ravkavonline.co.il/ ",
                 "tps://check-host.net/check-report/1f20138dkb73\n\n"
             ]
+        },
+        {
+            "Message ID": 2232,
+            "Date": "2024-10-09",
+            "Content": "🌐Target:\nhttps://www.israeldefense.co.il/  \n\n💻Check host:\nhttps://check-host.net/check-report/1f21dfabk13\n\n#free_palestine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.israeldefense.co.il/ ",
+                "tps://check-host.net/check-report/1f21dfabk13\n\n"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -25251,6 +25264,26 @@
             "Attack Type": "Hacking",
             "Location": [
                 "France"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 998,
+            "Date": "2024-10-09",
+            "Content": "🚨🚨Zero-Day Alert: Three Critical Ivanti CSA Vulnerabilities Actively Exploited\n\nhttps://thehackernews.com/2024/10/zero-day-alert-three-critical-ivanti.html",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 997,
+            "Date": "2024-10-09",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Victron Energy\n\nAbyss hacking group claims to have breached Victron Energy, a premier fuel distributor founded by Ali Sharaf.\n\nAllegedly, 2.3 TB of data were exfiltrated.\nRansom deadline: 16th Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
