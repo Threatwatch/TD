@@ -15165,6 +15165,42 @@
             "URLs": [
                 "ttps://blog.torproject.org/new-release-tor-browser-1357/"
             ]
+        },
+        {
+            "Message ID": 5258,
+            "Date": "2024-10-10",
+            "Content": "💡The live threat feed is live for Pro subscribers. Not much more will go into this page for the coming days so it can be monitored and made stable so the threat feed for Plus subscribers can go live a week later.\n\nhttps://darkwebinformer.com/live-threat-feed-pro/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/live-threat-feed-pro/"
+            ]
+        },
+        {
+            "Message ID": 5257,
+            "Date": "2024-10-10",
+            "Content": "🚨🇲🇩A Threat Actor is Allegedly Selling the Moldovan Border Police data\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-moldovan-border-police-data/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-moldovan-border-police-data/"
+            ]
+        },
+        {
+            "Message ID": 5256,
+            "Date": "2024-10-10",
+            "Content": "🚨A Threat Actor Allegedly is Selling data of Huttopia\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-data-of-huttopia/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-data-of-huttopia/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -19888,6 +19924,16 @@
                 "net/check-report/1f240686k3ff\n\n🌟https://check-ho",
                 "et/check-report/1f24216bkcd0\n\n#ElironNetworks\n#S"
             ]
+        },
+        {
+            "Message ID": 2259,
+            "Date": "2024-10-10",
+            "Content": "…💔",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
