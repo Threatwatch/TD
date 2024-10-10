@@ -14021,6 +14021,53 @@
                 "t.co.il/About.aspx\n\nMirror: ht",
                 "you.com/zone/252563"
             ]
+        },
+        {
+            "Message ID": 5162,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5161,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 07:13:44\n🚨 Title: Alleged data breach of Doscast\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Online Publishing\n🏢 Victim Organization: doscast\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: Handala Hack\n🌍 Network: telegram\n🔗 Claim: https://t.me/handala_hack3/124\n📝 Description: The group claims to have breached the systems of Doscast, a prominent podcast library serving the Haredi (ultra-Orthodox Jewish) community in Israel. They reportedly extracted a database containing 3 million lines of data, which includes information on over 100,000 users.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel",
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/handala_hack3/124\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 5160,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5159,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 07:13:22\n🚨 Title: RipperSec targets the website of NaturaBuy\n🛡️ Victim Country: France\n🏭 Victim Industry: Information Technology (IT) Services\n🏢 Victim Organization: naturabuy\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: RipperSec\n🌍 Network: telegram\n🔗 Claim: https://t.me/RipperSecIO/6116\n📝 Description: Group claims to have taken down the website of NaturaBuy Tir.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/RipperSecIO/6116\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -26053,6 +26100,16 @@
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1006,
+            "Date": "2024-10-10",
+            "Content": "🚨Cyberattacks Alert ‼️\n\n8Base ransomware group still active: Volkswagen among claimed attacks\n\nA new address for the data leak site of the 8Base ransomware group has recently been discovered, demonstrating that the group had not ceased its attacks (the last one detected by us was on June 21st).\n\nOn the site, the names of 13 companies allegedly hit by the ransomware group and uploaded to the data leak site on September 23rd can be found:\n\n🇩🇪 Volkswagen Group\n🇫🇷 Groupe Bayard\n🇺🇸 Stone Future Inc\n🇮🇹 Daldoss Elevetronic\n🇺🇸 Futureguard\n🇧🇪 Kerkstoel\n🇯🇲 Island Grill\n🇩🇰 ErgoFloor\n🇦🇹 Hauschild Installationen\n🇪🇸 Evlox (formerly Tavex)\n🇺🇸 Wild Apple Graphics\n🇩🇪 Schumag Aktiengesellschaft\n🇫🇷 Rossmann (SOFPO)\n\nFor all the entities impacted, the ransom demand expired on September 30th, but the data that was supposed to be published is currently unavailable.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "🇪"
             ],
             "URLs": []
         }
