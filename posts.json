@@ -14563,6 +14563,29 @@
                 "arkWebInformer.com ",
                 "ters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid.onion/companies/7322567353\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 5206,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5205,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 11:48:42\n🚨 Title: Atlantic Coast Consulting, Inc. falls victim to MEOW Ransomware\n🛡️ Victim Country: USA\n🏭 Victim Industry: Environmental Services\n🏢 Victim Organization: atlantic coast consulting, inc.\n🌐 Victim Site: \n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: MEOW\n🌍 Network: tor\n🔗 Claim: http://meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion/product/104\n📝 Description: The group claims to have access to over 30 GB of the organization's data, which includes Employee data, Client information, banking documents, including, financial reports and invoices, Tax reports, Personal data including dates of birth, passport and driver's license scans, and Social Security numbers, Agreements and certificates, Addresses, Medical information including medical records, insurance documents, and health reports And much more. Sample screenshots are added on their darkweb portal.\n\nNote : Atlantic Coast Consulting, Inc. had previously fallen victim to RansomHub Ransomware on 15 September 2024.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Employee"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion/product/104\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
