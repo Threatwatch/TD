@@ -15327,6 +15327,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-selling-the-database-of-sunplay-casino/"
             ]
+        },
+        {
+            "Message ID": 5271,
+            "Date": "2024-10-10",
+            "Content": "🚨🇺🇸Rhysida Ransomware has Claimed Axis Health System as a Victim\n\nhttps://darkwebinformer.com/rhysida-ransomware-has-claimed-axis-health-system-as-a-victim/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rhysida-ransomware-has-claimed-axis-health-system-as-a-victim/"
+            ]
+        },
+        {
+            "Message ID": 5270,
+            "Date": "2024-10-10",
+            "Content": "🚨🇬🇧A Threat Actor Allegedly is Selling the Database of an Unidentified Shop in the UK\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-the-database-of-an-unidentified-shop-in-the-uk/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-the-database-of-an-unidentified-shop-in-the-uk/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -28311,6 +28335,16 @@
             "Location": [
                 "Rhysida",
                 "Rhysida"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1017,
+            "Date": "2024-10-10",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Doctors Regional Cancer Center\n\nINC Ransom ransomware group claims to have breached Doctors Regional Cancer Center.\n\nSamples have been provided.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
