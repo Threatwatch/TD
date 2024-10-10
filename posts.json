@@ -15245,6 +15245,28 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5264,
+            "Date": "2024-10-10",
+            "Content": "https://x.com/Tails_live/status/1844418577891520933",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/Tails_live/status/1844418577891520933"
+            ]
+        },
+        {
+            "Message ID": 5263,
+            "Date": "2024-10-10",
+            "Content": "🚨🚨🚨🚨UPDATE TAILS IMMEDIATELY!!!",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
