@@ -15052,6 +15052,29 @@
                 "e/noname05716/9925\n📝 Descript",
                 "-host.net/check-report/1f2a85ccke46"
             ]
+        },
+        {
+            "Message ID": 5246,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5245,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 14:52:48\n🚨 Title: Rippersec targets the website of Credit Mutuel\n🛡️ Victim Country: France\n🏭 Victim Industry: Financial Services\n🏢 Victim Organization: crédit mutuel\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: RipperSec\n🌍 Network: telegram\n🔗 Claim: https://t.me/RipperSecIO/6127\n📝 Description: Group claims to have taken down the website of",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/RipperSecIO/6127\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
