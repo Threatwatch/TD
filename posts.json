@@ -14586,6 +14586,68 @@
                 "arkWebInformer.com ",
                 "6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion/product/104\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 5211,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5210,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 12:14:55\n🚨 Title: Barnes Cohen & Sullivan, P.A. falls victim to MEOW Ransomware\n🛡️ Victim Country: USA\n🏭 Victim Industry: Legal Services\n🏢 Victim Organization: barnes cohen & sullivan, p.a.\n🌐 Victim Site: \n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: MEOW\n🌍 Network: tor\n🔗 Claim: http://meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion/product/106\n📝 Description: The group claims to have access to over 30 GB of the organization's data, which includes Employee data, Client information, Scanned payment documents, Personal data (including dates of birth, Social Security numbers, drivers license scans, medical records, and medical exam results), Internal correspondence, Tax forms, Internal financial documents, Agreements And much more. Sample screenshots are added on their darkweb portal.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "P.A.",
+                "p.a.",
+                "Employee"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion/product/106\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 5209,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 12:13:00\n🚨 Title: CyberDragon targets the website of City of Charleroi\n🛡️ Victim Country: Belgium\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: city of charleroi\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: CyberDragon\n🌍 Network: telegram\n🔗 Claim: https://t.me/CyberDrakon/1322\n📝 Description: Proof of downtime: https://check-host.net/check-report/1f28f448kdf7",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Belgium"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/CyberDrakon/1322\n📝 Descript",
+                "k-host.net/check-report/1f28f448kdf7"
+            ]
+        },
+        {
+            "Message ID": 5208,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5207,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 12:02:32\n🚨 Title: Ferramenta La Futura Srl falls victim to MEOW Ransomware\n🛡️ Victim Country: Italy\n🏭 Victim Industry: Retail Industry\n🏢 Victim Organization: ferramenta la futura srl\n🌐 Victim Site: \n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: MEOW\n🌍 Network: tor\n🔗 Claim: http://meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion/product/105\n📝 Description: The group claims to have access to 19GB of the organization's data, which includes Personal data, such as identification numbers, insurance policies, and financial information, Client information, Banking and tax documents\nPersonal identification data including ID cards, drivers license scans, and passports, Agreements and certificates, Addresses, Medical records and health check-ups,And much more.\n\nNote : Ferramenta La Futura Srl had previously fallen victim to RansomHub Ransomware on 15 September 2024.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Italy"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion/product/105\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
