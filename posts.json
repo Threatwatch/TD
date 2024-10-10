@@ -15153,6 +15153,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5255,
+            "Date": "2024-10-10",
+            "Content": "💡The Tor Project released a new Tor Browser update yesterday.. be sure to update!\n\nhttps://blog.torproject.org/new-release-tor-browser-1357/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://blog.torproject.org/new-release-tor-browser-1357/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
