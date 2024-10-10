@@ -14874,6 +14874,46 @@
                 "e/MoroccanCyberForces/1172\n📝 Descript",
                 "you.com/zone/252638"
             ]
+        },
+        {
+            "Message ID": 5233,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5232,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 14:07:04\n🚨 Title: NoName targets the website of Port of Antwerp-Bruges\n🛡️ Victim Country: Belgium\n🏭 Victim Industry: Transportation & Logistics\n🏢 Victim Organization: port of antwerp-bruges\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/noname05716/9911\n📝 Description: Proof of downtime: https://check-host.net/check-report/1f291655kfce",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Port",
+                "Antwerp",
+                "Belgium"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/noname05716/9911\n📝 Descript",
+                "k-host.net/check-report/1f291655kfce"
+            ]
+        },
+        {
+            "Message ID": 5231,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 13:45:01\n🚨 Title: DXPLOIT targets the website of Pitié-Salpêtrière Hospital\n🛡️ Victim Country: France\n🏭 Victim Industry: Hospital & Health Care\n🏢 Victim Organization: hôpital pitié salpêtrière, ap-hp\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: DXPLOIT (OFFICIALS)\n🌍 Network: telegram\n🔗 Claim: https://t.me/DXPLOIT0/216\n📝 Description: Proof of downtime : https://check-host.net/check-report/1f2a441ekb48",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/DXPLOIT0/216\n📝 Descript",
+                "k-host.net/check-report/1f2a441ekb48"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -15233,6 +15273,174 @@
             ],
             "URLs": [
                 "https://www.publicnow.com/view/2185BEF67C0D0CD430F2B9A51A18F7E8B1B9CA7D?1724096882"
+            ]
+        },
+        {
+            "Message ID": 489,
+            "Date": "2024-10-10",
+            "Content": "https://goosedaily.com/article.php?ArticleNo=249161",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://goosedaily.com/article.php?ArticleNo=249161"
+            ]
+        },
+        {
+            "Message ID": 488,
+            "Date": "2024-10-10",
+            "Content": "https://www.fountmedia.io/article/244346",
+            "Attack Type": "Unknown",
+            "Location": [
+                "https://www.fountmedia.io/article/244346"
+            ],
+            "URLs": [
+                "https://www.fountmedia.io/article/244346"
+            ]
+        },
+        {
+            "Message ID": 487,
+            "Date": "2024-10-10",
+            "Content": "https://www.cloudsek.com/blog/navigating-the-cyber-threat-landscape-a-comprehensive-report-on-recent-attacks-and-vulnerabilities-in-mexico",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.cloudsek.com/blog/navigating-the-cyber-threat-landscape-a-comprehensive-report-on-recent-attacks-and-vulnerabilities-in-mexico"
+            ]
+        },
+        {
+            "Message ID": 486,
+            "Date": "2024-10-10",
+            "Content": "https://www.bitget.com/news/detail/12560604176955",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bitget.com/news/detail/12560604176955"
+            ]
+        },
+        {
+            "Message ID": 485,
+            "Date": "2024-10-10",
+            "Content": "https://moda.gov.tw/ACS/press/news/press/14134",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://moda.gov.tw/ACS/press/news/press/14134"
+            ]
+        },
+        {
+            "Message ID": 484,
+            "Date": "2024-10-10",
+            "Content": "https://tw.news.yahoo.com/快訊-又被襲擊-兆豐投信二度遇駭-緊急搶修恢復-081508534.html",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://tw.news.yahoo.com/快訊-又被襲擊-兆豐投信二度遇駭-緊急搶修恢復-081508534.html"
+            ]
+        },
+        {
+            "Message ID": 483,
+            "Date": "2024-10-10",
+            "Content": "https://youtu.be/Fw0OO8-XLwM?si=ABCwqqbeqV5RqRHO",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://youtu.be/Fw0OO8-XLwM?si=ABCwqqbeqV5RqRHO"
+            ]
+        },
+        {
+            "Message ID": 482,
+            "Date": "2024-10-10",
+            "Content": "https://x.com/darkwebinformer/status/1836459123145109789?s=46",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/darkwebinformer/status/1836459123145109789?s=46"
+            ]
+        },
+        {
+            "Message ID": 481,
+            "Date": "2024-10-10",
+            "Content": "https://darkwebinformer.com/rippersec-targeted-the-website-of-iit-mandi/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkwebinformer.com/rippersec-targeted-the-website-of-iit-mandi/"
+            ]
+        },
+        {
+            "Message ID": 477,
+            "Date": "2024-10-10",
+            "Content": "https://phpbb.ipb.tw/viewtopic.php?t=187933",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://phpbb.ipb.tw/viewtopic.php?t=187933"
+            ]
+        },
+        {
+            "Message ID": 476,
+            "Date": "2024-10-10",
+            "Content": "https://m.facebook.com/story.php?story_fbid=122190897140157258&id=61554717761195",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://m.facebook.com/story.php?story_fbid=122190897140157258&id=61554717761195"
+            ]
+        },
+        {
+            "Message ID": 473,
+            "Date": "2024-10-10",
+            "Content": "https://m.moneydj.com/f1a.aspx?a=9cc085a0-ce5f-45c1-a012-9c3426c4e8a9",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://m.moneydj.com/f1a.aspx?a=9cc085a0-ce5f-45c1-a012-9c3426c4e8a9"
+            ]
+        },
+        {
+            "Message ID": 467,
+            "Date": "2024-10-10",
+            "Content": "https://www.setn.com/m/ampnews.aspx?NewsID=1531379",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.setn.com/m/ampnews.aspx?NewsID=1531379"
+            ]
+        },
+        {
+            "Message ID": 463,
+            "Date": "2024-10-10",
+            "Content": "https://youtu.be/MNTyZ-iXGAI?si=QzaCKW-ZTZ1FasSI",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://youtu.be/MNTyZ-iXGAI?si=QzaCKW-ZTZ1FasSI"
             ]
         }
     ],
