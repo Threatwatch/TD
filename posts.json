@@ -15267,6 +15267,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5265,
+            "Date": "2024-10-10",
+            "Content": "https://9to5linux.com/ubuntu-24-10-oracular-oriole-is-now-available-for-download-this-is-whats-new",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://9to5linux.com/ubuntu-24-10-oracular-oriole-is-now-available-for-download-this-is-whats-new"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -19995,6 +20007,16 @@
             "Message ID": 2259,
             "Date": "2024-10-10",
             "Content": "…💔",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2260,
+            "Date": "2024-10-10",
+            "Content": "«فَلَمَّا جَاءَ أَمْرُنَا جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِنْ سِجِّيلٍ مَنْضُودٍ - مُسَوَّمَةً عِنْدَ رَبِّكَ ۖ وَمَا هِيَ مِنَ الظَّالِمِينَ بِبَعِيدٍ»",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
