@@ -28268,6 +28268,27 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1016,
+            "Date": "2024-10-10",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Oklahoma Sleep Institute\n\nThreeAM hacking group claims to have breached Oklahoma Sleep Institute.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1015,
+            "Date": "2024-10-10",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Axis Health System, Rhysida Demands 25 BTC\n\nRhysida hacking group claims to have breached Axis Health System. \n\nRansom demand: 25 BTC (approx. $1,580,000).\nRansom deadline: 17th Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Rhysida",
+                "Rhysida"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
