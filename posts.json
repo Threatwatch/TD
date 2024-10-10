@@ -14729,6 +14729,29 @@
                 "e/noname05716/9905\n📝 Descript",
                 "k-host.net/check-report/1f289d9bkaa4"
             ]
+        },
+        {
+            "Message ID": 5220,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5219,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 12:30:16\n🚨 Title: RipperSec targets the website of Caves Ambacia\n🛡️ Victim Country: France\n🏭 Victim Industry: Wine & Spirits\n🏢 Victim Organization: caves ambacia\n🌐 Victim Site: \n📜 Category: Defacement\n🕵️‍♂️ Threat Actor: RipperSec\n🌍 Network: telegram\n🔗 Claim: https://t.me/RipperSecIO/6124\n📝 Description: Group claims to have defaced the website of Caves Ambacia.",
+            "Attack Type": "Defacement",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/RipperSecIO/6124\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -15004,6 +15027,18 @@
             ],
             "URLs": [
                 "https://x.com/alarmsglobal/status/1834152479140749327?s=46"
+            ]
+        },
+        {
+            "Message ID": 406,
+            "Date": "2024-10-10",
+            "Content": "https://x.com/falconfeedsio/status/1837015758351589656?s=46",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/falconfeedsio/status/1837015758351589656?s=46"
             ]
         }
     ],
