@@ -14363,6 +14363,30 @@
                 "arkWebInformer.com ",
                 "2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/company/7890478\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 5189,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5188,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 10:29:01\n🚨 Title: Tavex Group falls victim to 8BASE Ransomware\n🛡️ Victim Country: Mexico\n🏭 Victim Industry: Manufacturing\n🏢 Victim Organization: tavex group\n🌐 Victim Site: \n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: 8BASE\n🌍 Network: tor\n🔗 Claim: http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/company/7890477\n📝 Description: The group claims to have access to the organization's data, which includes Invoice, Receipts, Accounting documents, Personal data, Certificates, Employment contracts, A huge amount of confidential information, Confidentiality agreements, Personal files and Other.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Mexico",
+                "Invoice"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/company/7890477\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
