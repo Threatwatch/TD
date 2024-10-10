@@ -15075,6 +15075,20 @@
                 "arkWebInformer.com ",
                 "e/RipperSecIO/6127\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 5247,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 15:14:14\n🚨 Title: MEDAN CYBER TEAM targets the website of BDS Movement\n🛡️ Victim Country: Palestine\n🏭 Victim Industry: Civic & Social Organization\n🏢 Victim Organization: bds\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: MEDAN CYBER TEAM\n🌍 Network: telegram\n🔗 Claim: https://t.me/MedanCyberTeamindo/1314\n📝 Description: Proof of downtime:  https://check-host.net/check-http?host=https%3A%2F%2Fbdsmovement.net%2F",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/MedanCyberTeamindo/1314\n📝 Descript",
+                "k-host.net/check-http?host=https%3A%2F%2Fbdsmovement.net%2F"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -22209,6 +22223,16 @@
             "Message ID": 6954,
             "Date": "2024-10-10",
             "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6973,
+            "Date": "2024-10-10",
+            "Content": "ia_users.sql 6.4GB share plz :D",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
