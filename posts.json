@@ -14068,6 +14068,55 @@
                 "arkWebInformer.com ",
                 "e/RipperSecIO/6116\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 5166,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5165,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 08:58:25\n🚨 Title: NoName targets the website of the Ministry of Economy in Belgium\n🛡️ Victim Country: Belgium\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: federal public service economy\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/noname05716/9902\n📝 Description: Proof of downtime: https://check-host.net/check-report/1f285763kd62",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Belgium",
+                "Belgium"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/noname05716/9902\n📝 Descript",
+                "k-host.net/check-report/1f285763kd62"
+            ]
+        },
+        {
+            "Message ID": 5164,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5163,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 08:58:18\n🚨 Title: NoName targets the website of Febelfin\n🛡️ Victim Country: Belgium\n🏭 Victim Industry: Financial Services\n🏢 Victim Organization: febelfin\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/noname05716/9902\n📝 Description: Proof of downtime: https://check-host.net/check-report/1f285935kb8a",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Belgium"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/noname05716/9902\n📝 Descript",
+                "k-host.net/check-report/1f285935kb8a"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -26202,6 +26251,16 @@
             "Attack Type": "Hacking",
             "Location": [
                 "Qualcomm"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1008,
+            "Date": "2024-10-10",
+            "Content": "🚨Data Breach Alert ‼️\n\n🇮🇱Israel - Doscast\n\nHandala, a pro-Palestinian hacktivist group, claims to have hacked Doscast, the largest radical Jewish community podcast website.\n\nAllegedly, the attack led to the exfiltration of a database containing 3 million lines of data from over 100,000 users.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
