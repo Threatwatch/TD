@@ -15027,6 +15027,31 @@
                 "e/noname05716/9911\n📝 Descript",
                 "k-host.net/check-report/1f2905f7k3ad"
             ]
+        },
+        {
+            "Message ID": 5244,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5243,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 14:46:43\n🚨 Title: NoName targets the website of Centre for Cyber Security Belgium\n🛡️ Victim Country: Belgium\n🏭 Victim Industry: Information Technology (IT) Services\n🏢 Victim Organization: centre for cyber security belgium\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/noname05716/9925\n📝 Description: Proof of downtime : http://check-host.net/check-report/1f2a85ccke46",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Centre",
+                "Belgium"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/noname05716/9925\n📝 Descript",
+                "-host.net/check-report/1f2a85ccke46"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
