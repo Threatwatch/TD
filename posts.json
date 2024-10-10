@@ -13922,6 +13922,53 @@
                 "arkWebInformer.com ",
                 "omawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion/?page=2\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 5154,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5153,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 06:06:58\n🚨 Title: Alleged data leak of Ministry of Welfare and Social Affairs, Israel\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: ministry of welfare and social affairs\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: LordZeroDay\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-ISRAEL-Israel-Ministry-Of-Welfare-Leak\n📝 Description: The threat actor claims to have leaked a 50.4 MB CSV file containing data from the Israeli Ministry of Welfare and Social Affairs.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Israel",
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-ISRAEL-Israel-Ministry-Of-Welfare-Leak\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 5152,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5151,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 06:01:05\n🚨 Title: Alleged leak of admin access to TelefonKumpel\n🛡️ Victim Country: Germany\n🏭 Victim Industry: Network & Telecommunications\n🏢 Victim Organization: telefonkumpel\n🌐 Victim Site: \n📜 Category: Initial Access\n🕵️‍♂️ Threat Actor: Z-BL4CX-H4T\n🌍 Network: telegram\n🔗 Claim: https://t.me/Z_BL4CK_H4T/8435\n📝 Description: Group claims to have leaked the admin credentials of TelefonKumpel.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Germany"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/Z_BL4CK_H4T/8435\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -25941,6 +25988,16 @@
             "Message ID": 1004,
             "Date": "2024-10-10",
             "Content": "🚨Internet Archive hacked. 31M records breached🚨\n\nThe breach exposed user records including email addresses, screen names and bcrypt password hashes.\n\nHIBP permalink: https://haveibeenpwned.com/PwnedWebsites#InternetArchive",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1005,
+            "Date": "2024-10-10",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇮🇩Indonesia - Trans F&B\n\nKill Security hacking group claims to have breached Trans F&B. \n\nAllegedly, exfiltrated data include sensitive personal information (PII) such as full names, birth dates, addresses, religion, gender, and email addresses.",
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
