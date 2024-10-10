@@ -15419,6 +15419,16 @@
             "URLs": [
                 "ttps://darkwebinformer.com/cve-2024-24919-check-point-quantum-security-gateways-with-ipsec-vpn-in-remote-access-vpn-poc/"
             ]
+        },
+        {
+            "Message ID": 5278,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
