@@ -14248,6 +14248,78 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 317,
+            "Date": "2024-10-10",
+            "Content": "https://enn.tw/557870/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://enn.tw/557870/"
+            ]
+        },
+        {
+            "Message ID": 316,
+            "Date": "2024-10-10",
+            "Content": "https://firenews.com.tw/2024/10/07/駭客攻勢鎖定國內科技業-聯電",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://firenews.com.tw/2024/10/07/駭客攻勢鎖定國內科技業-聯電"
+            ]
+        },
+        {
+            "Message ID": 315,
+            "Date": "2024-10-10",
+            "Content": "https://www.scooptw.com/sunmedia/297568/駭客攻勢鎖定國內科技業-聯電",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scooptw.com/sunmedia/297568/駭客攻勢鎖定國內科技業-聯電"
+            ]
+        },
+        {
+            "Message ID": 314,
+            "Date": "2024-10-10",
+            "Content": "https://news.owlting.com/articles/829521",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://news.owlting.com/articles/829521"
+            ]
+        },
+        {
+            "Message ID": 301,
+            "Date": "2024-10-10",
+            "Content": "http://briefly.co/anchor/Information_security/story/internet-archive-leaks-user-info-and-succumbs-to-ddos?post=chinese-cyber-experts-say-targeted-operation-hit-trump-elon-chat",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://briefly.co/anchor/Information_security/story/internet-archive-leaks-user-info-and-succumbs-to-ddos?post=chinese-cyber-experts-say-targeted-operation-hit-trump-elon-chat"
+            ]
+        },
+        {
+            "Message ID": 295,
+            "Date": "2024-10-10",
+            "Content": "https://www.chinatimes.com/realtimenews/20241005003526-260410",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.chinatimes.com/realtimenews/20241005003526-260410"
+            ]
         }
     ],
     "لواء محمد ﷺ": [
@@ -20407,6 +20479,16 @@
                 "net/check-report/1f240686k3ff\n\n🌟https://check-ho",
                 "et/check-report/1f24216bkcd0\n\n#ElironNetworks\n#S"
             ]
+        },
+        {
+            "Message ID": 6953,
+            "Date": "2024-10-10",
+            "Content": "Is there anyone who sells American CVV plus SSN?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -26110,6 +26192,16 @@
             "Attack Type": "Data Breach",
             "Location": [
                 "🇪"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1007,
+            "Date": "2024-10-10",
+            "Content": "🚨 Hackers targeted Android users by exploiting zero-day bug in Qualcomm chips 🚨\n\nThe zero-day vulnerability is officially designated as CVE-2024-43047.\n\nhttps://techcrunch.com/2024/10/09/hackers-were-targeting-android-users-with-qualcomm-zero-day/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Qualcomm"
             ],
             "URLs": []
         }
