@@ -14648,6 +14648,87 @@
                 "arkWebInformer.com ",
                 "6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion/product/105\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 5218,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5217,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5216,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 12:28:55\n🚨 Title: Medex falls victim to RansomHub Ransomware\n🛡️ Victim Country: USA\n🏭 Victim Industry: Hospital & Health Care\n🏢 Victim Organization: medex\n🌐 Victim Site: \n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: RansomHub\n🌍 Network: tor\n🔗 Claim: http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion/fc90f323-1884-4f45-a3b4-6cd8fe6b43fe/\n📝 Description: The group claims to have access to the organization's data, which includes PII, financial data, health information, corporate data, credentials, intellectual property, and other confidential information. Sample screenshots are added on their darkweb portal.\n\nNote : Medex had previously fallen victim to CL0P Ransomware on September 22, 2023.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "omxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion/fc90f323-1884-4f45-a3b4-6cd8fe6b43fe/\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 5215,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5214,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 12:26:34\n🚨 Title: NoName targets the website of Municipality of Welkenraedt\n🛡️ Victim Country: Belgium\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: municipality of welkenraedt\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/noname05716/9905\n📝 Description: Proof of downtime: https://check-host.net/check-report/1f28785fk3f0",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Belgium"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/noname05716/9905\n📝 Descript",
+                "k-host.net/check-report/1f28785fk3f0"
+            ]
+        },
+        {
+            "Message ID": 5213,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5212,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 12:22:11\n🚨 Title: NoName targets the website of Municipality of Sankt Vith\n🛡️ Victim Country: Belgium\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: municipality of sankt vith\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/noname05716/9905\n📝 Description: Proof of downtime: https://check-host.net/check-report/1f289d9bkaa4",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Belgium"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/noname05716/9905\n📝 Descript",
+                "k-host.net/check-report/1f289d9bkaa4"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
