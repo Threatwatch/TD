@@ -42540,6 +42540,19 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1234,
+            "Date": "2024-10-10",
+            "Content": "https://www.dyami.news/p/coming-soon\n\nhttps://daily30768.rssing.com/chan-80246333/article68.html",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.dyami.news/p/coming-soon",
+                "https://daily30768.rssing.com/chan-80246333/article68.html"
+            ]
         }
     ],
     "AHU Official": [
