@@ -14752,6 +14752,29 @@
                 "arkWebInformer.com ",
                 "e/RipperSecIO/6124\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 5222,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5221,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 12:56:46\n🚨 Title: Alleged sale of Department of Thai Traditional and Alternative Medicine users data\n🛡️ Victim Country: Thailand\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: department of thai traditional and alternative medicine\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: FantomeJ3\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-SELLING-Thai-User-data\n📝 Description: The threat actor claims to be selling 57000 lines of user's data from Department of Thai Traditional and Alternative Medicine. The compromised dataset includes mobile, fullname, gender, race, nation, religion, birth_date, address, email etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Thailand"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-SELLING-Thai-User-data\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -15039,6 +15062,78 @@
             ],
             "URLs": [
                 "https://x.com/falconfeedsio/status/1837015758351589656?s=46"
+            ]
+        },
+        {
+            "Message ID": 433,
+            "Date": "2024-10-10",
+            "Content": "https://focustaiwan.tw/politics/202409140012",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://focustaiwan.tw/politics/202409140012"
+            ]
+        },
+        {
+            "Message ID": 430,
+            "Date": "2024-10-10",
+            "Content": "https://news.m.pchome.com.tw/living/awakening/20240915/index-17263895353085043009.html",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://news.m.pchome.com.tw/living/awakening/20240915/index-17263895353085043009.html"
+            ]
+        },
+        {
+            "Message ID": 425,
+            "Date": "2024-10-10",
+            "Content": "https://darkwebinformer.com/rippersec-allegedly-leaked-the-database-of-taiwan-horticultural-therapy-association/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkwebinformer.com/rippersec-allegedly-leaked-the-database-of-taiwan-horticultural-therapy-association/"
+            ]
+        },
+        {
+            "Message ID": 422,
+            "Date": "2024-10-10",
+            "Content": "https://x.com/FalconFeedsio/status/1839637393428631845?t=_AEhkGRRGozo0q1resBuIQ&s=19",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/FalconFeedsio/status/1839637393428631845?t=_AEhkGRRGozo0q1resBuIQ&s=19"
+            ]
+        },
+        {
+            "Message ID": 421,
+            "Date": "2024-10-10",
+            "Content": "https://unsafe.sh/go-264230.html",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://unsafe.sh/go-264230.html"
+            ]
+        },
+        {
+            "Message ID": 417,
+            "Date": "2024-10-10",
+            "Content": "https://www.publicnow.com/view/2185BEF67C0D0CD430F2B9A51A18F7E8B1B9CA7D?1724096882",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.publicnow.com/view/2185BEF67C0D0CD430F2B9A51A18F7E8B1B9CA7D?1724096882"
             ]
         }
     ],
@@ -27150,6 +27245,16 @@
             "Message ID": 1011,
             "Date": "2024-10-10",
             "Content": "🚨Data Breach Alert ‼️\n\n🇰🇼Kuwait - Boutiqaat\n\nA potential data breach at Boutiqaat has been detected on a hacking forum: the threat actor claims to have leaked for free a database containing the details of 3 million users.\n\nAccording to the post, the stolen database contains information such as names, email addresses, phone numbers, and physical addresses from various Middle Eastern countries.\n\nThe confirmation or denial of these claims has yet to be verified, but in the meantime, Boutiqaat users are advised to be cautious of potential phishing attempts.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1012,
+            "Date": "2024-10-10",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇮🇹Italy - Ferramenta La Futura Srl\n\nMeow hacking group claims to have breached Ferramenta La Futura Srl. \n\nAllegedly, 19 GB of data were exfiltrated, including personal data such as identification numbers, insurance policies, financial information, client information, banking and tax documents, ID cards, driver’s license scans, passports, agreements, certificates, addresses, and medical records.\n\nThis is the second time the company has been threatened by a hacking group: on September 15th, the RansomHub ransomware group claimed to have breached Ferramenta La Futura Srl and exfiltrated data such as clients, companies, financial information, and many more confidential documents.",
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
