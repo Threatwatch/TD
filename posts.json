@@ -28046,6 +28046,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1014,
+            "Date": "2024-10-10",
+            "Content": "🚨Data Breach Alert: Save The Children\n\nSave The Children International has reportedly been compromised by a cybercriminal who claims to have stolen over 13,000 records belonging to global partners and approximately 8,000 employees. \n\nAllegedly, the stolen data includes full names, source code (over 6 GB), financial information, databases, and additional sensitive material.\n\nThe confirmation or denial of these claims has yet to be verified",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
