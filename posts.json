@@ -15395,6 +15395,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-anahuac-university/"
             ]
+        },
+        {
+            "Message ID": 5277,
+            "Date": "2024-10-10",
+            "Content": "https://cyberpolice.gov.ua/news/zasnuvav-startap-dlya-dostupu-do-pidsankczijnyx-rosijskyx-vebsajtiv-kiberpoliczejski-xmelnychchyny-vykryly-xakera-6042/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyberpolice.gov.ua/news/zasnuvav-startap-dlya-dostupu-do-pidsankczijnyx-rosijskyx-vebsajtiv-kiberpoliczejski-xmelnychchyny-vykryly-xakera-6042/"
+            ]
+        },
+        {
+            "Message ID": 5276,
+            "Date": "2024-10-10",
+            "Content": "🚨CVE-2024-24919 - Check Point Quantum Security Gateways with IPsec VPN in Remote Access VPN PoC\n\nhttps://darkwebinformer.com/cve-2024-24919-check-point-quantum-security-gateways-with-ipsec-vpn-in-remote-access-vpn-poc/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/cve-2024-24919-check-point-quantum-security-gateways-with-ipsec-vpn-in-remote-access-vpn-poc/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -20178,6 +20202,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2265,
+            "Date": "2024-10-10",
+            "Content": "#حسين_مرتضى \n\n‏عندما نقل العدو الصهيوني عشرات الجرحى من ارهابي سورية الى مستشفيات الاحتلال وزارهم ‌ #نتنياهو⁩ تذكرون ، هؤلاء اصبحوا ضباط تجنيد تم اعادتهم الى مناطق المسلحين وبدأو مهمتهم بتجنيد العملاء ما بين سورية ولبنان والعراق وتم تشكيل شبكات كبيرة جدا مهمتها جمع المعلومات ، عندما نقول ان ما يسمى سسسسسورة في سورية هم اداة للاحتلال وهم غلمان عند ‌ #نتنياهو⁩ كان ينزعج البعض ، اليوم ادركنا اكثر اهمية مساندة حزب الله للجيش السوري في حربه الصهيونية الارهابية \n‏‌ #سننتصر",
+            "Attack Type": "Unknown",
+            "Location": [
+                "ادركنا"
             ],
             "URLs": []
         }
