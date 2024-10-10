@@ -13766,6 +13766,96 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5144,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5143,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5142,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 05:38:57\n🚨 Title: Ciclo Cairu falls victim to Sarcoma Ransomware\n🛡️ Victim Country: Brazil\n🏭 Victim Industry: Manufacturing\n🏢 Victim Organization: ciclo cairu\n🌐 Victim Site: \n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: Sarcoma\n🌍 Network: tor\n🔗 Claim: http://sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion/?page=2\n📝 Description: Group claims to have access to 384 GB of organization's data and plans to publish it within 8-9 days.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "omawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion/?page=2\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 5141,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5140,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5139,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 05:33:15\n🚨 Title: Structure-flex Ltd falls victim to Sarcoma Ransomware\n🛡️ Victim Country: UK\n🏭 Victim Industry: Packaging & Containers\n🏢 Victim Organization: structure-flex ltd\n🌐 Victim Site: \n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: Sarcoma\n🌍 Network: tor\n🔗 Claim: http://sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion/?page=2\n📝 Description: Group claims to have published 139 GB of organization's data on their dark web portal.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "omawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion/?page=2\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 5138,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5137,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 05:26:44\n🚨 Title: Moroccan Dragons targets the website of Indian Institute of Remote Sensing\n🛡️ Victim Country: India\n🏭 Victim Industry: Research Industry\n🏢 Victim Organization: indian institute of remote sensing\n🌐 Victim Site: \n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: Moroccan Dragons\n🌍 Network: telegram\n🔗 Claim: https://t.me/Moroccan_Dragons/639\n📝 Description: Proof of downtime: https://check-host.net/check-http?host=iirs.gov.in",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/Moroccan_Dragons/639\n📝 Descript",
+                "k-host.net/check-http?host=iirs.gov.in"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -25778,6 +25868,16 @@
                 "Rio Marine",
                 "Bulgaria",
                 "Qatar"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1004,
+            "Date": "2024-10-10",
+            "Content": "🚨Internet Archive hacked. 31M records breached🚨\n\nThe breach exposed user records including email addresses, screen names and bcrypt password hashes.\n\nHIBP permalink: https://haveibeenpwned.com/PwnedWebsites#InternetArchive",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
