@@ -14234,6 +14234,76 @@
                 "arkWebInformer.com ",
                 "2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/company/7890479\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 5182,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5181,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 09:57:50\n🚨 Title: Futureguard Building Products Inc falls victim to 8BASE Ransomware\n🛡️ Victim Country: USA\n🏭 Victim Industry: Manufacturing\n🏢 Victim Organization: futureguard building products inc\n🌐 Victim Site: \n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: 8BASE\n🌍 Network: tor\n🔗 Claim: http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/company/7890470\n📝 Description: The group claims to have access to the organization's data, which includes Invoice, Receipts, Accounting documents, Personal data, Certificates, Employment contracts, A huge amount of confidential information, Confidentiality agreements, Personal files and Other.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Invoice"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/company/7890470\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 5180,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5179,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 09:56:03\n🚨 Title: Stone Future, Inc. falls victim to 8BASE Ransomware\n🛡️ Victim Country: USA\n🏭 Victim Industry: Furniture\n🏢 Victim Organization: stone future, inc.\n🌐 Victim Site: \n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: 8BASE\n🌍 Network: tor\n🔗 Claim: http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/company/7890468\n📝 Description: The group claims to have access to the organization's data, which includes Invoice, Receipts, Accounting documents, Personal data, Certificates, Employment contracts, A huge amount of confidential information, Confidentiality agreements, Personal files and Other.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Invoice"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/company/7890468\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 5178,
+            "Date": "2024-10-10",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5177,
+            "Date": "2024-10-10",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-10 09:51:37\n🚨 Title: Daldoss Elevetronic falls victim to 8BASE Ransomware\n🛡️ Victim Country: Italy\n🏭 Victim Industry: Machinery Manufacturing\n🏢 Victim Organization: daldoss elevetronic\n🌐 Victim Site: \n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: 8BASE\n🌍 Network: tor\n🔗 Claim: http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/company/7890469\n📝 Description: The group claims to have access to the organization's data, which includes Invoice, Receipts, Accounting documents, Personal data, Certificates, Employment contracts, A huge amount of confidential information, Confidentiality agreements, Personal files and Other.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Italy",
+                "Invoice"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/company/7890469\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -26389,6 +26459,16 @@
             "Location": [
                 "Japan",
                 "Casio"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1010,
+            "Date": "2024-10-10",
+            "Content": "🇯🇵Japan - JAXA Cyberattack: Hackers Breach Accounts of Top Officials, Exposing Sensitive Space and Defense Data \n\nhttps://securityonline.info/jaxa-cyberattack-hackers-breach-accounts-of-top-officials-exposing-sensitive-space-and-defense-data/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Japan"
             ],
             "URLs": []
         }
