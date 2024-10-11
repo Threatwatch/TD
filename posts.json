@@ -15669,6 +15669,18 @@
                 "Files"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5300,
+            "Date": "2024-10-11",
+            "Content": "💡DorkGPT: Generate Google Dorks with AI\n\nhttps://www.dorkgpt.com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "AI"
+            ],
+            "URLs": [
+                "ttps://www.dorkgpt.com/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
