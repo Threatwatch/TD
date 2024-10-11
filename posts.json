@@ -15635,6 +15635,40 @@
             "URLs": [
                 "ps://darkwebinformer.com/tylerdurden-is-allegedly-selling-a-database-of-an-unidentified-shop-in-the-usa/"
             ]
+        },
+        {
+            "Message ID": 5299,
+            "Date": "2024-10-11",
+            "Content": "💡Stats of the website/socials have been updated. Darknet Market stats will be updated next week.\n\nhttps://darkwebinformer.com/stats/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/stats/"
+            ]
+        },
+        {
+            "Message ID": 5298,
+            "Date": "2024-10-11",
+            "Content": "🚨🇺🇸Anti-NATO is Allegedly Selling data Belonging to the American Election Campaign\n\nhttps://darkwebinformer.com/anti-nato-is-allegedly-selling-data-belonging-to-the-american-election-campaign/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/anti-nato-is-allegedly-selling-data-belonging-to-the-american-election-campaign/"
+            ]
+        },
+        {
+            "Message ID": 5297,
+            "Date": "2024-10-11",
+            "Content": "A #OpSec tip that is often overlooked is metadata sanitation on files before sharing them. Many people are careful about their personal details in the content of a file but forget that the metadata of documents, images, or PDFs can contain sensitive information.\n\nWhat is Metadata?\n\nMetadata is data about data. For example, a Word document may include the author’s name, the time the file was created, software version used, and even the path to the file on your computer. Images might contain GPS coordinates if taken with a smartphone, along with the camera model.\n\nOpSec Tip: Always Strip Metadata from Files\n\nBefore sharing or publishing any document or image, remove its metadata to prevent unintended disclosure of personal or sensitive information.\n\nHow to Remove Metadata:\n\n- On Windows: Right-click the file → Properties → Details → Click on \"Remove Properties and Personal Information\" and select what to remove.\n\n- On macOS: Preview the file, go to Tools → Show Inspector and check for metadata in the \"Info\" panel. Use third-party tools like ExifTool to remove it.\n\n- On Linux: Use command-line tools like exiftool or mat2 to strip metadata.\n\nTools for Metadata Removal:\n\n- ExifTool: Can be used for images and documents (exiftool -all= filename).\n\n- MAT (Metadata Anonymization Toolkit): A simple tool designed to strip metadata from multiple file types.\n\nBy regularly cleaning metadata from your files, you prevent attackers from gathering information about your device, software, location, or other digital breadcrumbs that can compromise your anonymity.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Files"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
