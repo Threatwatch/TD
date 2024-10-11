@@ -15551,6 +15551,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5291,
+            "Date": "2024-10-11",
+            "Content": "🚨🇺🇸IntelBroker and almighty4444 are Allegedly Selling  the Database of Dennis Kirk\n\nhttps://darkwebinformer.com/intelbroker-and-almighty4444-are-allegedly-selling-the-database-of-dennis-kirk/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/intelbroker-and-almighty4444-are-allegedly-selling-the-database-of-dennis-kirk/"
+            ]
+        },
+        {
+            "Message ID": 5290,
+            "Date": "2024-10-11",
+            "Content": "💡I removed DOGE & LTC as payment methods via Crypto. They both started to have their nodes resync & it's not worth the resources to have them fully sync. BTC/XMR are still accepted. If you really want to pay by DOGE or LTC reach out to me on my socials. https://darkwebinformer.com/crypto-payments/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/crypto-payments/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -28674,6 +28698,16 @@
                 "Korea",
                 "New York",
                 "Google Drive"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1022,
+            "Date": "2024-10-11",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - PROMISE Technology\n\nAbyss hacking group claims to have breached PROMISE Technology. \n\nAllegedly, 1.8 TB of data were exfiltrated.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
