@@ -15727,6 +15727,18 @@
             "URLs": [
                 "https://spdf.gsfc.nasa.gov/pub/"
             ]
+        },
+        {
+            "Message ID": 5305,
+            "Date": "2024-10-11",
+            "Content": "🚨🇺🇸A Threat Actor Allegedly has Leaked Data from an Unidentified bank in the USA\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-data-from-an-unidentified-bank-in-the-usa/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-data-from-an-unidentified-bank-in-the-usa/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
