@@ -15585,6 +15585,44 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5295,
+            "Date": "2024-10-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5294,
+            "Date": "2024-10-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5293,
+            "Date": "2024-10-11",
+            "Content": "📰Over 3 billion hryvnias in damages across Europe and North America: a member of an international hacker group to stand trial in Ukraine\n\nhttps://cyberpolice.gov.ua/news/ponad--milyardy-gryven-zbytkiv-krayinam-yevropy-j-pivnichnoyi-ameryky-v-ukrayini-sudytymut-uchasnyka-mizhnarodnogo-xakerskogo-ugrupovannya-3103/\n\nAttackers attacked industrial enterprises in France, Germany, the USA, Norway, the Netherlands and Canada, using self-developed encryption viruses. In this way, hackers gained access to servers through hacked employee accounts, stole information and encrypted computers, after which they demanded a ransom in cryptocurrency",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Ukraine",
+                "France",
+                "Germany",
+                "USA",
+                "Norway",
+                "Netherlands",
+                "Canada"
+            ],
+            "URLs": [
+                "ttps://cyberpolice.gov.ua/news/ponad--milyardy-gryven-zbytkiv-krayinam-yevropy-j-pivnichnoyi-ameryky-v-ukrayini-sudytymut-uchasnyka-mizhnarodnogo-xakerskogo-ugrupovannya-3103/\n"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -20414,6 +20452,43 @@
             "URLs": [
                 "ttps://shop.iwi.net/\n",
                 "tps://check-host.net/check-report/1f329251kc7a\n\n"
+            ]
+        },
+        {
+            "Message ID": 2270,
+            "Date": "2024-10-11",
+            "Content": "https://github.com/convisolabs/CVE-2024-43044-jenkins\n\nExploit for the vulnerability CVE-2024-43044 in Jenkins\n#github #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Jenkins"
+            ],
+            "URLs": [
+                "https://github.com/convisolabs/CVE-2024-43044-jenkins"
+            ]
+        },
+        {
+            "Message ID": 2269,
+            "Date": "2024-10-11",
+            "Content": "https://github.com/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof\n\nExploit for CVE-2024-9570\n#github #exploit",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof"
+            ]
+        },
+        {
+            "Message ID": 2268,
+            "Date": "2024-10-11",
+            "Content": "Target:\nhttps://www.independentarabia.com\n\n\n💻 Check host:\n\nhttps://check-host.net/check-report/1f338790k85c\n\n#free_palestine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.independentarabia.com",
+                "ttps://check-host.net/check-report/1f338790k85c\n"
             ]
         }
     ],
