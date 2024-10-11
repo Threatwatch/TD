@@ -15681,6 +15681,18 @@
             "URLs": [
                 "ttps://www.dorkgpt.com/"
             ]
+        },
+        {
+            "Message ID": 5301,
+            "Date": "2024-10-11",
+            "Content": "🚨CVE-2024-42640 PoC: Unauthenticated Remote Code Execution via Angular-Base64-Upload Library\n\nhttps://darkwebinformer.com/cve-2024-42640-poc-unauthenticated-remote-code-execution-via-angular-base64-upload-library/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/cve-2024-42640-poc-unauthenticated-remote-code-execution-via-angular-base64-upload-library/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
