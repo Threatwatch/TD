@@ -15575,6 +15575,16 @@
             "URLs": [
                 "ttps://darkwebinformer.com/crypto-payments/"
             ]
+        },
+        {
+            "Message ID": 5292,
+            "Date": "2024-10-11",
+            "Content": "💡Cheat Sheet for Designing Secure Systems",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -28705,6 +28715,16 @@
             "Message ID": 1022,
             "Date": "2024-10-11",
             "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - PROMISE Technology\n\nAbyss hacking group claims to have breached PROMISE Technology. \n\nAllegedly, 1.8 TB of data were exfiltrated.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1023,
+            "Date": "2024-10-11",
+            "Content": "🚨🚨Cyberattack Alert ‼️\n\n🇺🇸USA - PracticeSuite\n\nRansomHub hacking group claims to have breached PracticeSuite, a medical practice management software.\n\nAllegedly, 26 GB of data, including 45,000 client clinics' data, were exfiltrated. \n\nRansom deadline: 17th Oct 24.",
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
