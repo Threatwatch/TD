@@ -28521,6 +28521,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1019,
+            "Date": "2024-10-11",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Law Office of Omar O. Vargas, threatened for the third time in three months\n\nMeow hacking group claims to have breached the Law Office of Omar O. Vargas, P.C. \n\nAllegedly, 14 GB of data were exfiltrated, including employee data, client information, scanned payment documents, personal data (such as dates of birth, Social Security numbers, driver's license scans, and client tax forms), medical records, court documents, internal financial documents, agreements, and certificates. \n\nPreviously, on July 17, the law office was listed among the victims of Everest, and on September 17 by the RansomHub ransomware group.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "P.C."
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
