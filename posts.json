@@ -15693,6 +15693,18 @@
             "URLs": [
                 "ttps://darkwebinformer.com/cve-2024-42640-poc-unauthenticated-remote-code-execution-via-angular-base64-upload-library/"
             ]
+        },
+        {
+            "Message ID": 5302,
+            "Date": "2024-10-11",
+            "Content": "🚨🇺🇸A Threat Actor is Allegedly Selling Shell Access to an Unidentified Shop in the USA\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-shell-access-to-an-unidentified-shop-in-the-usa/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-shell-access-to-an-unidentified-shop-in-the-usa/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
