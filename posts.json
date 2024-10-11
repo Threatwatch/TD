@@ -15715,6 +15715,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5304,
+            "Date": "2024-10-11",
+            "Content": "All files in this opendir are public according to the file in it. but maybe someone will find it useful? https://spdf.gsfc.nasa.gov/pub/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://spdf.gsfc.nasa.gov/pub/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
