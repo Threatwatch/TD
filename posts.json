@@ -28511,6 +28511,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1018,
+            "Date": "2024-10-11",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇮🇳India - Extramarks Education\n\nKill Security hacking group claims to have breached Extramarks Education. \n\nAllegedly, exfiltrated data include company details (names, addresses, Corporate Identity Numbers (CIN), GSTIN numbers), personal information (names of authorized signatories, contact numbers), financial data (invoice amounts, bank account numbers, IFSC codes), tax information (PAN numbers, GST details), educational institution details (school names, addresses), service specifics, course details, class schedules, and pricing information. \n\nRansom deadline: 19th Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
