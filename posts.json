@@ -28541,6 +28541,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1021,
+            "Date": "2024-10-11",
+            "Content": "🚨Cryptocurrency Theft🚨\n\nDeekay Kwon, a Web3 artist, recently fell victim to cybercrime, losing all his life savings during a 14-hour flight from Korea to New York.\n\nHis wallets were compromised, but his NFTs remained unaffected.\n\nHe suspects the breach may have occurred due to a leak of his seed phrase, which was stored as a photo in Google Drive.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Korea",
+                "New York",
+                "Google Drive"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
