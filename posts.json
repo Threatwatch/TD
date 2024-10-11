@@ -16243,6 +16243,18 @@
             "URLs": [
                 "https://www.upmedia.mg/news_info.php?Type=24&SerialNo=211522"
             ]
+        },
+        {
+            "Message ID": 546,
+            "Date": "2024-10-11",
+            "Content": "🚨 September 2024 DDoS Attack Overview 🚨\n\nℹ️ Key Threat Actors Behind the Attacks:\n\n➡️ NoName057(16): 386 incidents\n➡️ RipperSec: 139 incidents\n➡️ Al Ahad: 51 incidents\n➡️ Russian Cyber Army Team: 46 incidents \n\nℹ️ Read More :\nhttps://x.com/falconfeedsio/status/1844705573209813151?s=46",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://x.com/falconfeedsio/status/1844705573209813151?s=46"
+            ]
         }
     ],
     "لواء محمد ﷺ": [
@@ -20258,6 +20270,29 @@
                 "ادركنا"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2267,
+            "Date": "2024-10-11",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2266,
+            "Date": "2024-10-11",
+            "Content": "🌐 Target:\nhttps://shop.iwi.net/\n\n            \n💻 Check host:\n\nhttps://check-host.net/check-report/1f329251kc7a\n\n#free_palestine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://shop.iwi.net/\n",
+                "tps://check-host.net/check-report/1f329251kc7a\n\n"
+            ]
         }
     ],
     "Anonymous Chat": [
