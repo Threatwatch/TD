@@ -15809,6 +15809,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-tradezero/"
             ]
+        },
+        {
+            "Message ID": 5313,
+            "Date": "2024-10-12",
+            "Content": "🚨🇨🇳A Threat Actor Allegedly Leaked a Vulnerability in the Website VIANOLUX\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-a-vulnerability-in-the-website-vianolux/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-a-vulnerability-in-the-website-vianolux/"
+            ]
+        },
+        {
+            "Message ID": 5312,
+            "Date": "2024-10-12",
+            "Content": "🚨🇲🇽A Threat Actor is Allegedly Selling Access to Creditea\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-creditea/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-creditea/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
