@@ -15833,6 +15833,54 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-creditea/"
             ]
+        },
+        {
+            "Message ID": 5317,
+            "Date": "2024-10-12",
+            "Content": "🚨🇮🇱DarkRaaS is Allegedly Selling Access to an Israel Critical Institution\n\nhttps://darkwebinformer.com/darkraas-is-allegedly-selling-access-to-an-israel-critical-institution/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/darkraas-is-allegedly-selling-access-to-an-israel-critical-institution/"
+            ]
+        },
+        {
+            "Message ID": 5316,
+            "Date": "2024-10-12",
+            "Content": "🚨🇮🇱A Threat Actor has Allegedly Leaked Data of The Hesder Yeshiva Union\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-the-hesder-yeshiva-union/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-the-hesder-yeshiva-union/"
+            ]
+        },
+        {
+            "Message ID": 5315,
+            "Date": "2024-10-12",
+            "Content": "🚨🇹🇼A Threat Actor is Allegedly Selling Access to an Unidentified Industrial Equipment Manufacturer in Taiwan\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-industrial-equipment-manufacturer-in-taiwan/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Taiwan"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-industrial-equipment-manufacturer-in-taiwan/"
+            ]
+        },
+        {
+            "Message ID": 5314,
+            "Date": "2024-10-12",
+            "Content": "🚨🇺🇸Anti-NATO is Allegedly Selling US Campaign Documents\n\nhttps://darkwebinformer.com/anti-nato-is-allegedly-selling-us-campaign-documents/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/anti-nato-is-allegedly-selling-us-campaign-documents/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
