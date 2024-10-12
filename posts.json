@@ -15775,6 +15775,40 @@
             "URLs": [
                 "https://cybernews.com/news/national-public-data-breach-social-security-bankruptcy/"
             ]
+        },
+        {
+            "Message ID": 5311,
+            "Date": "2024-10-12",
+            "Content": "🚨🇮🇩A Threat Actor Allegedly Leaked the Data of Badan Pusat Statistik Kabupaten Majalengka\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-the-data-of-badan-pusat-statistik-kabupaten-majalengka/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-the-data-of-badan-pusat-statistik-kabupaten-majalengka/"
+            ]
+        },
+        {
+            "Message ID": 5310,
+            "Date": "2024-10-12",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5309,
+            "Date": "2024-10-12",
+            "Content": "🚨🇺🇸A Threat Actor Allegedly Leaked Data of TradeZero\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-tradezero/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-tradezero/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
