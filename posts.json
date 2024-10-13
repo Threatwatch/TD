@@ -16423,6 +16423,18 @@
             "URLs": [
                 "://darkwebinformer.com/almighty4444-is-allegedly-selling-access-to-a-usa-company-with-30-billion-in-revenue/"
             ]
+        },
+        {
+            "Message ID": 5370,
+            "Date": "2024-10-13",
+            "Content": "💡Changelog updated to Version 2.0. All updates can be found here: https://darkwebinformer.com/changelog/\n\n🌟 Version 2.0 - October 13th, 2024\n\n🎉 New Features:\n\n* Released a Threat Feed for Pro subscribers. A threat feed for Plus subscribers will be released, once the Pro feed is stable, which for now it is.\n* Released a Live Scene Leak feed.\n\n⚙️ Improvements:\n\n* Added Several new Ransomware Groups and removed several.\n* Added two new Darknet Markets.\n\n🐛 Bug Fixes:\n\n* Infosec Exchange was not showing a link preview image, this has been fixed.\n* Changed the default height/width of X/Twitter images so images are initially showing the link preview rather than a broken image, working, broken image, etc. This should be fixed.\n* Some other general bug gixes and performance improvements\n\n🐛 Open Bugs:\n\n* [Minor]: When changing all images to have rounded corners it makes the images look stretched and not centered on the website/X/Telegram/LinkedIn.\n* [Minor]: Add new tags next to new urls is not showing properly against the table.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Changelog"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog/\n"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
