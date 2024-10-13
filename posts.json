@@ -16540,6 +16540,16 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-and-vpn-access-to-an-irish-company-with-9-billion-in-revenue/"
             ]
+        },
+        {
+            "Message ID": 5380,
+            "Date": "2024-10-13",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
