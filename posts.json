@@ -16467,6 +16467,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5374,
+            "Date": "2024-10-13",
+            "Content": "https://en.fofa.info/result?qbase64=OTIuMTE4LjM2LjIwNA%3D%3D",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://en.fofa.info/result?qbase64=OTIuMTE4LjM2LjIwNA%3D%3D"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
