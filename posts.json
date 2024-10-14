@@ -21733,6 +21733,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2292,
+            "Date": "2024-10-14",
+            "Content": "https://github.com/horizon3ai/CVE-2024-9464\n\nProof of Concept Exploit for CVE-2024-9464\n#github #exploit",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/horizon3ai/CVE-2024-9464"
+            ]
+        },
+        {
+            "Message ID": 2291,
+            "Date": "2024-10-14",
+            "Content": "https://github.com/JorianWoltjer/nodejs-file-write-rce\n\nNodeJS File Write to RCE PoC\n#github #poc",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/JorianWoltjer/nodejs-file-write-rce"
+            ]
         }
     ],
     "Anonymous Chat": [
