@@ -16876,6 +16876,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5411,
+            "Date": "2024-10-14",
+            "Content": "🚨CVE-2024-4577: PHP CGI Argument Injection Scanner and Exploit\n\nhttps://darkwebinformer.com/cve-2024-4577-php-cgi-argument-injection-scanner-and-exploit/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/cve-2024-4577-php-cgi-argument-injection-scanner-and-exploit/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
