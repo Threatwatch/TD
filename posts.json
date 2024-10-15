@@ -24997,6 +24997,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 7020,
+            "Date": "2024-10-15",
+            "Content": "luis, your message was hidden, links not allowed in this group.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -30956,6 +30966,16 @@
             "Attack Type": "Data Breach",
             "Location": [
                 "Concord"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1047,
+            "Date": "2024-10-15",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇯🇵Japan - Kanagawa Prefectural Sewerage Public Corporation (神奈川県)\n\nOn October 9, 2024, the Kanagawa Prefectural Sewerage Public Corporation experienced a ransomware attack by the Black Suit hacking group (the same group behind the KADOKAWA attack), infecting its internal network system. The infection affected a server and two PCs at the Yanagishima Water Reclamation Center.\n\nPersonal information stored on the server, including data related to school competitions, tour applicants, Sewerage Festival participants, and employee recruitment, may have been exposed.\n\nSource:\nhttps://www.pref.kanagawa.jp/docs/h2v/prs/r7782814.html",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Japan"
             ],
             "URLs": []
         }
