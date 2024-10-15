@@ -17518,6 +17518,18 @@
             "URLs": [
                 "://darkwebinformer.com/henry-county-schools-has-been-claimed-a-victim-by-rhysida-ransomware/"
             ]
+        },
+        {
+            "Message ID": 5466,
+            "Date": "2024-10-15",
+            "Content": "💡Alright so I've had some time to put together the Threat feed for Plus & Pro subscribers. You can visit that feed here: https://darkwebinformer.com/live-threat-feed-plus-pro-subscribers/. It's also on the header under 'Threat Feeds'. The Plus feed hides all posts that are DDoS, Defacement & Ransomware.\n\nWill monitor in the coming days to ensure stability before making any further changes to either feed.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/live-threat-feed-plus-pro-subscribers/."
+            ]
         }
     ],
     "RipperSec | РипперСек": [
