@@ -30938,6 +30938,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1046,
+            "Date": "2024-10-15",
+            "Content": "🚨Cyberattacks Alert ‼️\n\nThe Play ransomware group has been particularly active in recent hours, listing 9 victims on its data leak site:\n\n🇨🇦 Steel Art Signs\n🇳🇱 Nora Biscuits\n🇺🇸 Misionero\n🇺🇸 Henneman Engineering\n🇺🇸 Rescar Companies\n🇺🇸 Concord\n🇺🇸 OzarksGo\n🇺🇸 Byerly Aviation\n🇺🇸 Courtney Construction\n\nThe ransom demands will expire between October 17 and 19.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Concord"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
