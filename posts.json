@@ -17552,6 +17552,42 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-hotel-in-europe/"
             ]
+        },
+        {
+            "Message ID": 5469,
+            "Date": "2024-10-15",
+            "Content": "Here's some random links I found doing a cleanup.\n\nOther:\n\nhttps://ddosecrets.com/\n\nhttp://i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion/ - I2P Search // Discover Hidden Services and access to I2P eepsites\nhttp://ml5oqtnuk5fj5sohpssh44rpqontkdxtkvwqkwsbcjri6xnxxvzrxoad.onion - I2P Search\n\n0-day:\n\nhttps://0day.today/\nhttps://0dayfans.com/\nhttps://cxsecurity.com/exploit\nhttps://exploit.kitploit.com/\nhttps://www.exploit-db.com/\nhttps://inthewild.io/feed\nhttps://sploitus.com/\nhttps://vuldb.com/\nhttps://www.vulnerability-lab.com/\nhttps://vulmon.com/\n\nPhishing:\n\nhttps://checkphish.bolster.ai/\nhttps://easydmarc.com/tools/phishing-url\nhttps://isitphishing.org/\nhttps://openphish.com/\nhttps://phishing.army/\nhttps://phishcheck.me/\nhttps://phishing-initiative.eu/contrib/\nhttps://phishunt.io/\nhttps://phishstats.info/\nhttps://www.phishtank.com/\nhttps://www.stopforumspam.com/\nhttps://threatcop.com/phishing-url-checker",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://ddosecrets.com/",
+                "http://i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion/",
+                "http://ml5oqtnuk5fj5sohpssh44rpqontkdxtkvwqkwsbcjri6xnxxvzrxoad.onion",
+                "https://0day.today/",
+                "https://0dayfans.com/",
+                "https://cxsecurity.com/exploit",
+                "https://exploit.kitploit.com/",
+                "https://www.exploit-db.com/",
+                "https://inthewild.io/feed",
+                "https://sploitus.com/",
+                "https://vuldb.com/",
+                "https://www.vulnerability-lab.com/",
+                "https://vulmon.com/",
+                "https://checkphish.bolster.ai/",
+                "https://easydmarc.com/tools/phishing-url",
+                "https://isitphishing.org/",
+                "https://openphish.com/",
+                "https://phishing.army/",
+                "https://phishcheck.me/",
+                "https://phishing-initiative.eu/contrib/",
+                "https://phishunt.io/",
+                "https://phishstats.info/",
+                "https://www.phishtank.com/",
+                "https://www.stopforumspam.com/",
+                "https://threatcop.com/phishing-url-checker"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
