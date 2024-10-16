@@ -31893,6 +31893,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1061,
+            "Date": "2024-10-16",
+            "Content": "🚨Cyberattack Alert ‼️\n\nSynertrade\n\nCactus hacking group claims to have breached Synertrade, a global provider of digital procurement solutions.\n\nAllegedly, 3 TB of data were exfiltrated, including personally identifiable information, database backups, corporate confidential documents, contracts, correspondence, projects, and customer confidential data.\n\nBased on the samples provided, it is likely that the breach involves Synertrade’s German branch.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
