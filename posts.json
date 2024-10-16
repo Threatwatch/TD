@@ -18305,6 +18305,28 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-carlson-building-company/"
             ]
+        },
+        {
+            "Message ID": 5534,
+            "Date": "2024-10-16",
+            "Content": "Search \".onion\" (438 hits in 1 file of 1 searched) [Normal]",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5533,
+            "Date": "2024-10-16",
+            "Content": "📰🇺🇸HEALTHCARE SERVICES GROUP, INC. has Filed Form 8-K Due to a Cybersecurity Incident\n\nhttps://darkwebinformer.com/healthcare-services-group-inc-has-filed-form-8-k-due-to-a-cybersecurity-incident/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/healthcare-services-group-inc-has-filed-form-8-k-due-to-a-cybersecurity-incident/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
