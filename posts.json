@@ -18077,6 +18077,38 @@
             "URLs": [
                 "https://x.com/XEng/status/1846605254864888180"
             ]
+        },
+        {
+            "Message ID": 5515,
+            "Date": "2024-10-16",
+            "Content": "Obviously dont know what this is, but could be something someone could pivot into",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5514,
+            "Date": "2024-10-16",
+            "Content": "Search \"@apple.com\" (71 hits in 1 file of 1 searched) [Normal]\nSearch \"@amazon.com\" (114 hits in 1 file of 1 searched) [Normal]\nSearch \"aws.amazon.com\" (3622 hits in 1 file of 1 searched) [Normal]",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "aws.amazon.com"
+            ]
+        },
+        {
+            "Message ID": 5513,
+            "Date": "2024-10-16",
+            "Content": "Search \"@microsoft.com\" (85 hits in 1 file of 1 searched) [Normal]\nSearch \"@cisco.com\" (81 hits in 1 file of 1 searched) [Normal]\n\njust in one log",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
