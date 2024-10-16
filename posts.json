@@ -18187,6 +18187,40 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5525,
+            "Date": "2024-10-16",
+            "Content": "🚨🇺🇸A Threat Actor is Allegedly Selling VPN Access of Minnesota Association for Justice (MAJ)\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-vpn-access-of-minnesota-association-for-justice-maj/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-vpn-access-of-minnesota-association-for-justice-maj/"
+            ]
+        },
+        {
+            "Message ID": 5524,
+            "Date": "2024-10-16",
+            "Content": "🚨🇫🇷A Threat Actor Allegedly is Selling RDP Access of an Unidentified Company in France\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-rdp-access-of-an-unidentified-company-in-france/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-rdp-access-of-an-unidentified-company-in-france/"
+            ]
+        },
+        {
+            "Message ID": 5523,
+            "Date": "2024-10-16",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
