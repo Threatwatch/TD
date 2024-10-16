@@ -31840,6 +31840,39 @@
             "URLs": [
                 "tps://hackmanac.com/news/hack-tuesday-week-09-15-october-2024\n\n"
             ]
+        },
+        {
+            "Message ID": 1057,
+            "Date": "2024-10-16",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1054,
+            "Date": "2024-10-16",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1053,
+            "Date": "2024-10-16",
+            "Content": "🟧 #HackTuesday 🟧\n\nHack Tuesday: Week 09 - 15 October 2024\n\n⚠️190 cyberattacks across 44 countries ⚠️\n\n➡️The most active treat actor this week is Sarcoma, claiming responsibility for 32 attacks.\n\n➡️The United States is the most affected country, accounting for 42% of the victims.\n\n➡️The Manufacturing sector is the most impacted, representing 18% of the claimed targets, followed by the Professional, Scientific, and Technical sectors with 11%\n\n➡️Overall, the claimed compromised data amounts to approximately 188,946.98 terabytes.\n\n☣️The average ESIX® (Estimated Severity Index) is 4.4.\n\nFollow the link for list of referred victims:\nhttps://hackmanac.com/news/hack-tuesday-week-09-15-october-2024\n\n#Hackmanac #HT #Cybersecurity",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Sarcoma",
+                "️The United States"
+            ],
+            "URLs": [
+                "tps://hackmanac.com/news/hack-tuesday-week-09-15-october-2024\n\n"
+            ]
         }
     ],
     "ANONYM∅US": [
