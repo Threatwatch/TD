@@ -17934,6 +17934,43 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-selling-kyc-data-of-mbet/"
             ]
+        },
+        {
+            "Message ID": 5503,
+            "Date": "2024-10-16",
+            "Content": "🚨🇮🇱DarkRaaS is Allegedly Selling Admin Access to Municipality IT Infrastructure in Central Israel\n\nhttps://darkwebinformer.com/darkraas-is-allegedly-selling-admin-access-to-municipality-it-infrastructure-in-central-israel/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Central Israel",
+                "https://darkwebinformer.com/darkraas-is-allegedly-selling-admin-access-to-municipality-it-infrastructure-in-central-israel/"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/darkraas-is-allegedly-selling-admin-access-to-municipality-it-infrastructure-in-central-israel/"
+            ]
+        },
+        {
+            "Message ID": 5502,
+            "Date": "2024-10-16",
+            "Content": "🚨🇮🇳A Threat Actor is Allegedly Selling Admin Access to Government Portal of India\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-admin-access-to-government-portal-of-india/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-admin-access-to-government-portal-of-india/"
+            ]
+        },
+        {
+            "Message ID": 5501,
+            "Date": "2024-10-16",
+            "Content": "🚨🇮🇱X0Frankenstein has Allegedly Leaked Data of Aurion Hosting\n\nhttps://darkwebinformer.com/x0frankenstein-has-allegedly-leaked-data-of-aurion-hosting/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/x0frankenstein-has-allegedly-leaked-data-of-aurion-hosting/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
