@@ -18165,6 +18165,28 @@
             "URLs": [
                 "ps://darkwebinformer.com/anonmoose-allegedly-leaked-the-data-of-burger-king-russia/"
             ]
+        },
+        {
+            "Message ID": 5522,
+            "Date": "2024-10-16",
+            "Content": "https://g1.globo.com/politica/noticia/2024/10/16/pf-prende-hacker-de-33-anos-suspeito-de-invadir-sistemas-e-vazar-dados-de-policiais.ghtml",
+            "Attack Type": "Hacking",
+            "Location": [
+                "https://g1.globo.com/politica/noticia/2024/10/16/pf-prende-hacker-de-33-anos-suspeito-de-invadir-sistemas-e-vazar-dados-de-policiais.ghtml"
+            ],
+            "URLs": [
+                "https://g1.globo.com/politica/noticia/2024/10/16/pf-prende-hacker-de-33-anos-suspeito-de-invadir-sistemas-e-vazar-dados-de-policiais.ghtml"
+            ]
+        },
+        {
+            "Message ID": 5521,
+            "Date": "2024-10-16",
+            "Content": "RIP",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
