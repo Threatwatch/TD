@@ -31873,6 +31873,26 @@
             "URLs": [
                 "tps://hackmanac.com/news/hack-tuesday-week-09-15-october-2024\n\n"
             ]
+        },
+        {
+            "Message ID": 1060,
+            "Date": "2024-10-16",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Central Pennsylvania Food Bank\n\nFog hacking group claims to have breached Central Pennsylvania Food Bank. \n\nAllegedly, 20 GB of data were exfiltrated, including client agreements, accounting records, human resources data, SSNs, passports, and driver's licenses.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1059,
+            "Date": "2024-10-16",
+            "Content": "🚨🚨🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Boston Children's Health Physicians\n\nBianLian hacking group claims to have breached Boston Children's Health Physicians. \n\nAllegedly, exfiltrated data include finance data, HR data, mailboxes and internal/external email correspondence, database exports, PII and PHI records, health insurance records, and data related to children and minors.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
