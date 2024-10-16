@@ -17780,6 +17780,66 @@
             "URLs": [
                 "ps://darkwebinformer.com/darkraas-is-allegedly-selling-access-to-the-crm-system-of-an-israeli-marking-company/"
             ]
+        },
+        {
+            "Message ID": 5492,
+            "Date": "2024-10-16",
+            "Content": "🚨🇮🇱A Threat Actor has Allegedly Leaked WhatsApp Numbers of Individuals in Israel\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-whatsapp-numbers-of-individuals-in-israel/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-whatsapp-numbers-of-individuals-in-israel/"
+            ]
+        },
+        {
+            "Message ID": 5491,
+            "Date": "2024-10-16",
+            "Content": "🚨🇮🇳A Threat Actor is Allegedly Selling phpMyAdmin Access to the University of Mumbai\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-phpmyadmin-access-to-the-university-of-mumbai/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-phpmyadmin-access-to-the-university-of-mumbai/"
+            ]
+        },
+        {
+            "Message ID": 5490,
+            "Date": "2024-10-16",
+            "Content": "🚨🇬🇧A Threat Actor is Allegedly Selling Data of Ty Cerrig Christmas Tree Farm\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-ty-cerrig-christmas-tree-farm/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-ty-cerrig-christmas-tree-farm/"
+            ]
+        },
+        {
+            "Message ID": 5489,
+            "Date": "2024-10-16",
+            "Content": "🚨🇺🇸A Threat Actor is Allegedly Selling Sensitive Information of an Unidentified US Company\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-sensitive-information-of-an-unidentified-us-company/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-sensitive-information-of-an-unidentified-us-company/"
+            ]
+        },
+        {
+            "Message ID": 5488,
+            "Date": "2024-10-16",
+            "Content": "🚨🇮🇱HikkI-Chan has Allegedly Leaked Data of Atriis Technologies\n\nhttps://darkwebinformer.com/hikki-chan-has-allegedly-leaked-data-of-atriis-technologies/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/hikki-chan-has-allegedly-leaked-data-of-atriis-technologies/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -23071,6 +23131,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2298,
+            "Date": "2024-10-16",
+            "Content": "https://github.com/varwara/CVE-2024-35250\n\nPoC for the Untrusted Pointer Dereference in the ks.sys driver\n#github #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/varwara/CVE-2024-35250"
+            ]
         }
     ],
     "Anonymous Chat": [
