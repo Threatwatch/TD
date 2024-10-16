@@ -18327,6 +18327,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/healthcare-services-group-inc-has-filed-form-8-k-due-to-a-cybersecurity-incident/"
             ]
+        },
+        {
+            "Message ID": 5535,
+            "Date": "2024-10-16",
+            "Content": "https://www.gov.br/pf/pt-br/assuntos/noticias/2024/10/pf-prende-hacker-suspeito-de-invadir-sistemas-da-pf-e-de-outras-instituicoes-internacionais",
+            "Attack Type": "Hacking",
+            "Location": [
+                "https://www.gov.br/pf/pt-br/assuntos/noticias/2024/10/pf-prende-hacker-suspeito-de-invadir-sistemas-da-pf-e-de-outras-instituicoes-internacionais"
+            ],
+            "URLs": [
+                "https://www.gov.br/pf/pt-br/assuntos/noticias/2024/10/pf-prende-hacker-suspeito-de-invadir-sistemas-da-pf-e-de-outras-instituicoes-internacionais"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
