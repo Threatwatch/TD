@@ -31933,6 +31933,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1071,
+            "Date": "2024-10-16",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Corporate Job Bank\n\nBianLian hacking group claims to have breached Corporate Job Bank. \n\nAllegedly, 200 GB of data were exfiltrated, including customer data banks, passports and IDs, operational data, business files, and file server data.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1069,
+            "Date": "2024-10-16",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Food Sciences Corporation\n\nAfter claiming the attack on the Central Pennsylvania Food Bank, the Fog hacking group now claims to have breached Food Sciences Corporation.\n\nAllegedly, 86 GB of data were exfiltrated, including client information (phones, addresses, and emails), internal financial data, human resources records, employee contact information, NDAs, customer information, and health condition certifications.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
