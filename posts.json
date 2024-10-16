@@ -18245,6 +18245,42 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-ministry-of-public-education/"
             ]
+        },
+        {
+            "Message ID": 5530,
+            "Date": "2024-10-16",
+            "Content": "🚨🇺🇸A Threat Actor Allegedly Leaked the Data of Le Méridien Hotels & Resorts\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-the-data-of-le-meridien-hotels-resorts/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-the-data-of-le-meridien-hotels-resorts/"
+            ]
+        },
+        {
+            "Message ID": 5529,
+            "Date": "2024-10-16",
+            "Content": "🚨🇮🇱Bangladesh Civilian Force Targeted the Website of David Yelin College\n\nhttps://darkwebinformer.com/bangladesh-civilian-force-targeted-the-website-of-david-yelin-college/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/bangladesh-civilian-force-targeted-the-website-of-david-yelin-college/"
+            ]
+        },
+        {
+            "Message ID": 5528,
+            "Date": "2024-10-16",
+            "Content": "🚨🇮🇱ShadowDefenders Targeted the Website of Association of Banks in Israel\n\nhttps://darkwebinformer.com/shadowdefenders-targeted-the-website-of-association-of-banks-in-israel/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/shadowdefenders-targeted-the-website-of-association-of-banks-in-israel/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
