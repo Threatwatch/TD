@@ -31953,6 +31953,17 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1074,
+            "Date": "2024-10-16",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇮🇪Ireland - Horse Sport Ireland (HSI)\n\nRansomHub hacking group claims to have breached Horse Sport Ireland (HSI), the National Governing Body for Equestrian Sport in Ireland. \n\nAllegedly, exfiltrated data include personally identifiable information (PII) and horse registers. \n\nRansom deadline: 22nd Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "🇪Ireland",
+                "Ireland"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
