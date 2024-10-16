@@ -17840,6 +17840,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/hikki-chan-has-allegedly-leaked-data-of-atriis-technologies/"
             ]
+        },
+        {
+            "Message ID": 5494,
+            "Date": "2024-10-16",
+            "Content": "🚨🇬🇧A Threat Actor is Allegedly Selling UK Citizens Mailpass Credentials\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-uk-citizens-mailpass-credentials/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-uk-citizens-mailpass-credentials/"
+            ]
+        },
+        {
+            "Message ID": 5493,
+            "Date": "2024-10-16",
+            "Content": "🚨🇫🇷HillShave has Allegedly Leaked Data of Luxury Watches France\n\nhttps://darkwebinformer.com/hillshave-has-allegedly-leaked-data-of-luxury-watches-france/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/hillshave-has-allegedly-leaked-data-of-luxury-watches-france/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -23143,6 +23167,16 @@
             "URLs": [
                 "https://github.com/varwara/CVE-2024-35250"
             ]
+        },
+        {
+            "Message ID": 2299,
+            "Date": "2024-10-16",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
