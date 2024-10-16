@@ -18109,6 +18109,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5517,
+            "Date": "2024-10-16",
+            "Content": "Search \":admin\" (119741 hits in 1 file of 1 searched) [Normal]",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5516,
+            "Date": "2024-10-16",
+            "Content": "Search \"localhost\" (27892 hits in 1 file of 1 searched) [Normal]",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
