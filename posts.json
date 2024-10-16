@@ -18363,6 +18363,28 @@
             "URLs": [
                 "ps://darkwebinformer.com/stormous-ransomware-has-claimed-fractal-id-as-a-victim/"
             ]
+        },
+        {
+            "Message ID": 5539,
+            "Date": "2024-10-16",
+            "Content": "For the record, we were on good terms and he was hopeful that his country would stand behind him.. guess we'll see what happens.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5538,
+            "Date": "2024-10-16",
+            "Content": "https://datawookie.dev/blog/2021/06/scrapy-rotating-tor-proxy/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://datawookie.dev/blog/2021/06/scrapy-rotating-tor-proxy/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
