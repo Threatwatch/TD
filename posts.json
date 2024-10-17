@@ -18821,6 +18821,31 @@
             "URLs": [
                 "ttps://darkwebinformer.com/changelog\n"
             ]
+        },
+        {
+            "Message ID": 5578,
+            "Date": "2024-10-17",
+            "Content": "https://www.justice.gov/usao-dc/pr/fbi-arrests-alabama-man-january-2024-sec-x-hack-spiked-value-bitcoin\n\nhttps://www.justice.gov/usao-dc/media/1373721/dl?inline",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.justice.gov/usao-dc/pr/fbi-arrests-alabama-man-january-2024-sec-x-hack-spiked-value-bitcoin",
+                "https://www.justice.gov/usao-dc/media/1373721/dl?inline"
+            ]
+        },
+        {
+            "Message ID": 5577,
+            "Date": "2024-10-17",
+            "Content": "🚨🇮🇳A Threat Actor Allegedly Leaked Data of Ministry of External Affairs (MEA)\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-ministry-of-external-affairs-mea/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-ministry-of-external-affairs-mea/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
