@@ -18571,6 +18571,90 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-access-to-an-unidentified-company-in-japan/"
             ]
+        },
+        {
+            "Message ID": 5562,
+            "Date": "2024-10-17",
+            "Content": "🚨🇮🇳A Threat Actor is Selling Admin Access to WBSCTVESD\n\nhttps://darkwebinformer.com/a-threat-actor-is-selling-admin-access-to-wbsctvesd/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-selling-admin-access-to-wbsctvesd/"
+            ]
+        },
+        {
+            "Message ID": 5561,
+            "Date": "2024-10-17",
+            "Content": "🚨🇹🇭A Threat Actor is Allegedly Selling Admin Access to SCG Logistics\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-admin-access-to-scg-logistics/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-admin-access-to-scg-logistics/"
+            ]
+        },
+        {
+            "Message ID": 5560,
+            "Date": "2024-10-17",
+            "Content": "🚨🇮🇳A Threat Actor is Allegedly Selling Admin Access to CME\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-admin-access-to-cme/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-admin-access-to-cme/"
+            ]
+        },
+        {
+            "Message ID": 5559,
+            "Date": "2024-10-17",
+            "Content": "🚨🇮🇹AUXIT S.R.L. has Been Claimed a Victim to Sarcoma Ransomware\n\nhttps://darkwebinformer.com/auxit-s-r-l-has-been-claimed-a-victim-to-sarcoma-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/auxit-s-r-l-has-been-claimed-a-victim-to-sarcoma-ransomware/"
+            ]
+        },
+        {
+            "Message ID": 5558,
+            "Date": "2024-10-17",
+            "Content": "🚨🇦🇷X0Frankenstein Allegedly Leaked Data of ADEEPRA\n\nhttps://darkwebinformer.com/x0frankenstein-allegedly-leaked-data-of-adeepra/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/x0frankenstein-allegedly-leaked-data-of-adeepra/"
+            ]
+        },
+        {
+            "Message ID": 5557,
+            "Date": "2024-10-17",
+            "Content": "🚨🇧🇷X0Frankenstein Allegedly Leaked Data of Bioflora\n\nhttps://darkwebinformer.com/x0frankenstein-allegedly-leaked-data-of-bioflora/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "https://darkwebinformer.com/x0frankenstein-allegedly-leaked-data-of-bioflora/"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/x0frankenstein-allegedly-leaked-data-of-bioflora/"
+            ]
+        },
+        {
+            "Message ID": 5556,
+            "Date": "2024-10-17",
+            "Content": "🚨🇪🇨A Threat Actor is Allegedly Selling the Database of Ministerio de Salud - Ecuador\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-ministerio-de-salud-ecuador/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-ministerio-de-salud-ecuador/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -26758,6 +26842,46 @@
             "Message ID": 7042,
             "Date": "2024-10-17",
             "Content": "5% data for what ?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 7047,
+            "Date": "2024-10-17",
+            "Content": "want to steal admin?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 7046,
+            "Date": "2024-10-17",
+            "Content": "managed game site",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 7045,
+            "Date": "2024-10-17",
+            "Content": "all fake russian",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 7044,
+            "Date": "2024-10-17",
+            "Content": "website of user ?",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
