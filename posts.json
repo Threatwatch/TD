@@ -18487,6 +18487,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5550,
+            "Date": "2024-10-17",
+            "Content": "🚨🚨🇮🇶A Threat Actor Allegedly Leaked Data of Ministry of Finance of Republic of Iraq\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-ministry-of-finance-of-republic-of-iraq/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-ministry-of-finance-of-republic-of-iraq/"
+            ]
+        },
+        {
+            "Message ID": 5549,
+            "Date": "2024-10-17",
+            "Content": "🚨🇧🇷r57 Allegedly Leaked Sensitive Data of the Brazilian Government\n\nhttps://darkwebinformer.com/r57-allegedly-leaked-sensitive-data-of-the-brazilian-government/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/r57-allegedly-leaked-sensitive-data-of-the-brazilian-government/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -32846,6 +32870,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1084,
+            "Date": "2024-10-17",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇾Uruguay - Uruguayan Institute of Meteorology (Inumet)\n\nThe Uruguayan Institute of Meteorology (Inumet) confirmed that its system was hacked, leading to the publication of a false red alert for strong winds across the country on its official channels. \n\nInumet clarified that there are no current weather alerts in effect for Uruguay. The false alert appeared for a few minutes on the website and social media accounts of the institute.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Uruguay"
             ],
             "URLs": []
         }
