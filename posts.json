@@ -18679,6 +18679,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/notorious-threat-actor-chucky-has-allegedly-leaked-the-database-of-slate-tell/"
             ]
+        },
+        {
+            "Message ID": 5565,
+            "Date": "2024-10-17",
+            "Content": "https://x.com/DarkWebInformer/status/1846924759084552490",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1846924759084552490"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
