@@ -18691,6 +18691,76 @@
             "URLs": [
                 "https://x.com/DarkWebInformer/status/1846924759084552490"
             ]
+        },
+        {
+            "Message ID": 5571,
+            "Date": "2024-10-17",
+            "Content": "🚨🇮🇱AnonymousActivist Targeted the Website of Mechinot\n\nhttps://darkwebinformer.com/anonymousactivist-targeted-the-website-of-mechinot/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/anonymousactivist-targeted-the-website-of-mechinot/"
+            ]
+        },
+        {
+            "Message ID": 5570,
+            "Date": "2024-10-17",
+            "Content": "🚨🇮🇩A Threat Actor has Allegedly Leaked Data of Indonesian Airports\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-indonesian-airports/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-indonesian-airports/"
+            ]
+        },
+        {
+            "Message ID": 5569,
+            "Date": "2024-10-17",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5568,
+            "Date": "2024-10-17",
+            "Content": "🚨🇮🇸A Threat Actor is Allegedly Selling Data of ZuckerBees\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-zuckerbees/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-zuckerbees/"
+            ]
+        },
+        {
+            "Message ID": 5567,
+            "Date": "2024-10-17",
+            "Content": "🚨🇯🇵Russian Cyber Army Team Targeted the Website of Japanese National Railways\n\nhttps://darkwebinformer.com/russian-cyber-army-team-targeted-the-website-of-japanese-national-railways/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/russian-cyber-army-team-targeted-the-website-of-japanese-national-railways/"
+            ]
+        },
+        {
+            "Message ID": 5566,
+            "Date": "2024-10-17",
+            "Content": "🚨🇺🇸A Threat Actor has Allegedly Leaked the Database of an Unidentified Clinic in the USA\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-an-unidentified-clinic-in-the-usa/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-an-unidentified-clinic-in-the-usa/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -33172,6 +33242,17 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1090,
+            "Date": "2024-10-17",
+            "Content": "For those who missed it, USDoD, the hacker known for the breach of National Public Data, has been arrested in Brazil.\n\nhttps://g1.globo.com/politica/noticia/2024/10/16/pf-prende-hacker-de-33-anos-suspeito-de-invadir-sistemas-e-vazar-dados-de-policiais.ghtml",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil",
+                "https://g1.globo.com/politica/noticia/2024/10/16/pf-prende-hacker-de-33-anos-suspeito-de-invadir-sistemas-e-vazar-dados-de-policiais.ghtml"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
@@ -35074,6 +35155,18 @@
             ],
             "URLs": [
                 "http://www.abhishiilifesciences.in/"
+            ]
+        },
+        {
+            "Message ID": 1753,
+            "Date": "2024-10-17",
+            "Content": "INDIAN WEBSITE HACKED BY BEE\n\n\nURL : https://anvilprojects.in/\n\n#BEE\n#OP_INDIA",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://anvilprojects.in/"
             ]
         }
     ],
