@@ -18655,6 +18655,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-ministerio-de-salud-ecuador/"
             ]
+        },
+        {
+            "Message ID": 5564,
+            "Date": "2024-10-17",
+            "Content": "re: USDoD\n\nhttps://x.com/DarkWebInformer/status/1846921790146163103",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1846921790146163103"
+            ]
+        },
+        {
+            "Message ID": 5563,
+            "Date": "2024-10-17",
+            "Content": "🚨🇺🇸Notorious Threat Actor, Chucky, has Allegedly Leaked the Database of SLATE & TELL\n\nhttps://darkwebinformer.com/notorious-threat-actor-chucky-has-allegedly-leaked-the-database-of-slate-tell/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Chucky"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/notorious-threat-actor-chucky-has-allegedly-leaked-the-database-of-slate-tell/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -33121,6 +33145,16 @@
             "Message ID": 1086,
             "Date": "2024-10-17",
             "Content": "🚨 Radiant Capital Hacked: Over $55M Stolen 🚨\n\nOn the evening of October 16, Radiant Capital fell victim to a hacking attack. Preliminary reports estimate that over $51.5 million worth of digital assets were stolen, with the total damage now approaching $55 million and still growing.\n\n🔗 Targeted blockchains:\n\n- Binance Smart Chain\n- Arbitrum One\n\nA significant portion of the stolen funds was converted into native tokens such as BNB and ETH. The stolen assets are currently held in several cryptocurrency addresses, with the main ones being:\n\n💸 Stolen funds held in:\n\n- 0x8B75E47976C3C500D0148463931717001F620887 – $33.8M\n- 0xcF47c058CC4818CE90f9315B478EB2f2d588Cc78 – $19.2M\n- 0x911215CF312a64C128817Af3c24B9fDF66B7Ac95 – $0.76M\n- 0x0629b1048298AE9deff0F4100A31967Fb3f98962 – $0.48M\n\n💻 Hacker addresses identified:\n\n- 0xc24927Bd40Bab67CcfB2ca0A90d6cbB8Edb21302\n- 0x579145D6d1F26a460d9BDD3040C37517dac379ac\n\n🔍 The hackers used various hosting and VPN services. However, analysis indicates that the attackers may be linked to the CIS region, with preparations for the attack starting on September 23.\n\nWe are closely monitoring the situation and tracking the hackers' actions as they attempt to launder the stolen funds.\n\n👋 Match Systems",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1088,
+            "Date": "2024-10-17",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Aristoi Classical Academy\n\nRansomHub hacking group claims to have breached Aristoi Classical Academy. \n\nAllegedly, 66 GB of data were exfiltrated.\nRansom deadline: 26th Oct 24.",
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
