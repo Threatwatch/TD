@@ -18419,6 +18419,74 @@
             "URLs": [
                 "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-16th-2024/"
             ]
+        },
+        {
+            "Message ID": 5548,
+            "Date": "2024-10-17",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5547,
+            "Date": "2024-10-17",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-17 02:03:37\n🚨 Title: Alleged data leak of Ministry of Finance of Republic of Iraq\n🛡️ Victim Country: Iraq\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: ministry of finance of republic of iraq\n🌐 Victim Site: \n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: henrymans0n\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-DATABASE-IRAQS-ENTIRE-FINANCE-MINISTRY-OF-FINANCE-FULL-DATABASE-HAS-BEEN-BREACHED-2024\n📝 Description: Threat actor claims to have leaked data from the Ministry of Finance of the Republic of Iraq. The leaked data includes a total of 2.73 GB of information, containing workers' data such as names, emails, addresses, SSNs, and other confidential documents, including agreements, pictures, and statistics.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Iraq",
+                "iraq",
+                "the Republic of Iraq"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-DATABASE-IRAQS-ENTIRE-FINANCE-MINISTRY-OF-FINANCE-FULL-DATABASE-HAS-BEEN-BREACHED-2024\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 5546,
+            "Date": "2024-10-17",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5545,
+            "Date": "2024-10-17",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-17 01:40:58\n🚨 Title: Allegedly leaked Brazilian government sensitive data\n🛡️ Victim Country: Brazil\n🏭 Victim Industry: \n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Data Leak\n🕵️‍♂️ Threat Actor: r57\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-Brazil-Goverment-Sensitive-Data\n📝 Description: Threat actor claims to have leaked sensitive data from the Brazilian government.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "achforums.st/Thread-Brazil-Goverment-Sensitive-Data\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 5544,
+            "Date": "2024-10-17",
+            "Content": "This is client-side execution via JS so no data is transmitted.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5543,
+            "Date": "2024-10-17",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
@@ -26496,6 +26564,16 @@
             "Message ID": 7020,
             "Date": "2024-10-15",
             "Content": "luis, your message was hidden, links not allowed in this group.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 7028,
+            "Date": "2024-10-17",
+            "Content": "I need data for a game website including the login name and password of that website",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
