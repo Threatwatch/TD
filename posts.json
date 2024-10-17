@@ -32758,6 +32758,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1079,
+            "Date": "2024-10-17",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇮🇹Italy - AUXIT S.R.L.\n\nSarcoma hacking group claims to have breached AUXIT S.R.L. Allegedly, 163 GB of data were exfiltrated. \n\nThe sample provided shows identity cards and notarial deeds.\n\nRansom deadline: 12th Nov 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
