@@ -26599,6 +26599,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 7036,
+            "Date": "2024-10-17",
+            "Content": "Who can track a phone here? \nSerious person only \nPayment involved",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -32774,6 +32784,36 @@
             "Date": "2024-10-17",
             "Content": "🚨Cyberattack Alert ‼️\n\n🇮🇹Italy - AUXIT S.R.L.\n\nSarcoma hacking group claims to have breached AUXIT S.R.L. Allegedly, 163 GB of data were exfiltrated. \n\nThe sample provided shows identity cards and notarial deeds.\n\nRansom deadline: 12th Nov 24.",
             "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1083,
+            "Date": "2024-10-17",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - HiCare\n\nRansomHub ransomware group claims to have breached HiCare. \n\nRansom deadline: 23rd Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1082,
+            "Date": "2024-10-17",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇲🇾Malaysia - Big Pharmacy\n\nRansomHub hacking group claims to have breached Big Pharmacy. \n\nAllegedly, 50 GB of data were exfiltrated, including clinical laboratory reports, medical certificates, prescriptions, and invoices. \n\nRansom deadline: 22nd Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Malaysia"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1081,
+            "Date": "2024-10-17",
+            "Content": "🚨Cyberattack Update ‼️\n\n🇺🇸USA - Globe Life Inc.\n\nIn a recent FORM 8-K filing, Globe Life Inc. disclosed that it has been targeted by an unknown threat actor attempting to extort money in exchange for not disclosing certain sensitive information held by the company and its subsidiary, American Income Life Insurance Company.\n\nThe data potentially affected includes personal information such as names, email addresses, phone numbers, and Social Security numbers of approximately 5,000 individuals. The threat actor has shared limited data with third parties, including short sellers and plaintiffs' attorneys.\n\nThe extortion attempt has not involved ransomware or disrupted the company's systems or services.\n\nFORM 8-K:\nhttps://www.sec.gov/Archives/edgar/data/320335/000032033524000056/gl-20241017.htm",
+            "Attack Type": "Unknown",
             "Location": [
                 "N/A"
             ],
