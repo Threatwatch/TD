@@ -18846,6 +18846,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-ministry-of-external-affairs-mea/"
             ]
+        },
+        {
+            "Message ID": 5579,
+            "Date": "2024-10-17",
+            "Content": "🚨🇧🇷A Threat Actor is Allegedly Selling 1 Million Brazil Citizen Logins\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-1-million-brazil-citizen-logins/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-1-million-brazil-citizen-logins/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -24169,6 +24181,51 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2304,
+            "Date": "2024-10-17",
+            "Content": "In the end, Yahya Senwar, the designer of the biggest military operation of the century (historic and memorable October 7) became immortal and achieved what he should have achieved.\n\n According to Sardar Soleimani, we all die, whether we are here, whether we are in the best hotel, whether we are the president of the world, we are all going! You have to leave an indelible mark and open the way for others. \n\nMartyr Sanwar was one of the closest people to Iran and sacrificed many lives for both the Palestinian resistance and Iran. He was a brave and unique character whose likeness should be found with a magnifying glass.\n\nFew commanders can be found who sacrifice themselves for ideals like this. These people have no connection to the material world and are very pure. Finally, he was martyred on the battlefield.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Iran",
+                "Iran"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2303,
+            "Date": "2024-10-17",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2302,
+            "Date": "2024-10-17",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2301,
+            "Date": "2024-10-17",
+            "Content": "📍The RTM contract website belonging to Saudi Arabia was hacked by Fattah.\n\n📎url: https://rtm-sa.co\n\n🔖mirror: https://mirror-h.org/zone/5777547/\n\n#free_palestine | #Death_to_bin_Salman",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Saudi Arabia",
+                "Fattah"
+            ],
+            "URLs": [
+                "tps://rtm-sa.co\n\n",
+                "ps://mirror-h.org/zone/5777547/\n\n#"
+            ]
         }
     ],
     "Anonymous Chat": [
