@@ -32738,6 +32738,16 @@
                 "Jędrzejów County"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1077,
+            "Date": "2024-10-17",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇮🇳India - Volo Health\n\nKill Security hacking group claims to have breached Volo Health. \n\nAllegedly, exfiltrated data include full names, dates of birth, Aadhaar numbers, patient photos, medical diagnoses and treatments, financial data such as hospitalization costs, and GPS-tagged photos showing patients' exact locations. \n\nRansom deadline: 25th Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
