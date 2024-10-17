@@ -32727,6 +32727,17 @@
                 "Ireland"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1075,
+            "Date": "2024-10-17",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇵🇱Poland - Jędrzejów County\n\nRansomHub hacking group claims to have breached Jędrzejów County. \n\nAllegedly, personal data including full names, parents' names, physical addresses, phone numbers, PESEL IDs, and email addresses were exfiltrated. \n\nRansom deadline: 31st Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Poland",
+                "Jędrzejów County"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
