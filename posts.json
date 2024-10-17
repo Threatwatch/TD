@@ -18970,6 +18970,18 @@
             "URLs": [
                 "s://darkwebinformer.com/a-threat-actor-is-allegedly-selling-sensitive-data-of-romanian-citizens/"
             ]
+        },
+        {
+            "Message ID": 5590,
+            "Date": "2024-10-17",
+            "Content": "http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
