@@ -18809,6 +18809,18 @@
             "URLs": [
                 "ttps://darkwebinformer.com/social-analyzer-api-cli-and-web-app-for-analyzing-finding-a-persons-profile-across-1000-social-media-websites/"
             ]
+        },
+        {
+            "Message ID": 5576,
+            "Date": "2024-10-17",
+            "Content": "💡Changelog updated to Version 2.1. All changes: https://darkwebinformer.com/changelog\n\n🌟 Version 2.1 - October 17th, 2024\n\n🎉 New Features:\n\n* Released the Threat Feed for Plus subscribers.\n\n⚙️ Improvements:\n\n* Removed 1 forum\n\n🐛 Bug Fixes:\n\n* Fixed an issue in the RSS feed.. thank you to the person on Infosec Echange who told me privately. Not security related, so lets not flip out.\n\n🐛 Open Bugs:\n\n* [Minor]: Status Page shows Dark Web links as down randomly once a day, but recovers automatically. I understand the issue but may not fix it since it recovers on its own. There is a certain way for the server to allow checks like this against onion sites. Monitoring.\n* [Minor]: Sometimes link previews do not show immediately on X\n* [Minor]: When changing all images to have rounded corners it makes the images look stretched and not centered on the website/X/Telegram/LinkedIn.\n* [Minor]: Add new tags next to new urls is not showing properly against the table.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Changelog"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog\n"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
