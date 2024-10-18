@@ -19102,6 +19102,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5603,
+            "Date": "2024-10-18",
+            "Content": "🚨🇨🇦A Threat Actor is Allegedly Selling Access to an Unidentified Magento 2.4.6 E-Commerce Site Based in Canada\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-magento-2-4-6-e-commerce-site-based-in-canada/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Canada"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-magento-2-4-6-e-commerce-site-based-in-canada/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
