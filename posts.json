@@ -19208,6 +19208,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-company-in-the-usa-with-a-revenue-of-11-billion/"
             ]
+        },
+        {
+            "Message ID": 5613,
+            "Date": "2024-10-18",
+            "Content": "🚨🇨🇦Al-Sheikh is Allegedly Selling the Database of Veribook\n\nhttps://darkwebinformer.com/al-sheikh-is-allegedly-selling-the-database-of-veribook/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/al-sheikh-is-allegedly-selling-the-database-of-veribook/"
+            ]
+        },
+        {
+            "Message ID": 5612,
+            "Date": "2024-10-18",
+            "Content": "🚨🇮🇩A Threat Actor has Allegedly Leaked Data of Indonesia Stock Exchange (IDX)\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-indonesia-stock-exchange-idx/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-indonesia-stock-exchange-idx/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
