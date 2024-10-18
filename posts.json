@@ -33725,6 +33725,26 @@
                 "India"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1093,
+            "Date": "2024-10-18",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - CreaGen Biosciences\n\nEverest hacking group claims to have breached CreaGen Biosciences. \n\nRansom deadline: 28th Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1092,
+            "Date": "2024-10-18",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇵🇷Puerto Rico - Puerto Rican Institute of Culture\n\nRansomHub hacking group claims to have breached the Puerto Rican Institute of Culture. \n\nAllegedly, 95 GB of data were exfiltrated.\nRansom deadline: 24th Oct 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Puerto Rico -"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
