@@ -24446,6 +24446,29 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2308,
+            "Date": "2024-10-18",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2307,
+            "Date": "2024-10-18",
+            "Content": "🌐 Target:\nhttps://kataeb.org \n\n            \n💻 Check host:\n\nhttps://check-host.net/check-report/1f69a6b0k85\n\n#free_palestine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://kataeb.org ",
+                "tps://check-host.net/check-report/1f69a6b0k85\n\n"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -33801,6 +33824,28 @@
             "Date": "2024-10-18",
             "Content": "🚨Cyberattack Alert ‼️\n\n🇦🇪UAE - Al Qaryah Auctions\n\nRansomHub hacking group claims to have breached Al Qaryah Auctions. \n\nAllegedly, 100 GB of data were exfiltrated, including personal identifiable information (PII), financial information, and confidential business information.\n\nRansom deadline: 24th Oct 24.",
             "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1100,
+            "Date": "2024-10-18",
+            "Content": "🚨Cyberattack - 'Death to Israel' Displayed Across Chicago After Hackers Change Billboards\n\nOn October 16, 2024, hackers compromised several electronic billboards in Northbrook, a suburb of Chicago, displaying messages such as \"Death to Israel\" and \"F* Israel\" alongside the Palestinian flag. \n\nOne of the billboards falsely claimed to be paid for by YouTuber MrBeast, with an image of his face. The messages appeared around 5:30 p.m. and were removed by 7 p.m. after being reported. MrBeast's representatives denied any involvement, and both Outfront Media, the billboard company, and local authorities are investigating the attack.\n\nMore details:\nhttps://www.newsweek.com/death-israel-displayed-across-chicago-after-hackers-change-billboards-1970449",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel",
+                "Northbrook",
+                "Chicago"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1099,
+            "Date": "2024-10-18",
+            "Content": "🚨Data Breach Alert ‼️\n\n🇺🇸USA - The Texas Department of Public Safety (DPS) has reported a data breach affecting the personal information of 115,071 Texans. \n\nThe leaked data includes names, addresses, Social Security numbers, driver's license numbers, and government-issued ID numbers.\n\nMore details:\nhttps://www.houstonpublicmedia.org/articles/news/public-safety/2024/10/16/503095/personal-information-for-more-than-115000-texans-leaked-in-dps-data-breach/",
+            "Attack Type": "Data Breach",
             "Location": [
                 "N/A"
             ],
