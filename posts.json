@@ -19068,6 +19068,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5601,
+            "Date": "2024-10-18",
+            "Content": "🚨🇺🇸A Threat Actor Allegedly Has Leaked Data of Black Lives Matter\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-data-of-black-lives-matter/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-data-of-black-lives-matter/"
+            ]
+        },
+        {
+            "Message ID": 5600,
+            "Date": "2024-10-18",
+            "Content": "🚨🇧🇩A Threat Actor has Allegedly Leaked Data of Road Transport and Highways Division Bangladesh\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-road-transport-and-highways-division-bangladesh/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-road-transport-and-highways-division-bangladesh/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
