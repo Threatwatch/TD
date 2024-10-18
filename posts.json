@@ -19232,6 +19232,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-indonesia-stock-exchange-idx/"
             ]
+        },
+        {
+            "Message ID": 5615,
+            "Date": "2024-10-18",
+            "Content": "🚨🇨🇳grep is Allegedly Selling RDWeb Access to an Unidentified Company in China\n\nhttps://darkwebinformer.com/grep-is-allegedly-selling-rdweb-access-to-an-unidentified-company-in-china/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/grep-is-allegedly-selling-rdweb-access-to-an-unidentified-company-in-china/"
+            ]
+        },
+        {
+            "Message ID": 5614,
+            "Date": "2024-10-18",
+            "Content": "🚨🇲🇾A Threat Actor Allegedly is Selling the Database of Cheng & Co Group\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-the-database-of-cheng-co-group/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-the-database-of-cheng-co-group/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
