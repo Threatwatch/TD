@@ -19256,6 +19256,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-the-database-of-cheng-co-group/"
             ]
+        },
+        {
+            "Message ID": 5616,
+            "Date": "2024-10-18",
+            "Content": "🚨CVE-2024-42640: Unauthenticated Remote Code Execution via Angular-Base64-Upload Library\n\nhttps://darkwebinformer.com/cve-2024-42640-unauthenticated-remote-code-execution-via-angular-base64-upload-library/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/cve-2024-42640-unauthenticated-remote-code-execution-via-angular-base64-upload-library/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
