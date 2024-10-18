@@ -19268,6 +19268,26 @@
             "URLs": [
                 "ttps://darkwebinformer.com/cve-2024-42640-unauthenticated-remote-code-execution-via-angular-base64-upload-library/"
             ]
+        },
+        {
+            "Message ID": 5618,
+            "Date": "2024-10-18",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5617,
+            "Date": "2024-10-18",
+            "Content": "WP site",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
