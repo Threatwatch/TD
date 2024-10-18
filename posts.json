@@ -27455,6 +27455,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 7059,
+            "Date": "2024-10-18",
+            "Content": "False news according to Hamas",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -33743,6 +33753,16 @@
             "Attack Type": "Hacking",
             "Location": [
                 "Puerto Rico -"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1095,
+            "Date": "2024-10-18",
+            "Content": "🚨Cyberattack Alert ‼️\n\n🇯🇵Japan - Yorozu Corporation (株式会社ヨロズ)\n\nOn October 14, 2024, Yorozu Corporation confirmed a ransomware attack that encrypted files stored on multiple servers, making them inaccessible. \n\nThe company immediately formed a task force and isolated the affected servers from both the internet and internal networks. \n\nYorozu Corporation has apologized to its business partners for the inconvenience and has committed to promptly disclose any further developments.\n\nSource:\nhttps://www.yorozu-corp.co.jp/share/uploads/2024/10/Notice-of-Ransomware-Attack-Incident2024.10.18.pdf",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Japan"
             ],
             "URLs": []
         }
