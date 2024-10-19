@@ -19731,6 +19731,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5659,
+            "Date": "2024-10-19",
+            "Content": "https://darkwebinformer.com/link-extractor/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkwebinformer.com/link-extractor/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -25392,6 +25404,39 @@
                 "ps://skhnin.net/\nht",
                 "ps://wowshops.co.il/\n\n🛡",
                 "s://mirror-h.org/search/hacker/67579/\n\n--"
+            ]
+        },
+        {
+            "Message ID": 2333,
+            "Date": "2024-10-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2332,
+            "Date": "2024-10-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2331,
+            "Date": "2024-10-19",
+            "Content": "🌐 Target:\n   https://www.alrajhibank.com.sa/\n\n            \n💻 Check host:\n\nhttps://check-host.net/check-report/1f745d21kfd4\n\n#opSaudi\n#free_palestine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.alrajhibank.com.sa/\n",
+                "tps://check-host.net/check-report/1f745d21kfd4\n\n"
             ]
         }
     ],
