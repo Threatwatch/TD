@@ -19675,6 +19675,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/russian-cyber-army-team-targeted-the-website-of-sa-police-super/"
             ]
+        },
+        {
+            "Message ID": 5655,
+            "Date": "2024-10-19",
+            "Content": "🚨🇮🇳A Threat Actor Allegedly Leaked Data of Madhav Institute of Technology and Science (MITS)\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-madhav-institute-of-technology-and-science-mits/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-madhav-institute-of-technology-and-science-mits/"
+            ]
+        },
+        {
+            "Message ID": 5654,
+            "Date": "2024-10-19",
+            "Content": "🚨🇮🇳A Threat Actor Allegedly Leaked Data of SVERI's College of Engineering Placement\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-sveris-college-of-engineering-placement/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "https://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-sveris-college-of-engineering-placement/"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-sveris-college-of-engineering-placement/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -48962,6 +48986,16 @@
                 "https://www.dyami.news/p/coming-soon",
                 "https://daily30768.rssing.com/chan-80246333/article68.html"
             ]
+        },
+        {
+            "Message ID": 1243,
+            "Date": "2024-10-19",
+            "Content": "Tomorrow, an interview with President Trump will be broadcast on Al Arabiya\n\nيشباب غدآ في مقابلة قوية مع ترامب ستعرض على قناة العربية الساعة 10 مساء \n\nالجميع يشوفوها لاانة اعتقد بتكون قوية جدا وإهانة ل جو بايدن",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "AHU Official": [
