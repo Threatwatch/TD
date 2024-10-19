@@ -19653,6 +19653,28 @@
             "URLs": [
                 "ps://darkwebinformer.com/russian-cyber-army-team-targeted-the-website-of-flight-training-adelaide/"
             ]
+        },
+        {
+            "Message ID": 5653,
+            "Date": "2024-10-19",
+            "Content": "Fine 30 because this community is smaller.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5652,
+            "Date": "2024-10-19",
+            "Content": "🚨🇦🇺Russian Cyber Army Team Targeted the Website of SA Police Super\n\nhttps://darkwebinformer.com/russian-cyber-army-team-targeted-the-website-of-sa-police-super/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/russian-cyber-army-team-targeted-the-website-of-sa-police-super/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -25280,6 +25302,40 @@
             ],
             "URLs": [
                 "https://github.com/nollium/CVE-2024-9264"
+            ]
+        },
+        {
+            "Message ID": 2330,
+            "Date": "2024-10-19",
+            "Content": "databases",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2329,
+            "Date": "2024-10-19",
+            "Content": "🇵🇸The Israeli web server containing industrial and commercial websites was hacked and the databases of these sites\nhacked by Fattah and Liwaa Mohammad ﷺ\n\n📎URLS:\n\nhttps://cottonbox.co.il/\nhttps://cottonz.co.il/\nhttps://d365.co.il\nhttps://gotroly.com/\nhttps://lemonz.co.il/\nhttps://nurse24.co.il/\nhttps://otla.co.il/\nhttps://retaltours.com/\nhttps://saferny.net/\nhttps://skhnin.net/\nhttps://wowshops.co.il/\n\n🛡Mirror:\nhttps://mirror-h.org/search/hacker/67579/\n\n--------------------------------------\n#طوفان_الأحرار | #شهید_قدس | #tufan_alahrar\n#all_eyes_on_Rafah | #free_palestine\n@fattahh_ir | @realLulzSec |  @madad_team | @Mhwercyber4 ✊",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Fattah",
+                "Liwaa"
+            ],
+            "URLs": [
+                "ps://cottonbox.co.il/\nht",
+                "ps://cottonz.co.il/\nht",
+                "ps://d365.co.il\nht",
+                "ps://gotroly.com/\nht",
+                "ps://lemonz.co.il/\nht",
+                "ps://nurse24.co.il/\nht",
+                "ps://otla.co.il/\nht",
+                "ps://retaltours.com/\nht",
+                "ps://saferny.net/\nht",
+                "ps://skhnin.net/\nht",
+                "ps://wowshops.co.il/\n\n🛡",
+                "s://mirror-h.org/search/hacker/67579/\n\n--"
             ]
         }
     ],
