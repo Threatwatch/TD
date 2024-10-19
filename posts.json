@@ -24951,6 +24951,18 @@
                 "tps://libertyinsurance.ae\n\n",
                 "ps://mirror-h.org/zone/5777850/\n\n\n"
             ]
+        },
+        {
+            "Message ID": 2318,
+            "Date": "2024-10-19",
+            "Content": "https://github.com/lirantal/CVE-2024-27983-nodejs-http2\n\nCVE-2024-27983 this repository builds up a vulnerable HTTP2 Node.js server (server-nossl.js) based on CVE-2024-27983 which exploits a continuation flood vulnerability in HTTP2 servers.\n#github #exploit #DDoS",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/lirantal/CVE-2024-27983-nodejs-http2"
+            ]
         }
     ],
     "Anonymous Chat": [
