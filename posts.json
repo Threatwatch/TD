@@ -19699,6 +19699,16 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-sveris-college-of-engineering-placement/"
             ]
+        },
+        {
+            "Message ID": 5656,
+            "Date": "2024-10-19",
+            "Content": "No idea if this was automated or not, because the response was 90 minutes later and not instant.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
