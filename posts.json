@@ -19490,6 +19490,54 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-restaurant-located-in-australia/"
             ]
+        },
+        {
+            "Message ID": 5641,
+            "Date": "2024-10-19",
+            "Content": "🚨🇲🇦A Threat Actor has Allegedly Leaked the Data of ENA Meknes – National School of Agriculture of Meknes\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-ena-meknes-national-school-of-agriculture-of-meknes/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-ena-meknes-national-school-of-agriculture-of-meknes/"
+            ]
+        },
+        {
+            "Message ID": 5640,
+            "Date": "2024-10-19",
+            "Content": "🚨🇧🇪A Threat Actor is Allegedly Selling the Database of Cotubex\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-cotubex/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-cotubex/"
+            ]
+        },
+        {
+            "Message ID": 5639,
+            "Date": "2024-10-19",
+            "Content": "🚨🇨🇭Ddarknotevil has Allegdly Leaked the Database of Predige SA\n\nhttps://darkwebinformer.com/ddarknotevil-has-allegdly-leaked-the-database-of-predige-sa/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/ddarknotevil-has-allegdly-leaked-the-database-of-predige-sa/"
+            ]
+        },
+        {
+            "Message ID": 5638,
+            "Date": "2024-10-19",
+            "Content": "🚨🇹🇭A Threat Actor Allegedly Leaked Data of Thai Cargo & Logistics\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-thai-cargo-logistics/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-thai-cargo-logistics/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -36425,6 +36473,27 @@
             ],
             "URLs": [
                 "ttps://bebuy.co.in/products.php\n"
+            ]
+        },
+        {
+            "Message ID": 1758,
+            "Date": "2024-10-19",
+            "Content": "some indian sites \n\nhttp://www.dpsmathura.edu.in/\nhttp://www.amitchawla.in/\nhttp://www.dpspalwalnewcolony.edu.in/\nhttps://www.gianithakursinghji.com/\nhttp://www.healthclap.in/\nhttp://www.mkfiresafety.com/\nhttp://www.seoforworld.com/\nhttp://www.theincircle.in/\nhttp://www.transportty.com/\nhttps://www.sarbgroup.in/about.php\n\n\nHACKED BY BEE",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://www.dpsmathura.edu.in/",
+                "http://www.amitchawla.in/",
+                "http://www.dpspalwalnewcolony.edu.in/",
+                "https://www.gianithakursinghji.com/",
+                "http://www.healthclap.in/",
+                "http://www.mkfiresafety.com/",
+                "http://www.seoforworld.com/",
+                "http://www.theincircle.in/",
+                "http://www.transportty.com/",
+                "https://www.sarbgroup.in/about.php"
             ]
         }
     ],
