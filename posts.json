@@ -25483,6 +25483,26 @@
                 "ttps://www.spa.gov.sa/\n",
                 "tps://check-host.net/check-report/1f749d2ak4a4\n\n"
             ]
+        },
+        {
+            "Message ID": 2338,
+            "Date": "2024-10-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2337,
+            "Date": "2024-10-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
