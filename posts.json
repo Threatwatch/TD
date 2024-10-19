@@ -24963,6 +24963,81 @@
             "URLs": [
                 "https://github.com/lirantal/CVE-2024-27983-nodejs-http2"
             ]
+        },
+        {
+            "Message ID": 2325,
+            "Date": "2024-10-19",
+            "Content": "MBC site subdomains",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2324,
+            "Date": "2024-10-19",
+            "Content": "The Saudi MBC channel introduced Haj Qassem Soleimani as a terrorist in its program last night.\n\nWe do not take any offense to our martyred leader and we request the relevant authorities to take serious action\nOtherwise, we will punish them ourselves...",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2323,
+            "Date": "2024-10-19",
+            "Content": "A piece of information",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2322,
+            "Date": "2024-10-19",
+            "Content": "⚪️This is our last attack on Saudi Arabia.\nBut if there are other attacks on my country Iran, the government websites of Saudi Arabia will be in danger...",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Saudi Arabia",
+                "Iran",
+                "Saudi Arabia"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2321,
+            "Date": "2024-10-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2320,
+            "Date": "2024-10-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2319,
+            "Date": "2024-10-19",
+            "Content": "🚨 A Saudi Arabian government educational organization was hacked and their databases and emails were also saved.\n\n📎url :\n ezschools.edu.sa\n\n📌mirror : \nhttps://mirror-h.org/zone/5777901/\n\n#free_palestine",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "schools.edu.sa\n\n",
+                "ps://mirror-h.org/zone/5777901/\n\n#"
+            ]
         }
     ],
     "Anonymous Chat": [
