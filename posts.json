@@ -19780,6 +19780,19 @@
                 "eBot.ai\n\nh",
                 "ps://darkwebinformer.com/888-is-allegedly-selling-the-database-from-salebot-ai/"
             ]
+        },
+        {
+            "Message ID": 5663,
+            "Date": "2024-10-19",
+            "Content": "https://doxbin.org/upload/Announcement101824\nhttps://doxbin.org/upload/OfficialDoxbinTelegrams",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://doxbin.org/upload/Announcement101824",
+                "https://doxbin.org/upload/OfficialDoxbinTelegrams"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -25521,6 +25534,16 @@
         },
         {
             "Message ID": 2337,
+            "Date": "2024-10-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2339,
             "Date": "2024-10-19",
             "Content": "",
             "Attack Type": "Unknown",
