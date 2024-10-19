@@ -19352,6 +19352,53 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5629,
+            "Date": "2024-10-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5628,
+            "Date": "2024-10-19",
+            "Content": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-19 02:33:16\n🚨 Title: Radisson Hotels falls victim to Everest Ransomware\n🛡️ Victim Country: USA\n🏭 Victim Industry: Hospitality & Tourism\n🏢 Victim Organization: radisson hotels\n🌐 Victim Site: \n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: Everest\n🌍 Network: tor\n🔗 Claim: http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/country-inn-suites-by-radisson/\n📝 Description: The group claims to have obtained organization's database and plans to publish it within 12-13 days. The claimed data contains personal and financial information including client details such as credit card information, internal emails, booking calendars, and messages. It also includes sensitive information like guest names, addresses, tax IDs, room details, billing information, and more. Sample screenshots are provided in their dark web portal.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Everest Ransomware"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "omocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/country-inn-suites-by-radisson/\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 5627,
+            "Date": "2024-10-19",
+            "Content": "https://vpn.mec.gov.br/sslvpn/portal.html Rude",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://vpn.mec.gov.br/sslvpn/portal.html"
+            ]
+        },
+        {
+            "Message ID": 5626,
+            "Date": "2024-10-19",
+            "Content": "💡Daily Dose of Dark Web Informer - October 18th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-18th-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-18th-2024/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -27862,6 +27909,16 @@
             "Message ID": 7062,
             "Date": "2024-10-18",
             "Content": "Hi",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 7064,
+            "Date": "2024-10-19",
+            "Content": "",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
