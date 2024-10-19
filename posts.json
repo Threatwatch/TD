@@ -24928,6 +24928,29 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2317,
+            "Date": "2024-10-19",
+            "Content": "Company information on LinkedIn 🙂",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2316,
+            "Date": "2024-10-19",
+            "Content": "🔴The website of an insurance company affiliated with the Ministry of Economy of the United Arab Emirates and Saudi Arabia with about 100,000 applicants was destroyed.\n\n📎url : https://libertyinsurance.ae\n\n🌐Mirror : https://mirror-h.org/zone/5777850/\n\n\n#free_palestine | #Death_to_traitors",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Saudi Arabia"
+            ],
+            "URLs": [
+                "tps://libertyinsurance.ae\n\n",
+                "ps://mirror-h.org/zone/5777850/\n\n\n"
+            ]
         }
     ],
     "Anonymous Chat": [
