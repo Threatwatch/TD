@@ -19743,6 +19743,18 @@
             "URLs": [
                 "https://darkwebinformer.com/link-extractor/"
             ]
+        },
+        {
+            "Message ID": 5660,
+            "Date": "2024-10-19",
+            "Content": "🚨🇫🇷A Threat Actor is Allegedly Selling the Database of JKAmaret\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-jkamaret/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-jkamaret/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -25437,6 +25449,39 @@
             "URLs": [
                 "ttps://www.alrajhibank.com.sa/\n",
                 "tps://check-host.net/check-report/1f745d21kfd4\n\n"
+            ]
+        },
+        {
+            "Message ID": 2336,
+            "Date": "2024-10-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2335,
+            "Date": "2024-10-19",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2334,
+            "Date": "2024-10-19",
+            "Content": "🌐 Target:\n   https://www.spa.gov.sa/\n\n            وكالة الأنباء السعودية.     \n\n💻 Check host:\n\nhttps://check-host.net/check-report/1f749d2ak4a4\n\n#opSaudi\n#free_palestine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.spa.gov.sa/\n",
+                "tps://check-host.net/check-report/1f749d2ak4a4\n\n"
             ]
         }
     ],
