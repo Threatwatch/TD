@@ -20356,6 +20356,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-vpn-access-to-several-unidentified-companies-in-the-usa/"
             ]
+        },
+        {
+            "Message ID": 5713,
+            "Date": "2024-10-21",
+            "Content": "🚨🇦🇪DarkRaaS is Allegedly Selling Access to a Dubai Government Office Windows Server\n\nhttps://darkwebinformer.com/darkraas-is-allegedly-selling-access-to-a-dubai-government-office-windows-server/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/darkraas-is-allegedly-selling-access-to-a-dubai-government-office-windows-server/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -37609,6 +37621,22 @@
                 "https://popup.chitkararealtors.com/",
                 "https://propertycertified.in/clo.php",
                 "https://zmr-enterprises.com/"
+            ]
+        },
+        {
+            "Message ID": 1763,
+            "Date": "2024-10-21",
+            "Content": "INDIAN SITE\n \n\nhttps://www.ioyo.in/\n\nhttps://bluechipgopi.com/\n\nhttps://maduraaconsaltancy.com/\n\nhttps://magilchi.in/\n\nhttps://srivanischools.co.in/\n\n\nHACKED BY BEE",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.ioyo.in/",
+                "https://bluechipgopi.com/",
+                "https://maduraaconsaltancy.com/",
+                "https://magilchi.in/",
+                "https://srivanischools.co.in/"
             ]
         }
     ],
