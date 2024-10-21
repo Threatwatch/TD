@@ -38,15 +38,15 @@ jobs:
         python dashboard.py  # Run the script for posts.json
 
     # Step 6: Commit and push changes for news.json (similar to your previous setup)
-    - name: Commit and push changes for news.json
-      run: |
-        git config --local user.email "faisal.s.albargan@gmail.com"
-        git config --local user.name "FSBARGAN"
-        git add news.json
-        git diff --cached --exit-code || git commit -m "Auto-update JSON data for news"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    #- name: Commit and push changes for news.json
+    #  run: |
+     #   git config --local user.email "faisal.s.albargan@gmail.com"
+     #   git config --local user.name "FSBARGAN"
+     #  git add news.json
+       # git diff --cached --exit-code || git commit -m "Auto-update JSON data for news"
+       # git push
+     # env:
+     #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     # Step 7: Commit and push changes for posts.json (similar to your previous setup)
     - name: Commit and push changes for posts.json
