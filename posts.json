@@ -20450,6 +20450,40 @@
                 "https://youtube.com/@DarkWebInformer",
                 "https://infosec.exchange/@DarkWebInformer"
             ]
+        },
+        {
+            "Message ID": 5722,
+            "Date": "2024-10-21",
+            "Content": "ye",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5721,
+            "Date": "2024-10-21",
+            "Content": "🚨🚨🇺🇸A Threat Actor is Allegedly Selling Admin Panel Access of Stanford University\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-admin-panel-access-of-stanford-university/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-is-allegedly-selling-admin-panel-access-of-stanford-university/"
+            ]
+        },
+        {
+            "Message ID": 5720,
+            "Date": "2024-10-21",
+            "Content": "🚨🇺🇸A Threat Actor is Allegedly Selling RDWeb Access to an Unidentified USA Company\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdweb-access-to-an-unidentified-usa-company/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdweb-access-to-an-unidentified-usa-company/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
