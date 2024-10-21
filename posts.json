@@ -20143,6 +20143,50 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-rombald-group-ltd/"
             ]
+        },
+        {
+            "Message ID": 5698,
+            "Date": "2024-10-21",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5697,
+            "Date": "2024-10-21",
+            "Content": "test",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5696,
+            "Date": "2024-10-21",
+            "Content": "🚨🇮🇳A Threat Actor Allegedly Leaked Data of HolidayRewardz\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-holidayrewardz/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-holidayrewardz/"
+            ]
+        },
+        {
+            "Message ID": 5695,
+            "Date": "2024-10-21",
+            "Content": "🚨🇺🇸NickDiesel is Allegedly Selling Data of USA Citizens\n\nhttps://darkwebinformer.com/nickdiesel-is-allegedly-selling-data-of-usa-citizens/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/nickdiesel-is-allegedly-selling-data-of-usa-citizens/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
