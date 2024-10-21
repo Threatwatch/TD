@@ -20223,6 +20223,54 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-inmotion-hosting/"
             ]
+        },
+        {
+            "Message ID": 5705,
+            "Date": "2024-10-21",
+            "Content": "🚨🇮🇱RipperSec Targeted the Website of Shalom Hartman Institute\n\nhttps://darkwebinformer.com/rippersec-targeted-the-website-of-shalom-hartman-institute/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rippersec-targeted-the-website-of-shalom-hartman-institute/"
+            ]
+        },
+        {
+            "Message ID": 5704,
+            "Date": "2024-10-21",
+            "Content": "🚨🇮🇩EXECUTOR DDOS Targeted the Website of Badan Pengembangan Sumber Daya Manusia Daerah (BPSDMD)\n\nhttps://darkwebinformer.com/executor-ddos-targeted-the-website-of-badan-pengembangan-sumber-daya-manusia-daerah-bpsdmd/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/executor-ddos-targeted-the-website-of-badan-pengembangan-sumber-daya-manusia-daerah-bpsdmd/"
+            ]
+        },
+        {
+            "Message ID": 5703,
+            "Date": "2024-10-21",
+            "Content": "🚨🇦🇺Russian Cyber Army Team Targeted the Website of Adelaide Metro\n\nhttps://darkwebinformer.com/russian-cyber-army-team-targeted-the-website-of-adelaide-metro/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/russian-cyber-army-team-targeted-the-website-of-adelaide-metro/"
+            ]
+        },
+        {
+            "Message ID": 5702,
+            "Date": "2024-10-21",
+            "Content": "🚨🇧🇷DarkRaaS is Allegedly Selling Unauthorized Access to Mandic Cloud Solutions\n\nhttps://darkwebinformer.com/darkraas-is-allegedly-selling-unauthorized-access-to-mandic-cloud-solutions/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/darkraas-is-allegedly-selling-unauthorized-access-to-mandic-cloud-solutions/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
