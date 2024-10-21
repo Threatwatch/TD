@@ -20404,6 +20404,52 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-al-massira-university-residences/"
             ]
+        },
+        {
+            "Message ID": 5719,
+            "Date": "2024-10-21",
+            "Content": "🚨🇨🇦A Threat Actor is Allegedly Selling Shell Access of an Unidentified Company in Canada\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-shell-access-of-an-unidentified-company-in-canada/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Canada"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-shell-access-of-an-unidentified-company-in-canada/"
+            ]
+        },
+        {
+            "Message ID": 5718,
+            "Date": "2024-10-21",
+            "Content": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5717,
+            "Date": "2024-10-21",
+            "Content": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA512\n\nToday is the 21st of October 2024.\n\nI am Dark Web Informer and I am in control of my PGP key and all identities listed below.\n\nThis canary will be updated by the end of the 4th of November 2024. Donations are very much appreciated!\n\nCredit Card Donations: https://darkwebinformer.com/#/portal/support\n\nBTC Donations: bc1qd9q0fpkchjs9zz2u27mx29vz6vggkfmw6rxgfa\n\nMonero Donations: 868pSMZ2RVBAjEUGGbEUhHZD4x6zun2WXgXTFVFPzYJuRnZAJTVZoahWvL3gUDLi7vPxTpcEePxjLUjMrJhGm4gNU4TGFDv\n\nETH USDT-ERC20 Donations: 0x828B98817aBF157A269D6a1eF204F539A28f1752\n\nWebsite: https://darkwebinformer.com/\nSecondary Website: https://darkwebinformer.io\nX/Twitter: https://x.com/DarkWebInformer\nMedium: https://medium.com/@DarkWebInformer\nGitHub: https://github.com/DarkWebInformer\nLinkedIn: https://linkedin.com/company/darkwebinformer\nTelegram Channel: https://t.me/TheDarkWebInformer\nTelegram Contact: https://t.me/D4rkWebInformer\nReddit: https://reddit.com/user/DarkWebInformer\nDread: @DarkWebInformer\nSubdread: /d/DarkWebInformer\nPitch: @darkwebinformer\nXMPP: darkwebinformer@xmpp.is\nDiscord: darkwebinformer\nSignal: DarkWebInformer.99\nSignal Group: https://signal.group/#CjQKIOiHbystGUzgYDjLfZdoTw7Xz2caufdzIOTWqwdCfOiPEhBB_xAgpv3HOdciAr3PSVDi\nYouTube: https://youtube.com/@DarkWebInformer\nInfosec Exchange: https://infosec.exchange/@DarkWebInformer\n\nLatest Monero Block Hash:\n65bbb2540409b722c3e7ac625ca330520a207f2a42133446bd729f96e5f4182d\n-----BEGIN PGP SIGNATURE-----\n\niHUEARYKAB0WIQQ9/D9VgPN15+Zez18HxZ/3+EVxnQUCZxac+AAKCRAHxZ/3+EVx\nnZ7iAP4ryR5+PjsJs0Pz3FnLtdGKQQ1EcktQfuwR/qGlYAzGPQEAqr6R3+DfL+JM\nv2ZW+x8AvVHOZ9bSQooPzK+V5nR8xgo=\n=Lban\n-----END PGP SIGNATURE-----",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkwebinformer.com/#/portal/support",
+                "https://darkwebinformer.com/",
+                "https://darkwebinformer.io",
+                "https://x.com/DarkWebInformer",
+                "https://medium.com/@DarkWebInformer",
+                "https://github.com/DarkWebInformer",
+                "https://linkedin.com/company/darkwebinformer",
+                "https://t.me/TheDarkWebInformer",
+                "https://t.me/D4rkWebInformer",
+                "https://reddit.com/user/DarkWebInformer",
+                "https://signal.group/#CjQKIOiHbystGUzgYDjLfZdoTw7Xz2caufdzIOTWqwdCfOiPEhBB_xAgpv3HOdciAr3PSVDi",
+                "https://youtube.com/@DarkWebInformer",
+                "https://infosec.exchange/@DarkWebInformer"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
