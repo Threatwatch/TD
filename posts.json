@@ -27326,6 +27326,16 @@
                 "ttps://www.lbcgroup.tv\n",
                 "tps://check-host.net/check-report/1f8c91c1kcd7\n\n"
             ]
+        },
+        {
+            "Message ID": 2384,
+            "Date": "2024-10-22",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
@@ -33511,6 +33521,20 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5249,
+            "Date": "2024-10-22",
+            "Content": "we targeted Panet \n\nThe largest Israeli news site \n\nWe targeted it, In response to it's crimes in Lebanon, Palestine and Syria \nKilling Childrens and innocents \n\ncheck host:  https://check-host.net/check-report/1f8ccde2ka5d\n\n#D01\n\nbotnet:  @VulcanC2power",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Lebanon",
+                "Palestine",
+                "Syria"
+            ],
+            "URLs": [
+                "https://check-host.net/check-report/1f8ccde2ka5d"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
