@@ -21160,6 +21160,28 @@
             "URLs": [
                 "ps://darkwebinformer.com/303-allegedly-leaked-data-of-division-of-military-naval-affairs-of-usa/"
             ]
+        },
+        {
+            "Message ID": 5781,
+            "Date": "2024-10-22",
+            "Content": "https://databreaches.net/?p=118114",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://databreaches.net/?p=118114"
+            ]
+        },
+        {
+            "Message ID": 5780,
+            "Date": "2024-10-22",
+            "Content": "def parse_log_file(log_file):",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | РипперСек": [
