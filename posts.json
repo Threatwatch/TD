@@ -21124,6 +21124,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5777,
+            "Date": "2024-10-22",
+            "Content": "💡Tor Browser 14.0 has been released. Make sure to update ASAP!\n\nhttps://blog.torproject.org/new-release-tor-browser-140/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://blog.torproject.org/new-release-tor-browser-140/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
