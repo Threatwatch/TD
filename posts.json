@@ -26702,6 +26702,31 @@
                 "US"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2379,
+            "Date": "2024-10-22",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2378,
+            "Date": "2024-10-22",
+            "Content": "🇵🇸The Israeli shopping and commercial website, related to Israel's economic infrastructure, was destroyed and its database was extracted.\nhacked by Fattah and Liwaa Mohammad ﷺ\n\n📎URL :\ntamnun-kap.co.il\n\n📌Mirror :\nhttps://mirror-h.org/zone/5799577/\n\n#free_palestine\n----------------------------------------\n@fattahh_ir | @realLulzSec | @Mhwercyber4 ✊",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel",
+                "Fattah",
+                "Liwaa"
+            ],
+            "URLs": [
+                "nun-kap.co.il\n\n📌",
+                "s://mirror-h.org/zone/5799577/\n\n#f"
+            ]
         }
     ],
     "Anonymous Chat": [
