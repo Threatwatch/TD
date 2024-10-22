@@ -27303,6 +27303,29 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2383,
+            "Date": "2024-10-22",
+            "Content": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2382,
+            "Date": "2024-10-22",
+            "Content": "🌐 Target:\n   https://www.lbcgroup.tv\n\n            \n💻 Check host:\n\nhttps://check-host.net/check-report/1f8c91c1kcd7\n\n#free_palestine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.lbcgroup.tv\n",
+                "tps://check-host.net/check-report/1f8c91c1kcd7\n\n"
+            ]
         }
     ],
     "Anonymous Chat": [
