@@ -20984,6 +20984,42 @@
             "URLs": [
                 "ps://darkwebinformer.com/fatimion-cyber-team-targeted-the-israeli-air-force/"
             ]
+        },
+        {
+            "Message ID": 5767,
+            "Date": "2024-10-22",
+            "Content": "🚨🇨🇴A Threat Actor has Allegedly Leaked the Database of Universidad de Antioquia (UdeA)\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-universidad-de-antioquia-udea/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-universidad-de-antioquia-udea/"
+            ]
+        },
+        {
+            "Message ID": 5766,
+            "Date": "2024-10-22",
+            "Content": "🚨🇬🇧A Threat Actor has Allegedly Leaked Data of NHS England\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-nhs-england/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-nhs-england/"
+            ]
+        },
+        {
+            "Message ID": 5765,
+            "Date": "2024-10-22",
+            "Content": "🚨🇨🇾LulzSec Black Targeted the Website of Ecotek Green Living\n\nhttps://darkwebinformer.com/lulzsec-black-targeted-the-website-of-ecotek-green-living/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/lulzsec-black-targeted-the-website-of-ecotek-green-living/"
+            ]
         }
     ],
     "RipperSec | РипперСек": [
@@ -27151,6 +27187,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "Israel"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2381,
+            "Date": "2024-10-22",
+            "Content": "01000110 01110010 01100101 01100101 00100000 01010000 01100001 01101100 01100101 01110011 01110100 01101001 01101110 01100101 00100000",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
