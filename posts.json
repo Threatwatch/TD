@@ -21178,6 +21178,78 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-49208"
             ]
+        },
+        {
+            "Message ID": 89461,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Weekly Detection Rule (YARA and Snort) Information – Week 4, October 2024\n\nDate: October 23, 2024\n\nSource: https://asec.ahnlab.com/en/84043/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://asec.ahnlab.com/en/84043/"
+            ]
+        },
+        {
+            "Message ID": 89460,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-9583\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9583\n\nDescription: The RSS Aggregator – RSS Import, News Feeds, Feed to Post, and Autoblogging plugin for WordPress is vulnerable to unauthorized use of functionality due to a missing capability check on the wprss_ajax_send_premium_support function in all versions up to, and including, 4.23.12. This makes it possible for authenticated attackers, with Subscriber-level access and above, to send premium support requests with an attacker-controlled subject line and email address to support allowing them to impersonate the site owner. License information may also be leaked.\n\nPublication Date: Wed Oct 23 11:02:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9583"
+            ]
+        },
+        {
+            "Message ID": 89459,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-9947\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9947\n\nDescription: The ProfilePress Pro plugin for WordPress is vulnerable to authentication bypass in all versions up to, and including, 4.11.1. This is due to insufficient verification on the user being returned by the social login token. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the email and the user does not have an already-existing account for the service returning the token.\n\nPublication Date: Wed Oct 23 11:02:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9947"
+            ]
+        },
+        {
+            "Message ID": 89458,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-43924\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43924\n\nDescription: Missing Authorization vulnerability in dFactory Responsive Lightbox allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Responsive Lightbox: from n/a through 2.4.7.\n\nPublication Date: Wed Oct 23 11:02:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43924"
+            ]
+        },
+        {
+            "Message ID": 89457,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-10045\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10045\n\nDescription: The Transients Manager plugin for WordPress is vulnerable to Cross-Site Request Forgery in all versions up to, and including, 2.0.6. This is due to missing or incorrect nonce validation on the process_actions function. This makes it possible for unauthenticated attackers to delete transients via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.\n\nPublication Date: Wed Oct 23 11:02:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10045"
+            ]
+        },
+        {
+            "Message ID": 89456,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-9530\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9530\n\nDescription: The Qi Addons For Elementor plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 1.8.0 via private templates. This makes it possible for authenticated attackers, with Contributor-level access and above, to extract sensitive data including the contents of templates that are private.\n\nPublication Date: Wed Oct 23 11:01:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9530"
+            ]
         }
     ]
 }
