@@ -1685,6 +1685,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5832,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇬🇧A Threat Actor has Allegedly Leaked the Data of Hollywood Fancy Dress\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-hollywood-fancy-dress/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-hollywood-fancy-dress/"
+            ]
+        },
+        {
+            "Message ID": 5831,
+            "discovered": "2024-10-23",
+            "post_title": "Free Post\n\n🚨🇺🇸IntelBroker and EnergyWeaponUser have Allegedly Leaked the Database of ELife\n\nhttps://darkwebinformer.com/intelbroker-and-energyweaponuser-have-allegedly-leaked-the-database-of-elife/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/intelbroker-and-energyweaponuser-have-allegedly-leaked-the-database-of-elife/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -23415,6 +23439,54 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-3540"
+            ]
+        },
+        {
+            "Message ID": 89575,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-47690\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47690\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nf2fs: get rid of online repaire on corrupted directory\n\nsyzbot reports a f2fs bug as below:\n\nkernel BUG at fs/f2fs/inode.c:896!\nRIP: 0010:f2fs_evict_inode+0x1598/0x15c0 fs/f2fs/inode.c:896\nCall Trace:\n evict+0x532/0x950 fs/inode.c:704\n dispose_list fs/inode.c:747 [inline]\n evict_inodes+0x5f9/0x690 fs/inode.c:797\n generic_shutdown_super+0x9d/0x2d0 fs/super.c:627\n kill_block_super+0x44/0x90 fs/super.c:1696\n kill_f2fs_super+0x344/0x690 fs/f2fs/super.c:4898\n deactivate_locked_super+0xc4/0x130 fs/super.c:473\n cleanup_mnt+0x41f/0x4b0 fs/namespace.c:1373\n task_work_run+0x24f/0x310 kernel/task_work.c:228\n ptrace_notify+0x2d2/0x380 kernel/signal.c:2402\n ptrace_report_syscall include/linux/ptrace.h:415 [inline]\n ptrace_report_syscall_exit include/linux/ptrace.h:477 [inline]\n syscall_exit_work+0xc6/0x190 kernel/entry/common.c:173\n syscall_exit_to_user_mode_prepare kernel/entry/common.c:200 [inline]\n __syscall_exit_to_user_mode_work kernel/entry/common.c:205 [inline]\n syscall_exit_to_user_mode+0x279/0x370 kernel/entry/common.c:218\n do_syscall_64+0x100/0x230 arch/x86/entry/common.c:89\n entry_SYSCALL_64_after_hwframe+0x77/0x7f\nRIP: 0010:f2fs_evict_inode+0x1598/0x15c0 fs/f2fs/inode.c:896\n\nOnline repaire on corrupted directory in f2fs_lookup() can generate\ndirty data/meta while racing w/ readonly remount, it may leave dirty\ninode after filesystem becomes readonly, however, checkpoint() will\nskips flushing dirty inode in a state of readonly mode, result in\nabove panic.\n\nLet's get rid of online repaire in f2fs_lookup(), and leave the work\nto fsck.f2fs.\n\nPublication Date: Thu Oct 24 01:22:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47690"
+            ]
+        },
+        {
+            "Message ID": 89574,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-40431\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-40431\n\nDescription: A lack of input validation in Realtek SD card reader driver before 10.0.26100.21374 through the implementation of the IOCTL_SCSI_PASS_THROUGH control of the SD card reader driver allows an attacker to write to predictable kernel memory locations, even as a low-privileged user.\n\nPublication Date: Thu Oct 24 01:11:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-40431"
+            ]
+        },
+        {
+            "Message ID": 89573,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-40432\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-40432\n\nDescription: A lack of input validation in Realtek SD card reader driver before 10.0.26100.21374 through the implementation of the IOCTL_SFFDISK_DEVICE_COMMAND control of the SD card reader driver allows a privileged attacker to crash the OS.\n\nPublication Date: Thu Oct 24 01:10:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-40432"
+            ]
+        },
+        {
+            "Message ID": 89572,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-48213\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48213\n\nDescription: RockOA v2.6.5 is vulnerable to Directory Traversal in webmain/system/beifen/beifenAction.php.\n\nPublication Date: Thu Oct 24 01:10:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48213"
             ]
         }
     ]
