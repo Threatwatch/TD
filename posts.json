@@ -1293,6 +1293,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/abyss0-allegedly-is-selling-data-to-grayscale-investments/"
             ]
+        },
+        {
+            "Message ID": 5797,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇵🇱Mr Hamza Targeted the Website of Frontex\n\nhttps://darkwebinformer.com/mr-hamza-targeted-the-website-of-frontex/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/mr-hamza-targeted-the-website-of-frontex/"
+            ]
+        },
+        {
+            "Message ID": 5796,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇵🇪abzerocool has Allegedly Leaked Data of Grupo El Comercio\n\nhttps://darkwebinformer.com/abzerocool-has-allegedly-leaked-data-of-grupo-el-comercio/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/abzerocool-has-allegedly-leaked-data-of-grupo-el-comercio/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -3696,6 +3720,16 @@
             "Message ID": 2282,
             "discovered": "2024-10-13",
             "post_title": "😂Don't cry, they just turned into soap.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2385,
+            "discovered": "2024-10-23",
+            "post_title": "ارضيت يا رب خذ حتى ترضى 💔",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
