@@ -21600,6 +21600,101 @@
             "URLs": [
                 "https://news.sophos.com/en-us/2024/10/23/addressing-the-cybersecurity-skills-shortage-in-smbs/"
             ]
+        },
+        {
+            "Message ID": 89492,
+            "discovered": "2024-10-23",
+            "post_title": "Victim: KEE Process\n\nDetection Date: Wed Oct 23 15:42:59 2024\n\nThreat Actor: meow\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89491,
+            "discovered": "2024-10-23",
+            "post_title": "Title: 07 - Creating Trampolines and Re-Obfuscating Function Pointers\n\nDate: October 23, 2024\n\nSource: https://www.youtube.com/watch?v=SvHqFNv-0Sc\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.youtube.com/watch?v=SvHqFNv-0Sc"
+            ]
+        },
+        {
+            "Message ID": 89490,
+            "discovered": "2024-10-23",
+            "post_title": "Title: EUR 91 million worth of counterfeit and substandard food seized in Europe-wide operation\n\nDate: October 23, 2024\n\nSource: https://www.europol.europa.eu/media-press/newsroom/news/eur-91-million-worth-of-counterfeit-and-substandard-food-seized-in-europe-wide-operation\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.europol.europa.eu/media-press/newsroom/news/eur-91-million-worth-of-counterfeit-and-substandard-food-seized-in-europe-wide-operation"
+            ]
+        },
+        {
+            "Message ID": 89489,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Keep your secrets secret: 5 core tips — and a call to action on modernizing\n\nDate: October 23, 2024\n\nSource: https://www.reversinglabs.com/blog/keep-secrets-secret-5-essential-tips\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.reversinglabs.com/blog/keep-secrets-secret-5-essential-tips"
+            ]
+        },
+        {
+            "Message ID": 89488,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2023-50310\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-50310\n\nDescription: IBM CICS Transaction Gateway for Multiplatforms 9.2 and 9.3 transmits or stores authentication credentials, but it uses an insecure method that is susceptible to unauthorized interception and/or retrieval.\n\nPublication Date: Wed Oct 23 15:09:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-50310"
+            ]
+        },
+        {
+            "Message ID": 89487,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-10276\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10276\n\nDescription: A vulnerability has been found in Tektronix Sentry 6.0.9 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file /?page=reports of the component Reports Page. The manipulation of the argument z leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Wed Oct 23 15:09:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10276"
+            ]
+        },
+        {
+            "Message ID": 89486,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-8500\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8500\n\nDescription: The WP Shortcodes Plugin — Shortcodes Ultimate plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the several parameters in all versions up to, and including, 7.2.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Wed Oct 23 15:09:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8500"
+            ]
+        },
+        {
+            "Message ID": 89485,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-10277\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10277\n\nDescription: A vulnerability was found in ESAFENET CDG 5 and classified as critical. Affected by this issue is some unknown functionality of the file /com/esafenet/servlet/ajax/UsbKeyAjax.java. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Wed Oct 23 15:09:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10277",
+                "UsbKeyAjax.java"
+            ]
         }
     ]
 }
