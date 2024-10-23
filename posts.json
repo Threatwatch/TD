@@ -1410,6 +1410,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/easterseals-has-been-claimed-a-victim-to-rhysida-ransomware/\n\n2"
             ]
+        },
+        {
+            "Message ID": 5806,
+            "discovered": "2024-10-23",
+            "post_title": "💡Pro subscribers now have access to: https://darkwebinformer.com/live-ransomware-feed-pro-subscribers-only/\n\nThis feed is powered by the Ransomware[.]live API and is similar to the Threat feeds I designed.\n\nIt contains: Ransomware Group, a link to the group and all their victims, Discovery Date/Time, Sector, Country, Description, Claim URL, and an UNREDACTED screenshot with their Watermark.\n\nMore on the way, and going to monitor this for a little bit.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/live-ransomware-feed-pro-subscribers-only/\n"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -19343,6 +19355,55 @@
             "URLs": [
                 "ipkar.co.in, ",
                 "somfeed.it/index.php?page=post_details&id_post=18109"
+            ]
+        },
+        {
+            "Message ID": 3822,
+            "discovered": "2024-10-23",
+            "post_title": "ID: 18113\n⚠ Wed, 23 Oct 2024 13:07:32 UTC\n🥷 ransomhub\n🎯 elnamagnetics.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18113",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "namagnetics.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18113"
+            ]
+        },
+        {
+            "Message ID": 3821,
+            "discovered": "2024-10-23",
+            "post_title": "ID: 18112\n⚠ Wed, 23 Oct 2024 12:35:37 UTC\n🥷 meow\n🎯 KEE Process, UK\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18112",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18112"
+            ]
+        },
+        {
+            "Message ID": 3820,
+            "discovered": "2024-10-23",
+            "post_title": "ID: 18111\n⚠ Wed, 23 Oct 2024 10:52:10 UTC\n🥷 rhysida\n🎯 Easterseals, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18111",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18111"
+            ]
+        },
+        {
+            "Message ID": 3819,
+            "discovered": "2024-10-23",
+            "post_title": "ID: 18110\n⚠ Wed, 23 Oct 2024 10:34:09 UTC\n🥷 lynx\n🎯 Tricon Energy, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18110",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18110"
             ]
         }
     ],
