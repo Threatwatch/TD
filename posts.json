@@ -21264,6 +21264,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9530"
             ]
+        },
+        {
+            "Message ID": 89462,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Pwn2Own Ireland 2024: Day Two Results\n\nDate: October 23, 2024\n\nSource: https://www.thezdi.com/blog/2024/10/23/pwn2own-ireland-2024-day-two-results\n\n#News #Ireland",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Ireland"
+            ],
+            "URLs": [
+                "https://www.thezdi.com/blog/2024/10/23/pwn2own-ireland-2024-day-two-results"
+            ]
         }
     ]
 }
