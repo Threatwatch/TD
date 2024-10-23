@@ -21288,6 +21288,30 @@
             "URLs": [
                 "https://www.hornetsecurity.com/en/blog/maximize-msp-capacity/"
             ]
+        },
+        {
+            "Message ID": 89465,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Ransomware Gangs Use LockBit's Fame to Intimidate Victims in Latest Attacks\n\nDate: Oct 23, 2024\n\nSource: https://thehackernews.com/2024/10/ransomware-gangs-use-lockbits-fame-to.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/ransomware-gangs-use-lockbits-fame-to.html"
+            ]
+        },
+        {
+            "Message ID": 89464,
+            "discovered": "2024-10-23",
+            "post_title": "Victim: elnamagnetics.com\n\nDetection Date: Wed Oct 23 12:41:48 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "elnamagnetics.com"
+            ]
         }
     ]
 }
