@@ -17766,6 +17766,30 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3282,
+            "discovered": "2024-10-23",
+            "post_title": "Group: FOG\nApprox. Time: 12:43 23/10/24\nTitle: Mar-Bal (https://t.co/lWFl2GlBJl)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/lWFl2GlBJl"
+            ]
+        },
+        {
+            "Message ID": 3281,
+            "discovered": "2024-10-23",
+            "post_title": "Group: ransomhub\nApprox. Time: 12:43 23/10/24\nTitle: https://t.co/035W9FZ9ci",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/035W9FZ9ci"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -21694,6 +21718,78 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10277",
                 "UsbKeyAjax.java"
+            ]
+        },
+        {
+            "Message ID": 89498,
+            "discovered": "2024-10-23",
+            "post_title": "Title: HPE security advisory (AV24-605)\n\nDate: October 23, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-605\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-605"
+            ]
+        },
+        {
+            "Message ID": 89497,
+            "discovered": "2024-10-23",
+            "post_title": "Title: CISA Warns of Active Exploitation of Microsoft SharePoint Vulnerability (CVE-2024-38094)\n\nDate: Oct 23, 2024\n\nSource: https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-of.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-of.html"
+            ]
+        },
+        {
+            "Message ID": 89496,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-10286\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10286\n\nDescription: Cross-Site Scripting (XSS) vulnerability affecting LocalServer 1.0.9 that could allow a remote user to send a specially crafted query to an authenticated user and steal their session details through /testmail/index.php, parameter to.\n\nPublication Date: Wed Oct 23 16:06:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10286"
+            ]
+        },
+        {
+            "Message ID": 89495,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-10287\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10287\n\nDescription: Cross-Site Scripting (XSS) vulnerability affecting LocalServer 1.0.9 that could allow a remote user to send a specially crafted query to an authenticated user and steal their session details through /mlss/ForgotPassword, parameter ListName.\n\nPublication Date: Wed Oct 23 16:06:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10287"
+            ]
+        },
+        {
+            "Message ID": 89494,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-10288\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10288\n\nDescription: Cross-Site Scripting (XSS) vulnerability affecting LocalServer 1.0.9 that could allow a remote user to send a specially crafted query to an authenticated user and steal their session details through /mlss/SubscribeToList, parameter ListName.\n\nPublication Date: Wed Oct 23 16:05:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10288"
+            ]
+        },
+        {
+            "Message ID": 89493,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-10289\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10289\n\nDescription: Cross-Site Scripting (XSS) vulnerability affecting LocalServer 1.0.9 that could allow a remote user to send a specially crafted query to an authenticated user and steal their session details through /mlss/ManageSubscription, parameter MSubListName.\n\nPublication Date: Wed Oct 23 16:05:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10289"
             ]
         }
     ]
