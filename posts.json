@@ -1353,6 +1353,63 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-naturalphone/"
             ]
+        },
+        {
+            "Message ID": 5805,
+            "discovered": "2024-10-23",
+            "post_title": "🚨A Threat Actor is Allegedly Selling Data from Ford Ranger Forum\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-from-ford-ranger-forum/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-from-ford-ranger-forum/"
+            ]
+        },
+        {
+            "Message ID": 5804,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇩🇿A Threat Actor Allegedly has Leaked Data of Soukelyoum\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-data-of-soukelyoum/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-data-of-soukelyoum/"
+            ]
+        },
+        {
+            "Message ID": 5803,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇩🇰A Threat Actor is Allegedly Selling Database Access of Rockwool Group",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5802,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇦🇺DXPLOIT indicates they are collaborating with RipperSec to launch attacks on Australia under 'OpAustralia.'",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Australia",
+                "OpAustralia"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5801,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇺🇸Easterseals has Been Claimed a Victim to RHYSIDA Ransomware\n\nhttps://darkwebinformer.com/easterseals-has-been-claimed-a-victim-to-rhysida-ransomware/\n\n20 BTC = $1,328,478.40\n\nEasterseals is an American 501 nonprofit providing disability services, with additional support areas serving veterans and military families, seniors, and caregivers.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/easterseals-has-been-claimed-a-victim-to-rhysida-ransomware/\n\n2"
+            ]
         }
     ],
     "RipperSec | 团队": [
