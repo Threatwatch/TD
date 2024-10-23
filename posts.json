@@ -1197,6 +1197,42 @@
             "URLs": [
                 "ps://darkwebinformer.com/mr-hamza-targeted-the-website-of-international-telecommunication-union/"
             ]
+        },
+        {
+            "Message ID": 5790,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇨🇭A Threat Actor Allegedly Leaked Data of Institut Le Rosey\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-institut-le-rosey/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-institut-le-rosey/"
+            ]
+        },
+        {
+            "Message ID": 5789,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇮🇳henrymas0n Allegedly has Leaked Data of Nonoi College\n\nhttps://darkwebinformer.com/henrymas0n-allegedly-has-leaked-data-of-nonoi-college/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/henrymas0n-allegedly-has-leaked-data-of-nonoi-college/"
+            ]
+        },
+        {
+            "Message ID": 5788,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇨🇾ShadowHunter Targeted the Website of biobank[.cy\n\nhttps://darkwebinformer.com/shadowhunter-targeted-the-website-of-biobank-cy/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/shadowhunter-targeted-the-website-of-biobank-cy/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -21875,6 +21911,30 @@
             ],
             "URLs": [
                 "mar-bal.com"
+            ]
+        },
+        {
+            "Message ID": 89506,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Everybody Loves Bash Scripts. Including Attackers., (Wed, Oct 23rd)\n\nDate: October 23, 2024\n\nSource: https://isc.sans.edu/diary/rss/31376\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/diary/rss/31376"
+            ]
+        },
+        {
+            "Message ID": 89505,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Oktane 2024 CyberRisk TV highlights: Okta execs tackle the big security challenges\n\nDate: October 23, 2024\n\nSource: https://www.scworld.com/news/oktane-2024-cyberrisk-tv-highlights-okta-execs-tackle-the-big-security-challenges\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/oktane-2024-cyberrisk-tv-highlights-okta-execs-tackle-the-big-security-challenges"
             ]
         }
     ]
