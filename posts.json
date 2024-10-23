@@ -1505,6 +1505,28 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5815,
+            "discovered": "2024-10-23",
+            "post_title": ".",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5814,
+            "discovered": "2024-10-23",
+            "post_title": "💡Zehef: An OSINT Tool Which Finds Public Information on a Targeted Email\n\nhttps://darkwebinformer.com/zehef-an-osint-tool-which-finds-public-information-on-a-targeted-email/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/zehef-an-osint-tool-which-finds-public-information-on-a-targeted-email/"
+            ]
         }
     ],
     "RipperSec | 团队": [
