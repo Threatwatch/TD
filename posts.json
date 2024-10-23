@@ -21276,6 +21276,18 @@
             "URLs": [
                 "https://www.thezdi.com/blog/2024/10/23/pwn2own-ireland-2024-day-two-results"
             ]
+        },
+        {
+            "Message ID": 89463,
+            "discovered": "2024-10-23",
+            "post_title": "Title: How to Maximize MSP Client Capacity Without Adding Headcount\n\nDate: October 23, 2024\n\nSource: https://www.hornetsecurity.com/en/blog/maximize-msp-capacity/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.hornetsecurity.com/en/blog/maximize-msp-capacity/"
+            ]
         }
     ]
 }
