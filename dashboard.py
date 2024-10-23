@@ -125,8 +125,8 @@ async def fetch_messages(channel_identifier, existing_messages_ids):
             
             new_messages.append({
                 'Message ID': message.id,
-                'Date': date,
-                'Content': message.message,
+                'discovered': date,
+                'post_title': message.message,
                 'Attack Type': attack_type,
                 'Location': location,
                 'URLs': urls
