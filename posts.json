@@ -21360,6 +21360,26 @@
             "URLs": [
                 "https://thehackernews.com/2024/10/think-youre-secure-49-of-enterprises.html"
             ]
+        },
+        {
+            "Message ID": 89471,
+            "discovered": "2024-10-23",
+            "post_title": "Victim: Easterseals\n\nDetection Date: Wed Oct 23 13:38:16 2024\n\nThreat Actor: rhysida\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89470,
+            "discovered": "2024-10-23",
+            "post_title": "Victim: Tricon Energy\n\nDetection Date: Wed Oct 23 13:38:02 2024\n\nThreat Actor: lynx\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ]
 }
