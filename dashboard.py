@@ -56,10 +56,24 @@ def load_existing_messages(file_path):
         with open(file_path, 'r', encoding='utf-8') as json_file:
             return json.load(json_file)
     return {}
+def clean_string(input_string):
+    """Remove any hidden Unicode characters."""
+    return ''.join(char for char in input_string if char.isprintable())
+
+def clean_message_data(messages):
+    """Recursively clean all strings in a message dictionary."""
+    for key, value in messages.items():
+        if isinstance(value, str):
+            messages[key] = clean_string(value)
+        elif isinstance(value, list):
+            messages[key] = [clean_string(item) if isinstance(item, str) else item for item in value]
+    return messages
 
 def save_messages(file_path, messages):
+    # Clean the data before saving
+    clean_data = {channel: [clean_message_data(msg) for msg in msgs] for channel, msgs in messages.items()}
     with open(file_path, 'w', encoding='utf-8') as json_file:
-        json.dump(messages, json_file, ensure_ascii=False, indent=4)
+        json.dump(clean_data, json_file, ensure_ascii=False, indent=4)
 
 # Define the detailed attack keywords for categorization
 detailed_attack_keywords = {
@@ -75,6 +89,7 @@ def extract_location(text):
     doc = nlp(text)
     locations = [ent.text for ent in doc.ents if ent.label_ == "GPE"]
     return locations if locations else ["N/A"]
+
 
 async def fetch_messages(channel_identifier, existing_messages_ids):
     try:
