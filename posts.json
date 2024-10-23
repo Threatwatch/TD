@@ -17702,6 +17702,26 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3280,
+            "discovered": "2024-10-23",
+            "post_title": "Group: lynxblog\nApprox. Time: 10:37 23/10/24\nTitle: Tricon Energy",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3279,
+            "discovered": "2024-10-23",
+            "post_title": "Group: rhysida\nApprox. Time: 10:37 23/10/24\nTitle: Easterseals",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -21380,6 +21400,126 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 89481,
+            "discovered": "2024-10-23",
+            "post_title": "Title: TDK Electronics Goes from Complexity to Confidence with CrowdStrike\n\nDate: October 23, 2024\n\nSource: https://www.crowdstrike.com/en-us/blog/tdk-electronics/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.crowdstrike.com/en-us/blog/tdk-electronics/"
+            ]
+        },
+        {
+            "Message ID": 89480,
+            "discovered": "2024-10-23",
+            "post_title": "Title: October 2024 Patch Tuesday: Two Zero-Days and Three Critical Vulnerabilities Amid 118 CVEs\n\nDate: October 23, 2024\n\nSource: https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2024/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2024/"
+            ]
+        },
+        {
+            "Message ID": 89479,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Detecting Microsoft Entra ID Primary Refresh Token Abuse with Falcon Next-Gen SIEM\n\nDate: October 23, 2024\n\nSource: https://www.crowdstrike.com/en-us/blog/detecting-microsoft-entra-id-primary-refresh-token-abuse-next-gen-siem/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.crowdstrike.com/en-us/blog/detecting-microsoft-entra-id-primary-refresh-token-abuse-next-gen-siem/"
+            ]
+        },
+        {
+            "Message ID": 89478,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Fal.Con Europe: Bringing the Power of the Crowd to Amsterdam\n\nDate: October 23, 2024\n\nSource: https://www.crowdstrike.com/en-us/blog/fal-con-europe-2024/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.crowdstrike.com/en-us/blog/fal-con-europe-2024/"
+            ]
+        },
+        {
+            "Message ID": 89477,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Small Business, Big Defense: Four Pillars of an Effective Cybersecurity Awareness Program\n\nDate: October 23, 2024\n\nSource: https://www.crowdstrike.com/en-us/blog/four-steps-to-increase-cyber-resilience/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.crowdstrike.com/en-us/blog/four-steps-to-increase-cyber-resilience/"
+            ]
+        },
+        {
+            "Message ID": 89476,
+            "discovered": "2024-10-23",
+            "post_title": "Title: CrowdStrike + Fortinet: Unifying AI-Native Endpoint and Next-Gen Firewall Protection\n\nDate: October 23, 2024\n\nSource: https://www.crowdstrike.com/en-us/blog/crowdstrike-fortinet-partnership-unifies-endpoint-firewall-protection/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.crowdstrike.com/en-us/blog/crowdstrike-fortinet-partnership-unifies-endpoint-firewall-protection/"
+            ]
+        },
+        {
+            "Message ID": 89475,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Falcon Foundry: Build Custom Apps to Solve Tough Security Challenges\n\nDate: October 23, 2024\n\nSource: https://www.crowdstrike.com/en-us/blog/building-custom-apps-with-crowdstrike-falcon-foundry/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.crowdstrike.com/en-us/blog/building-custom-apps-with-crowdstrike-falcon-foundry/"
+            ]
+        },
+        {
+            "Message ID": 89474,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Top FAQs about CrowdStrike Falcon Next-Gen SIEM\n\nDate: October 23, 2024\n\nSource: https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-top-faqs/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.crowdstrike.com/en-us/blog/falcon-next-gen-siem-top-faqs/"
+            ]
+        },
+        {
+            "Message ID": 89473,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Enhancing Detection Fidelity: Fight Alert Fatigue with Accurate and Reliable Detections\n\nDate: October 23, 2024\n\nSource: https://www.crowdstrike.com/en-us/blog/enhancing-detection-fidelity-part-1/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.crowdstrike.com/en-us/blog/enhancing-detection-fidelity-part-1/"
+            ]
+        },
+        {
+            "Message ID": 89472,
+            "discovered": "2024-10-23",
+            "post_title": "Title: U.S. Department of Justice Indicts Hacktivist Group Anonymous Sudan for Prominent DDoS Attacks in 2023 and 2024\n\nDate: October 23, 2024\n\nSource: https://www.crowdstrike.com/en-us/blog/anonymous-sudan-hacktivist-group-ddos-indictment/\n\n#News #Sudan",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Sudan"
+            ],
+            "URLs": [
+                "https://www.crowdstrike.com/en-us/blog/anonymous-sudan-hacktivist-group-ddos-indictment/"
+            ]
         }
     ]
 }
