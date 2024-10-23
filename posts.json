@@ -1317,6 +1317,42 @@
             "URLs": [
                 "ps://darkwebinformer.com/abzerocool-has-allegedly-leaked-data-of-grupo-el-comercio/"
             ]
+        },
+        {
+            "Message ID": 5800,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇮🇱A Threat Actor Allegedly Leaked Data of Israel Defense Forces\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-israel-defense-forces/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-israel-defense-forces/"
+            ]
+        },
+        {
+            "Message ID": 5799,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇺🇸A Threat Actor has Allegedly Leaked a Database from River[.]com\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-a-database-from-river-com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-a-database-from-river-com/"
+            ]
+        },
+        {
+            "Message ID": 5798,
+            "discovered": "2024-10-23",
+            "post_title": "Free Post\n\n🚨🇨🇱A Threat Actor is Allegedly Selling the Database of NaturalPhone\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-naturalphone/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-naturalphone/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -17931,6 +17967,18 @@
             ],
             "URLs": [
                 "https://t.co/035W9FZ9ci"
+            ]
+        },
+        {
+            "Message ID": 3283,
+            "discovered": "2024-10-23",
+            "post_title": "Group: FOG\nApprox. Time: 14:35 23/10/24\nTitle: Goshen Central School District (https://t.co/d0yO35KY6H)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/d0yO35KY6H"
             ]
         }
     ],
