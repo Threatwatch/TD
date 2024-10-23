@@ -1527,6 +1527,18 @@
             "URLs": [
                 "ttps://darkwebinformer.com/zehef-an-osint-tool-which-finds-public-information-on-a-targeted-email/"
             ]
+        },
+        {
+            "Message ID": 5816,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇺🇸By Design LLC, Has Been Claimed a Victim to MEOW Ransomware\n\nhttps://darkwebinformer.com/by-design-llc-has-been-claimed-a-victim-to-meow-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/by-design-llc-has-been-claimed-a-victim-to-meow-ransomware/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -19541,6 +19553,75 @@
             ],
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18110"
+            ]
+        },
+        {
+            "Message ID": 3828,
+            "discovered": "2024-10-23",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3827,
+            "discovered": "2024-10-23",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3826,
+            "discovered": "2024-10-23",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3825,
+            "discovered": "2024-10-23",
+            "post_title": "ID: 18116\n⚠ Wed, 23 Oct 2024 13:09:56 UTC\n🥷 fog\n🎯 Mar-Bal (mar-bal.com), USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18116",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "r-bal.com),",
+                "somfeed.it/index.php?page=post_details&id_post=18116"
+            ]
+        },
+        {
+            "Message ID": 3824,
+            "discovered": "2024-10-23",
+            "post_title": "ID: 18115\n⚠ Wed, 23 Oct 2024 14:30:47 UTC\n🥷 fog\n🎯 Goshen Central School District (gcsny.org), USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18115",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA",
+                "ransomfeed.it/index.php?page=post_details&id_post=18115"
+            ],
+            "URLs": [
+                "sny.org),",
+                "somfeed.it/index.php?page=post_details&id_post=18115"
+            ]
+        },
+        {
+            "Message ID": 3823,
+            "discovered": "2024-10-23",
+            "post_title": "ID: 18114\n⚠ Wed, 23 Oct 2024 16:35:11 UTC\n🥷 meow\n🎯 Youngs Timber Builders Merchants, UK\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18114",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18114"
             ]
         }
     ],
