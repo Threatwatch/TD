@@ -21791,6 +21791,42 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10289"
             ]
+        },
+        {
+            "Message ID": 89501,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Google Chrome security advisory (AV24-606)\n\nDate: October 23, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-606\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-606"
+            ]
+        },
+        {
+            "Message ID": 89500,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Four Ways to Streamline Your Security Review Process\n\nDate: October 23, 2024\n\nSource: https://www.bitsight.com/blog/four-ways-streamline-your-security-review-process\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bitsight.com/blog/four-ways-streamline-your-security-review-process"
+            ]
+        },
+        {
+            "Message ID": 89499,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Permiso State of Identity Security 2024: A Shake-up in Identity Security Is Looming Large\n\nDate: Oct 23, 2024\n\nSource: https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html"
+            ]
         }
     ]
 }
