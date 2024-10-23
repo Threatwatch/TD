@@ -1185,6 +1185,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-universo-online-uol/"
             ]
+        },
+        {
+            "Message ID": 5787,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇨🇭Mr Hamza Targeted the Website of International Telecommunication Union\n\nhttps://darkwebinformer.com/mr-hamza-targeted-the-website-of-international-telecommunication-union/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/mr-hamza-targeted-the-website-of-international-telecommunication-union/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -21826,6 +21838,43 @@
             ],
             "URLs": [
                 "https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html"
+            ]
+        },
+        {
+            "Message ID": 89504,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Adlumin's Total Ransomware Defense Stops Fog in it's Tracks\n\nDate: October 23, 2024\n\nSource: https://adlumin.com/resource/infographics/adlumins-total-ransomware-defense-stops-fog-in-its-tracks/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://adlumin.com/resource/infographics/adlumins-total-ransomware-defense-stops-fog-in-its-tracks/"
+            ]
+        },
+        {
+            "Message ID": 89503,
+            "discovered": "2024-10-23",
+            "post_title": "Target: https://doh.go.th\n\nNotified: CaptainSmok3r\n\nDate: Wed, 23 Oct 2024 13:30:59 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41292369\n\n#Defacements #Thailand",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://doh.go.th",
+                "http://www.zone-h.org/mirror/id/41292369"
+            ]
+        },
+        {
+            "Message ID": 89502,
+            "discovered": "2024-10-23",
+            "post_title": "Victim: Mar-Bal (mar-bal.com)\n\nDetection Date: Wed Oct 23 16:39:33 2024\n\nThreat Actor: fog\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "mar-bal.com"
             ]
         }
     ]
