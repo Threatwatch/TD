@@ -21312,6 +21312,54 @@
             "URLs": [
                 "elnamagnetics.com"
             ]
+        },
+        {
+            "Message ID": 89469,
+            "discovered": "2024-10-23",
+            "post_title": "Title: DarkComet RAT: Technical Analysis of Attack Chain\n\nDate: October 23, 2024\n\nSource: https://any.run/cybersecurity-blog/darkcomet-rat-technical-analysis/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://any.run/cybersecurity-blog/darkcomet-rat-technical-analysis/"
+            ]
+        },
+        {
+            "Message ID": 89468,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2022-48993\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-48993\n\nDescription: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.\n\nPublication Date: Wed Oct 23 13:15:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-48993"
+            ]
+        },
+        {
+            "Message ID": 89467,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Researchers Reveal 'Deceptive Delight' Method to Jailbreak AI Models\n\nDate: Oct 23, 2024\n\nSource: https://thehackernews.com/2024/10/researchers-reveal-deceptive-delight.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/researchers-reveal-deceptive-delight.html"
+            ]
+        },
+        {
+            "Message ID": 89466,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Think You're Secure? 49% of Enterprises Underestimate SaaS Risks\n\nDate: Oct 23, 2024\n\nSource: https://thehackernews.com/2024/10/think-youre-secure-49-of-enterprises.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/think-youre-secure-49-of-enterprises.html"
+            ]
         }
     ]
 }
