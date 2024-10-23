@@ -1743,6 +1743,16 @@
             "URLs": [
                 "s://darkwebinformer.com/deadlyqueen-has-allegedly-leaked-the-database-of-super-teacher-worksheets/"
             ]
+        },
+        {
+            "Message ID": 5836,
+            "discovered": "2024-10-23",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -23657,6 +23667,116 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9899"
+            ]
+        },
+        {
+            "Message ID": 89592,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-47724\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47724\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: ath11k: use work queue to process beacon tx event\n\nCommit 3a415daa3e8b (\"wifi: ath11k: add P2P IE in beacon template\")\nfrom Feb 28, 2024 (linux-next), leads to the following Smatch static\nchecker warning:\n\ndrivers/net/wireless/ath/ath11k/wmi.c:1742 ath11k_wmi_p2p_go_bcn_ie()\nwarn: sleeping in atomic context\n\nThe reason is that ath11k_bcn_tx_status_event() will directly call might\nsleep function ath11k_wmi_cmd_send() during RCU read-side critical\nsections. The call trace is like:\n\nath11k_bcn_tx_status_event()\n-> rcu_read_lock()\n-> ath11k_mac_bcn_tx_event()\n -> ath11k_mac_setup_bcn_tmpl()\n ……\n  -> ath11k_wmi_bcn_tmpl()\n   -> ath11k_wmi_cmd_send()\n-> rcu_read_unlock()\n\nCommit 886433a98425 (\"ath11k: add support for BSS color change\") added the\nath11k_mac_bcn_tx_event(), commit 01e782c89108 (\"ath11k: fix warning\nof RCU usage for ath11k_mac_get_arvif_by_vdev_id()\") added the RCU lock\nto avoid warning but also introduced this BUG.\n\nUse work queue to avoid directly calling ath11k_mac_bcn_tx_event()\nduring RCU critical sections. No need to worry about the deletion of vif\nbecause cancel_work_sync() will drop the work if it doesn't start or\nblock vif deletion until the running work is done.\n\nTested-on: WCN6855 hw2.0 PCI WLAN.HSP.1.1-03125-QCAHSPSWPL_V1_V2_SILICONZ_LITE-3.6510.30\n\nPublication Date: Thu Oct 24 02:09:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47724"
+            ]
+        },
+        {
+            "Message ID": 89591,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-47738\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47738\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: mac80211: don't use rate mask for offchannel TX either\n\nLike the commit ab9177d83c04 (\"wifi: mac80211: don't use rate mask for\nscanning\"), ignore incorrect settings to avoid no supported rate warning\nreported by syzbot.\n\nThe syzbot did bisect and found cause is commit 9df66d5b9f45 (\"cfg80211:\nfix default HE tx bitrate mask in 2G band\"), which however corrects\nbitmask of HE MCS and recognizes correctly settings of empty legacy rate\nplus HE MCS rate instead of returning -EINVAL.\n\nAs suggestions [1], follow the change of SCAN TX to consider this case of\noffchannel TX as well.\n\n[1] https://lore.kernel.org/linux-wireless/6ab2dc9c3afe753ca6fdcdd1421e7a1f47e87b84.camel@sipsolutions.net/T/#m2ac2a6d2be06a37c9c47a3d8a44b4f647ed4f024\n\nPublication Date: Thu Oct 24 02:09:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47738",
+                "https://lore.kernel.org/linux-wireless/6ab2dc9c3afe753ca6fdcdd1421e7a1f47e87b84.camel@sipsolutions.net/T/#m2ac2a6d2be06a37c9c47a3d8a44b4f647ed4f024"
+            ]
+        },
+        {
+            "Message ID": 89590,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-47741\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47741\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nbtrfs: fix race setting file private on concurrent lseek using same fd\n\nWhen doing concurrent lseek(2) system calls against the same file\ndescriptor, using multiple threads belonging to the same process, we have\na short time window where a race happens and can result in a memory leak.\n\nThe race happens like this:\n\n1) A program opens a file descriptor for a file and then spawns two\n   threads (with the pthreads library for example), lets call them\n   task A and task B;\n\n2) Task A calls lseek with SEEK_DATA or SEEK_HOLE and ends up at\n   file.c:find_desired_extent() while holding a read lock on the inode;\n\n3) At the start of find_desired_extent(), it extracts the file's\n   private_data pointer into a local variable named 'private', which has\n   a value of NULL;\n\n4) Task B also calls lseek with SEEK_DATA or SEEK_HOLE, locks the inode\n   in shared mode and enters file.c:find_desired_extent(), where it also\n   extracts file->private_data into its local variable 'private', which\n   has a NULL value;\n\n5) Because it saw a NULL file private, task A allocates a private\n   structure and assigns to the file structure;\n\n6) Task B also saw a NULL file private so it also allocates its own file\n   private and then assigns it to the same file structure, since both\n   tasks are using the same file descriptor.\n\n   At this point we leak the private structure allocated by task A.\n\nBesides the memory leak, there's also the detail that both tasks end up\nusing the same cached state record in the private structure (struct\nbtrfs_file_private::llseek_cached_state), which can result in a\nuse-after-free problem since one task can free it while the other is\nstill using it (only one task took a reference count on it). Also, sharing\nthe cached state is not a good idea since it could result in incorrect\nresults in the future - right now it should not be a problem because it\nend ups being used only in extent-io-tree.c:count_range_bits() where we do\nrange validation before using the cached state.\n\nFix this by protecting the private assignment and check of a file while\nholding the inode's spinlock and keep track of the task that allocated\nthe private, so that it's used only by that task in order to prevent\nuser-after-free issues with the cached state record as well as potentially\nusing it incorrectly in the future.\n\nPublication Date: Thu Oct 24 02:08:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47741"
+            ]
+        },
+        {
+            "Message ID": 89589,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-47736\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47736\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nerofs: handle overlapped pclusters out of crafted images properly\n\nsyzbot reported a task hang issue due to a deadlock case where it is\nwaiting for the folio lock of a cached folio that will be used for\ncache I/Os.\n\nAfter looking into the crafted fuzzed image, I found it's formed with\nseveral overlapped big pclusters as below:\n\n Ext:   logical offset   |  length :     physical offset    |  length\n   0:        0..   16384 |   16384 :     151552..    167936 |   16384\n   1:    16384..   32768 |   16384 :     155648..    172032 |   16384\n   2:    32768..   49152 |   16384 :  537223168.. 537239552 |   16384\n...\n\nHere, extent 0/1 are physically overlapped although it's entirely\n_impossible_ for normal filesystem images generated by mkfs.\n\nFirst, managed folios containing compressed data will be marked as\nup-to-date and then unlocked immediately (unlike in-place folios) when\ncompressed I/Os are complete.  If physical blocks are not submitted in\nthe incremental order, there should be separate BIOs to avoid dependency\nissues.  However, the current code mis-arranges z_erofs_fill_bio_vec()\nand BIO submission which causes unexpected BIO waits.\n\nSecond, managed folios will be connected to their own pclusters for\nefficient inter-queries.  However, this is somewhat hard to implement\neasily if overlapped big pclusters exist.  Again, these only appear in\nfuzzed images so let's simply fall back to temporary short-lived pages\nfor correctness.\n\nAdditionally, it justifies that referenced managed folios cannot be\ntruncated for now and reverts part of commit 2080ca1ed3e4 (\"erofs: tidy\nup `struct z_erofs_bvec`\") for simplicity although it shouldn't be any\ndifference.\n\nPublication Date: Thu Oct 24 02:08:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47736"
+            ]
+        },
+        {
+            "Message ID": 89588,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2023-50355\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-50355\n\nDescription: HCL Sametime is impacted by the error messages containing sensitive information.  An attacker can use this information to launch another, more focused attack.\n\nPublication Date: Thu Oct 24 02:08:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-50355"
+            ]
+        },
+        {
+            "Message ID": 89587,
+            "discovered": "2024-10-23",
+            "post_title": "Vulnerability ID: CVE-2024-10141\n\nDescription: A vulnerability, which was classified as problematic, was found in jsbroks COCO Annotator 0.11.1. This affects an unknown part of the component Session Handler. The manipulation of the argument SECRET_KEY leads to predictable from observable state. It is possible to initiate the attack remotely. The complexity of an attack is rather high. The exploitability is told to be difficult. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10141\n\nDate of Publishing: 2024/10/23\n\nLink to Exploit: https://github.com/jsbroks/coco-annotator/issues/626\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10141",
+                "https://github.com/jsbroks/coco-annotator/issues/626"
+            ]
+        },
+        {
+            "Message ID": 89586,
+            "discovered": "2024-10-23",
+            "post_title": "Title: SEC fines 4 firms for sloppy incident disclosures related to SolarWinds case\n\nDate: October 23, 2024\n\nSource: https://www.scworld.com/news/sec-fines-4-firms-for-sloppy-incident-disclosures-related-to-solarwinds-case\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/sec-fines-4-firms-for-sloppy-incident-disclosures-related-to-solarwinds-case"
+            ]
+        },
+        {
+            "Message ID": 89585,
+            "discovered": "2024-10-23",
+            "post_title": "Title: AuditBoard’s Playbook for Risk: Unified Teams, Smart Tech and Cutting-Edge AI\n\nDate: October 23, 2024\n\nSource: https://www.scworld.com/news/auditboards-playbook-for-risk-unified-teams-smart-tech-and-cutting-edge-ai\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/auditboards-playbook-for-risk-unified-teams-smart-tech-and-cutting-edge-ai"
+            ]
+        },
+        {
+            "Message ID": 89584,
+            "discovered": "2024-10-23",
+            "post_title": "Title: New malware family NotLockBit aims ransomware attacks toward macOS\n\nDate: October 23, 2024\n\nSource: https://www.scworld.com/news/new-malware-family-notlockbit-aims-ransomware-attacks-toward-macos\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/new-malware-family-notlockbit-aims-ransomware-attacks-toward-macos"
             ]
         }
     ]
