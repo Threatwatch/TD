@@ -9309,6 +9309,20 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1934,
+            "discovered": "2024-10-23",
+            "post_title": "HACKED BY RISXPLOIT\n\nCountry: Indonesian🇮🇩\n\nSite:\ntemuwuh.bantulkab.go.id/first\ndesawindusari.magelangkab.go.id/First\n\nMirror: https://defacer.id/archive/onhold/team=RISXPLOIT/page=1\n\n#JABAR_ERROR_SYSTEM\n#TeamTigerForceTtf\n#EsteemRestorationEagle\n#Anonymous_bangladesh\n#IslamicCyberTeam\n#RisXploit\n#Z_BL4CX_H4T",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "muwuh.bantulkab.go.id/first\nd",
+                "sawindusari.magelangkab.go.id/First\n\n",
+                "tps://defacer.id/archive/onhold/team=RISXPLOIT/page=1\n\n"
+            ]
         }
     ],
     "SERVER KILLERS": [
@@ -14040,6 +14054,16 @@
             "discovered": "2024-10-23",
             "post_title": "Ждите нас!\n\nWait for us!",
             "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 927,
+            "discovered": "2024-10-23",
+            "post_title": "👀 Looking for a powerful DDoS service? Check out @ziyaettin_bot, our most powerful DDoS bot! \n🔔 It comes with the best DDoS methods to ensure maximum effectiveness:\n\n⚡ Methods:-\n▶️ HTTP-ZIYPOWER\n▶️ HTTP-BYPASS\n▶️ HTTP-BROWSER\n▶️ HTTP-ZIY\n▶️ HTTP2-RAW\n▶️ HTTP1-RAW\n\n⚡Power Proofs: @powerproofsziy. \n🌉To purchase or for more information,  contact: @ziyaettin753.",
+            "Attack Type": "DDoS Attacks",
             "Location": [
                 "N/A"
             ],
@@ -21551,6 +21575,30 @@
             ],
             "URLs": [
                 "https://securelist.com/lazarus-apt-steals-crypto-with-a-tank-game/114282/"
+            ]
+        },
+        {
+            "Message ID": 89484,
+            "discovered": "2024-10-23",
+            "post_title": "Title: The Global Surveillance Free-for-All in Mobile Ad Data\n\nDate: October 23, 2024\n\nSource: https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/"
+            ]
+        },
+        {
+            "Message ID": 89483,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Addressing the cybersecurity skills shortage in SMBs\n\nDate: October 23, 2024\n\nSource: https://news.sophos.com/en-us/2024/10/23/addressing-the-cybersecurity-skills-shortage-in-smbs/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://news.sophos.com/en-us/2024/10/23/addressing-the-cybersecurity-skills-shortage-in-smbs/"
             ]
         }
     ]
