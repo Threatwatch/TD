@@ -1619,6 +1619,42 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-confidential-data-from-armed-forces-of-the-philippines/"
             ]
+        },
+        {
+            "Message ID": 5827,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇮🇳GARUDA HACKTIVIST Defaced the Website of Odisha Tax Advocates\n\nhttps://darkwebinformer.com/garuda-hacktivist-defaced-the-website-of-odisha-tax-advocates/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/garuda-hacktivist-defaced-the-website-of-odisha-tax-advocates/"
+            ]
+        },
+        {
+            "Message ID": 5826,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇦🇺Pro-Palestine Hackers Movement Targeted the Website of Rex Airlines\n\nhttps://darkwebinformer.com/pro-palestine-hackers-movement-targeted-the-website-of-rex-airlines/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/pro-palestine-hackers-movement-targeted-the-website-of-rex-airlines/"
+            ]
+        },
+        {
+            "Message ID": 5825,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇧🇾UNDERGROUND-NET Defaced the Website of Stairs Minsk\n\nhttps://darkwebinformer.com/underground-net-defaced-the-website-of-stairs-minsk/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/underground-net-defaced-the-website-of-stairs-minsk/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -23101,6 +23137,254 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2021-21200"
+            ]
+        },
+        {
+            "Message ID": 89571,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2023-32231\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-32231\n\nDescription: An issue was discovered in Vasion PrinterLogic Client for Windows before 25.0.0.818. During installation, binaries gets executed out of a subfolder in C:\\Windows\\Temp. A standard user can create the folder and path file ahead of time and obtain elevated code execution.\n\nPublication Date: Thu Oct 24 00:15:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-32231"
+            ]
+        },
+        {
+            "Message ID": 89570,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2022-3450\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-3450\n\nDescription: Use after free in Peer Connection in Google Chrome prior to 106.0.5249.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)\n\nPublication Date: Thu Oct 24 00:15:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-3450"
+            ]
+        },
+        {
+            "Message ID": 89569,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2023-35944\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35944\n\nDescription: Envoy is an open source edge and service proxy designed for cloud-native applications. Envoy allows mixed-case schemes in HTTP/2, however, some internal scheme checks are case-sensitive. Prior to versions 1.27.0, 1.26.4, 1.25.9, 1.24.10, and 1.23.12, this can lead to the rejection of requests with mixed-case schemes such as `htTp` or `htTps`, or the bypassing of some requests such as `https` in unencrypted connections. With a fix in versions 1.27.0, 1.26.4, 1.25.9, 1.24.10, and 1.23.12, Envoy will now lowercase scheme values by default, and change the internal scheme checks that were case-sensitive to be case-insensitive. There are no known workarounds for this issue.\n\nPublication Date: Thu Oct 24 00:15:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35944"
+            ]
+        },
+        {
+            "Message ID": 89568,
+            "discovered": "2024-10-23",
+            "post_title": "Vulnerability ID: CVE-2024-25223\n\nDescription: Simple Admin Panel App v1.0 was discovered to contain a SQL injection vulnerability via the orderID parameter at /adminView/viewEachOrder.php.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-25223\n\nDate of Publishing: 2024/10/23\n\nLink to Exploit: https://github.com/BurakSevben/CVEs/blob/main/Simple%20Admin%20Panel%20App/Simple%20Admin%20Panel%20App%20-%20SQL%20Injection.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-25223",
+                "https://github.com/BurakSevben/CVEs/blob/main/Simple%20Admin%20Panel%20App/Simple%20Admin%20Panel%20App%20-%20SQL%20Injection.md"
+            ]
+        },
+        {
+            "Message ID": 89567,
+            "discovered": "2024-10-23",
+            "post_title": "Vulnerability ID: CVE-2024-25224\n\nDescription: A cross-site scripting (XSS) vulnerability in Simple Admin Panel App v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Size Number parameter under the Add Size function.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-25224\n\nDate of Publishing: 2024/10/23\n\nLink to Exploit: https://github.com/BurakSevben/CVEs/blob/main/Simple%20Admin%20Panel%20App/Simple%20Admin%20Panel%20App%20-%20Cross-Site-Scripting%20-%202.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS",
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-25224",
+                "https://github.com/BurakSevben/CVEs/blob/main/Simple%20Admin%20Panel%20App/Simple%20Admin%20Panel%20App%20-%20Cross-Site-Scripting%20-%202.md"
+            ]
+        },
+        {
+            "Message ID": 89566,
+            "discovered": "2024-10-23",
+            "post_title": "Vulnerability ID: CVE-2024-25225\n\nDescription: A cross-site scripting (XSS) vulnerability in Simple Admin Panel App v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Category Name parameter under the Add Category function.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-25225\n\nDate of Publishing: 2024/10/23\n\nLink to Exploit: https://github.com/BurakSevben/CVEs/blob/main/Simple%20Admin%20Panel%20App/Simple%20Admin%20Panel%20App%20-%20Cross-Site-Scripting%20-%201.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-25225",
+                "https://github.com/BurakSevben/CVEs/blob/main/Simple%20Admin%20Panel%20App/Simple%20Admin%20Panel%20App%20-%20Cross-Site-Scripting%20-%201.md"
+            ]
+        },
+        {
+            "Message ID": 89565,
+            "discovered": "2024-10-23",
+            "post_title": "Vulnerability ID: CVE-2024-25217\n\nDescription: Online Medicine Ordering System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /omos/?p=products/view_product.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-25217\n\nDate of Publishing: 2024/10/23\n\nLink to Exploit: https://github.com/BurakSevben/CVEs/blob/main/Online%20Medicine%20Ordering%20System/OMOS%20-%20SQL%20Injection%28Unauthenticated%29.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-25217",
+                "https://github.com/BurakSevben/CVEs/blob/main/Online%20Medicine%20Ordering%20System/OMOS%20-%20SQL%20Injection%28Unauthenticated%29.md"
+            ]
+        },
+        {
+            "Message ID": 89564,
+            "discovered": "2024-10-23",
+            "post_title": "Vulnerability ID: CVE-2024-25209\n\nDescription: Barangay Population Monitoring System 1.0 was discovered to contain a SQL injection vulnerability via the resident parameter at /endpoint/delete-resident.php.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-25209\n\nDate of Publishing: 2024/10/23\n\nLink to Exploit: https://github.com/BurakSevben/CVEs/blob/main/Barangay%20Population%20Monitoring%20System/Barangay%20Population%20System%20-%20SQL%20Injection.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-25209",
+                "https://github.com/BurakSevben/CVEs/blob/main/Barangay%20Population%20Monitoring%20System/Barangay%20Population%20System%20-%20SQL%20Injection.md"
+            ]
+        },
+        {
+            "Message ID": 89563,
+            "discovered": "2024-10-23",
+            "post_title": "Vulnerability ID: CVE-2024-25210\n\nDescription: Simple Expense Tracker v1.0 was discovered to contain a SQL injection vulnerability via the expense parameter at /endpoint/delete_expense.php.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-25210\n\nDate of Publishing: 2024/10/23\n\nLink to Exploit: https://github.com/BurakSevben/CVEs/blob/main/Simple%20Expense%20Tracker/Simple%20Expense%20Tacker%20-%20SQL%20Injection-1.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-25210",
+                "https://github.com/BurakSevben/CVEs/blob/main/Simple%20Expense%20Tracker/Simple%20Expense%20Tacker%20-%20SQL%20Injection-1.md"
+            ]
+        },
+        {
+            "Message ID": 89562,
+            "discovered": "2024-10-23",
+            "post_title": "Vulnerability ID: CVE-2024-25211\n\nDescription: Simple Expense Tracker v1.0 was discovered to contain a SQL injection vulnerability via the category parameter at /endpoint/delete_category.php.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-25211\n\nDate of Publishing: 2024/10/23\n\nLink to Exploit: https://github.com/BurakSevben/CVEs/blob/main/Simple%20Expense%20Tracker/Simple%20Expense%20Tracker%20-%20SQL%20Injection-2.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-25211",
+                "https://github.com/BurakSevben/CVEs/blob/main/Simple%20Expense%20Tracker/Simple%20Expense%20Tracker%20-%20SQL%20Injection-2.md"
+            ]
+        },
+        {
+            "Message ID": 89561,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Navigate 2024: Privilege Task Automation: Simplifying PAM Implementation\n\nDate: October 23, 2024\n\nSource: https://www.scworld.com/news/navigate-2024-privilege-task-automation-simplifying-pam-implementation\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/navigate-2024-privilege-task-automation-simplifying-pam-implementation"
+            ]
+        },
+        {
+            "Message ID": 89560,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2023-3555\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3555\n\nDescription: A vulnerability was found in GZ Scripts PHP Vacation Rental Script 1.8. It has been classified as problematic. This affects an unknown part of the file /preview.php. The manipulation of the argument page/layout/sort_by/property_id leads to cross site scripting. It is possible to initiate the attack remotely. The identifier VDB-233349 was assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Thu Oct 24 00:02:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3555"
+            ]
+        },
+        {
+            "Message ID": 89559,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2023-20133\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20133\n\nDescription: A vulnerability in the web interface of Cisco Webex Meetings could allow an authenticated, remote attacker to conduct a stored cross-site scripting (XSS) attack against a user of the interface.\n This vulnerability exists because of insufficient validation of user-supplied input in Webex Events (classic) programs, email templates, and survey questions. An attacker could exploit this vulnerability by persuading a user to click a malicious link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the affected interface or access sensitive, browser-based information.\n\nPublication Date: Thu Oct 24 00:02:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20133"
+            ]
+        },
+        {
+            "Message ID": 89558,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2023-3105\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3105\n\nDescription: The LearnDash LMS plugin for WordPress is vulnerable to Insecure Direct Object References in versions up to, and including, 4.6.0. This is due to the plugin providing user-controlled access to objects, letting a user bypass authorization and access system resources. This makes it possible for attackers with with existing account access at any level, to change user passwords and potentially take over administrator accounts.\n\nPublication Date: Thu Oct 24 00:02:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3105"
+            ]
+        },
+        {
+            "Message ID": 89557,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2022-46901\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-46901\n\nDescription: An issue was discovered in Vocera Report Server and Voice Server 5.x through 5.8. There is an Access Control Violation for Database Operations. The Vocera Report Console contains a websocket interface that allows for the unauthenticated execution of various tasks and database functions. This includes system tasks, and backing up, loading, and clearing of the database.\n\nPublication Date: Thu Oct 24 00:01:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-46901"
+            ]
+        },
+        {
+            "Message ID": 89556,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2022-46900\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-46900\n\nDescription: An issue was discovered in Vocera Report Server and Voice Server 5.x through 5.8. There is Path Traversal in the Task Exec filename. The Vocera Report Console contains various jobs that are executed on the server at specified intervals, e.g., backup, etc. An authenticated user has the ability to modify these entries and set the executable path and parameters.\n\nPublication Date: Thu Oct 24 00:01:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-46900"
+            ]
+        },
+        {
+            "Message ID": 89555,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2022-46899\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-46899\n\nDescription: An issue was discovered in Vocera Report Server and Voice Server 5.x through 5.8. There is Arbitrary File Upload. The BaseController class, that each of the service controllers derives from, allows for the upload of arbitrary files. If the HTTP request is a multipart/form-data POST request, any parameters with a filename entry will have their content written to a file in the Vocera upload-staging directory with the specified filename in the parameter.\n\nPublication Date: Thu Oct 24 00:01:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-46899"
+            ]
+        },
+        {
+            "Message ID": 89554,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2022-46898\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-46898\n\nDescription: An issue was discovered in Vocera Report Server and Voice Server 5.x through 5.8. There is Path Traversal via the \"restore SQL data\" filename. The Vocera Report Console contains a websocket function that allows for the restoration of the database from a ZIP archive that expects a SQL import file. The filename provided is not properly sanitized and allows for the inclusion of a path-traversal payload that can be used to escape the intended Vocera restoration directory. An attacker could exploit this vulnerability to point to a crafted ZIP archive that contains SQL commands that could be executed against the database.\n\nPublication Date: Thu Oct 24 00:01:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-46898"
+            ]
+        },
+        {
+            "Message ID": 89553,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2023-3542\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3542\n\nDescription: A vulnerability was found in ThinuTech ThinuCMS 1.5 and classified as problematic. Affected by this issue is some unknown functionality of the file /contact.php. The manipulation of the argument name/body leads to cross site scripting. The attack may be launched remotely. VDB-233294 is the identifier assigned to this vulnerability.\n\nPublication Date: Thu Oct 24 00:01:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3542"
+            ]
+        },
+        {
+            "Message ID": 89552,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2023-3540\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3540\n\nDescription: A vulnerability, which was classified as problematic, was found in SimplePHPscripts NewsLetter Script PHP 2.4. Affected is an unknown function of the file /preview.php of the component URL Parameter Handler. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-233292.\n\nPublication Date: Thu Oct 24 00:01:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3540"
             ]
         }
     ]
