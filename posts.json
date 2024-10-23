@@ -6013,6 +6013,38 @@
                 "Pakistan"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5253,
+            "discovered": "2024-10-23",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5252,
+            "discovered": "2024-10-23",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5251,
+            "discovered": "2024-10-23",
+            "post_title": "Bangladesh student league has been banned\n\nBangladesh Student league was an armed student wing of Awami league,\nIt was used by Awami league to commit many crimes,\n\nThey were directly involved in the killings of student, during Qouta Protest.\n\n\n~~ news Source:- Bangladesh Home Ministry",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Bangladesh",
+                "Awami",
+                "Awami"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
