@@ -28,9 +28,9 @@ jobs:
         python -m spacy download en_core_web_sm  # Install spaCy model
 
     # Step 4: Run script to update news.json
-    - name: Update News Data
-      run: |
-        python dashboard2.py  # Run the script for news.json
+    # - name: Update News Data
+      # run: |
+        # python dashboard2.py  # Run the script for news.json
 
     # Step 5: Run script to update posts.json
     - name: Update Posts Data
