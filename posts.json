@@ -1655,6 +1655,26 @@
             "URLs": [
                 "ps://darkwebinformer.com/underground-net-defaced-the-website-of-stairs-minsk/"
             ]
+        },
+        {
+            "Message ID": 5829,
+            "discovered": "2024-10-23",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5828,
+            "discovered": "2024-10-23",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
