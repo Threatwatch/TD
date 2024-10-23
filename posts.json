@@ -1233,6 +1233,66 @@
             "URLs": [
                 "ps://darkwebinformer.com/shadowhunter-targeted-the-website-of-biobank-cy/"
             ]
+        },
+        {
+            "Message ID": 5795,
+            "discovered": "2024-10-23",
+            "post_title": "Free Post\n\n🚨🇺🇸A Threat Actor has Allegedly Leaked Data of California Secretary of State\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-california-secretary-of-state/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-california-secretary-of-state/"
+            ]
+        },
+        {
+            "Message ID": 5794,
+            "discovered": "2024-10-23",
+            "post_title": "Status: 🆙\n\n🚨🇺🇸DDOS TEAM ANONYMOUS Targeted the Website of Google Pixel\n\nhttps://darkwebinformer.com/ddos-team-anonymous-targeted-the-website-of-google-pixel/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/ddos-team-anonymous-targeted-the-website-of-google-pixel/"
+            ]
+        },
+        {
+            "Message ID": 5793,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇮🇳henrymas0n has Allegedly Leaked the Database of Gandhi Faiz-E-Aam College\n\nhttps://darkwebinformer.com/henrymas0n-has-allegedly-leaked-the-database-of-gandhi-faiz-e-aam-college/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/henrymas0n-has-allegedly-leaked-the-database-of-gandhi-faiz-e-aam-college/"
+            ]
+        },
+        {
+            "Message ID": 5792,
+            "discovered": "2024-10-23",
+            "post_title": "Free Post\n\n🚨🇮🇱EagleStrike is Allegedly Selling Data of Campus IL\n\nhttps://darkwebinformer.com/eaglestrike-is-allegedly-selling-data-of-campus-il/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/eaglestrike-is-allegedly-selling-data-of-campus-il/"
+            ]
+        },
+        {
+            "Message ID": 5791,
+            "discovered": "2024-10-23",
+            "post_title": "Free post\n\n🚨🇺🇸abyss0 Allegedly is Selling Data to Grayscale Investments\n\nhttps://darkwebinformer.com/abyss0-allegedly-is-selling-data-to-grayscale-investments/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/abyss0-allegedly-is-selling-data-to-grayscale-investments/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -21935,6 +21995,244 @@
             ],
             "URLs": [
                 "https://www.scworld.com/news/oktane-2024-cyberrisk-tv-highlights-okta-execs-tackle-the-big-security-challenges"
+            ]
+        },
+        {
+            "Message ID": 89525,
+            "discovered": "2024-10-23",
+            "post_title": "Title: CSI Forensics: Unraveling Kubernetes Crime Scenes\n\nDate: October 23, 2024\n\nSource: https://sysdig.com/blog/csi-forensics-unraveling-kubernetes-crime-scenes/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sysdig.com/blog/csi-forensics-unraveling-kubernetes-crime-scenes/"
+            ]
+        },
+        {
+            "Message ID": 89524,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Operation Overload Impersonates Media to Influence 2024 US Election\n\nDate: October 23, 2024\n\nSource: https://www.recordedfuture.com/research/operation-overload-impersonates-media-influence-2024-us-election\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.recordedfuture.com/research/operation-overload-impersonates-media-influence-2024-us-election"
+            ]
+        },
+        {
+            "Message ID": 89523,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Hackers exploit 52 zero-days on the first day of Pwn2Own Ireland\n\nDate: October 23, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/hackers-exploit-52-zero-days-on-the-first-day-of-pwn2own-ireland/\n\n#News #Ireland",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Ireland"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/hackers-exploit-52-zero-days-on-the-first-day-of-pwn2own-ireland/"
+            ]
+        },
+        {
+            "Message ID": 89522,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2023-27997\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-27997\n\nDescription: A heap-based buffer overflow vulnerability [CWE-122] in FortiOS version 7.2.4 and below, version 7.0.11 and below, version 6.4.12 and below, version 6.0.16 and below and FortiProxy version 7.2.3 and below, version 7.0.9 and below, version 2.0.12 and below, version 1.2 all versions, version 1.1 all versions SSL-VPN may allow a remote attacker to execute arbitrary code or commands via specifically crafted requests.\n\nPublication Date: Wed Oct 23 17:05:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-27997"
+            ]
+        },
+        {
+            "Message ID": 89521,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2022-41328\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-41328\n\nDescription: A improper limitation of a pathname to a restricted directory vulnerability ('path traversal') [CWE-22] in Fortinet FortiOS version 7.2.0 through 7.2.3, 7.0.0 through 7.0.9 and before 6.4.11 allows a privileged attacker to read and write files on the underlying Linux system via crafted CLI commands.\n\nPublication Date: Wed Oct 23 17:05:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-41328"
+            ]
+        },
+        {
+            "Message ID": 89520,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2022-42475\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-42475\n\nDescription: A heap-based buffer overflow vulnerability [CWE-122] in FortiOS SSL-VPN 7.2.0 through 7.2.2, 7.0.0 through 7.0.8, 6.4.0 through 6.4.10, 6.2.0 through 6.2.11, 6.0.15 and earlier  and FortiProxy SSL-VPN 7.2.0 through 7.2.1, 7.0.7 and earlier may allow a remote unauthenticated attacker to execute arbitrary code or commands via specifically crafted requests.\n\nPublication Date: Wed Oct 23 17:05:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "7.0.7"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-42475"
+            ]
+        },
+        {
+            "Message ID": 89519,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2022-40684\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-40684\n\nDescription: An authentication bypass using an alternate path or channel [CWE-288] in Fortinet FortiOS version 7.2.0 through 7.2.1 and 7.0.0 through 7.0.6, FortiProxy version 7.2.0 and version 7.0.0 through 7.0.6 and FortiSwitchManager version 7.2.0 and 7.0.0 allows an unauthenticated atttacker to perform operations on the administrative interface via specially crafted HTTP or HTTPS requests.\n\nPublication Date: Wed Oct 23 17:05:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-40684"
+            ]
+        },
+        {
+            "Message ID": 89518,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2019-5591\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2019-5591\n\nDescription: A Default Configuration vulnerability in FortiOS may allow an unauthenticated attacker on the same subnet to intercept sensitive information by impersonating the LDAP server.\n\nPublication Date: Wed Oct 23 17:04:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "FortiOS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2019-5591"
+            ]
+        },
+        {
+            "Message ID": 89517,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-10280\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10280\n\nDescription: A vulnerability was found in Tenda AC6, AC7, AC8, AC9, AC10, AC10U, AC15, AC18, AC500 and AC1206 up to 20241022. It has been rated as problematic. This issue affects the function websReadEvent of the file /goform/GetIPTV. The manipulation of the argument Content-Length leads to null pointer dereference. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Wed Oct 23 17:04:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Tenda",
+                "AC8",
+                "AC9"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10280"
+            ]
+        },
+        {
+            "Message ID": 89516,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2018-13382\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2018-13382\n\nDescription: An Improper Authorization vulnerability in Fortinet FortiOS 6.0.0 to 6.0.4, 5.6.0 to 5.6.8 and 5.4.1 to 5.4.10 and FortiProxy 2.0.0, 1.2.0 to 1.2.8, 1.1.0 to 1.1.6, 1.0.0 to 1.0.7 under SSL VPN web portal allows an unauthenticated attacker to modify the password of an SSL VPN web portal user via specially crafted HTTP requests\n\nPublication Date: Wed Oct 23 17:04:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2018-13382"
+            ]
+        },
+        {
+            "Message ID": 89515,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2023-3691\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3691\n\nDescription: A vulnerability, which was classified as problematic, was found in layui up to v2.8.0-rc.16. This affects an unknown part of the component HTML Attribute Handler. The manipulation of the argument title leads to cross site scripting. It is possible to initiate the attack remotely. Upgrading to version 2.8.0 is able to address this issue. It is recommended to upgrade the affected component. The identifier VDB-234237 was assigned to this vulnerability.\n\nPublication Date: Wed Oct 23 17:04:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3691"
+            ]
+        },
+        {
+            "Message ID": 89514,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2018-13379\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2018-13379\n\nDescription: An Improper Limitation of a Pathname to a Restricted Directory (\"Path Traversal\") in Fortinet FortiOS 6.0.0 to 6.0.4, 5.6.3 to 5.6.7 and 5.4.6 to 5.4.12 and FortiProxy 2.0.0, 1.2.0 to 1.2.8, 1.1.0 to 1.1.6, 1.0.0 to 1.0.7 under SSL VPN web portal allows an unauthenticated attacker to download system files via special crafted HTTP resource requests.\n\nPublication Date: Wed Oct 23 17:04:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2018-13379"
+            ]
+        },
+        {
+            "Message ID": 89513,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2023-3683\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3683\n\nDescription: A vulnerability has been found in LivelyWorks Articart 2.0.1 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file /items/search. The manipulation of the argument search_term leads to cross site scripting. The attack can be launched remotely. The identifier VDB-234229 was assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Wed Oct 23 17:03:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "VDB-234229"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3683"
+            ]
+        },
+        {
+            "Message ID": 89512,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2023-3635\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3635\n\nDescription: GzipSource does not handle an exception that might be raised when parsing a malformed gzip buffer. This may lead to denial of service of the Okio client when handling a crafted GZIP archive, by using the GzipSource class.\n\nPublication Date: Wed Oct 23 17:03:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3635"
+            ]
+        },
+        {
+            "Message ID": 89511,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2018-13383\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2018-13383\n\nDescription: A heap buffer overflow in Fortinet FortiOS 6.0.0 through 6.0.4, 5.6.0 through 5.6.10, 5.4.0 through 5.4.12, 5.2.14 and earlier and FortiProxy 2.0.0, 1.2.8 and earlier in the SSL VPN web portal may cause the SSL VPN web service termination for logged in users due to a failure to properly handle javascript href data when proxying webpages.\n\nPublication Date: Wed Oct 23 17:03:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2018-13383"
+            ]
+        },
+        {
+            "Message ID": 89510,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2023-38489\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-38489\n\nDescription: Kirby is a content management system. A vulnerability in versions prior to 3.5.8.3, 3.6.6.3, 3.7.5.2, 3.8.4.1, and 3.9.6 affects all Kirby sites with user accounts (unless Kirby's API and Panel are disabled in the config). It can only be abused if a Kirby user is logged in on a device or browser that is shared with potentially untrusted users or if an attacker already maliciously used a previous password to log in to a Kirby site as the affected user.\n\nInsufficient Session Expiration is when a web site permits an attacker to reuse old session credentials or session IDs for authorization. In the variation described in this advisory, it allows attackers to stay logged in to a Kirby site on another device even if the logged in user has since changed their password. Kirby did not invalidate user sessions that were created with a password that was since changed by the user or by a site admin. If a user changed their password to lock out an attacker who was already in possession of the previous password or of a login session on another device or browser, the attacker would not be reliably prevented from accessing the Kirby site as the affected user.\n\nThe problem has been patched in Kirby 3.5.8.3, 3.6.6.3, 3.7.5.2, 3.8.4.1, and 3.9.6. In all of the mentioned releases, the maintainers have updated the authentication implementation to keep track of the hashed password in each active session. If the password changed since the login, the session is invalidated. To enforce this fix even if the vulnerability was previously abused, all users are logged out from the Kirby site after updating to one of the patched releases.\n\nPublication Date: Wed Oct 23 17:03:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Kirby 3.5.8.3"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-38489",
+                "3.5.8.3",
+                "3.6.6.3",
+                "3.7.5.2",
+                "3.8.4.1",
+                "3.5.8.3",
+                "3.6.6.3",
+                "3.7.5.2",
+                "3.8.4.1"
+            ]
+        },
+        {
+            "Message ID": 89509,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2018-13374\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2018-13374\n\nDescription: A Improper Access Control in Fortinet FortiOS 6.0.2, 5.6.7 and before, FortiADC 6.1.0, 6.0.0 to 6.0.1, 5.4.0 to 5.4.4 allows attacker to obtain the LDAP server login credentials configured in FortiGate via pointing a LDAP server connectivity test request to a rogue LDAP server instead of the configured one.\n\nPublication Date: Wed Oct 23 17:03:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2018-13374"
+            ]
+        },
+        {
+            "Message ID": 89508,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-50050\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50050\n\nDescription: Llama Stack prior to revision 7a8aa775e5a267cf8660d83140011a0b7f91e005 used pickle as a serialization format for socket communication, potentially allowing for remote code execution. Socket communication has been changed to use JSON instead.\n\nPublication Date: Wed Oct 23 17:03:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50050"
+            ]
+        },
+        {
+            "Message ID": 89507,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2023-32443\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-32443\n\nDescription: An out-of-bounds read was addressed with improved input validation. This issue is fixed in macOS Monterey 12.6.8, macOS Ventura 13.5, macOS Big Sur 11.7.9. Processing a file may lead to a denial-of-service or potentially disclose memory contents.\n\nPublication Date: Wed Oct 23 17:02:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-32443"
             ]
         }
     ]
