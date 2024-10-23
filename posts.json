@@ -1719,6 +1719,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5835,
+            "discovered": "2024-10-23",
+            "post_title": "💡Free Post\n\n🚨🇬🇧ZeroSevenGroup is Allegedly Selling Access to Five Unidentified Institutions in the UK\n\nhttps://darkwebinformer.com/zerosevengroup-is-allegedly-selling-access-to-five-unidentified-institutions-in-the-uk/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/zerosevengroup-is-allegedly-selling-access-to-five-unidentified-institutions-in-the-uk/"
+            ]
+        },
+        {
+            "Message ID": 5834,
+            "discovered": "2024-10-23",
+            "post_title": "💡Free Post\n\n🚨🇺🇸DeadlyQueen has Allegedly Leaked the Database of Super Teacher Worksheets\n\nhttps://darkwebinformer.com/deadlyqueen-has-allegedly-leaked-the-database-of-super-teacher-worksheets/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/deadlyqueen-has-allegedly-leaked-the-database-of-super-teacher-worksheets/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -18422,6 +18446,46 @@
             "URLs": [
                 "https://t.co/Us9v2A0By8"
             ]
+        },
+        {
+            "Message ID": 3288,
+            "discovered": "2024-10-23",
+            "post_title": "Group: ragroup\nApprox. Time: 22:41 23/10/24\nTitle: Prince Pipes",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3287,
+            "discovered": "2024-10-23",
+            "post_title": "Group: ragroup\nApprox. Time: 22:41 23/10/24\nTitle: P+B Team Aircargo",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3286,
+            "discovered": "2024-10-23",
+            "post_title": "Group: bianlian\nApprox. Time: 22:41 23/10/24\nTitle: Gluckstein Personal Injury Lawyers",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3285,
+            "discovered": "2024-10-23",
+            "post_title": "Group: bianlian\nApprox. Time: 22:41 23/10/24\nTitle: The Povman Law Firm",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -23497,6 +23561,102 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-48213"
+            ]
+        },
+        {
+            "Message ID": 89583,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-20482\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20482\n\nDescription: A vulnerability in the web-based management interface of Cisco Secure Firewall Management Center (FMC) Software, formerly Firepower Management Center Software, could allow an authenticated, remote attacker to elevate privileges on an affected device. To exploit this vulnerability, an attacker must have a valid account on the device that is configured with a custom read-only role.\n This vulnerability is due to insufficient validation of role permissions in part of the web-based management interface. An attacker could exploit this vulnerability by performing a write operation on the affected part of the web-based management interface. A successful exploit could allow the attacker to modify certain parts of the configuration.\n\nPublication Date: Thu Oct 24 01:45:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20482"
+            ]
+        },
+        {
+            "Message ID": 89582,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-20474\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20474\n\nDescription: A vulnerability in Internet Key Exchange version 2 (IKEv2) processing of Cisco Secure Client Software could allow an unauthenticated, remote attacker to cause a denial of service (DoS) of Cisco Secure Client.\n This vulnerability is due to an integer underflow condition. An attacker could exploit this vulnerability by sending a crafted IKEv2 packet to an affected system. A successful exploit could allow the attacker to cause Cisco Secure Client Software to crash, resulting in a DoS condition on the client software.\n Note: Cisco Secure Client Software releases 4.10 and earlier were known as Cisco AnyConnect Secure Mobility Client.\n\nPublication Date: Thu Oct 24 01:45:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20474"
+            ]
+        },
+        {
+            "Message ID": 89581,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-20415\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20415\n\nDescription: A vulnerability in the web-based management interface of Cisco Firepower Management Center (FMC) Software could allow an unauthenticated, remote attacker to conduct a cross-site scripting (XSS) attack against a user of the interface of an affected device. This vulnerability is due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit this vulnerability by inserting crafted input into various data fields in an affected interface. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface, or access sensitive, browser-based information.\n\nPublication Date: Thu Oct 24 01:45:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20415"
+            ]
+        },
+        {
+            "Message ID": 89580,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-20473\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20473\n\nDescription: A vulnerability in the web-based management interface of Cisco Secure Firewall Management Center (FMC) Software could allow an authenticated, remote attacker to conduct SQL injection attacks on an affected system.\n\nThis vulnerability exists because the web-based management interface does not validate user input adequately. An attacker could exploit this vulnerability by authenticating to the application as an Administrator and sending crafted SQL queries to an affected system. A successful exploit could allow the attacker to obtain unauthorized data from the database and make changes to the system. To exploit this vulnerability, an attacker would need Administrator-level privileges.\n\nPublication Date: Thu Oct 24 01:45:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20473"
+            ]
+        },
+        {
+            "Message ID": 89579,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-47735\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47735\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nRDMA/hns: Fix spin_unlock_irqrestore() called with IRQs enabled\n\nFix missuse of spin_lock_irq()/spin_unlock_irq() when\nspin_lock_irqsave()/spin_lock_irqrestore() was hold.\n\nThis was discovered through the lock debugging, and the corresponding\nlog is as follows:\n\nraw_local_irq_restore() called with IRQs enabled\nWARNING: CPU: 96 PID: 2074 at kernel/locking/irqflag-debug.c:10 warn_bogus_irq_restore+0x30/0x40\n...\nCall trace:\n warn_bogus_irq_restore+0x30/0x40\n _raw_spin_unlock_irqrestore+0x84/0xc8\n add_qp_to_list+0x11c/0x148 [hns_roce_hw_v2]\n hns_roce_create_qp_common.constprop.0+0x240/0x780 [hns_roce_hw_v2]\n hns_roce_create_qp+0x98/0x160 [hns_roce_hw_v2]\n create_qp+0x138/0x258\n ib_create_qp_kernel+0x50/0xe8\n create_mad_qp+0xa8/0x128\n ib_mad_port_open+0x218/0x448\n ib_mad_init_device+0x70/0x1f8\n add_client_context+0xfc/0x220\n enable_device_and_get+0xd0/0x140\n ib_register_device.part.0+0xf4/0x1c8\n ib_register_device+0x34/0x50\n hns_roce_register_device+0x174/0x3d0 [hns_roce_hw_v2]\n hns_roce_init+0xfc/0x2c0 [hns_roce_hw_v2]\n __hns_roce_hw_v2_init_instance+0x7c/0x1d0 [hns_roce_hw_v2]\n hns_roce_hw_v2_init_instance+0x9c/0x180 [hns_roce_hw_v2]\n\nPublication Date: Thu Oct 24 01:45:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "hns_roce_hw_v2_init_instance+0x7c/0x1d0"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47735"
+            ]
+        },
+        {
+            "Message ID": 89578,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-20472\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20472\n\nDescription: A vulnerability in the web-based management interface of Cisco Secure Firewall Management Center (FMC) Software could allow an authenticated, remote attacker to conduct SQL injection attacks on an affected system.\n\nThis vulnerability exists because the web-based management interface does not validate user input adequately. An attacker could exploit this vulnerability by authenticating to the application as an Administrator and sending crafted SQL queries to an affected system. A successful exploit could allow the attacker to obtain unauthorized data from the database and make changes to the system. To exploit this vulnerability, an attacker would need Administrator-level privileges.\n\nPublication Date: Thu Oct 24 01:44:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20472"
+            ]
+        },
+        {
+            "Message ID": 89577,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-47742\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47742\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nfirmware_loader: Block path traversal\n\nMost firmware names are hardcoded strings, or are constructed from fairly\nconstrained format strings where the dynamic parts are just some hex\nnumbers or such.\n\nHowever, there are a couple codepaths in the kernel where firmware file\nnames contain string components that are passed through from a device or\nsemi-privileged userspace; the ones I could find (not counting interfaces\nthat require root privileges) are:\n\n - lpfc_sli4_request_firmware_update() seems to construct the firmware\n   filename from \"ModelName\", a string that was previously parsed out of\n   some descriptor (\"Vital Product Data\") in lpfc_fill_vpd()\n - nfp_net_fw_find() seems to construct a firmware filename from a model\n   name coming from nfp_hwinfo_lookup(pf->hwinfo, \"nffw.partno\"), which I\n   think parses some descriptor that was read from the device.\n   (But this case likely isn't exploitable because the format string looks\n   like \"netronome/nic_%s\", and there shouldn't be any *folders* starting\n   with \"netronome/nic_\". The previous case was different because there,\n   the \"%s\" is *at the start* of the format string.)\n - module_flash_fw_schedule() is reachable from the\n   ETHTOOL_MSG_MODULE_FW_FLASH_ACT netlink command, which is marked as\n   GENL_UNS_ADMIN_PERM (meaning CAP_NET_ADMIN inside a user namespace is\n   enough to pass the privilege check), and takes a userspace-provided\n   firmware name.\n   (But I think to reach this case, you need to have CAP_NET_ADMIN over a\n   network namespace that a special kind of ethernet device is mapped into,\n   so I think this is not a viable attack path in practice.)\n\nFix it by rejecting any firmware names containing \"..\" path components.\n\nFor what it's worth, I went looking and haven't found any USB device\ndrivers that use the firmware loader dangerously.\n\nPublication Date: Thu Oct 24 01:44:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47742"
+            ]
+        },
+        {
+            "Message ID": 89576,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2024-9899\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9899\n\nDescription: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2023-2143. Reason: This candidate is a reservation duplicate of CVE-2023-2143. Notes: All CVE users should reference CVE-2023-2143 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.\n\nPublication Date: Thu Oct 24 01:44:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9899"
             ]
         }
     ]
