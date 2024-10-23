@@ -1573,6 +1573,52 @@
             "URLs": [
                 "ps://darkwebinformer.com/magouilleur-and-bousilleur-are-allegedly-selling-the-database-of-ornikar/"
             ]
+        },
+        {
+            "Message ID": 5824,
+            "discovered": "2024-10-23",
+            "post_title": "🚨📰Karat Packaging Inc. has Filed Form 8-K Due to a Cybersecurity Incident\n\nhttps://darkwebinformer.com/karat-packaging-inc-has-filed-form-8-k-due-to-a-cybersecurity-incident/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://darkwebinformer.com/karat-packaging-inc-has-filed-form-8-k-due-to-a-cybersecurity-incident/"
+            ]
+        },
+        {
+            "Message ID": 5823,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇨🇾Black Maskers Army Targeted the Website of Electricity Authority of Cyprus (EAC)\n\nhttps://darkwebinformer.com/black-maskers-army-targeted-the-website-of-electricity-authority-of-cyprus-eac/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/black-maskers-army-targeted-the-website-of-electricity-authority-of-cyprus-eac/"
+            ]
+        },
+        {
+            "Message ID": 5822,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇮🇱A Threat Actor has Allegedly Leaked Israel Citizens Data",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5821,
+            "discovered": "2024-10-23",
+            "post_title": "🚨🇵🇭A Threat Actor is Allegedly Selling Confidential Data from Armed Forces of the Philippines\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-confidential-data-from-armed-forces-of-the-philippines/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-confidential-data-from-armed-forces-of-the-philippines/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -19657,6 +19703,18 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18114"
             ]
+        },
+        {
+            "Message ID": 3829,
+            "discovered": "2024-10-23",
+            "post_title": "ID: 18117\n⚠ Wed, 23 Oct 2024 18:35:06 UTC\n🥷 meow\n🎯 By Design LLC, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18117",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18117"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -22959,6 +23017,78 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10292"
+            ]
+        },
+        {
+            "Message ID": 89551,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Cisco security advisory (AV24-609)\n\nDate: October 23, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-609\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-609"
+            ]
+        },
+        {
+            "Message ID": 89550,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Malicious Life Podcast: Operation Snow White, Part 2\n\nDate: October 23, 2024\n\nSource: https://www.cybereason.com/blog/malicious-life-podcast-operation-snow-white-part-2\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.cybereason.com/blog/malicious-life-podcast-operation-snow-white-part-2"
+            ]
+        },
+        {
+            "Message ID": 89549,
+            "discovered": "2024-10-23",
+            "post_title": "Title: The scale of open source: Growth, challenges, and key insights\n\nDate: October 23, 2024\n\nSource: https://www.sonatype.com/blog/the-scale-of-open-source-growth-challenges-and-key-insights\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.sonatype.com/blog/the-scale-of-open-source-growth-challenges-and-key-insights"
+            ]
+        },
+        {
+            "Message ID": 89548,
+            "discovered": "2024-10-23",
+            "post_title": "Title: Fortinet security advisory (AV24-608)\n\nDate: October 23, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-608\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av24-608"
+            ]
+        },
+        {
+            "Message ID": 89547,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2021-30558\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-30558\n\nDescription: Insufficient policy enforcement in content security policy in Google Chrome prior to 91.0.4472.77 allowed a remote attacker to bypass content security policy via a crafted HTML page. (Chrome security severity: Medium)\n\nPublication Date: Wed Oct 23 23:22:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-30558"
+            ]
+        },
+        {
+            "Message ID": 89546,
+            "discovered": "2024-10-23",
+            "post_title": "CVE-ID: CVE-2021-21200\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-21200\n\nDescription: Out of bounds read in WebUI Settings in Google Chrome prior to 89.0.4389.72 allowed a remote attacker to perform an out of bounds memory read via a crafted HTML page. (Chrome security severity: Low)\n\nPublication Date: Wed Oct 23 23:21:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-21200"
             ]
         }
     ]
