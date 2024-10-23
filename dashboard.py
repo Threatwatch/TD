@@ -31,13 +31,17 @@ channel_urls = [
     "https://t.me/DarkfeedNews",
     "https://t.me/Hunt3rkill3rs1",
     "https://t.me/TigerElectronicUnit",
-    "https://t.me/DarkStormTeamd",
+    # "https://t.me/DarkStormTeamd",
     "https://t.me/CyberVolk_K",
-    "https://t.me/blackopsmrhamza",
+    # "https://t.me/blackopsmrhamza",
     "https://t.me/Team_R70",
     "https://t.me/Arab_Hackers_Union",
-    "https://t.me/AnonymousEgypt",
-    "https://t.me/CyberS102"
+    # "https://t.me/AnonymousEgypt",
+    "https://t.me/CyberS102",
+    "https://t.me/RansomwareNewsVX",
+    "https://t.me/RansomFeedNews",
+    "https://t.me/yildizthreatnews",
+    "https://t.me/cyberthint"
 ]
 
 
@@ -121,8 +125,8 @@ async def fetch_messages(channel_identifier, existing_messages_ids):
             
             new_messages.append({
                 'Message ID': message.id,
-                'Date': date,
-                'Content': message.message,
+                'discovered': date,
+                'post_title': message.message,
                 'Attack Type': attack_type,
                 'Location': location,
                 'URLs': urls
@@ -147,24 +151,24 @@ async def main():
 
         for channel_url in channel_urls:
             channel_identifier = channel_id_map.get(channel_url, channel_url)
-            channel_id, channel_name, new_messages = await fetch_messages(channel_identifier, 
+            channel_id, group_name, new_messages = await fetch_messages(channel_identifier, 
                 {msg['Message ID'] for channel in all_channel_messages.values() for msg in channel})
             
             # Skip channels that couldn't be fetched
-            if channel_id is None or channel_name is None:
+            if channel_id is None or group_name is None:
                 continue  # Skip to the next channel without adding null
 
             # Update channel ID map if the channel was fetched successfully
             channel_id_map[channel_url] = channel_id
             
             # Add the channel name only if valid and not already in the messages
-            if channel_name not in all_channel_messages:
-                all_channel_messages[channel_name] = []
+            if group_name not in all_channel_messages:
+                all_channel_messages[group_name] = []
             
             # Add only new messages that are not already in the list
-            existing_message_ids = {msg['Message ID'] for msg in all_channel_messages[channel_name]}
+            existing_message_ids = {msg['Message ID'] for msg in all_channel_messages[group_name]}
             unique_new_messages = [msg for msg in new_messages if msg['Message ID'] not in existing_message_ids]
-            all_channel_messages[channel_name].extend(unique_new_messages)
+            all_channel_messages[group_name].extend(unique_new_messages)
 
         save_messages(json_file_path, all_channel_messages)
 
