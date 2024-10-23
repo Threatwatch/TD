@@ -14034,6 +14034,16 @@
             "URLs": [
                 "ademia.edu \n"
             ]
+        },
+        {
+            "Message ID": 926,
+            "discovered": "2024-10-23",
+            "post_title": "Ждите нас!\n\nWait for us!",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Electronic Tigers Unit": [
@@ -21529,6 +21539,18 @@
             ],
             "URLs": [
                 "https://www.crowdstrike.com/en-us/blog/anonymous-sudan-hacktivist-group-ddos-indictment/"
+            ]
+        },
+        {
+            "Message ID": 89482,
+            "discovered": "2024-10-23",
+            "post_title": "Title: The Crypto Game of Lazarus APT: Investors vs. Zero-days\n\nDate: October 23, 2024\n\nSource: https://securelist.com/lazarus-apt-steals-crypto-with-a-tank-game/114282/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://securelist.com/lazarus-apt-steals-crypto-with-a-tank-game/114282/"
             ]
         }
     ]
