@@ -69,9 +69,23 @@ def clean_message_data(messages):
             messages[key] = [clean_string(item) if isinstance(item, str) else item for item in value]
     return messages
 
+# def save_messages(file_path, messages):
+#     # Clean the data before saving
+#     clean_data = {channel: [clean_message_data(msg) for msg in msgs] for channel, msgs in messages.items()}
+#     with open(file_path, 'w', encoding='utf-8') as json_file:
+#         json.dump(clean_data, json_file, ensure_ascii=False, indent=4)
+
 def save_messages(file_path, messages):
+    """
+    Save all messages into a single flattened list, with group_name included in each message object.
+    """
+    # Flatten all messages into a single list
+    all_messages = [msg for channel_msgs in messages.values() for msg in channel_msgs]
+
     # Clean the data before saving
-    clean_data = {channel: [clean_message_data(msg) for msg in msgs] for channel, msgs in messages.items()}
+    clean_data = [clean_message_data(msg) for msg in all_messages]
+
+    # Save the cleaned data to the JSON file
     with open(file_path, 'w', encoding='utf-8') as json_file:
         json.dump(clean_data, json_file, ensure_ascii=False, indent=4)
 
@@ -91,32 +105,86 @@ def extract_location(text):
     return locations if locations else ["N/A"]
 
 
-async def fetch_messages(channel_identifier, existing_messages_ids):
+# async def fetch_messages(channel_identifier, existing_messages_ids):
+#     try:
+#         channel = await client.get_entity(channel_identifier)
+#     except Exception as e:
+#         print(f"Failed to fetch the channel {channel_identifier} you need to update the URL")
+#         # Return just an empty list of messages if fetching the channel failed
+#         return None, None, []
+
+#     limit = 100
+#     offset_id = 0
+#     new_messages = []
+
+#     history = await client(GetHistoryRequest(
+#         peer=channel,
+#         offset_id=offset_id,
+#         offset_date=None,
+#         add_offset=0,
+#         limit=limit,
+#         max_id=0,
+#         min_id=0,
+#         hash=0
+#     ))
+#     messages = history.messages
+
+#     for message in messages:
+#         if message.id not in existing_messages_ids:
+#             date = message.date.strftime('%Y-%m-%d')
+
+#             # Extract URLs if available
+#             urls = []
+#             if message.entities:
+#                 for entity in message.entities:
+#                     if isinstance(entity, MessageEntityUrl):
+#                         urls.append(message.message[entity.offset:entity.offset + entity.length])
+
+#             # Determine the attack type based on content
+#             attack_type = "Unknown"
+#             if message.message:
+#                 content_lower = message.message.lower()
+#                 for category, keywords in detailed_attack_keywords.items():
+#                     if any(keyword in content_lower for keyword in keywords):
+#                         attack_type = category
+#                         break
+
+#             # Extract location from the message content
+#             location = extract_location(message.message) if message.message else ["N/A"]
+            
+#             new_messages.append({
+#                 'Message ID': message.id,
+#                 'discovered': date,
+#                 'post_title': message.message,
+#                 'Attack Type': attack_type,
+#                 'Location': location,
+#                 'URLs': urls
+#             })
+#         offset_id = message.id
+
+#     return channel.id, channel.title, new_messages
+
+async def fetch_messages(channel_identifier, existing_message_ids):
+    """
+    Fetch messages from a given Telegram channel and return them with the channel name.
+    """
     try:
         channel = await client.get_entity(channel_identifier)
     except Exception as e:
-        print(f"Failed to fetch the channel {channel_identifier} you need to update the URL")
-        # Return just an empty list of messages if fetching the channel failed
+        print(f"Failed to fetch the channel {channel_identifier}: {e}")
         return None, None, []
 
-    limit = 100
-    offset_id = 0
+    history = await client(GetHistoryRequest(
+        peer=channel, offset_id=0, offset_date=None, add_offset=0, 
+        limit=100, max_id=0, min_id=0, hash=0
+    ))
+
+    messages = history.messages
     new_messages = []
 
-    history = await client(GetHistoryRequest(
-        peer=channel,
-        offset_id=offset_id,
-        offset_date=None,
-        add_offset=0,
-        limit=limit,
-        max_id=0,
-        min_id=0,
-        hash=0
-    ))
-    messages = history.messages
-
     for message in messages:
-        if message.id not in existing_messages_ids:
+        if message.id not in existing_message_ids:
+            # Format the date
             date = message.date.strftime('%Y-%m-%d')
 
             # Extract URLs if available
@@ -126,27 +194,19 @@ async def fetch_messages(channel_identifier, existing_messages_ids):
                     if isinstance(entity, MessageEntityUrl):
                         urls.append(message.message[entity.offset:entity.offset + entity.length])
 
-            # Determine the attack type based on content
-            attack_type = "Unknown"
-            if message.message:
-                content_lower = message.message.lower()
-                for category, keywords in detailed_attack_keywords.items():
-                    if any(keyword in content_lower for keyword in keywords):
-                        attack_type = category
-                        break
-
-            # Extract location from the message content
+            # Extract locations using spaCy
             location = extract_location(message.message) if message.message else ["N/A"]
-            
+
+            # Create the message object with group_name (channel title)
             new_messages.append({
+                'group_name': channel.title,  # Channel name as a field
                 'Message ID': message.id,
                 'discovered': date,
                 'post_title': message.message,
-                'Attack Type': attack_type,
+                'Attack Type': "Unknown",  # You can replace this logic with attack type detection if needed
                 'Location': location,
                 'URLs': urls
             })
-        offset_id = message.id
 
     return channel.id, channel.title, new_messages
 
