@@ -18628,6 +18628,16 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3298,
+            "discovered": "2024-10-24",
+            "post_title": "Group: flocker\nApprox. Time: 06:39 24/10/24\nTitle: B****A",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -24429,6 +24439,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-40595",
                 "7.0.5.1"
+            ]
+        },
+        {
+            "Message ID": 89632,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Fortinet Warns of Critical Vulnerability in FortiManager Under Active Exploitation\n\nDate: Oct 24, 2024\n\nSource: https://thehackernews.com/2024/10/fortinet-warns-of-critical.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/fortinet-warns-of-critical.html"
             ]
         }
     ]
