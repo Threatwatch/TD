@@ -24830,6 +24830,18 @@
             "URLs": [
                 "https://thehackernews.com/2024/10/why-phishing-resistant-mfa-is-no-longer.html"
             ]
+        },
+        {
+            "Message ID": 89655,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Phishing for Votes in the Upcoming US Election\n\nDate: October 24, 2024\n\nSource: https://cujo.com/blog/phishing-for-votes-in-the-upcoming-us-election/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cujo.com/blog/phishing-for-votes-in-the-upcoming-us-election/"
+            ]
         }
     ]
 }
