@@ -18608,6 +18608,16 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3296,
+            "discovered": "2024-10-24",
+            "post_title": "Group: lynxblog\nApprox. Time: 03:03 24/10/24\nTitle: LifeMine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -24079,6 +24089,19 @@
             ],
             "URLs": [
                 "lifeminetx.com"
+            ]
+        },
+        {
+            "Message ID": 89610,
+            "discovered": "2024-10-24",
+            "post_title": "Title: ISC Stormcast For Thursday, October 24th, 2024 https://isc.sans.edu/podcastdetail/9194, (Thu, Oct 24th)\n\nDate: October 24, 2024\n\nSource: https://isc.sans.edu/diary/rss/31378\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/podcastdetail/9194",
+                "https://isc.sans.edu/diary/rss/31378"
             ]
         }
     ]
