@@ -2048,6 +2048,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-ridgi-pad-gmbh/"
             ]
+        },
+        {
+            "Message ID": 5863,
+            "discovered": "2024-10-24",
+            "post_title": "💡Free Post\n\n🚨🇮🇳A Threat Actor is Allegedly Selling the Database to Manipal Hospitals\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-to-manipal-hospitals/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-to-manipal-hospitals/"
+            ]
+        },
+        {
+            "Message ID": 5862,
+            "discovered": "2024-10-24",
+            "post_title": "🚨🇮🇳A Threat Actor is Allegedly Selling the Data of Malkansview Training\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-data-of-malkansview-training/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-data-of-malkansview-training/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -19140,6 +19164,18 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3306,
+            "discovered": "2024-10-24",
+            "post_title": "Group: ransomhub\nApprox. Time: 18:39 24/10/24\nTitle: https://t.co/foJO3PFTPV",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/foJO3PFTPV"
+            ]
         }
     ],
     "RansomfeedNews": [
