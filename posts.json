@@ -1906,6 +1906,78 @@
             "URLs": [
                 "ps://darkwebinformer.com/russian-cyber-army-team-targeted-the-website-of-port-of-brisbane-pty-ltd/"
             ]
+        },
+        {
+            "Message ID": 5855,
+            "discovered": "2024-10-24",
+            "post_title": "💡Free Post\n\n🚨🇵🇪DarkRaaS is Allegedly Selling the Source Code of TargetMaps\n\nhttps://darkwebinformer.com/darkraas-is-allegedly-selling-the-source-code-of-targetmaps/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/darkraas-is-allegedly-selling-the-source-code-of-targetmaps/"
+            ]
+        },
+        {
+            "Message ID": 5854,
+            "discovered": "2024-10-24",
+            "post_title": "🚨🇮🇩A Threat Actor Allegedly Has Leaked the Database of Kalurahan Temuwuh\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-the-database-of-kalurahan-temuwuh/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-the-database-of-kalurahan-temuwuh/"
+            ]
+        },
+        {
+            "Message ID": 5853,
+            "discovered": "2024-10-24",
+            "post_title": "🚨🇩🇪A Threat Actor is Allegedly Selling Data from Save with Sun GmbH\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-from-save-with-sun-gmbh/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-from-save-with-sun-gmbh/"
+            ]
+        },
+        {
+            "Message ID": 5852,
+            "discovered": "2024-10-24",
+            "post_title": "🚨🇦🇺DXPLOIT Targeted the Website of Healthscope\n\nhttps://darkwebinformer.com/dxploit-targeted-the-website-of-healthscope/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/dxploit-targeted-the-website-of-healthscope/"
+            ]
+        },
+        {
+            "Message ID": 5851,
+            "discovered": "2024-10-24",
+            "post_title": "🚨🇹🇭A Threat Actor Allegedly is Selling the Database of KMITL School of Science\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-the-database-of-kmitl-school-of-science/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-is-selling-the-database-of-kmitl-school-of-science/"
+            ]
+        },
+        {
+            "Message ID": 5850,
+            "discovered": "2024-10-24",
+            "post_title": "🚨🇺🇸Picsolve Inc Has Been Claimed a Victim to Cactus Ransomware\n\nhttps://darkwebinformer.com/picsolve-inc-has-been-claimed-a-victim-to-cactus-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/picsolve-inc-has-been-claimed-a-victim-to-cactus-ransomware/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -25728,6 +25800,237 @@
             ],
             "URLs": [
                 "https://www.scworld.com/brief/attacks-exploiting-microsoft-sharepoint-samsung-processor-bugs-underway"
+            ]
+        },
+        {
+            "Message ID": 89732,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Cloud Malware | A Threat Hunter’s Guide to Analysis, Techniques and Delivery\n\nDate: October 24, 2024\n\nSource: https://www.sentinelone.com/labs/cloud-malware-a-threat-hunters-guide-to-analysis-techniques-and-delivery/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.sentinelone.com/labs/cloud-malware-a-threat-hunters-guide-to-analysis-techniques-and-delivery/"
+            ]
+        },
+        {
+            "Message ID": 89731,
+            "discovered": "2024-10-24",
+            "post_title": "Title: New Qilin ransomware encryptor features stronger encryption, evasion\n\nDate: October 24, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/new-qilin-ransomware-encryptor-features-stronger-encryption-evasion/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/new-qilin-ransomware-encryptor-features-stronger-encryption-evasion/"
+            ]
+        },
+        {
+            "Message ID": 89730,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2021-39014\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-39014\n\nDescription: IBM Cloud Object System 3.15.8.97 is vulnerable to stored cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session.  IBM X-Force ID:  213650.\n\nPublication Date: Thu Oct 24 18:10:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-39014",
+                "3.15.8.97"
+            ]
+        },
+        {
+            "Message ID": 89729,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-36462\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-36462\n\nDescription: Mastodon is a free, open-source social network server based on ActivityPub. Starting in version 2.6.0 and prior to versions 3.5.9, 4.0.5, and 4.1.3, an attacker can craft a verified profile link using specific formatting to conceal arbitrary parts of the link, enabling it to appear to link to a different URL altogether. The link is visually misleading, but clicking on it will reveal the actual link. This can still be used for phishing, though, similar to IDN homograph attacks. Versions 3.5.9, 4.0.5, and 4.1.3 contain a patch for this issue.\n\nPublication Date: Thu Oct 24 18:10:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-36462"
+            ]
+        },
+        {
+            "Message ID": 89728,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-28728\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-28728\n\nDescription: A stack-based buffer overflow in Panasonic Control FPWIN Pro versions 7.6.0.3 and all previous versions may allow arbitrary code execution when opening specially crafted project files.\n\nPublication Date: Thu Oct 24 18:10:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-28728",
+                "7.6.0.3"
+            ]
+        },
+        {
+            "Message ID": 89727,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-20471\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20471\n\nDescription: A vulnerability in the web-based management interface of Cisco Secure Firewall Management Center (FMC) Software could allow an authenticated, remote attacker to conduct SQL injection attacks on an affected system.\n This vulnerability exists because the web-based management interface does not validate user input adequately. An attacker could exploit this vulnerability by authenticating to the application as an Administrator and sending crafted SQL queries to an affected system. A successful exploit could allow the attacker to obtain unauthorized data from the database and make changes to the system. To exploit this vulnerability, an attacker would need Administrator-level privileges.\n\nPublication Date: Thu Oct 24 18:10:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20471"
+            ]
+        },
+        {
+            "Message ID": 89726,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-20431\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20431\n\nDescription: A vulnerability in the geolocation access control feature of Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to bypass an access control policy.\n This vulnerability is due to improper assignment of geolocation data. An attacker could exploit this vulnerability by sending traffic through an affected device. A successful exploit could allow the attacker to bypass a geolocation-based access control policy and successfully send traffic to a protected device.\n\nPublication Date: Thu Oct 24 18:10:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20431"
+            ]
+        },
+        {
+            "Message ID": 89725,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-37292\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37292\n\nDescription: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability in HGiga iSherlock 4.5 (iSherlock-user modules), HGiga iSherlock 5.5 (iSherlock-user modules) allows OS Command Injection.This issue affects iSherlock 4.5: before iSherlock-user-4.5-174; iSherlock 5.5: before iSherlock-user-5.5-174.\n\nPublication Date: Thu Oct 24 18:10:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37292"
+            ]
+        },
+        {
+            "Message ID": 89724,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-3806\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3806\n\nDescription: A vulnerability, which was classified as critical, was found in SourceCodester House Rental and Property Listing System 1.0. Affected is an unknown function of the file btn_functions.php. The manipulation leads to unrestricted upload. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-235074 is the identifier assigned to this vulnerability.\n\nPublication Date: Thu Oct 24 18:09:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3806"
+            ]
+        },
+        {
+            "Message ID": 89723,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-32625\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-32625\n\nDescription: Cross-site request forgery (CSRF) vulnerability in TS Webfonts for SAKURA 3.1.2 and earlier allows a remote unauthenticated attacker to hijack the authentication of a user and to change settings by having a user view a malicious page.\n\nPublication Date: Thu Oct 24 18:09:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-32625"
+            ]
+        },
+        {
+            "Message ID": 89722,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-23547\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-23547\n\nDescription: A directory traversal vulnerability exists in the luci2-io file-export mib functionality of Milesight UR32L v32.3.0.5. A specially crafted network request can lead to arbitrary file read. An attacker can send a network request to trigger this vulnerability.\n\nPublication Date: Thu Oct 24 18:09:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-23547"
+            ]
+        },
+        {
+            "Message ID": 89721,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-30678\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-30678\n\nDescription: Potential zip path traversal vulnerability in Calendar application prior to version 12.4.07.15 in Android 13 allows attackers to write arbitrary file.\n\nPublication Date: Thu Oct 24 18:09:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Android"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-30678"
+            ]
+        },
+        {
+            "Message ID": 89720,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-30676\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-30676\n\nDescription: Improper access control vulnerability in Samsung Pass prior to version 4.2.03.1 allows physical attackers to access data of Samsung Pass.\n\nPublication Date: Thu Oct 24 18:09:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Samsung Pass"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-30676"
+            ]
+        },
+        {
+            "Message ID": 89719,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-20555\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20555\n\nDescription: Insufficient input validation in\nCpmDisplayFeatureSmm may allow an attacker to corrupt SMM memory by overwriting\nan arbitrary bit in an attacker-controlled pointer potentially leading to\narbitrary code execution in SMM.\n\nPublication Date: Thu Oct 24 18:08:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20555"
+            ]
+        },
+        {
+            "Message ID": 89718,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-30675\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-30675\n\nDescription: Improper authentication in Samsung Pass prior to version 4.2.03.1 allows local attacker to access stored account information when Samsung Wallet is not installed.\n\nPublication Date: Thu Oct 24 18:08:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Samsung Pass"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-30675"
+            ]
+        },
+        {
+            "Message ID": 89717,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-32624\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-32624\n\nDescription: Cross-site scripting vulnerability in TS Webfonts for SAKURA 3.1.0 and earlier allows a remote unauthenticated attacker to inject an arbitrary script.\n\nPublication Date: Thu Oct 24 18:08:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-32624"
+            ]
+        },
+        {
+            "Message ID": 89716,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-33777\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33777\n\nDescription: An issue in /functions/fbaorder.php of Prestashop amazon before v5.2.24 allows attackers to execute a directory traversal attack.\n\nPublication Date: Thu Oct 24 18:08:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33777"
+            ]
+        },
+        {
+            "Message ID": 89715,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-32232\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-32232\n\nDescription: An issue was discovered in Vasion PrinterLogic Client for Windows before 25.0.0.836. During client installation and repair, a PrinterLogic binary is called by the installer to configure the device. This window is not hidden, and is running with elevated privileges. A standard user can break out of this window, obtaining a full SYSTEM command prompt window. This results in complete compromise via arbitrary SYSTEM code execution (elevation of privileges).\n\nPublication Date: Thu Oct 24 18:08:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-32232"
+            ]
+        },
+        {
+            "Message ID": 89714,
+            "discovered": "2024-10-24",
+            "post_title": "Vulnerability ID: CVE-2024-8625\n\nDescription: The TS Poll  WordPress plugin before 2.4.0 does not sanitize and escape a parameter before using it in a SQL statement, allowing admins to perform SQL injection attacks\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-8625\n\nDate of Publishing: 2024/10/24\n\nLink to Exploit: https://wpscan.com/vulnerability/ab4d7065-4ea2-4233-9593-0f540f91f45e/\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8625",
+                "https://wpscan.com/vulnerability/ab4d7065-4ea2-4233-9593-0f540f91f45e/"
             ]
         }
     ]
