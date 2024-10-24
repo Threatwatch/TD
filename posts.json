@@ -1833,6 +1833,54 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-employee-emails-from-scouts-et-guides-de-france/"
             ]
+        },
+        {
+            "Message ID": 5847,
+            "discovered": "2024-10-24",
+            "post_title": "🚨🇺🇦RipperSec Targeted the Website of Minoko\n\nhttps://darkwebinformer.com/rippersec-targeted-the-website-of-minoko/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Minoko"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rippersec-targeted-the-website-of-minoko/"
+            ]
+        },
+        {
+            "Message ID": 5846,
+            "discovered": "2024-10-24",
+            "post_title": "🚨🇮🇳Al Ahad Targeted Multiple Websites in India\n\nhttps://darkwebinformer.com/al-ahad-targeted-multiple-websites-in-india/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/al-ahad-targeted-multiple-websites-in-india/"
+            ]
+        },
+        {
+            "Message ID": 5845,
+            "discovered": "2024-10-24",
+            "post_title": "🚨🇮🇳VoltActivist Defaced the Website of Gift Gallery Kanpur\n\nhttps://darkwebinformer.com/voltactivist-defaced-the-website-of-gift-gallery-kanpur/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/voltactivist-defaced-the-website-of-gift-gallery-kanpur/"
+            ]
+        },
+        {
+            "Message ID": 5844,
+            "discovered": "2024-10-24",
+            "post_title": "🚨🇺🇸Z-BL4CX-H4T Defaced the Website of Pantheon Platform\n\nhttps://darkwebinformer.com/z-bl4cx-h4t-defaced-the-website-of-pantheon-platform-2/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/z-bl4cx-h4t-defaced-the-website-of-pantheon-platform-2/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -18766,6 +18814,18 @@
             "URLs": [
                 "https://t.co/LSctOLFG5q"
             ]
+        },
+        {
+            "Message ID": 3302,
+            "discovered": "2024-10-24",
+            "post_title": "Group: threeam\nApprox. Time: 14:38 24/10/24\nTitle: https://t.co/xc3lYIyODU",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/xc3lYIyODU"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -25571,6 +25631,54 @@
             ],
             "URLs": [
                 "thompsoncreek.com"
+            ]
+        },
+        {
+            "Message ID": 89713,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Autobell breach impacts over 52K\n\nDate: October 24, 2024\n\nSource: https://www.scworld.com/brief/autobell-breach-impacts-over-52k\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/autobell-breach-impacts-over-52k"
+            ]
+        },
+        {
+            "Message ID": 89712,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Mallox ransomware decryption tool issued by Avast\n\nDate: October 24, 2024\n\nSource: https://www.scworld.com/brief/mallox-ransomware-decryption-tool-issued-by-avast\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/mallox-ransomware-decryption-tool-issued-by-avast"
+            ]
+        },
+        {
+            "Message ID": 89711,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Rhysida demands $1.3M ransom from disability nonprofit Easterseals\n\nDate: October 24, 2024\n\nSource: https://www.scworld.com/brief/rhysida-demands-1-3m-ransom-from-disability-nonprofit-easterseals\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Rhysida"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/rhysida-demands-1-3m-ransom-from-disability-nonprofit-easterseals"
+            ]
+        },
+        {
+            "Message ID": 89710,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Attacks exploiting Microsoft SharePoint, Samsung processor bugs underway\n\nDate: October 24, 2024\n\nSource: https://www.scworld.com/brief/attacks-exploiting-microsoft-sharepoint-samsung-processor-bugs-underway\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/attacks-exploiting-microsoft-sharepoint-samsung-processor-bugs-underway"
             ]
         }
     ]
