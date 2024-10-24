@@ -21067,6 +21067,31 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18158"
             ]
+        },
+        {
+            "Message ID": 3865,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18163\n⚠ Thu, 17 Oct 2024 21:13:05 UTC\n🥷 qilin\n🎯 Valu-Trac Investment Management Ltd., UK\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18163",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18163"
+            ]
+        },
+        {
+            "Message ID": 3864,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18162\n⚠ Thu, 17 Oct 2024 21:11:12 UTC\n🥷 qilin\n🎯 Propak Corp., USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18162",
+            "Attack Type": "Unknown",
+            "Location": [
+                "qilin",
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18162"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -27888,6 +27913,102 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-47883"
+            ]
+        },
+        {
+            "Message ID": 89847,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-45261\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45261\n\nDescription: An issue was discovered on certain GL-iNet devices, including MT6000, MT3000, MT2500, AXT1800, and AX1800 4.6.2. The SID generated for a specific user is not tied to that user itself, which allows other users to potentially use it for authentication. Once an attacker bypasses the application's authentication procedures, they can generate a valid SID, escalate privileges, and gain full control.\n\nPublication Date: Fri Oct 25 00:28:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "AXT1800"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45261"
+            ]
+        },
+        {
+            "Message ID": 89846,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-45262\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45262\n\nDescription: An issue was discovered on certain GL-iNet devices, including MT6000, MT3000, MT2500, AXT1800, and AX1800 4.6.2. The params parameter in the call method of the /rpc endpoint is vulnerable to arbitrary directory traversal, which enables attackers to execute scripts under any path.\n\nPublication Date: Fri Oct 25 00:28:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "AXT1800"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45262"
+            ]
+        },
+        {
+            "Message ID": 89845,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-10327\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10327\n\nDescription: A vulnerability in Okta Verify for iOS versions 9.25.1 (beta) and 9.27.0 (including beta) allows push notification responses through the iOS ContextExtension feature allowing the authentication to proceed regardless of the user’s selection. When a user long-presses the notification banner and selects an option, both options allow the authentication to succeed. \nThe ContextExtension feature is one of several push mechanisms available when using Okta Verify Push on iOS devices. The vulnerable flows include: \n* When a user is presented with a notification on a locked screen, the user presses on the notification directly and selects their reply without unlocking the device; \n* When a user is presented with a notification on the home screen and drags the notification down and selects their reply; \n* When an Apple Watch is used to reply directly to a notification. \n\n A pre-condition for this vulnerability is that the user must have enrolled in Okta Verify while the Okta customer was using Okta Classic. This applies irrespective of whether the organization has since upgraded to Okta Identity Engine.\n\nPublication Date: Fri Oct 25 00:28:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10327"
+            ]
+        },
+        {
+            "Message ID": 89844,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-45263\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45263\n\nDescription: An issue was discovered on certain GL-iNet devices, including MT6000, MT3000, MT2500, AXT1800, and AX1800 4.6.2. The upload interface allows the uploading of arbitrary files to the device. Once the device executes the files, it can lead to information leakage, enabling complete control.\n\nPublication Date: Fri Oct 25 00:28:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "AXT1800"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45263"
+            ]
+        },
+        {
+            "Message ID": 89843,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-47880\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47880\n\nDescription: OpenRefine is a free, open source tool for working with messy data. Prior to version 3.8.3, the `export-rows` command can be used in such a way that it reflects part of the request verbatim, with a Content-Type header also taken from the request. An attacker could lead a user to a malicious page that submits a form POST that contains  embedded JavaScript code. This code would then be included in the response, along with an attacker-controlled `Content-Type` header, and so potentially executed in the victim's browser as if it was part of OpenRefine. The attacker-provided code can do anything the user can do, including deleting projects, retrieving database passwords, or executing arbitrary Jython or Closure expressions, if those extensions are also present. The attacker must know a valid project ID of a project that contains at least one row. Version 3.8.3 fixes the issue.\n\nPublication Date: Fri Oct 25 00:27:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47880"
+            ]
+        },
+        {
+            "Message ID": 89842,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-49871\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49871\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nInput: adp5589-keys - fix NULL pointer dereference\n\nWe register a devm action to call adp5589_clear_config() and then pass\nthe i2c client as argument so that we can call i2c_get_clientdata() in\norder to get our device object. However, i2c_set_clientdata() is only\nbeing set at the end of the probe function which means that we'll get a\nNULL pointer dereference in case the probe function fails early.\n\nPublication Date: Fri Oct 25 00:27:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49871"
+            ]
+        },
+        {
+            "Message ID": 89841,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Protect Your Weakest Link: New Account Linking Capabilities Use AI to Thwart Identity-Based Attacks\n\nDate: October 24, 2024\n\nSource: https://www.crowdstrike.com/en-us/blog/new-account-linking-capabilities-crowdstrike-falcon-identity-protection/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.crowdstrike.com/en-us/blog/new-account-linking-capabilities-crowdstrike-falcon-identity-protection/"
+            ]
+        },
+        {
+            "Message ID": 89840,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-49874\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49874\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ni3c: master: svc: Fix use after free vulnerability in svc_i3c_master Driver Due to Race Condition\n\nIn the svc_i3c_master_probe function, &master->hj_work is bound with\nsvc_i3c_master_hj_work, &master->ibi_work is bound with\nsvc_i3c_master_ibi_work. And svc_i3c_master_ibi_work  can start the\nhj_work, svc_i3c_master_irq_handler can start the ibi_work.\n\nIf we remove the module which will call svc_i3c_master_remove to\nmake cleanup, it will free master->base through i3c_master_unregister\nwhile the work mentioned above will be used. The sequence of operations\nthat may lead to a UAF bug is as follows:\n\nCPU0                                         CPU1\n\n                                    | svc_i3c_master_hj_work\nsvc_i3c_master_remove               |\ni3c_master_unregister(&master->base)|\ndevice_unregister(&master->dev)     |\ndevice_release                      |\n//free master->base                 |\n                                    | i3c_master_do_daa(&master->base)\n                                    | //use master->base\n\nFix it by ensuring that the work is canceled before proceeding with the\ncleanup in svc_i3c_master_remove.\n\nPublication Date: Fri Oct 25 00:18:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49874"
             ]
         }
     ]
