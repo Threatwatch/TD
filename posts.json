@@ -6451,6 +6451,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5257,
+            "discovered": "2024-10-24",
+            "post_title": "https://www.limesonline.com/rivista/l-uso-dell-intelligenza-artificiale-di-israele-nella-guerra-a-gaza-e-in-libano-17526566/?ref=pay_amp&_gl=1*e5ct94*_ga*T3RpdGhiOVYxbExPeWpvdG4tVFlQeUtRWWwtRUVJZ2hEczM0VW5wNnFGQ2FmT2daMFFQSy0wUHdpUjFSb1JFWQ..*_ga_2QQ8Y0ETDB*MTcyOTc2NzY4OC4xLjEuMTcyOTc2NzY4OC4wLjAuMA..",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.limesonline.com/rivista/l-uso-dell-intelligenza-artificiale-di-israele-nella-guerra-a-gaza-e-in-libano-17526566/?ref=pay_amp&_gl=1*e5ct94*_ga*T3RpdGhiOVYxbExPeWpvdG4tVFlQeUtRWWwtRUVJZ2hEczM0VW5wNnFGQ2FmT2daMFFQSy0wUHdpUjFSb1JFWQ..*_ga_2QQ8Y0ETDB*MTcyOTc2NzY4OC4xLjEuMTcyOTc2NzY4OC4wLjAuMA"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
@@ -24781,6 +24793,18 @@
             ],
             "URLs": [
                 "tps://sinister.ly/Thread-Mail-GoogltVoice-Verification\n\n"
+            ]
+        },
+        {
+            "Message ID": 89652,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Talos IR trends Q3 2024: Identity-based operations loom large\n\nDate: October 24, 2024\n\nSource: https://blog.talosintelligence.com/incident-response-trends-q3-2024/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.talosintelligence.com/incident-response-trends-q3-2024/"
             ]
         }
     ]
