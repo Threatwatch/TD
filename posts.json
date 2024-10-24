@@ -23834,6 +23834,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 89597,
+            "discovered": "2024-10-23",
+            "post_title": "Title: New LLM jailbreak method with 65% success rate developed by researchers\n\nDate: October 23, 2024\n\nSource: https://www.scworld.com/news/new-llm-jailbreak-method-with-65-success-rate-developed-by-researchers\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/new-llm-jailbreak-method-with-65-success-rate-developed-by-researchers"
+            ]
         }
     ]
 }
