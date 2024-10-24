@@ -18670,6 +18670,30 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3300,
+            "discovered": "2024-10-24",
+            "post_title": "Group: cactus\nApprox. Time: 10:43 24/10/24\nTitle: https://t.co/KIrT9XHtLN\\$32M\\USA\\620GB\\&lt;1% DISCLOSED",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/KIrT9XHtLN\\$32M\\USA\\620GB\\&lt;1%"
+            ]
+        },
+        {
+            "Message ID": 3299,
+            "discovered": "2024-10-24",
+            "post_title": "Group: cactus\nApprox. Time: 10:43 24/10/24\nTitle: https://t.co/FTFPzbGWbM\\$16.7M\\United Kingdom\\829GB\\&lt;1% DISCLOSED",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/FTFPzbGWbM\\$16.7M\\United"
+            ]
         }
     ],
     "RansomfeedNews": [
