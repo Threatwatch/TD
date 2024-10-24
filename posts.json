@@ -2024,6 +2024,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5861,
+            "discovered": "2024-10-24",
+            "post_title": "A Threat Actor is Allegedly Selling the Database of AltsHeaven\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-altsheaven/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-altsheaven/"
+            ]
+        },
+        {
+            "Message ID": 5860,
+            "discovered": "2024-10-24",
+            "post_title": "🚨🇩🇪A Threat Actor is Allegedly Selling the Database of Ridgi-Pad GmbH\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-ridgi-pad-gmbh/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-ridgi-pad-gmbh/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -4437,6 +4461,16 @@
             "Message ID": 2385,
             "discovered": "2024-10-23",
             "post_title": "ارضيت يا رب خذ حتى ترضى 💔",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2386,
+            "discovered": "2024-10-24",
+            "post_title": "إنه الحاج قاسم عاصي (الشيخ) مربي للأجيال معلمهم مرشدهم في الكاشف  عرفناه مجاهد خلوقاً طيباً \nكان يصدح صوته دائما على  منبر سيد الشهداء عليه السلام معرفاً ناعيا بالشعر والرثاء شهداء كربلاء عليهم السلام ..\nهنيئا لك هذه الخاتمة الحاج قاسم عاصي شهيدا سعيدا \nانا لله وانا اليه راجعون 🥀💔🥀\nتم تبليغ الأهل🙏",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -26760,6 +26794,210 @@
             ],
             "URLs": [
                 "https://www.cybereason.com/blog/unlocking-the-potential-of-ai-in-cybersecurity-embracing-the-future-and-its-complexities"
+            ]
+        },
+        {
+            "Message ID": 89794,
+            "discovered": "2024-10-24",
+            "post_title": "Title: GitLab security advisory (AV24-610)\n\nDate: October 24, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-610\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av24-610"
+            ]
+        },
+        {
+            "Message ID": 89793,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Development Features Enabled in Prodcution, (Thu, Oct 24th)\n\nDate: October 24, 2024\n\nSource: https://isc.sans.edu/diary/rss/31380\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Prodcution"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/diary/rss/31380"
+            ]
+        },
+        {
+            "Message ID": 89792,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Cisco fixes VPN DoS flaw discovered in password spray attacks\n\nDate: October 24, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/cisco-fixes-vpn-dos-flaw-discovered-in-password-spray-attacks/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/cisco-fixes-vpn-dos-flaw-discovered-in-password-spray-attacks/"
+            ]
+        },
+        {
+            "Message ID": 89791,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-48544\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48544\n\nDescription: Incorrect access control in the firmware update and download processes of Sylvania Smart Home v3.0.3 allows attackers to access sensitive information by analyzing the code and data within the APK file.\n\nPublication Date: Thu Oct 24 21:13:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48544"
+            ]
+        },
+        {
+            "Message ID": 89790,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-48545\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48545\n\nDescription: Incorrect access control in the firmware update and download processes of IVY Smart v4.5.0 allows attackers to access sensitive information by analyzing the code and data within the APK file.\n\nPublication Date: Thu Oct 24 21:13:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48545"
+            ]
+        },
+        {
+            "Message ID": 89789,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-48547\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48547\n\nDescription: Incorrect access control in the firmware update and download processes of DreamCatcher Life v1.8.7 allows attackers to access sensitive information by analyzing the code and data within the APK file.\n\nPublication Date: Thu Oct 24 21:13:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48547"
+            ]
+        },
+        {
+            "Message ID": 89788,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-48548\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48548\n\nDescription: The APK file in Cloud Smart Lock v2.0.1 has a leaked a URL that can call an API for binding physical devices. This vulnerability allows attackers to arbitrarily construct a request to use the app to bind to unknown devices by finding a valid serial number via a bruteforce attack.\n\nPublication Date: Thu Oct 24 21:12:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48548"
+            ]
+        },
+        {
+            "Message ID": 89787,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-38314\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38314\n\nDescription: IBM Maximo Application Suite - Monitor Component 8.10, 8.11, and 9.0 could disclose information in the form of the hard-coded cryptographic key to an attacker that has compromised environment.\n\nPublication Date: Thu Oct 24 21:12:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38314"
+            ]
+        },
+        {
+            "Message ID": 89786,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-20260\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20260\n\nDescription: A vulnerability in the VPN and management web servers of the Cisco Adaptive Security Virtual Appliance (ASAv) and Cisco Secure Firewall Threat Defense Virtual (FTDv), formerly Cisco Firepower Threat Defense Virtual, platforms could allow an unauthenticated, remote attacker to cause the virtual devices to run out of system memory, which could cause SSL VPN connection processing to slow down and eventually cease all together.\n\nThis vulnerability is due to a lack of proper memory management for new incoming SSL/TLS connections on the virtual platforms. An attacker could exploit this vulnerability by sending a large number of new incoming SSL/TLS connections to the targeted virtual platform. A successful exploit could allow the attacker to deplete system memory,&nbsp;resulting in a denial of service (DoS) condition. The memory could be reclaimed slowly if the attack traffic is stopped, but a manual reload may be required to restore operations quickly.\n\nPublication Date: Thu Oct 24 21:12:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20260"
+            ]
+        },
+        {
+            "Message ID": 89785,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-20374\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20374\n\nDescription: A vulnerability in the web-based management interface of Cisco Secure Firewall Management Center (FMC) Software, formerly Firepower Management Center Software, could allow an authenticated, remote attacker with Administrator-level privileges to execute arbitrary commands on the underlying operating system.\n This vulnerability is due to insufficient input validation of certain HTTP request parameters that are sent to the web-based management interface. An attacker could exploit this vulnerability by authenticating to the Cisco FMC web-based management interface and sending a crafted HTTP request to an affected device. A successful exploit could allow the attacker to execute commands as the root user on the affected device. To exploit this vulnerability, an attacker would need Administrator-level credentials.\n\nPublication Date: Thu Oct 24 21:12:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20374"
+            ]
+        },
+        {
+            "Message ID": 89784,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-30648\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-30648\n\nDescription: Stack out-of-bounds write vulnerability in IpcRxImeiUpdateImeiNoti of RILD priro to SMR Jul-2023 Release 1 cause a denial of service on the system.\n\nPublication Date: Thu Oct 24 21:12:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-30648"
+            ]
+        },
+        {
+            "Message ID": 89783,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-20370\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20370\n\nDescription: A vulnerability in the Cisco FXOS CLI feature on specific hardware platforms for Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an authenticated, local attacker to elevate their administrative privileges to root. The attacker would need valid administrative credentials on the device to exploit this vulnerability. This vulnerability exists because certain system configurations and executable files have insecure storage and permissions. An attacker could exploit this vulnerability by authenticating on the device and then performing a series of steps that includes downloading malicious system files and accessing the Cisco FXOS CLI to configure the attack. A successful exploit could allow the attacker to obtain root access on the device.\n\nPublication Date: Thu Oct 24 21:12:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20370"
+            ]
+        },
+        {
+            "Message ID": 89782,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-26217\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-26217\n\nDescription: The Data Exchange Add-on component of TIBCO Software Inc.'s TIBCO EBX Add-ons contains an easily exploitable vulnerability that allows a low privileged user with import permissions and network access to the EBX server to execute arbitrary SQL statements on the affected system. Affected releases are TIBCO Software Inc.'s TIBCO EBX Add-ons: versions 4.5.17 and below, versions 5.6.2 and below, version 6.1.0.\n\nPublication Date: Thu Oct 24 21:11:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-26217"
+            ]
+        },
+        {
+            "Message ID": 89781,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-30643\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-30643\n\nDescription: Missing authentication vulnerability in Galaxy Themes Service prior to SMR Jul-2023 Release 1 allows local attackers to delete arbitrary non-preloaded applications.\n\nPublication Date: Thu Oct 24 21:11:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-30643"
+            ]
+        },
+        {
+            "Message ID": 89780,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-20220\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20220\n\nDescription: Multiple vulnerabilities in the web-based management interface of Cisco Firepower Management Center (FMC) Software could allow an authenticated, remote attacker to execute arbitrary commands on the underlying operating system. To exploit these vulnerabilities, the attacker must have valid device credentials, but does not need Administrator privileges. These vulnerabilities are due to insufficient validation of user-supplied input for certain configuration options. An attacker could exploit these vulnerabilities by using crafted input within the device configuration GUI. A successful exploit could allow the attacker to execute arbitrary commands on the device, including on the underlying operating system, which could also affect the availability of the device.\n\nPublication Date: Thu Oct 24 21:11:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20220"
+            ]
+        },
+        {
+            "Message ID": 89779,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-30642\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-30642\n\nDescription: Improper privilege management vulnerability in Galaxy Themes Service prior to SMR Jul-2023 Release 1 allows local attackers to call privilege function.\n\nPublication Date: Thu Oct 24 21:11:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-30642"
+            ]
+        },
+        {
+            "Message ID": 89778,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-20219\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20219\n\nDescription: Multiple vulnerabilities in the web management interface of Cisco Firepower Management Center (FMC) Software could allow an authenticated, remote attacker to execute arbitrary commands on the underlying operating system. The attacker would need valid device credentials but does not require administrator privileges to exploit this vulnerability. These vulnerabilities are due to insufficient validation of user-supplied input for certain configuration options. An attacker could exploit these vulnerabilities by using crafted input within the device configuration GUI. A successful exploit could allow the attacker to execute arbitrary commands on the device including the underlying operating system which could also affect the availability of the device.\n\nPublication Date: Thu Oct 24 21:11:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20219"
             ]
         }
     ]
