@@ -19063,6 +19063,16 @@
             "URLs": [
                 "https://t.co/Lz631pL7wN"
             ]
+        },
+        {
+            "Message ID": 3305,
+            "discovered": "2024-10-24",
+            "post_title": "Group: blackbasta\nApprox. Time: 16:40 24/10/24\nTitle: Tuggle Duggins",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -26427,6 +26437,30 @@
             ],
             "URLs": [
                 "https://eclypsium.com/blog/the-rise-of-chinese-apt-campaigns-volt-typhoon-salt-typhoon-flax-typhoon-and-velvet-ant/"
+            ]
+        },
+        {
+            "Message ID": 89755,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Audit + Beyond 2024: AI and the Future of Compliance — Three minutes with Anton Dam, AuditBoard’s AI champ\n\nDate: October 24, 2024\n\nSource: https://www.scworld.com/news/audit-beyond-2024-ai-and-the-future-of-compliance-three-minutes-with-anton-dam-auditboards-ai-champ\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/audit-beyond-2024-ai-and-the-future-of-compliance-three-minutes-with-anton-dam-auditboards-ai-champ"
+            ]
+        },
+        {
+            "Message ID": 89754,
+            "discovered": "2024-10-24",
+            "post_title": "Title: New Qilin.B Ransomware Variant Emerges with Improved Encryption and Evasion Tactics\n\nDate: Oct 24, 2024\n\nSource: https://thehackernews.com/2024/10/new-qilinb-ransomware-variant-emerges.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/new-qilinb-ransomware-variant-emerges.html"
             ]
         }
     ]
