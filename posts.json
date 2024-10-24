@@ -24614,6 +24614,42 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 89644,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-6049\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-6049\n\nDescription: The web server of Lawo AG vsm LTC Time Sync (vTimeSync) is affected by a \"...\" (triple dot) path traversal vulnerability. By sending a specially crafted HTTP request, an unauthenticated remote attacker could download arbitrary files from the operating system. As a limitation, the exploitation is only possible if the requested file has some file extension, e. g. .exe or .txt.\n\nPublication Date: Thu Oct 24 12:06:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-6049"
+            ]
+        },
+        {
+            "Message ID": 89643,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-10050\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10050\n\nDescription: The Elementor Header & Footer Builder plugin for WordPress is vulnerable to Information Disclosure in all versions up to, and including, 1.6.43 via the hfe_template shortcode. This makes it possible for authenticated attackers, with Contributor-level access and above, to view the contents of Draft, Private and Password-protected posts they do not own.\n\nPublication Date: Thu Oct 24 12:05:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10050"
+            ]
+        },
+        {
+            "Message ID": 89642,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-8717\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8717\n\nDescription: The PDF Flipbook, 3D Flipbook, PDF embed, PDF viewer – DearFlip plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the 'pdf_source' parameter in all versions up to, and including, 2.3.32 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.\n\nPublication Date: Thu Oct 24 12:05:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8717"
+            ]
         }
     ]
 }
