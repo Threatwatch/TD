@@ -1775,6 +1775,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5839,
+            "discovered": "2024-10-24",
+            "post_title": "Closing this poll on Friday. Once closed I'll take the top 3 and then start looking.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -6408,6 +6418,16 @@
                 "Bangladesh",
                 "Awami",
                 "Awami"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5254,
+            "discovered": "2024-10-24",
+            "post_title": "RU:\n⚠️⚠️Взломана база данных Национальной службы океанических и атмосферных исследований США\n\nSOS — Система наблюдения за поверхностью\nокеана (Surface Ocean System)\n\nKaliHunt/Alliance \nDataBase \n\nEU:\n⚠️⚠️US National Oceanic and Atmospheric Administration Database Hacked\n\nSOS — Surface Ocean System\n\nKaliHunt/Alliance\nDataBase",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
@@ -24024,6 +24044,42 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 89609,
+            "discovered": "2024-10-24",
+            "post_title": "Title: 2024-10-23 - Redline Stealer infection\n\nDate: October 24, 2024\n\nSource: https://www.malware-traffic-analysis.net/2024/10/23/index.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malware-traffic-analysis.net/2024/10/23/index.html"
+            ]
+        },
+        {
+            "Message ID": 89608,
+            "discovered": "2024-10-24",
+            "post_title": "Title: 2024-10-17 - Two days of server scans and probes and web traffic\n\nDate: October 24, 2024\n\nSource: https://www.malware-traffic-analysis.net/2024/10/17/index.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malware-traffic-analysis.net/2024/10/17/index.html"
+            ]
+        },
+        {
+            "Message ID": 89607,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: lifeminetx.com\n\nDetection Date: Thu Oct 24 05:22:01 2024\n\nThreat Actor: lynx\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "lifeminetx.com"
+            ]
         }
     ]
 }
