@@ -24842,6 +24842,139 @@
             "URLs": [
                 "https://cujo.com/blog/phishing-for-votes-in-the-upcoming-us-election/"
             ]
+        },
+        {
+            "Message ID": 89666,
+            "discovered": "2024-10-24",
+            "post_title": "Title: What is the difference between a data leak and a data breach?\n\nDate: October 24, 2024\n\nSource: https://www.pandasecurity.com/en/mediacenter/difference-between-data-leak-and-data-breach/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.pandasecurity.com/en/mediacenter/difference-between-data-leak-and-data-breach/"
+            ]
+        },
+        {
+            "Message ID": 89665,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Sinisterly - 🚀 TARGETED PC APP INSTALLS - EU | ASIA | LATIN AMERICA | TIER 1 | CUSTOM 🚀\n\nDetection Date: Thu Oct 24 15:35:03 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-%F0%9F%9A%80-TARGETED-PC-APP-INSTALLS-EU-ASIA-LATIN-AMERICA-TIER-1-CUSTOM-%F0%9F%9A%80\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://sinister.ly/Thread-%F0%9F%9A%80-TARGETED-PC-APP-INSTALLS-EU-ASIA-LATIN-AMERICA-TIER-1-CUSTOM-%F0%9F%9A%80\n\n"
+            ]
+        },
+        {
+            "Message ID": 89664,
+            "discovered": "2024-10-24",
+            "post_title": "Title: CISO Survival Guide: Commercial Software Supply Chain Risk\n\nDate: October 24, 2024\n\nSource: https://www.reversinglabs.com/blog/ciso-survival-guide-commercial-software-supply-chain-risk\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.reversinglabs.com/blog/ciso-survival-guide-commercial-software-supply-chain-risk"
+            ]
+        },
+        {
+            "Message ID": 89663,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-10176\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10176\n\nDescription: The Compact WP Audio Player plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's \nsc_embed_player shortcode in all versions up to, and including, 1.9.13 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Thu Oct 24 15:02:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10176"
+            ]
+        },
+        {
+            "Message ID": 89662,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-10331\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10331\n\nDescription: A vulnerability, which was classified as critical, has been found in PHPGurukul Vehicle Record System 1.0. This issue affects some unknown processing of the file /admin/search-vehicle.php. The manipulation of the argument searchinputdata leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Oct 24 15:01:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10331"
+            ]
+        },
+        {
+            "Message ID": 89661,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-9214\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9214\n\nDescription: The Extra Product Options Builder for WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'RednaoSerializedFields' parameter during the creation of a signature file in all versions up to, and including, 1.2.133 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Thu Oct 24 15:01:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9214"
+            ]
+        },
+        {
+            "Message ID": 89660,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-9650\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9650\n\nDescription: The WP Recipe Maker plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘tooltip’ parameter in all versions up to, and including, 9.6.1 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Thu Oct 24 15:01:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9650"
+            ]
+        },
+        {
+            "Message ID": 89659,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-8959\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8959\n\nDescription: The WP Adminify – Custom WordPress Dashboard, Login and Admin Customizer plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in all versions up to, and including, 4.0.1.6 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Author-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.\n\nPublication Date: Thu Oct 24 15:01:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8959",
+                "4.0.1.6"
+            ]
+        },
+        {
+            "Message ID": 89658,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-49682\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49682\n\nDescription: URL Redirection to Untrusted Site ('Open Redirect') vulnerability in smp7, wp.Insider Simple Membership allows Phishing.This issue affects Simple Membership: from n/a through 4.5.3.\n\nPublication Date: Thu Oct 24 15:01:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "smp7"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49682"
+            ]
+        },
+        {
+            "Message ID": 89657,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-49683\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49683\n\nDescription: Missing Authorization vulnerability in Schema & Structured Data for WP & AMP allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Schema & Structured Data for WP & AMP: from n/a through 1.3.5.\n\nPublication Date: Thu Oct 24 15:01:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49683"
+            ]
+        },
+        {
+            "Message ID": 89656,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-5608\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-5608\n\nDescription: Zohocorp ManageEngine ADAudit Plus versions below 8121 are vulnerable to SQL Injection in the technician reports feature.\n\nPublication Date: Thu Oct 24 15:00:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-5608"
+            ]
         }
     ]
 }
