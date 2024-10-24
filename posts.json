@@ -1785,6 +1785,54 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5843,
+            "discovered": "2024-10-24",
+            "post_title": "https://t.me/evilmorocco/121\n\ndidn't know DDoSing is sending viruses",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/evilmorocco/121"
+            ]
+        },
+        {
+            "Message ID": 5842,
+            "discovered": "2024-10-24",
+            "post_title": "🚨🇳🇴A Threat Actor is Allegedly Selling Crypto Leads from Norway\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-crypto-leads-from-norway/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Norway"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-crypto-leads-from-norway/"
+            ]
+        },
+        {
+            "Message ID": 5841,
+            "discovered": "2024-10-24",
+            "post_title": "🚨🇮🇳A Threat Actor is Allegedly Selling Insurance Data from the Life Insurance Corporation of India\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-insurance-data-from-the-life-insurance-corporation-of-india/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-insurance-data-from-the-life-insurance-corporation-of-india/"
+            ]
+        },
+        {
+            "Message ID": 5840,
+            "discovered": "2024-10-24",
+            "post_title": "🚨🇫🇷A Threat Actor Allegedly Leaked Employee Emails from Scouts et Guides de France\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-employee-emails-from-scouts-et-guides-de-france/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-employee-emails-from-scouts-et-guides-de-france/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -20243,6 +20291,32 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18133"
             ]
+        },
+        {
+            "Message ID": 3841,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18136\n⚠ Thu, 24 Oct 2024 10:06:33 UTC\n🥷 cactus\n🎯 bcllegal.com, UK\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18136",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "llegal.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18136"
+            ]
+        },
+        {
+            "Message ID": 3840,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18135\n⚠ Thu, 24 Oct 2024 10:09:50 UTC\n🥷 cactus\n🎯 picsolve.com, UK\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18135",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "csolve.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18135"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -25129,6 +25203,374 @@
             ],
             "URLs": [
                 "apachemills.com"
+            ]
+        },
+        {
+            "Message ID": 89709,
+            "discovered": "2024-10-24",
+            "post_title": "Title: New Fortinet FortiManager bug subjected to months-long exploitation\n\nDate: October 24, 2024\n\nSource: https://www.scworld.com/brief/new-fortinet-fortimanager-bug-subjected-to-months-long-exploitation\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/new-fortinet-fortimanager-bug-subjected-to-months-long-exploitation"
+            ]
+        },
+        {
+            "Message ID": 89708,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Fraudulent DeFi game leveraged in new crypto investor-targeted Lazarus attack\n\nDate: October 24, 2024\n\nSource: https://www.scworld.com/brief/fraudulent-defi-game-leveraged-in-new-crypto-investor-targeted-lazarus-attack\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/fraudulent-defi-game-leveraged-in-new-crypto-investor-targeted-lazarus-attack"
+            ]
+        },
+        {
+            "Message ID": 89707,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Increased stealth integrated into novel Grandoreiro banking trojan variants\n\nDate: October 24, 2024\n\nSource: https://www.scworld.com/brief/increased-stealth-integrated-into-novel-grandoreiro-banking-trojan-variants\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Grandoreiro"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/increased-stealth-integrated-into-novel-grandoreiro-banking-trojan-variants"
+            ]
+        },
+        {
+            "Message ID": 89706,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2022-3448\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-3448\n\nDescription: Use after free in Permissions API in Google Chrome prior to 106.0.5249.119 allowed a remote attacker who convinced a user to engage in specific UI gestures to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)\n\nPublication Date: Thu Oct 24 17:22:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-3448"
+            ]
+        },
+        {
+            "Message ID": 89705,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2022-3447\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-3447\n\nDescription: Inappropriate implementation in Custom Tabs in Google Chrome on Android prior to 106.0.5249.119 allowed a remote attacker to spoof the contents of the Omnibox (URL bar) via a crafted HTML page. (Chromium security severity: High)\n\nPublication Date: Thu Oct 24 17:22:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-3447"
+            ]
+        },
+        {
+            "Message ID": 89704,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2022-3446\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-3446\n\nDescription: Heap buffer overflow in WebSQL in Google Chrome prior to 106.0.5249.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)\n\nPublication Date: Thu Oct 24 17:22:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "WebSQL"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-3446"
+            ]
+        },
+        {
+            "Message ID": 89703,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2022-35808\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35808\n\nDescription: Azure Site Recovery Elevation of Privilege Vulnerability\n\nPublication Date: Thu Oct 24 17:21:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35808"
+            ]
+        },
+        {
+            "Message ID": 89702,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2022-35807\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35807\n\nDescription: Azure Site Recovery Elevation of Privilege Vulnerability\n\nPublication Date: Thu Oct 24 17:21:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35807"
+            ]
+        },
+        {
+            "Message ID": 89701,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-49693\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49693\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Kraftplugins Mega Elements allows Stored XSS.This issue affects Mega Elements: from n/a through 1.2.6.\n\nPublication Date: Thu Oct 24 17:21:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49693"
+            ]
+        },
+        {
+            "Message ID": 89700,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2022-35806\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35806\n\nDescription: Azure RTOS GUIX Studio Remote Code Execution Vulnerability\n\nPublication Date: Thu Oct 24 17:21:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35806"
+            ]
+        },
+        {
+            "Message ID": 89699,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-35765\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35765\n\nDescription: PiiGAB M-Bus stores credentials in a plaintext file, which could allow a low-level user to gain admin credentials.\n\nPublication Date: Thu Oct 24 17:21:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35765"
+            ]
+        },
+        {
+            "Message ID": 89698,
+            "discovered": "2024-10-24",
+            "post_title": "Title: QEMU, MSYS2, and Emacs: Running Open-Source Virtual Machines on Windows\n\nDate: October 24, 2024\n\nSource: https://www.blackhillsinfosec.com/qemu-msys2-and-emacs/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.blackhillsinfosec.com/qemu-msys2-and-emacs/"
+            ]
+        },
+        {
+            "Message ID": 89697,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Russian Strategic Information Attack for Catastrophic Effect\n\nDate: October 24, 2024\n\nSource: https://www.recordedfuture.com/research/russian-strategic-information-attack-catastrophic-effect\n\n#News #Russia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Russia"
+            ],
+            "URLs": [
+                "https://www.recordedfuture.com/research/russian-strategic-information-attack-catastrophic-effect"
+            ]
+        },
+        {
+            "Message ID": 89696,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Samsung Galaxy S24 and Sonos Era hacked on Pwn2Own Ireland Day 2\n\nDate: October 24, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/samsung-galaxy-s24-and-sonos-era-hacked-on-pwn2own-ireland-day-2/\n\n#News #Ireland",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Ireland"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s24-and-sonos-era-hacked-on-pwn2own-ireland-day-2/"
+            ]
+        },
+        {
+            "Message ID": 89695,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-33868\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33868\n\nDescription: The number of login attempts is not limited. This could allow an attacker to perform a brute force on HTTP basic authentication.\n\nPublication Date: Thu Oct 24 17:09:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33868"
+            ]
+        },
+        {
+            "Message ID": 89694,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-49695\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49695\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Spiffy Plugins WP Flow Plus allows Stored XSS.This issue affects WP Flow Plus: from n/a through 5.2.3.\n\nPublication Date: Thu Oct 24 17:09:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49695"
+            ]
+        },
+        {
+            "Message ID": 89693,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-10180\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10180\n\nDescription: The Contact Form 7 – Repeatable Fields plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's field_group shortcode in all versions up to, and including, 2.0.1 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Thu Oct 24 17:09:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10180"
+            ]
+        },
+        {
+            "Message ID": 89692,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-49696\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49696\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in RoboSoft Robo Gallery allows Stored XSS.This issue affects Robo Gallery: from n/a through 3.2.21.\n\nPublication Date: Thu Oct 24 17:08:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49696"
+            ]
+        },
+        {
+            "Message ID": 89691,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: nanolive.ch\n\nDetection Date: Thu Oct 24 17:08:10 2024\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "nanolive.ch"
+            ]
+        },
+        {
+            "Message ID": 89690,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: Susan Fischgrund\n\nDetection Date: Thu Oct 24 17:07:55 2024\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89689,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: Sandro Forte Financial Support\n\nDetection Date: Thu Oct 24 17:07:39 2024\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89688,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: www.talonsolutions.co.uk\n\nDetection Date: Thu Oct 24 17:07:25 2024\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware #UnitedKingdom",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.talonsolutions.co.uk"
+            ]
+        },
+        {
+            "Message ID": 89687,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: trans-logik.com\n\nDetection Date: Thu Oct 24 17:07:09 2024\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "trans-logik.com"
+            ]
+        },
+        {
+            "Message ID": 89686,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: thebeautyclick.co.uk\n\nDetection Date: Thu Oct 24 17:06:55 2024\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware #UnitedKingdom",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "thebeautyclick.co.uk"
+            ]
+        },
+        {
+            "Message ID": 89685,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: robinhood.com\n\nDetection Date: Thu Oct 24 17:06:40 2024\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "robinhood.com"
+            ]
+        },
+        {
+            "Message ID": 89684,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: drizly.com\n\nDetection Date: Thu Oct 24 17:06:25 2024\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "drizly.com"
+            ]
+        },
+        {
+            "Message ID": 89683,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: filmai.in\n\nDetection Date: Thu Oct 24 17:06:11 2024\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "filmai.in"
+            ]
+        },
+        {
+            "Message ID": 89682,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: appen.com\n\nDetection Date: Thu Oct 24 17:05:56 2024\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "appen.com"
+            ]
+        },
+        {
+            "Message ID": 89681,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: mgfsourcing.com\n\nDetection Date: Thu Oct 24 17:05:41 2024\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "mgfsourcing.com"
+            ]
+        },
+        {
+            "Message ID": 89680,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: www.northernsafety.com\n\nDetection Date: Thu Oct 24 17:05:26 2024\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.northernsafety.com"
+            ]
+        },
+        {
+            "Message ID": 89679,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: thompsoncreek.com\n\nDetection Date: Thu Oct 24 17:05:11 2024\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "thompsoncreek.com"
             ]
         }
     ]
