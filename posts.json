@@ -6430,6 +6430,17 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5255,
+            "discovered": "2024-10-24",
+            "post_title": "Bangladesh military delegation participated in the multinational military exercise \"Indus Shield 2024\" in Pakistan.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Bangladesh",
+                "Pakistan"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -14728,6 +14739,17 @@
             "Attack Type": "Unknown",
             "Location": [
                 "машина"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 931,
+            "discovered": "2024-10-24",
+            "post_title": "We have more Surprises for Israel and USA!\nStay tuned...",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel",
+                "USA"
             ],
             "URLs": []
         }
