@@ -27250,6 +27250,18 @@
                 "https://pertanian.lomboktengahkab.go.id",
                 "http://www.zone-h.org/mirror/id/41292858"
             ]
+        },
+        {
+            "Message ID": 89810,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Third-party vendors drive 45% of breaches in US energy sector\n\nDate: October 24, 2024\n\nSource: https://www.scworld.com/news/third-party-vendors-drive-45-of-breaches-in-us-energy-sector\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/third-party-vendors-drive-45-of-breaches-in-us-energy-sector"
+            ]
         }
     ]
 }
