@@ -26056,6 +26056,42 @@
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-8625",
                 "https://wpscan.com/vulnerability/ab4d7065-4ea2-4233-9593-0f540f91f45e/"
             ]
+        },
+        {
+            "Message ID": 89735,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Understanding Human Risk in Cybersecurity\n\nDate: October 24, 2024\n\nSource: https://arcticwolf.com/resources/blog/understanding-human-risk-cybersecurity/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://arcticwolf.com/resources/blog/understanding-human-risk-cybersecurity/"
+            ]
+        },
+        {
+            "Message ID": 89734,
+            "discovered": "2024-10-24",
+            "post_title": "Title: CVE-2024-47575: Critical Vulnerability in FortiNet FortiManager Under Active Exploitation\n\nDate: October 24, 2024\n\nSource: https://arcticwolf.com/resources/blog/cve-2024-47575/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://arcticwolf.com/resources/blog/cve-2024-47575/"
+            ]
+        },
+        {
+            "Message ID": 89733,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Arctic Wolf Labs Observes Increased Fog and Akira Ransomware Activity Linked to SonicWall SSL VPN\n\nDate: October 24, 2024\n\nSource: https://arcticwolf.com/resources/blog/arctic-wolf-labs-observes-increased-fog-and-akira-ransomware-activity-linked-to-sonicwall-ssl-vpn/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://arcticwolf.com/resources/blog/arctic-wolf-labs-observes-increased-fog-and-akira-ransomware-activity-linked-to-sonicwall-ssl-vpn/"
+            ]
         }
     ]
 }
