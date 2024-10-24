@@ -24261,6 +24261,162 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-49911"
             ]
+        },
+        {
+            "Message ID": 89630,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Mandiant says new Fortinet flaw has been exploited since June\n\nDate: October 24, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/mandiant-says-new-fortinet-fortimanager-flaw-has-been-exploited-since-june/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/mandiant-says-new-fortinet-fortimanager-flaw-has-been-exploited-since-june/"
+            ]
+        },
+        {
+            "Message ID": 89629,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-49908\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49908\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amd/display: Add null check for 'afb' in amdgpu_dm_update_cursor (v2)\n\nThis commit adds a null check for the 'afb' variable in the\namdgpu_dm_update_cursor function. Previously, 'afb' was assumed to be\nnull at line 8388, but was used later in the code without a null check.\nThis could potentially lead to a null pointer dereference.\n\nChanges since v1:\n- Moved the null check for 'afb' to the line where 'afb' is used. (Alex)\n\nFixes the below:\ndrivers/gpu/drm/amd/amdgpu/../display/amdgpu_dm/amdgpu_dm.c:8433 amdgpu_dm_update_cursor()\n error: we previously assumed 'afb' could be null (see line 8388)\n\nPublication Date: Thu Oct 24 08:11:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49908"
+            ]
+        },
+        {
+            "Message ID": 89628,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-49898\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49898\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amd/display: Check null-initialized variables\n\n[WHAT & HOW]\ndrr_timing and subvp_pipe are initialized to null and they are not\nalways assigned new values. It is necessary to check for null before\ndereferencing.\n\nThis fixes 2 FORWARD_NULL issues reported by Coverity.\n\nPublication Date: Thu Oct 24 08:11:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49898"
+            ]
+        },
+        {
+            "Message ID": 89627,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-49905\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49905\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amd/display: Add null check for 'afb' in amdgpu_dm_plane_handle_cursor_update (v2)\n\nThis commit adds a null check for the 'afb' variable in the\namdgpu_dm_plane_handle_cursor_update function. Previously, 'afb' was\nassumed to be null, but was used later in the code without a null check.\nThis could potentially lead to a null pointer dereference.\n\nChanges since v1:\n- Moved the null check for 'afb' to the line where 'afb' is used. (Alex)\n\nFixes the below:\ndrivers/gpu/drm/amd/amdgpu/../display/amdgpu_dm/amdgpu_dm_plane.c:1298 amdgpu_dm_plane_handle_cursor_update() error: we previously assumed 'afb' could be null (see line 1252)\n\nPublication Date: Thu Oct 24 08:10:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49905"
+            ]
+        },
+        {
+            "Message ID": 89626,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-49906\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49906\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amd/display: Check null pointer before try to access it\n\n[why & how]\nChange the order of the pipe_ctx->plane_state check to ensure that\nplane_state is not null before accessing it.\n\nPublication Date: Thu Oct 24 08:10:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49906"
+            ]
+        },
+        {
+            "Message ID": 89625,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-49865\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49865\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/xe/vm: move xa_alloc to prevent UAF\n\nEvil user can guess the next id of the vm before the ioctl completes and\nthen call vm destroy ioctl to trigger UAF since create ioctl is still\nreferencing the same vm. Move the xa_alloc all the way to the end to\nprevent this.\n\nv2:\n - Rebase\n\n(cherry picked from commit dcfd3971327f3ee92765154baebbaece833d3ca9)\n\nPublication Date: Thu Oct 24 08:10:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49865"
+            ]
+        },
+        {
+            "Message ID": 89624,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-49896\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49896\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amd/display: Check stream before comparing them\n\n[WHAT & HOW]\namdgpu_dm can pass a null stream to dc_is_stream_unchanged. It is\nnecessary to check for null before dereferencing them.\n\nThis fixes 1 FORWARD_NULL issue reported by Coverity.\n\nPublication Date: Thu Oct 24 08:10:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49896"
+            ]
+        },
+        {
+            "Message ID": 89623,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2022-49027\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-49027\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\niavf: Fix error handling in iavf_init_module()\n\nThe iavf_init_module() won't destroy workqueue when pci_register_driver()\nfailed. Call destroy_workqueue() when pci_register_driver() failed to\nprevent the resource leak.\n\nSimilar to the handling of u132_hcd_init in commit f276e002793c\n(\"usb: u132-hcd: fix resource leak\")\n\nPublication Date: Thu Oct 24 08:10:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-49027"
+            ]
+        },
+        {
+            "Message ID": 89622,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2022-49026\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-49026\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ne100: Fix possible use after free in e100_xmit_prepare\n\nIn e100_xmit_prepare(), if we can't map the skb, then return -ENOMEM, so\ne100_xmit_frame() will return NETDEV_TX_BUSY and the upper layer will\nresend the skb. But the skb is already freed, which will cause UAF bug\nwhen the upper layer resends the skb.\n\nRemove the harmful free.\n\nPublication Date: Thu Oct 24 08:10:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "skb"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-49026"
+            ]
+        },
+        {
+            "Message ID": 89621,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2022-49025\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-49025\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet/mlx5e: Fix use-after-free when reverting termination table\n\nWhen having multiple dests with termination tables and second one\nor afterwards fails the driver reverts usage of term tables but\ndoesn't reset the assignment in attr->dests[num_vport_dests].termtbl\nwhich case a use-after-free when releasing the rule.\nFix by resetting the assignment of termtbl to null.\n\nPublication Date: Thu Oct 24 08:09:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-49025"
+            ]
+        },
+        {
+            "Message ID": 89620,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2022-49024\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-49024\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ncan: m_can: pci: add missing m_can_class_free_dev() in probe/remove methods\n\nIn m_can_pci_remove() and error handling path of m_can_pci_probe(),\nm_can_class_free_dev() should be called to free resource allocated by\nm_can_class_allocate_dev(), otherwise there will be memleak.\n\nPublication Date: Thu Oct 24 08:09:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "m_can_pci_probe"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-49024"
+            ]
+        },
+        {
+            "Message ID": 89619,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2022-49023\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-49023\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: cfg80211: fix buffer overflow in elem comparison\n\nFor vendor elements, the code here assumes that 5 octets\nare present without checking. Since the element itself is\nalready checked to fit, we only need to check the length.\n\nPublication Date: Thu Oct 24 08:09:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-49023"
+            ]
+        },
+        {
+            "Message ID": 89618,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-9374\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9374\n\nDescription: The Terms descriptions plugin for WordPress is vulnerable to Reflected Cross-Site Scripting due to the use of add_query_arg without appropriate escaping on the URL in all versions up to, and including, 3.4.6. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.\n\nPublication Date: Thu Oct 24 08:09:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9374"
+            ]
         }
     ]
 }
