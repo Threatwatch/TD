@@ -28391,6 +28391,150 @@
                 "https://crepn.gov.mz/Elz.html",
                 "http://www.zone-h.org/mirror/id/41292869"
             ]
+        },
+        {
+            "Message ID": 89872,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-10348\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10348\n\nDescription: A vulnerability was found in SourceCodester Best House Rental Management System 1.0. It has been classified as problematic. This affects an unknown part of the file /index.php?page=tenants of the component Manage Tenant Details. The manipulation of the argument Last Name/First Name/Middle Name leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory only shows the field \"Last Name\" to be affected. Other fields might be affected as well.\n\nPublication Date: Fri Oct 25 02:11:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10348"
+            ]
+        },
+        {
+            "Message ID": 89871,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-10349\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10349\n\nDescription: A vulnerability was found in SourceCodester Best House Rental Management System 1.0 and classified as critical. Affected by this issue is the function delete_tenant of the file /ajax.php?action=delete_tenant. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Oct 25 02:11:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10349"
+            ]
+        },
+        {
+            "Message ID": 89870,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-41617\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-41617\n\nDescription: Money Manager EX WebApp (web-money-manager-ex) 1.2.2 is vulnerable to Incorrect Access Control. The `redirect_if_not_loggedin` function in `functions_security.php` fails to terminate script execution after redirecting unauthenticated users. This flaw allows an unauthenticated attacker to upload arbitrary files, potentially leading to Remote Code Execution.\n\nPublication Date: Fri Oct 25 02:11:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-41617"
+            ]
+        },
+        {
+            "Message ID": 89869,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-41618\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-41618\n\nDescription: Money Manager EX WebApp (web-money-manager-ex) 1.2.2 is vulnerable to SQL Injection in the `transaction_delete_group` function. The vulnerability is due to improper sanitization of user input in the `TrDeleteArr` parameter, which is directly incorporated into an SQL query.\n\nPublication Date: Fri Oct 25 02:10:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-41618"
+            ]
+        },
+        {
+            "Message ID": 89868,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-49750\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49750\n\nDescription: The Snowflake Connector for Python provides an interface for developing Python applications that can connect to Snowflake and perform all standard operations. Prior to version 3.12.3, when the logging level was set by the user to DEBUG, the Connector could have logged Duo passcodes (when specified via the `passcode` parameter) and Azure SAS tokens. Additionally, the SecretDetector logging formatter, if enabled, contained bugs which caused it to not fully redact JWT tokens and certain private key formats. Snowflake released version 3.12.3 of the Snowflake Connector for Python, which fixes the issue. In addition to upgrading, users should review their logs for any potentially sensitive information that may have been captured.\n\nPublication Date: Fri Oct 25 02:10:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49750"
+            ]
+        },
+        {
+            "Message ID": 89867,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Apple creates Private Cloud Compute VM to let researchers find bugs\n\nDate: October 24, 2024\n\nSource: https://www.bleepingcomputer.com/news/apple/apple-creates-private-cloud-compute-vm-to-let-researchers-find-bugs/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/apple/apple-creates-private-cloud-compute-vm-to-let-researchers-find-bugs/"
+            ]
+        },
+        {
+            "Message ID": 89866,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-47879\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47879\n\nDescription: OpenRefine is a free, open source tool for working with messy data. Prior to version 3.8.3, lack of cross-site request forgery protection on the `preview-expression` command means that visiting a malicious website could cause an attacker-controlled expression to be executed. The expression can contain arbitrary Clojure or Python code. The attacker must know a valid project ID of a project that contains at least one row, and the attacker must convince the victim to open a malicious webpage. Version 3.8.3 fixes the issue.\n\nPublication Date: Fri Oct 25 01:59:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47879"
+            ]
+        },
+        {
+            "Message ID": 89865,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-48208\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48208\n\nDescription: pure-ftpd before 1.0.52 is vulnerable to Buffer Overflow. There is an out of bounds read in the domlsd() function of the ls.c file.\n\nPublication Date: Fri Oct 25 01:59:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Buffer Overflow"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48208"
+            ]
+        },
+        {
+            "Message ID": 89864,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-48423\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48423\n\nDescription: An issue in assimp v.5.4.3 allows a local attacker to execute arbitrary code via the CallbackToLogRedirector function within the Assimp library.\n\nPublication Date: Fri Oct 25 01:59:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48423"
+            ]
+        },
+        {
+            "Message ID": 89863,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-48424\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48424\n\nDescription: A heap-buffer-overflow vulnerability has been identified in the OpenDDLParser::parseStructure function within the Assimp library, specifically during the processing of OpenGEX files.\n\nPublication Date: Fri Oct 25 01:58:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48424"
+            ]
+        },
+        {
+            "Message ID": 89862,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-48425\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48425\n\nDescription: A segmentation fault (SEGV) was detected in the Assimp::SplitLargeMeshesProcess_Triangle::UpdateNode function within the Assimp library during fuzz testing using AddressSanitizer. The crash occurs due to a read access violation at address 0x000000000460, which points to the zero page, indicating a null or invalid pointer dereference.\n\nPublication Date: Fri Oct 25 01:58:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48425"
+            ]
+        },
+        {
+            "Message ID": 89861,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-48426\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48426\n\nDescription: A segmentation fault (SEGV) was detected in the SortByPTypeProcess::Execute function in the Assimp library during fuzz testing with AddressSanitizer. The crash occurred due to a read access to an invalid memory address (0x1000c9714971).\n\nPublication Date: Fri Oct 25 01:58:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48426"
+            ]
         }
     ]
 }
