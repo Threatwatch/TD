@@ -2002,6 +2002,18 @@
             "URLs": [
                 "s://darkwebinformer.com/hiken-has-allegedly-leaked-the-database-of-billfath-university/"
             ]
+        },
+        {
+            "Message ID": 5858,
+            "discovered": "2024-10-24",
+            "post_title": "💡💡For the last 2 hours, I put together a simple script that will provide data from @whiteintel_io. You can see what I mean towards the bottom of this example.. I made it a free post: https://darkwebinformer.com/magouilleur-and-bousilleur-are-allegedly-selling-the-database-of-ornikar/\n\nYes, it needs work done to make it look nicer, but it will fetch the data of the domain and provide the results on load. If the TA doesn't provide information on the company, it will not show any data and at the beginning this will be a slow process in order to make it look and feel better.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "@whiteintel_io"
+            ],
+            "URLs": [
+                "tps://darkwebinformer.com/magouilleur-and-bousilleur-are-allegedly-selling-the-database-of-ornikar/\n\n"
+            ]
         }
     ],
     "RipperSec | 团队": [
