@@ -27117,6 +27117,66 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-48139"
             ]
+        },
+        {
+            "Message ID": 89804,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Insurance admin Landmark says data breach impacts 800,000 people\n\nDate: October 24, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/insurance-admin-landmark-says-data-breach-impacts-800-000-people/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/insurance-admin-landmark-says-data-breach-impacts-800-000-people/"
+            ]
+        },
+        {
+            "Message ID": 89803,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-10295\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10295\n\nDescription: A flaw was found in Gateway. Sending a non-base64 'basic' auth with special characters can cause APICast to incorrectly authenticate a request. A malformed basic authentication header containing special characters bypasses authentication and allows unauthorized access to the backend. This issue can occur due to a failure in the base64 decoding process, which causes APICast to skip the rest of the authentication checks and proceed with routing the request upstream.\n\nPublication Date: Thu Oct 24 22:21:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Gateway"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10295"
+            ]
+        },
+        {
+            "Message ID": 89802,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-3765\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3765\n\nDescription: Absolute Path Traversal in GitHub repository mlflow/mlflow prior to 2.5.0.\n\nPublication Date: Thu Oct 24 22:21:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3765"
+            ]
+        },
+        {
+            "Message ID": 89801,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2021-36188\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-36188\n\nDescription: A improper neutralization of input during web page generation ('cross-site scripting') in Fortinet FortiWeb version 6.4.1 and below, 6.3.15 and below allows attacker to execute unauthorized code or commands via crafted GET parameters in requests to login and error handlers\n\nPublication Date: Thu Oct 24 22:21:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-36188"
+            ]
+        },
+        {
+            "Message ID": 89800,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-46994\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-46994\n\nDescription: baserCMS is a website development framework. Versions prior to 5.1.2 have a cross-site scripting vulnerability in Blog posts and Contents list Feature. Version 5.1.2 fixes this issue.\n\nPublication Date: Thu Oct 24 22:21:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-46994"
+            ]
         }
     ]
 }
