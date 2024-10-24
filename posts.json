@@ -1881,6 +1881,31 @@
             "URLs": [
                 "ps://darkwebinformer.com/z-bl4cx-h4t-defaced-the-website-of-pantheon-platform-2/"
             ]
+        },
+        {
+            "Message ID": 5849,
+            "discovered": "2024-10-24",
+            "post_title": "💡Free Post\n\n🚨🇮🇳🇦🇪DarkRaaS Allegedly is Selling Access to Unidentified Organizations in India and UAE\n\nhttps://darkwebinformer.com/darkraas-allegedly-is-selling-access-to-unidentified-organizations-in-india-and-uae/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "India",
+                "UAE"
+            ],
+            "URLs": [
+                "//darkwebinformer.com/darkraas-allegedly-is-selling-access-to-unidentified-organizations-in-india-and-uae/"
+            ]
+        },
+        {
+            "Message ID": 5848,
+            "discovered": "2024-10-24",
+            "post_title": "🚨🇦🇺Russian Cyber Army Team Targeted the Website of Port of Brisbane Pty Ltd\n\nhttps://darkwebinformer.com/russian-cyber-army-team-targeted-the-website-of-port-of-brisbane-pty-ltd/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/russian-cyber-army-team-targeted-the-website-of-port-of-brisbane-pty-ltd/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -18825,6 +18850,30 @@
             ],
             "URLs": [
                 "https://t.co/xc3lYIyODU"
+            ]
+        },
+        {
+            "Message ID": 3304,
+            "discovered": "2024-10-24",
+            "post_title": "Group: FOG\nApprox. Time: 14:38 24/10/24\nTitle: Value City NJ (https://t.co/Ljfg9M55MD)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/Ljfg9M55MD"
+            ]
+        },
+        {
+            "Message ID": 3303,
+            "discovered": "2024-10-24",
+            "post_title": "Group: FOG\nApprox. Time: 14:38 24/10/24\nTitle: The Getz Group (https://t.co/Lz631pL7wN)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/Lz631pL7wN"
             ]
         }
     ],
