@@ -24746,6 +24746,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-6826"
             ]
+        },
+        {
+            "Message ID": 89651,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Sinisterly - 🔥  Mails, GoogleVoice, Verification 🔥\n\nDetection Date: Thu Oct 24 13:24:15 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-Mail-GoogltVoice-Verification\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://sinister.ly/Thread-Mail-GoogltVoice-Verification\n\n"
+            ]
         }
     ]
 }
