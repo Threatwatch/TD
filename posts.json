@@ -2094,6 +2094,18 @@
             "URLs": [
                 "s://darkwebinformer.com/henrymas0n-has-allegedly-leaked-the-databases-from-alisan-fine-arts/"
             ]
+        },
+        {
+            "Message ID": 5866,
+            "discovered": "2024-10-24",
+            "post_title": "https://t.me/investigations/172",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/investigations/172"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -27176,6 +27188,67 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-46994"
+            ]
+        },
+        {
+            "Message ID": 89809,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-48541\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48541\n\nDescription: Incorrect access control in the firmware update and download processes of Ruochan Smart v4.4.7 allows attackers to access sensitive information by analyzing the code and data within the APK file.\n\nPublication Date: Thu Oct 24 22:33:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48541"
+            ]
+        },
+        {
+            "Message ID": 89808,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-36809\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-36809\n\nDescription: Kiwi TCMS, an open source test management system allows users to upload attachments to test plans, test cases, etc. Versions of Kiwi TCMS prior to 12.5 had introduced changes which were meant to serve all uploaded files as plain text in order to prevent browsers from executing potentially dangerous files when such files are accessed directly. The previous Nginx configuration was incorrect allowing certain browsers like Firefox to ignore the `Content-Type: text/plain` header on some occasions thus allowing potentially dangerous scripts to be executed. Additionally, file upload validators and parts of the HTML rendering code had been found to require additional sanitation and improvements. Version 12.5 fixes this vulnerability with updated Nginx content type configuration, improved file upload validation code to prevent more potentially dangerous uploads, and Sanitization of test plan names used in the `tree_view_html()` function.\n\nPublication Date: Thu Oct 24 22:33:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-36809"
+            ]
+        },
+        {
+            "Message ID": 89807,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-10338\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10338\n\nDescription: A vulnerability classified as critical was found in SourceCodeHero Clothes Recommendation System 1.0. Affected by this vulnerability is an unknown functionality of the file /admin/home.php. The manipulation of the argument view/view1 leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Oct 24 22:33:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10338"
+            ]
+        },
+        {
+            "Message ID": 89806,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-10337\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10337\n\nDescription: A vulnerability classified as critical has been found in SourceCodeHero Clothes Recommendation System 1.0. Affected is an unknown function of the file /admin/home.php?con=add. The manipulation of the argument cat/subcat/ t1/t2/text leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Oct 24 22:33:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10337"
+            ]
+        },
+        {
+            "Message ID": 89805,
+            "discovered": "2024-10-24",
+            "post_title": "Target: https://pertanian.lomboktengahkab.go.id\n\nNotified: ./unn0rmaL\n\nDate: Thu, 24 Oct 2024 19:24:27 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41292858\n\n#Defacements #Indonesia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "https://pertanian.lomboktengahkab.go.id",
+                "http://www.zone-h.org/mirror/id/41292858"
             ]
         }
     ]
