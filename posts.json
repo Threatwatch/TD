@@ -1765,6 +1765,16 @@
             "URLs": [
                 "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-23rd-2024/"
             ]
+        },
+        {
+            "Message ID": 5838,
+            "discovered": "2024-10-24",
+            "post_title": "Never knew if you double clicked on a Telegram channel with unread messages it will mark them all read and send you to the bottom. Only works on PC.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -18508,6 +18518,76 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3295,
+            "discovered": "2024-10-24",
+            "post_title": "Group: killsecurity\nApprox. Time: 00:42 24/10/24\nTitle: KillSecurity 3.0",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3294,
+            "discovered": "2024-10-24",
+            "post_title": "Group: play\nApprox. Time: 00:42 24/10/24\nTitle: TU Parks",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3293,
+            "discovered": "2024-10-24",
+            "post_title": "Group: play\nApprox. Time: 00:42 24/10/24\nTitle: Mainelli Mechanical Contractors",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3292,
+            "discovered": "2024-10-24",
+            "post_title": "Group: play\nApprox. Time: 00:42 24/10/24\nTitle: Ivanhoe Club",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3291,
+            "discovered": "2024-10-24",
+            "post_title": "Group: play\nApprox. Time: 00:42 24/10/24\nTitle: Iron World Manufacturing",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3290,
+            "discovered": "2024-10-24",
+            "post_title": "Group: play\nApprox. Time: 00:42 24/10/24\nTitle: Eagle Industries",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3289,
+            "discovered": "2024-10-24",
+            "post_title": "Group: play\nApprox. Time: 00:42 24/10/24\nTitle: Action Heating & Cooling",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -23846,6 +23926,104 @@
             "URLs": [
                 "https://www.scworld.com/news/new-llm-jailbreak-method-with-65-success-rate-developed-by-researchers"
             ]
+        },
+        {
+            "Message ID": 89606,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: oklahomasleepinstitute.com\n\nDetection Date: Thu Oct 24 04:24:08 2024\n\nThreat Actor: 3am\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "oklahomasleepinstitute.com"
+            ]
+        },
+        {
+            "Message ID": 89605,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: sacredheart.southwark.sch.uk\n\nDetection Date: Thu Oct 24 04:23:55 2024\n\nThreat Actor: 3am\n\n#Ransomware #UnitedKingdom",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "sacredheart.southwark.sch.uk"
+            ]
+        },
+        {
+            "Message ID": 89604,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Navigate 2024: Horizons report shows identity security investments yield disproportionately higher returns\n\nDate: October 24, 2024\n\nSource: https://www.scworld.com/news/navigate-2024-horizons-report-shows-identity-security-investments-yield-disproportionately-higher-returns\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/navigate-2024-horizons-report-shows-identity-security-investments-yield-disproportionately-higher-returns"
+            ]
+        },
+        {
+            "Message ID": 89603,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Sinisterly - ⭐Cash App API ⭐ Auto Exchange | Auto Process & Validate Web Receipts | + More!\n\nDetection Date: Thu Oct 24 03:50:51 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-Silver-%E2%AD%90Cash-App-API-%E2%AD%90-Auto-Exchange-Auto-Process-Validate-Web-Receipts-More\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-Silver-%E2%AD%90Cash-App-API-%E2%AD%90-Auto-Exchange-Auto-Process-Validate-Web-Receipts-More"
+            ]
+        },
+        {
+            "Message ID": 89602,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: TU Parks\n\nDetection Date: Thu Oct 24 03:39:19 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89601,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: Mainelli Mechanical Contractors\n\nDetection Date: Thu Oct 24 03:38:59 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89600,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: Action Heating & Cooling\n\nDetection Date: Thu Oct 24 03:38:40 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89599,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: Eagle Industries\n\nDetection Date: Thu Oct 24 03:38:20 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89598,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: Iron World Manufacturing\n\nDetection Date: Thu Oct 24 03:38:00 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ]
 }
