@@ -6441,6 +6441,16 @@
                 "Pakistan"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5256,
+            "discovered": "2024-10-24",
+            "post_title": "The sculpture of Mujib Must be removed from Bangladesh Military Academy As soon as possible",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -24584,6 +24594,26 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9943"
             ]
+        },
+        {
+            "Message ID": 89641,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: B****A\n\nDetection Date: Thu Oct 24 11:42:57 2024\n\nThreat Actor: fsociety\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89640,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: F*******M Corp\n\nDetection Date: Thu Oct 24 11:42:44 2024\n\nThreat Actor: fsociety\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ]
 }
