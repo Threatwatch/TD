@@ -28216,6 +28216,135 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-49762"
             ]
+        },
+        {
+            "Message ID": 89860,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-7763\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-7763\n\nDescription: In WhatsUp Gold versions released before 2024.0.0, \n\nan Authentication Bypass issue exists which allows an attacker to obtain encrypted user credentials.\n\nPublication Date: Fri Oct 25 01:36:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7763"
+            ]
+        },
+        {
+            "Message ID": 89859,
+            "discovered": "2024-10-24",
+            "post_title": "Target: https://crepi.gov.mz/Elz.html\n\nNotified: ./Elz\n\nDate: Thu, 24 Oct 2024 22:28:14 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41292867\n\n#Defacements #Mozambique",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://crepi.gov.mz/Elz.html",
+                "http://www.zone-h.org/mirror/id/41292867"
+            ]
+        },
+        {
+            "Message ID": 89858,
+            "discovered": "2024-10-24",
+            "post_title": "Target: https://creps.gov.mz/Elz.html\n\nNotified: ./Elz\n\nDate: Thu, 24 Oct 2024 22:28:14 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41292871\n\n#Defacements #Mozambique",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://creps.gov.mz/Elz.html",
+                "http://www.zone-h.org/mirror/id/41292871"
+            ]
+        },
+        {
+            "Message ID": 89857,
+            "discovered": "2024-10-24",
+            "post_title": "Target: https://crepnia.gov.mz/Elz.html\n\nNotified: ./Elz\n\nDate: Thu, 24 Oct 2024 22:28:14 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41292870\n\n#Defacements #Mozambique",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://crepnia.gov.mz/Elz.html",
+                "http://www.zone-h.org/mirror/id/41292870"
+            ]
+        },
+        {
+            "Message ID": 89856,
+            "discovered": "2024-10-24",
+            "post_title": "Target: https://mophrh.gov.mz/elz.html\n\nNotified: ./Elz\n\nDate: Thu, 24 Oct 2024 22:28:14 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41292865\n\n#Defacements #Mozambique",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://mophrh.gov.mz/elz.html",
+                "http://www.zone-h.org/mirror/id/41292865"
+            ]
+        },
+        {
+            "Message ID": 89855,
+            "discovered": "2024-10-24",
+            "post_title": "Target: https://crept.gov.mz/Elz.html\n\nNotified: ./Elz\n\nDate: Thu, 24 Oct 2024 22:28:14 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41292872\n\n#Defacements #Mozambique",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://crept.gov.mz/Elz.html",
+                "http://www.zone-h.org/mirror/id/41292872"
+            ]
+        },
+        {
+            "Message ID": 89854,
+            "discovered": "2024-10-24",
+            "post_title": "Target: https://crepz.gov.mz/Elz.html\n\nNotified: ./Elz\n\nDate: Thu, 24 Oct 2024 22:28:14 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41292873\n\n#Defacements #Mozambique",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://crepz.gov.mz/Elz.html",
+                "http://www.zone-h.org/mirror/id/41292873"
+            ]
+        },
+        {
+            "Message ID": 89853,
+            "discovered": "2024-10-24",
+            "post_title": "Target: https://crepg.gov.mz/Elz.html\n\nNotified: ./Elz\n\nDate: Thu, 24 Oct 2024 22:28:14 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41292866\n\n#Defacements #Mozambique",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://crepg.gov.mz/Elz.html",
+                "http://www.zone-h.org/mirror/id/41292866"
+            ]
+        },
+        {
+            "Message ID": 89852,
+            "discovered": "2024-10-24",
+            "post_title": "Target: http://crepm.gov.mz/Elz.html\n\nNotified: ./Elz\n\nDate: Thu, 24 Oct 2024 22:28:14 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41292868\n\n#Defacements #Mozambique",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://crepm.gov.mz/Elz.html",
+                "http://www.zone-h.org/mirror/id/41292868"
+            ]
+        },
+        {
+            "Message ID": 89851,
+            "discovered": "2024-10-24",
+            "post_title": "Target: https://crepn.gov.mz/Elz.html\n\nNotified: ./Elz\n\nDate: Thu, 24 Oct 2024 22:28:14 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41292869\n\n#Defacements #Mozambique",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://crepn.gov.mz/Elz.html",
+                "http://www.zone-h.org/mirror/id/41292869"
+            ]
         }
     ]
 }
