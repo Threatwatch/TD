@@ -24498,6 +24498,16 @@
             "URLs": [
                 "https://thehackernews.com/2024/10/fortinet-warns-of-critical.html"
             ]
+        },
+        {
+            "Message ID": 89633,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: LifeMine\n\nDetection Date: Thu Oct 24 10:45:49 2024\n\nThreat Actor: lynx\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ]
 }
