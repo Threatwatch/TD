@@ -21017,6 +21017,56 @@
                 "izly.com, ",
                 "somfeed.it/index.php?page=post_details&id_post=18142"
             ]
+        },
+        {
+            "Message ID": 3863,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18161\n⚠ Thu, 17 Oct 2024 21:09:38 UTC\n🥷 qilin\n🎯 MRI Radiology Network, P.A. / University MRI, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18161",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18161"
+            ]
+        },
+        {
+            "Message ID": 3862,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18160\n⚠ Thu, 17 Oct 2024 21:08:10 UTC\n🥷 qilin\n🎯 Daikin Industries (Thailand) Ltd., Thailand\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18160",
+            "Attack Type": "Unknown",
+            "Location": [
+                "qilin",
+                "Thailand"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18160"
+            ]
+        },
+        {
+            "Message ID": 3861,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18159\n⚠ Thu, 17 Oct 2024 21:06:03 UTC\n🥷 qilin\n🎯 Aiken Electric Cooperative, Inc., USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18159",
+            "Attack Type": "Unknown",
+            "Location": [
+                "qilin",
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18159"
+            ]
+        },
+        {
+            "Message ID": 3860,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18158\n⚠ Sun, 20 Oct 2024 21:02:19 UTC\n🥷 stormous\n🎯 Transak Inc., USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18158",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18158"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -27648,6 +27698,196 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-25523"
+            ]
+        },
+        {
+            "Message ID": 89839,
+            "discovered": "2024-10-24",
+            "post_title": "Vulnerability ID: CVE-2024-47575\n\nDescription: A missing authentication for critical function in FortiManager 7.6.0, FortiManager 7.4.0 through 7.4.4, FortiManager 7.2.0 through 7.2.7, FortiManager 7.0.0 through 7.0.12, FortiManager 6.4.0 through 6.4.14, FortiManager 6.2.0 through 6.2.12, Fortinet FortiManager Cloud 7.4.1 through 7.4.4, FortiManager Cloud 7.2.1 through 7.2.7, FortiManager Cloud 7.0.1 through 7.0.13, FortiManager Cloud 6.4.1 through 6.4.7 allows attacker to execute arbitrary code or commands via specially crafted requests.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-47575\n\nDate of Publishing: 2024/10/24\n\nLink to Exploit: https://fortiguard.fortinet.com/psirt/FG-IR-24-423\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47575",
+                "https://fortiguard.fortinet.com/psirt/FG-IR-24-423"
+            ]
+        },
+        {
+            "Message ID": 89838,
+            "discovered": "2024-10-24",
+            "post_title": "Vulnerability ID: CVE-2024-3150\n\nDescription: In mintplex-labs/anything-llm, a vulnerability exists in the thread update process that allows users with Default or Manager roles to escalate their privileges to Administrator. The issue arises from improper input validation when handling HTTP POST requests to the endpoint `/workspace/:slug/thread/:threadSlug/update`. Specifically, the application fails to validate or check user input before passing it to the `workspace_thread` Prisma model for execution. This oversight allows attackers to craft a Prisma relation query operation that manipulates the `users` model to change a user's role to admin. Successful exploitation grants attackers the highest level of user privileges, enabling them to see and perform all actions within the system.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-3150\n\nDate of Publishing: 2024/10/24\n\nLink to Exploit: https://huntr.com/bounties/745f5c80-14ea-4055-9f15-a066ae93e5a3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-3150",
+                "https://huntr.com/bounties/745f5c80-14ea-4055-9f15-a066ae93e5a3"
+            ]
+        },
+        {
+            "Message ID": 89837,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: Drug and Alcohol Treatment Service\n\nDetection Date: Fri Oct 25 00:17:41 2024\n\nThreat Actor: interlock\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89836,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: McElroy, Quirk & Burch, APC\n\nDetection Date: Fri Oct 25 00:17:28 2024\n\nThreat Actor: bianlian\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89835,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: www.resourceinternational.com\n\nDetection Date: Fri Oct 25 00:17:13 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.resourceinternational.com"
+            ]
+        },
+        {
+            "Message ID": 89834,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: www.kciconst.com\n\nDetection Date: Fri Oct 25 00:16:57 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.kciconst.com"
+            ]
+        },
+        {
+            "Message ID": 89833,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: bulloch.solutions\n\nDetection Date: Fri Oct 25 00:16:41 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "bulloch.solutions"
+            ]
+        },
+        {
+            "Message ID": 89832,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: www.oma.aero\n\nDetection Date: Fri Oct 25 00:16:23 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.oma.aero"
+            ]
+        },
+        {
+            "Message ID": 89831,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-38335\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-38335\n\nDescription: Omnis Studio 10.22.00 has incorrect access control. It advertises a feature for making Omnis libraries \"always private\" - this is supposed to be an irreversible operation. However, due to implementation issues, \"always private\" Omnis libraries can be opened by the Omnis Studio browser by bypassing specific checks. This violates the expected behavior of an \"irreversible operation\".\n\nPublication Date: Fri Oct 25 00:05:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-38335"
+            ]
+        },
+        {
+            "Message ID": 89830,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-47881\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47881\n\nDescription: OpenRefine is a free, open source tool for working with messy data. Starting in version 3.4-beta and prior to version 3.8.3, in the `database` extension, the \"enable_load_extension\" property can be set for the SQLite integration, enabling an attacker to load (local or remote) extension DLLs and so run arbitrary code on the server. The attacker needs to have network access to the OpenRefine instance. Version 3.8.3 fixes this issue.\n\nPublication Date: Fri Oct 25 00:05:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47881"
+            ]
+        },
+        {
+            "Message ID": 89829,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2020-36749\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2020-36749\n\nDescription: The Easy Testimonials plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 3.6.1. This is due to missing or incorrect nonce validation on the saveCustomFields() function. This makes it possible for unauthenticated attackers to save custom fields via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.\n\nPublication Date: Fri Oct 25 00:05:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2020-36749"
+            ]
+        },
+        {
+            "Message ID": 89828,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-38334\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-38334\n\nDescription: Omnis Studio 10.22.00 has incorrect access control. It advertises an irreversible feature for locking classes within Omnis libraries: it should be no longer possible to delete, view, change, copy, rename, duplicate, or print a locked class. Due to implementation issues, locked classes in Omnis libraries can be unlocked, and thus further analyzed and modified by Omnis Studio. This allows for further analyzing and also deleting, viewing, changing, copying, renaming, duplicating, or printing previously locked Omnis classes. This violates the expected behavior of an \"irreversible operation.\"\n\nPublication Date: Fri Oct 25 00:05:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-38334"
+            ]
+        },
+        {
+            "Message ID": 89827,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-37728\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37728\n\nDescription: IceWarp v10.2.1 was discovered to contain cross-site scripting (XSS) vulnerability via the color parameter.\n\nPublication Date: Fri Oct 25 00:05:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37728"
+            ]
+        },
+        {
+            "Message ID": 89826,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-36853\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-36853\n\nDescription: ​In Keysight Geolocation Server v2.4.2 and prior, a low privileged attacker could create a local ZIP file containing a malicious script in any location. The attacker could abuse this to load a DLL with SYSTEM privileges.\n\nPublication Date: Fri Oct 25 00:04:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-36853"
+            ]
+        },
+        {
+            "Message ID": 89825,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-47882\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47882\n\nDescription: OpenRefine is a free, open source tool for working with messy data. Prior to version 3.8.3, the built-in \"Something went wrong!\" error page includes the exception message and exception traceback without escaping HTML tags, enabling injection into the page if an attacker can reliably produce an error with an attacker-influenced message. It appears that the only way to reach this code in OpenRefine itself is for an attacker to somehow convince a victim to import a malicious file, which may be difficult.  However, out-of-tree extensions may add their own calls to `respondWithErrorPage`. Version 3.8.3 has a fix for this issue.\n\nPublication Date: Fri Oct 25 00:04:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47882"
+            ]
+        },
+        {
+            "Message ID": 89824,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-47883\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47883\n\nDescription: The OpenRefine fork of the MIT Simile Butterfly server is a modular web application framework. The Butterfly framework uses the `java.net.URL` class to refer to (what are expected to be) local resource files, like images or templates. This works: \"opening a connection\" to these URLs opens the local file. However, prior to version 1.2.6, if a `file:/` URL is directly given where a relative path (resource name) is expected, this is also accepted in some code paths; the app then fetches the file, from a remote machine if indicated, and uses it as if it was a trusted part of the app's codebase. This leads to multiple weaknesses and potential weaknesses. An attacker that has network access to the application could use it to gain access to files, either on the the server's filesystem (path traversal) or shared by nearby machines (server-side request forgery with e.g. SMB). An attacker that can lead or redirect a user to a crafted URL belonging to the app could cause arbitrary attacker-controlled JavaScript to be loaded in the victim's browser (cross-site scripting). If an app is written in such a way that an attacker can influence the resource name used for a template, that attacker could cause the app to fetch and execute an attacker-controlled template (remote code execution). Version 1.2.6 contains a patch.\n\nPublication Date: Fri Oct 25 00:04:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47883"
             ]
         }
     ]
