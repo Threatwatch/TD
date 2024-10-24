@@ -1978,6 +1978,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/picsolve-inc-has-been-claimed-a-victim-to-cactus-ransomware/"
             ]
+        },
+        {
+            "Message ID": 5857,
+            "discovered": "2024-10-24",
+            "post_title": "💡Changelog updated to 2.2. All changes: https://darkwebinformer.com/changelog\n\n🌟 Version 2.2 - October 24th, 2024\n\n🎉 New Features:\n\n* Launched the Live Ransomware Feed Powered by Ransomware[.]live. Screenshots are unredacted and have a watermark (not mine). More features in the works.\n\n⚙️ Improvements:\n\n* Added 2 Ransomware Groups\n\n🐛 Bug Fixes:\n\n* Resolved a bug on the Plus/Pro Threat Feed that was causing \"Victim Site\" to always be blank, now it will only be blank when the threat post has 'unidentified' information.\n* Resolved a bug on the Plus/Pro Threat Feed that was causing screenshots to be cut off on the cards.\n\n🐛 Open Bugs:\n\n* [Minor]: Status Page shows Dark Web links as down randomly several times a day, but recovers automatically. I am working on a fix for this.\n* [Minor]: Sometimes link previews do not show immediately on X. Workaround is to refresh the post a couple times and it will show.. this is a X issue.\n* [Minor]: When changing all images to have rounded corners it makes the images look stretched and not centered on the website/X/Telegram/LinkedIn.\n* [Minor]: Add new tags next to new urls is not showing properly against the table.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Changelog"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog\n"
+            ]
+        },
+        {
+            "Message ID": 5856,
+            "discovered": "2024-10-24",
+            "post_title": "💡Free Post\n\n🚨🇮🇩Hiken Has Allegedly Leaked the Database of Billfath University\n\nhttps://darkwebinformer.com/hiken-has-allegedly-leaked-the-database-of-billfath-university/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/hiken-has-allegedly-leaked-the-database-of-billfath-university/"
+            ]
         }
     ],
     "RipperSec | 团队": [
