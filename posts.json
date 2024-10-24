@@ -24806,6 +24806,30 @@
             "URLs": [
                 "https://blog.talosintelligence.com/incident-response-trends-q3-2024/"
             ]
+        },
+        {
+            "Message ID": 89654,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Notifications in Threat Intelligence Lookup\n\nDate: October 24, 2024\n\nSource: https://any.run/cybersecurity-blog/ti-lookup-notifications/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://any.run/cybersecurity-blog/ti-lookup-notifications/"
+            ]
+        },
+        {
+            "Message ID": 89653,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Why Phishing-Resistant MFA Is No Longer Optional: The Hidden Risks of Legacy MFA\n\nDate: Oct 24, 2024\n\nSource: https://thehackernews.com/2024/10/why-phishing-resistant-mfa-is-no-longer.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/why-phishing-resistant-mfa-is-no-longer.html"
+            ]
         }
     ]
 }
