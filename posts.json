@@ -19404,6 +19404,52 @@
             "URLs": [
                 "https://t.co/foJO3PFTPV"
             ]
+        },
+        {
+            "Message ID": 3310,
+            "discovered": "2024-10-24",
+            "post_title": "Group: ransomhub\nApprox. Time: 22:40 24/10/24\nTitle: https://t.co/WMU5tA64NU",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/WMU5tA64NU"
+            ]
+        },
+        {
+            "Message ID": 3309,
+            "discovered": "2024-10-24",
+            "post_title": "Group: ransomhub\nApprox. Time: 22:40 24/10/24\nTitle: https://t.co/3QXUCO2F98",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/3QXUCO2F98"
+            ]
+        },
+        {
+            "Message ID": 3308,
+            "discovered": "2024-10-24",
+            "post_title": "Group: ransomhub\nApprox. Time: 22:40 24/10/24\nTitle: https://t.co/BfbuJfDQtm",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/BfbuJfDQtm"
+            ]
+        },
+        {
+            "Message ID": 3307,
+            "discovered": "2024-10-24",
+            "post_title": "Group: bianlian\nApprox. Time: 22:39 24/10/24\nTitle: McElroy, Quirk and Burch, APC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
