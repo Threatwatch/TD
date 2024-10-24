@@ -20171,6 +20171,30 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18131"
             ]
+        },
+        {
+            "Message ID": 3839,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18134\n⚠ Thu, 24 Oct 2024 05:36:05 UTC\n🥷 flocker\n🎯 B****A, Non Disponibile\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18134",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18134"
+            ]
+        },
+        {
+            "Message ID": 3838,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18133\n⚠ Thu, 24 Oct 2024 05:37:14 UTC\n🥷 flocker\n🎯 F*******M Corp, Non Disponibile\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18133",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Non Disponibile"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18133"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -24649,6 +24673,78 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-8717"
+            ]
+        },
+        {
+            "Message ID": 89650,
+            "discovered": "2024-10-24",
+            "post_title": "Title: 16 arrests as police target migrant smuggling across the Sava River\n\nDate: October 24, 2024\n\nSource: https://www.europol.europa.eu/media-press/newsroom/news/16-arrests-police-target-migrant-smuggling-across-sava-river\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.europol.europa.eu/media-press/newsroom/news/16-arrests-police-target-migrant-smuggling-across-sava-river"
+            ]
+        },
+        {
+            "Message ID": 89649,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: bcllegal.com\n\nDetection Date: Thu Oct 24 13:12:37 2024\n\nThreat Actor: cactus\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "bcllegal.com"
+            ]
+        },
+        {
+            "Message ID": 89648,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: picsolve.com\n\nDetection Date: Thu Oct 24 13:12:21 2024\n\nThreat Actor: cactus\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "picsolve.com"
+            ]
+        },
+        {
+            "Message ID": 89647,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Lazarus Group Exploits Google Chrome Vulnerability to Control Infected Devices\n\nDate: Oct 24, 2024\n\nSource: https://thehackernews.com/2024/10/lazarus-group-exploits-google-chrome.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/lazarus-group-exploits-google-chrome.html"
+            ]
+        },
+        {
+            "Message ID": 89646,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-8312\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8312\n\nDescription: An issue has been discovered in GitLab CE/EE affecting all versions from 15.10 before 17.3.6, 17.4 before 17.4.3, and 17.5 before 17.5.1. An attacker could inject HTML into the Global Search field on a diff view leading to XSS.\n\nPublication Date: Thu Oct 24 13:01:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8312"
+            ]
+        },
+        {
+            "Message ID": 89645,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-6826\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-6826\n\nDescription: An issue has been discovered in GitLab CE/EE affecting all versions from 11.2 before 17.3.6, 17.4 before 17.4.3, and 17.5 before 17.5.1. A denial of service could occur via importing a malicious crafted XML manifest file.\n\nPublication Date: Thu Oct 24 13:01:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-6826"
             ]
         }
     ]
