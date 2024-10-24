@@ -4558,6 +4558,176 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2403,
+            "discovered": "2024-10-24",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2402,
+            "discovered": "2024-10-24",
+            "post_title": "The presence of micro (eavesdropping/GPS) for espionage, in the UAE's aid to Lebanon",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Lebanon"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2401,
+            "discovered": "2024-10-24",
+            "post_title": "This is the database of all Israeli sites that we have hacked in this week, use it and enjoy.❤️‍🔥",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2400,
+            "discovered": "2024-10-24",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2399,
+            "discovered": "2024-10-24",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2398,
+            "discovered": "2024-10-24",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2397,
+            "discovered": "2024-10-24",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2396,
+            "discovered": "2024-10-24",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2395,
+            "discovered": "2024-10-24",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2394,
+            "discovered": "2024-10-24",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2393,
+            "discovered": "2024-10-24",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2392,
+            "discovered": "2024-10-24",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2391,
+            "discovered": "2024-10-24",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2390,
+            "discovered": "2024-10-24",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2389,
+            "discovered": "2024-10-24",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2388,
+            "discovered": "2024-10-24",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2387,
+            "discovered": "2024-10-24",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
@@ -28009,6 +28179,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-49874"
+            ]
+        },
+        {
+            "Message ID": 89848,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Henry Schein discloses data breach a year after ransomware attack\n\nDate: October 24, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/henry-schein-discloses-data-breach-a-year-after-ransomware-attack/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/henry-schein-discloses-data-breach-a-year-after-ransomware-attack/"
             ]
         }
     ]
