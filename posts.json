@@ -24508,6 +24508,82 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 89639,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Network smuggling migrants via Belarus busted in Poland\n\nDate: October 24, 2024\n\nSource: https://www.europol.europa.eu/media-press/newsroom/news/network-smuggling-migrants-belarus-busted-in-poland\n\n#News #Poland",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Belarus",
+                "Poland",
+                "Poland"
+            ],
+            "URLs": [
+                "https://www.europol.europa.eu/media-press/newsroom/news/network-smuggling-migrants-belarus-busted-in-poland"
+            ]
+        },
+        {
+            "Message ID": 89638,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-9864\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9864\n\nDescription: The EventPrime – Events Calendar, Bookings and Tickets plugin for WordPress is vulnerable to Stored Cross-Site Scripting via ticket names in all versions up to, and including, 4.0.4.7 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. This is only exploitable when front-end users can submit new events with tickets.\n\nPublication Date: Thu Oct 24 11:09:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9864",
+                "4.0.4.7"
+            ]
+        },
+        {
+            "Message ID": 89637,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-9865\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9865\n\nDescription: The EventPrime – Events Calendar, Bookings and Tickets plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘ep_booking_attendee_fields’ fields in all versions up to, and including, 4.0.4.7 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses the transaction log for a booking.\n\nPublication Date: Thu Oct 24 11:09:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9865",
+                "4.0.4.7"
+            ]
+        },
+        {
+            "Message ID": 89636,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-9531\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9531\n\nDescription: The MultiVendorX – The Ultimate WooCommerce Multivendor Marketplace Solution plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the 'mvx_sent_deactivation_request' function in all versions up to, and including, 4.2.4. This makes it possible for authenticated attackers, with Subscriber-level access and above, to send a canned email to the site's administrator asking to delete the profile of an arbitrary vendor.\n\nPublication Date: Thu Oct 24 11:09:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9531"
+            ]
+        },
+        {
+            "Message ID": 89635,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-8667\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8667\n\nDescription: The HurryTimer – An Scarcity and Urgency Countdown Timer for WordPress & WooCommerce plugin for WordPress is vulnerable to unauthorized post publication due to a missing capability check on the activateCampaign() function in all versions up to, and including, 2.10.0. This makes it possible for authenticated attackers, with contributor-level access and above, to publish arbitrary posts like ones they have submitted for review, or a site administrator has in draft.\n\nPublication Date: Thu Oct 24 11:08:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8667"
+            ]
+        },
+        {
+            "Message ID": 89634,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-9943\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9943\n\nDescription: The MultiVendorX – The Ultimate WooCommerce Multivendor Marketplace Solution plugin for WordPress is vulnerable to Cross-Site Request Forgery in all versions up to, and including, 4.2.4. This is due to missing or incorrect nonce validation on several functions in api/class-mvx-rest-controller.php. This makes it possible for unauthenticated attackers to update vendor account details, create vendor accounts, and delete arbitrary users via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.\n\nPublication Date: Thu Oct 24 11:08:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9943"
+            ]
         }
     ]
 }
