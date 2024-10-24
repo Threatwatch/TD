@@ -2072,6 +2072,28 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-data-of-malkansview-training/"
             ]
+        },
+        {
+            "Message ID": 5865,
+            "discovered": "2024-10-24",
+            "post_title": "Data from WhiteIntel on the bottom is correct, this domain does not have anything leaking.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5864,
+            "discovered": "2024-10-24",
+            "post_title": "💡 Free Post\n\n🚨🇨🇳henrymans0n Has Allegedly Leaked the Databases from Alisan Fine Arts\n\nhttps://darkwebinformer.com/henrymas0n-has-allegedly-leaked-the-databases-from-alisan-fine-arts/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/henrymas0n-has-allegedly-leaked-the-databases-from-alisan-fine-arts/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -27034,6 +27056,66 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-20219"
+            ]
+        },
+        {
+            "Message ID": 89799,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-48454\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48454\n\nDescription: An issue in SourceCodester Purchase Order Management System v1.0 allows a remote attacker to execute arbitrary code via the /admin?page=user component\n\nPublication Date: Thu Oct 24 22:20:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48454"
+            ]
+        },
+        {
+            "Message ID": 89798,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Lessons Learned from Employee Responses During Cyber Risks\n\nDate: October 24, 2024\n\nSource: https://adlumin.com/post/lessons-learned-from-employee-responses-during-cyber-risks/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://adlumin.com/post/lessons-learned-from-employee-responses-during-cyber-risks/"
+            ]
+        },
+        {
+            "Message ID": 89797,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-10313\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10313\n\nDescription: iniNet Solutions SpiderControl SCADA PC HMI Editor has a path traversal \nvulnerability. When the software loads a malicious ‘ems' project \ntemplate file constructed by an attacker, it can write files to \narbitrary directories. This can lead to overwriting system files, \ncausing system paralysis, or writing to startup items, resulting in \nremote control.\n\nPublication Date: Thu Oct 24 22:09:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10313"
+            ]
+        },
+        {
+            "Message ID": 89796,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-46995\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-46995\n\nDescription: baserCMS is a website development framework. Versions prior to 5.1.2 have a cross-site scripting vulnerability in HTTP 400 Bad Request. Version 5.1.2 fixes this issue.\n\nPublication Date: Thu Oct 24 22:09:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-46995"
+            ]
+        },
+        {
+            "Message ID": 89795,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-48139\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48139\n\nDescription: A prompt injection vulnerability in the chatbox of Blackbox AI v1.3.95 allows attackers to access and exfiltrate all previous and subsequent chat data between the user and the AI assistant via a crafted message.\n\nPublication Date: Thu Oct 24 22:09:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48139"
             ]
         }
     ]
