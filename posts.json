@@ -24417,6 +24417,19 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9374"
             ]
+        },
+        {
+            "Message ID": 89631,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-40595\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-40595\n\nDescription: An authentication-bypass issue in the RDP component of One Identity Safeguard for Privileged Sessions (SPS) On Premise before 7.5.1 (and LTS before 7.0.5.1) allows man-in-the-middle attackers to obtain access to privileged sessions on target resources by intercepting cleartext RDP protocol information.\n\nPublication Date: Thu Oct 24 09:06:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Premise"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-40595",
+                "7.0.5.1"
+            ]
         }
     ]
 }
