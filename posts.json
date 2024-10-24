@@ -18618,6 +18618,16 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3297,
+            "discovered": "2024-10-24",
+            "post_title": "Group: flocker\nApprox. Time: 04:40 24/10/24\nTitle: F*******M Corp",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -20058,6 +20068,42 @@
             ],
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18123"
+            ]
+        },
+        {
+            "Message ID": 3835,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18130\n⚠ Thu, 24 Oct 2024 00:47:31 UTC\n🥷 play\n🎯 Mainelli Mechanical Contractors, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18130",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18130"
+            ]
+        },
+        {
+            "Message ID": 3834,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18129\n⚠ Thu, 24 Oct 2024 00:44:30 UTC\n🥷 play\n🎯 TU Parks, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18129",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18129"
+            ]
+        },
+        {
+            "Message ID": 3833,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18128\n⚠ Thu, 24 Oct 2024 00:41:27 UTC\n🥷 play\n🎯 Ivanhoe Club, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18128",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18128"
             ]
         }
     ],
