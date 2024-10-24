@@ -20614,6 +20614,31 @@
                 "csolve.com, ",
                 "somfeed.it/index.php?page=post_details&id_post=18135"
             ]
+        },
+        {
+            "Message ID": 3843,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18139\n⚠ Thu, 24 Oct 2024 12:22:50 UTC\n🥷 apt73\n🎯 nanolive.ch, Switzerland\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18139",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Switzerland"
+            ],
+            "URLs": [
+                "nolive.ch, ",
+                "somfeed.it/index.php?page=post_details&id_post=18139"
+            ]
+        },
+        {
+            "Message ID": 3842,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18137\n⚠ Thu, 24 Oct 2024 12:24:42 UTC\n🥷 apt73\n🎯 Sandro Forte Financial Support, UK\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18137",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18137"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -26389,6 +26414,19 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2022-35800"
+            ]
+        },
+        {
+            "Message ID": 89753,
+            "discovered": "2024-10-24",
+            "post_title": "Title: The Rise of Chinese APT Campaigns: Volt Typhoon, Salt Typhoon, Flax Typhoon, and Velvet Ant\n\nDate: October 24, 2024\n\nSource: https://eclypsium.com/blog/the-rise-of-chinese-apt-campaigns-volt-typhoon-salt-typhoon-flax-typhoon-and-velvet-ant/\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Salt Typhoon",
+                "China"
+            ],
+            "URLs": [
+                "https://eclypsium.com/blog/the-rise-of-chinese-apt-campaigns-volt-typhoon-salt-typhoon-flax-typhoon-and-velvet-ant/"
             ]
         }
     ]
