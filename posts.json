@@ -27262,6 +27262,162 @@
             "URLs": [
                 "https://www.scworld.com/news/third-party-vendors-drive-45-of-breaches-in-us-energy-sector"
             ]
+        },
+        {
+            "Message ID": 89823,
+            "discovered": "2024-10-24",
+            "post_title": "Title: Drupal security advisory (AV24-611)\n\nDate: October 24, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-611\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-611"
+            ]
+        },
+        {
+            "Message ID": 89822,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2022-48959\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-48959\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: dsa: sja1105: fix memory leak in sja1105_setup_devlink_regions()\n\nWhen dsa_devlink_region_create failed in sja1105_setup_devlink_regions(),\npriv->regions is not released.\n\nPublication Date: Thu Oct 24 23:09:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-48959"
+            ]
+        },
+        {
+            "Message ID": 89821,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2022-48960\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-48960\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: hisilicon: Fix potential use-after-free in hix5hd2_rx()\n\nThe skb is delivered to napi_gro_receive() which may free it, after\ncalling this, dereferencing skb may trigger use-after-free.\n\nPublication Date: Thu Oct 24 23:08:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-48960"
+            ]
+        },
+        {
+            "Message ID": 89820,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2022-48962\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-48962\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: hisilicon: Fix potential use-after-free in hisi_femac_rx()\n\nThe skb is delivered to napi_gro_receive() which may free it, after\ncalling this, dereferencing skb may trigger use-after-free.\n\nPublication Date: Thu Oct 24 23:08:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "hisi_femac_rx"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-48962"
+            ]
+        },
+        {
+            "Message ID": 89819,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2022-48963\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-48963\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: wwan: iosm: fix memory leak in ipc_mux_init()\n\nWhen failed to alloc ipc_mux->ul_adb.pp_qlt in ipc_mux_init(), ipc_mux\nis not released.\n\nPublication Date: Thu Oct 24 23:08:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-48963"
+            ]
+        },
+        {
+            "Message ID": 89818,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-39941\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-39941\n\nDescription: Improper access control in some Intel(R) SUR software before version 2.4.10587 may allow an unauthenticated user to potentially enable denial of service via adjacent access.\n\nPublication Date: Thu Oct 24 23:08:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-39941"
+            ]
+        },
+        {
+            "Message ID": 89817,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2022-48964\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-48964\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nravb: Fix potential use-after-free in ravb_rx_gbeth()\n\nThe skb is delivered to napi_gro_receive() which may free it, after calling this,\ndereferencing skb may trigger use-after-free.\n\nPublication Date: Thu Oct 24 23:08:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "23:08:16"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-48964"
+            ]
+        },
+        {
+            "Message ID": 89816,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-21641\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-21641\n\nDescription: An app with non-privileged access can change global system brightness and cause undesired system behavior.\n\nPublication Date: Thu Oct 24 23:08:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-21641"
+            ]
+        },
+        {
+            "Message ID": 89815,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-37650\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37650\n\nDescription: A Cross-Site Request Forgery (CSRF) in the Admin portal of Cockpit CMS v2.5.2 allows attackers to execute arbitrary Administrator commands.\n\nPublication Date: Thu Oct 24 23:07:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Admin"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37650"
+            ]
+        },
+        {
+            "Message ID": 89814,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-49233\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-49233\n\nDescription: Insufficient access checks in Visual Planning Admin Center 8 before v.1 Build 240207 allow attackers in possession of a non-administrative Visual Planning account to utilize functions normally reserved for administrators. The affected functions allow attackers to obtain different types of configured credentials and potentially elevate their privileges to administrator level.\n\nPublication Date: Thu Oct 24 23:07:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-49233"
+            ]
+        },
+        {
+            "Message ID": 89813,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-7973\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-7973\n\nDescription: Heap buffer overflow in PDFium in Google Chrome prior to 128.0.6613.84 allowed a remote attacker to perform an out of bounds memory read via a crafted PDF file. (Chromium security severity: Medium)\n\nPublication Date: Thu Oct 24 23:07:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7973"
+            ]
+        },
+        {
+            "Message ID": 89812,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2024-48539\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48539\n\nDescription: Neye3C v4.5.2.0 was discovered to contain a hardcoded encryption key in the firmware update mechanism.\n\nPublication Date: Thu Oct 24 23:07:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48539"
+            ]
+        },
+        {
+            "Message ID": 89811,
+            "discovered": "2024-10-24",
+            "post_title": "CVE-ID: CVE-2023-25523\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-25523\n\nDescription: NVIDIA CUDA toolkit for Linux and Windows contains a vulnerability in the nvdisasm binary file, where an attacker may cause a NULL pointer dereference by providing a user with a malformed ELF file. A successful exploit of this vulnerability may lead to a partial denial of service.\n\nPublication Date: Thu Oct 24 23:07:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-25523"
+            ]
         }
     ]
 }
