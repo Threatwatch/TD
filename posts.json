@@ -20115,6 +20115,30 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18128"
             ]
+        },
+        {
+            "Message ID": 3837,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18132\n⚠ Thu, 24 Oct 2024 00:56:38 UTC\n🥷 play\n🎯 Iron World Manufacturing, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18132",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18132"
+            ]
+        },
+        {
+            "Message ID": 3836,
+            "discovered": "2024-10-24",
+            "post_title": "ID: 18131\n⚠ Thu, 24 Oct 2024 04:54:44 UTC\n🥷 play\n🎯 Eagle Industries, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18131",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18131"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
