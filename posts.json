@@ -24103,6 +24103,46 @@
                 "https://isc.sans.edu/podcastdetail/9194",
                 "https://isc.sans.edu/diary/rss/31378"
             ]
+        },
+        {
+            "Message ID": 89614,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: P+B Team Aircargo\n\nDetection Date: Thu Oct 24 06:18:17 2024\n\nThreat Actor: ra group\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89613,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: Prince Pipes\n\nDetection Date: Thu Oct 24 06:18:01 2024\n\nThreat Actor: ra group\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89612,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: The Povman Law Firm\n\nDetection Date: Thu Oct 24 06:17:48 2024\n\nThreat Actor: bianlian\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89611,
+            "discovered": "2024-10-24",
+            "post_title": "Victim: Gluckstein Personal Injury Lawyers\n\nDetection Date: Thu Oct 24 06:17:36 2024\n\nThreat Actor: bianlian\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ]
 }
