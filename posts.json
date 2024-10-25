@@ -19662,6 +19662,120 @@
             "URLs": [
                 "https://t.co/1qAlSVuERS"
             ]
+        },
+        {
+            "Message ID": 3332,
+            "discovered": "2024-10-25",
+            "post_title": "Group: sarcoma\nApprox. Time: 10:42 25/10/24\nTitle: SRS-Stahl GmbH",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3331,
+            "discovered": "2024-10-25",
+            "post_title": "Group: sarcoma\nApprox. Time: 10:42 25/10/24\nTitle: MESHWORKS",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3330,
+            "discovered": "2024-10-25",
+            "post_title": "Group: lynx\nApprox. Time: 10:42 25/10/24\nTitle: ValueMax Group",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3329,
+            "discovered": "2024-10-25",
+            "post_title": "Group: lynx\nApprox. Time: 10:42 25/10/24\nTitle: Precision Electrical Systems",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3328,
+            "discovered": "2024-10-25",
+            "post_title": "Group: lynx\nApprox. Time: 10:42 25/10/24\nTitle: Denkali",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3327,
+            "discovered": "2024-10-25",
+            "post_title": "Group: FOG\nApprox. Time: 10:42 25/10/24\nTitle: Cucamonga Valley Water District (https://t.co/EjULFB4vJy)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/EjULFB4vJy"
+            ]
+        },
+        {
+            "Message ID": 3326,
+            "discovered": "2024-10-25",
+            "post_title": "Group: underground\nApprox. Time: 10:42 25/10/24\nTitle: https://t.co/XRWTj2X9Qp",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/XRWTj2X9Qp"
+            ]
+        },
+        {
+            "Message ID": 3325,
+            "discovered": "2024-10-25",
+            "post_title": "Group: hunters\nApprox. Time: 10:42 25/10/24\nTitle: Niko Resources Ltd.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3324,
+            "discovered": "2024-10-25",
+            "post_title": "Group: hunters\nApprox. Time: 10:42 25/10/24\nTitle: Ambica Steels",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3323,
+            "discovered": "2024-10-25",
+            "post_title": "Group: rhysida\nApprox. Time: 10:42 25/10/24\nTitle: De Rose Lawyers",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3322,
+            "discovered": "2024-10-25",
+            "post_title": "Group: ragroup\nApprox. Time: 10:41 25/10/24\nTitle: Matouk Bassiouny",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -29625,6 +29739,70 @@
             "URLs": [
                 "zyloware.com"
             ]
+        },
+        {
+            "Message ID": 89938,
+            "discovered": "2024-10-25",
+            "post_title": "Title: The New Frontier: Crafting robust AI Governance in a fast-evolving landscape\n\nDate: October 25, 2024\n\nSource: https://www.scworld.com/news/the-new-frontier-crafting-robust-ai-governance-in-a-fast-evolving-landscape\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/the-new-frontier-crafting-robust-ai-governance-in-a-fast-evolving-landscape"
+            ]
+        },
+        {
+            "Message ID": 89937,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: De Rose Lawyers\n\nDetection Date: Fri Oct 25 13:50:41 2024\n\nThreat Actor: rhysida\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89936,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: Cucamonga Valley Water District (cvwdwater.com)\n\nDetection Date: Fri Oct 25 13:50:27 2024\n\nThreat Actor: fog\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "cvwdwater.com"
+            ]
+        },
+        {
+            "Message ID": 89935,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: Denkali\n\nDetection Date: Fri Oct 25 13:50:14 2024\n\nThreat Actor: lynx\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89934,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: Precision Electrical Systems\n\nDetection Date: Fri Oct 25 13:50:00 2024\n\nThreat Actor: lynx\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89933,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: ValueMax Group\n\nDetection Date: Fri Oct 25 13:49:46 2024\n\nThreat Actor: lynx\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ]
 }
