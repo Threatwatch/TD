@@ -2567,6 +2567,18 @@
             "URLs": [
                 "://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-doctors-from-israels-ministry-of-health/"
             ]
+        },
+        {
+            "Message ID": 5908,
+            "discovered": "2024-10-25",
+            "post_title": "Status: 🔼\n\n💡FREE POST FRIDAY\n\n🚨🇮🇱Al Ahad Targeted the Website of Jerusalem Post\n\nhttps://darkwebinformer.com/al-ahad-targeted-the-website-of-jerusalem-post/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "://darkwebinformer.com/al-ahad-targeted-the-website-of-jerusalem-post/"
+            ]
         }
     ],
     "RipperSec | 团队": [
