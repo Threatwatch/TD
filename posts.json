@@ -2406,6 +2406,30 @@
             "URLs": [
                 "s://darkwebinformer.com/darkraas-is-allegedly-selling-access-to-an-unidentified-singapore-gaming-company/"
             ]
+        },
+        {
+            "Message ID": 5894,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇮🇪888 has Allegedly Leaked the Data from LoyLap\n\nhttps://darkwebinformer.com/888-has-allegedly-leaked-the-data-from-loylap/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/888-has-allegedly-leaked-the-data-from-loylap/"
+            ]
+        },
+        {
+            "Message ID": 5893,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇵🇭A Threat Actor Has Allegedly Leaked Data from Toyota Makati\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-from-toyota-makati-2/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-from-toyota-makati-2/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -31652,6 +31676,40 @@
                 "https://www.mcil.gov.ws/hook.htm",
                 "http://www.zone-h.org/mirror/id/41292926"
             ]
+        },
+        {
+            "Message ID": 90053,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-49929\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49929\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: iwlwifi: mvm: avoid NULL pointer dereference\n\niwl_mvm_tx_skb_sta() and iwl_mvm_tx_mpdu() verify that the mvmvsta\npointer is not NULL.\nIt retrieves this pointer using iwl_mvm_sta_from_mac80211, which is\ndereferencing the ieee80211_sta pointer.\nIf sta is NULL, iwl_mvm_sta_from_mac80211 will dereference a NULL\npointer.\nFix this by checking the sta pointer before retrieving the mvmsta\nfrom it. If sta is not NULL, then mvmsta isn't either.\n\nPublication Date: Fri Oct 25 19:55:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49929"
+            ]
+        },
+        {
+            "Message ID": 90052,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-49930\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49930\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: ath11k: fix array out-of-bound access in SoC stats\n\nCurrently, the ath11k_soc_dp_stats::hal_reo_error array is defined with a\nmaximum size of DP_REO_DST_RING_MAX. However, the ath11k_dp_process_rx()\nfunction access ath11k_soc_dp_stats::hal_reo_error using the REO\ndestination SRNG ring ID, which is incorrect. SRNG ring ID differ from\nnormal ring ID, and this usage leads to out-of-bounds array access. To fix\nthis issue, modify ath11k_dp_process_rx() to use the normal ring ID\ndirectly instead of the SRNG ring ID to avoid out-of-bounds array access.\n\nTested-on: QCN9074 hw1.0 PCI WLAN.HK.2.7.0.1-01744-QCAHKSWPL_SILICONZ-1\n\nPublication Date: Fri Oct 25 19:55:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49930"
+            ]
+        },
+        {
+            "Message ID": 90051,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: Ottawa Valley Handrailing Company Ltd\n\nDetection Date: Fri Oct 25 19:54:45 2024\n\nThreat Actor: nitrogen\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": []
