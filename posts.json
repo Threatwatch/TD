@@ -2625,6 +2625,18 @@
                 "USA"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5913,
+            "discovered": "2024-10-25",
+            "post_title": "💡For the Wolfenstein 3D lovers that commented on the DOOM video! I got you!\n\nCredit: https://www.youtube.com/@PCUSER486",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.youtube.com/@PCUSER486"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -32580,6 +32592,19 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-37057"
+            ]
+        },
+        {
+            "Message ID": 90099,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Tourists, Fortis, apps, TLP, AWS, Google, Chatbots, Aaran Leyland, and More... - SWN #425\n\nDate: October 25, 2024\n\nSource: https://www.scworld.com/podcast-segment/13321-tourists-fortis-apps-tlp-aws-google-chatbots-aaran-leyland-and-more-swn-425\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Fortis",
+                "Chatbots"
+            ],
+            "URLs": [
+                "https://www.scworld.com/podcast-segment/13321-tourists-fortis-apps-tlp-aws-google-chatbots-aaran-leyland-and-more-swn-425"
             ]
         }
     ],
