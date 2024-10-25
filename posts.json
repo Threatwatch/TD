@@ -8097,6 +8097,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1183,
+            "discovered": "2024-10-25",
+            "post_title": "🚨Cyberattack Alert ‼️\n\n🇮🇱Israel - The Knesset\n\nHellcat hacking group claims to have breached The Knesset, the unicameral legislature of Israel.\n\nAllegedly, 45 GB of data, including confidential documents, internal communications, and various classified information, were exfiltrated. \n\nRansom demand: $200,000.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
@@ -29172,6 +29182,126 @@
             ],
             "URLs": [
                 "Groupseco.com"
+            ]
+        },
+        {
+            "Message ID": 89907,
+            "discovered": "2024-10-25",
+            "post_title": "Title: QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3\n\nDate: October 25, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/qnap-synology-lexmark-devices-hacked-on-pwn2own-day-3/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/qnap-synology-lexmark-devices-hacked-on-pwn2own-day-3/"
+            ]
+        },
+        {
+            "Message ID": 89906,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48870\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48870\n\nDescription: Sharp and Toshiba Tec MFPs improperly validate input data in URI data registration, resulting in a stored cross-site scripting vulnerability.\nIf crafted input is stored by an administrative user, malicious script may be executed on the web browsers of other victim users.\n\nPublication Date: Fri Oct 25 10:07:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48870"
+            ]
+        },
+        {
+            "Message ID": 89905,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47801\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47801\n\nDescription: Sharp and Toshiba Tec MFPs improperly process query parameters in HTTP requests, resulting in a reflected cross-site scripting vulnerability.\nAccessing a crafted URL which points to an affected product may cause malicious script executed on the web browser.\n\nPublication Date: Fri Oct 25 10:07:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47801"
+            ]
+        },
+        {
+            "Message ID": 89904,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47549\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47549\n\nDescription: Sharp and Toshiba Tec MFPs improperly process query parameters in HTTP requests, which may allow contamination of unintended data to HTTP response headers.\nAccessing a crafted URL which points to an affected product may cause malicious script executed on the web browser.\n\nPublication Date: Fri Oct 25 10:07:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47549"
+            ]
+        },
+        {
+            "Message ID": 89903,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47406\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47406\n\nDescription: Sharp and Toshiba Tec MFPs improperly process HTTP authentication requests, resulting in an authentication bypass vulnerability.\n\nPublication Date: Fri Oct 25 10:06:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47406"
+            ]
+        },
+        {
+            "Message ID": 89902,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47005\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47005\n\nDescription: Sharp and Toshiba Tec MFPs provide configuration related APIs. They are expected to be called by administrative users only, but insufficiently restricted.\nA non-administrative user may execute some configuration APIs.\n\nPublication Date: Fri Oct 25 10:06:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47005"
+            ]
+        },
+        {
+            "Message ID": 89901,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-45842\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45842\n\nDescription: Sharp and Toshiba Tec MFPs improperly process URI data in HTTP PUT requests resulting in a path Traversal vulnerability.\nUnintended internal files may be retrieved when processing crafted HTTP requests.\n\nPublication Date: Fri Oct 25 10:06:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45842"
+            ]
+        },
+        {
+            "Message ID": 89900,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-45829\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45829\n\nDescription: Sharp and Toshiba Tec MFPs provide the web page to download data, where query parameters in HTTP requests are improperly processed and resulting in an Out-of-bounds Read vulnerability.\nCrafted HTTP requests may cause affected products crashed.\n\nPublication Date: Fri Oct 25 10:06:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45829"
+            ]
+        },
+        {
+            "Message ID": 89899,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-43424\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43424\n\nDescription: Sharp and Toshiba Tec MFPs improperly process HTTP request headers, resulting in an Out-of-bounds Read vulnerability.\nCrafted HTTP requests may cause affected products crashed.\n\nPublication Date: Fri Oct 25 10:06:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43424"
+            ]
+        },
+        {
+            "Message ID": 89898,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-42420\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42420\n\nDescription: Sharp and Toshiba Tec MFPs contain multiple Out-of-bounds Read vulnerabilities, due to improper processing of keyword search input and improper processing of SOAP messages.\nCrafted HTTP requests may cause affected products crashed.\n\nPublication Date: Fri Oct 25 10:06:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42420"
             ]
         }
     ]
