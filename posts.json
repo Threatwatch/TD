@@ -15726,6 +15726,19 @@
                 "Israel"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 942,
+            "discovered": "2024-10-25",
+            "post_title": "https://www.hendryadrian.com/campus-gov-il-data-breach-exposes-110gb-of-sensitive-information/\n\nhttps://dailydarkweb.net/campus-gov-il-data-breach-exposes-over-110gb-of-sensitive-information/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.hendryadrian.com/campus-gov-il-data-breach-exposes-110gb-of-sensitive-information/",
+                "https://dailydarkweb.net/campus-gov-il-data-breach-exposes-over-110gb-of-sensitive-information/"
+            ]
         }
     ],
     "Electronic Tigers Unit": [
@@ -31265,6 +31278,78 @@
             ],
             "URLs": [
                 "https://www.reliaquest.com/blog/black-basta-social-engineering-technique-microsoft-teams/"
+            ]
+        },
+        {
+            "Message ID": 90035,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Nonconsensual targeted advertising leads to $335M penalty for LinkedIn\n\nDate: October 25, 2024\n\nSource: https://www.scworld.com/brief/nonconsensual-targeted-advertising-leads-to-335m-penalty-for-linkedin\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/nonconsensual-targeted-advertising-leads-to-335m-penalty-for-linkedin"
+            ]
+        },
+        {
+            "Message ID": 90034,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Actively exploited Cisco ASA, FTD vulnerability addressed\n\nDate: October 25, 2024\n\nSource: https://www.scworld.com/brief/actively-exploited-cisco-asa-ftd-vulnerability-addressed\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/actively-exploited-cisco-asa-ftd-vulnerability-addressed"
+            ]
+        },
+        {
+            "Message ID": 90033,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Troves of UN gender violence data leaked by unsecured database\n\nDate: October 25, 2024\n\nSource: https://www.scworld.com/brief/troves-of-un-gender-violence-data-leaked-by-unsecured-database\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/troves-of-un-gender-violence-data-leaked-by-unsecured-database"
+            ]
+        },
+        {
+            "Message ID": 90032,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Data breach confirmed by Henry Schein\n\nDate: October 25, 2024\n\nSource: https://www.scworld.com/brief/data-breach-confirmed-by-henry-schein\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/data-breach-confirmed-by-henry-schein"
+            ]
+        },
+        {
+            "Message ID": 90031,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Landmark breach compromises over 800K\n\nDate: October 25, 2024\n\nSource: https://www.scworld.com/brief/landmark-breach-compromises-over-800k\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/landmark-breach-compromises-over-800k"
+            ]
+        },
+        {
+            "Message ID": 90030,
+            "discovered": "2024-10-25",
+            "post_title": "Title: More than 100M impacted by record-breaking Change Healthcare hack\n\nDate: October 25, 2024\n\nSource: https://www.scworld.com/brief/more-than-100m-impacted-by-record-breaking-change-healthcare-hack\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/more-than-100m-impacted-by-record-breaking-change-healthcare-hack"
             ]
         }
     ],
