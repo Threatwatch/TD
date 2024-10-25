@@ -2759,6 +2759,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5925,
+            "discovered": "2024-10-25",
+            "post_title": "ill say 5 more minutes",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -33330,6 +33340,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-48239"
+            ]
+        },
+        {
+            "Message ID": 90140,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Breaking Silos: A cybersecurity must, says AuditBoard CTO\n\nDate: October 25, 2024\n\nSource: https://www.scworld.com/news/breaking-silos-a-cybersecurity-must-says-auditboard-cto\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/breaking-silos-a-cybersecurity-must-says-auditboard-cto"
             ]
         }
     ],
