@@ -2693,6 +2693,16 @@
             "URLs": [
                 "s://darkwebinformer.com/lakesight-technologies-holding-gmbh-has-been-claimed-a-victim-to-medusa-ransomware/"
             ]
+        },
+        {
+            "Message ID": 5919,
+            "discovered": "2024-10-25",
+            "post_title": "🚨🇪🇬A Threat Actor Allegedly Leaked Data of Multiple Clubs, Banks and Real Estate Companies in Egypt",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Egypt"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -33007,6 +33017,30 @@
             ],
             "URLs": [
                 "https://www.scworld.com/news/change-healthcare-breach-affected-100-million-americans"
+            ]
+        },
+        {
+            "Message ID": 90129,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Apple publishes its 1st-ever Virtual Research Environment for Private Cloud Compute\n\nDate: October 25, 2024\n\nSource: https://www.scworld.com/news/apple-publishes-its-1st-ever-virtual-research-environment-for-private-cloud-compute\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/apple-publishes-its-1st-ever-virtual-research-environment-for-private-cloud-compute"
+            ]
+        },
+        {
+            "Message ID": 90128,
+            "discovered": "2024-10-25",
+            "post_title": "Title: AWS breaks up massive Russian phishing operation\n\nDate: October 25, 2024\n\nSource: https://www.scworld.com/news/aws-breaks-up-massive-russian-phishing-operation\n\n#News #Russia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Russia"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/aws-breaks-up-massive-russian-phishing-operation"
             ]
         }
     ],
