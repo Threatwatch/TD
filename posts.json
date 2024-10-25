@@ -30107,6 +30107,70 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 89969,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Apple Opens PCC Source Code for Researchers to Identify Bugs in Cloud AI Security\n\nDate: Oct 25, 2024\n\nSource: https://thehackernews.com/2024/10/apple-opens-pcc-source-code-for.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/apple-opens-pcc-source-code-for.html"
+            ]
+        },
+        {
+            "Message ID": 89968,
+            "discovered": "2024-10-25",
+            "post_title": "Title: The Future of AI Is Here—But Are You Ready? Learn the OECD’s Blueprint for Ethical AI\n\nDate: October 25, 2024\n\nSource: https://e-discoveryteam.com/2024/10/25/the-future-of-ai-is-here-but-are-you-ready-learn-the-oecds-blueprint-for-ethical-ai/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://e-discoveryteam.com/2024/10/25/the-future-of-ai-is-here-but-are-you-ready-learn-the-oecds-blueprint-for-ethical-ai/"
+            ]
+        },
+        {
+            "Message ID": 89967,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47481\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47481\n\nDescription: Dell Data Lakehouse, version(s) 1.0.0.0, 1.1.0., contain(s) an Improper Access Control vulnerability. An unauthenticated attacker with adjacent network access could potentially exploit this vulnerability, leading to Denial of service.\n\nPublication Date: Fri Oct 25 15:02:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47481",
+                "1.0.0.0"
+            ]
+        },
+        {
+            "Message ID": 89966,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47483\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47483\n\nDescription: Dell Data Lakehouse, version(s) 1.0.0.0 and 1.1.0.0, contain(s) an Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability. An unauthenticated attacker with local access could potentially exploit this vulnerability, leading to Information disclosure.\n\nPublication Date: Fri Oct 25 15:02:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47483",
+                "1.0.0.0",
+                "1.1.0.0"
+            ]
+        },
+        {
+            "Message ID": 89965,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-10374\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10374\n\nDescription: The WP-Members Membership Plugin plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's wpmem_loginout shortcode in all versions up to, and including, 3.4.9.5 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Fri Oct 25 15:02:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10374",
+                "3.4.9.5"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
