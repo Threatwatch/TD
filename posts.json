@@ -2703,6 +2703,18 @@
                 "Egypt"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5920,
+            "discovered": "2024-10-25",
+            "post_title": "💡FREE POST FRIDAY\n\n🚨🇧🇸Liquid Blood Targeted the Website of BAHFSA\n\nhttps://darkwebinformer.com/liquid-blood-targeted-the-website-of-bahfsa/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/liquid-blood-targeted-the-website-of-bahfsa/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -22715,6 +22727,117 @@
                 "wdwater.com),",
                 "somfeed.it/index.php?page=post_details&id_post=18193"
             ]
+        },
+        {
+            "Message ID": 3901,
+            "discovered": "2024-10-25",
+            "post_title": "ID: 18207\n⚠ Fri, 25 Oct 2024 17:39:12 UTC\n🥷 ransomhub\n🎯 www.olanocorp.com, Peru\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18207",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Peru"
+            ],
+            "URLs": [
+                "w.olanocorp.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18207"
+            ]
+        },
+        {
+            "Message ID": 3900,
+            "discovered": "2024-10-25",
+            "post_title": "ID: 18206\n⚠ Fri, 25 Oct 2024 16:50:17 UTC\n🥷 killsec\n🎯 Doctor24x7, India\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18206",
+            "Attack Type": "Unknown",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18206"
+            ]
+        },
+        {
+            "Message ID": 3899,
+            "discovered": "2024-10-25",
+            "post_title": "ID: 18205\n⚠ Fri, 25 Oct 2024 16:47:10 UTC\n🥷 killsec\n🎯 Delcaper, India\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18205",
+            "Attack Type": "Unknown",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18205"
+            ]
+        },
+        {
+            "Message ID": 3898,
+            "discovered": "2024-10-25",
+            "post_title": "ID: 18204\n⚠ Fri, 25 Oct 2024 16:47:03 UTC\n🥷 killsec\n🎯 Government of Brazil, Brazil\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18204",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Brazil",
+                "Brazil"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18204"
+            ]
+        },
+        {
+            "Message ID": 3897,
+            "discovered": "2024-10-25",
+            "post_title": "ID: 18203\n⚠ Fri, 25 Oct 2024 16:45:56 UTC\n🥷 killsec\n🎯 NoBroker, India\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18203",
+            "Attack Type": "Unknown",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18203"
+            ]
+        },
+        {
+            "Message ID": 3896,
+            "discovered": "2024-10-25",
+            "post_title": "ID: 18202\n⚠ Fri, 25 Oct 2024 16:44:48 UTC\n🥷 killsec\n🎯 SW Reclaim, UK\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18202",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18202"
+            ]
+        },
+        {
+            "Message ID": 3895,
+            "discovered": "2024-10-25",
+            "post_title": "ID: 18201\n⚠ Fri, 25 Oct 2024 16:43:39 UTC\n🥷 killsec\n🎯 Wilson Tarquin, UK\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18201",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18201"
+            ]
+        },
+        {
+            "Message ID": 3894,
+            "discovered": "2024-10-25",
+            "post_title": "ID: 18200\n⚠ Fri, 25 Oct 2024 16:08:39 UTC\n🥷 nitrogen\n🎯 Ottawa Valley Handrailing Company Ltd, UK\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18200",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18200"
+            ]
+        },
+        {
+            "Message ID": 3893,
+            "discovered": "2024-10-25",
+            "post_title": "ID: 18199\n⚠ Fri, 25 Oct 2024 16:02:33 UTC\n🥷 fog\n🎯 Evergreen Public Schools (evergreenps.org), USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18199",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "ergreenps.org),",
+                "somfeed.it/index.php?page=post_details&id_post=18199"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -33041,6 +33164,128 @@
             ],
             "URLs": [
                 "https://www.scworld.com/news/aws-breaks-up-massive-russian-phishing-operation"
+            ]
+        },
+        {
+            "Message ID": 90139,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48228\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48228\n\nDescription: An issue was found in funadmin 5.0.2. The selectfiles method in \\backend\\controller\\sys\\Attachh.php directly stores the passed parameters and values into the param parameter without filtering, resulting in Cross Site Scripting (XSS).\n\nPublication Date: Sat Oct 26 01:03:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48228"
+            ]
+        },
+        {
+            "Message ID": 90138,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48234\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48234\n\nDescription: An issue was discovered in mipjz 5.0.5. In the push method of app\\tag\\controller\\ApiAdminTag.php the value of the postAddress parameter is not processed and is directly passed into curl_exec execution and output, resulting in Server-side request forgery (SSRF) vulnerability that can read server files.\n\nPublication Date: Sat Oct 26 01:03:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Server"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48234"
+            ]
+        },
+        {
+            "Message ID": 90137,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2022-48969\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-48969\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nxen-netfront: Fix NULL sring after live migration\n\nA NAPI is setup for each network sring to poll data to kernel\nThe sring with source host is destroyed before live migration and\nnew sring with target host is setup after live migration.\nThe NAPI for the old sring is not deleted until setup new sring\nwith target host after migration. With busy_poll/busy_read enabled,\nthe NAPI can be polled before got deleted when resume VM.\n\nBUG: unable to handle kernel NULL pointer dereference at\n0000000000000008\nIP: xennet_poll+0xae/0xd20\nPGD 0 P4D 0\nOops: 0000 [#1] SMP PTI\nCall Trace:\n finish_task_switch+0x71/0x230\n timerqueue_del+0x1d/0x40\n hrtimer_try_to_cancel+0xb5/0x110\n xennet_alloc_rx_buffers+0x2a0/0x2a0\n napi_busy_loop+0xdb/0x270\n sock_poll+0x87/0x90\n do_sys_poll+0x26f/0x580\n tracing_map_insert+0x1d4/0x2f0\n event_hist_trigger+0x14a/0x260\n\n finish_task_switch+0x71/0x230\n __schedule+0x256/0x890\n recalc_sigpending+0x1b/0x50\n xen_sched_clock+0x15/0x20\n __rb_reserve_next+0x12d/0x140\n ring_buffer_lock_reserve+0x123/0x3d0\n event_triggers_call+0x87/0xb0\n trace_event_buffer_commit+0x1c4/0x210\n xen_clocksource_get_cycles+0x15/0x20\n ktime_get_ts64+0x51/0xf0\n SyS_ppoll+0x160/0x1a0\n SyS_ppoll+0x160/0x1a0\n do_syscall_64+0x73/0x130\n entry_SYSCALL_64_after_hwframe+0x41/0xa6\n...\nRIP: xennet_poll+0xae/0xd20 RSP: ffffb4f041933900\nCR2: 0000000000000008\n---[ end trace f8601785b354351c ]---\n\nxen frontend should remove the NAPIs for the old srings before live\nmigration as the bond srings are destroyed\n\nThere is a tiny window between the srings are set to NULL and\nthe NAPIs are disabled, It is safe as the NAPI threads are still\nfrozen at that time\n\nPublication Date: Sat Oct 26 01:03:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-48969"
+            ]
+        },
+        {
+            "Message ID": 90136,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48235\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48235\n\nDescription: An issue in ofcms 1.1.2 allows a remote attacker to execute arbitrary code via the save method of the TemplateController.java file.\n\nPublication Date: Sat Oct 26 01:03:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48235",
+                "TemplateController.java"
+            ]
+        },
+        {
+            "Message ID": 90135,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48236\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48236\n\nDescription: An issue in ofcms 1.1.2 allows a remote attacker to execute arbitrary code via the FileOutputStream function in the write String method of the ofcms-admin\\src\\main\\java\\com\\ofsoft\\cms\\core\\uitle\\FileUtils.java file\n\nPublication Date: Sat Oct 26 01:03:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48236",
+                "FileUtils.java"
+            ]
+        },
+        {
+            "Message ID": 90134,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2022-48968\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-48968\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nocteontx2-pf: Fix potential memory leak in otx2_init_tc()\n\nIn otx2_init_tc(), if rhashtable_init() failed, it does not free\ntc->tc_entries_bitmap which is allocated in otx2_tc_alloc_ent_bitmap().\n\nPublication Date: Sat Oct 26 01:03:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "otx2_init_tc"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-48968"
+            ]
+        },
+        {
+            "Message ID": 90133,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48237\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48237\n\nDescription: WTCMS 1.0 is vulnerable to Incorrect Access Control in \\Common\\Controller\\HomebaseController.class.php.\n\nPublication Date: Sat Oct 26 01:02:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48237"
+            ]
+        },
+        {
+            "Message ID": 90132,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2022-48967\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-48967\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nNFC: nci: Bounds check struct nfc_target arrays\n\nWhile running under CONFIG_FORTIFY_SOURCE=y, syzkaller reported:\n\n  memcpy: detected field-spanning write (size 129) of single field \"target->sensf_res\" at net/nfc/nci/ntf.c:260 (size 18)\n\nThis appears to be a legitimate lack of bounds checking in\nnci_add_new_protocol(). Add the missing checks.\n\nPublication Date: Sat Oct 26 01:02:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-48967"
+            ]
+        },
+        {
+            "Message ID": 90131,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48238\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48238\n\nDescription: WTCMS 1.0 is vulnerable to SQL Injection in the edit_post method of /Admin\\Controller\\NavControl.class.php via the parentid parameter.\n\nPublication Date: Sat Oct 26 01:02:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48238"
+            ]
+        },
+        {
+            "Message ID": 90130,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48239\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48239\n\nDescription: An issue was discovered in WTCMS 1.0. In the plupload method in \\AssetController.class.php, the app parameters aren't processed, resulting in Cross Site Scripting (XSS).\n\nPublication Date: Sat Oct 26 01:02:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48239"
             ]
         }
     ],
