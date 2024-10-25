@@ -30055,6 +30055,59 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-47041"
             ]
+        },
+        {
+            "Message ID": 89964,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: hcsgcorp.com\n\nDetection Date: Fri Oct 25 14:50:43 2024\n\nThreat Actor: team underground\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "hcsgcorp.com"
+            ]
+        },
+        {
+            "Message ID": 89963,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: Niko Resources Ltd.\n\nDetection Date: Fri Oct 25 14:50:29 2024\n\nThreat Actor: hunters\n\n#Ransomware",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89962,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: Ambica Steels\n\nDetection Date: Fri Oct 25 14:50:15 2024\n\nThreat Actor: hunters\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89961,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: Matouk Bassiouny\n\nDetection Date: Fri Oct 25 14:49:58 2024\n\nThreat Actor: ra group\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89960,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: ****\n\nDetection Date: Fri Oct 25 14:49:42 2024\n\nThreat Actor: ra group\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
-    ]
+    ],
+    "RipperSec | 新闻频道 📑": []
 }
