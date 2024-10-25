@@ -30385,6 +30385,97 @@
             "URLs": [
                 "lolaliza.com"
             ]
+        },
+        {
+            "Message ID": 89985,
+            "discovered": "2024-10-25",
+            "post_title": "Target: http://www.moju.pa.gov.br\n\nNotified: p4r4d0x cr3w\n\nDate: Sun, 28 Jun 2015 22:32:14 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/24515948\n\n#Defacements #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "http://www.moju.pa.gov.br",
+                "http://www.zone-h.org/mirror/id/24515948"
+            ]
+        },
+        {
+            "Message ID": 89984,
+            "discovered": "2024-10-25",
+            "post_title": "Target: http://www.camaratrabiju.sp.gov.br\n\nNotified: p4r4d0x cr3w\n\nDate: Mon, 29 Jun 2015 00:26:35 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/24516238\n\n#Defacements #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "http://www.camaratrabiju.sp.gov.br",
+                "http://www.zone-h.org/mirror/id/24516238"
+            ]
+        },
+        {
+            "Message ID": 89983,
+            "discovered": "2024-10-25",
+            "post_title": "Target: http://www.cmxambre.pr.gov.br\n\nNotified: p4r4d0x cr3w\n\nDate: Mon, 29 Jun 2015 00:28:29 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/24516241\n\n#Defacements #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "http://www.cmxambre.pr.gov.br",
+                "http://www.zone-h.org/mirror/id/24516241"
+            ]
+        },
+        {
+            "Message ID": 89982,
+            "discovered": "2024-10-25",
+            "post_title": "Target: http://www.camarabrasilnovo.com.br\n\nNotified: p4r4d0x cr3w\n\nDate: Mon, 29 Jun 2015 00:38:11 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/24516266\n\n#Defacements #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "http://www.camarabrasilnovo.com.br",
+                "http://www.zone-h.org/mirror/id/24516266"
+            ]
+        },
+        {
+            "Message ID": 89981,
+            "discovered": "2024-10-25",
+            "post_title": "Target: http://www.camaracerrogrande.rs.gov.br\n\nNotified: p4r4d0x cr3w\n\nDate: Mon, 29 Jun 2015 00:39:36 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/24516281\n\n#Defacements #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "http://www.camaracerrogrande.rs.gov.br",
+                "http://www.zone-h.org/mirror/id/24516281"
+            ]
+        },
+        {
+            "Message ID": 89980,
+            "discovered": "2024-10-25",
+            "post_title": "Target: http://www.muqui.es.gov.br\n\nNotified: p4r4d0x cr3w\n\nDate: Sun, 28 Jun 2015 22:29:54 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/24515944\n\n#Defacements #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "http://www.muqui.es.gov.br",
+                "http://www.zone-h.org/mirror/id/24515944"
+            ]
+        },
+        {
+            "Message ID": 89979,
+            "discovered": "2024-10-25",
+            "post_title": "Target: http://www.camarasjriopardo.sp.gov.br\n\nNotified: MegaMan Crew\n\nDate: Mon, 15 Jun 2015 23:36:39 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/24461475\n\n#Defacements #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "http://www.camarasjriopardo.sp.gov.br",
+                "http://www.zone-h.org/mirror/id/24461475"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
