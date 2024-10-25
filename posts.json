@@ -2543,6 +2543,30 @@
                 "ttps://mullvad.net/en/blog/defense-against-ai-guided-traffic-analysis-daita-is-now-available-on-android\n",
                 "ttps://mullvad.net/en/blog/introducing-shadowsocks-obfuscation-for-wireguard"
             ]
+        },
+        {
+            "Message ID": 5907,
+            "discovered": "2024-10-25",
+            "post_title": "is it the salute or the browser view? if it's the browser view screenshot: https://x.com/DarkWebInformer/status/1849883356609090026\n\nif it's the salute I would have blurred it if it was a direct post on X. Since this is hosted on my platform I don't redact unless it's data. nothing to do with racism",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1849883356609090026"
+            ]
+        },
+        {
+            "Message ID": 5906,
+            "discovered": "2024-10-25",
+            "post_title": "💡FREE POST FRIDAY\n\n🚨🚨🇮🇱A Threat Actor has Allegedly Leaked the Database of Doctor's from Israel's Ministry of Health\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-doctors-from-israels-ministry-of-health/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-doctors-from-israels-ministry-of-health/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -20355,6 +20379,18 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3336,
+            "discovered": "2024-10-25",
+            "post_title": "Group: ransomhub\nApprox. Time: 18:36 25/10/24\nTitle: https://t.co/tiCMnEDzr5",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/tiCMnEDzr5"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -32303,6 +32339,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-48700"
+            ]
+        },
+        {
+            "Message ID": 90084,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: Evergreen Public Schools (evergreenps.org)\n\nDetection Date: Fri Oct 25 21:46:44 2024\n\nThreat Actor: fog\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "evergreenps.org"
             ]
         }
     ],
