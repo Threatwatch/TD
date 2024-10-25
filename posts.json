@@ -29325,6 +29325,164 @@
             "URLs": [
                 "https://quointelligence.eu/2024/10/threat-intelligence-snapshot-week-43-2024/"
             ]
+        },
+        {
+            "Message ID": 89921,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Two Key Figures of Notorious Serbian Clan Arrested in Barcelona\n\nDate: October 25, 2024\n\nSource: https://www.europol.europa.eu/media-press/newsroom/news/two-key-figures-of-notorious-serbian-clan-arrested-in-barcelona\n\n#News #Serbia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Barcelona"
+            ],
+            "URLs": [
+                "https://www.europol.europa.eu/media-press/newsroom/news/two-key-figures-of-notorious-serbian-clan-arrested-in-barcelona"
+            ]
+        },
+        {
+            "Message ID": 89920,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Pwn2Own Ireland 2024: Day Four and Master of Pwn\n\nDate: October 25, 2024\n\nSource: https://www.thezdi.com/blog/2024/10/25/pwn2own-ireland-2024-day-four-and-master-of-pwn\n\n#News #Ireland",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Ireland"
+            ],
+            "URLs": [
+                "https://www.thezdi.com/blog/2024/10/25/pwn2own-ireland-2024-day-four-and-master-of-pwn"
+            ]
+        },
+        {
+            "Message ID": 89919,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-10148\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10148\n\nDescription: The Awesome buttons plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's btn2 shortcode in all versions up to, and including, 1.0 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Fri Oct 25 11:02:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10148"
+            ]
+        },
+        {
+            "Message ID": 89918,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-50583\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50583\n\nDescription: Whale browser Installer before 3.1.0.0 allows an attacker to execute a malicious DLL in the user environment due to improper permission settings.\n\nPublication Date: Fri Oct 25 11:02:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50583",
+                "3.1.0.0"
+            ]
+        },
+        {
+            "Message ID": 89917,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-9235\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9235\n\nDescription: The Mapster WP Maps plugin for WordPress is vulnerable to unauthorized modification of data that can lead to privilege escalation due to an insufficient capability check on the mapster_wp_maps_set_option_from_js() function in all versions up to, and including, 1.5.0. This makes it possible for authenticated attackers, with contributor-level access and above, to update arbitrary options on the WordPress site. This can be leveraged to update the default role for registration to administrator and enable user registration for attackers to gain administrative user access to a vulnerable site.\n\nPublication Date: Fri Oct 25 11:02:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9235"
+            ]
+        },
+        {
+            "Message ID": 89916,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-9302\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9302\n\nDescription: The App Builder – Create Native Android & iOS Apps On The Flight plugin for WordPress is vulnerable to privilege escalation via account takeover in all versions up to, and including, 5.3.7. This is due to the verify_otp_forgot_password() and update_password() functions not having enough controls to prevent a successful brute force attack of the OTP to change a password, or verify that a password reset request came from an authorized user. This makes it possible for unauthenticated attackers to generate and brute force an OTP that makes it possible to change any users passwords, including an administrator.\n\nPublication Date: Fri Oct 25 11:02:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9302"
+            ]
+        },
+        {
+            "Message ID": 89915,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-9607\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9607\n\nDescription: The 10Web Social Post Feed plugin for WordPress is vulnerable to Reflected Cross-Site Scripting due to the use of add_query_arg without appropriate escaping on the URL in all versions up to, and including, 1.2.9. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link. Please note this is only exploitable when the leave a review notice is present.\n\nPublication Date: Fri Oct 25 11:02:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9607"
+            ]
+        },
+        {
+            "Message ID": 89914,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-10341\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10341\n\nDescription: The League of Legends Shortcodes plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 1.0.1 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with contributor-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\nPublication Date: Fri Oct 25 11:01:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10341"
+            ]
+        },
+        {
+            "Message ID": 89913,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-10342\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10342\n\nDescription: The League of Legends Shortcodes plugin for WordPress is vulnerable to Stored Cross-Site Scripting via shortcodes in versions up to, and including, 1.0.1 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers with contributor-level and above permissions to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Fri Oct 25 11:01:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10342"
+            ]
+        },
+        {
+            "Message ID": 89912,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-10150\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10150\n\nDescription: The Bamazoo – Button Generator plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's dgs shortcode in all versions up to, and including, 1.0 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Fri Oct 25 11:01:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10150"
+            ]
+        },
+        {
+            "Message ID": 89911,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-9598\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9598\n\nDescription: The AMP for WP – Accelerated Mobile Pages plugin for WordPress is vulnerable to Cross-Site Request Forgery in all versions up to, and including, 1.0.99.1. This is due to missing or incorrect nonce validation on the 'proxy' function. This makes it possible for unauthenticated attackers to send the logged in user's cookies to their own server via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.\n\nPublication Date: Fri Oct 25 11:01:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9598",
+                "1.0.99.1"
+            ]
+        },
+        {
+            "Message ID": 89910,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-9630\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9630\n\nDescription: The WPS Telegram Chat plugin for WordPress is vulnerable to authorization bypass due to a missing capability check when accessing messages in versions up to, and including, 4.5.4. This makes it possible for unauthenticated attackers to view the messages that are sent through the Telegram Bot API.\n\nPublication Date: Fri Oct 25 11:01:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9630"
+            ]
+        },
+        {
+            "Message ID": 89909,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-9628\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9628\n\nDescription: The WPS Telegram Chat plugin for WordPress is vulnerable to unauthorized modification of data and loss of data due to a missing capability check on the 'Wps_Telegram_Chat_Admin::checkСonnection' function in versions up to, and including, 4.5.4. This makes it possible for authenticated attackers, with subscriber-level access and above, to have full access to the Telegram Bot API endpoint and communicate with it.\n\nPublication Date: Fri Oct 25 11:01:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9628"
+            ]
         }
     ]
 }
