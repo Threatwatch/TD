@@ -2637,6 +2637,18 @@
             "URLs": [
                 "ttps://www.youtube.com/@PCUSER486"
             ]
+        },
+        {
+            "Message ID": 5914,
+            "discovered": "2024-10-25",
+            "post_title": "💡FREE POST FRIDAY\n\n🚨🇧🇷0xy0um0m is Allegedly Selling Access to an Cartão Cred Black Database\n\nhttps://darkwebinformer.com/0xy0um0m-is-allegedly-selling-access-to-an-cartao-cred-black-database/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/0xy0um0m-is-allegedly-selling-access-to-an-cartao-cred-black-database/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -32605,6 +32617,142 @@
             ],
             "URLs": [
                 "https://www.scworld.com/podcast-segment/13321-tourists-fortis-apps-tlp-aws-google-chatbots-aaran-leyland-and-more-swn-425"
+            ]
+        },
+        {
+            "Message ID": 90110,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-32211\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-32211\n\nDescription: An issue in LOGINT LoMag Inventory Management v1.0.20.120 and before allows a local attacker to obtain sensitive information via the UserClass.cs and Settings.cs components.\n\nPublication Date: Fri Oct 25 23:19:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-32211"
+            ]
+        },
+        {
+            "Message ID": 90109,
+            "discovered": "2024-10-25",
+            "post_title": "Vulnerability ID: CVE-2024-43532\n\nDescription: Remote Registry Service Elevation of Privilege Vulnerability\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-43532\n\nDate of Publishing: 2024/10/25\n\nLink to Exploit: https://github.com/HazeLook/CVE-2024-43532\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43532",
+                "https://github.com/HazeLook/CVE-2024-43532"
+            ]
+        },
+        {
+            "Message ID": 90108,
+            "discovered": "2024-10-25",
+            "post_title": "Vulnerability ID: CVE-2024-48652\n\nDescription: Cross Site Scripting vulnerability in camaleon-cms v.2.7.5 allows remote attacker to execute arbitrary code via the content group name field.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-48652\n\nDate of Publishing: 2024/10/25\n\nLink to Exploit: https://github.com/paragbagul111/CVE-2024-48652/\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48652",
+                "https://github.com/paragbagul111/CVE-2024-48652/"
+            ]
+        },
+        {
+            "Message ID": 90107,
+            "discovered": "2024-10-25",
+            "post_title": "Vulnerability ID: CVE-2024-40493\n\nDescription: Null Pointer Dereference in `coap_client_exchange_blockwise2` function in Keith Cullen FreeCoAP 1.0 allows remote attackers to cause a denial of service and potentially execute arbitrary code via a specially crafted CoAP packet that causes `coap_msg_get_payload(resp)` to return a null pointer, which is then dereferenced in a call to `memcpy`.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-40493\n\nDate of Publishing: 2024/10/25\n\nLink to Exploit: https://github.com/keith-cullen/FreeCoAP/issues/37\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-40493",
+                "https://github.com/keith-cullen/FreeCoAP/issues/37"
+            ]
+        },
+        {
+            "Message ID": 90106,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2022-30354\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-30354\n\nDescription: OvalEdge 5.2.8.0 and earlier is affected by a Sensitive Data Exposure vulnerability via a GET request to /user/getUserWithTeam. Authentication is required. The information disclosed is associated with all registered user ID numbers.\n\nPublication Date: Fri Oct 25 23:08:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-30354",
+                "5.2.8.0"
+            ]
+        },
+        {
+            "Message ID": 90105,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48204\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48204\n\nDescription: SQL injection vulnerability in Hanzhou Haobo network management system 1.0 allows a remote attacker to execute arbitrary code via a crafted script.\n\nPublication Date: Fri Oct 25 23:08:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48204"
+            ]
+        },
+        {
+            "Message ID": 90104,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2023-24486\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-24486\n\nDescription: A vulnerability has been identified in Citrix Workspace app for Linux that, if exploited, may result in a malicious local user being able to gain access to the Citrix Virtual Apps and Desktops session of another user who is using the same computer from which the ICA session is launched.\n\nPublication Date: Fri Oct 25 23:07:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-24486"
+            ]
+        },
+        {
+            "Message ID": 90103,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-30804\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-30804\n\nDescription: An issue discovered in the DeviceIoControl component in ASUS Fan_Xpert before v.10013 allows an attacker to execute arbitrary code via crafted IOCTL requests.\n\nPublication Date: Fri Oct 25 23:07:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-30804"
+            ]
+        },
+        {
+            "Message ID": 90102,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-32407\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-32407\n\nDescription: An issue in inducer relate before v.2024.1 allows a remote attacker to execute arbitrary code via a crafted payload to the Page Sandbox feature.\n\nPublication Date: Fri Oct 25 23:07:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-32407"
+            ]
+        },
+        {
+            "Message ID": 90101,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-49767\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49767\n\nDescription: Werkzeug is a Web Server Gateway Interface web application library. Applications using `werkzeug.formparser.MultiPartParser` corresponding to a version of Werkzeug prior to 3.0.6 to parse `multipart/form-data` requests (e.g. all flask applications) are vulnerable to a relatively simple but effective resource exhaustion (denial of service) attack. A specifically crafted form submission request can cause the parser to allocate and block 3 to 8 times the upload size in main memory. There is no upper limit; a single upload at 1 Gbit/s can exhaust 32 GB of RAM in less than 60 seconds. Werkzeug version 3.0.6 fixes this issue.\n\nPublication Date: Fri Oct 25 23:07:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Werkzeug"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49767"
+            ]
+        },
+        {
+            "Message ID": 90100,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2023-38297\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-38297\n\nDescription: An issue was discovered in a third-party com.factory.mmigroup component, shipped on devices from multiple device manufacturers. Certain software builds for various Android devices contain a vulnerable pre-installed app with a package name of com.factory.mmigroup (versionCode='3', versionName='2.1) that allows local third-party apps to perform various actions, due to inadequate access control, in its context (system user), but the functionalities exposed depend on the specific device. The following capabilities are exposed to zero-permission, third-party apps on the following devices: arbitrary AT command execution via AT command injection (T-Mobile Revvl 6 Pro 5G, T-Mobile Revvl V+ 5G, and Boost Mobile Celero 5G); programmatic factory reset (Samsung Galaxy A03S, T-Mobile Revvl 6 Pro 5G, T-Mobile Revvl V+ 5G, Boost Mobile Celero, Realme C25Y, and Lenovo Tab M8 HD), leaking IMEI (Samsung Galaxy A03S, T-Mobile Revvl 6 Pro 5G, T-Mobile Revvl V+ 5G, Boost Mobile Celero, and Realme C25Y); leaking serial number (Samsung Galaxy A03s, T-Mobile Revvl 6 Pro 5G, T-Mobile Revvl V+ 5G, Boost Mobile Celero, Realme C25Y, and Lenovo Tab M8 HD); powering off the device (Realme C25Y, Samsung Galaxy A03S, and T-Mobile Revvl 6 Pro 5G); and programmatically enabling/disabling airplane mode (Samsung Galaxy A03S, T-Mobile Revvl 6 Pro 5G, T-Mobile Revvl V+ 5G, Boost Mobile Celero, and Realme C25Y); and enabling Wi-Fi, Bluetooth, and GPS (Samsung Galaxy A03S, T-Mobile Revvl 6 Pro 5G, T-Mobile Revvl V+ 5G, Boost Mobile Celero, and Realme C25Y). No permissions or special privileges are necessary to exploit the vulnerabilities in the com.factory.mmigroup app. No user interaction is required beyond installing and running a third-party app. The software build fingerprints for each confirmed vulnerable device are as follows: Boost Mobile Celero 5G (Celero5G/Jupiter/Jupiter:11/RP1A.200720.011/SW_S98119AA1_V067:user/release-keys, Celero5G/Jupiter/Jupiter:11/RP1A.200720.011/SW_S98119AA1_V064:user/release-keys, Celero5G/Jupiter/Jupiter:11/RP1A.200720.011/SW_S98119AA1_V061:user/release-keys, and Celero5G/Jupiter/Jupiter:11/RP1A.200720.011/SW_S98119AA1_V052:user/release-keys); Samsung Galaxy A03S (samsung/a03sutfn/a03su:13/TP1A.220624.014/S134DLUDU6CWB6:user/release-keys and samsung/a03sutfn/a03su:12/SP1A.210812.016/S134DLUDS5BWA1:user/release-keys); Lenovo Tab M8 HD (Lenovo/LenovoTB-8505F/8505F:10/QP1A.190711.020/S300637_220706_BMP:user/release-keys and Lenovo/LenovoTB-8505F/8505F:10/QP1A.190711.020/S300448_220114_BMP:user/release-keys); T-Mobile Revvl 6 Pro 5G (T-Mobile/Augusta/Augusta:12/SP1A.210812.016/SW_S98121AA1_V070:user/release-keys and T-Mobile/Augusta/Augusta:12/SP1A.210812.016/SW_S98121AA1_V066:user/release-keys); T-Mobile Revvl V+ 5G (T-Mobile/Sprout/Sprout:11/RP1A.200720.011/SW_S98115AA1_V077:user/release-keys and T-Mobile/Sprout/Sprout:11/RP1A.200720.011/SW_S98115AA1_V060:user/release-keys); and Realme C25Y (realme/RMX3269/RED8F6:11/RP1A.201005.001/1675861640000:user/release-keys, realme/RMX3269/RED8F6:11/RP1A.201005.001/1664031768000:user/release-keys, realme/RMX3269/RED8F6:11/RP1A.201005.001/1652814687000:user/release-keys, and realme/RMX3269/RED8F6:11/RP1A.201005.001/1635785712000:user/release-keys). This malicious app sends a broadcast Intent to com.factory.mmigroup/.MMIGroupReceiver. This causes the com.factory.mmigroup app to dynamically register for various action strings. The malicious app can then send these strings, allowing it to perform various behaviors that the com.factory.mmigroup app exposes. The actual behaviors exposed by the com.factory.mmigroup app depend on device model and chipset. The com.factory.mmigroup app executes as the \"system\" user, allowing it to interact with the baseband processor and perform various other sensitive actions.\n\nPublication Date: Fri Oct 25 23:07:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-38297"
             ]
         }
     ],
