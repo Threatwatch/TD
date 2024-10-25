@@ -2316,6 +2316,74 @@
             "URLs": [
                 "s://darkwebinformer.com/303-is-allegedly-selling-ftp-access-to-at-t-corp/"
             ]
+        },
+        {
+            "Message ID": 5890,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇸🇬ValueMax Group Has Been Claimed a Victim to LYNX Ransomware\n\nhttps://darkwebinformer.com/valuemax-group-has-been-claimed-a-victim-to-lynx-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/valuemax-group-has-been-claimed-a-victim-to-lynx-ransomware/"
+            ]
+        },
+        {
+            "Message ID": 5889,
+            "discovered": "2024-10-25",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5888,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇮🇹AlphaTeam is Allegedly Selling Database and Server Files of Sfera Ufficio\n\nhttps://darkwebinformer.com/alphateam-is-allegedly-selling-database-and-server-files-of-sfera-ufficio/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/alphateam-is-allegedly-selling-database-and-server-files-of-sfera-ufficio/"
+            ]
+        },
+        {
+            "Message ID": 5887,
+            "discovered": "2024-10-25",
+            "post_title": "Looks like Cisco and Disney will be #1 and #2.. who will be #3? Poll ends in 8 hours",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Cisco"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5886,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇦🇺MESHWORKS PTY LIMITED Has Been Claimed a Victim to Sarcoma Ransomware\n\nhttps://darkwebinformer.com/meshworks-pty-limited-has-been-claimed-a-victim-to-sarcoma-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/meshworks-pty-limited-has-been-claimed-a-victim-to-sarcoma-ransomware/"
+            ]
+        },
+        {
+            "Message ID": 5885,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇺🇸Cucamonga Valley Water District Has Been Claimed a Victim to FOG Ransomware\n\nhttps://darkwebinformer.com/cucamonga-valley-water-district-has-been-claimed-a-victim-to-fog-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/cucamonga-valley-water-district-has-been-claimed-a-victim-to-fog-ransomware/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -31350,6 +31418,150 @@
             ],
             "URLs": [
                 "https://www.scworld.com/brief/more-than-100m-impacted-by-record-breaking-change-healthcare-hack"
+            ]
+        },
+        {
+            "Message ID": 90047,
+            "discovered": "2024-10-25",
+            "post_title": "Title: AWS Seizes Domains Used by Russian Threat Group APT29\n\nDate: October 25, 2024\n\nSource: https://securityboulevard.com/2024/10/aws-seizes-domains-used-by-russian-threat-group-apt29/\n\n#News #Russia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Russia"
+            ],
+            "URLs": [
+                "https://securityboulevard.com/2024/10/aws-seizes-domains-used-by-russian-threat-group-apt29/"
+            ]
+        },
+        {
+            "Message ID": 90046,
+            "discovered": "2024-10-25",
+            "post_title": "Title: 100 MILLION Americans in UnitedHealth PII Breach\n\nDate: October 25, 2024\n\nSource: https://securityboulevard.com/2024/10/unitedhealth-change-healthcare-100m-richixbw/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://securityboulevard.com/2024/10/unitedhealth-change-healthcare-100m-richixbw/"
+            ]
+        },
+        {
+            "Message ID": 90045,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Racing Ahead: How Lumen is Delivering Exceptional Customer Experiences\n\nDate: October 25, 2024\n\nSource: https://blog.lumen.com/racing-ahead-how-lumen-is-delivering-exceptional-customer-experiences/?utm_source=rss&utm_medium=rss&utm_campaign=racing-ahead-how-lumen-is-delivering-exceptional-customer-experiences\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.lumen.com/racing-ahead-how-lumen-is-delivering-exceptional-customer-experiences/?utm_source=rss&utm_medium=rss&utm_campaign=racing-ahead-how-lumen-is-delivering-exceptional-customer-experiences"
+            ]
+        },
+        {
+            "Message ID": 90044,
+            "discovered": "2024-10-25",
+            "post_title": "Title: XWorm diffuso in Italia tramite falsa fattura Namirial\n\nDate: October 25, 2024\n\nSource: https://cert-agid.gov.it/news/xworm-diffuso-in-italia-tramite-falsa-fattura-namirial/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Italia"
+            ],
+            "URLs": [
+                "https://cert-agid.gov.it/news/xworm-diffuso-in-italia-tramite-falsa-fattura-namirial/"
+            ]
+        },
+        {
+            "Message ID": 90043,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2023-26248\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-26248\n\nDescription: The Kademlia DHT (go-libp2p-kad-dht 0.20.0 and earlier) used in IPFS (0.18.1 and earlier) assigns routing information for content (i.e., information about who holds the content) to be stored by peers whose peer IDs have a small DHT distance from the content ID. This allows an attacker to censor content by generating many Sybil peers whose peer IDs have a small distance from the content ID, thus hijacking the content resolution process.\n\nPublication Date: Fri Oct 25 19:09:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-26248"
+            ]
+        },
+        {
+            "Message ID": 90042,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2023-30906\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-30906\n\nDescription: The vulnerability could be locally exploited to allow escalation of privilege.\n\nPublication Date: Fri Oct 25 19:09:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-30906"
+            ]
+        },
+        {
+            "Message ID": 90041,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2023-2263\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-2263\n\nDescription: The Rockwell Automation Kinetix 5700 DC Bus Power Supply Series A is vulnerable to CIP fuzzing.  The new ENIP connections cannot be established if impacted by this vulnerability,  which prohibits operational capabilities of the device resulting in a denial-of-service attack.\n\nPublication Date: Fri Oct 25 19:09:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-2263"
+            ]
+        },
+        {
+            "Message ID": 90040,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48540\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48540\n\nDescription: Incorrect access control in XIAO HE Smart 4.3.1 allows attackers to access sensitive information by analyzing the code and data within the APK file.\n\nPublication Date: Fri Oct 25 19:09:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48540"
+            ]
+        },
+        {
+            "Message ID": 90039,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48579\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48579\n\nDescription: SQL Injection vulnerability in Best House rental management system project in php v.1.0 allows a remote attacker to execute arbitrary code via the username parameter of the login request.\n\nPublication Date: Fri Oct 25 19:09:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48579"
+            ]
+        },
+        {
+            "Message ID": 90038,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48581\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48581\n\nDescription: File Upload vulnerability in Best courier management system in php v.1.0 allows a remote attacker to execute arbitrary code via the admin_class.php component.\n\nPublication Date: Fri Oct 25 19:09:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48581"
+            ]
+        },
+        {
+            "Message ID": 90037,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-9407\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9407\n\nDescription: A vulnerability exists in the bind-propagation option of the Dockerfile RUN --mount instruction. The system does not properly validate the input passed to this option, allowing users to pass arbitrary parameters to the mount instruction. This issue can be exploited to mount sensitive directories from the host into a container during the build process and, in some cases, modify the contents of those mounted files. Even if SELinux is used, this vulnerability can bypass its protection by allowing the source directory to be relabeled to give the container access to host files.\n\nPublication Date: Fri Oct 25 19:08:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9407"
+            ]
+        },
+        {
+            "Message ID": 90036,
+            "discovered": "2024-10-25",
+            "post_title": "Title: More advanced encryption, stealth added to novel Qilin ransomware variant\n\nDate: October 25, 2024\n\nSource: https://www.scworld.com/brief/more-advanced-encryption-stealth-added-to-novel-qilin-ransomware-variant\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Qilin"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/more-advanced-encryption-stealth-added-to-novel-qilin-ransomware-variant"
             ]
         }
     ],
