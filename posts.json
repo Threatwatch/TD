@@ -29565,6 +29565,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-8666"
             ]
+        },
+        {
+            "Message ID": 89928,
+            "discovered": "2024-10-25",
+            "post_title": "Title: SEC Charges 4 Companies Over Misleading SolarWinds Cyberattack Disclosures\n\nDate: Oct 25, 2024\n\nSource: https://thehackernews.com/2024/10/sec-charges-4-companies-over-misleading.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/sec-charges-4-companies-over-misleading.html"
+            ]
         }
     ]
 }
