@@ -2176,6 +2176,42 @@
             "URLs": [
                 "s://darkwebinformer.com/303-allegedly-is-selling-access-to-an-unidentified-california-based-university/"
             ]
+        },
+        {
+            "Message ID": 5875,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇺🇸O'Mara Ag Equipment Has Been Claimed a Victim to BLACK SUIT Ransomware\n\nhttps://darkwebinformer.com/omara-ag-equipment-has-been-claimed-a-victim-to-black-suit-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/omara-ag-equipment-has-been-claimed-a-victim-to-black-suit-ransomware/"
+            ]
+        },
+        {
+            "Message ID": 5874,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇧🇷Government of Brazil Has Been Claimed a Victim to Kill Security Ransomware\n\nhttps://darkwebinformer.com/government-of-brazil-has-been-claimed-a-victim-to-kill-security-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/government-of-brazil-has-been-claimed-a-victim-to-kill-security-ransomware/"
+            ]
+        },
+        {
+            "Message ID": 5873,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇮🇳A Threat Actor Allegedly Claims to have Access tot he Admin Panel of Masoom Education\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-claims-to-have-access-tot-he-admin-panel-of-masoom-education/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-allegedly-claims-to-have-access-tot-he-admin-panel-of-masoom-education/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -8181,6 +8217,16 @@
             "Attack Type": "Hacking",
             "Location": [
                 "Italy"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1192,
+            "discovered": "2024-10-25",
+            "post_title": "🚨The hacker returned $19.2 million to U.S. government wallets, including 13.19 million USDC and 2,408 Ethereum.\n\nThis came after a suspicious transfer from a previously dormant, government-controlled crypto wallet containing over $20 million seized in the 2016 Bitfinex hack.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "U.S."
             ],
             "URLs": []
         }
@@ -19853,6 +19899,18 @@
             ],
             "URLs": [
                 "https://t.co/C62lpy1NbQ"
+            ]
+        },
+        {
+            "Message ID": 3334,
+            "discovered": "2024-10-25",
+            "post_title": "Group: FOG\nApprox. Time: 14:47 25/10/24\nTitle: Evergreen Public Schools (https://t.co/pAlwkHEeZq)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/pAlwkHEeZq"
             ]
         }
     ],
