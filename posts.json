@@ -5810,6 +5810,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 7103,
+            "discovered": "2024-10-25",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -29482,6 +29492,78 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9628"
+            ]
+        },
+        {
+            "Message ID": 89927,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-45785\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45785\n\nDescription: MUSASI version 3 contains an issue with use of client-side authentication. If this vulnerability is exploited, other users' credential and sensitive information may be retrieved.\n\nPublication Date: Fri Oct 25 12:10:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45785"
+            ]
+        },
+        {
+            "Message ID": 89926,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47158\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47158\n\nDescription: N-LINE 2.0.6 and prior versions contain a code injection vulnerability. If this vulnerability is exploited, arbitrary code may be executed on the instructor's browser, or the instructor may be directed to a malicious website.\n\nPublication Date: Fri Oct 25 12:10:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47158"
+            ]
+        },
+        {
+            "Message ID": 89925,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-10016\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10016\n\nDescription: The File Upload Types by WPForms plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in all versions up to, and including, 1.4.0 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Author-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.\n\nPublication Date: Fri Oct 25 12:09:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10016"
+            ]
+        },
+        {
+            "Message ID": 89924,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-10343\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10343\n\nDescription: The Beek Widget Extention plugin for WordPress is vulnerable to Stored Cross-Site Scripting via shortcodes in versions up to, and including, 0.9.5 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers with contributor-level and above permissions to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Fri Oct 25 12:09:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10343"
+            ]
+        },
+        {
+            "Message ID": 89923,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-10112\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10112\n\nDescription: The Simple News plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's 'news' shortcode in all versions up to, and including, 2.8 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Fri Oct 25 12:09:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10112"
+            ]
+        },
+        {
+            "Message ID": 89922,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-8666\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8666\n\nDescription: The Shoutcast Icecast HTML5 Radio Player plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's 'html5radio' shortcode in all versions up to, and including, 2.1.6 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Fri Oct 25 12:09:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8666"
             ]
         }
     ]
