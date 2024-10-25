@@ -2476,6 +2476,18 @@
             "URLs": [
                 "s://darkwebinformer.com/dark-strom-team-targeted-the-website-of-north-sea-port/"
             ]
+        },
+        {
+            "Message ID": 5900,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇮🇱DarkRaaS is Allegedly Selling Access to Maccabi Tel Aviv Sports Club\n\nhttps://darkwebinformer.com/darkraas-is-allegedly-selling-access-to-maccabi-tel-aviv-sports-club/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/darkraas-is-allegedly-selling-access-to-maccabi-tel-aviv-sports-club/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -31931,6 +31943,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-48654"
+            ]
+        },
+        {
+            "Message ID": 90068,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Microsoft Edge security advisory (AV24-612)\n\nDate: October 25, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-612\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-612"
             ]
         }
     ],
