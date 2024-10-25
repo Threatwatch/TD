@@ -2430,6 +2430,52 @@
             "URLs": [
                 "s://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-from-toyota-makati-2/"
             ]
+        },
+        {
+            "Message ID": 5899,
+            "discovered": "2024-10-25",
+            "post_title": "https://x.com/anyrun_app/status/1849862067387498926",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/anyrun_app/status/1849862067387498926"
+            ]
+        },
+        {
+            "Message ID": 5897,
+            "discovered": "2024-10-25",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5896,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇻🇳A Threat Actor Has Allegedly Leaked Admin Credentials of VNPT Telecommunications\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-admin-credentials-of-vnpt-telecommunications/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-admin-credentials-of-vnpt-telecommunications/"
+            ]
+        },
+        {
+            "Message ID": 5895,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇳🇱Dark Strom Team Targeted the Website of North Sea Port\n\nhttps://darkwebinformer.com/dark-strom-team-targeted-the-website-of-north-sea-port/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/dark-strom-team-targeted-the-website-of-north-sea-port/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -31710,6 +31756,182 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 90067,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48580\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48580\n\nDescription: SQL Injection vulnerability in Best courier management system in php v.1.0 allows a remote attacker to execute arbitrary code via the email parameter of the login request.\n\nPublication Date: Fri Oct 25 20:09:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48580"
+            ]
+        },
+        {
+            "Message ID": 90066,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48927\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48927\n\nDescription: Umbraco, a free and open source .NET content management system, has a remote code execution issue in versions on the 13.x branch prior to 13.5.2, 10.x prior to 10.8.7, and 8.x prior to 8.18.15. There is a potential risk of code execution for Backoffice users when they “preview” SVG files in full screen mode. Versions 13.5.2, 10.8,7, and 8.18.15 contain a patch for the issue. As a workaround, derver-side file validation is available to strip script tags from file's content during the file upload process.\n\nPublication Date: Fri Oct 25 20:09:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48927"
+            ]
+        },
+        {
+            "Message ID": 90065,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2022-30357\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-30357\n\nDescription: OvalEdge 5.2.8.0 and earlier is affected by an Account Takeover vulnerability via a POST request to /profile/updateProfile via the userId and email parameters. Authentication is required.\n\nPublication Date: Fri Oct 25 20:08:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-30357",
+                "5.2.8.0"
+            ]
+        },
+        {
+            "Message ID": 90064,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-49753\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49753\n\nDescription: Zitadel is open-source identity infrastructure software. Versions prior to 2.64.1, 2.63.6, 2.62.8, 2.61.4, 2.60.4, 2.59.5, and 2.58.7 have a flaw in the URL validation mechanism of Zitadel actions allows bypassing restrictions intended to block requests to localhost (127.0.0.1). The isHostBlocked check, designed to prevent such requests, can be circumvented by creating a DNS record that resolves to 127.0.0.1. This enables actions to send requests to localhost despite the intended security measures. This vulnerability potentially allows unauthorized access to unsecured internal endpoints, which may contain sensitive information or functionalities. Versions 2.64.1, 2.63.6, 2.62.8, 2.61.4, 2.60.4, 2.59.5, and 2.58.7 contain a patch. No known workarounds are available.\n\nPublication Date: Fri Oct 25 20:08:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49753",
+                "127.0.0.1",
+                "127.0.0.1"
+            ]
+        },
+        {
+            "Message ID": 90063,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2022-30358\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-30358\n\nDescription: OvalEdge 5.2.8.0 and earlier is affected by an Account Takeover vulnerability via a POST request to /user/updatePassword via the userId and newPsw parameters. Authentication is required.\n\nPublication Date: Fri Oct 25 20:08:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-30358",
+                "5.2.8.0"
+            ]
+        },
+        {
+            "Message ID": 90062,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48926\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48926\n\nDescription: Umbraco, a free and open source .NET content management system, has an insufficient session expiration issue in versions on the 13.x branch prior to 13.5.2, 10.x prior to 10.8.7, and 8.x prior to 8.18.15. The Backoffice displays the logout page with a session timeout message before the server session has fully expired, causing users to believe they have been logged out approximately 30 seconds before they actually are. Versions 13.5.2, 10.8,7, and 8.18.15 contain a patch for the issue.\n\nPublication Date: Fri Oct 25 20:08:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48926"
+            ]
+        },
+        {
+            "Message ID": 90061,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-10381\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10381\n\nDescription: This vulnerability exists in Matrix Door Controller Cosec Vega FAXQ due to improper implementation of session management at the web-based management interface. A remote attacker could exploit this vulnerability by sending a specially crafted http request on the vulnerable device.\n\nSuccessful exploitation of this vulnerability could allow remote attacker to gain unauthorized access and take complete control of the targeted device.\n\nPublication Date: Fri Oct 25 20:08:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10381"
+            ]
+        },
+        {
+            "Message ID": 90060,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2022-30359\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-30359\n\nDescription: OvalEdge 5.2.8.0 and earlier is affected by a Sensitive Data Exposure vulnerability via a GET request to /user/getUserList. Authentication is required. The information disclosed is associated with the all registered users, including user ID, status, email address, role(s), user type, license type, and personal details such as first name, last name, gender, and user preferences.\n\nPublication Date: Fri Oct 25 20:07:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-30359",
+                "5.2.8.0"
+            ]
+        },
+        {
+            "Message ID": 90059,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2022-30360\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-30360\n\nDescription: OvalEdge 5.2.8.0 and earlier is affected by multiple Stored XSS (AKA Persistent or Type II) vulnerabilities via a POST request to /profile/updateProfile via the slackid or phone parameters. Authentication is required.\n\nPublication Date: Fri Oct 25 20:07:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-30360",
+                "5.2.8.0"
+            ]
+        },
+        {
+            "Message ID": 90058,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2022-30361\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-30361\n\nDescription: OvalEdge 5.2.8.0 and earlier is affected by a Sensitive Data Exposure vulnerability via a GET request to /user/getUserType. No authentication is required. The information disclosed is associated with the registered user ID, status, email address, role(s), user type, license type, and personal details such as first name, last name, gender, and user preferences.\n\nPublication Date: Fri Oct 25 20:07:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-30361",
+                "5.2.8.0"
+            ]
+        },
+        {
+            "Message ID": 90057,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-30157\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-30157\n\nDescription: A vulnerability in the Suite Applications Services component of Mitel MiCollab through 9.7.1.110 could allow an authenticated attacker with administrative privileges to conduct a SQL Injection attack due to insufficient validation of user input. A successful exploit could allow an attacker to execute arbitrary database and management operations.\n\nPublication Date: Fri Oct 25 20:07:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-30157",
+                "9.7.1.110"
+            ]
+        },
+        {
+            "Message ID": 90056,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48459\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48459\n\nDescription: A command execution vulnerability exists in the AX2 Pro home router produced by Shenzhen Tenda Technology Co., Ltd. (Jixiang Tenda) v.DI_7003G-19.12.24A1V16.03.29.50;V16.03.29.50;V16.03.29.50. An attacker can exploit this vulnerability by constructing a malicious payload to execute commands and further obtain shell access to the router's file system with the highest privileges.\n\nPublication Date: Fri Oct 25 20:07:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48459"
+            ]
+        },
+        {
+            "Message ID": 90055,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2023-46522\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-46522\n\nDescription: TP-LINK device TL-WR886N V7.0_3.0.14_Build_221115_Rel.56908n.bin and TL-WDR7660 2.0.30 were discovered to contain a stack overflow via the function deviceInfoRegister.\n\nPublication Date: Fri Oct 25 20:07:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-46522"
+            ]
+        },
+        {
+            "Message ID": 90054,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48654\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48654\n\nDescription: Cross Site Scripting vulnerability in Blood Bank v.1 allows a remote attacker to execute arbitrary code via a crafted script to the login.php component.\n\nPublication Date: Fri Oct 25 20:06:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48654"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
