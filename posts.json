@@ -28989,6 +28989,30 @@
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-hack/"
             ]
+        },
+        {
+            "Message ID": 89890,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-30090\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-30090\n\nDescription: Microsoft Streaming Service Elevation of Privilege Vulnerability\n\nPublication Date: Fri Oct 25 08:03:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-30090"
+            ]
+        },
+        {
+            "Message ID": 89889,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-9686\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9686\n\nDescription: The Order Notification for Telegram plugin for WordPress is vulnerable to unauthorized test message sending due to a missing capability check on the 'nktgnfw_send_test_message' function in versions up to, and including, 1.0.1. This makes it possible for unauthenticated attackers to send a test message via the Telegram Bot API to the user configured in the settings.\n\nPublication Date: Fri Oct 25 08:03:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9686"
+            ]
         }
     ]
 }
