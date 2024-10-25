@@ -2737,6 +2737,28 @@
             "URLs": [
                 "s://darkwebinformer.com/a-threat-actor-is-allegedly-selling-280-million-usa-citizens-data/"
             ]
+        },
+        {
+            "Message ID": 5924,
+            "discovered": "2024-10-25",
+            "post_title": "💡ALL POSTS TODAY WERE FREE!\n\n💡Daily Dose of Dark Web Informer - October 24th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-24th-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-24th-2024/"
+            ]
+        },
+        {
+            "Message ID": 5923,
+            "discovered": "2024-10-25",
+            "post_title": "20 minutes",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
