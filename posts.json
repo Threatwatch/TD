@@ -31956,6 +31956,30 @@
             "URLs": [
                 "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-612"
             ]
+        },
+        {
+            "Message ID": 90070,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Navigate 2024: Identity security's evolving role in digital transformation\n\nDate: October 25, 2024\n\nSource: https://www.scworld.com/news/navigate-2024-identity-securitys-evolving-role-in-digital-transformation\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/navigate-2024-identity-securitys-evolving-role-in-digital-transformation"
+            ]
+        },
+        {
+            "Message ID": 90069,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: www.olanocorp.com\n\nDetection Date: Fri Oct 25 20:49:05 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.olanocorp.com"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
