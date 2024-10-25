@@ -2659,6 +2659,28 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5917,
+            "discovered": "2024-10-25",
+            "post_title": "💡FREE POST FRIDAY\n\n🚨🇬🇧🇺🇸Lulzsec Arabs Targeted the IT Security Guru UK and Bloomberg Radio USA\n\nhttps://darkwebinformer.com/lulzsec-arabs-targeted-the-it-security-guru-uk-and-bloomberg-radio-usa/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "//darkwebinformer.com/lulzsec-arabs-targeted-the-it-security-guru-uk-and-bloomberg-radio-usa/"
+            ]
+        },
+        {
+            "Message ID": 5916,
+            "discovered": "2024-10-25",
+            "post_title": "3 hours until poll closes. top 3.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -32787,6 +32809,192 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-6333"
+            ]
+        },
+        {
+            "Message ID": 90127,
+            "discovered": "2024-10-25",
+            "post_title": "Vulnerability ID: CVE-2024-48706\n\nDescription: Collabtive 3.1 is vulnerable to Cross-site scripting (XSS) via the title parameter with action=add or action=editform within the (a) managemessage.php file and (b) managetask.php file respectively.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-48706\n\nDate of Publishing: 2024/10/25\n\nLink to Exploit: https://github.com/anoncoder01/Collabtive_StoredXSS/blob/master/vulnerabilities/XSS2.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS",
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48706",
+                "https://github.com/anoncoder01/Collabtive_StoredXSS/blob/master/vulnerabilities/XSS2.md"
+            ]
+        },
+        {
+            "Message ID": 90126,
+            "discovered": "2024-10-25",
+            "post_title": "Vulnerability ID: CVE-2024-48570\n\nDescription: Client Management System 1.0 was discovered to contain a SQL injection vulnerability via the Between Dates Reports parameter at /admin/bwdates-reports-ds.php.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-48570\n\nDate of Publishing: 2024/10/25\n\nLink to Exploit: https://github.com/Luc1f3r066/Client-Management-System-v1.0-\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48570",
+                "https://github.com/Luc1f3r066/Client-Management-System-v1.0-"
+            ]
+        },
+        {
+            "Message ID": 90125,
+            "discovered": "2024-10-25",
+            "post_title": "Vulnerability ID: CVE-2024-46240\n\nDescription: Collabtive 3.1 is vulnerable to Cross-site scripting (XSS) via the name parameter under action=system and the company/contact parameters under action=addcust within admin.php file.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-46240\n\nDate of Publishing: 2024/10/25\n\nLink to Exploit: https://github.com/anoncoder01/Collabtive_StoredXSS/blob/master/vulnerabilities/XSS1.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-46240",
+                "https://github.com/anoncoder01/Collabtive_StoredXSS/blob/master/vulnerabilities/XSS1.md"
+            ]
+        },
+        {
+            "Message ID": 90124,
+            "discovered": "2024-10-25",
+            "post_title": "Vulnerability ID: CVE-2024-48708\n\nDescription: Collabtive 3.1 is vulnerable to Cross-Site Scripting (XSS) via the name parameter in (a) file tasklist.php under action = add/edit and in (b) file admin.php under action = adduser/edituser.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-48708\n\nDate of Publishing: 2024/10/25\n\nLink to Exploit: https://github.com/anoncoder01/Collabtive_StoredXSS/blob/master/vulnerabilities/XSS4.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48708",
+                "https://github.com/anoncoder01/Collabtive_StoredXSS/blob/master/vulnerabilities/XSS4.md"
+            ]
+        },
+        {
+            "Message ID": 90123,
+            "discovered": "2024-10-25",
+            "post_title": "Vulnerability ID: CVE-2024-48707\n\nDescription: Collabtive 3.1 is vulnerable to Cross-site scripting (XSS) via the name parameter under (a) action=add or action=edit within managemilestone.php file and (b) action=addpro within admin.php file.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-48707\n\nDate of Publishing: 2024/10/25\n\nLink to Exploit: https://github.com/anoncoder01/Collabtive_StoredXSS/blob/master/vulnerabilities/XSS3.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48707",
+                "https://github.com/anoncoder01/Collabtive_StoredXSS/blob/master/vulnerabilities/XSS3.md"
+            ]
+        },
+        {
+            "Message ID": 90122,
+            "discovered": "2024-10-25",
+            "post_title": "Title: [Control systems] Siemens security advisory (AV24-614)\n\nDate: October 25, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-614\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av24-614"
+            ]
+        },
+        {
+            "Message ID": 90121,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Black Basta ransomware poses as IT support on Microsoft Teams to breach networks\n\nDate: October 25, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/black-basta-ransomware-poses-as-it-support-on-microsoft-teams-to-breach-networks/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/black-basta-ransomware-poses-as-it-support-on-microsoft-teams-to-breach-networks/"
+            ]
+        },
+        {
+            "Message ID": 90120,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48226\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48226\n\nDescription: Funadmin 5.0.2 is vulnerable to SQL Injection in curd/table/savefield.\n\nPublication Date: Sat Oct 26 00:05:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48226"
+            ]
+        },
+        {
+            "Message ID": 90119,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48227\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48227\n\nDescription: Funadmin 5.0.2 has a logical flaw in the Curd one click command deletion function, which can result in a Denial of Service (DOS).\n\nPublication Date: Sat Oct 26 00:05:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48227"
+            ]
+        },
+        {
+            "Message ID": 90118,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48230\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48230\n\nDescription: funadmin 5.0.2 is vulnerable to SQL Injection via the parentField parameter in the index method of \\backend\\controller\\auth\\Auth.php.\n\nPublication Date: Sat Oct 26 00:05:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48230"
+            ]
+        },
+        {
+            "Message ID": 90117,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48233\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48233\n\nDescription: mipjz 5.0.5 is vulnerable to Cross Site Scripting (XSS) in \\app\\setting\\controller\\ApiAdminSetting.php via the ICP parameter.\n\nPublication Date: Sat Oct 26 00:05:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48233"
+            ]
+        },
+        {
+            "Message ID": 90116,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48232\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48232\n\nDescription: An issue was found in mipjz 5.0.5. In the mipPost method of \\app\\setting\\controller\\ApiAdminTool.php, the value of the postAddress parameter is not processed and is directly passed into curl_exec execution and output, resulting in a Server-side request forgery (SSRF) vulnerability that can read server files.\n\nPublication Date: Sat Oct 26 00:04:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Server"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48232"
+            ]
+        },
+        {
+            "Message ID": 90115,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48229\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48229\n\nDescription: funadmin 5.0.2 has a SQL injection vulnerability in the Curd one click command mode plugin.\n\nPublication Date: Sat Oct 26 00:04:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48229"
+            ]
+        },
+        {
+            "Message ID": 90114,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48396\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48396\n\nDescription: AIML Chatbot 1.0 (fixed in 2.0) is vulnerable to Cross Site Scripting (XSS). The vulnerability is exploited through the message input field, where attackers can inject malicious HTML or JavaScript code. The chatbot fails to sanitize these inputs, leading to the execution of malicious scripts.\n\nPublication Date: Sat Oct 26 00:04:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48396"
+            ]
+        },
+        {
+            "Message ID": 90113,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Change Healthcare breach affected 100 million Americans\n\nDate: October 25, 2024\n\nSource: https://www.scworld.com/news/change-healthcare-breach-affected-100-million-americans\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/change-healthcare-breach-affected-100-million-americans"
             ]
         }
     ],
