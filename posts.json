@@ -7036,6 +7036,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5260,
+            "discovered": "2024-10-25",
+            "post_title": "Wtf Jamuna Tv???\n\nAttack on Indian army By the Kashmiri Resistance fighter are terrorist attacks!!!\n\nHave you started taking Fundings from India?\nOr the thumbnail creator took Date failed drugs before creating it?\n\nor the journalist have lost his mind?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "India"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -21569,6 +21579,18 @@
                 "w.oma.aero, ",
                 "somfeed.it/index.php?page=post_details&id_post=18164"
             ]
+        },
+        {
+            "Message ID": 3878,
+            "discovered": "2024-10-25",
+            "post_title": "ID: 18177\n⚠ Fri, 25 Oct 2024 02:10:07 UTC\n🥷 cicada3301\n🎯 Centrillion Technologies, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18177",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18177"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -29012,6 +29034,42 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9686"
+            ]
+        },
+        {
+            "Message ID": 89893,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Irish Watchdog Imposes Record €310 Million Fine on LinkedIn for GDPR Violations\n\nDate: Oct 25, 2024\n\nSource: https://thehackernews.com/2024/10/irish-watchdog-imposes-record-310.html\n\n#News #Ireland",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Ireland"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/irish-watchdog-imposes-record-310.html"
+            ]
+        },
+        {
+            "Message ID": 89892,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-9109\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9109\n\nDescription: The WooCommerce UPS Shipping – Live Rates and Access Points plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the delete_oauth_data function in all versions up to, and including, 2.3.11. This makes it possible for authenticated attackers, with Subscriber-level access and above, to delete the plugin's API key.\n\nPublication Date: Fri Oct 25 09:09:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9109"
+            ]
+        },
+        {
+            "Message ID": 89891,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-9488\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9488\n\nDescription: The Comments – wpDiscuz plugin for WordPress is vulnerable to authentication bypass in all versions up to, and including, 7.6.24. This is due to insufficient verification on the user being returned by the social login token. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the email and the user does not have an already-existing account for the service returning the token.\n\nPublication Date: Fri Oct 25 09:09:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9488"
             ]
         }
     ]
