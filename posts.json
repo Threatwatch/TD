@@ -2384,6 +2384,28 @@
             "URLs": [
                 "s://darkwebinformer.com/cucamonga-valley-water-district-has-been-claimed-a-victim-to-fog-ransomware/"
             ]
+        },
+        {
+            "Message ID": 5892,
+            "discovered": "2024-10-25",
+            "post_title": "💡Introducing HELLCAT\n\nhellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad[.]onion",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5891,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇸🇬DarkRaaS is Allegedly Selling Access to an Unidentified Singapore Gaming Company\n\nhttps://darkwebinformer.com/darkraas-is-allegedly-selling-access-to-an-unidentified-singapore-gaming-company/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/darkraas-is-allegedly-selling-access-to-an-unidentified-singapore-gaming-company/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -6067,6 +6089,26 @@
             "Message ID": 7103,
             "discovered": "2024-10-25",
             "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 7105,
+            "discovered": "2024-10-25",
+            "post_title": "Any asian?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 7104,
+            "discovered": "2024-10-25",
+            "post_title": "Hi",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -20117,6 +20159,16 @@
             "URLs": [
                 "https://t.co/pAlwkHEeZq"
             ]
+        },
+        {
+            "Message ID": 3335,
+            "discovered": "2024-10-25",
+            "post_title": "Group: nitrogen\nApprox. Time: 16:37 25/10/24\nTitle: Ottawa Valley Handrailing Company Ltd",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -31562,6 +31614,43 @@
             ],
             "URLs": [
                 "https://www.scworld.com/brief/more-advanced-encryption-stealth-added-to-novel-qilin-ransomware-variant"
+            ]
+        },
+        {
+            "Message ID": 90050,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Amazon seizes domains used in rogue Remote Desktop campaign to steal data\n\nDate: October 25, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/amazon-seizes-domains-used-in-rogue-remote-desktop-campaign-to-steal-data/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/amazon-seizes-domains-used-in-rogue-remote-desktop-campaign-to-steal-data/"
+            ]
+        },
+        {
+            "Message ID": 90049,
+            "discovered": "2024-10-25",
+            "post_title": "Title: 100 million US citizens officially impacted by Change Healthcare data breach\n\nDate: October 25, 2024\n\nSource: https://www.malwarebytes.com/blog/news/2024/10/100-million-us-citizens-officially-impacted-by-change-healthcare-data-breach\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/news/2024/10/100-million-us-citizens-officially-impacted-by-change-healthcare-data-breach"
+            ]
+        },
+        {
+            "Message ID": 90048,
+            "discovered": "2024-10-25",
+            "post_title": "Target: https://www.mcil.gov.ws/hook.htm\n\nNotified: Ramil Feyziyev\n\nDate: Fri, 25 Oct 2024 16:20:31 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41292926\n\n#Defacements #Samoa",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.mcil.gov.ws/hook.htm",
+                "http://www.zone-h.org/mirror/id/41292926"
             ]
         }
     ],
