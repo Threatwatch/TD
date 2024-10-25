@@ -28777,6 +28777,19 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10372"
             ]
+        },
+        {
+            "Message ID": 89886,
+            "discovered": "2024-10-25",
+            "post_title": "Title: ISC Stormcast For Friday, October 25th, 2024 https://isc.sans.edu/podcastdetail/9196, (Fri, Oct 25th)\n\nDate: October 25, 2024\n\nSource: https://isc.sans.edu/diary/rss/31382\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/podcastdetail/9196",
+                "https://isc.sans.edu/diary/rss/31382"
+            ]
         }
     ]
 }
