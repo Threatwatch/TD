@@ -2212,6 +2212,64 @@
             "URLs": [
                 "s://darkwebinformer.com/a-threat-actor-allegedly-claims-to-have-access-tot-he-admin-panel-of-masoom-education/"
             ]
+        },
+        {
+            "Message ID": 5880,
+            "discovered": "2024-10-25",
+            "post_title": "🚨🇨🇿Black Maskers Army Claims they Will be Targeting Czech Republic as a Supporter of Israel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5879,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇹🇭RipperSec Targeted the Website of Rambhai Barni Rajabhat University\n\nhttps://darkwebinformer.com/rippersec-targeted-the-website-of-rambhai-barni-rajabhat-university/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/rippersec-targeted-the-website-of-rambhai-barni-rajabhat-university/"
+            ]
+        },
+        {
+            "Message ID": 5878,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇮🇱HELLCAT is Allegedly Selling the Data of The Knesset\n\nhttps://darkwebinformer.com/hellcat-is-allegedly-selling-the-data-of-the-knesset/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/hellcat-is-allegedly-selling-the-data-of-the-knesset/"
+            ]
+        },
+        {
+            "Message ID": 5877,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇺🇸Zyloware Eyewear Has Been Claimed a Victim to BLACK SUIT Ransomware\n\nhttps://darkwebinformer.com/zyloware-eyewear-has-been-claimed-a-victim-to-black-suit-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/zyloware-eyewear-has-been-claimed-a-victim-to-black-suit-ransomware/"
+            ]
+        },
+        {
+            "Message ID": 5876,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post\n\n🚨🇺🇸North Ridgeville City School District Has Been Claimed a Victim to BLACK SUIT Ransomware\n\nhttps://darkwebinformer.com/north-ridgeville-city-school-district-has-been-claimed-a-victim-to-black-suit-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "North Ridgeville City"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/north-ridgeville-city-school-district-has-been-claimed-a-victim-to-black-suit-ransomware/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -4806,6 +4864,26 @@
             "discovered": "2024-10-24",
             "post_title": "",
             "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2405,
+            "discovered": "2024-10-25",
+            "post_title": "Believe or don’t but Arabic hacker news is fake",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2404,
+            "discovered": "2024-10-25",
+            "post_title": "Arabic hacker news 🙂",
+            "Attack Type": "Hacking",
             "Location": [
                 "N/A"
             ],
@@ -30864,6 +30942,271 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2021-36190"
+            ]
+        },
+        {
+            "Message ID": 90028,
+            "discovered": "2024-10-25",
+            "post_title": "Title: How LLMs could help defenders write better and faster detection\n\nDate: October 25, 2024\n\nSource: https://blog.talosintelligence.com/how-llms-could-help-defenders-write-better-and-faster-detection/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.talosintelligence.com/how-llms-could-help-defenders-write-better-and-faster-detection/"
+            ]
+        },
+        {
+            "Message ID": 90027,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-14187\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-14187\n\nDescription: A local privilege escalation and local code execution vulnerability in Fortinet FortiOS 5.6.0 to 5.6.2, 5.4.0 to 5.4.8, and 5.2 and below versions allows attacker to execute unauthorized binary program contained on an USB drive plugged into a FortiGate via linking the aforementioned binary program to a command that is allowed to be run by the fnsysctl CLI command.\n\nPublication Date: Fri Oct 25 18:12:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-14187"
+            ]
+        },
+        {
+            "Message ID": 90026,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-17540\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-17540\n\nDescription: The presence of a hardcoded account in Fortinet FortiWLC 8.3.3 allows attackers to gain unauthorized read/write access via a remote shell.\n\nPublication Date: Fri Oct 25 18:11:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-17540"
+            ]
+        },
+        {
+            "Message ID": 90025,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-17539\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-17539\n\nDescription: The presence of a hardcoded account in Fortinet FortiWLC 7.0.11 and earlier allows attackers to gain unauthorized read/write access via a remote shell.\n\nPublication Date: Fri Oct 25 18:11:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-17539"
+            ]
+        },
+        {
+            "Message ID": 90024,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-17543\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-17543\n\nDescription: Users' VPN authentication credentials are unsafely encrypted in Fortinet FortiClient for Windows 5.6.0 and below versions, FortiClient for Mac OSX 5.6.0 and below versions and FortiClient SSLVPN Client for Linux 4.4.2335 and below versions, due to the use of a static encryption key and weak encryption algorithms.\n\nPublication Date: Fri Oct 25 18:11:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-17543"
+            ]
+        },
+        {
+            "Message ID": 90023,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-14184\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-14184\n\nDescription: An Information Disclosure vulnerability in Fortinet FortiClient for Windows 5.6.0 and below versions, FortiClient for Mac OSX 5.6.0 and below versions and FortiClient SSLVPN Client for Linux 4.4.2334 and below versions allows regular users to see each other's VPN authentication credentials due to improperly secured storage locations.\n\nPublication Date: Fri Oct 25 18:11:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-14184"
+            ]
+        },
+        {
+            "Message ID": 90022,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-7344\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-7344\n\nDescription: A privilege escalation in Fortinet FortiClient Windows 5.4.3 and earlier as well as 5.6.0 allows attacker to gain privilege via exploiting the Windows \"security alert\" dialog thereby popping up when the \"VPN before logon\" feature is enabled and an untrusted certificate chain.\n\nPublication Date: Fri Oct 25 18:11:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-7344"
+            ]
+        },
+        {
+            "Message ID": 90021,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-7738\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-7738\n\nDescription: An Information Disclosure vulnerability in Fortinet FortiOS 5.6.0 to 5.6.2, 5.4.0 to 5.4.5, 5.2 and below versions allow an admin user with super_admin privileges to view the current SSL VPN web portal session info which may contains user credentials through the fnsysctl CLI command.\n\nPublication Date: Fri Oct 25 18:10:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-7738"
+            ]
+        },
+        {
+            "Message ID": 90020,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-14189\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-14189\n\nDescription: An improper access control vulnerability in Fortinet FortiWebManager 5.8.0 allows anyone that can access the admin webUI to successfully log-in regardless the provided password.\n\nPublication Date: Fri Oct 25 18:10:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-14189"
+            ]
+        },
+        {
+            "Message ID": 90019,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-7341\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-7341\n\nDescription: An OS Command Injection vulnerability in Fortinet FortiWLC 6.1-2 through 6.1-5, 7.0-7 through 7.0-10, 8.0 through 8.2, and 8.3.0 through 8.3.2 file management AP script download webUI page allows an authenticated admin user to execute arbitrary system console commands via crafted HTTP requests.\n\nPublication Date: Fri Oct 25 18:10:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-7341"
+            ]
+        },
+        {
+            "Message ID": 90018,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-3130\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-3130\n\nDescription: An information disclosure vulnerability in Fortinet FortiOS 5.6.0, 5.4.4 and below versions allows attacker to get FortiOS version info by inspecting FortiOS IKE VendorID packets.\n\nPublication Date: Fri Oct 25 18:10:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-3130"
+            ]
+        },
+        {
+            "Message ID": 90017,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-7336\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-7336\n\nDescription: A hard-coded account named 'upgrade' in Fortinet FortiWLM 8.3.0 and lower versions allows a remote attacker to log-in and execute commands with 'upgrade' account privileges.\n\nPublication Date: Fri Oct 25 18:10:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-7336"
+            ]
+        },
+        {
+            "Message ID": 90016,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2016-8493\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2016-8493\n\nDescription: In FortiClientWindows 5.4.1 and 5.4.2, an attacker may escalate privilege via a FortiClientNamedPipe vulnerability.\n\nPublication Date: Fri Oct 25 18:10:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2016-8493"
+            ]
+        },
+        {
+            "Message ID": 90015,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-7731\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-7731\n\nDescription: A weak password recovery vulnerability in Fortinet FortiPortal versions 4.0.0 and below allows attacker to carry out information disclosure via the Forgotten Password feature.\n\nPublication Date: Fri Oct 25 18:09:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-7731"
+            ]
+        },
+        {
+            "Message ID": 90014,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-7338\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-7338\n\nDescription: A password management vulnerability in Fortinet FortiPortal versions 4.0.0 and below allows an attacker to carry out information disclosure via the FortiAnalyzer Management View.\n\nPublication Date: Fri Oct 25 18:09:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-7338"
+            ]
+        },
+        {
+            "Message ID": 90013,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-7337\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-7337\n\nDescription: An improper Access Control vulnerability in Fortinet FortiPortal versions 4.0.0 and below allows an attacker to interact with unauthorized VDOMs or enumerate other ADOMs via another user's stolen session and CSRF tokens or the adomName parameter in the /fpc/sec/customer/policy/getAdomVersion request.\n\nPublication Date: Fri Oct 25 18:09:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-7337"
+            ]
+        },
+        {
+            "Message ID": 90012,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-3134\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-3134\n\nDescription: An escalation of privilege vulnerability in Fortinet FortiWLC-SD versions 8.2.4 and below allows attacker to gain root access via the CLI command 'copy running-config'.\n\nPublication Date: Fri Oct 25 18:09:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-3134"
+            ]
+        },
+        {
+            "Message ID": 90011,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-3128\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-3128\n\nDescription: A stored XSS (Cross-Site-Scripting) vulnerability in Fortinet FortiOS allows attackers to execute unauthorized code or commands via the policy global-label parameter.\n\nPublication Date: Fri Oct 25 18:09:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-3128"
+            ]
+        },
+        {
+            "Message ID": 90010,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2017-3125\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-3125\n\nDescription: An unauthenticated XSS vulnerability with FortiMail 5.0.0 - 5.2.9 and 5.3.0 - 5.3.8 could allow an attacker to execute arbitrary scripts in the security context of the browser of a victim logged in FortiMail, assuming the victim is social engineered into clicking an URL crafted by the attacker.\n\nPublication Date: Fri Oct 25 18:08:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS",
+                "FortiMail"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-3125"
+            ]
+        },
+        {
+            "Message ID": 90009,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2016-7542\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2016-7542\n\nDescription: A read-only administrator on Fortinet devices with FortiOS 5.2.x before 5.2.10 GA and 5.4.x before 5.4.2 GA may have access to read-write administrators password hashes (not including super-admins) stored on the appliance via the webui REST API, and may therefore be able to crack them.\n\nPublication Date: Fri Oct 25 18:08:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2016-7542"
+            ]
+        },
+        {
+            "Message ID": 90008,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2016-7541\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2016-7541\n\nDescription: Long lived sessions in Fortinet FortiGate devices with FortiOS 5.x before 5.4.0 could violate a security policy during IPS signature updates when the FortiGate's IPSengine is configured in flow mode. All FortiGate versions with IPS configured in proxy mode (the default mode) are not affected.\n\nPublication Date: Fri Oct 25 18:08:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2016-7541"
+            ]
+        },
+        {
+            "Message ID": 90007,
+            "discovered": "2024-10-25",
+            "post_title": "Title: A deep dive into Linux’s new mseal syscall\n\nDate: October 25, 2024\n\nSource: https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/"
             ]
         }
     ],
