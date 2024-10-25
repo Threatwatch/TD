@@ -7046,6 +7046,16 @@
                 "India"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5261,
+            "discovered": "2024-10-25",
+            "post_title": "The occupation army arrested activist Abboud Battah from the northern Gaza Strip a short while ago 💔",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Gaza Strip"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -29302,6 +29312,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-42420"
+            ]
+        },
+        {
+            "Message ID": 89908,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Threat Intelligence Snapshot: Week 43, 2024\n\nDate: October 25, 2024\n\nSource: https://quointelligence.eu/2024/10/threat-intelligence-snapshot-week-43-2024/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://quointelligence.eu/2024/10/threat-intelligence-snapshot-week-43-2024/"
             ]
         }
     ]
