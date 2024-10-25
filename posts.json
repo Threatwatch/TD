@@ -2270,6 +2270,52 @@
             "URLs": [
                 "s://darkwebinformer.com/north-ridgeville-city-school-district-has-been-claimed-a-victim-to-black-suit-ransomware/"
             ]
+        },
+        {
+            "Message ID": 5884,
+            "discovered": "2024-10-25",
+            "post_title": "https://x.com/ArkhamIntel/status/1849823544173011372",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/ArkhamIntel/status/1849823544173011372"
+            ]
+        },
+        {
+            "Message ID": 5883,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post\n\n🚨🇨🇭A Threat Actor is Allegedly Selling the Database of Wetality\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-wetality/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-wetality/"
+            ]
+        },
+        {
+            "Message ID": 5882,
+            "discovered": "2024-10-25",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5881,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇺🇸303 is Allegedly Selling FTP Access to AT&T Corp\n\nhttps://darkwebinformer.com/303-is-allegedly-selling-ftp-access-to-at-t-corp/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/303-is-allegedly-selling-ftp-access-to-at-t-corp/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -31207,6 +31253,18 @@
             ],
             "URLs": [
                 "https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/"
+            ]
+        },
+        {
+            "Message ID": 90029,
+            "discovered": "2024-10-25",
+            "post_title": "Title: ReliaQuest Uncovers New Black Basta Social Engineering Technique\n\nDate: October 25, 2024\n\nSource: https://www.reliaquest.com/blog/black-basta-social-engineering-technique-microsoft-teams/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.reliaquest.com/blog/black-basta-social-engineering-technique-microsoft-teams/"
             ]
         }
     ],
