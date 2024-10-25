@@ -2579,6 +2579,42 @@
             "URLs": [
                 "://darkwebinformer.com/al-ahad-targeted-the-website-of-jerusalem-post/"
             ]
+        },
+        {
+            "Message ID": 5911,
+            "discovered": "2024-10-25",
+            "post_title": "💡FREE POST FRIDAY\n\n🚨🇮🇱SN Blackmeta Targeted the Website of Meuhedet Health Services\n\nhttps://darkwebinformer.com/sn-blackmeta-targeted-the-website-of-meuhedet-health-services/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/sn-blackmeta-targeted-the-website-of-meuhedet-health-services/"
+            ]
+        },
+        {
+            "Message ID": 5910,
+            "discovered": "2024-10-25",
+            "post_title": "Status: 🔽\n\n💡FREE POST FRIDAY\n\n🚨🇮🇱SN Blackmeta Targeted the Website Meitav Investment House\n\nhttps://darkwebinformer.com/sn-blackmeta-targeted-the-website-meitav-investment-house/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "://darkwebinformer.com/sn-blackmeta-targeted-the-website-meitav-investment-house/"
+            ]
+        },
+        {
+            "Message ID": 5909,
+            "discovered": "2024-10-25",
+            "post_title": "💡I have unlocked this article so you can find the post and forum.\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-altsheaven/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-altsheaven/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -32363,6 +32399,177 @@
             ],
             "URLs": [
                 "evergreenps.org"
+            ]
+        },
+        {
+            "Message ID": 90098,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Russia sentences REvil ransomware members to over 4 years in prison\n\nDate: October 25, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/russia-sentences-revil-ransomware-members-to-over-4-years-in-prison/\n\n#News #Russia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Russia",
+                "Russia"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/russia-sentences-revil-ransomware-members-to-over-4-years-in-prison/"
+            ]
+        },
+        {
+            "Message ID": 90097,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-37845\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37845\n\nDescription: MangoOS before 5.2.0 was discovered to contain an authenticated remote code execution (RCE) vulnerability via the Active Process Command feature.\n\nPublication Date: Fri Oct 25 22:11:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37845"
+            ]
+        },
+        {
+            "Message ID": 90096,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-37846\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37846\n\nDescription: MangoOS before 5.2.0 was discovered to contain a Client-Side Template Injection (CSTI) vulnerability via the Platform Management Edit page.\n\nPublication Date: Fri Oct 25 22:11:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37846"
+            ]
+        },
+        {
+            "Message ID": 90095,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-37847\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37847\n\nDescription: An arbitrary file upload vulnerability in MangoOS before 5.1.4 and Mango API before 4.5.5 allows attackers to execute arbitrary code via a crafted file.\n\nPublication Date: Fri Oct 25 22:11:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37847"
+            ]
+        },
+        {
+            "Message ID": 90094,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48450\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48450\n\nDescription: An arbitrary file upload vulnerability in Huly Platform v0.6.295 allows attackers to execute arbitrary code via uploading a crafted HTML file into chat group.\n\nPublication Date: Fri Oct 25 22:11:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48450"
+            ]
+        },
+        {
+            "Message ID": 90093,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48141\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48141\n\nDescription: A prompt injection vulnerability in the chatbox of Zhipu AI CodeGeeX v2.17.0 allows attackers to access and exfiltrate all previous and subsequent chat data between the user and the AI assistant via a crafted message.\n\nPublication Date: Fri Oct 25 22:10:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Zhipu",
+                "AI"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48141"
+            ]
+        },
+        {
+            "Message ID": 90092,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47014\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47014\n\nDescription: Android before 2024-10-05 on Google Pixel devices allows privilege escalation in the ABL component, A-330537292.\n\nPublication Date: Fri Oct 25 22:10:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47014"
+            ]
+        },
+        {
+            "Message ID": 90091,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47013\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47013\n\nDescription: In pmucal_rae_handle_seq_int of flexpmu_cal_rae.c, there is a possible arbitrary write due to uninitialized data. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 22:10:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47013"
+            ]
+        },
+        {
+            "Message ID": 90090,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47012\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47012\n\nDescription: In mm_GetMobileIdIndexForNsUpdate of mm_GmmPduCodec.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 22:10:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47012"
+            ]
+        },
+        {
+            "Message ID": 90089,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-38873\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38873\n\nDescription: An issue was discovered in the friendlycaptcha_official (aka Integration of Friendly Captcha) extension before 0.1.4 for TYPO3. The extension fails to check the requirement of the captcha field in submitted form data, allowing a remote user to bypass the captcha check. This only affects the captcha integration for the ext:form extension.\n\nPublication Date: Fri Oct 25 22:10:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38873"
+            ]
+        },
+        {
+            "Message ID": 90088,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-48140\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48140\n\nDescription: A prompt injection vulnerability in the chatbox of Butterfly Effect Limited Monica Your AI Copilot powered by ChatGPT4 v6.3.0 allows attackers to access and exfiltrate all previous and subsequent chat data between the user and the AI assistant via a crafted message.\n\nPublication Date: Fri Oct 25 22:10:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48140"
+            ]
+        },
+        {
+            "Message ID": 90087,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-44101\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44101\n\nDescription: there is a possible Null Pointer Dereference (modem crash) due to improper input validation. This could lead to remote denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 22:09:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44101"
+            ]
+        },
+        {
+            "Message ID": 90086,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-38576\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38576\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nrcu: Fix buffer overflow in print_cpu_stall_info()\n\nThe rcuc-starvation output from print_cpu_stall_info() might overflow the\nbuffer if there is a huge difference in jiffies difference.  The situation\nmight seem improbable, but computers sometimes get very confused about\ntime, which can result in full-sized integers, and, in this case,\nbuffer overflow.\n\nAlso, the unsigned jiffies difference is printed using %ld, which is\nnormally for signed integers.  This is intentional for debugging purposes,\nbut it is not obvious from the code.\n\nThis commit therefore changes sprintf() to snprintf() and adds a\nclarifying comment about intention of %ld format.\n\nFound by Linux Verification Center (linuxtesting.org) with SVACE.\n\nPublication Date: Fri Oct 25 22:09:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "SVACE"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38576",
+                "linuxtesting.org"
+            ]
+        },
+        {
+            "Message ID": 90085,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2023-37057\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37057\n\nDescription: An issue in JLINK Unionman Technology Co. Ltd Jlink AX1800 v.1.0 allows a remote attacker to execute arbitrary code via the router's authentication mechanism.\n\nPublication Date: Fri Oct 25 22:09:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37057"
             ]
         }
     ],
