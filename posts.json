@@ -19524,6 +19524,18 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3316,
+            "discovered": "2024-10-25",
+            "post_title": "Group: blacksuit\nApprox. Time: 03:02 25/10/24\nTitle: https://t.co/DVpWTR7r0D",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/DVpWTR7r0D"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -28740,6 +28752,30 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10371"
+            ]
+        },
+        {
+            "Message ID": 89885,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: unitedsprinkler.com\n\nDetection Date: Fri Oct 25 06:11:18 2024\n\nThreat Actor: black suit\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "unitedsprinkler.com"
+            ]
+        },
+        {
+            "Message ID": 89884,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-10372\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10372\n\nDescription: A vulnerability classified as problematic was found in chidiwilliams buzz 1.1.0. This vulnerability affects the function download_model of the file buzz/model_loader.py. The manipulation leads to insecure temporary file. It is possible to launch the attack on the local host. The complexity of an attack is rather high. The exploitation appears to be difficult. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Fri Oct 25 06:00:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10372"
             ]
         }
     ]
