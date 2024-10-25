@@ -19776,6 +19776,18 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3333,
+            "discovered": "2024-10-25",
+            "post_title": "Group: FOG\nApprox. Time: 12:36 25/10/24\nTitle: Evergreen Local School District (https://t.co/C62lpy1NbQ)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/C62lpy1NbQ"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -30170,6 +30182,80 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10374",
                 "3.4.9.5"
+            ]
+        },
+        {
+            "Message ID": 89975,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-10378\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10378\n\nDescription: A vulnerability classified as critical has been found in ESAFENET CDG 5. Affected is the function actionViewCDGRenewFile of the file /com/esafenet/servlet/client/CDGRenewApplicationService.java. The manipulation of the argument CDGRenewFileId leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Fri Oct 25 16:01:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10378",
+                "CDGRenewApplicationService.java"
+            ]
+        },
+        {
+            "Message ID": 89974,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-10379\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10379\n\nDescription: A vulnerability classified as problematic was found in ESAFENET CDG 5. Affected by this vulnerability is the function actionViewDecyptFile of the file /com/esafenet/servlet/client/DecryptApplicationService.java. The manipulation of the argument decryptFileId with the input ../../../Windows/System32/drivers/etc/hosts leads to path traversal: '../filedir'. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The affected function has a typo and is missing an R. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Fri Oct 25 16:01:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10379",
+                "DecryptApplicationService.java"
+            ]
+        },
+        {
+            "Message ID": 89973,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-9991\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9991\n\nDescription: This vulnerability exists in Philips lighting devices due to storage of Wi-Fi credentials in plain text within the device firmware. An attacker with physical access could exploit this by extracting the firmware and analyzing the binary data to obtain the plaintext Wi-Fi credentials stored on the vulnerable device.\n\nSuccessful exploitation of this vulnerability could allow an attacker to gain unauthorized access to the Wi-Fi network to which vulnerable device is connected.\n\nPublication Date: Fri Oct 25 16:01:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9991"
+            ]
+        },
+        {
+            "Message ID": 89972,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Sophos Firewall hardening best practices\n\nDate: October 25, 2024\n\nSource: https://news.sophos.com/en-us/2024/10/25/sophos-firewall-hardening-best-practices/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://news.sophos.com/en-us/2024/10/25/sophos-firewall-hardening-best-practices/"
+            ]
+        },
+        {
+            "Message ID": 89971,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: Evergreen Local School District (evgvikings.org)\n\nDetection Date: Fri Oct 25 15:49:23 2024\n\nThreat Actor: fog\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "evgvikings.org"
+            ]
+        },
+        {
+            "Message ID": 89970,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Sinisterly - Twitter (X) Blue | For ADS and SPAM\n\nDetection Date: Fri Oct 25 15:38:25 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-Bronze-Twitter-X-Blue-For-ADS-and-SPAM\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-Bronze-Twitter-X-Blue-For-ADS-and-SPAM"
             ]
         }
     ],
