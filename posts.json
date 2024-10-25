@@ -29803,6 +29803,258 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 89959,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Eliminating AI Deepfake Threats: Is Your Identity Security AI-Proof?\n\nDate: Oct 25, 2024\n\nSource: https://thehackernews.com/2024/10/eliminating-ai-deepfake-threats-is-your.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/eliminating-ai-deepfake-threats-is-your.html"
+            ]
+        },
+        {
+            "Message ID": 89958,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47016\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47016\n\nDescription: there is a possible privilege escalation due to an insecure default value. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 14:06:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47016"
+            ]
+        },
+        {
+            "Message ID": 89957,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47017\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47017\n\nDescription: In ufshc_scsi_cmd of ufs.c, there is a possible stack variable use after free due to a use after free. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 14:05:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47017"
+            ]
+        },
+        {
+            "Message ID": 89956,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47018\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47018\n\nDescription: In pmucal_rae_handle_seq_int of flexpmu_cal_rae.c, there is a possible out of bounds read due to a buffer overflow. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 14:05:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47018"
+            ]
+        },
+        {
+            "Message ID": 89955,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47019\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47019\n\nDescription: In ProtocolEmbmsSaiListAdapter::Init() of protocolembmsadapter.cpp, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with baseband firmware compromise required. User Interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 14:05:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47019"
+            ]
+        },
+        {
+            "Message ID": 89954,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47020\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47020\n\nDescription: N/A\n\nPublication Date: Fri Oct 25 14:05:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47020"
+            ]
+        },
+        {
+            "Message ID": 89953,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47021\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47021\n\nDescription: In sms_ExtractCbLanguage of sms_CellBroadcast.c, there is a possible out of bounds read due to a missing bounds check. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 14:05:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47021"
+            ]
+        },
+        {
+            "Message ID": 89952,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47022\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47022\n\nDescription: N/A\n\nPublication Date: Fri Oct 25 14:04:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47022"
+            ]
+        },
+        {
+            "Message ID": 89951,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47023\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47023\n\nDescription: there is a possible man-in-the-middle attack due to a logic error in the code. This could lead to remote escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 14:04:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47023"
+            ]
+        },
+        {
+            "Message ID": 89950,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47024\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47024\n\nDescription: In vring_size of external/headers/include/virtio/virtio_ring.h, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 14:04:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47024"
+            ]
+        },
+        {
+            "Message ID": 89949,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47025\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47025\n\nDescription: In ppmp_protect_buf of drm_fw.c, there is a possible information disclosure due to a logic error in the code. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 14:04:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47025"
+            ]
+        },
+        {
+            "Message ID": 89948,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47026\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47026\n\nDescription: In gsc_gsa_rescue of gsc_gsa.c, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 14:04:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47026"
+            ]
+        },
+        {
+            "Message ID": 89947,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47027\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47027\n\nDescription: In sm_mem_compat_get_vmm_obj of lib/sm/shared_mem.c, there is a possible arbitrary physical memory access due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 14:04:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47027"
+            ]
+        },
+        {
+            "Message ID": 89946,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47028\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47028\n\nDescription: In ffu_flash_pack of ffu.c, there is a possible out of bounds read due to an integer overflow. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 14:03:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47028"
+            ]
+        },
+        {
+            "Message ID": 89945,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47029\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47029\n\nDescription: In TrustySharedMemoryManager::GetSharedMemory of ondevice/trusty/trusty_shared_memory_manager.cc, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 14:03:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47029"
+            ]
+        },
+        {
+            "Message ID": 89944,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47030\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47030\n\nDescription: N/A\n\nPublication Date: Fri Oct 25 14:03:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47030"
+            ]
+        },
+        {
+            "Message ID": 89943,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47031\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47031\n\nDescription: N/A\n\nPublication Date: Fri Oct 25 14:03:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47031"
+            ]
+        },
+        {
+            "Message ID": 89942,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47033\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47033\n\nDescription: In lwis_allocator_free of lwis_allocator.c, there is a possible memory corruption due to a use after free. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 14:03:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47033"
+            ]
+        },
+        {
+            "Message ID": 89941,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47034\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47034\n\nDescription: there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 14:02:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47034"
+            ]
+        },
+        {
+            "Message ID": 89940,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47035\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47035\n\nDescription: In vring_init of external/headers/include/virtio/virtio_ring.h, there is a possible out of bounds write due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 14:02:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47035"
+            ]
+        },
+        {
+            "Message ID": 89939,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-47041\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47041\n\nDescription: In valid_address of syscall.c, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Oct 25 14:02:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47041"
+            ]
         }
     ]
 }
