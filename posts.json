@@ -2615,6 +2615,16 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-altsheaven/"
             ]
+        },
+        {
+            "Message ID": 5912,
+            "discovered": "2024-10-25",
+            "post_title": "🚨🇺🇸LulzSec Arabs Announces That They Will Begin Targeting the USA.\n\nt[.]me/Lulzsec_Arabs/40",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
