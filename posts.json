@@ -30351,6 +30351,40 @@
             "URLs": [
                 "https://sinister.ly/Thread-Bronze-Twitter-X-Blue-For-ADS-and-SPAM"
             ]
+        },
+        {
+            "Message ID": 89978,
+            "discovered": "2024-10-25",
+            "post_title": "Title: Researchers Discover Command Injection Flaw in Wi-Fi Alliance's Test Suite\n\nDate: Oct 25, 2024\n\nSource: https://thehackernews.com/2024/10/researchers-discover-command-injection.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/researchers-discover-command-injection.html"
+            ]
+        },
+        {
+            "Message ID": 89977,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: Centrillion Technologies\n\nDetection Date: Fri Oct 25 16:45:35 2024\n\nThreat Actor: cicada3301\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89976,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: lolaliza.com\n\nDetection Date: Fri Oct 25 16:45:21 2024\n\nThreat Actor: black suit\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "lolaliza.com"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
