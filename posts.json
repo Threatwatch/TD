@@ -32754,6 +32754,30 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-38297"
             ]
+        },
+        {
+            "Message ID": 90112,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-37844\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37844\n\nDescription: A stored cross-site scripting (XSS) vulnerability in MangoOS before 5.2.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.\n\nPublication Date: Fri Oct 25 23:31:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37844"
+            ]
+        },
+        {
+            "Message ID": 90111,
+            "discovered": "2024-10-25",
+            "post_title": "CVE-ID: CVE-2024-6333\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-6333\n\nDescription: Authenticated Remote Code Execution in Altalink, Versalink & WorkCentre Products.\n\nPublication Date: Fri Oct 25 23:31:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-6333"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
