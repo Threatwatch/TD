@@ -19572,6 +19572,66 @@
             "URLs": [
                 "https://t.co/DVpWTR7r0D"
             ]
+        },
+        {
+            "Message ID": 3321,
+            "discovered": "2024-10-25",
+            "post_title": "Group: ransomhub\nApprox. Time: 06:37 25/10/24\nTitle: https://t.co/u5PRB8FxYe",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/u5PRB8FxYe"
+            ]
+        },
+        {
+            "Message ID": 3320,
+            "discovered": "2024-10-25",
+            "post_title": "Group: blacksuit\nApprox. Time: 06:36 25/10/24\nTitle: https://t.co/sTEaWlShUt",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/sTEaWlShUt"
+            ]
+        },
+        {
+            "Message ID": 3319,
+            "discovered": "2024-10-25",
+            "post_title": "Group: blacksuit\nApprox. Time: 06:36 25/10/24\nTitle: https://t.co/dmYfgtcuos",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/dmYfgtcuos"
+            ]
+        },
+        {
+            "Message ID": 3318,
+            "discovered": "2024-10-25",
+            "post_title": "Group: blacksuit\nApprox. Time: 06:36 25/10/24\nTitle: https://t.co/gByndd8Cv9",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/gByndd8Cv9"
+            ]
+        },
+        {
+            "Message ID": 3317,
+            "discovered": "2024-10-25",
+            "post_title": "Group: blacksuit\nApprox. Time: 06:36 25/10/24\nTitle: https://t.co/1qAlSVuERS",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/1qAlSVuERS"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -29070,6 +29130,48 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9488"
+            ]
+        },
+        {
+            "Message ID": 89897,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: Pacific Pulmonary Medical Group\n\nDetection Date: Fri Oct 25 09:43:15 2024\n\nThreat Actor: everest\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89896,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: Aspen Healthcare\n\nDetection Date: Fri Oct 25 09:43:00 2024\n\nThreat Actor: everest\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89895,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: Spine by Villamil MD\n\nDetection Date: Fri Oct 25 09:42:46 2024\n\nThreat Actor: everest\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 89894,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: Groupseco.com\n\nDetection Date: Fri Oct 25 09:42:27 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "Groupseco.com"
             ]
         }
     ]
