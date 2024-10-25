@@ -2715,6 +2715,28 @@
             "URLs": [
                 "s://darkwebinformer.com/liquid-blood-targeted-the-website-of-bahfsa/"
             ]
+        },
+        {
+            "Message ID": 5922,
+            "discovered": "2024-10-25",
+            "post_title": "Expect an uptick in DDoS activity",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "DDoS"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5921,
+            "discovered": "2024-10-25",
+            "post_title": "💡FREE POST FRIDAY\n\n🚨🇺🇸A Threat Actor is Allegedly Selling 280 Million USA Citizen's Data\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-280-million-usa-citizens-data/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-is-allegedly-selling-280-million-usa-citizens-data/"
+            ]
         }
     ],
     "RipperSec | 团队": [
