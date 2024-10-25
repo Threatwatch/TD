@@ -2152,6 +2152,30 @@
             "URLs": [
                 "https://platform.arkhamintelligence.com/explorer/address/0x3486eE700CcaF3E2F9C5eC9730a2e916a4740A9f"
             ]
+        },
+        {
+            "Message ID": 5872,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇨🇦A Threat Actor has Allegedly Leaked the Data of Payfare\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-payfare/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-payfare/"
+            ]
+        },
+        {
+            "Message ID": 5871,
+            "discovered": "2024-10-25",
+            "post_title": "💡Free Post Friday\n\n🚨🇺🇸303 Allegedly is Selling Access to an Unidentified California-based University\n\nhttps://darkwebinformer.com/303-allegedly-is-selling-access-to-an-unidentified-california-based-university/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/303-allegedly-is-selling-access-to-an-unidentified-california-based-university/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -7078,6 +7102,16 @@
             "URLs": [
                 "watikalasangam.com\n📺 Yo"
             ]
+        },
+        {
+            "Message ID": 5264,
+            "discovered": "2024-10-25",
+            "post_title": "A Mosque named \"Masjidu's shaheed Yahya Sinwar \" was inaugurated in a Bangladeshi district named Brahmanbaria",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -8137,6 +8171,16 @@
             "Attack Type": "Hacking",
             "Location": [
                 "Israel"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1191,
+            "discovered": "2024-10-25",
+            "post_title": "🚨Cyberattack ‼️\n\n🇮🇹Italy - ISA S.p.A.\n\nOn October 22, 2024, ISA S.p.A., based in Bastia Umbra, Italy, experienced a cyberattack that resulted in the exfiltration of certain corporate data. \n\nThe company confirmed the intrusion, which led to data theft, and has since reported the incident to law enforcement.\n\nMore details:\nhttps://tuttoggi.info/attacco-informatico-ad-azienda-umbra-rubati-dati-si-indaga/865433/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Italy"
             ],
             "URLs": []
         }
