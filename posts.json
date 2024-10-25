@@ -29577,6 +29577,54 @@
             "URLs": [
                 "https://thehackernews.com/2024/10/sec-charges-4-companies-over-misleading.html"
             ]
+        },
+        {
+            "Message ID": 89932,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: deschampsimp.com\n\nDetection Date: Fri Oct 25 13:05:33 2024\n\nThreat Actor: black suit\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "deschampsimp.com"
+            ]
+        },
+        {
+            "Message ID": 89931,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: nrcs.net\n\nDetection Date: Fri Oct 25 13:05:19 2024\n\nThreat Actor: black suit\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "nrcs.net"
+            ]
+        },
+        {
+            "Message ID": 89930,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: omara-ag.com\n\nDetection Date: Fri Oct 25 13:05:05 2024\n\nThreat Actor: black suit\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "omara-ag.com"
+            ]
+        },
+        {
+            "Message ID": 89929,
+            "discovered": "2024-10-25",
+            "post_title": "Victim: zyloware.com\n\nDetection Date: Fri Oct 25 13:04:51 2024\n\nThreat Actor: black suit\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "zyloware.com"
+            ]
         }
     ]
 }
