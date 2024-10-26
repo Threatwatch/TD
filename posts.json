@@ -34100,6 +34100,16 @@
             "URLs": [
                 "https://thehackernews.com/2024/10/notorious-hacker-group-teamtnt-launches.html"
             ]
+        },
+        {
+            "Message ID": 90181,
+            "discovered": "2024-10-26",
+            "post_title": "Victim: ATTENTION!\n\nDetection Date: Sat Oct 26 12:46:33 2024\n\nThreat Actor: donutleaks\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": []
