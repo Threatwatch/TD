@@ -33922,6 +33922,162 @@
             "URLs": [
                 "https://thehackernews.com/2024/10/four-revil-ransomware-members-sentenced.html"
             ]
+        },
+        {
+            "Message ID": 90179,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-0127\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-0127\n\nDescription: NVIDIA vGPU software contains a vulnerability in the GPU kernel driver of the vGPU Manager for all supported hypervisors, where a user of the guest OS can cause an improper input validation by compromising the guest OS kernel. A successful exploit of this vulnerability might lead to code execution, escalation of privileges, data tampering, denial of service, and information disclosure.\n\nPublication Date: Sat Oct 26 12:02:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-0127"
+            ]
+        },
+        {
+            "Message ID": 90178,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-0128\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-0128\n\nDescription: NVIDIA vGPU software contains a vulnerability in the Virtual GPU Manager that allows a user of the guest OS to access global resources. A successful exploit of this vulnerability might lead to information disclosure, data tampering, and escalation of privileges.\n\nPublication Date: Sat Oct 26 12:02:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-0128"
+            ]
+        },
+        {
+            "Message ID": 90177,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-0117\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-0117\n\nDescription: NVIDIA GPU Display Driver for Windows contains a vulnerability in the user mode layer, where an unprivileged regular user can cause an out-of-bounds read. A successful exploit of this vulnerability might lead to code execution, denial of service, escalation of privileges, information disclosure, and data tampering.\n\nPublication Date: Sat Oct 26 12:02:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-0117"
+            ]
+        },
+        {
+            "Message ID": 90176,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-0118\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-0118\n\nDescription: NVIDIA GPU Display Driver for Windows contains a vulnerability in the user mode layer, where an unprivileged regular user can cause an out-of-bounds read. A successful exploit of this vulnerability might lead to code execution, denial of service, escalation of privileges, information disclosure, and data tampering.\n\nPublication Date: Sat Oct 26 12:02:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-0118"
+            ]
+        },
+        {
+            "Message ID": 90175,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-0119\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-0119\n\nDescription: NVIDIA GPU Display Driver for Windows contains a vulnerability in the user mode layer, where an unprivileged regular user can cause an out-of-bounds read. A successful exploit of this vulnerability might lead to code execution, denial of service, escalation of privileges, information disclosure, and data tampering.\n\nPublication Date: Sat Oct 26 12:02:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-0119"
+            ]
+        },
+        {
+            "Message ID": 90174,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-0120\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-0120\n\nDescription: NVIDIA GPU Display Driver for Windows contains a vulnerability in the user mode layer, where an unprivileged regular user can cause an out-of-bounds read. A successful exploit of this vulnerability might lead to code execution, denial of service, escalation of privileges, information disclosure, and data tampering.\n\nPublication Date: Sat Oct 26 12:02:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-0120"
+            ]
+        },
+        {
+            "Message ID": 90173,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-0121\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-0121\n\nDescription: NVIDIA GPU Display Driver for Windows contains a vulnerability in the user mode layer, where an unprivileged regular user can cause an out-of-bounds read. A successful exploit of this vulnerability might lead to code execution, denial of service, escalation of privileges, information disclosure, and data tampering.\n\nPublication Date: Sat Oct 26 12:01:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-0121"
+            ]
+        },
+        {
+            "Message ID": 90172,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-0126\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-0126\n\nDescription: NVIDIA GPU Display Driver for Windows and Linux contains a vulnerability which could allow a privileged attacker to escalate permissions. A successful exploit of this vulnerability might lead to code execution, denial of service, escalation of privileges, information disclosure, and data tampering.\n\nPublication Date: Sat Oct 26 12:01:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-0126"
+            ]
+        },
+        {
+            "Message ID": 90171,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-9853\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9853\n\nDescription: The ID-SK Toolkit plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in all versions up to, and including, 1.7.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Author-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.\n\nPublication Date: Sat Oct 26 12:01:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9853"
+            ]
+        },
+        {
+            "Message ID": 90170,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-9967\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9967\n\nDescription: The WP show more plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's show_more shortcode in all versions up to, and including, 1.0.7 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Sat Oct 26 12:01:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9967"
+            ]
+        },
+        {
+            "Message ID": 90169,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-9637\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9637\n\nDescription: The School Management System – WPSchoolPress plugin for WordPress is vulnerable to privilege escalation via account takeover in all versions up to, and including, 2.2.10. This is due to the plugin not properly validating a user's identity prior to updating their details like email. This makes it possible for authenticated attackers, with teacher-level access and above, to change arbitrary user's email addresses, including administrators, and leverage that to reset the user's password and gain access to their account.\n\nPublication Date: Sat Oct 26 12:01:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9637"
+            ]
+        },
+        {
+            "Message ID": 90168,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-8392\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8392\n\nDescription: The WordPress Post Grid Layouts with Pagination – Sogrid plugin for WordPress is vulnerable to Local File Inclusion in all versions up to, and including, 1.5.2 via the 'tab' parameter. This makes it possible for authenticated attackers, with Administrator-level access and above, to include and execute arbitrary files on the server, allowing the execution of any PHP code in those files. This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where images and other “safe” file types can be uploaded and included. This can also be exploited via CSRF techniques.\n\nPublication Date: Sat Oct 26 12:00:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8392"
+            ]
+        },
+        {
+            "Message ID": 90167,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-9642\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9642\n\nDescription: The Editor Custom Color Palette plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in all versions up to, and including, 3.3.7 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Author-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.\n\nPublication Date: Sat Oct 26 12:00:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9642"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
