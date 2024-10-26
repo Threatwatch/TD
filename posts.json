@@ -2921,6 +2921,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5946,
+            "discovered": "2024-10-26",
+            "post_title": "🚨🇺🇸A Threat Actor Claims to have Leaked a Scraped Dataset on Almost Every Sex Offender in the USA",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -34354,6 +34364,18 @@
             "URLs": [
                 "COINBASE.DE",
                 "https://sinister.ly/Thread-well-known-Domain-COINBASE-DE-on-SALE"
+            ]
+        },
+        {
+            "Message ID": 90194,
+            "discovered": "2024-10-26",
+            "post_title": "Title: New Cisco ASA and FTD features block VPN brute-force password attacks\n\nDate: October 26, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/"
             ]
         }
     ],
