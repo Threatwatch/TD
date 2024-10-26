@@ -3047,6 +3047,36 @@
             "URLs": [
                 "s://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-gap-factory/"
             ]
+        },
+        {
+            "Message ID": 5959,
+            "discovered": "2024-10-26",
+            "post_title": "I think it's time to move on though. I've tried pivoting and haven't gotten any further and it's not worth the time. Moving on to Accenture.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5958,
+            "discovered": "2024-10-26",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5957,
+            "discovered": "2024-10-26",
+            "post_title": "I believe these are all internal to Disney as they either don't resolve or show a 403. Some interesting dns names though.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -21152,6 +21182,36 @@
             "URLs": [
                 "https://t.co/a961mjAmN4"
             ]
+        },
+        {
+            "Message ID": 3344,
+            "discovered": "2024-10-26",
+            "post_title": "Group: meow\nApprox. Time: 16:41 26/10/24\nTitle: PT Transportasi Gas Indonesia",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3343,
+            "discovered": "2024-10-26",
+            "post_title": "Group: meow\nApprox. Time: 16:41 26/10/24\nTitle: The Eye Clinic Surgicenter",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3342,
+            "discovered": "2024-10-26",
+            "post_title": "Group: meow\nApprox. Time: 16:41 26/10/24\nTitle: Westwood Country Club",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -23474,6 +23534,18 @@
             ],
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18211"
+            ]
+        },
+        {
+            "Message ID": 3904,
+            "discovered": "2024-10-26",
+            "post_title": "ID: 18212\n⚠ Sat, 26 Oct 2024 11:38:02 UTC\n🥷 interlock\n🎯 Legacy Treatment Services, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18212",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18212"
             ]
         }
     ],
