@@ -2931,6 +2931,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5947,
+            "discovered": "2024-10-26",
+            "post_title": "🚨🇮🇱DDOS TEAM ANONYMOUS Targeted the Website of National Transplant Center\n\nhttps://darkwebinformer.com/ddos-team-anonymous-targeted-the-website-of-national-transplant-center/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/ddos-team-anonymous-targeted-the-website-of-national-transplant-center/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -5549,6 +5561,29 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2407,
+            "discovered": "2024-10-26",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2406,
+            "discovered": "2024-10-26",
+            "post_title": "🌐 Target:\n   https://samygemayel.com\n\n\n💻 Check host:\n\nhttps://check-host.net/check-report/1faa0129k591\n\n#free_palestine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://samygemayel.com\n",
+                "tps://check-host.net/check-report/1faa0129k591\n\n"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -20951,6 +20986,18 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3341,
+            "discovered": "2024-10-26",
+            "post_title": "Group: blacksuit\nApprox. Time: 14:39 26/10/24\nTitle: https://t.co/a961mjAmN4",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/a961mjAmN4"
+            ]
         }
     ],
     "RansomfeedNews": [
