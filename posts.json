@@ -34285,6 +34285,31 @@
             "URLs": [
                 "wescan-services.com"
             ]
+        },
+        {
+            "Message ID": 90193,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-9501\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9501\n\nDescription: The Wp Social Login and Register Social Counter plugin for WordPress is vulnerable to authentication bypass in all versions up to, and including, 3.0.7. This is due to insufficient verification on the user being returned by the social login token. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the email and the user does not have an already-existing account for the service returning the token.\n\nPublication Date: Sat Oct 26 17:00:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9501"
+            ]
+        },
+        {
+            "Message ID": 90192,
+            "discovered": "2024-10-26",
+            "post_title": "Title: Sinisterly - well known Domain COINBASE.DE on SALE\n\nDetection Date: Sat Oct 26 17:00:16 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-well-known-Domain-COINBASE-DE-on-SALE\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "COINBASE.DE",
+                "https://sinister.ly/Thread-well-known-Domain-COINBASE-DE-on-SALE"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
