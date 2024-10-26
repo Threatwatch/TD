@@ -34743,6 +34743,36 @@
             "URLs": [
                 "https://windowsir.blogspot.com/2024/10/artifact-tracking-workstation-names.html"
             ]
+        },
+        {
+            "Message ID": 90198,
+            "discovered": "2024-10-26",
+            "post_title": "Victim: Westwood Country Club\n\nDetection Date: Sat Oct 26 22:55:29 2024\n\nThreat Actor: meow\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 90197,
+            "discovered": "2024-10-26",
+            "post_title": "Victim: The Eye Clinic Surgicenter\n\nDetection Date: Sat Oct 26 22:55:16 2024\n\nThreat Actor: meow\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 90196,
+            "discovered": "2024-10-26",
+            "post_title": "Victim: PT Transportasi Gas Indonesia\n\nDetection Date: Sat Oct 26 22:55:03 2024\n\nThreat Actor: meow\n\n#Ransomware #Indonesia",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": []
