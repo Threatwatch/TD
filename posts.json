@@ -3223,6 +3223,16 @@
             "URLs": [
                 "https://lkmapps.accenture.com/"
             ]
+        },
+        {
+            "Message ID": 5973,
+            "discovered": "2024-10-26",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
