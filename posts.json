@@ -34273,6 +34273,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10402"
             ]
+        },
+        {
+            "Message ID": 90191,
+            "discovered": "2024-10-26",
+            "post_title": "Victim: wescan-services.com\n\nDetection Date: Sat Oct 26 16:06:09 2024\n\nThreat Actor: black suit\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "wescan-services.com"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
