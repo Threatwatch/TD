@@ -2943,6 +2943,78 @@
             "URLs": [
                 "ps://darkwebinformer.com/ddos-team-anonymous-targeted-the-website-of-national-transplant-center/"
             ]
+        },
+        {
+            "Message ID": 5953,
+            "discovered": "2024-10-26",
+            "post_title": "🚨🇦🇺A Threat Actor Has Allegedly Leaked Data of Illuvium\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-illuvium/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-illuvium/"
+            ]
+        },
+        {
+            "Message ID": 5952,
+            "discovered": "2024-10-26",
+            "post_title": "💡FREE POST\n\n🚨🇸🇦A Threat Actor Allegedly Leaked the Data of LEE TAXI\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-the-data-of-lee-taxi/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-allegedly-leaked-the-data-of-lee-taxi/"
+            ]
+        },
+        {
+            "Message ID": 5951,
+            "discovered": "2024-10-26",
+            "post_title": "🚨🇮🇱RipperSec Targeted the Website of The Joint Council of Pre-Military Academies\n\nhttps://darkwebinformer.com/rippersec-targeted-the-website-of-the-joint-council-of-pre-military-academies/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rippersec-targeted-the-website-of-the-joint-council-of-pre-military-academies/"
+            ]
+        },
+        {
+            "Message ID": 5950,
+            "discovered": "2024-10-26",
+            "post_title": "🚨🇮🇱RipperSec Targeted the Website of Rescue Union\n\nhttps://darkwebinformer.com/rippersec-targeted-the-website-of-rescue-union/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rippersec-targeted-the-website-of-rescue-union/"
+            ]
+        },
+        {
+            "Message ID": 5949,
+            "discovered": "2024-10-26",
+            "post_title": "🚨🇮🇱A Threat Actor Allegedly Leaked Data of Israel National Digital Agency\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-israel-national-digital-agency/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-israel-national-digital-agency/"
+            ]
+        },
+        {
+            "Message ID": 5948,
+            "discovered": "2024-10-26",
+            "post_title": "🚨🇺🇸ZAIDDOS Targeted the Website of Roblox\n\nhttps://darkwebinformer.com/zaiddos-targeted-the-website-of-roblox/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/zaiddos-targeted-the-website-of-roblox/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -15351,6 +15423,36 @@
             "discovered": "2024-10-25",
             "post_title": "October 25, 2024  DarkRaaS Claims Cyber Attack on Maccabi Tel Aviv Sports Club  #Intel",
             "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4455,
+            "discovered": "2024-10-26",
+            "post_title": "October 26, 2024  DragonForce  #DragonForce #Education #United_States",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4454,
+            "discovered": "2024-10-26",
+            "post_title": "October 26, 2024  Donut Leaks Group Announces Unintentional Data Loss on Chat Database  #Intel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Chat Database"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4453,
+            "discovered": "2024-10-26",
+            "post_title": "October 26, 2024  DragonForce  #DragonForce #Education #United_States",
+            "Attack Type": "Hacking",
             "Location": [
                 "N/A"
             ],
