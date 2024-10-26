@@ -33910,6 +33910,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10092"
             ]
+        },
+        {
+            "Message ID": 90166,
+            "discovered": "2024-10-26",
+            "post_title": "Title: Four REvil Ransomware Members Sentenced in Rare Russian Cybercrime Convictions\n\nDate: Oct 26, 2024\n\nSource: https://thehackernews.com/2024/10/four-revil-ransomware-members-sentenced.html\n\n#News #Russia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Russia"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/four-revil-ransomware-members-sentenced.html"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
