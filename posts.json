@@ -3191,6 +3191,38 @@
             "URLs": [
                 "https://thepiratebay.vip/logon:Maryanne.Regelman@disney.com"
             ]
+        },
+        {
+            "Message ID": 5972,
+            "discovered": "2024-10-26",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5971,
+            "discovered": "2024-10-26",
+            "post_title": "Another one goes down, 3rd party",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5970,
+            "discovered": "2024-10-26",
+            "post_title": "https://lkmapps.accenture.com/ Windows IIS surely you have good security i hope",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://lkmapps.accenture.com/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -23686,6 +23718,43 @@
                 "scan-services.com, ",
                 "somfeed.it/index.php?page=post_details&id_post=18213"
             ]
+        },
+        {
+            "Message ID": 3909,
+            "discovered": "2024-10-26",
+            "post_title": "ID: 18217\n⚠ Sat, 26 Oct 2024 19:35:42 UTC\n🥷 meow\n🎯 Westwood Country Club, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18217",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18217"
+            ]
+        },
+        {
+            "Message ID": 3908,
+            "discovered": "2024-10-26",
+            "post_title": "ID: 18216\n⚠ Sat, 26 Oct 2024 19:35:43 UTC\n🥷 meow\n🎯 The Eye Clinic Surgicenter, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18216",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18216"
+            ]
+        },
+        {
+            "Message ID": 3907,
+            "discovered": "2024-10-26",
+            "post_title": "ID: 18215\n⚠ Sat, 26 Oct 2024 19:35:44 UTC\n🥷 meow\n🎯 PT Transportasi Gas Indonesia, Indonesia\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18215",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Indonesia",
+                "Indonesia"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18215"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -34831,6 +34900,126 @@
                 "Indonesia"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 90208,
+            "discovered": "2024-10-26",
+            "post_title": "Victim: wescan-services.com 760 GB\n\nDetection Date: Sun Oct 27 00:14:07 2024\n\nThreat Actor: black suit\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "wescan-services.com"
+            ]
+        },
+        {
+            "Message ID": 90207,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2020-26303\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2020-26303\n\nDescription: insane is a whitelist-oriented HTML sanitizer. Versions 2.6.2 and prior contain one or more regular expressions that are vulnerable to Regular Expression Denial of Service (ReDoS). As of time of publication, no known patches are available.\n\nPublication Date: Sun Oct 27 00:03:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2020-26303"
+            ]
+        },
+        {
+            "Message ID": 90206,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2020-26304\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2020-26304\n\nDescription: Foundation is a front-end framework. Versions 6.3.3 and prior contain one or more regular expressions that are vulnerable to Regular Expression Denial of Service (ReDoS). As of time of publication, it is unknown if any fixes are available.\n\nPublication Date: Sun Oct 27 00:03:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2020-26304"
+            ]
+        },
+        {
+            "Message ID": 90205,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2020-26305\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2020-26305\n\nDescription: CommonRegexJS is a CommonRegex port for JavaScript. All available versions contain one or more regular expressions that are vulnerable to Regular Expression Denial of Service (ReDoS). As of time of publication, no known patches are available.\n\nPublication Date: Sun Oct 27 00:03:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2020-26305"
+            ]
+        },
+        {
+            "Message ID": 90204,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2020-26306\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2020-26306\n\nDescription: Knwl.js is a Javascript library that parses through text for dates, times, phone numbers, emails, places, and more. Versions 1.0.2 and prior contain one or more regular expressions that are vulnerable to Regular Expression Denial of Service (ReDoS). As of time of publication, no known patches are available.\n\nPublication Date: Sun Oct 27 00:02:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2020-26306"
+            ]
+        },
+        {
+            "Message ID": 90203,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2020-26307\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2020-26307\n\nDescription: HTML2Markdown is a Javascript implementation for converting HTML to Markdown text. All available versions contain one or more regular expressions that are vulnerable to Regular Expression Denial of Service (ReDoS). As of time of publication, no known patches are available.\n\nPublication Date: Sun Oct 27 00:02:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2020-26307"
+            ]
+        },
+        {
+            "Message ID": 90202,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2020-26308\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2020-26308\n\nDescription: Validate.js provides a declarative way of validating javascript objects. Versions 0.13.1 and prior contain one or more regular expressions that are vulnerable to Regular Expression Denial of Service (ReDoS). As of time of publication, no known patches are available.\n\nPublication Date: Sun Oct 27 00:02:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2020-26308"
+            ]
+        },
+        {
+            "Message ID": 90201,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2020-26309\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2020-26309\n\nDescription: Validate.js provides a declarative way of validating javascript objects. Versions 0.11.3 and prior contain one or more regular expressions that are vulnerable to Regular Expression Denial of Service (ReDoS). As of time of publication, it is unknown if any patches are available.\n\nPublication Date: Sun Oct 27 00:02:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2020-26309"
+            ]
+        },
+        {
+            "Message ID": 90200,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2020-26310\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2020-26310\n\nDescription: Validate.js provides a declarative way of validating javascript objects. All versions as of 30 November 2020 contain one or more regular expressions that are vulnerable to Regular Expression Denial of Service (ReDoS). As of time of publication, it is unknown if any patches are available.\n\nPublication Date: Sun Oct 27 00:02:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2020-26310"
+            ]
+        },
+        {
+            "Message ID": 90199,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2020-26311\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2020-26311\n\nDescription: Useragent is a user agent parser for Node.js. All versions as of time of publication contain one or more regular expressions that are vulnerable to Regular Expression Denial of Service (ReDoS). As of time of publication, no patches are available.\n\nPublication Date: Sun Oct 27 00:02:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2020-26311"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
