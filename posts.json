@@ -21401,6 +21401,36 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3347,
+            "discovered": "2024-10-26",
+            "post_title": "Group: play\nApprox. Time: 22:39 26/10/24\nTitle: TV Guide Magazine",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3346,
+            "discovered": "2024-10-26",
+            "post_title": "Group: play\nApprox. Time: 22:39 26/10/24\nTitle: Positive Business Solutions",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3345,
+            "discovered": "2024-10-26",
+            "post_title": "Group: play\nApprox. Time: 22:39 26/10/24\nTitle: C & C Industries",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
