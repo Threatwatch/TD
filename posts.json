@@ -34110,6 +34110,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 90183,
+            "discovered": "2024-10-26",
+            "post_title": "Title: Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland\n\nDate: October 26, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/over-70-zero-day-flaws-get-hackers-1-million-at-pwn2own-ireland/\n\n#News #Ireland",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Ireland"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/over-70-zero-day-flaws-get-hackers-1-million-at-pwn2own-ireland/"
+            ]
+        },
+        {
+            "Message ID": 90182,
+            "discovered": "2024-10-26",
+            "post_title": "Title: Sinisterly - Sell ABCPfresh quality  residential IPs for only $0.77/GB for cracking, web scraping,\n\nDetection Date: Sat Oct 26 12:46:57 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-Leak-Sell-ABCPfresh-quality-residential-IPs-for-only-0-77-GB-for-cracking-web-scraping\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-Leak-Sell-ABCPfresh-quality-residential-IPs-for-only-0-77-GB-for-cracking-web-scraping"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
