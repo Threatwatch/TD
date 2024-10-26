@@ -2839,6 +2839,66 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5943,
+            "discovered": "2024-10-26",
+            "post_title": "It's coming from a Major Stealer family and logs are fresh. I think this could be pivoted more but we'll see.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5942,
+            "discovered": "2024-10-26",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5941,
+            "discovered": "2024-10-26",
+            "post_title": "Bonjour Disney on se parle plus tard dans la journée",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5939,
+            "discovered": "2024-10-26",
+            "post_title": "Mickey isn't going to be happy",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5934,
+            "discovered": "2024-10-26",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5933,
+            "discovered": "2024-10-26",
+            "post_title": "Who do you think was the first to go down?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -33506,6 +33566,19 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-47821"
+            ]
+        },
+        {
+            "Message ID": 90144,
+            "discovered": "2024-10-26",
+            "post_title": "Target: http://www.baankhong.go.th\n\nNotified: Y@G!R00T\n\nDate: Sat, 26 Oct 2024 01:47:32 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41292956\n\n#Defacements #Thailand",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://www.baankhong.go.th",
+                "http://www.zone-h.org/mirror/id/41292956"
             ]
         }
     ],
