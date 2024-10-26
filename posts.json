@@ -33826,6 +33826,54 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-8870"
             ]
+        },
+        {
+            "Message ID": 90164,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-20424\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20424\n\nDescription: A vulnerability in the web-based management interface of Cisco Secure Firewall Management Center (FMC) Software, formerly Firepower Management Center Software, could allow an authenticated, remote attacker to execute arbitrary commands on the underlying operating system as root.\n This vulnerability is due to insufficient input validation of certain HTTP requests. An attacker could exploit this vulnerability by authenticating to the web-based management interface of an affected device and then sending a crafted HTTP request to the device. A successful exploit could allow the attacker to execute arbitrary commands with root permissions on the underlying operating system of the Cisco FMC device or to execute commands on managed Cisco Firepower Threat Defense (FTD) devices. To exploit this vulnerability, the attacker would need valid credentials for a user account with at least the role of Security Analyst (Read Only).\n\nPublication Date: Sat Oct 26 08:07:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20424"
+            ]
+        },
+        {
+            "Message ID": 90163,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-20485\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20485\n\nDescription: A vulnerability in the VPN web server of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an authenticated, local attacker to execute arbitrary code with root-level privileges. Administrator-level privileges are required to exploit this vulnerability.\n This vulnerability is due to improper validation of a specific file when it is read from system flash memory. An attacker could exploit this vulnerability by restoring a crafted backup file to an affected device. A successful exploit could allow the attacker to execute arbitrary code on the affected device after the next reload of the device, which could alter system behavior. Because the injected code could persist across device reboots, Cisco has raised the Security Impact Rating (SIR) of this advisory from Medium to High.\n\nPublication Date: Sat Oct 26 08:07:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Cisco"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20485"
+            ]
+        },
+        {
+            "Message ID": 90162,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-20275\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20275\n\nDescription: A vulnerability in the cluster backup feature of Cisco Secure Firewall Management Center (FMC) Software, formerly Firepower Management Center Software, could allow an authenticated, remote attacker to execute arbitrary commands on the underlying operating system.\n\nThis vulnerability is due to insufficient validation of user data that is supplied through the web-based management interface. An attacker could exploit this vulnerability by sending a crafted HTTP request to an affected device. A successful exploit could allow the attacker to execute arbitrary operating system commands on the affected device. To exploit this vulnerability, an attacker would need valid credentials for a user account with at least the role of Network Administrator. In addition, the attacker would need to persuade a legitimate user to initiate a cluster backup on the affected device.\n\nPublication Date: Sat Oct 26 08:07:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20275"
+            ]
+        },
+        {
+            "Message ID": 90161,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-9456\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9456\n\nDescription: The WP Awesome Login plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in all versions up to, and including, 0.4.0 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Author-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.\n\nPublication Date: Sat Oct 26 08:07:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9456"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
