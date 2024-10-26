@@ -10207,6 +10207,20 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1765,
+            "discovered": "2024-10-26",
+            "post_title": "ISRAEL WEBSITE TEKEN DOWN BY BEE \n\nURL  : https://www.l-m.org .il\n\nCHECK HOST : https://check-host.net/check-report/1fa63776kbe5\n\nC2 OWNER : @RudyC2\n\n#BEE \n#Opration ISRAEL \n#DDOS ATTACK",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "ISRAEL",
+                "ISRAEL"
+            ],
+            "URLs": [
+                "https://www.l-m.org",
+                "https://check-host.net/check-report/1fa63776kbe5"
+            ]
         }
     ],
     "Esteem Restoration Eagle": [
@@ -33580,6 +33594,16 @@
                 "http://www.baankhong.go.th",
                 "http://www.zone-h.org/mirror/id/41292956"
             ]
+        },
+        {
+            "Message ID": 90145,
+            "discovered": "2024-10-26",
+            "post_title": "Victim: Premier Work Support\n\nDetection Date: Sat Oct 26 05:40:39 2024\n\nThreat Actor: bianlian\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": []
