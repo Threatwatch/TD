@@ -34170,6 +34170,16 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10357"
             ]
+        },
+        {
+            "Message ID": 90187,
+            "discovered": "2024-10-26",
+            "post_title": "Victim: Legacy Treatment Services\n\nDetection Date: Sat Oct 26 14:15:26 2024\n\nThreat Actor: interlock\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": []
