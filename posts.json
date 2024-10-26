@@ -34134,6 +34134,42 @@
             "URLs": [
                 "https://sinister.ly/Thread-Leak-Sell-ABCPfresh-quality-residential-IPs-for-only-0-77-GB-for-cracking-web-scraping"
             ]
+        },
+        {
+            "Message ID": 90186,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-9772\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9772\n\nDescription: The The Uix Shortcodes – Compatible with Gutenberg plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to, and including, 1.9.9. This is due to the software allowing users to execute an action that does not properly validate a value before running do_shortcode. This makes it possible for unauthenticated attackers to execute arbitrary shortcodes.\n\nPublication Date: Sat Oct 26 13:09:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9772"
+            ]
+        },
+        {
+            "Message ID": 90185,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-9116\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9116\n\nDescription: The Monkee-Boy Essentials plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in all versions up to, and including, 1.1 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Author-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.\n\nPublication Date: Sat Oct 26 13:09:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9116"
+            ]
+        },
+        {
+            "Message ID": 90184,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-10357\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10357\n\nDescription: The Clever Addons for Elementor plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 2.2.1 via the getTemplateContent function in src/widgets/class-clever-widget-base.php. This makes it possible for authenticated attackers, with Contributor-level access and above, to extract sensitive private, pending, and draft template data.\n\nPublication Date: Sat Oct 26 13:09:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10357"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
