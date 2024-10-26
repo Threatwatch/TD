@@ -8172,6 +8172,16 @@
                 "https://leetaxi.com/",
                 "https://www.mediafire.com/file/2i687gial4l7h9d/leetaaxi.sql/file"
             ]
+        },
+        {
+            "Message ID": 5272,
+            "discovered": "2024-10-26",
+            "post_title": "Aura Level 99999++",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -34567,6 +34577,18 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/"
+            ]
+        },
+        {
+            "Message ID": 90195,
+            "discovered": "2024-10-26",
+            "post_title": "Title: Artifact Tracking: Workstation Names\n\nDate: October 26, 2024\n\nSource: https://windowsir.blogspot.com/2024/10/artifact-tracking-workstation-names.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://windowsir.blogspot.com/2024/10/artifact-tracking-workstation-names.html"
             ]
         }
     ],
