@@ -33757,6 +33757,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9613"
             ]
+        },
+        {
+            "Message ID": 90157,
+            "discovered": "2024-10-26",
+            "post_title": "Title: Sinisterly - Selling 3 marketplaces groups TG (15k+ SUBS)\n\nDetection Date: Sat Oct 26 06:49:20 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-Leak-Selling-3-marketplaces-groups-TG-15k-SUBS\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-Leak-Selling-3-marketplaces-groups-TG-15k-SUBS"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
