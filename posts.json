@@ -2769,6 +2769,76 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5932,
+            "discovered": "2024-10-26",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5931,
+            "discovered": "2024-10-26",
+            "post_title": "🚨🇮🇷We Red Evils Original Allegedly Claim They Will Be Targeting Iran",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Iran"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5930,
+            "discovered": "2024-10-26",
+            "post_title": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5929,
+            "discovered": "2024-10-26",
+            "post_title": "Top 4 it is. Was looking forward to Accenture.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5928,
+            "discovered": "2024-10-26",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5927,
+            "discovered": "2024-10-26",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5926,
+            "discovered": "2024-10-26",
+            "post_title": "🚨🇮🇱DarkRaaS is Allegedly Selling Full Access to Israel Volleyball Association Systems",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -10045,6 +10115,38 @@
             "URLs": [
                 "ttps://vamech.co.in/\n"
             ]
+        },
+        {
+            "Message ID": 1646,
+            "discovered": "2024-09-09",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1645,
+            "discovered": "2024-09-09",
+            "post_title": "Free shell  10+ domain ase\n\n\nUrl : https://innovativeeshop.in/media/category/356413855_b2.php?d=L2hvbWUvdTE5MzEwMDI1NS9kb21haW5zL2lubm92YXRpdmVlc2hvcC5pbi9wdWJsaWNfaHRtbC9tZWRpYS9jYXRlZ29yeQ==",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://innovativeeshop.in/media/category/356413855_b2.php?d=L2hvbWUvdTE5MzEwMDI1NS9kb21haW5zL2lubm92YXRpdmVlc2hvcC5pbi9wdWJsaWNfaHRtbC9tZWRpYS9jYXRlZ29yeQ=="
+            ]
+        },
+        {
+            "Message ID": 1644,
+            "discovered": "2024-09-09",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Esteem Restoration Eagle": [
@@ -20593,6 +20695,26 @@
             "URLs": [
                 "https://t.co/tiCMnEDzr5"
             ]
+        },
+        {
+            "Message ID": 3338,
+            "discovered": "2024-10-26",
+            "post_title": "Group: ragroup\nApprox. Time: 00:38 26/10/24\nTitle: Digital Engineering",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3337,
+            "discovered": "2024-10-26",
+            "post_title": "Group: ragroup\nApprox. Time: 00:38 26/10/24\nTitle: TR****GB",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -33352,6 +33474,38 @@
             ],
             "URLs": [
                 "https://www.scworld.com/news/breaking-silos-a-cybersecurity-must-says-auditboard-cto"
+            ]
+        },
+        {
+            "Message ID": 90143,
+            "discovered": "2024-10-26",
+            "post_title": "Victim: TR****GB\n\nDetection Date: Sat Oct 26 03:50:25 2024\n\nThreat Actor: ra group\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 90142,
+            "discovered": "2024-10-26",
+            "post_title": "Victim: Digital Engineering\n\nDetection Date: Sat Oct 26 03:50:09 2024\n\nThreat Actor: ra group\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 90141,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-47821\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47821\n\nDescription: pyLoad is a free and open-source Download Manager. The folder `/.pyload/scripts` has scripts which are run when certain actions are completed, for e.g. a download is finished. By downloading a executable file to a folder in /scripts and performing the respective action, remote code execution can be achieved in versions on the 0.5 branch prior to 0.5.0b3.dev87. A file can be downloaded to such a folder by changing the download folder to a folder in `/scripts` path and using the `/flashgot` API to download the file. This vulnerability allows an attacker with access to change the settings on a pyload server to execute arbitrary code and completely compromise the system. Version 0.5.0b3.dev87 fixes this issue.\n\nPublication Date: Sat Oct 26 03:06:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47821"
             ]
         }
     ],
