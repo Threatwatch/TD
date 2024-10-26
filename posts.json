@@ -3099,6 +3099,28 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5963,
+            "discovered": "2024-10-26",
+            "post_title": "Workplace is run by Meta. workplace.com",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "workplace.com"
+            ]
+        },
+        {
+            "Message ID": 5962,
+            "discovered": "2024-10-26",
+            "post_title": "Someone told them about Workplace, but not the other url? Maybe user got an email saying logging in from another location.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
