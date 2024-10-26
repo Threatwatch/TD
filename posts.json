@@ -3243,6 +3243,28 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5976,
+            "discovered": "2024-10-26",
+            "post_title": "🚨🇬🇧A Threat Actor Allegedly Has Leaked Data from Tesler\n\nThe exposed data contains user ID codes, birth dates, full names, email addresses, account registration dates, primary and secondary addresses, cities, countries, and phone numbers.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5975,
+            "discovered": "2024-10-26",
+            "post_title": "💡FREE POST\n\n🚨🇰🇾A Threat is Allegedly Selling 36K KYC Documents from BloFin\n\nhttps://darkwebinformer.com/a-threat-is-allegedly-selling-36k-kyc-documents-from-blofin/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "BloFin"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-is-allegedly-selling-36k-kyc-documents-from-blofin/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -35092,6 +35114,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2020-26311"
+            ]
+        },
+        {
+            "Message ID": 90209,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-10406\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10406\n\nDescription: A vulnerability, which was classified as critical, has been found in SourceCodester Petrol Pump Management Software 1.0. Affected by this issue is some unknown functionality of the file /admin/edit_fuel.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Oct 27 02:04:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10406"
             ]
         }
     ],
