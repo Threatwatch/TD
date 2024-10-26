@@ -6656,6 +6656,19 @@
                 "Israel"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 7112,
+            "discovered": "2024-10-26",
+            "post_title": "⚡️New update 🟡 \n\n⚡️Channel Link: \n\nhttps://t.me/Sn_blackmeta\n\n⚡️Group chat link : \n\nhttps://t.me/SN_Darkmetachat\n\n#SN_Darkmeta\n#Sn_blackmeta",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://t.me/Sn_blackmeta\n",
+                "ttps://t.me/SN_Darkmetachat\n"
+            ]
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -7975,6 +7988,19 @@
                 "Iran"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5271,
+            "discovered": "2024-10-26",
+            "post_title": "We hacked leetaxi and leaked it's database. \n\nleetaxi is a Saudi driving and transportation company in Jeddah\n\nThe attack was Carried out because saudi Allowed the Zionist entity to use it's Airspace \n\nTarget: https://leetaxi.com/\n\nsize: 2.6GB\ntype: sql\n\ndownload link: https://www.mediafire.com/file/2i687gial4l7h9d/leetaaxi.sql/file\n\ndata contains: Names, emails, numbers, addresses, personal information,..... etc\n\ncredz:- D01\n\n#SYLHET_GANG_SG\n\n#D01",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Jeddah"
+            ],
+            "URLs": [
+                "https://leetaxi.com/",
+                "https://www.mediafire.com/file/2i687gial4l7h9d/leetaaxi.sql/file"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
@@ -34211,6 +34237,42 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 90190,
+            "discovered": "2024-10-26",
+            "post_title": "Title: New Windows Driver Signature bypass allows kernel rootkit installs\n\nDate: October 26, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/"
+            ]
+        },
+        {
+            "Message ID": 90189,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-10117\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10117\n\nDescription: The WP Crowdfunding plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's wpcf_donate shortcode in all versions up to, and including, 2.1.11 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Sat Oct 26 15:00:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10117"
+            ]
+        },
+        {
+            "Message ID": 90188,
+            "discovered": "2024-10-26",
+            "post_title": "CVE-ID: CVE-2024-10402\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10402\n\nDescription: The Forminator Forms – Contact Form, Payment Form & Custom Form Builder plugin for WordPress is vulnerable to unauthorized access due to a missing capability check on a function in all versions up to, and including, 1.35.1. This makes it possible for authenticated attackers, with Contributor-level access and above, and permissions granted by an Administrator, to create new or edit existing forms, including updating the default registration role to Administrator on User Registration forms.\n\nPublication Date: Sat Oct 26 15:00:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10402"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
