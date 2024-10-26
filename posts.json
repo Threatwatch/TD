@@ -23603,6 +23603,31 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18212"
             ]
+        },
+        {
+            "Message ID": 3906,
+            "discovered": "2024-10-26",
+            "post_title": "ID: 18214\n⚠ Sat, 26 Oct 2024 14:41:57 UTC\n🥷 killsec\n🎯 Bliss Worldwide, India\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18214",
+            "Attack Type": "Unknown",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18214"
+            ]
+        },
+        {
+            "Message ID": 3905,
+            "discovered": "2024-10-26",
+            "post_title": "ID: 18213\n⚠ Sat, 26 Oct 2024 14:34:57 UTC\n🥷 blacksuit\n🎯 wescan-services.com, Canda\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18213",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "scan-services.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18213"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
