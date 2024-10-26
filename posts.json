@@ -3265,6 +3265,18 @@
             "URLs": [
                 "s://darkwebinformer.com/a-threat-is-allegedly-selling-36k-kyc-documents-from-blofin/"
             ]
+        },
+        {
+            "Message ID": 5977,
+            "discovered": "2024-10-26",
+            "post_title": "💡Daily Dose of Dark Web Informer - October 25th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-25th-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-25th-2024/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -35127,6 +35139,36 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10406"
             ]
+        },
+        {
+            "Message ID": 90212,
+            "discovered": "2024-10-26",
+            "post_title": "Victim: C & C Industries\n\nDetection Date: Sun Oct 27 02:38:49 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 90211,
+            "discovered": "2024-10-26",
+            "post_title": "Victim: Positive Business Solutions\n\nDetection Date: Sun Oct 27 02:38:29 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 90210,
+            "discovered": "2024-10-26",
+            "post_title": "Victim: TV Guide Magazine\n\nDetection Date: Sun Oct 27 02:38:09 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": []
