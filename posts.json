@@ -3362,6 +3362,30 @@
             "URLs": [
                 "s://darkwebinformer.com/henrymans0n-has-allegedly-leaked-data-of-ngo-department-of-iraq/\n\nTh"
             ]
+        },
+        {
+            "Message ID": 5987,
+            "discovered": "2024-10-27",
+            "post_title": "🚨🇮🇩DDOS TEAM ANONYMOUS Targeted the Website of TRANS TV\n\nhttps://darkwebinformer.com/ddos-team-anonymous-targeted-the-website-of-trans-tv/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/ddos-team-anonymous-targeted-the-website-of-trans-tv/"
+            ]
+        },
+        {
+            "Message ID": 5986,
+            "discovered": "2024-10-27",
+            "post_title": "🚨🇺🇸A Threat Actor is Allegedly Selling a Database of NotaryStars\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-a-database-of-notarystars/\n\nThe threat actor is offering to sell a database from NotaryStars[.]com, containing data on 101 users. The leaked information includes names, email addresses, phone numbers, physical addresses, usernames, passwords, and more.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-a-database-of-notarystars/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
