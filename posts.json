@@ -36515,6 +36515,54 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10428"
             ]
+        },
+        {
+            "Message ID": 90278,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-50610\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50610\n\nDescription: GSL (GNU Scientific Library) through 2.8 has an integer signedness error in gsl_siman_solve_many in siman/siman.c. When params.n_tries is negative, incorrect memory allocation occurs.\n\nPublication Date: Mon Oct 28 01:03:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50610"
+            ]
+        },
+        {
+            "Message ID": 90277,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10429\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10429\n\nDescription: A vulnerability classified as critical has been found in WAVLINK WN530H4, WN530HG4 and WN572HG3 up to 20221028. Affected is the function set_ipv6 of the file internet.cgi. The manipulation of the argument IPv6OpMode/IPv6IPAddr/IPv6WANIPAddr/IPv6GWAddr leads to command injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Mon Oct 28 01:03:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "WAVLINK"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10429"
+            ]
+        },
+        {
+            "Message ID": 90276,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2022-47353\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-47353\n\nDescription: In vdsp device, there is a possible system crash due to improper input validation.This could lead to local denial of service with System execution privileges needed\n\nPublication Date: Mon Oct 28 01:02:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-47353"
+            ]
+        },
+        {
+            "Message ID": 90275,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-50611\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50611\n\nDescription: CycloneDX cdxgen through 10.10.7, when run against an untrusted codebase, may execute code contained within build-related files such as build.gradle.kts, a similar issue to CVE-2022-24441. cdxgen is used by, for example, OWASP dep-scan. NOTE: this has been characterized as a design limitation, rather than an implementation mistake.\n\nPublication Date: Mon Oct 28 01:02:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50611"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
