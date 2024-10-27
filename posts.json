@@ -3386,6 +3386,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-a-database-of-notarystars/\n\nT"
             ]
+        },
+        {
+            "Message ID": 5989,
+            "discovered": "2024-10-27",
+            "post_title": "🚨🇩🇪OverFlame Targeted the Website of Federal Ministry for Economic Affairs and Climate Action\n\nhttps://darkwebinformer.com/overflame-targeted-the-website-of-federal-ministry-for-economic-affairs-and-climate-action/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/overflame-targeted-the-website-of-federal-ministry-for-economic-affairs-and-climate-action/"
+            ]
+        },
+        {
+            "Message ID": 5988,
+            "discovered": "2024-10-27",
+            "post_title": "🚨🇮🇱AnonymousActivist Targeted the Website of Visa\n\nhttps://darkwebinformer.com/anonymousactivist-targeted-the-website-of-visa/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/anonymousactivist-targeted-the-website-of-visa/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -12213,6 +12237,16 @@
             "Message ID": 1937,
             "discovered": "2024-10-27",
             "post_title": "Free Cpanel For You",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1938,
+            "discovered": "2024-10-27",
+            "post_title": "",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -35923,6 +35957,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-27887"
+            ]
+        },
+        {
+            "Message ID": 90251,
+            "discovered": "2024-10-27",
+            "post_title": "Title: Protected: Flare-On 11 – Task 10\n\nDate: October 27, 2024\n\nSource: https://hshrzd.wordpress.com/2024/10/27/flare-on-11-task-10/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://hshrzd.wordpress.com/2024/10/27/flare-on-11-task-10/"
             ]
         }
     ],
