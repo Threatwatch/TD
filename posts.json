@@ -3542,6 +3542,30 @@
                 "Exploit"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6004,
+            "discovered": "2024-10-27",
+            "post_title": "Status: 🔼\n\n🚨🇮🇱Al Ahad Targeted the Website of Vaisit Israel\n\nhttps://darkwebinformer.com/al-ahad-targeted-the-website-of-vaisit-israel/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/al-ahad-targeted-the-website-of-vaisit-israel/"
+            ]
+        },
+        {
+            "Message ID": 6003,
+            "discovered": "2024-10-27",
+            "post_title": "Status: 🔼\n\n🚨🇨🇭Mr Hamza Targeted the Website of FINMA\n\nhttps://darkwebinformer.com/mr-hamza-targeted-the-website-of-finma/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/mr-hamza-targeted-the-website-of-finma/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -36372,6 +36396,42 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10424"
+            ]
+        },
+        {
+            "Message ID": 90272,
+            "discovered": "2024-10-27",
+            "post_title": "Title: Two currently (old) exploited Ivanti vulnerabilities, (Sun, Oct 27th)\n\nDate: October 27, 2024\n\nSource: https://isc.sans.edu/diary/rss/31384\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/diary/rss/31384"
+            ]
+        },
+        {
+            "Message ID": 90271,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10425\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10425\n\nDescription: A vulnerability was found in Project Worlds Student Project Allocation System 1.0 and classified as critical. Affected by this issue is some unknown functionality of the file /student/project_selection/move_up_project.php of the component Project Selection Page. The manipulation of the argument up leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Oct 27 23:00:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10425"
+            ]
+        },
+        {
+            "Message ID": 90270,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10426\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10426\n\nDescription: A vulnerability was found in Codezips Pet Shop Management System 1.0. It has been classified as critical. This affects an unknown part of the file /animalsadd.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions the parameter \"refno\" to be affected. But further inspection indicates that the name of the affected parameter is \"id\".\n\nPublication Date: Sun Oct 27 23:00:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10426"
             ]
         }
     ],
