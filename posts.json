@@ -24011,6 +24011,19 @@
                 "arrari.com.br, ",
                 "somfeed.it/index.php?page=post_details&id_post=18222"
             ]
+        },
+        {
+            "Message ID": 3916,
+            "discovered": "2024-10-27",
+            "post_title": "ID: 18224\n⚠ Sun, 27 Oct 2024 08:58:35 UTC\n🥷 ransomhub\n🎯 melangesystems.com, India\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18224",
+            "Attack Type": "Unknown",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "langesystems.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18224"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -35593,6 +35606,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10413"
+            ]
+        },
+        {
+            "Message ID": 90236,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10414\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10414\n\nDescription: A vulnerability, which was classified as problematic, was found in PHPGurukul Vehicle Record System 1.0. This affects an unknown part of the file /admin/edit-brand.php. The manipulation of the argument Brand Name leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions the parameter \"phone_number\" to be affected. But this might be a mistake because the textbox field label is \"Brand Name\".\n\nPublication Date: Sun Oct 27 14:07:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10414"
             ]
         }
     ],
