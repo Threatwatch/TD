@@ -10755,6 +10755,16 @@
                 "https://www.l-m.org",
                 "https://check-host.net/check-report/1fa63776kbe5"
             ]
+        },
+        {
+            "Message ID": 1766,
+            "discovered": "2024-10-27",
+            "post_title": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Esteem Restoration Eagle": [
@@ -35241,6 +35251,126 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-21725"
+            ]
+        },
+        {
+            "Message ID": 90227,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-20084\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20084\n\nDescription: In power, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS08944210; Issue ID: MSV-1561.\n\nPublication Date: Sun Oct 27 07:10:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20084"
+            ]
+        },
+        {
+            "Message ID": 90226,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-20085\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20085\n\nDescription: In power, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS08944204; Issue ID: MSV-1560.\n\nPublication Date: Sun Oct 27 07:10:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20085"
+            ]
+        },
+        {
+            "Message ID": 90225,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-20093\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20093\n\nDescription: In vdec, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09028313; Issue ID: MSV-1699.\n\nPublication Date: Sun Oct 27 07:10:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20093"
+            ]
+        },
+        {
+            "Message ID": 90224,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-20096\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20096\n\nDescription: In m4u, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS08996900; Issue ID: MSV-1635.\n\nPublication Date: Sun Oct 27 07:09:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20096"
+            ]
+        },
+        {
+            "Message ID": 90223,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-20095\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20095\n\nDescription: In m4u, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS08996894; Issue ID: MSV-1636.\n\nPublication Date: Sun Oct 27 07:09:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20095"
+            ]
+        },
+        {
+            "Message ID": 90222,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-20091\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20091\n\nDescription: In vdec, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09028313; Issue ID: MSV-1701.\n\nPublication Date: Sun Oct 27 07:09:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20091"
+            ]
+        },
+        {
+            "Message ID": 90221,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-20097\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20097\n\nDescription: In vdec, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09028313; Issue ID: MSV-1630.\n\nPublication Date: Sun Oct 27 07:09:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20097"
+            ]
+        },
+        {
+            "Message ID": 90220,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-34245\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34245\n\nDescription: An arbitrary file read vulnerability in DedeCMS v5.7.114 allows authenticated attackers to read arbitrary files by specifying any path in makehtml_js_action.php.\n\nPublication Date: Sun Oct 27 07:09:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34245"
+            ]
+        },
+        {
+            "Message ID": 90219,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10409\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10409\n\nDescription: A vulnerability was found in code-projects Blood Bank Management 1.0 and classified as critical. This issue affects some unknown processing of the file /file/accept.php. The manipulation of the argument reqid leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Oct 27 07:08:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10409"
+            ]
+        },
+        {
+            "Message ID": 90218,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10410\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10410\n\nDescription: A vulnerability classified as critical was found in SourceCodester Online Hotel Reservation System 1.0. Affected by this vulnerability is the function upload of the file /admin/mod_room/controller.php?action=add. The manipulation of the argument image leads to unrestricted upload. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Oct 27 07:08:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10410"
             ]
         }
     ],
