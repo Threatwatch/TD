@@ -23974,6 +23974,31 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18218"
             ]
+        },
+        {
+            "Message ID": 3915,
+            "discovered": "2024-10-27",
+            "post_title": "ID: 18223\n⚠ Sun, 27 Oct 2024 03:50:28 UTC\n🥷 killsec\n🎯 Edmov, Turkey\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18223",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Turkey"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18223"
+            ]
+        },
+        {
+            "Message ID": 3914,
+            "discovered": "2024-10-27",
+            "post_title": "ID: 18222\n⚠ Sun, 27 Oct 2024 06:54:41 UTC\n🥷 ransomhub\n🎯 mkarrari.com.br, Brazil\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18222",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "arrari.com.br, ",
+                "somfeed.it/index.php?page=post_details&id_post=18222"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
