@@ -35422,6 +35422,30 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10410"
             ]
+        },
+        {
+            "Message ID": 90229,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10411\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10411\n\nDescription: A vulnerability was found in SourceCodester Online Hotel Reservation System 1.0. It has been classified as critical. Affected is the function doCancelRoom/doCancel/doConfirm/doCancel/doCheckin/doCheckout of the file /marimar/admin/mod_room/controller.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Oct 27 09:08:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10411"
+            ]
+        },
+        {
+            "Message ID": 90228,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-50602\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50602\n\nDescription: An issue was discovered in libexpat before 2.6.4. There is a crash within the XML_ResumeParser function because XML_StopParser can stop/suspend an unstarted parser.\n\nPublication Date: Sun Oct 27 09:08:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50602"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
