@@ -8568,6 +8568,19 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5273,
+            "discovered": "2024-10-27",
+            "post_title": "2 Indian site has been Hacked\n\nhttps://indianescort.org/\nhttp://an.theloudspeaker.in/\n\nCredz:- D01\n\n#AlAqsaFlood",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://indianescort.org/",
+                "http://an.theloudspeaker.in/"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
@@ -35969,6 +35982,114 @@
             ],
             "URLs": [
                 "https://hshrzd.wordpress.com/2024/10/27/flare-on-11-task-10/"
+            ]
+        },
+        {
+            "Message ID": 90260,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2022-25478\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-25478\n\nDescription: Vulnerability in Realtek RtsPer driver for PCIe Card Reader (RtsPer.sys) before 10.0.22000.21355 and Realtek RtsUer driver for USB Card Reader (RtsUer.sys) before 10.0.22000.31274 provides read and write access to the PCI configuration space of the device.\n\nPublication Date: Sun Oct 27 19:09:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-25478"
+            ]
+        },
+        {
+            "Message ID": 90259,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2022-34560\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-34560\n\nDescription: A cross-site scripting (XSS) vulnerability in PHPFox v4.8.9 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the History parameter.\n\nPublication Date: Sun Oct 27 19:09:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-34560"
+            ]
+        },
+        {
+            "Message ID": 90258,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2022-34562\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-34562\n\nDescription: A cross-site scripting (XSS) vulnerability in PHPFox v4.8.9 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the status box.\n\nPublication Date: Sun Oct 27 19:08:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-34562"
+            ]
+        },
+        {
+            "Message ID": 90257,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2022-29951\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-29951\n\nDescription: JTEKT TOYOPUC PLCs through 2022-04-29 mishandle authentication. They utilize the CMPLink/TCP protocol (configurable on ports 1024-65534 on either TCP or UDP) for a wide variety of engineering purposes such as starting and stopping the PLC, downloading and uploading projects, and changing configuration settings. This protocol does not have any authentication features, allowing any attacker capable of communicating with the port in question to invoke (a subset of) desired functionality.\n\nPublication Date: Sun Oct 27 19:08:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-29951"
+            ]
+        },
+        {
+            "Message ID": 90256,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2022-28658\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-28658\n\nDescription: Apport argument parsing mishandles filename splitting on older kernels resulting in argument spoofing\n\nPublication Date: Sun Oct 27 19:08:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-28658"
+            ]
+        },
+        {
+            "Message ID": 90255,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-2189\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-2189\n\nDescription: The Social Icons Widget & Block by WPZOOM WordPress plugin before 4.2.18 does not sanitise and escape some of its Widget settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)\n\nPublication Date: Sun Oct 27 19:08:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-2189"
+            ]
+        },
+        {
+            "Message ID": 90254,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-2300\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-2300\n\nDescription: HP Advance Mobile Applications for iOS and Android are potentially vulnerable to information disclosure when using an outdated version of the application via mobile devices.\n\nPublication Date: Sun Oct 27 19:08:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-2300"
+            ]
+        },
+        {
+            "Message ID": 90253,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-42412\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42412\n\nDescription: Cross-site scripting vulnerability exists in WAB-I1750-PS and WAB-S1167-PS due to improper processing of input values in menu.cgi. If a user views a malicious web page while logged in to the product, an arbitrary script may be executed on the user's web browser.\n\nPublication Date: Sun Oct 27 19:07:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "menu.cgi"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42412"
+            ]
+        },
+        {
+            "Message ID": 90252,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10420\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10420\n\nDescription: A vulnerability classified as critical has been found in SourceCodester Attendance and Payroll System 1.0. This affects the function upload of the file /marimar/guest/update.php. The manipulation of the argument image leads to unrestricted upload. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Oct 27 19:07:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10420"
             ]
         }
     ],
