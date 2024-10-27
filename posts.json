@@ -3578,6 +3578,16 @@
             "URLs": [
                 "ps://darkwebinformer.com/anonymous-muslims-targeted-the-website-of-aeromaoz-ltd/"
             ]
+        },
+        {
+            "Message ID": 6006,
+            "discovered": "2024-10-27",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
