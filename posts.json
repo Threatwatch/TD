@@ -35485,6 +35485,42 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-50602"
             ]
+        },
+        {
+            "Message ID": 90232,
+            "discovered": "2024-10-27",
+            "post_title": "Victim: mkarrari.com.br\n\nDetection Date: Sun Oct 27 12:11:09 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "mkarrari.com.br"
+            ]
+        },
+        {
+            "Message ID": 90231,
+            "discovered": "2024-10-27",
+            "post_title": "Victim: melangesystems.com\n\nDetection Date: Sun Oct 27 12:10:54 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "melangesystems.com"
+            ]
+        },
+        {
+            "Message ID": 90230,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10412\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10412\n\nDescription: A vulnerability was found in Poco-z Guns-Medical 1.0. It has been declared as problematic. Affected by this vulnerability is the function upload of the file /mgr/upload of the component File Upload. The manipulation of the argument picture leads to cross site scripting. The attack can be launched remotely.\n\nPublication Date: Sun Oct 27 12:00:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10412"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
