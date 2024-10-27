@@ -35546,6 +35546,30 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10412"
             ]
+        },
+        {
+            "Message ID": 90234,
+            "discovered": "2024-10-27",
+            "post_title": "Title: DemonForums - [Giveaway] China Tencent QQ ID+Phone Number Matching Database\n\nDetection Date: Sun Oct 27 12:38:34 2024\n\nSource: demonforums\n\nURL: https://demonforums.net/Thread-Giveaway-China-Tencent-QQ-ID-Phone-Number-Matching-Database\n\n#darkforums #leak #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://demonforums.net/Thread-Giveaway-China-Tencent-QQ-ID-Phone-Number-Matching-Database"
+            ]
+        },
+        {
+            "Message ID": 90233,
+            "discovered": "2024-10-27",
+            "post_title": "Title: DemonForums - china it website db  1.76m records\n\nDetection Date: Sun Oct 27 12:38:23 2024\n\nSource: demonforums\n\nURL: https://demonforums.net/Thread-china-it-website-db-1-76m-records\n\n#darkforums #leak #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://demonforums.net/Thread-china-it-website-db-1-76m-records"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
