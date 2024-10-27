@@ -3410,6 +3410,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/anonymousactivist-targeted-the-website-of-visa/"
             ]
+        },
+        {
+            "Message ID": 5990,
+            "discovered": "2024-10-27",
+            "post_title": "https://x.com/DarkWebInformer/status/1850595678746988600",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1850595678746988600"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -6063,6 +6075,23 @@
             "URLs": [
                 "https://check-host.net/check-report/1facddcak4b5",
                 "https://monero.hashvault.pro/"
+            ]
+        },
+        {
+            "Message ID": 2409,
+            "discovered": "2024-10-27",
+            "post_title": "Cellebrite Israel Data Leak (Magnet Link 2Tb) 🇮🇱\n\nPhone forensics software and documentation from the Israeli company Cellebrite.\n\nSize: 2 TB (compressed)\n\nDownload: magnet:?xt=urn:btih:f881291ab69fff48393ede2e36a4f8fcb4b5bf7a&dn=cellebrite&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tracker.openbittorrent.com%3",
+                "tracker.openbittorrent.com%3",
+                "opentracker.i2p.rocks%3",
+                "open.stealth.si%3",
+                "exodus.desync.com%3",
+                "exodus.desync.com%3"
             ]
         }
     ],
