@@ -35676,6 +35676,66 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 90244,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10416\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10416\n\nDescription: A vulnerability was found in code-projects Blood Bank Management System 1.0 and classified as critical. This issue affects some unknown processing of the file /file/cancel.php. The manipulation of the argument reqid leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Oct 27 17:04:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10416"
+            ]
+        },
+        {
+            "Message ID": 90243,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10417\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10417\n\nDescription: A vulnerability was found in code-projects Blood Bank Management System 1.0. It has been classified as critical. Affected is an unknown function of the file /file/delete.php. The manipulation of the argument bid leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Oct 27 17:04:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10417"
+            ]
+        },
+        {
+            "Message ID": 90242,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-23785\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-23785\n\nDescription: Cross-site request forgery vulnerability in Energy Management Controller with Cloud Services JH-RVB1 /JH-RV11 Ver.B0.1.9.1 and earlier allows a remote unauthenticated attacker to change the product settings.\n\nPublication Date: Sun Oct 27 17:03:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-23785"
+            ]
+        },
+        {
+            "Message ID": 90241,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10418\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10418\n\nDescription: A vulnerability was found in code-projects Blood Bank Management System 1.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file /file/infoAdd.php. The manipulation of the argument bg leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Oct 27 17:03:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10418"
+            ]
+        },
+        {
+            "Message ID": 90240,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-23556\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-23556\n\nDescription: SSL/TLS Renegotiation functionality potentially leading to DoS attack vulnerability.\n\nPublication Date: Sun Oct 27 17:03:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-23556"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
