@@ -35570,6 +35570,18 @@
             "URLs": [
                 "https://demonforums.net/Thread-china-it-website-db-1-76m-records"
             ]
+        },
+        {
+            "Message ID": 90235,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10413\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10413\n\nDescription: A vulnerability, which was classified as critical, has been found in SourceCodester Online Hotel Reservation System 1.0. Affected by this issue is the function upload of the file /guest/update.php. The manipulation of the argument image leads to unrestricted upload. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Oct 27 13:01:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10413"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
