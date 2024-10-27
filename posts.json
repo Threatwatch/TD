@@ -3422,6 +3422,46 @@
             "URLs": [
                 "https://x.com/DarkWebInformer/status/1850595678746988600"
             ]
+        },
+        {
+            "Message ID": 5994,
+            "discovered": "2024-10-27",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5993,
+            "discovered": "2024-10-27",
+            "post_title": "'firewalldetector': cls.base_url + f'/firewalldetector?key={cls.key}&url={kwargs.get(\"url\")}{json_query}',",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5992,
+            "discovered": "2024-10-27",
+            "post_title": "oh wow it finally uploaded 15 minutes later",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5991,
+            "discovered": "2024-10-27",
+            "post_title": "💡April 2024: 60 Minutes, an American television news magazine broadcast, did a segment on Scattered Spider. They gained notoriety by gaining access to Caesars Entertainment and MGM Resorts through social engineering.\n\nOther large breaches include: Okta, Cloudflare, Twilio, RiotGames, Coinbase and more. Some of these breaches occurred under the name \"0ktapus.\"",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -24241,6 +24281,30 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18226"
             ]
+        },
+        {
+            "Message ID": 3920,
+            "discovered": "2024-10-27",
+            "post_title": "ID: 18228\n⚠ Sun, 27 Oct 2024 14:41:30 UTC\n🥷 raworld\n🎯 BU****IT, Non Disponibile\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18228",
+            "Attack Type": "Unknown",
+            "Location": [
+                "ransomfeed.it/index.php?page=post_details&id_post=18228"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18228"
+            ]
+        },
+        {
+            "Message ID": 3919,
+            "discovered": "2024-10-27",
+            "post_title": "ID: 18227\n⚠ Sun, 27 Oct 2024 13:18:09 UTC\n🥷 killsec\n🎯 Mixfame, UAE\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18227",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UAE"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18227"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -36119,6 +36183,30 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10420"
+            ]
+        },
+        {
+            "Message ID": 90262,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10421\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10421\n\nDescription: A vulnerability classified as critical was found in SourceCodester Attendance and Payroll System 1.0. This vulnerability affects unknown code of the file /admin/overtime_row.php. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Oct 27 21:10:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10421"
+            ]
+        },
+        {
+            "Message ID": 90261,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10422\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10422\n\nDescription: A vulnerability, which was classified as critical, has been found in SourceCodester Attendance and Payroll System 1.0. This issue affects some unknown processing of the file /admin/overtime_add.php. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Oct 27 21:10:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10422"
             ]
         }
     ],
