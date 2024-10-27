@@ -12112,6 +12112,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1937,
+            "discovered": "2024-10-27",
+            "post_title": "Free Cpanel For You",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SERVER KILLERS": [
@@ -35618,6 +35628,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10414"
+            ]
+        },
+        {
+            "Message ID": 90237,
+            "discovered": "2024-10-27",
+            "post_title": "Victim: payxpress.co.il\n\nDetection Date: Sun Oct 27 14:17:36 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "payxpress.co.il"
             ]
         }
     ],
