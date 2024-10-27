@@ -3290,6 +3290,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/303-is-allegedly-selling-firewall-access-to-emirates-group/\n\nT"
             ]
+        },
+        {
+            "Message ID": 5980,
+            "discovered": "2024-10-27",
+            "post_title": "💡FREE POST\n\n🚨🇮🇩DarkRaaS is Allegedly Selling Access to an Unidentified Indonesian Company\n\nhttps://darkwebinformer.com/darkraas-is-allegedly-selling-access-to-an-unidentified-indonesian-company/\n\nThe threat actor claims to be offering access to an undisclosed Indonesian company.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/darkraas-is-allegedly-selling-access-to-an-unidentified-indonesian-company/\n\nTh"
+            ]
+        },
+        {
+            "Message ID": 5979,
+            "discovered": "2024-10-27",
+            "post_title": "💡FREE POST\n\n🚨🇹🇷DarkRaaS is Allegedly Selling VPN Access to an Unidentified Turkish Municipality\n\nhttps://darkwebinformer.com/darkraas-is-allegedly-selling-vpn-access-to-an-unidentified-turkish-municipality/\n\nThe threat actor claims to be selling VPN tunnel access to the internal systems of a Turkish municipality, offering a gateway into sensitive municipal data and infrastructure.\n\nThis access reportedly includes direct connectivity through an active VPN portal, enabling secure management and monitoring.\n\nAccording to the actor, this access provides visibility into infrastructure systems like utilities and public services, with the municipality generating over $350 million in revenue.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/darkraas-is-allegedly-selling-vpn-access-to-an-unidentified-turkish-municipality/\n\nTh"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -24047,6 +24071,18 @@
                 "yxpress.co.il, ",
                 "somfeed.it/index.php?page=post_details&id_post=18225"
             ]
+        },
+        {
+            "Message ID": 3918,
+            "discovered": "2024-10-27",
+            "post_title": "ID: 18226\n⚠ Sun, 27 Oct 2024 10:17:50 UTC\n🥷 interlock\n🎯 Texas Tech University Health Sciences Center, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18226",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18226"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -35735,6 +35771,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-23556"
+            ]
+        },
+        {
+            "Message ID": 90245,
+            "discovered": "2024-10-27",
+            "post_title": "Title: Fog ransomware targets SonicWall VPNs to breach corporate networks\n\nDate: October 27, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/fog-ransomware-targets-sonicwall-vpns-to-breach-corporate-networks/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/fog-ransomware-targets-sonicwall-vpns-to-breach-corporate-networks/"
             ]
         }
     ],
