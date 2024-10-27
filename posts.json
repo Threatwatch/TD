@@ -3512,6 +3512,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6001,
+            "discovered": "2024-10-27",
+            "post_title": "We are so rich",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6000,
+            "discovered": "2024-10-27",
+            "post_title": "Damn",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -36257,6 +36277,91 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10422"
+            ]
+        },
+        {
+            "Message ID": 90269,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2022-38164\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-38164\n\nDescription: A vulnerability affecting F-Secure SAFE browser for Android and iOS was discovered. A maliciously crafted website could make a phishing attack with URL spoofing as the browser only display certain part of the entire URL.\n\nPublication Date: Sun Oct 27 22:17:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-38164"
+            ]
+        },
+        {
+            "Message ID": 90268,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2022-38485\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-38485\n\nDescription: A directory traversal vulnerability exists in the AgeVolt Portal prior to version 0.1 that leads to Information Disclosure. A remote authenticated attacker could leverage this vulnerability to read files from any location on the target operating system with web server privileges.\n\nPublication Date: Sun Oct 27 22:17:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-38485"
+            ]
+        },
+        {
+            "Message ID": 90267,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2022-28654\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-28654\n\nDescription: is_closing_session() allows users to fill up apport.log\n\nPublication Date: Sun Oct 27 22:17:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-28654"
+            ]
+        },
+        {
+            "Message ID": 90266,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2022-28655\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-28655\n\nDescription: is_closing_session() allows users to create arbitrary tcp dbus connections\n\nPublication Date: Sun Oct 27 22:17:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-28655"
+            ]
+        },
+        {
+            "Message ID": 90265,
+            "discovered": "2024-10-27",
+            "post_title": "Vulnerability ID: CVE-2024-48904\n\nDescription: An command injection vulnerability in Trend Micro Cloud Edge could allow a remote attacker to execute arbitrary code on affected appliances.\n\nPlease note: authentication is not required in order to exploit this vulnerability.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-48904\n\nDate of Publishing: 2024/10/27\n\nLink to Exploit: https://github.com/zetraxz/CVE-2024-48904\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48904",
+                "https://github.com/zetraxz/CVE-2024-48904"
+            ]
+        },
+        {
+            "Message ID": 90264,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10423\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10423\n\nDescription: A vulnerability, which was classified as critical, was found in Project Worlds Student Project Allocation System 1.0. Affected is an unknown function of the file /student/project_selection/project_selection.php of the component Project Selection Page. The manipulation of the argument project_id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Oct 27 22:05:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10423"
+            ]
+        },
+        {
+            "Message ID": 90263,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10424\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10424\n\nDescription: A vulnerability has been found in Project Worlds Student Project Allocation System 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /student/project_selection/remove_project.php of the component Project Selection Page. The manipulation of the argument no leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Oct 27 22:05:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10424"
             ]
         }
     ],
