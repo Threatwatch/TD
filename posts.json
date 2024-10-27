@@ -3566,6 +3566,18 @@
             "URLs": [
                 "s://darkwebinformer.com/mr-hamza-targeted-the-website-of-finma/"
             ]
+        },
+        {
+            "Message ID": 6005,
+            "discovered": "2024-10-27",
+            "post_title": "Status: ↕️\n\n🚨🇮🇱ANONYMOUS MUSLIMS Targeted the Website of AEROMAOZ Ltd\n\nhttps://darkwebinformer.com/anonymous-muslims-targeted-the-website-of-aeromaoz-ltd/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/anonymous-muslims-targeted-the-website-of-aeromaoz-ltd/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -24408,6 +24420,30 @@
             ],
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18227"
+            ]
+        },
+        {
+            "Message ID": 3922,
+            "discovered": "2024-10-27",
+            "post_title": "ID: 18230\n⚠ Sun, 27 Oct 2024 16:40:12 UTC\n🥷 medusa\n🎯 Island Coastal Services Ltd, Canada\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18230",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Canada"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18230"
+            ]
+        },
+        {
+            "Message ID": 3921,
+            "discovered": "2024-10-27",
+            "post_title": "ID: 18229\n⚠ Sun, 27 Oct 2024 16:41:14 UTC\n🥷 medusa\n🎯 Lakesight Technologies Information, Germany\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18229",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Germany"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18229"
             ]
         }
     ],
