@@ -3314,6 +3314,18 @@
             "URLs": [
                 "s://darkwebinformer.com/darkraas-is-allegedly-selling-vpn-access-to-an-unidentified-turkish-municipality/\n\nTh"
             ]
+        },
+        {
+            "Message ID": 5982,
+            "discovered": "2024-10-27",
+            "post_title": "🚨🇺🇸A Threat Actor Allegedly Leaked Bio-Rad Laboratories, Inc Database\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-bio-rad-laboratories-inc-database/\n\nThe threat actor claims to have leaked a database from Bio-Rad Laboratories, Inc., containing first and last names, phone numbers, email addresses, credit card types, credit card numbers, expiration dates, cardholder names, and both shipping and billing addresses.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Inc Database"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-bio-rad-laboratories-inc-database/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
