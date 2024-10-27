@@ -3338,6 +3338,30 @@
             "URLs": [
                 "s://darkwebinformer.com/darkraas-allegedly-is-selling-access-to-an-argentina-government-windows-server/\n\nA "
             ]
+        },
+        {
+            "Message ID": 5985,
+            "discovered": "2024-10-27",
+            "post_title": "💡TorCrawl: Crawl and Extract (Regular or Onion) Webpages Through TOR Network\n\nhttps://darkwebinformer.com/torcrawl-crawl-and-extract-regular-or-onion-webpages-through-tor-network/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/torcrawl-crawl-and-extract-regular-or-onion-webpages-through-tor-network/"
+            ]
+        },
+        {
+            "Message ID": 5984,
+            "discovered": "2024-10-27",
+            "post_title": "💡FREE POST\n\n🚨🇮🇶henrymans0n has Allegedly LEaked Data of NGO Department of Iraq\n\nhttps://darkwebinformer.com/henrymans0n-has-allegedly-leaked-data-of-ngo-department-of-iraq/\n\nThe threat actor claims to have leaked data from Iraq's Council of Ministers, containing over 7,000 records that include names, email addresses, phone numbers, physical addresses, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Iraq"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/henrymans0n-has-allegedly-leaked-data-of-ngo-department-of-iraq/\n\nTh"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -35817,6 +35841,64 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/fog-ransomware-targets-sonicwall-vpns-to-breach-corporate-networks/"
+            ]
+        },
+        {
+            "Message ID": 90250,
+            "discovered": "2024-10-27",
+            "post_title": "Title: Google Chrome(구글 크롬) 브라우저에서 토스트 팝업(toast popups)을 비활성화 방법\n\nDate: October 27, 2024\n\nSource: https://wezard4u.tistory.com/429311\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://wezard4u.tistory.com/429311"
+            ]
+        },
+        {
+            "Message ID": 90249,
+            "discovered": "2024-10-27",
+            "post_title": "Victim: BU****IT\n\nDetection Date: Sun Oct 27 18:11:40 2024\n\nThreat Actor: ra group\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 90248,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-27361\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-27361\n\nDescription: A vulnerability was discovered in Samsung Mobile Processor Exynos 980, Exynos 990, Exynos 1080, Exynos 2100, Exynos 2200, Exynos 1280, Exynos 1380, and Exynos 2400 that involves a time-of-check to time-of-use (TOCTOU) race condition, which can lead to a Denial of Service.\n\nPublication Date: Sun Oct 27 18:01:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27361"
+            ]
+        },
+        {
+            "Message ID": 90247,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10419\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10419\n\nDescription: A vulnerability was found in code-projects Blood Bank Management System 1.0. It has been rated as problematic. Affected by this issue is some unknown functionality of the file /bloodrequest.php. The manipulation of the argument msg leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Oct 27 18:00:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10419"
+            ]
+        },
+        {
+            "Message ID": 90246,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-27887\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-27887\n\nDescription: A path handling issue was addressed with improved validation. This issue is fixed in macOS Sonoma 14.4. An app may be able to access user-sensitive data.\n\nPublication Date: Sun Oct 27 18:00:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27887"
             ]
         }
     ],
