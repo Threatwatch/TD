@@ -3277,6 +3277,19 @@
             "URLs": [
                 "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-25th-2024/"
             ]
+        },
+        {
+            "Message ID": 5978,
+            "discovered": "2024-10-27",
+            "post_title": "🚨🇦🇪303 is Allegedly Selling Firewall Access to Emirates Group\n\nhttps://darkwebinformer.com/303-is-allegedly-selling-firewall-access-to-emirates-group/\n\nThe threat actor alleges they are selling unauthorized access to the firewall of Emirates Group, one of Dubai's largest corporations, with reported revenues of $37.4 billion. The access is said to involve a vulnerable endpoint on a Linux-based system",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Dubai",
+                "Linux"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/303-is-allegedly-selling-firewall-access-to-emirates-group/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -35169,6 +35182,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 90213,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-10407\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10407\n\nDescription: A vulnerability, which was classified as critical, was found in SourceCodester Petrol Pump Management Software 1.0. This affects an unknown part of the file /admin/edit_customer.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Oct 27 03:01:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10407"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
