@@ -3326,6 +3326,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-bio-rad-laboratories-inc-database/\n\nT"
             ]
+        },
+        {
+            "Message ID": 5983,
+            "discovered": "2024-10-27",
+            "post_title": "💡FREE POST\n\n🚨🇦🇷DarkRaaS Allegedly is Selling Access to an Argentina Government Windows Server\n\nhttps://darkwebinformer.com/darkraas-allegedly-is-selling-access-to-an-argentina-government-windows-server/\n\nA threat actor is offering to sell access to a Windows server belonging to the Argentine government, containing 8TB of sensitive data, including confidential documents, communications, and other critical information.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/darkraas-allegedly-is-selling-access-to-an-argentina-government-windows-server/\n\nA "
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -21585,6 +21597,16 @@
             "URLs": [
                 "https://t.co/oeUaUEeCby"
             ]
+        },
+        {
+            "Message ID": 3351,
+            "discovered": "2024-10-27",
+            "post_title": "Group: ragroup\nApprox. Time: 14:35 27/10/24\nTitle: BU****IT",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
