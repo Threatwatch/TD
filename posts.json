@@ -3532,6 +3532,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6002,
+            "discovered": "2024-10-27",
+            "post_title": "Nice job, Exploit! Banned message on the bottom.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
