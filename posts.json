@@ -36575,6 +36575,102 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-50611"
             ]
+        },
+        {
+            "Message ID": 90286,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-4576\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-4576\n\nDescription: The component listed above contains a vulnerability that allows an attacker to traverse directories and access sensitive files, leading to unauthorized disclosure of system configuration and potentially sensitive information.\n\nPublication Date: Mon Oct 28 02:10:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-4576"
+            ]
+        },
+        {
+            "Message ID": 90285,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-29152\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-29152\n\nDescription: An issue was discovered in Samsung Mobile Processor, Wearable Processor, and Modem Exynos 980, Exynos 990, Exynos 1080, Exynos 2100, Exynos 2200, Exynos 1280, Exynos 1380, Exynos 1330, Exynos 2400, Exynos Modem 5123, and Exynos Modem 5300. The baseband software does not properly check states specified by the RRC (Radio Resource Control) Reconfiguration message. This can lead to disclosure of sensitive information.\n\nPublication Date: Mon Oct 28 02:10:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-29152"
+            ]
+        },
+        {
+            "Message ID": 90284,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-50612\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50612\n\nDescription: libsndfile through 1.2.2 has an ogg_vorbis.c vorbis_analysis_wrote out-of-bounds read.\n\nPublication Date: Mon Oct 28 02:10:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50612"
+            ]
+        },
+        {
+            "Message ID": 90283,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-50613\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50613\n\nDescription: libsndfile through 1.2.2 has a reachable assertion, that may lead to application exit, in mpeg_l3_encode.c mpeg_l3_encoder_close.\n\nPublication Date: Mon Oct 28 02:10:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50613"
+            ]
+        },
+        {
+            "Message ID": 90282,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-50614\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50614\n\nDescription: TinyXML2 through 10.0.0 has a reachable assertion for UINT_MAX/16, that may lead to application exit, in tinyxml2.cpp XMLUtil::GetCharacterRef.\n\nPublication Date: Mon Oct 28 02:09:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50614"
+            ]
+        },
+        {
+            "Message ID": 90281,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-50615\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50615\n\nDescription: TinyXML2 through 10.0.0 has a reachable assertion for UINT_MAX/digit, that may lead to application exit, in tinyxml2.cpp XMLUtil::GetCharacterRef.\n\nPublication Date: Mon Oct 28 02:09:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50615"
+            ]
+        },
+        {
+            "Message ID": 90280,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-50616\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50616\n\nDescription: Ironman PowerShell Universal 5.x before 5.0.12 allows an authenticated attacker to elevate their privileges and view job information.\n\nPublication Date: Mon Oct 28 02:09:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50616"
+            ]
+        },
+        {
+            "Message ID": 90279,
+            "discovered": "2024-10-27",
+            "post_title": "CVE-ID: CVE-2024-1106\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-1106\n\nDescription: The Shariff Wrapper WordPress plugin before 4.6.10 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)\n\nPublication Date: Mon Oct 28 02:09:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-1106"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
