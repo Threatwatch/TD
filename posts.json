@@ -24034,6 +24034,19 @@
                 "langesystems.com, ",
                 "somfeed.it/index.php?page=post_details&id_post=18224"
             ]
+        },
+        {
+            "Message ID": 3917,
+            "discovered": "2024-10-27",
+            "post_title": "ID: 18225\n⚠ Sun, 27 Oct 2024 10:48:34 UTC\n🥷 ransomhub\n🎯 payxpress.co.il, Israel\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18225",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "yxpress.co.il, ",
+                "somfeed.it/index.php?page=post_details&id_post=18225"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -35653,6 +35666,16 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10415"
             ]
+        },
+        {
+            "Message ID": 90239,
+            "discovered": "2024-10-27",
+            "post_title": "Victim: Texas Tech University Health Sciences Center\n\nDetection Date: Sun Oct 27 16:18:56 2024\n\nThreat Actor: interlock\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": []
