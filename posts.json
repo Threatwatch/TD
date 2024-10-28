@@ -37459,6 +37459,177 @@
             "URLs": [
                 "https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats_28.html"
             ]
+        },
+        {
+            "Message ID": 90354,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: Evergreen SD50 (evergreensd50.com)\n\nDetection Date: Mon Oct 28 15:42:41 2024\n\nThreat Actor: fog\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "evergreensd50.com"
+            ]
+        },
+        {
+            "Message ID": 90353,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50442\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50442\n\nDescription: Improper Restriction of XML External Entity Reference vulnerability in WP Royal Royal Elementor Addons allows XML Injection.This issue affects Royal Elementor Addons: from n/a through 1.3.980.\n\nPublication Date: Mon Oct 28 15:10:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "WP"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50442"
+            ]
+        },
+        {
+            "Message ID": 90352,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50489\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50489\n\nDescription: Authentication Bypass Using an Alternate Path or Channel vulnerability in Realty Workstation allows Authentication Bypass.This issue affects Realty Workstation: from n/a through 1.0.45.\n\nPublication Date: Mon Oct 28 15:09:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50489"
+            ]
+        },
+        {
+            "Message ID": 90351,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50487\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50487\n\nDescription: Authentication Bypass Using an Alternate Path or Channel vulnerability in MaanTheme MaanStore API allows Authentication Bypass.This issue affects MaanStore API: from n/a through 1.0.1.\n\nPublication Date: Mon Oct 28 15:09:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50487"
+            ]
+        },
+        {
+            "Message ID": 90350,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50486\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50486\n\nDescription: Authentication Bypass Using an Alternate Path or Channel vulnerability in Acnoo Acnoo Flutter API allows Authentication Bypass.This issue affects Acnoo Flutter API: from n/a through 1.0.5.\n\nPublication Date: Mon Oct 28 15:09:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50486"
+            ]
+        },
+        {
+            "Message ID": 90349,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50477\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50477\n\nDescription: Authentication Bypass Using an Alternate Path or Channel vulnerability in Stacks Stacks Mobile App Builder stacks-mobile-app-builder allows Authentication Bypass.This issue affects Stacks Mobile App Builder: from n/a through 5.2.3.\n\nPublication Date: Mon Oct 28 15:09:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50477"
+            ]
+        },
+        {
+            "Message ID": 90348,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50498\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50498\n\nDescription: Improper Control of Generation of Code ('Code Injection') vulnerability in LUBUS WP Query Console allows Code Injection.This issue affects WP Query Console: from n/a through 1.0.\n\nPublication Date: Mon Oct 28 15:09:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50498"
+            ]
+        },
+        {
+            "Message ID": 90347,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50492\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50492\n\nDescription: Improper Control of Generation of Code ('Code Injection') vulnerability in Scott Paterson ScottCart allows Code Injection.This issue affects ScottCart: from n/a through 1.1.\n\nPublication Date: Mon Oct 28 15:09:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50492"
+            ]
+        },
+        {
+            "Message ID": 90346,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50450\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50450\n\nDescription: Improper Control of Generation of Code ('Code Injection') vulnerability in realmag777 WordPress Meta Data and Taxonomies Filter (MDTF) allows Code Injection.This issue affects WordPress Meta Data and Taxonomies Filter (MDTF): from n/a through 1.3.3.4.\n\nPublication Date: Mon Oct 28 15:08:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50450",
+                "1.3.3.4"
+            ]
+        },
+        {
+            "Message ID": 90345,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50416\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50416\n\nDescription: Deserialization of Untrusted Data vulnerability in WPClever WPC Shop as a Customer for WooCommerce allows Object Injection.This issue affects WPC Shop as a Customer for WooCommerce: from n/a through 1.2.6.\n\nPublication Date: Mon Oct 28 15:08:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50416"
+            ]
+        },
+        {
+            "Message ID": 90344,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-10446\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10446\n\nDescription: A vulnerability classified as critical has been found in Project Worlds Online Time Table Generator 1.0. Affected is an unknown function of the file /timetable/admin/admindashboard.php?info=add_course. The manipulation of the argument c leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Oct 28 15:08:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10446"
+            ]
+        },
+        {
+            "Message ID": 90343,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50408\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50408\n\nDescription: Deserialization of Untrusted Data vulnerability in Kiboko Labs Namaste! LMS allows Object Injection.This issue affects Namaste! LMS: from n/a through 2.6.3.\n\nPublication Date: Mon Oct 28 15:08:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Namaste"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50408"
+            ]
+        },
+        {
+            "Message ID": 90342,
+            "discovered": "2024-10-28",
+            "post_title": "Target: https://sistemas.senda.gob.cl/0x.txt\n\nNotified: chinafans\n\nDate: Fri, 25 Oct 2024 14:23:54 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41292917\n\n#Defacements #Chile",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sistemas.senda.gob.cl/0x.txt",
+                "http://www.zone-h.org/mirror/id/41292917"
+            ]
+        },
+        {
+            "Message ID": 90341,
+            "discovered": "2024-10-28",
+            "post_title": "Target: https://encuestas.senda.gob.cl/0x.txt\n\nNotified: chinafans\n\nDate: Fri, 25 Oct 2024 14:24:00 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41292918\n\n#Defacements #Chile",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://encuestas.senda.gob.cl/0x.txt",
+                "http://www.zone-h.org/mirror/id/41292918"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
