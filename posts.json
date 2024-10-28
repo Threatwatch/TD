@@ -36978,6 +36978,31 @@
                 "XUPGRADER.COM",
                 "https://sinister.ly/Thread-XUPGRADER-COM-BECOME-A-YOUTUBE-RESELLER-STARTING-AT-3-5-ONE-RESELLER-API-PANEL"
             ]
+        },
+        {
+            "Message ID": 90309,
+            "discovered": "2024-10-28",
+            "post_title": "Title: ISC Stormcast For Monday, October 28th, 2024 https://isc.sans.edu/podcastdetail/9198, (Mon, Oct 28th)\n\nDate: October 28, 2024\n\nSource: https://isc.sans.edu/diary/rss/31386\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/podcastdetail/9198",
+                "https://isc.sans.edu/diary/rss/31386"
+            ]
+        },
+        {
+            "Message ID": 90308,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-23843\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-23843\n\nDescription: Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Genians Genian NAC V5.0, Genians Genian NAC LTS V5.0.This issue affects Genian NAC V5.0: from V5.0.0 through V5.0.60; Genian NAC LTS V5.0: from 5.0.0 LTS through 5.0.55 LTS(Revision 125558), from 5.0.0 LTS through 5.0.56 LTS(Revision 125560).\n\nPublication Date: Mon Oct 28 06:04:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-23843"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
