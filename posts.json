@@ -22016,6 +22016,42 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3356,
+            "discovered": "2024-10-28",
+            "post_title": "Group: ransomhub\nApprox. Time: 10:34 28/10/24\nTitle: https://t.co/nuS7kqekHM",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/nuS7kqekHM"
+            ]
+        },
+        {
+            "Message ID": 3355,
+            "discovered": "2024-10-28",
+            "post_title": "Group: ransomhub\nApprox. Time: 10:34 28/10/24\nTitle: https://t.co/GNIAXJvBnC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/GNIAXJvBnC"
+            ]
+        },
+        {
+            "Message ID": 3354,
+            "discovered": "2024-10-28",
+            "post_title": "Group: ransomhub\nApprox. Time: 10:34 28/10/24\nTitle: https://t.co/llSlGChbbu",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/llSlGChbbu"
+            ]
         }
     ],
     "RansomfeedNews": [
