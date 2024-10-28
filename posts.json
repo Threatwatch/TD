@@ -3958,6 +3958,30 @@
             "URLs": [
                 "s://darkwebinformer.com/888-is-allegedly-selling-data-of-systech-solutions"
             ]
+        },
+        {
+            "Message ID": 6040,
+            "discovered": "2024-10-28",
+            "post_title": "🚨🇮🇳dbsector is Allegedly Selling Admin Access of Adore Infotech\n\nThe threat actor is offering admin access for sales to Adore Infotech.\n\nhttps://darkwebinformer.com/dbsector-is-allegedly-selling-admin-access-of-adore-infotech",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/dbsector-is-allegedly-selling-admin-access-of-adore-infotech"
+            ]
+        },
+        {
+            "Message ID": 6039,
+            "discovered": "2024-10-28",
+            "post_title": "🚨🇵🇭dbsector is Allegedly Selling Access of SB Finance\n\nhttps://darkwebinformer.com/dbsector-is-allegedly-selling-access-of-sb-finance/\n\nThe threat actor is offering admin access to SB Finance.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/dbsector-is-allegedly-selling-access-of-sb-finance/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -9250,6 +9274,46 @@
             "Attack Type": "Unknown",
             "Location": [
                 "New Achievement"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5280,
+            "discovered": "2024-10-28",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5279,
+            "discovered": "2024-10-28",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5278,
+            "discovered": "2024-10-28",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5277,
+            "discovered": "2024-10-28",
+            "post_title": "Dhaka University \n\nUniversity of Chads ☠",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
@@ -39033,6 +39097,396 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-20156"
+            ]
+        },
+        {
+            "Message ID": 90459,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-37758\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37758\n\nDescription: D-LINK DIR-815 v1.01 was discovered to contain a buffer overflow via the component /web/captcha.cgi.\n\nPublication Date: Mon Oct 28 20:17:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37758"
+            ]
+        },
+        {
+            "Message ID": 90458,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20055\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20055\n\nDescription: A vulnerability in the management API of Cisco DNA Center could allow an authenticated, remote attacker to elevate privileges in the context of the web-based management interface on an affected device. This vulnerability is due to the unintended exposure of sensitive information. An attacker could exploit this vulnerability by inspecting the responses from the API. Under certain circumstances, a successful exploit could allow the attacker to access the API with the privileges of a higher-level user account. To successfully exploit this vulnerability, the attacker would need at least valid Observer credentials.\n\nPublication Date: Mon Oct 28 20:17:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20055"
+            ]
+        },
+        {
+            "Message ID": 90457,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20035\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20035\n\nDescription: A vulnerability in the CLI of Cisco IOS XE SD-WAN Software could allow an authenticated, local attacker to execute arbitrary commands with elevated privileges. This vulnerability is due to insufficient input validation by the system CLI. An attacker with privileges to run commands could exploit this vulnerability by first authenticating to an affected device using either local terminal access or a management shell interface and then submitting crafted input to the system CLI. A successful exploit could allow the attacker to execute commands on the underlying operating system with root-level privileges. An attacker with limited user privileges could use this vulnerability to gain complete control over the system. Note: For additional information about specific impacts, see the Details section of this advisory.\n\nPublication Date: Mon Oct 28 20:17:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Cisco"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20035"
+            ]
+        },
+        {
+            "Message ID": 90456,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20027\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20027\n\nDescription: A vulnerability in the implementation of the IPv4 Virtual Fragmentation Reassembly (VFR) feature of Cisco IOS XE Software could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. This vulnerability is due to improper reassembly of large packets that occurs when VFR is enabled on either a tunnel interface or on a physical interface that is configured with a maximum transmission unit (MTU) greater than 4,615 bytes. An attacker could exploit this vulnerability by sending fragmented packets through a VFR-enabled interface on an affected device. A successful exploit could allow the attacker to cause the device to reload, resulting in a DoS condition.\n\nPublication Date: Mon Oct 28 20:16:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20027"
+            ]
+        },
+        {
+            "Message ID": 90455,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20049\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20049\n\nDescription: A vulnerability in the bidirectional forwarding detection (BFD) hardware offload feature of Cisco IOS XR Software for Cisco ASR 9000 Series Aggregation Services Routers, ASR 9902 Compact High-Performance Routers, and ASR 9903 Compact High-Performance Routers could allow an unauthenticated, remote attacker to cause a line card to reset, resulting in a denial of service (DoS) condition. This vulnerability is due to the incorrect handling of malformed BFD packets that are received on line cards where the BFD hardware offload feature is enabled. An attacker could exploit this vulnerability by sending a crafted IPv4 BFD packet to an affected device. A successful exploit could allow the attacker to cause line card exceptions or a hard reset, resulting in loss of traffic over that line card while the line card reloads.\n\nPublication Date: Mon Oct 28 20:16:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20049"
+            ]
+        },
+        {
+            "Message ID": 90454,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20088\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20088\n\nDescription: A vulnerability in the nginx configurations that are provided as part of the VPN-less reverse proxy for Cisco Finesse could allow an unauthenticated, remote attacker to create a denial of service (DoS) condition for new and existing users who are connected through a load balancer. This vulnerability is due to improper IP address filtering by the reverse proxy. An attacker could exploit this vulnerability by sending a series of unauthenticated requests to the reverse proxy. A successful exploit could allow the attacker to cause all current traffic and subsequent requests to the reverse proxy through a load balancer to be dropped, resulting in a DoS condition.\n\nPublication Date: Mon Oct 28 20:16:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20088"
+            ]
+        },
+        {
+            "Message ID": 90453,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20079\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20079\n\nDescription: Multiple vulnerabilities in the web-based management interface of certain Cisco IP Phones could allow an unauthenticated, remote attacker to execute arbitrary code or cause a denial of service (DoS) condition. For more information about these vulnerabilities, see the Details section of this advisory.\n\nPublication Date: Mon Oct 28 20:16:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20079"
+            ]
+        },
+        {
+            "Message ID": 90452,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20078\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20078\n\nDescription: Multiple vulnerabilities in the web-based management interface of certain Cisco IP Phones could allow an unauthenticated, remote attacker to execute arbitrary code or cause a denial of service (DoS) condition. For more information about these vulnerabilities, see the Details section of this advisory.\n\nPublication Date: Mon Oct 28 20:16:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20078"
+            ]
+        },
+        {
+            "Message ID": 90451,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20015\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20015\n\nDescription: A vulnerability in the CLI of Cisco Firepower 4100 Series, Cisco Firepower 9300 Security Appliances, and Cisco UCS 6200, 6300, 6400, and 6500 Series Fabric Interconnects could allow an authenticated, local attacker to inject unauthorized commands. This vulnerability is due to insufficient input validation of commands supplied by the user. An attacker could exploit this vulnerability by authenticating to a device and submitting crafted input to the affected command. A successful exploit could allow the attacker to execute unauthorized commands within the CLI. An attacker with Administrator privileges could also execute arbitrary commands on the underlying operating system of Cisco UCS 6400 and 6500 Series Fabric Interconnects with root-level privileges.\n\nPublication Date: Mon Oct 28 20:16:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Cisco",
+                "Cisco"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20015"
+            ]
+        },
+        {
+            "Message ID": 90450,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20011\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20011\n\nDescription: A vulnerability in the web-based management interface of Cisco Application Policy Infrastructure Controller (APIC) and Cisco Cloud Network Controller, formerly Cisco Cloud APIC, could allow an unauthenticated, remote attacker to conduct a cross-site request forgery (CSRF) attack on an affected system. This vulnerability is due to insufficient CSRF protections for the web-based management interface on an affected system. An attacker could exploit this vulnerability by persuading a user of the interface to click a malicious link. A successful exploit could allow the attacker to perform arbitrary actions with the privilege level of the affected user. If the affected user has administrative privileges, these actions could include modifying the system configuration and creating new privileged accounts.\n\nPublication Date: Mon Oct 28 20:15:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20011"
+            ]
+        },
+        {
+            "Message ID": 90449,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2022-20803\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-20803\n\nDescription: A vulnerability in the OLE2 file parser of Clam AntiVirus (ClamAV) versions 0.104.0 through 0.104.2 could allow an unauthenticated, remote attacker to cause a denial of service condition on an affected device.The vulnerability is due to incorrect use of the realloc function that may result in a double-free. An attacker could exploit this vulnerability by submitting a crafted OLE2 file to be scanned by ClamAV on the affected device. An exploit could allow the attacker to cause the ClamAV scanning process to crash, resulting in a denial of service condition.\n\nPublication Date: Mon Oct 28 20:15:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-20803"
+            ]
+        },
+        {
+            "Message ID": 90448,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20076\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20076\n\nDescription: A vulnerability in the Cisco IOx application hosting environment could allow an authenticated, remote attacker to execute arbitrary commands as root on the underlying host operating system. This vulnerability is due to incomplete sanitization of parameters that are passed in for activation of an application. An attacker could exploit this vulnerability by deploying and activating an application in the Cisco IOx application hosting environment with a crafted activation payload file. A successful exploit could allow the attacker to execute arbitrary commands as root on the underlying host operating system.\n\nPublication Date: Mon Oct 28 20:15:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Cisco",
+                "Cisco"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20076"
+            ]
+        },
+        {
+            "Message ID": 90447,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20038\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20038\n\nDescription: A vulnerability in the monitoring application of Cisco Industrial Network Director could allow an authenticated, local attacker to access a static secret key used to store both local data and credentials for accessing remote systems.\n This vulnerability is due to a static key value stored in the application used to encrypt application data and remote credentials. An attacker could exploit this vulnerability by gaining local access to the server Cisco Industrial Network Director is installed on. A successful exploit could allow the attacker to decrypt data allowing the attacker to access remote systems monitored by Cisco Industrial Network Director.\n\nPublication Date: Mon Oct 28 20:15:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20038"
+            ]
+        },
+        {
+            "Message ID": 90446,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-37143\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37143\n\nDescription: ChakraCore branch master cbb9b was discovered to contain a segmentation violation via the function BackwardPass::IsEmptyLoopAfterMemOp().\n\nPublication Date: Mon Oct 28 20:15:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37143"
+            ]
+        },
+        {
+            "Message ID": 90445,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-37142\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37142\n\nDescription: ChakraCore branch master cbb9b was discovered to contain a segmentation violation via the function Js::EntryPointInfo::HasInlinees().\n\nPublication Date: Mon Oct 28 20:14:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37142"
+            ]
+        },
+        {
+            "Message ID": 90444,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20025\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20025\n\nDescription: A vulnerability in the web-based management interface of Cisco Small Business RV042 Series Routers could allow an unauthenticated, remote attacker to bypass authentication on the affected device.\n This vulnerability is due to incorrect user input validation of incoming HTTP packets. An attacker could exploit this vulnerability by sending crafted requests to the web-based management interface. A successful exploit could allow the attacker to gain root privileges on the affected device.\n\nPublication Date: Mon Oct 28 20:14:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20025"
+            ]
+        },
+        {
+            "Message ID": 90443,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-37141\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37141\n\nDescription: ChakraCore branch master cbb9b was discovered to contain a segmentation violation via the function Js::ProfilingHelpers::ProfiledNewScArray().\n\nPublication Date: Mon Oct 28 20:14:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37141"
+            ]
+        },
+        {
+            "Message ID": 90442,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-6245\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-6245\n\nDescription: Use of Default Credentials vulnerability in Maruti Suzuki SmartPlay on Linux (Infotainment Hub modules) allows attacker to try common or default usernames and passwords.The issue was detected on a 2022 Maruti Suzuki Brezza in India Market.\n\nThis issue affects SmartPlay: 66T0.05.50.\n\nPublication Date: Mon Oct 28 20:14:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-6245"
+            ]
+        },
+        {
+            "Message ID": 90441,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-37140\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37140\n\nDescription: ChakraCore branch master cbb9b was discovered to contain a segmentation violation via the function Js::DiagScopeVariablesWalker::GetChildrenCount().\n\nPublication Date: Mon Oct 28 20:14:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37140"
+            ]
+        },
+        {
+            "Message ID": 90440,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-37139\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37139\n\nDescription: ChakraCore branch master cbb9b was discovered to contain a stack overflow vulnerability via the function Js::ScopeSlots::IsDebuggerScopeSlotArray().\n\nPublication Date: Mon Oct 28 20:13:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37139"
+            ]
+        },
+        {
+            "Message ID": 90439,
+            "discovered": "2024-10-28",
+            "post_title": "Vulnerability ID: CVE-2024-47881\n\nDescription: OpenRefine is a free, open source tool for working with messy data. Starting in version 3.4-beta and prior to version 3.8.3, in the `database` extension, the \"enable_load_extension\" property can be set for the SQLite integration, enabling an attacker to load (local or remote) extension DLLs and so run arbitrary code on the server. The attacker needs to have network access to the OpenRefine instance. Version 3.8.3 fixes this issue.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-47881\n\nDate of Publishing: 2024/10/28\n\nLink to Exploit: https://github.com/OpenRefine/OpenRefine/security/advisories/GHSA-87cf-j763-vvh8\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47881",
+                "https://github.com/OpenRefine/OpenRefine/security/advisories/GHSA-87cf-j763-vvh8"
+            ]
+        },
+        {
+            "Message ID": 90438,
+            "discovered": "2024-10-28",
+            "post_title": "Vulnerability ID: CVE-2024-47882\n\nDescription: OpenRefine is a free, open source tool for working with messy data. Prior to version 3.8.3, the built-in \"Something went wrong!\" error page includes the exception message and exception traceback without escaping HTML tags, enabling injection into the page if an attacker can reliably produce an error with an attacker-influenced message. It appears that the only way to reach this code in OpenRefine itself is for an attacker to somehow convince a victim to import a malicious file, which may be difficult.  However, out-of-tree extensions may add their own calls to `respondWithErrorPage`. Version 3.8.3 has a fix for this issue.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-47882\n\nDate of Publishing: 2024/10/28\n\nLink to Exploit: https://github.com/OpenRefine/OpenRefine/security/advisories/GHSA-j8hp-f2mj-586g\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47882",
+                "https://github.com/OpenRefine/OpenRefine/security/advisories/GHSA-j8hp-f2mj-586g"
+            ]
+        },
+        {
+            "Message ID": 90437,
+            "discovered": "2024-10-28",
+            "post_title": "Vulnerability ID: CVE-2024-10335\n\nDescription: A vulnerability was found in SourceCodester Garbage Collection Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file login.php. The manipulation of the argument username/password leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory only mentions the parameter \"username\" to be affected. But it must be assumed that the parameter \"password\" is affected as well.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10335\n\nDate of Publishing: 2024/10/28\n\nLink to Exploit: https://github.com/tang-0717/VUL/blob/main/Garbage-Collection-Management-System-01.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10335",
+                "https://github.com/tang-0717/VUL/blob/main/Garbage-Collection-Management-System-01.md"
+            ]
+        },
+        {
+            "Message ID": 90436,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-46996\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-46996\n\nDescription: baserCMS is a website development framework. Versions prior to 5.1.2 have a cross-site scripting vulnerability in the Blog posts feature. Version 5.1.2 fixes this issue.\n\nPublication Date: Mon Oct 28 20:02:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-46996"
+            ]
+        },
+        {
+            "Message ID": 90435,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-46998\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-46998\n\nDescription: baserCMS is a website development framework. Versions prior to 5.1.2 have a cross-site scripting vulnerability in the Edit Email Form Settings Feature. Version 5.1.2 fixes the issue.\n\nPublication Date: Mon Oct 28 20:02:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-46998"
+            ]
+        },
+        {
+            "Message ID": 90434,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2021-33798\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-33798\n\nDescription: A null pointer dereference was found in libpano13, version libpano13-2.9.20. The flow allows attackers to cause a denial of service and potential code execute via a crafted file.\n\nPublication Date: Mon Oct 28 20:01:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "libpano13",
+                "libpano13"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-33798"
+            ]
+        },
+        {
+            "Message ID": 90433,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-42028\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42028\n\nDescription: A Local privilege escalation vulnerability found in a Self-Hosted UniFi Network Server with UniFi Network Application (Version 8.4.62 and earlier) allows a malicious actor with a local operational system user to execute high privilege actions on UniFi Network Server.\n\nPublication Date: Mon Oct 28 20:01:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42028"
+            ]
+        },
+        {
+            "Message ID": 90432,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20189\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20189\n\nDescription: Multiple vulnerabilities in the web-based user interface of certain Cisco Small Business Series Switches could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition or execute arbitrary code with root privileges on an affected device. These vulnerabilities are due to improper validation of requests that are sent to the web interface. For more information about these vulnerabilities, see the Details section of this advisory.\n\nPublication Date: Mon Oct 28 20:01:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20189"
+            ]
+        },
+        {
+            "Message ID": 90431,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20162\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20162\n\nDescription: Multiple vulnerabilities in the web-based user interface of certain Cisco Small Business Series Switches could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition or execute arbitrary code with root privileges on an affected device. These vulnerabilities are due to improper validation of requests that are sent to the web interface. For more information about these vulnerabilities, see the Details section of this advisory.\n\nPublication Date: Mon Oct 28 20:01:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20162"
+            ]
+        },
+        {
+            "Message ID": 90430,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20161\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20161\n\nDescription: Multiple vulnerabilities in the web-based user interface of certain Cisco Small Business Series Switches could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition or execute arbitrary code with root privileges on an affected device. These vulnerabilities are due to improper validation of requests that are sent to the web interface. For more information about these vulnerabilities, see the Details section of this advisory.\n\nPublication Date: Mon Oct 28 20:01:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20161"
+            ]
+        },
+        {
+            "Message ID": 90429,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20160\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20160\n\nDescription: Multiple vulnerabilities in the web-based user interface of certain Cisco Small Business Series Switches could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition or execute arbitrary code with root privileges on an affected device. These vulnerabilities are due to improper validation of requests that are sent to the web interface. For more information about these vulnerabilities, see the Details section of this advisory.\n\nPublication Date: Mon Oct 28 20:00:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20160"
+            ]
+        },
+        {
+            "Message ID": 90428,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20159\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20159\n\nDescription: Multiple vulnerabilities in the web-based user interface of certain Cisco Small Business Series Switches could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition or execute arbitrary code with root privileges on an affected device. These vulnerabilities are due to improper validation of requests that are sent to the web interface. For more information about these vulnerabilities, see the Details section of this advisory.\n\nPublication Date: Mon Oct 28 20:00:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20159"
             ]
         }
     ],
