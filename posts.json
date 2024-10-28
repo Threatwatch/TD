@@ -7083,6 +7083,16 @@
                 "Birth, City, Address"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2459,
+            "discovered": "2024-10-28",
+            "post_title": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
