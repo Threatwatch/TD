@@ -40630,6 +40630,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-3681"
             ]
+        },
+        {
+            "Message ID": 90520,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Apple security advisory (AV24-620)\n\nDate: October 28, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-620\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-620"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
