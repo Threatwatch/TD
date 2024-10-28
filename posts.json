@@ -3646,6 +3646,79 @@
             "URLs": [
                 "s://darkwebinformer.com/unicornlover67-allegedly-leaked-data-of-reliance-health/"
             ]
+        },
+        {
+            "Message ID": 6017,
+            "discovered": "2024-10-28",
+            "post_title": "🚨🇦🇺RipperSec Targeted the Website of SEEK\n\nhttps://darkwebinformer.com/rippersec-targeted-the-website-of-seek/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rippersec-targeted-the-website-of-seek/"
+            ]
+        },
+        {
+            "Message ID": 6016,
+            "discovered": "2024-10-28",
+            "post_title": "🚨🇺🇸Russian Cyber Army Team Targeted the Dixie County Sheriff's Office Website\n\nhttps://darkwebinformer.com/russian-cyber-army-team-targeted-the-dixie-county-sheriffs-office-website/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/russian-cyber-army-team-targeted-the-dixie-county-sheriffs-office-website/"
+            ]
+        },
+        {
+            "Message ID": 6015,
+            "discovered": "2024-10-28",
+            "post_title": "🚨🇨🇳A Threat Actor Allegedly Has Leaked Data of Chinese Radio and Telecom Providers\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-data-of-chinese-radio-and-telecom-providers/\n\nA threat actor claims to have leaked data from radio and telecommunications providers in China. The exposed data reportedly includes sensitive information, such as company names, addresses, phone numbers, and licensing details of various radio and telecom equipment suppliers.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-data-of-chinese-radio-and-telecom-providers/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6014,
+            "discovered": "2024-10-28",
+            "post_title": "🚨🇮🇱RipperSec Targeted the Website of Tazpit Press Service\n\nhttps://darkwebinformer.com/rippersec-targeted-the-website-of-tazpit-press-service/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rippersec-targeted-the-website-of-tazpit-press-service/"
+            ]
+        },
+        {
+            "Message ID": 6013,
+            "discovered": "2024-10-28",
+            "post_title": "💡FREE POST\n\n🚨🇺🇸almighty4444 Allegedly Has Leaked Data of Flagship Credit Acceptance\n\nhttps://darkwebinformer.com/almighty4444-allegedly-has-leaked-data-of-flagship-credit-acceptance/\n\nA threat actor alleges they've leaked data from Flagship Credit Acceptance, a financial services firm located in Pennsylvania, USA. The exposed information reportedly includes names, addresses, phone numbers, email addresses, VIN numbers, and additional sensitive details.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Pennsylvania",
+                "USA"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/almighty4444-allegedly-has-leaked-data-of-flagship-credit-acceptance/\n\nA "
+            ]
+        },
+        {
+            "Message ID": 6012,
+            "discovered": "2024-10-28",
+            "post_title": "🚨🇸🇦Ddarknotevil Has Allegedly Leaked  Data of Princess Nourah Bint Abdul Rahman University\n\nhttps://darkwebinformer.com/ddarknotevil-has-allegedly-leaked-data-of-princess-nourah-bint-abdul-rahman-university/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/ddarknotevil-has-allegedly-leaked-data-of-princess-nourah-bint-abdul-rahman-university/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -38110,6 +38183,20 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-50573"
+            ]
+        },
+        {
+            "Message ID": 90384,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Russian Espionage Group Targets Ukrainian Military with Malware via Telegram\n\nDate: Oct 28, 2024\n\nSource: https://thehackernews.com/2024/10/russian-espionage-group-targets.html\n\n#News #Russia #Ukraine",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Malware",
+                "Russia",
+                "Ukraine"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/russian-espionage-group-targets.html"
             ]
         }
     ],
