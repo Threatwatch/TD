@@ -3719,6 +3719,50 @@
             "URLs": [
                 "ps://darkwebinformer.com/ddarknotevil-has-allegedly-leaked-data-of-princess-nourah-bint-abdul-rahman-university/"
             ]
+        },
+        {
+            "Message ID": 6021,
+            "discovered": "2024-10-28",
+            "post_title": ".",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6020,
+            "discovered": "2024-10-28",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6019,
+            "discovered": "2024-10-28",
+            "post_title": "💡On October 28, 2024, the Dutch National Police, in collaboration with the FBI and international partners from the law enforcement task force Operation Magnus, successfully disrupted the operations of the Redline and Meta infostealers. Affected parties will be notified, and legal actions are currently in progress.\n\nURL: https://www.operation-magnus[.]com",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.operation-magnus["
+            ]
+        },
+        {
+            "Message ID": 6018,
+            "discovered": "2024-10-28",
+            "post_title": "🚨🇨🇳Z-BL4CX-H4T Defaced the Website of Wudaoky\n\nhttps://darkwebinformer.com/z-bl4cx-h4t-defaced-the-website-of-wudaoky/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/z-bl4cx-h4t-defaced-the-website-of-wudaoky/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -38198,6 +38242,39 @@
             "URLs": [
                 "https://thehackernews.com/2024/10/russian-espionage-group-targets.html"
             ]
+        },
+        {
+            "Message ID": 90387,
+            "discovered": "2024-10-28",
+            "post_title": "Title: DHS cyber review board to investigate Chinese hack of US telecom as victim net widens\n\nDate: October 28, 2024\n\nSource: https://www.nextgov.com/cybersecurity/2024/10/dhs-cyber-review-board-investigate-chinese-hack-us-telecom-victim-net-widens/400597/\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US",
+                "China"
+            ],
+            "URLs": [
+                "https://www.nextgov.com/cybersecurity/2024/10/dhs-cyber-review-board-investigate-chinese-hack-us-telecom-victim-net-widens/400597/"
+            ]
+        },
+        {
+            "Message ID": 90386,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: German Chamber of Commerce\n\nDetection Date: Mon Oct 28 17:38:18 2024\n\nThreat Actor: playboy\n\n#Ransomware #Germany",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Germany"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 90385,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: Official Release\n\nDetection Date: Mon Oct 28 17:38:05 2024\n\nThreat Actor: playboy\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": []
