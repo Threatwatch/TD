@@ -37075,6 +37075,18 @@
             "URLs": [
                 "https://thehackernews.com/2024/10/researchers-uncover-os-downgrade.html"
             ]
+        },
+        {
+            "Message ID": 90316,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-9162\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9162\n\nDescription: The All-in-One WP Migration and Backup plugin for WordPress is vulnerable to arbitrary PHP Code Injection due to missing file type validation during the export in all versions up to, and including, 7.86. This makes it possible for authenticated attackers, with Administrator-level access and above, to create an export file with the .php extension on the affected site's server, adding an arbitrary PHP code to it, which may make remote code execution possible.\n\nPublication Date: Mon Oct 28 09:00:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9162"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
