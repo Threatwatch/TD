@@ -25614,6 +25614,31 @@
                 "rrispersonalinjury.com, ",
                 "somfeed.it/index.php?page=post_details&id_post=18233"
             ]
+        },
+        {
+            "Message ID": 3929,
+            "discovered": "2024-10-28",
+            "post_title": "ID: 18240\n⚠ Mon, 28 Oct 2024 14:49:53 UTC\n🥷 playboy\n🎯 German Chamber of Commerce, Germany\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18240",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Germany"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18240"
+            ]
+        },
+        {
+            "Message ID": 3928,
+            "discovered": "2024-10-28",
+            "post_title": "ID: 18239\n⚠ Mon, 28 Oct 2024 13:17:17 UTC\n🥷 fog\n🎯 Evergreen SD50 (evergreensd50.com), USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18239",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "ergreensd50.com),",
+                "somfeed.it/index.php?page=post_details&id_post=18239"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -40641,6 +40666,18 @@
             ],
             "URLs": [
                 "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av24-620"
+            ]
+        },
+        {
+            "Message ID": 90521,
+            "discovered": "2024-10-28",
+            "post_title": "Title: HPE security advisory (AV24-621)\n\nDate: October 28, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-621\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-621"
             ]
         }
     ],
