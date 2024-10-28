@@ -40292,6 +40292,18 @@
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10130",
                 "https://github.com/JohenanLi/router_vuls/blob/main/ac8v4/FUN_004a8838.md"
             ]
+        },
+        {
+            "Message ID": 90497,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Red Hat security advisory (AV24-618)\n\nDate: October 28, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-618\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-618"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
