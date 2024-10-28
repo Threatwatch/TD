@@ -40304,6 +40304,18 @@
             "URLs": [
                 "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-618"
             ]
+        },
+        {
+            "Message ID": 90498,
+            "discovered": "2024-10-28",
+            "post_title": "Title: [Control systems] CISA ICS security advisories (AV24–619)\n\nDate: October 28, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-619\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-619"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
