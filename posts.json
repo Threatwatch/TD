@@ -37398,6 +37398,43 @@
             "URLs": [
                 "flueid.com"
             ]
+        },
+        {
+            "Message ID": 90338,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Sailing the Seven Seas Securely from Port to Port – OT Access Security for Ships and Cranes\n\nDate: Oct 28, 2024\n\nSource: https://thehackernews.com/2024/10/sailing-seven-seas-securely-from-port.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Port"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/sailing-seven-seas-securely-from-port.html"
+            ]
+        },
+        {
+            "Message ID": 90337,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Recent Cyber Attacks Discovered by ANY.RUN: October 2024\n\nDate: October 28, 2024\n\nSource: https://any.run/cybersecurity-blog/cyber-attacks-october-2024/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ANY.RUN",
+                "https://any.run/cybersecurity-blog/cyber-attacks-october-2024/"
+            ]
+        },
+        {
+            "Message ID": 90336,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Over EUR 14 million in counterfeit currency seized in operation targeting postal shipments\n\nDate: October 28, 2024\n\nSource: https://www.europol.europa.eu/media-press/newsroom/news/over-eur-14-million-in-counterfeit-currency-seized-in-operation-targeting-postal-shipments\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.europol.europa.eu/media-press/newsroom/news/over-eur-14-million-in-counterfeit-currency-seized-in-operation-targeting-postal-shipments"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
