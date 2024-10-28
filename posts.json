@@ -39668,6 +39668,91 @@
             "URLs": [
                 "delcaper.com"
             ]
+        },
+        {
+            "Message ID": 90481,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-49771\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49771\n\nDescription: MPXJ is an open source library to read and write project plans from a variety of file formats and databases. The patch for the historical vulnerability CVE-2020-35460 in MPXJ is incomplete as there is still a possibility that a malicious path could be constructed which would not be picked up by the original fix and allow files to be written to arbitrary locations. The issue is addressed in MPXJ version 13.5.1.\n\nPublication Date: Mon Oct 28 21:01:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49771"
+            ]
+        },
+        {
+            "Message ID": 90480,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50016\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50016\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amd/display: Avoid overflow assignment in link_dp_cts\n\nsampling_rate is an uint8_t but is assigned an unsigned int, and thus it\ncan overflow. As a result, sampling_rate is changed to uint32_t.\n\nSimilarly, LINK_QUAL_PATTERN_SET has a size of 2 bits, and it should\nonly be assigned to a value less or equal than 4.\n\nThis fixes 2 INTEGER_OVERFLOW issues reported by Coverity.\n\nPublication Date: Mon Oct 28 21:01:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50016"
+            ]
+        },
+        {
+            "Message ID": 90479,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-30448\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-30448\n\nDescription: IBM DB2 for Linux, UNIX and Windows (includes Db2 Connect Server) 10.5, 11.1, and 11.5 is vulnerable to denial of service with a specially crafted query on certain tables.  IBM X-Force ID:  253437.\n\nPublication Date: Mon Oct 28 21:01:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Linux"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-30448"
+            ]
+        },
+        {
+            "Message ID": 90478,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-9629\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9629\n\nDescription: The Contact Form 7 + Telegram plugin for WordPress is vulnerable to unauthorized modification of data and loss of data due to a missing capability check on the 'wpcf7_Telegram::ajax' function in versions up to, and including, 0.8.5. This makes it possible for authenticated attackers, with subscriber-level access and above, to approve, pause and refuse subscriptions.\n\nPublication Date: Mon Oct 28 21:01:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9629"
+            ]
+        },
+        {
+            "Message ID": 90477,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50469\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50469\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Team Bright Vessel Textboxes allows DOM-Based XSS.This issue affects Textboxes: from n/a through 0.1.3.1.\n\nPublication Date: Mon Oct 28 21:01:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50469",
+                "0.1.3.1"
+            ]
+        },
+        {
+            "Message ID": 90476,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50468\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50468\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Michael Robinson Raptor Editor allows DOM-Based XSS.This issue affects Raptor Editor: from n/a through 1.0.20.\n\nPublication Date: Mon Oct 28 21:00:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50468"
+            ]
+        },
+        {
+            "Message ID": 90475,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-34472\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34472\n\nDescription: AMI SPx contains a vulnerability in the BMC where an Attacker may cause an improper neutralization of CRLF sequences in HTTP Headers. A successful exploit of this vulnerability may lead to a loss of integrity.\n\nPublication Date: Mon Oct 28 21:00:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34472"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
