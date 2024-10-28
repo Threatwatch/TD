@@ -37362,6 +37362,42 @@
             "URLs": [
                 "https://www.europol.europa.eu/media-press/newsroom/news/two-high-profile-camorra-fugitives-arrested-in-colombia-through-international-cooperation"
             ]
+        },
+        {
+            "Message ID": 90335,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: harrispersonalinjury.com\n\nDetection Date: Mon Oct 28 13:49:47 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "harrispersonalinjury.com"
+            ]
+        },
+        {
+            "Message ID": 90334,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: guymontigers.com\n\nDetection Date: Mon Oct 28 13:49:30 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "guymontigers.com"
+            ]
+        },
+        {
+            "Message ID": 90333,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: flueid.com\n\nDetection Date: Mon Oct 28 13:49:12 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "flueid.com"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
