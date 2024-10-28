@@ -3851,6 +3851,18 @@
             "URLs": [
                 "tps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-kickex/\n\n"
             ]
+        },
+        {
+            "Message ID": 6030,
+            "discovered": "2024-10-28",
+            "post_title": "https://x.com/whiteintel_io/status/1850923663757062354",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/whiteintel_io/status/1850923663757062354"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -38518,6 +38530,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-34034"
+            ]
+        },
+        {
+            "Message ID": 90401,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Europol warns about counterfeit goods and the criminals behind them\n\nDate: October 28, 2024\n\nSource: https://www.malwarebytes.com/blog/news/2024/10/europol-warns-about-counterfeit-goods-and-the-criminals-behind-them\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/news/2024/10/europol-warns-about-counterfeit-goods-and-the-criminals-behind-them"
             ]
         }
     ],
