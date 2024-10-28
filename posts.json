@@ -39488,6 +39488,30 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-20159"
             ]
+        },
+        {
+            "Message ID": 90461,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: Doctor24x7 \n              doctor24x7.in\n\nDetection Date: Mon Oct 28 20:39:32 2024\n\nThreat Actor: killsec3\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "doctor24x7.in"
+            ]
+        },
+        {
+            "Message ID": 90460,
+            "discovered": "2024-10-28",
+            "post_title": "Title: DemonForums - $150 usdt offer\n\nDetection Date: Mon Oct 28 20:28:30 2024\n\nSource: demonforums\n\nURL: https://demonforums.net/Thread-150-usdt-offer--137572\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://demonforums.net/Thread-150-usdt-offer--137572"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
