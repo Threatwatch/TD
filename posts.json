@@ -22578,6 +22578,18 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3359,
+            "discovered": "2024-10-28",
+            "post_title": "Group: blacksuit\nApprox. Time: 18:45 28/10/24\nTitle: https://t.co/rqQgjjrsHI",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/rqQgjjrsHI"
+            ]
         }
     ],
     "RansomfeedNews": [
