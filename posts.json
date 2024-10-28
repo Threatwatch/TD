@@ -37435,6 +37435,18 @@
             "URLs": [
                 "https://www.europol.europa.eu/media-press/newsroom/news/over-eur-14-million-in-counterfeit-currency-seized-in-operation-targeting-postal-shipments"
             ]
+        },
+        {
+            "Message ID": 90339,
+            "discovered": "2024-10-28",
+            "post_title": "Title: 13Cubed XINTRA Lab Walkthrough\n\nDate: October 28, 2024\n\nSource: https://www.youtube.com/watch?v=A7Bh7vnAooQ\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.youtube.com/watch?v=A7Bh7vnAooQ"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
