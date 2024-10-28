@@ -3775,6 +3775,82 @@
             "URLs": [
                 "t.me/OperationMagnus"
             ]
+        },
+        {
+            "Message ID": 6029,
+            "discovered": "2024-10-28",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6028,
+            "discovered": "2024-10-28",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6027,
+            "discovered": "2024-10-28",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6026,
+            "discovered": "2024-10-28",
+            "post_title": "💡Introducing PLAYBOY Ransomware. They have also named their first victim: German Chamber of Commerce\n\nURL: http://vlofmq2u3f5amxmnblvxaghy73aedwta74fyceywr6eeguw3cn6h6uad[.]onion",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6025,
+            "discovered": "2024-10-28",
+            "post_title": "💡FREE POST\n\n🚨🇨🇦A Threat Actor is Allegedly Selling the Data of Credique LLC\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-data-of-credique-llc/\n\nA threat actor claims to be selling a database containing information on 5,887,393 customers from Credique LLC. The data reportedly includes customer names, campaign dates, emails, phone numbers, city, state, country, and payment details.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-data-of-credique-llc/\n\nA "
+            ]
+        },
+        {
+            "Message ID": 6024,
+            "discovered": "2024-10-28",
+            "post_title": "🚨🇺🇸A Threat Actor is Allegedly Selling the Data of Virtavo\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-data-of-virtavo/\n\nThe threat actor alleges they are selling the database of Virtavo. The compromised data reportedly includes 14.7 million customer records, containing information such as app version, country codes, device IDs, phone models, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Virtavo"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-data-of-virtavo/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6023,
+            "discovered": "2024-10-28",
+            "post_title": "💡FREE POST\n\n🚨A Threat Actor has Allegedly Leaked Data of KickEX\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-kickex/\n\nThe threat actor claims to be selling a database from KickEX. The compromised data reportedly contains 1.3 million records, including full names, email addresses, administrator details, currency IDs, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-kickex/\n\n"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -38298,6 +38374,150 @@
             ],
             "URLs": [
                 "https://nattothoughts.substack.com/p/its-not-magic-making-your-choice"
+            ]
+        },
+        {
+            "Message ID": 90400,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Cybersecurity Awareness Month: Gamifying Cybersecurity Training\n\nDate: October 28, 2024\n\nSource: https://www.recordedfuture.com/blog/cybersecurity-awareness-month-gamifying-cybersecurity-training\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.recordedfuture.com/blog/cybersecurity-awareness-month-gamifying-cybersecurity-training"
+            ]
+        },
+        {
+            "Message ID": 90399,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-34537\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34537\n\nDescription: TYPO3 before 13.3.1 allows denial of service (interface error) in the Bookmark Toolbar (ext:backend), exploitable by an administrator-level backend user account via manipulated data saved in the bookmark toolbar of the backend user interface. The fixed versions are 10.4.46 ELTS, 11.5.40 LTS, 12.4.21 LTS, and 13.3.1.\n\nPublication Date: Mon Oct 28 18:03:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "the Bookmark Toolbar"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34537"
+            ]
+        },
+        {
+            "Message ID": 90398,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-31461\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-31461\n\nDescription: Attackers can exploit an open API listener on SteelSeries GG 36.0.0 to create a sub-application that will be executed automatically from a controlled location, because of a path traversal vulnerability.\n\nPublication Date: Mon Oct 28 18:03:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-31461"
+            ]
+        },
+        {
+            "Message ID": 90397,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-34394\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34394\n\nDescription: In Keysight Geolocation Server v2.4.2 and prior, an attacker could upload a specially crafted malicious file or delete any file or directory with SYSTEM privileges due to an improper path validation, which could result in local privilege escalation or a denial-of-service condition.\n\nPublication Date: Mon Oct 28 18:02:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34394"
+            ]
+        },
+        {
+            "Message ID": 90396,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50479\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50479\n\nDescription: Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Mansur Ahamed Woocommerce Quote Calculator allows Blind SQL Injection.This issue affects Woocommerce Quote Calculator: from n/a through 1.1.\n\nPublication Date: Mon Oct 28 18:02:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Mansur"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50479"
+            ]
+        },
+        {
+            "Message ID": 90395,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-37362\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37362\n\nDescription: Weintek Weincloud v0.13.6\n\n \n\ncould allow an attacker to abuse the registration functionality to login with testing credentials to the official website.\n\nPublication Date: Mon Oct 28 18:02:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37362"
+            ]
+        },
+        {
+            "Message ID": 90394,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-32657\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-32657\n\nDescription: Weintek Weincloud v0.13.6\n\n \n\ncould allow an attacker to efficiently develop a brute force attack on credentials with authentication hints from error message responses.\n\nPublication Date: Mon Oct 28 18:02:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-32657"
+            ]
+        },
+        {
+            "Message ID": 90393,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-34429\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34429\n\nDescription: Weintek Weincloud v0.13.6\n\n \n\ncould allow an attacker to cause a denial-of-service condition for Weincloud by sending a forged JWT token.\n\nPublication Date: Mon Oct 28 18:02:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34429"
+            ]
+        },
+        {
+            "Message ID": 90392,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-35134\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35134\n\nDescription: Weintek Weincloud v0.13.6\n\n could allow an attacker to reset a password with the corresponding account’s JWT token only.\n\nPublication Date: Mon Oct 28 18:02:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35134"
+            ]
+        },
+        {
+            "Message ID": 90391,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-10449\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10449\n\nDescription: A vulnerability, which was classified as critical, was found in Codezips Hospital Appointment System 1.0. This affects an unknown part of the file /loginAction.php. The manipulation of the argument Username leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Oct 28 18:01:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Username"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10449"
+            ]
+        },
+        {
+            "Message ID": 90390,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-45802\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45802\n\nDescription: Squid is an open source caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. Due to Input Validation, Premature Release of Resource During Expected Lifetime, and Missing Release of Resource after Effective Lifetime bugs, Squid is vulnerable to Denial of Service attacks by a trusted server against all clients using the proxy. This bug is fixed in the default build configuration of Squid version 6.10.\n\nPublication Date: Mon Oct 28 18:01:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45802"
+            ]
+        },
+        {
+            "Message ID": 90389,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-34034\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34034\n\nDescription: Using \"**\" as a pattern in Spring Security configuration \nfor WebFlux creates a mismatch in pattern matching between Spring \nSecurity and Spring WebFlux, and the potential for a security bypass.\n\nPublication Date: Mon Oct 28 18:01:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "WebFlux"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34034"
             ]
         }
     ],
