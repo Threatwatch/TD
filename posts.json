@@ -3994,6 +3994,18 @@
             "URLs": [
                 "s://darkwebinformer.com/hikki-chan-is-allegedly-selling-access-of-saic-sistema-de-acompanhamento-integral-do-cidadao/"
             ]
+        },
+        {
+            "Message ID": 6042,
+            "discovered": "2024-10-28",
+            "post_title": "🚨🇳🇵THE STONE FORCE Targeted the Website of Nepal Telecom (NT)\n\nhttps://darkwebinformer.com/the-stone-force-targeted-the-website-of-nepal-telecom-nt/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/the-stone-force-targeted-the-website-of-nepal-telecom-nt/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -18369,6 +18381,16 @@
             "URLs": [
                 "https://axisofresistance.quora.com/The-Zionist-educational-organization-Campus-IL-was-hacked-and-the-Russian-group-Hunt3r-Kill3rs-announced-that-it-was-ab"
             ]
+        },
+        {
+            "Message ID": 944,
+            "discovered": "2024-10-28",
+            "post_title": "Мы выделим 20%-ную долю каждому, кто поможет продать утечку базы данных, а также предоставим им копию базы данных.\n\nWe will give a 20% share to anyone who helps sell the leaked DB's and we will also give them a copy of the database.\n\nEscrow Accepted!\n\n✉️ @R351574N7",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Electronic Tigers Unit": [
@@ -40461,6 +40483,92 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-39205"
+            ]
+        },
+        {
+            "Message ID": 90515,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Biden admin issues restrictions on US investments into sensitive tech tied to China\n\nDate: October 28, 2024\n\nSource: https://www.nextgov.com/cybersecurity/2024/10/biden-admin-issues-restrictions-us-investments-sensitive-tech-tied-china/400619/\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US",
+                "China",
+                "China"
+            ],
+            "URLs": [
+                "https://www.nextgov.com/cybersecurity/2024/10/biden-admin-issues-restrictions-us-investments-sensitive-tech-tied-china/400619/"
+            ]
+        },
+        {
+            "Message ID": 90514,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-48594\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48594\n\nDescription: File Upload vulnerability in Prison Management System v.1.0 allows a remote attacker to execute arbitrary code via the file upload component.\n\nPublication Date: Tue Oct 29 00:12:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48594"
+            ]
+        },
+        {
+            "Message ID": 90513,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-3668\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3668\n\nDescription: Improper Encoding or Escaping of Output in GitHub repository froxlor/froxlor prior to 2.0.21.\n\nPublication Date: Tue Oct 29 00:12:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3668"
+            ]
+        },
+        {
+            "Message ID": 90512,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-39771\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-39771\n\nDescription: QBiC CLOUD CC-2L v1.1.30 and earlier and Safie One v1.8.2 and earlier do not properly validate certificates, which may allow a network-adjacent unauthenticated attacker to obtain and/or alter communications of the affected product via a man-in-the-middle attack.\n\nPublication Date: Tue Oct 29 00:12:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-39771"
+            ]
+        },
+        {
+            "Message ID": 90511,
+            "discovered": "2024-10-28",
+            "post_title": "Title: New tool bypasses Google Chrome’s new cookie encryption system\n\nDate: October 28, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/new-tool-bypasses-google-chromes-new-cookie-encryption-system/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/new-tool-bypasses-google-chromes-new-cookie-encryption-system/"
+            ]
+        },
+        {
+            "Message ID": 90510,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-38951\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38951\n\nDescription: A buffer overflow in PX4-Autopilot v1.12.3 allows attackers to cause a Denial of Service (DoS) via a crafted MavLink message.\n\nPublication Date: Tue Oct 29 00:00:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38951"
+            ]
+        },
+        {
+            "Message ID": 90509,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-40505\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-40505\n\nDescription: Directory Traversal vulnerability in D-Link DAP-1650 Firmware v.1.03 allows a local attacker to escalate privileges via the hedwig.cgi component.\n\nPublication Date: Tue Oct 29 00:00:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-40505"
             ]
         }
     ],
