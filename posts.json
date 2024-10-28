@@ -40872,6 +40872,198 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-30106"
             ]
+        },
+        {
+            "Message ID": 90553,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Five Eyes agencies offers security advice for small businesses\n\nDate: October 28, 2024\n\nSource: https://www.scworld.com/news/five-eyes-agencies-offers-security-advice-for-small-businesses\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/five-eyes-agencies-offers-security-advice-for-small-businesses"
+            ]
+        },
+        {
+            "Message ID": 90552,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-5071\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-5071\n\nDescription: The Bookster  WordPress plugin through 1.1.0 allows adding sensitive parameters when validating appointments allowing attackers to manipulate the data sent when booking an appointment (the request body) to change its status from pending to approved.\n\nPublication Date: Tue Oct 29 02:09:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-5071"
+            ]
+        },
+        {
+            "Message ID": 90551,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44145\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44145\n\nDescription: This issue was addressed through improved state management. This issue is fixed in macOS Sequoia 15, iOS 18 and iPadOS 18. An attacker with physical access to a macOS device with Sidecar enabled may be able to bypass the Lock Screen.\n\nPublication Date: Tue Oct 29 02:09:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44145"
+            ]
+        },
+        {
+            "Message ID": 90550,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44216\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44216\n\nDescription: An access issue was addressed with additional sandbox restrictions. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. An app may be able to access user-sensitive data.\n\nPublication Date: Tue Oct 29 02:08:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44216"
+            ]
+        },
+        {
+            "Message ID": 90549,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44217\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44217\n\nDescription: A permissions issue was addressed by removing vulnerable code and adding additional checks. This issue is fixed in iOS 18 and iPadOS 18. Password autofill may fill in passwords after failing authentication.\n\nPublication Date: Tue Oct 29 02:08:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44217"
+            ]
+        },
+        {
+            "Message ID": 90548,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44237\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44237\n\nDescription: An out-of-bounds access issue was addressed with improved bounds checking. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. Processing a maliciously crafted file may lead to unexpected app termination.\n\nPublication Date: Tue Oct 29 02:08:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44237"
+            ]
+        },
+        {
+            "Message ID": 90547,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44240\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44240\n\nDescription: The issue was addressed with improved checks. This issue is fixed in tvOS 18.1, iOS 18.1 and iPadOS 18.1, iOS 17.7.1 and iPadOS 17.7.1, macOS Ventura 13.7.1, macOS Sonoma 14.7.1, watchOS 11.1, visionOS 2.1. Processing a maliciously crafted font may result in the disclosure of process memory.\n\nPublication Date: Tue Oct 29 02:08:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44240"
+            ]
+        },
+        {
+            "Message ID": 90546,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44256\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44256\n\nDescription: The issue was addressed with improved input sanitization. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. An app may be able to break out of its sandbox.\n\nPublication Date: Tue Oct 29 02:08:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44256"
+            ]
+        },
+        {
+            "Message ID": 90545,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44257\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44257\n\nDescription: This issue was addressed with improved redaction of sensitive information. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. An app may be able to access sensitive user data.\n\nPublication Date: Tue Oct 29 02:08:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44257"
+            ]
+        },
+        {
+            "Message ID": 90544,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44260\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44260\n\nDescription: This issue was addressed by removing the vulnerable code. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. A malicious app with root privileges may be able to modify the contents of system files.\n\nPublication Date: Tue Oct 29 02:07:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44260"
+            ]
+        },
+        {
+            "Message ID": 90543,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44283\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44283\n\nDescription: An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. Parsing a maliciously crafted file may lead to an unexpected app termination.\n\nPublication Date: Tue Oct 29 02:07:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44283"
+            ]
+        },
+        {
+            "Message ID": 90542,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44295\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44295\n\nDescription: This issue was addressed with additional entitlement checks. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. An app may be able to modify protected parts of the file system.\n\nPublication Date: Tue Oct 29 02:07:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44295"
+            ]
+        },
+        {
+            "Message ID": 90541,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-51509\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51509\n\nDescription: Tiki through 27.0 allows users who have certain permissions to insert a \"Modules\" (aka tiki-admin_modules.php) stored XSS payload in the Name.\n\nPublication Date: Tue Oct 29 02:07:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51509"
+            ]
+        },
+        {
+            "Message ID": 90540,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-51508\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51508\n\nDescription: Tiki through 27.0 allows users who have certain permissions to insert a \"Create/Edit External Wiki\" stored XSS payload in the Index.\n\nPublication Date: Tue Oct 29 02:07:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51508"
+            ]
+        },
+        {
+            "Message ID": 90539,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-51507\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51507\n\nDescription: Tiki through 27.0 allows users who have certain permissions to insert a \"Create/Edit External Wiki\" stored XSS payload in the Name.\n\nPublication Date: Tue Oct 29 02:06:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51507"
+            ]
+        },
+        {
+            "Message ID": 90538,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-51506\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51506\n\nDescription: Tiki through 27.0 allows users who have certain permissions to insert a \"Create a Wiki Pages\" stored XSS payload in the description.\n\nPublication Date: Tue Oct 29 02:06:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51506"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
