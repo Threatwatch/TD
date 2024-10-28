@@ -37003,6 +37003,42 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-23843"
             ]
+        },
+        {
+            "Message ID": 90312,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-10438\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10438\n\nDescription: The eHRD CTMS from Sunnet has an Authentication Bypass vulnerability, allowing unauthenticated remote attackers to bypass authentication by satisfying specific conditions in order to access certain functionalities.\n\nPublication Date: Mon Oct 28 07:10:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10438"
+            ]
+        },
+        {
+            "Message ID": 90311,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-10439\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10439\n\nDescription: The eHRD CTMS from Sunnet has an Insecure Direct Object Reference (IDOR) vulnerability, allowing unauthenticated remote attackers to modify a specific parameter to access arbitrary files uploaded by any user.\n\nPublication Date: Mon Oct 28 07:10:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10439"
+            ]
+        },
+        {
+            "Message ID": 90310,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-10440\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10440\n\nDescription: The eHDR CTMS from Sunnet has a SQL Injection vulnerability, allowing unauthenticated remote attackers to inject arbitrary SQL command to read, modify, and delete database contents.\n\nPublication Date: Mon Oct 28 07:10:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10440"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
