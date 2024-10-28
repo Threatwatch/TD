@@ -13407,6 +13407,21 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1943,
+            "discovered": "2024-10-28",
+            "post_title": "https://borang.mbsp.gov.my/z.shtml\nhttps://agrobiz.fama.gov.my/z.shtml\nhttps://ekemalangan.bomba.gov.my/web/tukangklaim.html\n\nparty on your government malaysia site😜\n\n#EsteemRestorationEagle",
+            "Attack Type": "Unknown",
+            "Location": [
+                "malaysia",
+                "😜"
+            ],
+            "URLs": [
+                "https://borang.mbsp.gov.my/z.shtml",
+                "https://agrobiz.fama.gov.my/z.shtml",
+                "https://ekemalangan.bomba.gov.my/web/tukangklaim.html"
+            ]
         }
     ],
     "SERVER KILLERS": [
@@ -40315,6 +40330,127 @@
             ],
             "URLs": [
                 "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-619"
+            ]
+        },
+        {
+            "Message ID": 90508,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50437\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50437\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in AyeCode GeoDirectory allows Stored XSS.This issue affects GeoDirectory: from n/a through 2.3.80.\n\nPublication Date: Mon Oct 28 23:08:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50437"
+            ]
+        },
+        {
+            "Message ID": 90507,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-5532\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-5532\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in OpenText™ Operations Agent. \n\nThe XSS vulnerability could allow an attacker with local admin permissions to manipulate the content of the internal status page of the Agent on the local system. \n\nThis issue affects Operations Agent: 12.20, 12.21, 12.22, 12.23, 12.24, 12.25, 12.26.\n\nPublication Date: Mon Oct 28 23:07:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-5532"
+            ]
+        },
+        {
+            "Message ID": 90506,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-9825\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9825\n\nDescription: The Chef Habitat builder-api on-prem-builder package  with any version lower than habitat/builder-api/10315/20240913162802 is vulnerable to indirect object reference (IDOR) by un-authorized deletion of personal token.  Habitat builder consumes builder-api habitat package as a dependency and the vulnerability was specifically due to builder-api habitat package.\n\nThe fix was made available in habitat/builder-api/10315/20240913162802 and all the subsequent versions after that. We would recommend user to always use on-prem stable channel.\n\nPublication Date: Mon Oct 28 23:07:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9825"
+            ]
+        },
+        {
+            "Message ID": 90505,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-40315\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-40315\n\nDescription: In OpenMNS Horizon 31.0.8 and versions earlier than 32.0.2 and related Meridian versions, any user that has the ROLE_FILESYSTEM_EDITOR can easily escalate their privileges to ROLE_ADMIN or any other role. The solution is to upgrade to Meridian 2023.1.5 or Horizon 32.0.2 or newer. Meridian and Horizon installation instructions state that they are intended for installation within an organization's private networks and should not be directly accessible from the Internet. OpenNMS thanks Erik Wynter for reporting this issue.\n\nPublication Date: Mon Oct 28 23:07:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-40315"
+            ]
+        },
+        {
+            "Message ID": 90504,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-35291\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-35291\n\nDescription: Cross-site scripting vulnerability exists in Splunk Config Explorer versions prior to 1.7.16. If this vulnerability is exploited, an arbitrary script may be executed on the web browser of the user who is using the product.\n\nPublication Date: Mon Oct 28 23:07:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-35291"
+            ]
+        },
+        {
+            "Message ID": 90503,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-26130\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-26130\n\nDescription: Versions of the package yhirose/cpp-httplib before 0.12.4 are vulnerable to CRLF Injection when untrusted user input is used to set the content-type header in the HTTP .Patch, .Post, .Put and .Delete requests. This can lead to logical errors and other misbehaviors.**Note:** This issue is present due to an incomplete fix for [CVE-2020-11709](https://security.snyk.io/vuln/SNYK-UNMANAGED-YHIROSECPPHTTPLIB-2366507).\n\nPublication Date: Mon Oct 28 23:07:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-26130",
+                "https://security.snyk.io/vuln/SNYK-UNMANAGED-YHIROSECPPHTTPLIB-2366507"
+            ]
+        },
+        {
+            "Message ID": 90502,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-48825\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48825\n\nDescription: Tenda AC7 v.15.03.06.44 ate_ifconfig_set has pre-authentication command injection allowing remote attackers to execute arbitrary code.\n\nPublication Date: Mon Oct 28 23:07:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48825"
+            ]
+        },
+        {
+            "Message ID": 90501,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-45260\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45260\n\nDescription: An issue was discovered on certain GL-iNet devices, including MT6000, MT3000, MT2500, AXT1800, and AX1800 4.6.2. Users who belong to unauthorized groups can invoke any interface of the device, thereby gaining complete control over it.\n\nPublication Date: Mon Oct 28 23:06:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "AXT1800"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45260"
+            ]
+        },
+        {
+            "Message ID": 90500,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-48826\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48826\n\nDescription: Tenda AC7 v.15.03.06.44 ate_iwpriv_set has pre-authentication command injection allowing remote attackers to execute arbitrary code.\n\nPublication Date: Mon Oct 28 23:06:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48826"
+            ]
+        },
+        {
+            "Message ID": 90499,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-39205\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-39205\n\nDescription: An issue in pyload-ng v0.5.0b3.dev85 running under python3.11 or below allows attackers to execute arbitrary code via a crafted HTTP request.\n\nPublication Date: Mon Oct 28 23:06:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-39205"
             ]
         }
     ],
