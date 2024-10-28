@@ -37291,6 +37291,31 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 90332,
+            "discovered": "2024-10-28",
+            "post_title": "Target: http://finance.sec40.go.th/will.html\n\nNotified: l4663r666h05T\n\nDate: Mon, 28 Oct 2024 09:18:35 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41293611\n\n#Defacements #Thailand",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://finance.sec40.go.th/will.html",
+                "http://www.zone-h.org/mirror/id/41293611"
+            ]
+        },
+        {
+            "Message ID": 90331,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Two High-Profile Camorra Fugitives Arrested in Colombia Through International Cooperation\n\nDate: October 28, 2024\n\nSource: https://www.europol.europa.eu/media-press/newsroom/news/two-high-profile-camorra-fugitives-arrested-in-colombia-through-international-cooperation\n\n#News #Colombia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.europol.europa.eu/media-press/newsroom/news/two-high-profile-camorra-fugitives-arrested-in-colombia-through-international-cooperation"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
