@@ -37281,6 +37281,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 90330,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: Triverus\n\nDetection Date: Mon Oct 28 11:59:06 2024\n\nThreat Actor: lynx\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": []
