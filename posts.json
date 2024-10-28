@@ -3763,6 +3763,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/z-bl4cx-h4t-defaced-the-website-of-wudaoky/"
             ]
+        },
+        {
+            "Message ID": 6022,
+            "discovered": "2024-10-28",
+            "post_title": "Go say hi or something. t.me/OperationMagnus",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "t.me/OperationMagnus"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -38275,6 +38287,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 90388,
+            "discovered": "2024-10-28",
+            "post_title": "Title: It's Not Magic: Making Your Choice is Powerful\n\nDate: October 28, 2024\n\nSource: https://nattothoughts.substack.com/p/its-not-magic-making-your-choice\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nattothoughts.substack.com/p/its-not-magic-making-your-choice"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
