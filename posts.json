@@ -6305,6 +6305,92 @@
                 "exodus.desync.com%3",
                 "exodus.desync.com%3"
             ]
+        },
+        {
+            "Message ID": 2417,
+            "discovered": "2024-10-28",
+            "post_title": "Bypass and decrypt App-Bound encrypted keys in Chrome 127+\n\nTool to decrypt App-Bound encrypted keys in Chrome 127+, using the IElevator COM interface with path validation and encryption protections.\n\nPoC: https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption"
+            ]
+        },
+        {
+            "Message ID": 2416,
+            "discovered": "2024-10-28",
+            "post_title": "Links to write-ups, blog posts and papers related to cybersecurity, reverse engineering and exploitation (constantly updated)\n\nPoC: https://github.com/0xor0ne/awesome-list/blob/main/topics/cybersec.md\n\n#infosec #cybersecurity",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/0xor0ne/awesome-list/blob/main/topics/cybersec.md"
+            ]
+        },
+        {
+            "Message ID": 2415,
+            "discovered": "2024-10-28",
+            "post_title": "EmbedPayloadInPng\n\nEmbed a payload within a PNG file by splitting the payload across multiple IDAT sections. Each section is encrypted individually using its own 16-byte key with the RC4 encryption algorithm.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2414,
+            "discovered": "2024-10-28",
+            "post_title": "Secure Stager\n\nThis project demonstrates an x64 position-independent stager that verifies the stage it downloads prior to executing it. This offers a safeguard against man-in-the-middle attacks for those who are concerned about such things. Final stager size ~4100 bytes.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2413,
+            "discovered": "2024-10-28",
+            "post_title": "SCCMVNC\n\nA tool to modify SCCM remote control settings on the client machine, enabling remote control without permission prompts or notifications. This can be done without requiring access to SCCM server.\n\nBlog: Abuse SCCM Remote Control as Native VNC\n\nP.S. This technique could then be useful for lateral movement or shadow monitoring through ports 135 and 2701.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "P.S."
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2412,
+            "discovered": "2024-10-28",
+            "post_title": "Psudohash\n\nA password list generator for orchestrating brute force attacks and cracking hashes. It imitates certain password creation patterns commonly used by humans, like substituting a word's letters with symbols or numbers (leet), using char-case variations, adding a common padding before or after the main passphrase and more. It is keyword-based and highly customizable. Generates millions of keyword-based password mutations in seconds.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2411,
+            "discovered": "2024-10-28",
+            "post_title": "Offensive Security \n\nDownload: https://drive.google.com/file/d/1EX14YXBIg39r4hyRVMkvp9Fdvkg1PTqU/view",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://drive.google.com/file/d/1EX14YXBIg39r4hyRVMkvp9Fdvkg1PTqU/view"
+            ]
+        },
+        {
+            "Message ID": 2410,
+            "discovered": "2024-10-28",
+            "post_title": "Занятная книженция «ChatGPT for Cybersecurity - Cookbook»",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Занятная"
+            ],
+            "URLs": []
         }
     ],
     "Anonymous Chat": [
@@ -22052,6 +22138,18 @@
             "URLs": [
                 "https://t.co/llSlGChbbu"
             ]
+        },
+        {
+            "Message ID": 3357,
+            "discovered": "2024-10-28",
+            "post_title": "Group: FOG\nApprox. Time: 12:41 28/10/24\nTitle: Evergreen SD50 (https://t.co/IAvHyBdS34)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/IAvHyBdS34"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -37629,6 +37727,116 @@
             "URLs": [
                 "https://encuestas.senda.gob.cl/0x.txt",
                 "http://www.zone-h.org/mirror/id/41292918"
+            ]
+        },
+        {
+            "Message ID": 90363,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Hybrid Russian Espionage and Influence Campaign Aims to Compromise Ukrainian Military Recruits and Deliver Anti-Mobilization Narratives\n\nDate: October 28, 2024\n\nSource: https://cloud.google.com/blog/topics/threat-intelligence/russian-espionage-influence-ukrainian-military-recruits-anti-mobilization-narratives/\n\n#News #Russia #Ukraine",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Russia",
+                "Ukraine"
+            ],
+            "URLs": [
+                "https://cloud.google.com/blog/topics/threat-intelligence/russian-espionage-influence-ukrainian-military-recruits-anti-mobilization-narratives/"
+            ]
+        },
+        {
+            "Message ID": 90362,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2017-2222\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2017-2222\n\nDescription: Cross-site scripting vulnerability in WP-Members prior to version 3.1.8 allows remote attackers to inject arbitrary web script or HTML via unspecified vectors.\n\nPublication Date: Mon Oct 28 16:06:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "WP"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2017-2222"
+            ]
+        },
+        {
+            "Message ID": 90361,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-2869\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-2869\n\nDescription: The WP-Members Membership plugin for WordPress is vulnerable to unauthorized plugin settings update due to a missing capability check on the do_field_reorder function in versions up to, and including, 3.4.7.3. This makes it possible for authenticated attackers with subscriber-level access to reorder form elements on login forms.\n\nPublication Date: Mon Oct 28 16:06:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-2869",
+                "3.4.7.3"
+            ]
+        },
+        {
+            "Message ID": 90360,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2019-15660\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2019-15660\n\nDescription: The wp-members plugin before 3.2.8 for WordPress has CSRF.\n\nPublication Date: Mon Oct 28 16:06:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2019-15660"
+            ]
+        },
+        {
+            "Message ID": 90359,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-6733\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-6733\n\nDescription: The WP-Members Membership Plugin plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 3.4.8 via the wpmem_field shortcode. This makes it possible for authenticated attackers, with contributor access and above, to extract sensitive data including user emails, password hashes, usernames, and more.\n\nPublication Date: Mon Oct 28 16:06:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-6733"
+            ]
+        },
+        {
+            "Message ID": 90358,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2013-5919\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2013-5919\n\nDescription: Suricata before 1.4.6 allows remote attackers to cause a denial of service (crash) via a malformed SSL record.\n\nPublication Date: Mon Oct 28 16:06:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2013-5919"
+            ]
+        },
+        {
+            "Message ID": 90357,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-48074\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48074\n\nDescription: An authorized RCE vulnerability exists in the DrayTek Vigor2960 router version 1.4.4, where an attacker can place a malicious command into the table parameter of the doPPPoE function in the cgi-bin/mainfunction.cgi route, and finally the command is executed by the system function.\n\nPublication Date: Mon Oct 28 16:05:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48074"
+            ]
+        },
+        {
+            "Message ID": 90356,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50488\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50488\n\nDescription: Authentication Bypass Using an Alternate Path or Channel vulnerability in Priyabrata Sarkar Token Login allows Authentication Bypass.This issue affects Token Login: from n/a through 1.0.3.\n\nPublication Date: Mon Oct 28 16:05:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Priyabrata"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50488"
+            ]
+        },
+        {
+            "Message ID": 90355,
+            "discovered": "2024-10-28",
+            "post_title": "Title: IBM Z Expands Security for LinuxONE and Linux on Z | Uptycs\n\nDate: October 28, 2024\n\nSource: https://www.uptycs.com/blog/uptycs-ibm-linuxone-and-linux-on-z-security\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.uptycs.com/blog/uptycs-ibm-linuxone-and-linux-on-z-security"
             ]
         }
     ],
