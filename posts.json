@@ -37858,6 +37858,18 @@
             "URLs": [
                 "https://www.uptycs.com/blog/uptycs-ibm-linuxone-and-linux-on-z-security"
             ]
+        },
+        {
+            "Message ID": 90364,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Redline, Meta infostealer malware operations seized by police\n\nDate: October 28, 2024\n\nSource: https://www.bleepingcomputer.com/news/legal/redline-meta-infostealer-malware-operations-seized-by-police/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/legal/redline-meta-infostealer-malware-operations-seized-by-police/"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
