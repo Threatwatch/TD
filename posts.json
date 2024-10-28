@@ -3863,6 +3863,40 @@
             "URLs": [
                 "https://x.com/whiteintel_io/status/1850923663757062354"
             ]
+        },
+        {
+            "Message ID": 6033,
+            "discovered": "2024-10-28",
+            "post_title": "🚨🇳🇬A Threat Actor is Allegedly Selling the Data of SplitXchange\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-data-of-splitxchange/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-data-of-splitxchange/"
+            ]
+        },
+        {
+            "Message ID": 6032,
+            "discovered": "2024-10-28",
+            "post_title": "🚨A Threat Actor is Allegedly Selling Goat Labs Data\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-goat-labs-data/\n\nA threat actor claims to have leaked the database of Goat Labs. The compromised database reportedly contains 1,862,170 customer records, with sample data including fields such as Customer ID, Name, Campaign Date, Email, Phone, City, State, Country, and Payment details.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-goat-labs-data/\n"
+            ]
+        },
+        {
+            "Message ID": 6031,
+            "discovered": "2024-10-28",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -10254,6 +10288,16 @@
             "discovered": "2024-10-28",
             "post_title": "🚨Teacher Dies of Heart Attack Following Threats from Cyber Scammers 🚨\n\nA 58-year-old school teacher in Agra, Malti Verma, died from cardiac arrest shortly after receiving a series of threatening calls from cyber fraudsters posing as police officers. \n\nThe scammers alleged that her daughter was involved in a sex scandal and threatened to release an obscene video unless a payment of Rs 1 lakh was made. The calls began on September 30, with about ten calls over 15 minutes, one showing a WhatsApp profile with a khaki uniform and a Pakistani code (+92). \n\nDespite reassurances from her family that it was a scam, Verma's health quickly deteriorated, leading to her death.\n\nMore details:\nhttps://www.indiatoday.in/cities/agra/story/agra-teacher-scam-call-daughter-sex-racket-one-lakh-demand-dies-heart-attack-2610966-2024-10-04",
             "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1202,
+            "discovered": "2024-10-28",
+            "post_title": "🚨New ransomware group detected: PlayBoy Locker \n\nFirst victim listed:\n🇩🇪German Chamber of Commerce and Industry (DIHK)\n\nRansom deadline: 05th November 2024",
+            "Attack Type": "Hacking",
             "Location": [
                 "N/A"
             ],
@@ -38542,6 +38586,18 @@
             ],
             "URLs": [
                 "https://www.malwarebytes.com/blog/news/2024/10/europol-warns-about-counterfeit-goods-and-the-criminals-behind-them"
+            ]
+        },
+        {
+            "Message ID": 90402,
+            "discovered": "2024-10-28",
+            "post_title": "Title: IT Pro Tuesday #325\n\nDate: October 28, 2024\n\nSource: https://www.hornetsecurity.com/en/blog/it-pro-tuesday-325/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.hornetsecurity.com/en/blog/it-pro-tuesday-325/"
             ]
         }
     ],
