@@ -12506,6 +12506,29 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1940,
+            "discovered": "2024-10-28",
+            "post_title": "Hacked By Esteem Restoration Eagle\n\nMessage : Please keep your website strengthened again because it is very vulnerable to the security of this website and I hope to strengthen your website again\n\nCountry: Iran🇮🇷\n\nSite : https://attarnews.ir\n\nMirror : https://haxor.id/archive/mirror/210627\n\n#EsteemRestorationEagle",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Iran"
+            ],
+            "URLs": [
+                "tps://attarnews.ir\n\n",
+                "tps://haxor.id/archive/mirror/210627\n\n"
+            ]
+        },
+        {
+            "Message ID": 1939,
+            "discovered": "2024-10-28",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SERVER KILLERS": [
@@ -36869,6 +36892,91 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10432"
+            ]
+        },
+        {
+            "Message ID": 90307,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Inside the Open Directory of the “You Dun” Threat Group\n\nDate: October 28, 2024\n\nSource: https://thedfirreport.com/2024/10/28/inside-the-open-directory-of-the-you-dun-threat-group/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thedfirreport.com/2024/10/28/inside-the-open-directory-of-the-you-dun-threat-group/"
+            ]
+        },
+        {
+            "Message ID": 90306,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20812\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20812\n\nDescription: In wlan driver, there is a possible out of bounds write due to improper input validation. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07944987; Issue ID: ALPS07944987.\n\nPublication Date: Mon Oct 28 05:08:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20812"
+            ]
+        },
+        {
+            "Message ID": 90305,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20813\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20813\n\nDescription: In wlan service, there is a possible out of bounds read due to improper input validation. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07453549; Issue ID: ALPS07453549.\n\nPublication Date: Mon Oct 28 05:08:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20813"
+            ]
+        },
+        {
+            "Message ID": 90304,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20826\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20826\n\nDescription: In cta, there is a possible information disclosure due to a missing permission check. This could lead to local information disclosure with no additional execution privilege needed. User interaction is not needed for exploitation. Patch ID: ALPS07978550; Issue ID: ALPS07978550.\n\nPublication Date: Mon Oct 28 05:08:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20826"
+            ]
+        },
+        {
+            "Message ID": 90303,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-20833\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20833\n\nDescription: In keyinstall, there is a possible information disclosure due to a missing bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS08017756; Issue ID: ALPS08017764.\n\nPublication Date: Mon Oct 28 05:08:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20833"
+            ]
+        },
+        {
+            "Message ID": 90302,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-34941\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34941\n\nDescription: A stored cross-site scripting (XSS) vulnerability in the urlFilterList function of Asus RT-N10LX Router v2.0.0.39 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the URL Keyword List text field. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.\n\nPublication Date: Mon Oct 28 05:08:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34941"
+            ]
+        },
+        {
+            "Message ID": 90301,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Sinisterly - XUPGRADER.COM | BECOME A YOUTUBE RESELLER | STARTING AT $3.5/ONE | RESELLER API+PANEL\n\nDetection Date: Mon Oct 28 05:07:42 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-XUPGRADER-COM-BECOME-A-YOUTUBE-RESELLER-STARTING-AT-3-5-ONE-RESELLER-API-PANEL\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "XUPGRADER.COM",
+                "https://sinister.ly/Thread-XUPGRADER-COM-BECOME-A-YOUTUBE-RESELLER-STARTING-AT-3-5-ONE-RESELLER-API-PANEL"
             ]
         }
     ],
