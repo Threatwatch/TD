@@ -3634,6 +3634,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6011,
+            "discovered": "2024-10-28",
+            "post_title": "💡FREE POST\n\n🚨🇳🇬UnicornLover67 Allegedly Leaked Data of Reliance Health\n\nhttps://darkwebinformer.com/unicornlover67-allegedly-leaked-data-of-reliance-health/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/unicornlover67-allegedly-leaked-data-of-reliance-health/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -37869,6 +37881,235 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/legal/redline-meta-infostealer-malware-operations-seized-by-police/"
+            ]
+        },
+        {
+            "Message ID": 90383,
+            "discovered": "2024-10-28",
+            "post_title": "Title: 28th October – Threat Intelligence Report\n\nDate: October 28, 2024\n\nSource: https://research.checkpoint.com/2024/28th-october-threat-intelligence-report/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://research.checkpoint.com/2024/28th-october-threat-intelligence-report/"
+            ]
+        },
+        {
+            "Message ID": 90382,
+            "discovered": "2024-10-28",
+            "post_title": "Title: BeaverTail Malware Resurfaces in Malicious npm Packages Targeting Developers\n\nDate: Oct 28, 2024\n\nSource: https://thehackernews.com/2024/10/beavertail-malware-resurfaces-in.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/beavertail-malware-resurfaces-in.html"
+            ]
+        },
+        {
+            "Message ID": 90381,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-10455\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10455\n\nDescription: Reachable Assertion in BPv7 parser in µD3TN v0.14.0 allows attacker to disrupt service via malformed Extension Block\n\nPublication Date: Mon Oct 28 17:05:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10455"
+            ]
+        },
+        {
+            "Message ID": 90380,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-10448\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10448\n\nDescription: A vulnerability, which was classified as problematic, has been found in code-projects Blood Bank Management System 1.0. Affected by this issue is some unknown functionality of the file /file/delete.php. The manipulation of the argument bid leads to cross-site request forgery. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. Other endpoints might be affected as well.\n\nPublication Date: Mon Oct 28 17:05:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10448"
+            ]
+        },
+        {
+            "Message ID": 90379,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50582\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50582\n\nDescription: In JetBrains YouTrack before 2024.3.47707 stored XSS was possible due to improper HTML sanitization in markdown elements\n\nPublication Date: Mon Oct 28 17:04:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50582"
+            ]
+        },
+        {
+            "Message ID": 90378,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50581\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50581\n\nDescription: In JetBrains YouTrack before 2024.3.47707 improper HTML sanitization could lead to XSS attack via comment tag\n\nPublication Date: Mon Oct 28 17:04:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50581"
+            ]
+        },
+        {
+            "Message ID": 90377,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50580\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50580\n\nDescription: In JetBrains YouTrack before 2024.3.47707 multiple XSS were possible due to insecure markdown parsing and custom rendering rule\n\nPublication Date: Mon Oct 28 17:04:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50580"
+            ]
+        },
+        {
+            "Message ID": 90376,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50579\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50579\n\nDescription: In JetBrains YouTrack before 2024.3.47707 reflected XSS due to insecure link sanitization was possible\n\nPublication Date: Mon Oct 28 17:04:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50579"
+            ]
+        },
+        {
+            "Message ID": 90375,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50578\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50578\n\nDescription: In JetBrains YouTrack before 2024.3.47707 stored XSS was possible via sprint value on agile boards page\n\nPublication Date: Mon Oct 28 17:04:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50578"
+            ]
+        },
+        {
+            "Message ID": 90374,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50577\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50577\n\nDescription: In JetBrains YouTrack before 2024.3.47707 stored XSS was possible via Angular template injection in Hub settings\n\nPublication Date: Mon Oct 28 17:03:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50577"
+            ]
+        },
+        {
+            "Message ID": 90373,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50576\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50576\n\nDescription: In JetBrains YouTrack before 2024.3.47707 stored XSS was possible via vendor URL in App manifest\n\nPublication Date: Mon Oct 28 17:03:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50576"
+            ]
+        },
+        {
+            "Message ID": 90372,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-48191\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48191\n\nDescription: dingfanzu CMS 1.0 was discovered to contain a Cross-Site Request Forgery (CSRF) via the component /admin/doAdminAction.php?act=delAdmin&id=17\n\nPublication Date: Mon Oct 28 17:03:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48191"
+            ]
+        },
+        {
+            "Message ID": 90371,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50443\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50443\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Post Grid Team by WPXPO PostX allows Stored XSS.This issue affects PostX: from n/a through 4.1.12.\n\nPublication Date: Mon Oct 28 17:03:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50443"
+            ]
+        },
+        {
+            "Message ID": 90370,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-10447\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10447\n\nDescription: A vulnerability classified as critical was found in Project Worlds Online Time Table Generator 1.0. Affected by this vulnerability is an unknown functionality of the file /timetable/staff/staffdashboard.php?info=updateprofile. The manipulation of the argument n leads to sql injection. The attack can be launched remotely.\n\nPublication Date: Mon Oct 28 17:03:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10447"
+            ]
+        },
+        {
+            "Message ID": 90369,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-8013\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8013\n\nDescription: A bug in query analysis of certain complex self-referential $lookup subpipelines may result in literal values in expressions for encrypted fields to be sent to the server as plaintext instead of ciphertext. Should this occur, no documents would be returned or written. This issue affects mongocryptd binary (v5.0 versions prior to 5.0.29, v6.0 versions prior to 6.0.17, v7.0 versions prior to 7.0.12 and v7.3 versions prior to 7.3.4) and mongo_crypt_v1.so shared libraries (v6.0 versions prior to 6.0.17, v7.0 versions prior to 7.0.12 and v7.3 versions prior to 7.3.4) released alongside MongoDB Enterprise Server versions.\n\nPublication Date: Mon Oct 28 17:03:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "7.0.12",
+                "7.0.12"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8013"
+            ]
+        },
+        {
+            "Message ID": 90368,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50575\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50575\n\nDescription: In JetBrains YouTrack before 2024.3.47707 reflected XSS was possible in Widget API\n\nPublication Date: Mon Oct 28 17:02:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50575"
+            ]
+        },
+        {
+            "Message ID": 90367,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-38523\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-38523\n\nDescription: The web interface on multiple Samsung Harman AMX N-Series devices allows directory listing for the /tmp/ directory, without authentication, exposing sensitive information such as the command history and screenshot of the file being processed. This affects N-Series N1115 Wallplate Video Encoder before 1.15.61, N-Series N1x22A Video Encoder/Decoder before 1.15.61, N-Series N1x33A Video Encoder/Decoder before 1.15.61, N-Series N1x33 Video Encoder/Decoder before 1.15.61, N-Series N2x35 Video Encoder/Decoder before 1.15.61, N-Series N2x35A Video Encoder/Decoder before 1.15.61, N-Series N2xx2 Video Encoder/Decoder before 1.15.61, N-Series N2xx2A Video Encoder/Decoder before 1.15.61, N-Series N3000 Video Encoder/Decoder before 2.12.105, and N-Series N4321 Audio Transceiver before 1.00.06.\n\nPublication Date: Mon Oct 28 17:02:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-38523"
+            ]
+        },
+        {
+            "Message ID": 90366,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50574\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50574\n\nDescription: In JetBrains YouTrack before 2024.3.47707 potential ReDoS exploit was possible via email header parsing in Helpdesk functionality\n\nPublication Date: Mon Oct 28 17:02:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50574"
+            ]
+        },
+        {
+            "Message ID": 90365,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50573\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50573\n\nDescription: In JetBrains Hub before 2024.3.47707 improper access control allowed users to generate permanent tokens for unauthorized services\n\nPublication Date: Mon Oct 28 17:02:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50573"
             ]
         }
     ],
