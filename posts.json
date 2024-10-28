@@ -39512,6 +39512,162 @@
             "URLs": [
                 "https://demonforums.net/Thread-150-usdt-offer--137572"
             ]
+        },
+        {
+            "Message ID": 90474,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Ubuntu security advisory (AV24-617)\n\nDate: October 28, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-617\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-617"
+            ]
+        },
+        {
+            "Message ID": 90473,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Chinese Hackers Use CloudScout Toolset to Steal Session Cookies from Cloud Services\n\nDate: Oct 28, 2024\n\nSource: https://thehackernews.com/2024/10/chinese-hackers-use-cloudscout-toolset.html\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/chinese-hackers-use-cloudscout-toolset.html"
+            ]
+        },
+        {
+            "Message ID": 90472,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Free, France’s second largest ISP, confirms data breach after leak\n\nDate: October 28, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/free-frances-second-largest-isp-confirms-data-breach-after-leak/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/free-frances-second-largest-isp-confirms-data-breach-after-leak/"
+            ]
+        },
+        {
+            "Message ID": 90471,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: Fortis \n              fortishealthcare.com\n\nDetection Date: Mon Oct 28 20:46:59 2024\n\nThreat Actor: killsec3\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "fortishealthcare.com"
+            ]
+        },
+        {
+            "Message ID": 90470,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: ConCash \n              concash.com.br\n\nDetection Date: Mon Oct 28 20:46:14 2024\n\nThreat Actor: killsec3\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "concash.com.br"
+            ]
+        },
+        {
+            "Message ID": 90469,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: Mixfame \n              mixfame.com\n\nDetection Date: Mon Oct 28 20:45:36 2024\n\nThreat Actor: killsec3\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "mixfame.com"
+            ]
+        },
+        {
+            "Message ID": 90468,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: Edmov \n              edmov.com\n\nDetection Date: Mon Oct 28 20:44:50 2024\n\nThreat Actor: killsec3\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "edmov.com"
+            ]
+        },
+        {
+            "Message ID": 90467,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: Bliss Worldwide \n              blissworldwide.in\n\nDetection Date: Mon Oct 28 20:44:12 2024\n\nThreat Actor: killsec3\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "blissworldwide.in"
+            ]
+        },
+        {
+            "Message ID": 90466,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: Wilson Tarquin \n              wilsontarquin.co.uk\n\nDetection Date: Mon Oct 28 20:43:36 2024\n\nThreat Actor: killsec3\n\n#Ransomware #UnitedKingdom",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "wilsontarquin.co.uk"
+            ]
+        },
+        {
+            "Message ID": 90465,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: SW Reclaim \n              swreclaim.co.uk\n\nDetection Date: Mon Oct 28 20:42:40 2024\n\nThreat Actor: killsec3\n\n#Ransomware #UnitedKingdom",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "swreclaim.co.uk"
+            ]
+        },
+        {
+            "Message ID": 90464,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: NoBroker \n              nobroker.in\n\nDetection Date: Mon Oct 28 20:42:05 2024\n\nThreat Actor: killsec3\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "nobroker.in"
+            ]
+        },
+        {
+            "Message ID": 90463,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: Government of Brazil \n              gov.br\n\nDetection Date: Mon Oct 28 20:41:20 2024\n\nThreat Actor: killsec3\n\n#Ransomware #Brazil",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "gov.br"
+            ]
+        },
+        {
+            "Message ID": 90462,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: Delcaper \n              delcaper.com\n\nDetection Date: Mon Oct 28 20:40:24 2024\n\nThreat Actor: killsec3\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "delcaper.com"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
