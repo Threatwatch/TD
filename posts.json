@@ -3624,6 +3624,16 @@
             "URLs": [
                 "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-26th-2024/"
             ]
+        },
+        {
+            "Message ID": 6010,
+            "discovered": "2024-10-28",
+            "post_title": "⚠️HELLCAT has taken their Onion site temporarily offline and provided the following announcement\n\nLink: hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad[.]onion/announcement.txt",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -36682,6 +36692,183 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-1106"
+            ]
+        },
+        {
+            "Message ID": 90300,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-6247\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-6247\n\nDescription: The PKCS#7 parser in OpenVPN 3 Core Library versions through 3.8.3 did not properly validate the parsed data, which would result in the application crashing.\n\nPublication Date: Mon Oct 28 04:02:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-6247"
+            ]
+        },
+        {
+            "Message ID": 90299,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2023-7202\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-7202\n\nDescription: The Fatal Error Notify WordPress plugin before 1.5.3 does not have authorisation and CSRF checks in its test_error AJAX action, allowing any authenticated users, such as subscriber to call it and spam the admin email address with error messages. The issue is also exploitable via CSRF\n\nPublication Date: Mon Oct 28 04:01:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-7202"
+            ]
+        },
+        {
+            "Message ID": 90298,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-10433\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10433\n\nDescription: A vulnerability was found in Project Worlds Simple Web-Based Chat Application 1.0 and classified as problematic. Affected by this issue is some unknown functionality of the file /index.php. The manipulation of the argument Name/Comment leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions different parameters to be affected which do not correlate with the screenshots of a successful attack.\n\nPublication Date: Mon Oct 28 04:01:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10433"
+            ]
+        },
+        {
+            "Message ID": 90297,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50624\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50624\n\nDescription: ispdbservice.cpp in KDE Kmail before 6.2.0 allows man-in-the-middle attackers to trigger use of an attacker-controlled mail server because cleartext HTTP is used for a URL such as http://autoconfig.example.com or http://example.com/.well-known/autoconfig for retrieving the configuration. This is related to kmail-account-wizard.\n\nPublication Date: Mon Oct 28 04:01:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "KDE",
+                "Kmail",
+                "kmail"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50624",
+                "http://autoconfig.example.com",
+                "http://example.com/.well-known/autoconfig"
+            ]
+        },
+        {
+            "Message ID": 90296,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-10434\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10434\n\nDescription: A vulnerability was found in Tenda AC1206 up to 20241027. It has been classified as critical. This affects the function ate_Tenda_mfg_check_usb/ate_Tenda_mfg_check_usb3 of the file /goform/ate. The manipulation of the argument arg leads to stack-based buffer overflow. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Oct 28 04:01:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Tenda"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10434"
+            ]
+        },
+        {
+            "Message ID": 90295,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-10435\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10435\n\nDescription: A vulnerability was found in didi Super-Jacoco 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /cov/triggerEnvCov. The manipulation of the argument uuid leads to command injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Oct 28 04:01:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10435"
+            ]
+        },
+        {
+            "Message ID": 90294,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Sinisterly - [$27.00] XUPGRADER.COM | AUTOBUY | 1 YEAR NO-KICKS YOUTUBE PREMIUM & YOUTUBE MUSIC\n\nDetection Date: Mon Oct 28 04:00:35 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-27-00-XUPGRADER-COM-AUTOBUY-1-YEAR-NO-KICKS-YOUTUBE-PREMIUM-YOUTUBE-MUSIC\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "XUPGRADER.COM",
+                "https://sinister.ly/Thread-27-00-XUPGRADER-COM-AUTOBUY-1-YEAR-NO-KICKS-YOUTUBE-PREMIUM-YOUTUBE-MUSIC"
+            ]
+        },
+        {
+            "Message ID": 90293,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Sinisterly - [$8.00] XUPGRADER.COM | AUTOBUY | LIFETIME YOUTUBE PREMIUM & YOUTUBE MUSIC\n\nDetection Date: Mon Oct 28 04:00:24 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-8-00-XUPGRADER-COM-AUTOBUY-LIFETIME-YOUTUBE-PREMIUM-YOUTUBE-MUSIC\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "XUPGRADER.COM",
+                "https://sinister.ly/Thread-8-00-XUPGRADER-COM-AUTOBUY-LIFETIME-YOUTUBE-PREMIUM-YOUTUBE-MUSIC"
+            ]
+        },
+        {
+            "Message ID": 90292,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-38274\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38274\n\nDescription: Insufficient escaping of calendar event titles resulted in a stored XSS risk in the event deletion prompt.\n\nPublication Date: Mon Oct 28 03:06:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38274"
+            ]
+        },
+        {
+            "Message ID": 90291,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-38493\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38493\n\nDescription: A reflected cross-site scripting (XSS) vulnerability exists in the PAM UI web interface. A remote attacker able to convince a PAM user to click on a specially crafted link to the PAM UI web interface could potentially execute arbitrary client-side code in the context of PAM UI.\n\nPublication Date: Mon Oct 28 03:06:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38493"
+            ]
+        },
+        {
+            "Message ID": 90290,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-10430\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10430\n\nDescription: A vulnerability, which was classified as critical, has been found in Codezips Pet Shop Management System 1.0. This issue affects some unknown processing of the file /animalsupdate.php. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Oct 28 03:06:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10430"
+            ]
+        },
+        {
+            "Message ID": 90289,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-10431\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10431\n\nDescription: A vulnerability, which was classified as critical, was found in Codezips Pet Shop Management System 1.0. Affected is an unknown function of the file /deletebird.php. The manipulation of the argument t1 leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Oct 28 03:06:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10431"
+            ]
+        },
+        {
+            "Message ID": 90288,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50623\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50623\n\nDescription: In Cleo Harmony before 5.8.0.20, VLTrader before 5.8.0.20, and LexiCom before 5.8.0.20, there is a JavaScript Injection vulnerability.\n\nPublication Date: Mon Oct 28 03:05:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50623",
+                "5.8.0.20",
+                "5.8.0.20",
+                "5.8.0.20"
+            ]
+        },
+        {
+            "Message ID": 90287,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-10432\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10432\n\nDescription: A vulnerability has been found in Project Worlds Simple Web-Based Chat Application 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /index.php. The manipulation of the argument username leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Oct 28 03:05:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10432"
             ]
         }
     ],
