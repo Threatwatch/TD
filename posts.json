@@ -40679,6 +40679,199 @@
             "URLs": [
                 "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-621"
             ]
+        },
+        {
+            "Message ID": 90537,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44281\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44281\n\nDescription: An out-of-bounds read was addressed with improved input validation. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. Parsing a file may lead to disclosure of user information.\n\nPublication Date: Tue Oct 29 01:22:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44281"
+            ]
+        },
+        {
+            "Message ID": 90536,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44282\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44282\n\nDescription: An out-of-bounds read was addressed with improved input validation. This issue is fixed in tvOS 18.1, iOS 18.1 and iPadOS 18.1, iOS 17.7.1 and iPadOS 17.7.1, macOS Ventura 13.7.1, macOS Sonoma 14.7.1, watchOS 11.1, visionOS 2.1. Parsing a file may lead to disclosure of user information.\n\nPublication Date: Tue Oct 29 01:22:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44282"
+            ]
+        },
+        {
+            "Message ID": 90535,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44284\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44284\n\nDescription: An out-of-bounds write issue was addressed with improved input validation. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. Parsing a maliciously crafted file may lead to an unexpected app termination.\n\nPublication Date: Tue Oct 29 01:22:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44284"
+            ]
+        },
+        {
+            "Message ID": 90534,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44285\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44285\n\nDescription: A use-after-free issue was addressed with improved memory management. This issue is fixed in iOS 18.1 and iPadOS 18.1, watchOS 11.1, visionOS 2.1, tvOS 18.1. An app may be able to cause unexpected system termination or corrupt kernel memory.\n\nPublication Date: Tue Oct 29 01:22:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44285"
+            ]
+        },
+        {
+            "Message ID": 90533,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44287\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44287\n\nDescription: The issue was addressed with improved checks. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. A malicious application may be able to modify protected parts of the file system.\n\nPublication Date: Tue Oct 29 01:21:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44287"
+            ]
+        },
+        {
+            "Message ID": 90532,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44289\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44289\n\nDescription: A privacy issue was addressed with improved private data redaction for log entries. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. An app may be able to read sensitive location information.\n\nPublication Date: Tue Oct 29 01:21:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44289"
+            ]
+        },
+        {
+            "Message ID": 90531,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44294\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44294\n\nDescription: A path deletion vulnerability was addressed by preventing vulnerable code from running with privileges. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. An attacker with root privileges may be able to delete protected system files.\n\nPublication Date: Tue Oct 29 01:21:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44294"
+            ]
+        },
+        {
+            "Message ID": 90530,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44296\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44296\n\nDescription: The issue was addressed with improved checks. This issue is fixed in tvOS 18.1, iOS 18.1 and iPadOS 18.1, iOS 17.7.1 and iPadOS 17.7.1, watchOS 11.1, visionOS 2.1. Processing maliciously crafted web content may prevent Content Security Policy from being enforced.\n\nPublication Date: Tue Oct 29 01:21:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44296"
+            ]
+        },
+        {
+            "Message ID": 90529,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44297\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44297\n\nDescription: The issue was addressed with improved bounds checks. This issue is fixed in tvOS 18.1, iOS 18.1 and iPadOS 18.1, iOS 17.7.1 and iPadOS 17.7.1, macOS Ventura 13.7.1, macOS Sonoma 14.7.1, watchOS 11.1, visionOS 2.1. Processing a maliciously crafted message may lead to a denial-of-service.\n\nPublication Date: Tue Oct 29 01:21:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44297"
+            ]
+        },
+        {
+            "Message ID": 90528,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44301\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44301\n\nDescription: The issue was addressed with improved checks. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. A malicious application may be able to modify protected parts of the file system.\n\nPublication Date: Tue Oct 29 01:21:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44301"
+            ]
+        },
+        {
+            "Message ID": 90527,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-44302\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44302\n\nDescription: The issue was addressed with improved checks. This issue is fixed in tvOS 18.1, iOS 18.1 and iPadOS 18.1, iOS 17.7.1 and iPadOS 17.7.1, macOS Ventura 13.7.1, macOS Sonoma 14.7.1, watchOS 11.1, visionOS 2.1. Processing a maliciously crafted font may result in the disclosure of process memory.\n\nPublication Date: Tue Oct 29 01:20:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44302"
+            ]
+        },
+        {
+            "Message ID": 90526,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-48177\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48177\n\nDescription: MRCMS 3.1.2 contains a SQL injection vulnerability via the RID parameter in /admin/article/delete.do.\n\nPublication Date: Tue Oct 29 01:20:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48177",
+                "delete.do"
+            ]
+        },
+        {
+            "Message ID": 90525,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Windows Update takeover lets an attacker revive a patched flaw\n\nDate: October 28, 2024\n\nSource: https://www.scworld.com/news/windows-update-takeovers-lets-attackers-revive-a-patched-flaw\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/windows-update-takeovers-lets-attackers-revive-a-patched-flaw"
+            ]
+        },
+        {
+            "Message ID": 90524,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50495\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50495\n\nDescription: Unrestricted Upload of File with Dangerous Type vulnerability in WidgiLabs Plugin Propagator allows Upload a Web Shell to a Web Server.This issue affects Plugin Propagator: from n/a through 0.1.\n\nPublication Date: Tue Oct 29 01:09:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50495"
+            ]
+        },
+        {
+            "Message ID": 90523,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-50496\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50496\n\nDescription: Unrestricted Upload of File with Dangerous Type vulnerability in Web and Print Design AR For WordPress allows Upload a Web Shell to a Web Server.This issue affects AR For WordPress: from n/a through 6.2.\n\nPublication Date: Tue Oct 29 01:09:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50496"
+            ]
+        },
+        {
+            "Message ID": 90522,
+            "discovered": "2024-10-28",
+            "post_title": "CVE-ID: CVE-2024-30106\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-30106\n\nDescription: HCL Connections is vulnerable to an information disclosure vulnerability, due to an IBM WebSphere Application Server error, which could allow a user to obtain sensitive information they are not entitled to due to the improper handling of request data.\n\nPublication Date: Tue Oct 29 01:09:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-30106"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
