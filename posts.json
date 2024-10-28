@@ -22480,6 +22480,16 @@
             "URLs": [
                 "https://t.co/IAvHyBdS34"
             ]
+        },
+        {
+            "Message ID": 3358,
+            "discovered": "2024-10-28",
+            "post_title": "Group: ransomhouse\nApprox. Time: 16:35 28/10/24\nTitle: [File Tree and Full Data Dump]VOP CZ",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -38930,6 +38940,40 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-37788"
             ]
+        },
+        {
+            "Message ID": 90424,
+            "discovered": "2024-10-28",
+            "post_title": "Title: Cybersecurity Horror Stories From Ethical Hackers\n\nDate: October 28, 2024\n\nSource: https://blog.lumen.com/cybersecurity-horror-stories-from-ethical-hackers/?utm_source=rss&utm_medium=rss&utm_campaign=cybersecurity-horror-stories-from-ethical-hackers\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.lumen.com/cybersecurity-horror-stories-from-ethical-hackers/?utm_source=rss&utm_medium=rss&utm_campaign=cybersecurity-horror-stories-from-ethical-hackers"
+            ]
+        },
+        {
+            "Message ID": 90423,
+            "discovered": "2024-10-28",
+            "post_title": "Title: IBM security advisory (AV24-616)\n\nDate: October 28, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-616\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-616"
+            ]
+        },
+        {
+            "Message ID": 90422,
+            "discovered": "2024-10-28",
+            "post_title": "Victim: [File Tree and Full Data Dump]VOP CZ\n\nDetection Date: Mon Oct 28 19:37:00 2024\n\nThreat Actor: ransomhouse\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": []
