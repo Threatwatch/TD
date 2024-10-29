@@ -4129,6 +4129,16 @@
             "URLs": [
                 "ps://darkwebinformer.com/darkraas-is-allegedly-selling-network-access-to-an-unidentified-it-company-in-saudi-arabia/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6053,
+            "discovered": "2024-10-29",
+            "post_title": "💡So, I think it's a smarter move to leave the initial image you see on X/Socials/Website unblurred, and if you really want to see the content of the post and get more details like the direct link, then you can be a paid subscriber. I will still continue doing Free posts from time to time and will continue Free Post Friday.\n\nI think blurring the image and doing a complete paywall doesn't make sense and literally leaves you with seeing absolutely no content.\n\nI missed that point completely and this is how it will be going forward.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -18613,6 +18623,29 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 946,
+            "discovered": "2024-10-29",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 945,
+            "discovered": "2024-10-29",
+            "post_title": "📌 We are excited to announce a new alliance between EvilMorocco and Hunt3rKill3rs . This alliance’s brings together our collective strengths and shared goals to enhance the success of our upcoming operations.\n\nМы рады объявить о новом альянсе между EvilMorocco и Hunt3rKill3rs. Этот альянс объединяет наши коллективные сильные стороны и общие цели для повышения успеха наших предстоящих операций.\n\nنحن متحمسون للإعلان عن تحالف جديد بين EvilMorocco وHunt3rKill3rs . يجمع هذا التحالف بين نقاط قوتنا الجماعية وأهدافنا المشتركة لتعزيز نجاح عملياتنا القادمة.\n\nJoin HunterKilles \n[+] https://t.me/Hunt3rkill3rs1\nOur Channel \n[+] https://t.me/evilmorocco\n\n#EvilMorocco #Hunt3rKill3rs",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://t.me/Hunt3rkill3rs1\n",
+                "ttps://t.me/evilmorocco\n"
+            ]
         }
     ],
     "Electronic Tigers Unit": [
@@ -43160,6 +43193,246 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 90712,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Mozilla security advisory (AV24-622)\n\nDate: October 29, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-622\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av24-622"
+            ]
+        },
+        {
+            "Message ID": 90711,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Stream.Security raises $30 million in Series B funding\n\nDate: October 29, 2024\n\nSource: https://www.scworld.com/brief/stream-security-raises-30-million-in-series-b-funding\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/stream-security-raises-30-million-in-series-b-funding"
+            ]
+        },
+        {
+            "Message ID": 90710,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Report highlights telcos' cloud adoption challenges amidst increased spending\n\nDate: October 29, 2024\n\nSource: https://www.scworld.com/brief/report-highlights-telcos-cloud-adoption-challenges-amidst-increased-spending\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/report-highlights-telcos-cloud-adoption-challenges-amidst-increased-spending"
+            ]
+        },
+        {
+            "Message ID": 90709,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Permiso launches SkyScalpel for detecting cloud policy obfuscation\n\nDate: October 29, 2024\n\nSource: https://www.scworld.com/brief/permiso-launches-skyscalpel-for-detecting-cloud-policy-obfuscation\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/permiso-launches-skyscalpel-for-detecting-cloud-policy-obfuscation"
+            ]
+        },
+        {
+            "Message ID": 90708,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Fortanix and Sectigo partner to automate software supply chain security\n\nDate: October 29, 2024\n\nSource: https://www.scworld.com/brief/fortanix-and-sectigo-partner-to-automate-software-supply-chain-security\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/fortanix-and-sectigo-partner-to-automate-software-supply-chain-security"
+            ]
+        },
+        {
+            "Message ID": 90707,
+            "discovered": "2024-10-29",
+            "post_title": "Title: IBM launches Guardium Data Security center for AI and quantum security\n\nDate: October 29, 2024\n\nSource: https://www.scworld.com/brief/ibm-launches-guardium-data-security-center-for-ai-and-quantum-security\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "AI"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/ibm-launches-guardium-data-security-center-for-ai-and-quantum-security"
+            ]
+        },
+        {
+            "Message ID": 90706,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Effectiv to be purchased by Socure for $136M\n\nDate: October 29, 2024\n\nSource: https://www.scworld.com/brief/effectiv-to-be-purchased-by-socure-for-136m\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/effectiv-to-be-purchased-by-socure-for-136m"
+            ]
+        },
+        {
+            "Message ID": 90705,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Funding round pulls in $200M for Armis\n\nDate: October 29, 2024\n\nSource: https://www.scworld.com/brief/funding-round-pulls-in-200m-for-armis\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/funding-round-pulls-in-200m-for-armis"
+            ]
+        },
+        {
+            "Message ID": 90704,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Data compromise confirmed by French telco Free\n\nDate: October 29, 2024\n\nSource: https://www.scworld.com/brief/data-compromise-confirmed-by-french-telco-free\n\n#News #France",
+            "Attack Type": "Hacking",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/data-compromise-confirmed-by-french-telco-free"
+            ]
+        },
+        {
+            "Message ID": 90703,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Over 47K impacted in Texas county breach\n\nDate: October 29, 2024\n\nSource: https://www.scworld.com/brief/over-47k-impacted-in-texas-county-breach\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Texas county"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/over-47k-impacted-in-texas-county-breach"
+            ]
+        },
+        {
+            "Message ID": 90702,
+            "discovered": "2024-10-29",
+            "post_title": "Title: 북한 김수키(Kimsuky) 세종연구소 한반도전략센터장 을 사칭 하는 악성코드-CHEONG ? Chang Essay FINAL.msc(2024.9.25)\n\nDate: October 29, 2024\n\nSource: https://wezard4u.tistory.com/429312\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://wezard4u.tistory.com/429312"
+            ]
+        },
+        {
+            "Message ID": 90701,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-28021\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-28021\n\nDescription: A vulnerability exists in the FOXMAN-UN/UNEM server that affects the message \nqueueing mechanism’s certificate validation. If exploited an attacker could spoof a trusted entity causing a loss of confidentiality \nand integrity.\n\nPublication Date: Tue Oct 29 18:09:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-28021"
+            ]
+        },
+        {
+            "Message ID": 90700,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2022-32503\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-32503\n\nDescription: An issue was discovered on certain Nuki Home Solutions devices. An attacker with physical access to this JTAG port may be able to connect to the device and bypass both hardware and software security protections. This affects Nuki Keypad before 1.9.2 and Nuki Fob before 1.8.1.\n\nPublication Date: Tue Oct 29 18:09:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-32503"
+            ]
+        },
+        {
+            "Message ID": 90699,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-32615\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-32615\n\nDescription: HDF5 Library through 1.14.3 contains a heap-based buffer overflow in H5Z__nbit_decompress_one_byte in H5Znbit.c, caused by the earlier use of an initialized pointer.\n\nPublication Date: Tue Oct 29 18:08:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "H5Znbit.c"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-32615"
+            ]
+        },
+        {
+            "Message ID": 90698,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-34200\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34200\n\nDescription: TOTOLINK CPE CP450 v4.1.0cu.747_B20191224 was discovered to contain a stack buffer overflow vulnerability in the setIpQosRules function.\n\nPublication Date: Tue Oct 29 18:08:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34200"
+            ]
+        },
+        {
+            "Message ID": 90697,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-49768\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49768\n\nDescription: Waitress is a Web Server Gateway Interface server for Python 2 and 3. A remote client may send a request that is exactly recv_bytes (defaults to 8192) long, followed by a secondary request using HTTP pipelining. When request lookahead is disabled (default) we won't read any more requests, and when the first request fails due to a parsing error, we simply close the connection. However when request lookahead is enabled, it is possible to process and receive the first request, start sending the error message back to the client while we read the next request and queue it. This will allow the secondary request to be serviced by the worker thread while the connection should be closed. Waitress 3.0.1 fixes the race condition. As a workaround, disable channel_request_lookahead, this is set to 0 by default disabling this feature.\n\nPublication Date: Tue Oct 29 18:08:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49768"
+            ]
+        },
+        {
+            "Message ID": 90696,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-35474\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-35474\n\nDescription: A Directory Traversal vulnerability in iceice666 ResourcePack Server before v1.0.8 allows a remote attacker to disclose files on the server, via setPath in ResourcePackFileServer.kt.\n\nPublication Date: Tue Oct 29 18:08:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "ResourcePackFileServer.kt"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-35474"
+            ]
+        },
+        {
+            "Message ID": 90695,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2014-9426\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2014-9426\n\nDescription: The apprentice_load function in libmagic/apprentice.c in the Fileinfo component in PHP through 5.6.4 attempts to perform a free operation on a stack-based character array, which allows remote attackers to cause a denial of service (memory corruption or application crash) or possibly have unspecified other impact via unknown vectors.  NOTE: this is disputed by the vendor because the standard erealloc behavior makes the free operation unreachable\n\nPublication Date: Tue Oct 29 18:08:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2014-9426"
+            ]
+        },
+        {
+            "Message ID": 90694,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50334\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50334\n\nDescription: Scoold is a Q&A and a knowledge sharing platform for teams. A semicolon path injection vulnerability was found on the /api;/config endpoint. By appending a semicolon in the URL, attackers can bypass authentication and gain unauthorised access to sensitive configuration data. Furthermore, PUT requests on the /api;/config endpoint while setting the Content-Type: application/hocon header allow unauthenticated attackers to file reading via HOCON file inclusion. This allows attackers to retrieve sensitive information such as configuration files from the server, which can be leveraged for further exploitation. The vulnerability has been fixed in Scoold 1.64.0. A workaround would be to disable the Scoold API with scoold.api_enabled = false.\n\nPublication Date: Tue Oct 29 18:08:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50334"
+            ]
+        },
+        {
+            "Message ID": 90693,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Identity is the Perimeter of the Cloud\n\nDate: October 29, 2024\n\nSource: https://sysdig.com/blog/sysdig-and-netskope/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sysdig.com/blog/sysdig-and-netskope/"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
