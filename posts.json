@@ -4018,6 +4018,16 @@
             "URLs": [
                 "/darkwebinformer.com/brain-cipher-has-announced-3-new-victims/"
             ]
+        },
+        {
+            "Message ID": 6044,
+            "discovered": "2024-10-28",
+            "post_title": "💡I took a couple hours to put a little more into the WhiteIntel integration. Starting tomorrow this is how it will look at the bottom of the page for Breaches, Leaks, Ransomware. I don't see a point in doing this for DDoS or Defacement posts. I've added some text for various types of messages you may come across when loading the data, if data doesn't exist, etc.\n\nFor anyone curious the data in the picture is from HP. More to come!\n\nNo Daily Dose of Dark Web Informer today.. also I missed quite a few breaches be sure to look at the Threat Feeds if you are a subscriber.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
