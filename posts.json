@@ -23132,6 +23132,18 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3361,
+            "discovered": "2024-10-29",
+            "post_title": "Group: blacksuit\nApprox. Time: 10:36 29/10/24\nTitle: https://t.co/IbhYUlX7y1",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/IbhYUlX7y1"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -42088,6 +42100,43 @@
             ],
             "URLs": [
                 "https://www.threatfabric.com/blogs/lightspy-implant-for-ios"
+            ]
+        },
+        {
+            "Message ID": 90619,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Protected: FlareOn 11 – Task 9\n\nDate: October 29, 2024\n\nSource: https://hshrzd.wordpress.com/2024/10/29/flareon-11-task-9/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://hshrzd.wordpress.com/2024/10/29/flareon-11-task-9/"
+            ]
+        },
+        {
+            "Message ID": 90618,
+            "discovered": "2024-10-29",
+            "post_title": "Target: https://www.health.gov.mw/87.txt\n\nNotified: White System&#039;./404\n\nDate: Tue, 29 Oct 2024 10:19:17 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41293827\n\n#Defacements #Malawi",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.health.gov.mw/87.txt",
+                "http://www.zone-h.org/mirror/id/41293827"
+            ]
+        },
+        {
+            "Message ID": 90617,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Lumma/Amadey: fake CAPTCHAs want to know if you’re human\n\nDate: October 29, 2024\n\nSource: https://securelist.com/fake-captcha-delivers-lumma-amadey/114312/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://securelist.com/fake-captcha-delivers-lumma-amadey/114312/"
             ]
         }
     ],
