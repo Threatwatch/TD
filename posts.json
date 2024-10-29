@@ -4443,6 +4443,18 @@
             "URLs": [
                 "orkplace.com "
             ]
+        },
+        {
+            "Message ID": 6082,
+            "discovered": "2024-10-29",
+            "post_title": "🚨🇮🇳AnonymousActivist Defaced the Website of Club Vista Holidays\n\nhttps://darkwebinformer.com/anonymousactivist-defaced-the-website-of-club-vista-holidays/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/anonymousactivist-defaced-the-website-of-club-vista-holidays/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -44522,6 +44534,90 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 90767,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2023-45746\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-45746\n\nDescription: Cross-site scripting vulnerability in Movable Type series allows a remote authenticated attacker to inject an arbitrary script. Affected products/versions are as follows: Movable Type 7 r.5405 and earlier (Movable Type 7 Series), Movable Type Advanced 7 r.5405 and earlier (Movable Type 7 Series), Movable Type Premium 1.58 and earlier, Movable Type Premium Advanced 1.58 and earlier, Movable Type Cloud Edition (Version 7) r.5405 and earlier, and Movable Type Premium Cloud Edition 1.58 and earlier.\n\nPublication Date: Tue Oct 29 22:43:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-45746"
+            ]
+        },
+        {
+            "Message ID": 90766,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2023-25189\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-25189\n\nDescription: BTS is affected by information disclosure vulnerability where mobile network operator personnel connected over BTS Web Element Manager, regardless of the access privileges, having a possibility to read BTS service operation details performed by Nokia Care service personnel via SSH.\n\nPublication Date: Tue Oct 29 22:42:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-25189"
+            ]
+        },
+        {
+            "Message ID": 90765,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2023-34056\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34056\n\nDescription: vCenter Server contains a partial information disclosure vulnerability. A malicious actor with non-administrative privileges to vCenter Server may leverage this issue to access unauthorized data.\n\nPublication Date: Tue Oct 29 22:42:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34056"
+            ]
+        },
+        {
+            "Message ID": 90764,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2023-41723\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-41723\n\nDescription: A vulnerability in Veeam ONE allows a user with the Veeam ONE Read-Only User role to view the Dashboard Schedule. Note: The criticality of this vulnerability is reduced because the user with the Read-Only role is only able to view the schedule and cannot make changes.\n\nPublication Date: Tue Oct 29 22:42:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-41723"
+            ]
+        },
+        {
+            "Message ID": 90763,
+            "discovered": "2024-10-29",
+            "post_title": "Victim: www.ztexconstruction.com\n\nDetection Date: Tue Oct 29 22:41:45 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.ztexconstruction.com"
+            ]
+        },
+        {
+            "Message ID": 90762,
+            "discovered": "2024-10-29",
+            "post_title": "Victim: hcfinc.com\n\nDetection Date: Tue Oct 29 22:41:31 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "hcfinc.com"
+            ]
+        },
+        {
+            "Message ID": 90761,
+            "discovered": "2024-10-29",
+            "post_title": "Victim: noblehouse.com.ph\n\nDetection Date: Tue Oct 29 22:41:18 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "noblehouse.com.ph"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
