@@ -44454,6 +44454,42 @@
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances/"
             ]
+        },
+        {
+            "Message ID": 90758,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-44222\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44222\n\nDescription: This issue was addressed with improved redaction of sensitive information. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. An app may be able to read sensitive location information.\n\nPublication Date: Tue Oct 29 22:29:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44222"
+            ]
+        },
+        {
+            "Message ID": 90757,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-44275\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44275\n\nDescription: The issue was addressed with improved checks. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. A malicious application may be able to modify protected parts of the file system.\n\nPublication Date: Tue Oct 29 22:29:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44275"
+            ]
+        },
+        {
+            "Message ID": 90756,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Intel and AMD chips still vulnerable to Spectre flaw\n\nDate: October 29, 2024\n\nSource: https://www.scworld.com/news/intel-and-amd-chips-still-vulnerable-to-spectre-flaw\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Spectre"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/intel-and-amd-chips-still-vulnerable-to-spectre-flaw"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
