@@ -4305,6 +4305,42 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6071,
+            "discovered": "2024-10-29",
+            "post_title": "🚨🇺🇸Surfnet Communications Has Been Claimed a Victim to ARCUS MEDIA Ransomware\n\nhttps://darkwebinformer.com/surfnet-communications-has-been-claimed-a-victim-to-arcus-media-ransomware/\n\nThe group claims to have acquired 52 GB of data from the organization, which includes databases, IP addresses, personal information, and contracts. They intend to sell the data within 7 days and threaten to publish it within 9 days if not purchased.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/surfnet-communications-has-been-claimed-a-victim-to-arcus-media-ransomware/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6070,
+            "discovered": "2024-10-29",
+            "post_title": "🚨🇮🇳THE STONE FORCE Defaced the Website of STUDY IN INDIA\n\nhttps://darkwebinformer.com/the-stone-force-defaced-the-website-of-study-in-india/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/the-stone-force-defaced-the-website-of-study-in-india/"
+            ]
+        },
+        {
+            "Message ID": 6069,
+            "discovered": "2024-10-29",
+            "post_title": "💡Freebie\n\n🚨🇬🇧A Threat Actor is Allegedly Selling Anti Money Laundering Compliance Checker Documents\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-anti-money-laundering-compliance-checker-documents/\n\nA threat actor is offering to sell Anti-Money Laundering Compliance Checker documents. The leaked data reportedly consists of 280,000 documents, totaling 178 GB of information.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-is-allegedly-selling-anti-money-laundering-compliance-checker-documents/\n\nA "
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -44089,6 +44125,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-50459"
+            ]
+        },
+        {
+            "Message ID": 90748,
+            "discovered": "2024-10-29",
+            "post_title": "Title: QNAP fixes NAS backup software zero-day exploited at Pwn2Own\n\nDate: October 29, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/qnap-fixes-nas-backup-software-zero-day-exploited-at-pwn2own/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/qnap-fixes-nas-backup-software-zero-day-exploited-at-pwn2own/"
             ]
         }
     ],
