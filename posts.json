@@ -17215,6 +17215,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4457,
+            "discovered": "2024-10-29",
+            "post_title": "October 29, 2024  Don’t Leak Group Posts Warning to Victims After Accidental Data Wipe of Chat Support Records  #Intel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hunt3r Kill3rs | Охотники-убийцы": [
@@ -41632,6 +41642,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10000"
+            ]
+        },
+        {
+            "Message ID": 90584,
+            "discovered": "2024-10-29",
+            "post_title": "Title: U.S. Government Issues New TLP Guidance for Cross-Sector Threat Intelligence Sharing\n\nDate: Oct 29, 2024\n\nSource: https://thehackernews.com/2024/10/us-government-issues-new-tlp-guidance.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/us-government-issues-new-tlp-guidance.html"
             ]
         }
     ],
