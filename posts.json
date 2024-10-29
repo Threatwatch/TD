@@ -4139,6 +4139,52 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6057,
+            "discovered": "2024-10-29",
+            "post_title": "🚨🇺🇸FOG Ransomware Has Claimed Jordan Public Schools\n\nhttps://darkwebinformer.com/fog-ransomware-has-claimed-jordan-public-schools/\n\nThe group claims to have access to 11 GB of data belonging to the organization.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/fog-ransomware-has-claimed-jordan-public-schools/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6056,
+            "discovered": "2024-10-29",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6055,
+            "discovered": "2024-10-29",
+            "post_title": "🚨🇮🇩A Threat Actor has Allegedly Leaked the Database of PT PETROLAB SERVICES\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-pt-petrolab-services/\n\nA threat actor claims to have leaked the database of PT PETROLAB SERVICES, revealing compromised data that includes customer IDs, full names, addresses, and other sensitive information.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-database-of-pt-petrolab-services/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6054,
+            "discovered": "2024-10-29",
+            "post_title": "🚨🇰🇷music Allegedly Leaked Data of Brandi\n\nhttps://darkwebinformer.com/music-allegedly-leaked-data-of-brandi/\n\nA threat actor claims to have leaked data from Brandi, a South Korean shopping website. The exposed information reportedly includes usernames, passwords, emails, and more, with the breach dating back to August 2021.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/music-allegedly-leaked-data-of-brandi/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
