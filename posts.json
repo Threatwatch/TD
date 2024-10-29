@@ -25878,6 +25878,30 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18246"
             ]
+        },
+        {
+            "Message ID": 3939,
+            "discovered": "2024-10-29",
+            "post_title": "ID: 18251\n⚠ Tue, 29 Oct 2024 04:37:34 UTC\n🥷 dragonforce\n🎯 Accuracy International, UK\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18251",
+            "Attack Type": "Hacking",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18251"
+            ]
+        },
+        {
+            "Message ID": 3938,
+            "discovered": "2024-10-29",
+            "post_title": "ID: 18250\n⚠ Tue, 29 Oct 2024 04:39:37 UTC\n🥷 dragonforce\n🎯 Mastery Schools, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18250",
+            "Attack Type": "Hacking",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18250"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -41857,6 +41881,18 @@
             ],
             "URLs": [
                 "https://redalert.nshc.net/2024/10/29/monthly-threat-actor-group-intelligence-report-july-2024-jpn/"
+            ]
+        },
+        {
+            "Message ID": 90600,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Stolen car parts worth millions of euros recovered\n\nDate: October 29, 2024\n\nSource: https://www.europol.europa.eu/media-press/newsroom/news/stolen-car-parts-worth-millions-of-euros-recovered\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.europol.europa.eu/media-press/newsroom/news/stolen-car-parts-worth-millions-of-euros-recovered"
             ]
         }
     ],
