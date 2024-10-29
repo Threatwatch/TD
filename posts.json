@@ -4116,6 +4116,19 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-cngyno/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6052,
+            "discovered": "2024-10-29",
+            "post_title": "🚨🇸🇦DarkRaaS is Allegedly Selling Network Access to an Unidentified IT Company in Saudi Arabia\n\nhttps://darkwebinformer.com/darkraas-is-allegedly-selling-network-access-to-an-unidentified-it-company-in-saudi-arabia/\n\nA threat actor claims to be selling unauthorized access to the network of an undisclosed IT company based in Saudi Arabia.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Saudi Arabia",
+                "Saudi Arabia"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/darkraas-is-allegedly-selling-network-access-to-an-unidentified-it-company-in-saudi-arabia/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -42899,6 +42912,212 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 90691,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Risk reduction redefined: How compromise assessment helps strengthen cyberdefenses\n\nDate: October 29, 2024\n\nSource: https://securelist.com/compromise-assessment-cases/114332/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://securelist.com/compromise-assessment-cases/114332/"
+            ]
+        },
+        {
+            "Message ID": 90690,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Webflow tool increasingly exploited to compromise crypto wallets\n\nDate: October 29, 2024\n\nSource: https://www.scworld.com/brief/webflow-tool-increasingly-exploited-to-compromise-crypto-wallets\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/webflow-tool-increasingly-exploited-to-compromise-crypto-wallets"
+            ]
+        },
+        {
+            "Message ID": 90689,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Malicious npm packages spread BeaverTail malware\n\nDate: October 29, 2024\n\nSource: https://www.scworld.com/brief/malicious-npm-packages-spread-beavertail-malware\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/malicious-npm-packages-spread-beavertail-malware"
+            ]
+        },
+        {
+            "Message ID": 90688,
+            "discovered": "2024-10-29",
+            "post_title": "Title: New Russian malware campaign sets sights on Ukrainian conscripts\n\nDate: October 29, 2024\n\nSource: https://www.scworld.com/brief/new-russian-malware-campaign-sets-sights-on-ukrainian-conscripts\n\n#News #Russia #Ukraine",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Russia",
+                "Ukraine"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/new-russian-malware-campaign-sets-sights-on-ukrainian-conscripts"
+            ]
+        },
+        {
+            "Message ID": 90687,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Novel toolset leveraged by Chinese cyberespionage gang to target cloud data\n\nDate: October 29, 2024\n\nSource: https://www.scworld.com/brief/novel-toolset-leveraged-by-chinese-cyberespionage-gang-to-target-cloud-data\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/novel-toolset-leveraged-by-chinese-cyberespionage-gang-to-target-cloud-data"
+            ]
+        },
+        {
+            "Message ID": 90686,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Operation Magnus dismantles Redline, Meta infostealers\n\nDate: October 29, 2024\n\nSource: https://www.scworld.com/brief/operation-magnus-dismantles-redline-meta-infostealers\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Redline"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/operation-magnus-dismantles-redline-meta-infostealers"
+            ]
+        },
+        {
+            "Message ID": 90685,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Agentic AI: A New Way to Accelerate Your Security Operations\n\nDate: October 29, 2024\n\nSource: https://www.reliaquest.com/blog/agentic-ai-new-way-to-accelerate-security-operations/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.reliaquest.com/blog/agentic-ai-new-way-to-accelerate-security-operations/"
+            ]
+        },
+        {
+            "Message ID": 90684,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-7010\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-7010\n\nDescription: mudler/localai version 2.17.1 is vulnerable to a Timing Attack. This type of side-channel attack allows an attacker to compromise the cryptosystem by analyzing the time taken to execute cryptographic algorithms. Specifically, in the context of password handling, an attacker can determine valid login credentials based on the server's response time, potentially leading to unauthorized access.\n\nPublication Date: Tue Oct 29 17:10:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7010"
+            ]
+        },
+        {
+            "Message ID": 90683,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-7774\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-7774\n\nDescription: A path traversal vulnerability exists in the `getFullPath` method of langchain-ai/langchainjs version 0.2.5. This vulnerability allows attackers to save files anywhere in the filesystem, overwrite existing text files, read `.txt` files, and delete files. The vulnerability is exploited through the `setFileContent`, `getParsedFile`, and `mdelete` methods, which do not properly sanitize user input.\n\nPublication Date: Tue Oct 29 17:10:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7774"
+            ]
+        },
+        {
+            "Message ID": 90682,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-51075\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51075\n\nDescription: A Reflected Cross Site Scripting (XSS) vulnerability was found in /odms/admin/user-search.php in PHPGurukul Online DJ Booking Management System v1.0, which allows remote attackers to execute arbitrary code via the searchdata parameter.\n\nPublication Date: Tue Oct 29 17:10:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51075"
+            ]
+        },
+        {
+            "Message ID": 90681,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2022-46724\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-46724\n\nDescription: This issue was addressed by restricting options offered on a locked device. This issue is fixed in iOS 16.4 and iPadOS 16.4. A person with physical access to an iOS device may be able to view the last image used in Magnifier from the lock screen.\n\nPublication Date: Tue Oct 29 17:10:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Magnifier"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-46724"
+            ]
+        },
+        {
+            "Message ID": 90680,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-49637\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49637\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Foxskav Bet WC 2018 Russia allows Reflected XSS.This issue affects Bet WC 2018 Russia: from n/a through 2.1.\n\nPublication Date: Tue Oct 29 17:10:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Russia",
+                "Russia"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49637"
+            ]
+        },
+        {
+            "Message ID": 90679,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-6868\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-6868\n\nDescription: mudler/LocalAI version 2.17.1 allows for arbitrary file write due to improper handling of automatic archive extraction. When model configurations specify additional files as archives (e.g., .tar), these archives are automatically extracted after downloading. This behavior can be exploited to perform a 'tarslip' attack, allowing files to be written to arbitrary locations on the server, bypassing checks that normally restrict files to the models directory. This vulnerability can lead to remote code execution (RCE) by overwriting backend assets used by the server.\n\nPublication Date: Tue Oct 29 17:10:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-6868"
+            ]
+        },
+        {
+            "Message ID": 90678,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-7807\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-7807\n\nDescription: A vulnerability in gaizhenbiao/chuanhuchatgpt version 20240628 allows for a Denial of Service (DOS) attack. When uploading a file, if an attacker appends a large number of characters to the end of a multipart boundary, the system will continuously process each character, rendering ChuanhuChatGPT inaccessible. This uncontrolled resource consumption can lead to prolonged unavailability of the service, disrupting operations and causing potential data inaccessibility and loss of productivity.\n\nPublication Date: Tue Oct 29 17:09:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7807"
+            ]
+        },
+        {
+            "Message ID": 90677,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-7962\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-7962\n\nDescription: An arbitrary file read vulnerability exists in gaizhenbiao/chuanhuchatgpt version 20240628 due to insufficient validation when loading prompt template files. An attacker can read any file that matches specific criteria using an absolute path. The file must not have a .json extension and, except for the first line, every other line must contain commas. This vulnerability allows reading parts of format-compliant files, including code and log files, which may contain highly sensitive information such as account credentials.\n\nPublication Date: Tue Oct 29 17:09:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7962"
+            ]
+        },
+        {
+            "Message ID": 90676,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-6674\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-6674\n\nDescription: A CORS misconfiguration in parisneo/lollms-webui prior to version 10 allows attackers to steal sensitive information such as logs, browser sessions, and settings containing private API keys from other services. This vulnerability can also enable attackers to perform actions on behalf of a user, such as deleting a project or sending a message. The issue impacts the confidentiality and integrity of the information.\n\nPublication Date: Tue Oct 29 17:09:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-6674"
+            ]
+        },
+        {
+            "Message ID": 90675,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2022-42451\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-42451\n\nDescription: Certain credentials within the BigFix Patch Management Download Plug-ins are stored insecurely and could be exposed to a local privileged user.\n\nPublication Date: Tue Oct 29 17:09:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-42451"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
