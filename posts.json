@@ -23237,6 +23237,38 @@
             "URLs": [
                 "https://t.co/AGVPwkaRSZ"
             ]
+        },
+        {
+            "Message ID": 3365,
+            "discovered": "2024-10-29",
+            "post_title": "Group: FOG\nApprox. Time: 14:41 29/10/24\nTitle: Jordan Public Schools (https://t.co/HqYsEuFLUN)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/HqYsEuFLUN"
+            ]
+        },
+        {
+            "Message ID": 3364,
+            "discovered": "2024-10-29",
+            "post_title": "Group: ransomhouse\nApprox. Time: 14:40 29/10/24\nTitle: [DISCLOSED]Fursan Travel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3363,
+            "discovered": "2024-10-29",
+            "post_title": "Group: ransomhouse\nApprox. Time: 14:40 29/10/24\nTitle: [DISCLOSED]Universite Paris Sud",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -43118,6 +43150,16 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2022-42451"
             ]
+        },
+        {
+            "Message ID": 90692,
+            "discovered": "2024-10-29",
+            "post_title": "Victim: [DISCLOSED]Fursan Travel\n\nDetection Date: Tue Oct 29 17:44:59 2024\n\nThreat Actor: ransomhouse\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": []
