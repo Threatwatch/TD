@@ -41396,6 +41396,31 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-50078"
             ]
+        },
+        {
+            "Message ID": 90574,
+            "discovered": "2024-10-29",
+            "post_title": "Title: ISC Stormcast For Tuesday, October 29th, 2024 https://isc.sans.edu/podcastdetail/9200, (Tue, Oct 29th)\n\nDate: October 29, 2024\n\nSource: https://isc.sans.edu/diary/rss/31394\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/podcastdetail/9200",
+                "https://isc.sans.edu/diary/rss/31394"
+            ]
+        },
+        {
+            "Message ID": 90573,
+            "discovered": "2024-10-29",
+            "post_title": "Title: 2024-10-23 WarmCookie/BadSpace - APT TA866 - Samples\n\nDate: October 29, 2024\n\nSource: https://contagiodump.blogspot.com/2024/10/2024-10-23-warmcookiebadspace-apt-ta866.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://contagiodump.blogspot.com/2024/10/2024-10-23-warmcookiebadspace-apt-ta866.html"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
