@@ -41299,6 +41299,103 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-43885"
             ]
+        },
+        {
+            "Message ID": 90572,
+            "discovered": "2024-10-29",
+            "post_title": "Title: 2024-10-25 HeptaX - Unauthorized RDP Connections. Nalicious LNK. > Powershell > Bat files Samples\n\nDate: October 29, 2024\n\nSource: https://contagiodump.blogspot.com/2024/10/2024-10-25-heptax-unauthorized-rdp.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://contagiodump.blogspot.com/2024/10/2024-10-25-heptax-unauthorized-rdp.html"
+            ]
+        },
+        {
+            "Message ID": 90571,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-10479\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10479\n\nDescription: A vulnerability, which was classified as problematic, was found in LinZhaoguan pb-cms up to 2.0.1. Affected is an unknown function of the file /admin#themes of the component Theme Management Module. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Tue Oct 29 06:08:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10479"
+            ]
+        },
+        {
+            "Message ID": 90570,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-22065\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-22065\n\nDescription: There is a command injection vulnerability in ZTE MF258 Pro product. Due to insufficient validation of Ping Diagnosis interface parameter, an authenticated attacker could use the vulnerability to execute arbitrary commands.\n\nPublication Date: Tue Oct 29 06:08:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-22065"
+            ]
+        },
+        {
+            "Message ID": 90569,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50074\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50074\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nparport: Proper fix for array out-of-bounds access\n\nThe recent fix for array out-of-bounds accesses replaced sprintf()\ncalls blindly with snprintf().  However, since snprintf() returns the\nwould-be-printed size, not the actually output size, the length\ncalculation can still go over the given limit.\n\nUse scnprintf() instead of snprintf(), which returns the actually\noutput letters, for addressing the potential out-of-bounds access\nproperly.\n\nPublication Date: Tue Oct 29 05:57:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50074"
+            ]
+        },
+        {
+            "Message ID": 90568,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50075\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50075\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nxhci: tegra: fix checked USB2 port number\n\nIf USB virtualizatoin is enabled, USB2 ports are shared between all\nVirtual Functions. The USB2 port number owned by an USB2 root hub in\na Virtual Function may be less than total USB2 phy number supported\nby the Tegra XUSB controller.\n\nUsing total USB2 phy number as port number to check all PORTSC values\nwould cause invalid memory access.\n\n[  116.923438] Unable to handle kernel paging request at virtual address 006c622f7665642f\n...\n[  117.213640] Call trace:\n[  117.216783]  tegra_xusb_enter_elpg+0x23c/0x658\n[  117.222021]  tegra_xusb_runtime_suspend+0x40/0x68\n[  117.227260]  pm_generic_runtime_suspend+0x30/0x50\n[  117.232847]  __rpm_callback+0x84/0x3c0\n[  117.237038]  rpm_suspend+0x2dc/0x740\n[  117.241229] pm_runtime_work+0xa0/0xb8\n[  117.245769]  process_scheduled_works+0x24c/0x478\n[  117.251007]  worker_thread+0x23c/0x328\n[  117.255547]  kthread+0x104/0x1b0\n[  117.259389]  ret_from_fork+0x10/0x20\n[  117.263582] Code: 54000222 f9461ae8 f8747908 b4ffff48 (f9400100)\n\nPublication Date: Tue Oct 29 05:57:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50075"
+            ]
+        },
+        {
+            "Message ID": 90567,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50076\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50076\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nvt: prevent kernel-infoleak in con_font_get()\n\nfont.data may not initialize all memory spaces depending on the implementation\nof vc->vc_sw->con_font_get. This may cause info-leak, so to prevent this, it\nis safest to modify it to initialize the allocated memory space to 0, and it\ngenerally does not affect the overall performance of the system.\n\nPublication Date: Tue Oct 29 05:57:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50076",
+                "font.data"
+            ]
+        },
+        {
+            "Message ID": 90566,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50077\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50077\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nBluetooth: ISO: Fix multiple init when debugfs is disabled\n\nIf bt_debugfs is not created successfully, which happens if either\nCONFIG_DEBUG_FS or CONFIG_DEBUG_FS_ALLOW_ALL is unset, then iso_init()\nreturns early and does not set iso_inited to true. This means that a\nsubsequent call to iso_init() will result in duplicate calls to\nproto_register(), bt_sock_register(), etc.\n\nWith CONFIG_LIST_HARDENED and CONFIG_BUG_ON_DATA_CORRUPTION enabled, the\nduplicate call to proto_register() triggers this BUG():\n\n  list_add double add: new=ffffffffc0b280d0, prev=ffffffffbab56250,\n    next=ffffffffc0b280d0.\n  ------------[ cut here ]------------\n  kernel BUG at lib/list_debug.c:35!\n  Oops: invalid opcode: 0000 [#1] PREEMPT SMP PTI\n  CPU: 2 PID: 887 Comm: bluetoothd Not tainted 6.10.11-1-ao-desktop #1\n  RIP: 0010:__list_add_valid_or_report+0x9a/0xa0\n  ...\n    __list_add_valid_or_report+0x9a/0xa0\n    proto_register+0x2b5/0x340\n    iso_init+0x23/0x150 [bluetooth]\n    set_iso_socket_func+0x68/0x1b0 [bluetooth]\n    kmem_cache_free+0x308/0x330\n    hci_sock_sendmsg+0x990/0x9e0 [bluetooth]\n    __sock_sendmsg+0x7b/0x80\n    sock_write_iter+0x9a/0x110\n    do_iter_readv_writev+0x11d/0x220\n    vfs_writev+0x180/0x3e0\n    do_writev+0xca/0x100\n  ...\n\nThis change removes the early return. The check for iso_debugfs being\nNULL was unnecessary, it is always NULL when iso_inited is false.\n\nPublication Date: Tue Oct 29 05:56:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50077"
+            ]
+        },
+        {
+            "Message ID": 90565,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50078\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50078\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nBluetooth: Call iso_exit() on module unload\n\nIf iso_init() has been called, iso_exit() must be called on module\nunload. Without that, the struct proto that iso_init() registered with\nproto_register() becomes invalid, which could cause unpredictable\nproblems later. In my case, with CONFIG_LIST_HARDENED and\nCONFIG_BUG_ON_DATA_CORRUPTION enabled, loading the module again usually\ntriggers this BUG():\n\n  list_add corruption. next->prev should be prev (ffffffffb5355fd0),\n    but was 0000000000000068. (next=ffffffffc0a010d0).\n  ------------[ cut here ]------------\n  kernel BUG at lib/list_debug.c:29!\n  Oops: invalid opcode: 0000 [#1] PREEMPT SMP PTI\n  CPU: 1 PID: 4159 Comm: modprobe Not tainted 6.10.11-4+bt2-ao-desktop #1\n  RIP: 0010:__list_add_valid_or_report+0x61/0xa0\n  ...\n    __list_add_valid_or_report+0x61/0xa0\n    proto_register+0x299/0x320\n    hci_sock_init+0x16/0xc0 [bluetooth]\n    bt_init+0x68/0xd0 [bluetooth]\n    __pfx_bt_init+0x10/0x10 [bluetooth]\n    do_one_initcall+0x80/0x2f0\n    do_init_module+0x8b/0x230\n    __do_sys_init_module+0x15f/0x190\n    do_syscall_64+0x68/0x110\n  ...\n\nPublication Date: Tue Oct 29 05:56:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50078"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
