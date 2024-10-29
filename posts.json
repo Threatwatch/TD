@@ -4245,6 +4245,26 @@
             "URLs": [
                 "s://darkwebinformer.com/hikki-chan-has-allegedly-leaked-the-database-of-fryp/\n\nA "
             ]
+        },
+        {
+            "Message ID": 6064,
+            "discovered": "2024-10-29",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6063,
+            "discovered": "2024-10-29",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -23408,6 +23428,40 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3368,
+            "discovered": "2024-10-29",
+            "post_title": "Group: arcusmedia\nApprox. Time: 16:35 29/10/24\nTitle: Surfnet Communications",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3367,
+            "discovered": "2024-10-29",
+            "post_title": "Group: abyss\nApprox. Time: 16:35 29/10/24\nTitle: https://t.co/4912rflijA",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/4912rflijA"
+            ]
+        },
+        {
+            "Message ID": 3366,
+            "discovered": "2024-10-29",
+            "post_title": "Group: abyss\nApprox. Time: 16:35 29/10/24\nTitle: https://t.co/YZwgFVebvz.auh",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/YZwgFVebvz.auh"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -26189,6 +26243,32 @@
             ],
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18253"
+            ]
+        },
+        {
+            "Message ID": 3942,
+            "discovered": "2024-10-29",
+            "post_title": "ID: 18256\n⚠ Tue, 29 Oct 2024 12:21:55 UTC\n🥷 blacksuit\n🎯 nathcompanies.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18256",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "thcompanies.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18256"
+            ]
+        },
+        {
+            "Message ID": 3941,
+            "discovered": "2024-10-29",
+            "post_title": "ID: 18255\n⚠ Tue, 29 Oct 2024 12:23:46 UTC\n🥷 fog\n🎯 Sage Automotive Interior (sageautomotiveinteriors.com), USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18255",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "geautomotiveinteriors.com),",
+                "somfeed.it/index.php?page=post_details&id_post=18255"
             ]
         }
     ],
