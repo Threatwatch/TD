@@ -4610,6 +4610,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/anonymous-muslims-targeted-the-website-of-astronautics-c-a-ltd/"
             ]
+        },
+        {
+            "Message ID": 6098,
+            "discovered": "2024-10-29",
+            "post_title": "🚨🇲🇽A Threat Actor is Allegedly Selling Server Access of Mi Consulado\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-server-access-of-mi-consulado/\n\nA threat actor is offering to sell server and database access to Mi Consulado, part of the Ministry of Foreign Affairs. The access reportedly includes full server and database permissions up until 2023.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-server-access-of-mi-consulado/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6097,
+            "discovered": "2024-10-29",
+            "post_title": "🚨🇺🇸BayMark Health Services Has Been Claimed a Victim to RansomHub Ransomware\n\nhttps://darkwebinformer.com/baymark-health-services-has-been-claimed-a-victim-to-ransomhub-ransomware/\n\nThe group claims to have acquired 1.5 TB of the organization’s data and plans to publish it within 36-37 days.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/baymark-health-services-has-been-claimed-a-victim-to-ransomhub-ransomware/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -26876,6 +26900,56 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18258"
             ]
+        },
+        {
+            "Message ID": 3953,
+            "discovered": "2024-10-29",
+            "post_title": "ID: 18267\n⚠ Tue, 29 Oct 2024 17:25:31 UTC\n🥷 blackbasta\n🎯 rosenlegal.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18267",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "senlegal.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18267"
+            ]
+        },
+        {
+            "Message ID": 3952,
+            "discovered": "2024-10-29",
+            "post_title": "ID: 18266\n⚠ Tue, 29 Oct 2024 17:22:25 UTC\n🥷 blackbasta\n🎯 weberpackaging.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18266",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "berpackaging.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18266"
+            ]
+        },
+        {
+            "Message ID": 3951,
+            "discovered": "2024-10-29",
+            "post_title": "ID: 18265\n⚠ Tue, 29 Oct 2024 17:18:26 UTC\n🥷 abyss\n🎯 anhf.org.auh, Australia\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18265",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Australia"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18265"
+            ]
+        },
+        {
+            "Message ID": 3950,
+            "discovered": "2024-10-29",
+            "post_title": "ID: 18264\n⚠ Tue, 29 Oct 2024 17:19:12 UTC\n🥷 arcusmedia\n🎯 Surfnet Communications, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18264",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18264"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -45121,6 +45195,224 @@
             ],
             "URLs": [
                 "www.baymark.com"
+            ]
+        },
+        {
+            "Message ID": 90804,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-8598\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8598\n\nDescription: A maliciously crafted STP file when parsed in ACTranslators.exe through Autodesk AutoCAD can force a Memory Corruption vulnerability. A malicious actor can leverage this vulnerability to cause a crash, write sensitive data, or execute arbitrary code in the context of the current process.\n\nPublication Date: Wed Oct 30 01:15:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8598"
+            ]
+        },
+        {
+            "Message ID": 90803,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-8599\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8599\n\nDescription: A maliciously crafted STP file when parsed in ACTranslators.exe through Autodesk AutoCAD can force a Memory Corruption vulnerability. A malicious actor can leverage this vulnerability to cause a crash, write sensitive data, or execute arbitrary code in the context of the current process.\n\nPublication Date: Wed Oct 30 01:15:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8599"
+            ]
+        },
+        {
+            "Message ID": 90802,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-8600\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8600\n\nDescription: A maliciously crafted SLDPRT file when parsed in odxsw_dll.dll through Autodesk AutoCAD can force a Memory Corruption vulnerability.  A malicious actor can leverage this vulnerability to cause a crash, write sensitive data, or execute arbitrary code in the context of the current process.\n\nPublication Date: Wed Oct 30 01:15:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8600"
+            ]
+        },
+        {
+            "Message ID": 90801,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-9826\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9826\n\nDescription: A maliciously crafted 3DM file when parsed in atf_api.dll through Autodesk AutoCAD can force a Use-After-Free vulnerability. A malicious actor can leverage this vulnerability to cause a crash, write sensitive data, or execute arbitrary code in the context of the current process.\n\nPublication Date: Wed Oct 30 01:14:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9826"
+            ]
+        },
+        {
+            "Message ID": 90800,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-9827\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9827\n\nDescription: A maliciously crafted CATPART file when parsed in CC5Dll.dll through Autodesk AutoCAD can force an Out-of-Bounds Read vulnerability.  A malicious actor can leverage this vulnerability to cause a crash, read sensitive data, or execute arbitrary code in the context of the current process.\n\nPublication Date: Wed Oct 30 01:14:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9827"
+            ]
+        },
+        {
+            "Message ID": 90799,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-48206\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48206\n\nDescription: A Deserialization of Untrusted Data vulnerability in chainer v7.8.1.post1 leads to execution of arbitrary code.\n\nPublication Date: Wed Oct 30 01:03:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48206"
+            ]
+        },
+        {
+            "Message ID": 90798,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50455\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50455\n\nDescription: Missing Authorization vulnerability in The SEO Guys at SEOPress SEOPress allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects SEOPress: from n/a through 8.1.1.\n\nPublication Date: Wed Oct 30 01:03:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50455"
+            ]
+        },
+        {
+            "Message ID": 90797,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50456\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50456\n\nDescription: Missing Authorization vulnerability in The SEO Guys at SEOPress SEOPress allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects SEOPress: from n/a through 8.1.1.\n\nPublication Date: Wed Oct 30 01:03:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50456"
+            ]
+        },
+        {
+            "Message ID": 90796,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-8587\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8587\n\nDescription: A maliciously crafted SLDPRT file when parsed in odxsw_dll.dll through Autodesk AutoCAD can force a Heap Based Buffer Overflow vulnerability.  A malicious actor can leverage this vulnerability to cause a crash, write sensitive data, or execute arbitrary code in the context of the current process.\n\nPublication Date: Wed Oct 30 01:02:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8587"
+            ]
+        },
+        {
+            "Message ID": 90795,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-10228\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10228\n\nDescription: The Vagrant VMWare Utility Windows installer targeted a custom location with a non-protected path that could be modified by an unprivileged user, introducing potential for unauthorized file system writes. This vulnerability, CVE-2024-10228, was fixed in Vagrant VMWare Utility 1.0.23\n\nPublication Date: Wed Oct 30 01:02:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10228"
+            ]
+        },
+        {
+            "Message ID": 90794,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50425\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50425\n\nDescription: Exposure of Sensitive System Information to an Unauthorized Control Sphere vulnerability in Veribo, Roland Murg WP Booking System.This issue affects WP Booking System: from n/a through 2.0.19.10.\n\nPublication Date: Wed Oct 30 01:02:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Veribo"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50425",
+                "2.0.19.10"
+            ]
+        },
+        {
+            "Message ID": 90793,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50424\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50424\n\nDescription: Missing Authorization vulnerability in Templately allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Templately: from n/a through 3.1.5.\n\nPublication Date: Wed Oct 30 01:02:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50424"
+            ]
+        },
+        {
+            "Message ID": 90792,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50423\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50423\n\nDescription: Missing Authorization vulnerability in Templately allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Templately: from n/a through 3.1.5.\n\nPublication Date: Wed Oct 30 01:02:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50423"
+            ]
+        },
+        {
+            "Message ID": 90791,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-48573\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48573\n\nDescription: A NoSQL injection vulnerability in AquilaCMS 1.409.20 and prior allows unauthenticated attackers to reset user and administrator account passwords via the \"Reset password\" feature.\n\nPublication Date: Wed Oct 30 01:02:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "NoSQL"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48573"
+            ]
+        },
+        {
+            "Message ID": 90790,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-48572\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48572\n\nDescription: A User enumeration vulnerability in AquilaCMS 1.409.20 and prior allows unauthenticated attackers to obtain email addresses via the \"Add a user\" feature. The vulnerability occurs due to insufficiently validated user input being processed as a regular expression, which is then matched against email addresses to find duplicate entries.\n\nPublication Date: Wed Oct 30 01:01:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48572"
+            ]
+        },
+        {
+            "Message ID": 90789,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50422\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50422\n\nDescription: Missing Authorization vulnerability in Cloudways Breeze allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Breeze: from n/a through 2.1.14.\n\nPublication Date: Wed Oct 30 01:01:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50422"
+            ]
+        },
+        {
+            "Message ID": 90788,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50421\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50421\n\nDescription: Missing Authorization vulnerability in WP Overnight WooCommerce PDF Invoices & Packing Slips allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects WooCommerce PDF Invoices & Packing Slips: from n/a through 3.8.6.\n\nPublication Date: Wed Oct 30 01:01:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "WP",
+                "3.8.6"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50421"
+            ]
+        },
+        {
+            "Message ID": 90787,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-8592\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8592\n\nDescription: A maliciously crafted CATPART file when parsed in AcTranslators.exe through Autodesk AutoCAD can force a Memory Corruption vulnerability.  A malicious actor can leverage this vulnerability to cause a crash, write sensitive data, or execute arbitrary code in the context of the current process.\n\nPublication Date: Wed Oct 30 01:01:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "AcTranslators.exe"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8592"
             ]
         }
     ],
