@@ -4548,6 +4548,36 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-judicial-branch-of-the-state-of-oaxaca/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6093,
+            "discovered": "2024-10-29",
+            "post_title": "The message in the 2nd screenshot reads as follows. Looks like affiliation with STORMOUS Ransomware.\n\nDragon 1.0\n\nOops, All Your File have been Encrypted!\n\nATTENTION:\n\nYour files have been encrypted\nTo decrypt them, you are required to pay $300\nIf you do not pay within the given timeframe, the ransom will increase to $600\nPlease follow the instructions below to proceed with the payment:\nPayment must be made in Bitcoin (BTC) to the following address:\n1D2x3w6F8dy87t8UnWkwR9nPO14JW9btvSA\n\nAfter payment, use the decryption tool provided by us to decrypt your files\n\nContact us via Telegram bot at: https://t[.]me/StormiousBot\nFailure to comply will result in permanent loss of your data",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6092,
+            "discovered": "2024-10-29",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6091,
+            "discovered": "2024-10-29",
+            "post_title": "🚨Introducing: Dragon Ransomware\n\nhttps://t[.]me/DragonRansom",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -26737,6 +26767,83 @@
                 "tps://www.jordan.k12.mn.us/),",
                 "somfeed.it/index.php?page=post_details&id_post=18257"
             ]
+        },
+        {
+            "Message ID": 3949,
+            "discovered": "2024-10-29",
+            "post_title": "ID: 18263\n⚠ Tue, 29 Oct 2024 15:49:16 UTC\n🥷 apt73\n🎯 www.trinitesolutions.com, Canada\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18263",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Canada"
+            ],
+            "URLs": [
+                "w.trinitesolutions.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18263"
+            ]
+        },
+        {
+            "Message ID": 3948,
+            "discovered": "2024-10-29",
+            "post_title": "ID: 18262\n⚠ Tue, 29 Oct 2024 15:46:16 UTC\n🥷 apt73\n🎯 www.scopeset.de, Germany\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18262",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Germany"
+            ],
+            "URLs": [
+                "w.scopeset.de, ",
+                "somfeed.it/index.php?page=post_details&id_post=18262"
+            ]
+        },
+        {
+            "Message ID": 3947,
+            "discovered": "2024-10-29",
+            "post_title": "ID: 18261\n⚠ Tue, 29 Oct 2024 15:43:17 UTC\n🥷 apt73\n🎯 sokkakreatif.com, Indonesia\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18261",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "kkakreatif.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18261"
+            ]
+        },
+        {
+            "Message ID": 3946,
+            "discovered": "2024-10-29",
+            "post_title": "ID: 18260\n⚠ Tue, 29 Oct 2024 15:40:17 UTC\n🥷 apt73\n🎯 www.legilog.fr, France\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18260",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "w.legilog.fr, ",
+                "somfeed.it/index.php?page=post_details&id_post=18260"
+            ]
+        },
+        {
+            "Message ID": 3945,
+            "discovered": "2024-10-29",
+            "post_title": "ID: 18259\n⚠ Tue, 29 Oct 2024 15:37:57 UTC\n🥷 abyss\n🎯 projektalp.ch, Switzerland\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18259",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Switzerland"
+            ],
+            "URLs": [
+                "ojektalp.ch, ",
+                "somfeed.it/index.php?page=post_details&id_post=18259"
+            ]
+        },
+        {
+            "Message ID": 3944,
+            "discovered": "2024-10-29",
+            "post_title": "ID: 18258\n⚠ Tue, 29 Oct 2024 18:35:59 UTC\n🥷 bianlian\n🎯 CLAS Information Services, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18258",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18258"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -44850,6 +44957,114 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/new-windows-themes-zero-day-gets-free-unofficial-patches/"
+            ]
+        },
+        {
+            "Message ID": 90784,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-44069\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44069\n\nDescription: Pi-hole before 6 allows unauthenticated admin/api.php?setTempUnit= calls to change the temperature units of the web dashboard. NOTE: the supplier reportedly does \"not consider the bug a security issue\" but the specific motivation for letting arbitrary persons change the value (Celsius, Fahrenheit, or Kelvin), seen by the device owner, is unclear.\n\nPublication Date: Wed Oct 30 00:03:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Fahrenheit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44069"
+            ]
+        },
+        {
+            "Message ID": 90783,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-44236\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44236\n\nDescription: An out-of-bounds access issue was addressed with improved bounds checking. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. Processing a maliciously crafted file may lead to unexpected app termination.\n\nPublication Date: Wed Oct 30 00:03:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44236"
+            ]
+        },
+        {
+            "Message ID": 90782,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-34230\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34230\n\nDescription: A cross-site scripting (XSS) vulnerability in Sourcecodester Laboratory Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the System Information parameter.\n\nPublication Date: Wed Oct 30 00:03:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34230"
+            ]
+        },
+        {
+            "Message ID": 90781,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-44261\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44261\n\nDescription: This issue was addressed by restricting options offered on a locked device. This issue is fixed in iOS 17.7.1 and iPadOS 17.7.1, iOS 18.1 and iPadOS 18.1. An attacker may be able to view restricted content from the lock screen.\n\nPublication Date: Wed Oct 30 00:03:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44261"
+            ]
+        },
+        {
+            "Message ID": 90780,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-30132\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-30132\n\nDescription: HCL Nomad server on Domino did not configure certain HTTP Security headers by default which could allow an attacker to obtain sensitive information via unspecified vectors.\n\nPublication Date: Wed Oct 30 00:02:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-30132"
+            ]
+        },
+        {
+            "Message ID": 90779,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-44277\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44277\n\nDescription: The issue was addressed with improved memory handling. This issue is fixed in iOS 18.1 and iPadOS 18.1, visionOS 2.1, tvOS 18.1. An app may be able to cause unexpected system termination or corrupt kernel memory.\n\nPublication Date: Wed Oct 30 00:02:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44277"
+            ]
+        },
+        {
+            "Message ID": 90778,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-48461\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48461\n\nDescription: Cross Site Scripting vulnerability in TeslaLogger Admin Panel before v.1.59.6 allows a remote attacker to execute arbitrary code via the New Journey field.\n\nPublication Date: Wed Oct 30 00:02:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "New Journey"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48461"
+            ]
+        },
+        {
+            "Message ID": 90777,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-48448\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48448\n\nDescription: An arbitrary file upload vulnerability in Huly Platform v0.6.295 allows attackers to execute arbitrary code via uploading a crafted HTML file into the tracker comments page.\n\nPublication Date: Wed Oct 30 00:02:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48448"
+            ]
+        },
+        {
+            "Message ID": 90776,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-44144\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44144\n\nDescription: A buffer overflow was addressed with improved size validation. This issue is fixed in iOS 17.7.1 and iPadOS 17.7.1, macOS Sequoia 15, macOS Sonoma 14.7.1, tvOS 18, watchOS 11, visionOS 2, iOS 18 and iPadOS 18. Processing a maliciously crafted file may lead to unexpected app termination.\n\nPublication Date: Wed Oct 30 00:02:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44144"
             ]
         }
     ],
