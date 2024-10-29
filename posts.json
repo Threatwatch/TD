@@ -10845,6 +10845,16 @@
                 "Japan"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1204,
+            "discovered": "2024-10-29",
+            "post_title": "🚨Cyberattack Alert ‼️\n\n🇮🇳India - Fortis Healthcare\n\nKill Security hacking group claims to have breached Fortis Healthcare. Allegedly, exfiltrated data include names, dates of birth, addresses, patient IDs, contact numbers, financial statements, health records, medical prescriptions, CT scans, MRI images, ultrasound scans, and specific treatment notes. \n\nRansom deadline: 05th Nov 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
