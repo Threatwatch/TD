@@ -4265,6 +4265,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6065,
+            "discovered": "2024-10-29",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -43788,6 +43798,26 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2022-4926"
             ]
+        },
+        {
+            "Message ID": 90727,
+            "discovered": "2024-10-29",
+            "post_title": "Victim: Berridge Manufacturing Co.\n\nDetection Date: Tue Oct 29 19:49:27 2024\n\nThreat Actor: brain cipher\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 90726,
+            "discovered": "2024-10-29",
+            "post_title": "Victim: Surfnet Communications\n\nDetection Date: Tue Oct 29 19:49:14 2024\n\nThreat Actor: arcus media\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": []
