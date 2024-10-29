@@ -4275,6 +4275,36 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6068,
+            "discovered": "2024-10-29",
+            "post_title": "Someone said I'm fucking around with Photoshop or something.. that's not the case this is real and have known about it for several days.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6067,
+            "discovered": "2024-10-29",
+            "post_title": "💡OK, I was told this XSS exploit can only be done as a privileged/trusted user and cannot be manipulated outside of that.\n\nMaybe someone that has more brains than me can make this go further in their own environment.. if so and you want to responsibly disclose to me that would be cool. If you do find something and don't disclose to me then well you have a 0-day.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6066,
+            "discovered": "2024-10-29",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -43818,6 +43848,248 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 90747,
+            "discovered": "2024-10-29",
+            "post_title": "Title: UN cybercrime convention will ‘legitimize’ authoritarian nations’ cyber behavior, senators warn\n\nDate: October 29, 2024\n\nSource: https://www.nextgov.com/cybersecurity/2024/10/un-cybercrime-convention-will-legitimize-authoritarian-nations-cyber-behavior-senators-warn/400638/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.nextgov.com/cybersecurity/2024/10/un-cybercrime-convention-will-legitimize-authoritarian-nations-cyber-behavior-senators-warn/400638/"
+            ]
+        },
+        {
+            "Message ID": 90746,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2022-20703\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-20703\n\nDescription: Multiple vulnerabilities in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers could allow an attacker to do any of the following: Execute arbitrary code Elevate privileges Execute arbitrary commands Bypass authentication and authorization protections Fetch and run unsigned software Cause denial of service (DoS) For more information about these vulnerabilities, see the Details section of this advisory.\n\nPublication Date: Tue Oct 29 20:15:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-20703"
+            ]
+        },
+        {
+            "Message ID": 90745,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2023-34139\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34139\n\nDescription: A command injection vulnerability in the Free Time WiFi hotspot feature of the Zyxel USG FLEX series firmware versions 4.50 through 5.36 Patch 2 and VPN series firmware versions 4.20 through 5.36 Patch 2, could allow an unauthenticated, LAN-based attacker to execute some OS commands on an affected device.\n\nPublication Date: Tue Oct 29 20:15:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34139"
+            ]
+        },
+        {
+            "Message ID": 90744,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2022-20708\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-20708\n\nDescription: Multiple vulnerabilities in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers could allow an attacker to do any of the following: Execute arbitrary code Elevate privileges Execute arbitrary commands Bypass authentication and authorization protections Fetch and run unsigned software Cause denial of service (DoS) For more information about these vulnerabilities, see the Details section of this advisory.\n\nPublication Date: Tue Oct 29 20:15:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-20708"
+            ]
+        },
+        {
+            "Message ID": 90743,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2019-25219\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2019-25219\n\nDescription: Asio C++ Library before 1.13.0 lacks a fallback error code in the case of SSL_ERROR_SYSCALL with no associated error information from the SSL library being used.\n\nPublication Date: Tue Oct 29 20:14:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2019-25219"
+            ]
+        },
+        {
+            "Message ID": 90742,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-49984\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49984\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/v3d: Prevent out of bounds access in performance query extensions\n\nCheck that the number of perfmons userspace is passing in the copy and\nreset extensions is not greater than the internal kernel storage where\nthe ids will be copied into.\n\nPublication Date: Tue Oct 29 20:14:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49984"
+            ]
+        },
+        {
+            "Message ID": 90741,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-8923\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8923\n\nDescription: ServiceNow has addressed an input validation vulnerability that was identified in the Now Platform. This vulnerability could enable an unauthenticated user to remotely execute code within the context of the Now Platform. ServiceNow deployed an update to hosted instances and ServiceNow provided the update to our partners and self-hosted customers. Further, the vulnerability is addressed in the listed patches and hot fixes.\n\nPublication Date: Tue Oct 29 20:14:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8923"
+            ]
+        },
+        {
+            "Message ID": 90740,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-49983\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49983\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\next4: drop ppath from ext4_ext_replay_update_ex() to avoid double-free\n\nWhen calling ext4_force_split_extent_at() in ext4_ext_replay_update_ex(),\nthe 'ppath' is updated but it is the 'path' that is freed, thus potentially\ntriggering a double-free in the following process:\n\next4_ext_replay_update_ex\n  ppath = path\n  ext4_force_split_extent_at(&ppath)\n    ext4_split_extent_at\n      ext4_ext_insert_extent\n        ext4_ext_create_new_leaf\n          ext4_ext_grow_indepth\n            ext4_find_extent\n              if (depth > path[0].p_maxdepth)\n                kfree(path)                 ---> path First freed\n                *orig_path = path = NULL    ---> null ppath\n  kfree(path)                               ---> path double-free !!!\n\nSo drop the unnecessary ppath and use path directly to avoid this problem.\nAnd use ext4_find_extent() directly to update path, avoiding unnecessary\nmemory allocation and freeing. Also, propagate the error returned by\next4_find_extent() instead of using strange error codes.\n\nPublication Date: Tue Oct 29 20:14:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49983"
+            ]
+        },
+        {
+            "Message ID": 90739,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-43838\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43838\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nbpf: fix overflow check in adjust_jmp_off()\n\nadjust_jmp_off() incorrectly used the insn->imm field for all overflow check,\nwhich is incorrect as that should only be done or the BPF_JMP32 | BPF_JA case,\nnot the general jump instruction case. Fix it by using insn->off for overflow\ncheck in the general case.\n\nPublication Date: Tue Oct 29 20:14:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43838"
+            ]
+        },
+        {
+            "Message ID": 90738,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50463\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50463\n\nDescription: URL Redirection to Untrusted Site ('Open Redirect') vulnerability in WP Sunshine Sunshine Photo Cart.This issue affects Sunshine Photo Cart: from n/a through 3.2.9.\n\nPublication Date: Tue Oct 29 20:14:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50463"
+            ]
+        },
+        {
+            "Message ID": 90737,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-43840\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43840\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nbpf, arm64: Fix trampoline for BPF_TRAMP_F_CALL_ORIG\n\nWhen BPF_TRAMP_F_CALL_ORIG is set, the trampoline calls\n__bpf_tramp_enter() and __bpf_tramp_exit() functions, passing them\nthe struct bpf_tramp_image *im pointer as an argument in R0.\n\nThe trampoline generation code uses emit_addr_mov_i64() to emit\ninstructions for moving the bpf_tramp_image address into R0, but\nemit_addr_mov_i64() assumes the address to be in the vmalloc() space\nand uses only 48 bits. Because bpf_tramp_image is allocated using\nkzalloc(), its address can use more than 48-bits, in this case the\ntrampoline will pass an invalid address to __bpf_tramp_enter/exit()\ncausing a kernel crash.\n\nFix this by using emit_a64_mov_i64() in place of emit_addr_mov_i64()\nas it can work with addresses that are greater than 48-bits.\n\nPublication Date: Tue Oct 29 20:13:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "R0",
+                "R0"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43840"
+            ]
+        },
+        {
+            "Message ID": 90736,
+            "discovered": "2024-10-29",
+            "post_title": "Vulnerability ID: CVE-2024-47883\n\nDescription: The OpenRefine fork of the MIT Simile Butterfly server is a modular web application framework. The Butterfly framework uses the `java.net.URL` class to refer to (what are expected to be) local resource files, like images or templates. This works: \"opening a connection\" to these URLs opens the local file. However, prior to version 1.2.6, if a `file:/` URL is directly given where a relative path (resource name) is expected, this is also accepted in some code paths; the app then fetches the file, from a remote machine if indicated, and uses it as if it was a trusted part of the app's codebase. This leads to multiple weaknesses and potential weaknesses. An attacker that has network access to the application could use it to gain access to files, either on the the server's filesystem (path traversal) or shared by nearby machines (server-side request forgery with e.g. SMB). An attacker that can lead or redirect a user to a crafted URL belonging to the app could cause arbitrary attacker-controlled JavaScript to be loaded in the victim's browser (cross-site scripting). If an app is written in such a way that an attacker can influence the resource name used for a template, that attacker could cause the app to fetch and execute an attacker-controlled template (remote code execution). Version 1.2.6 contains a patch.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-47883\n\nDate of Publishing: 2024/10/29\n\nLink to Exploit: https://github.com/OpenRefine/simile-butterfly/security/advisories/GHSA-3p8v-w8mr-m3x8\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47883",
+                "https://github.com/OpenRefine/simile-butterfly/security/advisories/GHSA-3p8v-w8mr-m3x8"
+            ]
+        },
+        {
+            "Message ID": 90735,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-43841\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43841\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: virt_wifi: avoid reporting connection success with wrong SSID\n\nWhen user issues a connection with a different SSID than the one\nvirt_wifi has advertised, the __cfg80211_connect_result() will\ntrigger the warning: WARN_ON(bss_not_found).\n\nThe issue is because the connection code in virt_wifi does not\ncheck the SSID from user space (it only checks the BSSID), and\nvirt_wifi will call cfg80211_connect_result() with WLAN_STATUS_SUCCESS\neven if the SSID is different from the one virt_wifi has advertised.\nEventually cfg80211 won't be able to find the cfg80211_bss and generate\nthe warning.\n\nFixed it by checking the SSID (from user space) in the connection code.\n\nPublication Date: Tue Oct 29 20:02:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43841"
+            ]
+        },
+        {
+            "Message ID": 90734,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-43843\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43843\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nriscv, bpf: Fix out-of-bounds issue when preparing trampoline image\n\nWe get the size of the trampoline image during the dry run phase and\nallocate memory based on that size. The allocated image will then be\npopulated with instructions during the real patch phase. But after\ncommit 26ef208c209a (\"bpf: Use arch_bpf_trampoline_size\"), the `im`\nargument is inconsistent in the dry run and real patch phase. This may\ncause emit_imm in RV64 to generate a different number of instructions\nwhen generating the 'im' address, potentially causing out-of-bounds\nissues. Let's emit the maximum number of instructions for the \"im\"\naddress during dry run to fix this problem.\n\nPublication Date: Tue Oct 29 20:02:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43843"
+            ]
+        },
+        {
+            "Message ID": 90733,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2023-7047\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-7047\n\nDescription: Inadequate validation of permissions when employing remote tools and \nmacros via the context menu within Devolutions Remote Desktop Manager versions 2023.3.31 and \nearlier permits a user to initiate a connection without proper execution\n rights via the remote tools feature. This affects only SQL data sources.\n\nPublication Date: Tue Oct 29 20:02:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-7047"
+            ]
+        },
+        {
+            "Message ID": 90732,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-9988\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9988\n\nDescription: The Crypto plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 2.15. This is due to missing validation on the user being supplied in the 'crypto_connect_ajax_process::register' function. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the username.\n\nPublication Date: Tue Oct 29 20:01:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9988"
+            ]
+        },
+        {
+            "Message ID": 90731,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-9990\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9990\n\nDescription: The Crypto plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.15. This is due to missing nonce validation in the 'crypto_connect_ajax_process::check' function. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.\n\nPublication Date: Tue Oct 29 20:01:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9990"
+            ]
+        },
+        {
+            "Message ID": 90730,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-9989\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9989\n\nDescription: The Crypto plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 2.15. This is due a to limited arbitrary method call to 'crypto_connect_ajax_process::log_in' function in the 'crypto_connect_ajax_process' function. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the username.\n\nPublication Date: Tue Oct 29 20:01:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9989"
+            ]
+        },
+        {
+            "Message ID": 90729,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50466\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50466\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in DarkMySite DarkMySite – Advanced Dark Mode Plugin for WordPress darkmysite allows Cross Site Request Forgery.This issue affects DarkMySite – Advanced Dark Mode Plugin for WordPress: from n/a through 1.2.8.\n\nPublication Date: Tue Oct 29 20:01:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50466"
+            ]
+        },
+        {
+            "Message ID": 90728,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50459\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50459\n\nDescription: Missing Authorization vulnerability in HM Plugin WordPress Stripe Donation and Payment Plugin allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects WordPress Stripe Donation and Payment Plugin: from n/a through 3.2.3.\n\nPublication Date: Tue Oct 29 20:01:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50459"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
