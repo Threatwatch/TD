@@ -4068,6 +4068,30 @@
             "URLs": [
                 "ttps://www.eurojust.europa.eu/news/malware-targeting-millions-people-taken-down-international-coalition\n"
             ]
+        },
+        {
+            "Message ID": 6049,
+            "discovered": "2024-10-29",
+            "post_title": "💡FREE POST\n\n🚨🇹🇭A Threat Actor is Allegedly Selling Data of Pepsi Fanclub\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-pepsi-fanclub\n\nA threat actor is reportedly offering data for sale from the Pepsi Fanclub in Thailand. The compromised dataset is said to include information on 42,027 users.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Thailand"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-pepsi-fanclub\n\nA "
+            ]
+        },
+        {
+            "Message ID": 6048,
+            "discovered": "2024-10-29",
+            "post_title": "💡FREE POST\n\n🚨🇳🇿A Threat Actor Allegedly Leaked Data from Monster Energy in New Zealand\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-from-monster-energy-in-new-zealand/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "New Zealand"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-from-monster-energy-in-new-zealand/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -42817,6 +42841,40 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-49641"
             ]
+        },
+        {
+            "Message ID": 90674,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Update your iPhone, Mac, Watch: Apple issues patches for several vulnerabilities\n\nDate: October 29, 2024\n\nSource: https://www.malwarebytes.com/blog/news/2024/10/update-your-iphone-mac-watch-apple-issues-patches-for-several-vulnerabilities\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/news/2024/10/update-your-iphone-mac-watch-apple-issues-patches-for-several-vulnerabilities"
+            ]
+        },
+        {
+            "Message ID": 90673,
+            "discovered": "2024-10-29",
+            "post_title": "Victim: Jordan Public Schools (https://www.jordan.k12.mn.us/)\n\nDetection Date: Tue Oct 29 16:46:20 2024\n\nThreat Actor: fog\n\n#Ransomware #Jordan #Jordan",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.jordan.k12.mn.us/"
+            ]
+        },
+        {
+            "Message ID": 90672,
+            "discovered": "2024-10-29",
+            "post_title": "Victim: [DISCLOSED]Universite Paris Sud\n\nDetection Date: Tue Oct 29 16:46:06 2024\n\nThreat Actor: ransomhouse\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": []
