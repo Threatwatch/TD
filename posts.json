@@ -4525,6 +4525,29 @@
             "URLs": [
                 "darkwebinformer.com/play-ransomware-has-named-3-new-victims/"
             ]
+        },
+        {
+            "Message ID": 6090,
+            "discovered": "2024-10-29",
+            "post_title": "Agreed on this.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6089,
+            "discovered": "2024-10-29",
+            "post_title": "🚨🇲🇽A Threat Actor has Allegedly Leaked the Data of Judicial Branch of the State of Oaxaca\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-judicial-branch-of-the-state-of-oaxaca/\n\nA threat actor claims to have leaked data from the Judicial Branch of the State of Oaxaca, exposing over 30 GB of information and access to their servers. The compromised data reportedly includes names, addresses, gender, age, and other sensitive details.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "the State of Oaxaca\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-judicial-branch-of-the-state-of-oaxaca/",
+                "the State of Oaxaca"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-judicial-branch-of-the-state-of-oaxaca/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -23846,6 +23869,48 @@
             "Message ID": 3369,
             "discovered": "2024-10-29",
             "post_title": "Group: blackbasta\nApprox. Time: 18:38 29/10/24\nTitle: CELO",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3380,
+            "discovered": "2024-10-29",
+            "post_title": "Group: ransomhub\nApprox. Time: 20:40 29/10/24\nTitle: https://t.co/jGCyT5vasJ",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/jGCyT5vasJ"
+            ]
+        },
+        {
+            "Message ID": 3379,
+            "discovered": "2024-10-29",
+            "post_title": "Group: play\nApprox. Time: 20:39 29/10/24\nTitle: Dirksen Screw Products",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3378,
+            "discovered": "2024-10-29",
+            "post_title": "Group: play\nApprox. Time: 20:39 29/10/24\nTitle: Dana Safety Supply",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3377,
+            "discovered": "2024-10-29",
+            "post_title": "Group: play\nApprox. Time: 20:39 29/10/24\nTitle: Astac",
             "Attack Type": "Unknown",
             "Location": [
                 "Approx"
