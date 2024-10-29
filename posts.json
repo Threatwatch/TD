@@ -4048,6 +4048,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6047,
+            "discovered": "2024-10-29",
+            "post_title": "💡Today, the federalis behind Operation Magnus announced the following details.\n\nhttps://www.eurojust.europa.eu/news/malware-targeting-millions-people-taken-down-international-coalition\n\nA major international operation has dismantled key servers of the notorious infostealers, RedLine and META, two high-impact malware platforms that have targeted millions globally. Supported by Eurojust, authorities across six countries—the Netherlands, United States, Belgium, Portugal, United Kingdom, and Australia—collaborated to take down three servers in the Netherlands, seize two domains, unseal indictments in the U.S., and arrest two individuals in Belgium.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Netherlands",
+                "United States",
+                "Belgium",
+                "Portugal",
+                "United Kingdom",
+                "Australia",
+                "Netherlands",
+                "U.S.",
+                "Belgium"
+            ],
+            "URLs": [
+                "ttps://www.eurojust.europa.eu/news/malware-targeting-millions-people-taken-down-international-coalition\n"
+            ]
         }
     ],
     "RipperSec | 团队": [
