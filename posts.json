@@ -42235,6 +42235,507 @@
             "URLs": [
                 "nathcompanies.com"
             ]
+        },
+        {
+            "Message ID": 90667,
+            "discovered": "2024-10-29",
+            "post_title": "Victim: Sage Automotive Interior (sageautomotiveinteriors.com)\n\nDetection Date: Tue Oct 29 15:39:05 2024\n\nThreat Actor: fog\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "sageautomotiveinteriors.com"
+            ]
+        },
+        {
+            "Message ID": 90666,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Connected car security: Software complexity creates bumps in the road\n\nDate: October 29, 2024\n\nSource: https://www.reversinglabs.com/blog/connected-car-cybersecurity-software-complexity-takes-to-the-road\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.reversinglabs.com/blog/connected-car-cybersecurity-software-complexity-takes-to-the-road"
+            ]
+        },
+        {
+            "Message ID": 90665,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://gaborone.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 07:19:09 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112203\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://gaborone.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112203"
+            ]
+        },
+        {
+            "Message ID": 90664,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://geneva.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 07:20:44 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112204\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://geneva.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112204"
+            ]
+        },
+        {
+            "Message ID": 90663,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://harare.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 07:21:10 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112205\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://harare.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112205"
+            ]
+        },
+        {
+            "Message ID": 90662,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://havana.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 07:21:41 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112206\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://havana.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112206"
+            ]
+        },
+        {
+            "Message ID": 90661,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://helsinki.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 07:22:12 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112207\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://helsinki.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112207"
+            ]
+        },
+        {
+            "Message ID": 90660,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://kinshasa.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 07:22:50 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112208\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://kinshasa.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112208"
+            ]
+        },
+        {
+            "Message ID": 90659,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://kualalumpur.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 07:27:37 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112209\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://kualalumpur.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112209"
+            ]
+        },
+        {
+            "Message ID": 90658,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://london.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 07:28:03 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112210\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://london.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112210"
+            ]
+        },
+        {
+            "Message ID": 90657,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://menongue.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 07:29:29 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112211\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://menongue.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112211"
+            ]
+        },
+        {
+            "Message ID": 90656,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://moscow.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 07:30:06 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112212\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://moscow.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112212"
+            ]
+        },
+        {
+            "Message ID": 90655,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://namdiaspora.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 07:30:35 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112213\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://namdiaspora.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112213"
+            ]
+        },
+        {
+            "Message ID": 90654,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://newyork.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 07:31:25 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112214\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://newyork.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112214"
+            ]
+        },
+        {
+            "Message ID": 90653,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://ondjiva.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 07:31:54 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112215\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://ondjiva.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112215"
+            ]
+        },
+        {
+            "Message ID": 90652,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://paris.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 07:32:32 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112216\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://paris.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112216"
+            ]
+        },
+        {
+            "Message ID": 90651,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://pretoria.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 07:32:56 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112217\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://pretoria.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112217"
+            ]
+        },
+        {
+            "Message ID": 90650,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://www.accra.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 08:09:47 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112220\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://www.accra.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112220"
+            ]
+        },
+        {
+            "Message ID": 90649,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://brazzaville.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 08:09:49 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112221\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://brazzaville.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112221"
+            ]
+        },
+        {
+            "Message ID": 90648,
+            "discovered": "2024-10-29",
+            "post_title": "Target: http://dakar.mirco.gov.na/518.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 08:09:51 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112222\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://dakar.mirco.gov.na/518.html",
+                "http://www.zone-h.org/mirror/id/41112222"
+            ]
+        },
+        {
+            "Message ID": 90647,
+            "discovered": "2024-10-29",
+            "post_title": "Target: https://luanda.mirco.gov.na\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 06:26:51 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112181\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://luanda.mirco.gov.na",
+                "http://www.zone-h.org/mirror/id/41112181"
+            ]
+        },
+        {
+            "Message ID": 90646,
+            "discovered": "2024-10-29",
+            "post_title": "Target: https://abuja.mirco.gov.na/saudi.html\n\nNotified: Awham\n\nDate: Wed, 31 Jan 2024 06:32:33 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41112185\n\n#Defacements #Namibia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://abuja.mirco.gov.na/saudi.html",
+                "http://www.zone-h.org/mirror/id/41112185"
+            ]
+        },
+        {
+            "Message ID": 90645,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-10184\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10184\n\nDescription: The StreamWeasels Kick Integration plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's sw-kick-embed shortcode in all versions up to, and including, 1.1.1 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Tue Oct 29 15:04:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10184"
+            ]
+        },
+        {
+            "Message ID": 90644,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-10185\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10185\n\nDescription: The StreamWeasels YouTube Integration plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's sw-youtube-embed shortcode in all versions up to, and including, 1.3.2 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Tue Oct 29 15:04:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10185"
+            ]
+        },
+        {
+            "Message ID": 90643,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-10233\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10233\n\nDescription: The SMS Alert Order Notifications – WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's sa_subscribe shortcode in all versions up to, and including, 3.7.5 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Tue Oct 29 15:04:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10233"
+            ]
+        },
+        {
+            "Message ID": 90642,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-10266\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10266\n\nDescription: The Premium Addons for Elementor plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's Video Box widget in all versions up to, and including, 4.10.60 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Tue Oct 29 15:03:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10266"
+            ]
+        },
+        {
+            "Message ID": 90641,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-10360\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10360\n\nDescription: The Move Addons for Elementor plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 1.3.5 via the render function in includes/widgets/accordion/widget.php, includes/widgets/remote-template/widget.php, and other widget.php files. This makes it possible for authenticated attackers, with Contributor-level access and above, to extract sensitive private, pending, and draft template data.\n\nPublication Date: Tue Oct 29 15:03:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10360"
+            ]
+        },
+        {
+            "Message ID": 90640,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-49670\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49670\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Sam Glover Client Power Tools Portal allows Reflected XSS.This issue affects Client Power Tools Portal: from n/a through 1.8.6.\n\nPublication Date: Tue Oct 29 15:03:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49670"
+            ]
+        },
+        {
+            "Message ID": 90639,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-49672\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49672\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Gifford Cheung, Brian Watanabe, Chongsun Ahn Google Docs RSVP allows Stored XSS.This issue affects Google Docs RSVP: from n/a through 2.0.1.\n\nPublication Date: Tue Oct 29 15:03:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49672"
+            ]
+        },
+        {
+            "Message ID": 90638,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-49673\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49673\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Van Abel LaTeX2HTML allows Reflected XSS.This issue affects LaTeX2HTML: from n/a through 2.5.4.\n\nPublication Date: Tue Oct 29 15:03:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49673"
+            ]
+        },
+        {
+            "Message ID": 90637,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-49678\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49678\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Jinwen js allows Reflected XSS.This issue affects js paper: from n/a through 2.5.7.\n\nPublication Date: Tue Oct 29 15:02:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Jinwen"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49678"
+            ]
+        },
+        {
+            "Message ID": 90636,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-49679\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49679\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in WPKoi WPKoi Templates for Elementor allows Stored XSS.This issue affects WPKoi Templates for Elementor: from n/a through 3.1.0.\n\nPublication Date: Tue Oct 29 15:02:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "WPKoi"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49679"
+            ]
+        },
+        {
+            "Message ID": 90635,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-49692\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49692\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in AffiliateX allows Stored XSS.This issue affects AffiliateX: from n/a through 1.2.9.\n\nPublication Date: Tue Oct 29 15:02:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49692"
+            ]
+        },
+        {
+            "Message ID": 90634,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50407\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50407\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Kiboko Labs Namaste! LMS allows Reflected XSS.This issue affects Namaste! LMS: from n/a through 2.6.2.\n\nPublication Date: Tue Oct 29 15:02:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Namaste"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50407"
+            ]
+        },
+        {
+            "Message ID": 90633,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-49665\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49665\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Web Bricks Web Bricks Addons for Elementor allows Stored XSS.This issue affects Web Bricks Addons for Elementor: from n/a through 1.1.1.\n\nPublication Date: Tue Oct 29 15:02:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49665"
+            ]
+        },
+        {
+            "Message ID": 90632,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-49664\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49664\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in allows Reflected XSS.This issue affects chatplusjp: from n/a through 1.02.\n\nPublication Date: Tue Oct 29 15:02:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49664"
+            ]
+        },
+        {
+            "Message ID": 90631,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-10181\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10181\n\nDescription: The Newsletters plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's newsletters_video shortcode in all versions up to, and including, 4.9.9.4 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Tue Oct 29 15:01:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10181",
+                "4.9.9.4"
+            ]
+        },
+        {
+            "Message ID": 90630,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-49663\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49663\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Elena Zhyvohliad uCAT – Next Story allows Reflected XSS.This issue affects uCAT – Next Story: from n/a through 2.0.0.\n\nPublication Date: Tue Oct 29 15:01:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Elena Zhyvohliad uCAT"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49663"
+            ]
+        },
+        {
+            "Message ID": 90629,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-49662\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49662\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Webgensis Simple Load More allows Reflected XSS.This issue affects Simple Load More: from n/a through 1.0.\n\nPublication Date: Tue Oct 29 15:01:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49662"
+            ]
+        },
+        {
+            "Message ID": 90628,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-49661\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49661\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Lew Ayotte leenk.Me allows Reflected XSS.This issue affects leenk.Me: from n/a through 2.16.0.\n\nPublication Date: Tue Oct 29 15:01:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49661"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
