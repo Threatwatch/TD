@@ -41690,6 +41690,174 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10312"
             ]
+        },
+        {
+            "Message ID": 90599,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50480\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50480\n\nDescription: Unrestricted Upload of File with Dangerous Type vulnerability in azexo Marketing Automation by AZEXO allows Upload a Web Shell to a Web Server.This issue affects Marketing Automation by AZEXO: from n/a through 1.27.80.\n\nPublication Date: Tue Oct 29 12:04:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50480"
+            ]
+        },
+        {
+            "Message ID": 90598,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50482\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50482\n\nDescription: Unrestricted Upload of File with Dangerous Type vulnerability in Chetan Khandla Woocommerce Product Design allows Upload a Web Shell to a Web Server.This issue affects Woocommerce Product Design: from n/a through 1.0.0.\n\nPublication Date: Tue Oct 29 12:04:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50482"
+            ]
+        },
+        {
+            "Message ID": 90597,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50484\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50484\n\nDescription: Unrestricted Upload of File with Dangerous Type vulnerability in mahlamusa Multi Purpose Mail Form allows Upload a Web Shell to a Web Server.This issue affects Multi Purpose Mail Form: from n/a through 1.0.2.\n\nPublication Date: Tue Oct 29 12:04:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50484"
+            ]
+        },
+        {
+            "Message ID": 90596,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50493\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50493\n\nDescription: Unrestricted Upload of File with Dangerous Type vulnerability in masterhomepage Automatic Translation allows Upload a Web Shell to a Web Server.This issue affects Automatic Translation: from n/a through 1.0.4.\n\nPublication Date: Tue Oct 29 12:03:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50493"
+            ]
+        },
+        {
+            "Message ID": 90595,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50494\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50494\n\nDescription: Unrestricted Upload of File with Dangerous Type vulnerability in Amin Omer Sudan Payment Gateway for WooCommerce allows Upload a Web Shell to a Web Server.This issue affects Sudan Payment Gateway for WooCommerce: from n/a through 1.2.2.\n\nPublication Date: Tue Oct 29 12:03:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Sudan"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50494"
+            ]
+        },
+        {
+            "Message ID": 90594,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50473\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50473\n\nDescription: Unrestricted Upload of File with Dangerous Type vulnerability in Ajar Productions Ajar in5 Embed allows Upload a Web Shell to a Web Server.This issue affects Ajar in5 Embed: from n/a through 3.1.3.\n\nPublication Date: Tue Oct 29 12:03:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50473"
+            ]
+        },
+        {
+            "Message ID": 90593,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-9438\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9438\n\nDescription: The SEUR Oficial plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the 'change_service' parameter in all versions up to, and including, 2.2.11 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.\n\nPublication Date: Tue Oct 29 12:03:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9438"
+            ]
+        },
+        {
+            "Message ID": 90592,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-10048\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10048\n\nDescription: The Post Status Notifier Lite and Premium plugins for WordPress is vulnerable to Reflected Cross-Site Scripting via the ‘page’ parameter in all versions up to, and including, 1.11.6 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.\n\nPublication Date: Tue Oct 29 12:03:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10048"
+            ]
+        },
+        {
+            "Message ID": 90591,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50427\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50427\n\nDescription: Unrestricted Upload of File with Dangerous Type vulnerability in Devsoft Baltic OÜ SurveyJS: Drag & Drop WordPress Form Builder.This issue affects SurveyJS: Drag & Drop WordPress Form Builder: from n/a through 1.9.136.\n\nPublication Date: Tue Oct 29 12:02:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50427"
+            ]
+        },
+        {
+            "Message ID": 90590,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50420\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50420\n\nDescription: Unrestricted Upload of File with Dangerous Type vulnerability in adirectory aDirectory allows Upload a Web Shell to a Web Server.This issue affects aDirectory: from n/a through 1.3.\n\nPublication Date: Tue Oct 29 12:02:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50420"
+            ]
+        },
+        {
+            "Message ID": 90589,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50490\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50490\n\nDescription: Missing Authorization vulnerability in Szabolcs Szecsenyi PegaPoll allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects PegaPoll: from n/a through 1.0.2.\n\nPublication Date: Tue Oct 29 12:02:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50490"
+            ]
+        },
+        {
+            "Message ID": 90588,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50485\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50485\n\nDescription: : Incorrect Privilege Assignment vulnerability in Udit Rawat Exam Matrix allows Privilege Escalation.This issue affects Exam Matrix: from n/a through 1.5.\n\nPublication Date: Tue Oct 29 12:02:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50485"
+            ]
+        },
+        {
+            "Message ID": 90587,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Monthly Threat Actor Group Intelligence Report, August 2024 (ENG)\n\nDate: October 29, 2024\n\nSource: https://redalert.nshc.net/2024/10/29/monthly-threat-actor-group-intelligence-report-august-2024-eng/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://redalert.nshc.net/2024/10/29/monthly-threat-actor-group-intelligence-report-august-2024-eng/"
+            ]
+        },
+        {
+            "Message ID": 90586,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Monthly Threat Actor Group Intelligence Report, July 2024 (JPN)\n\nDate: October 29, 2024\n\nSource: https://redalert.nshc.net/2024/10/29/monthly-threat-actor-group-intelligence-report-july-2024-jpn/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://redalert.nshc.net/2024/10/29/monthly-threat-actor-group-intelligence-report-july-2024-jpn/"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
