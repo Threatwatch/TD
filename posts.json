@@ -23144,6 +23144,18 @@
             "URLs": [
                 "https://t.co/IbhYUlX7y1"
             ]
+        },
+        {
+            "Message ID": 3362,
+            "discovered": "2024-10-29",
+            "post_title": "Group: FOG\nApprox. Time: 12:38 29/10/24\nTitle: Sage Automotive Interior (https://t.co/AGVPwkaRSZ)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/AGVPwkaRSZ"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -42735,6 +42747,55 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-49661"
+            ]
+        },
+        {
+            "Message ID": 90671,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Data protection made simple\n\nDate: October 29, 2024\n\nSource: https://symantec-enterprise-blogs.security.com/product-insights/dlp1\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://symantec-enterprise-blogs.security.com/product-insights/dlp1"
+            ]
+        },
+        {
+            "Message ID": 90670,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Researchers Uncover Vulnerabilities in Open-Source AI and ML Models\n\nDate: Oct 29, 2024\n\nSource: https://thehackernews.com/2024/10/researchers-uncover-vulnerabilities-in.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/researchers-uncover-vulnerabilities-in.html"
+            ]
+        },
+        {
+            "Message ID": 90669,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Russian charged by U.S. for creating RedLine infostealer malware\n\nDate: October 29, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/russian-charged-by-us-for-creating-redline-infostealer-malware/\n\n#News #Russia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "U.S.",
+                "Russia"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/russian-charged-by-us-for-creating-redline-infostealer-malware/"
+            ]
+        },
+        {
+            "Message ID": 90668,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-49641\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49641\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Tidaweb Tida URL Screenshot allows Reflected XSS.This issue affects Tida URL Screenshot: from n/a through 1.0.\n\nPublication Date: Tue Oct 29 16:01:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Tidaweb Tida"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49641"
             ]
         }
     ],
