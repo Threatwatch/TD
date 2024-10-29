@@ -10835,6 +10835,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1203,
+            "discovered": "2024-10-29",
+            "post_title": "🚨Phishing Alert ‼️\n\n🇯🇵Japan -Nintendo has reported ongoing phishing attempts using fake emails that impersonate official addresses like no-reply@accounts.nintendo.com to promote unrelated services or companies. \n\nRecipients are urged to delete these emails and avoid clicking any links, as they may lead to phishing sites.\n\nSource: Nintendo\nhttps://support.nintendo.com/jp/information/2024/1029.html",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Japan"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
