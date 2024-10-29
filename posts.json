@@ -4455,6 +4455,54 @@
             "URLs": [
                 "ps://darkwebinformer.com/anonymousactivist-defaced-the-website-of-club-vista-holidays/"
             ]
+        },
+        {
+            "Message ID": 6086,
+            "discovered": "2024-10-29",
+            "post_title": "🚨🇺🇸Mysterious Team Bangladesh Targeted the Website of IMC\n\nhttps://darkwebinformer.com/mysterious-team-bangladesh-targeted-the-website-of-imc/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/mysterious-team-bangladesh-targeted-the-website-of-imc/"
+            ]
+        },
+        {
+            "Message ID": 6085,
+            "discovered": "2024-10-29",
+            "post_title": "🚨🇫🇷A Threat Actor Has Allegedly Leaked Data of Impressions en ligne\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-impressions-en-ligne/\n\nA threat actor claims to have leaked the database of Impressions en ligne, reportedly containing information such as names, emails, addresses, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-impressions-en-ligne/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6084,
+            "discovered": "2024-10-29",
+            "post_title": "🚨🗺A Threat Actor is Selling Amazon Buyer Accounts Across Global Marketplaces\n\nhttps://darkwebinformer.com/a-threat-actor-is-selling-amazon-buyer-accounts-across-global-marketplaces/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://darkwebinformer.com/a-threat-actor-is-selling-amazon-buyer-accounts-across-global-marketplaces/"
+            ]
+        },
+        {
+            "Message ID": 6083,
+            "discovered": "2024-10-29",
+            "post_title": "🚨🇺🇸RansomHub Ransomware Has Claimed HCF Management, Inc as a Victim\n\nhttps://darkwebinformer.com/ransomhub-ransomware-has-claimed-hcf-management-inc-as-a-victim/\n\nThe group claims to have acquired 250 GB of data from the organization and plans to publish it within the next 1-2 days.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/ransomhub-ransomware-has-claimed-hcf-management-inc-as-a-victim/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -44617,6 +44665,82 @@
             ],
             "URLs": [
                 "noblehouse.com.ph"
+            ]
+        },
+        {
+            "Message ID": 90773,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-35833\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-35833\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndmaengine: fsl-qdma: Fix a memory leak related to the queue command DMA\n\nThis dma_alloc_coherent() is undone neither in the remove function, nor in\nthe error handling path of fsl_qdma_probe().\n\nSwitch to the managed version to fix both issues.\n\nPublication Date: Tue Oct 29 23:06:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-35833"
+            ]
+        },
+        {
+            "Message ID": 90772,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2023-32261\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-32261\n\nDescription: A potential vulnerability has been identified in the Micro Focus Dimensions CM Plugin for Jenkins. The vulnerability allows attackers with Overall/Read permission to enumerate credentials IDs of credentials stored in Jenkins.\nSee the following Jenkins security advisory for details:  *   https://www.jenkins.io/security/advisory/2023-06-14/ https://www.jenkins.io/security/advisory/2023-06-14/\n\nPublication Date: Tue Oct 29 23:05:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Jenkins",
+                "Jenkins"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-32261",
+                "https://www.jenkins.io/security/advisory/2023-06-14/",
+                "https://www.jenkins.io/security/advisory/2023-06-14/"
+            ]
+        },
+        {
+            "Message ID": 90771,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2022-30356\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-30356\n\nDescription: OvalEdge 5.2.8.0 and earlier is affected by a Privilege Escalation vulnerability via a POST request to /user/assignuserrole via the userid and role parameters . Authentication is required with OE_ADMIN role privilege.\n\nPublication Date: Tue Oct 29 23:05:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-30356",
+                "5.2.8.0"
+            ]
+        },
+        {
+            "Message ID": 90770,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-35859\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-35859\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nblock: fix module reference leakage from bdev_open_by_dev error path\n\nAt the time bdev_may_open() is called, module reference is grabbed\nalready, hence module reference should be released if bdev_may_open()\nfailed.\n\nThis problem is found by code review.\n\nPublication Date: Tue Oct 29 23:05:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-35859"
+            ]
+        },
+        {
+            "Message ID": 90769,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-35898\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-35898\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnetfilter: nf_tables: Fix potential data-race in __nft_flowtable_type_get()\n\nnft_unregister_flowtable_type() within nf_flow_inet_module_exit() can\nconcurrent with __nft_flowtable_type_get() within nf_tables_newflowtable().\nAnd thhere is not any protection when iterate over nf_tables_flowtables\nlist in __nft_flowtable_type_get(). Therefore, there is pertential\ndata-race of nf_tables_flowtables list entry.\n\nUse list_for_each_entry_rcu() to iterate over nf_tables_flowtables list\nin __nft_flowtable_type_get(), and use rcu_read_lock() in the caller\nnft_flowtable_type_get() to protect the entire type query process.\n\nPublication Date: Tue Oct 29 23:05:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-35898"
+            ]
+        },
+        {
+            "Message ID": 90768,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-35903\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-35903\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nx86/bpf: Fix IP after emitting call depth accounting\n\nAdjust the IP passed to `emit_patch` so it calculates the correct offset\nfor the CALL instruction if `x86_call_depth_emit_accounting` emits code.\nOtherwise we will skip some instructions and most likely crash.\n\nPublication Date: Tue Oct 29 23:05:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-35903"
             ]
         }
     ],
