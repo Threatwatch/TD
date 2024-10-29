@@ -17185,6 +17185,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4456,
+            "discovered": "2024-10-29",
+            "post_title": "October 29, 2024  New Threat Actor  #Intel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hunt3r Kill3rs | Охотники-убийцы": [
@@ -41443,6 +41453,18 @@
             ],
             "URLs": [
                 "https://contagiodump.blogspot.com/2024/10/2024-10-23-warmcookiebadspace-apt-ta866.html"
+            ]
+        },
+        {
+            "Message ID": 90575,
+            "discovered": "2024-10-29",
+            "post_title": "Title: DORA Compliance for Financial Services | Uptycs\n\nDate: October 29, 2024\n\nSource: https://www.uptycs.com/blog/dora-compliance-uptycs-financial-services\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.uptycs.com/blog/dora-compliance-uptycs-financial-services"
             ]
         }
     ],
