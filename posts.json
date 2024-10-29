@@ -41894,6 +41894,201 @@
             "URLs": [
                 "https://www.europol.europa.eu/media-press/newsroom/news/stolen-car-parts-worth-millions-of-euros-recovered"
             ]
+        },
+        {
+            "Message ID": 90616,
+            "discovered": "2024-10-29",
+            "post_title": "Title: We Patched CVE-2024-38030, Found Another Windows Themes Spoofing Vulnerability (0day)\n\nDate: October 29, 2024\n\nSource: https://blog.0patch.com/2024/10/we-patched-cve-2024-38030-found-another.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.0patch.com/2024/10/we-patched-cve-2024-38030-found-another.html"
+            ]
+        },
+        {
+            "Message ID": 90615,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50412\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50412\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Jules Colle Conditional Fields for Contact Form 7 allows Stored XSS.This issue affects Conditional Fields for Contact Form 7: from n/a through 2.4.15.\n\nPublication Date: Tue Oct 29 13:13:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50412"
+            ]
+        },
+        {
+            "Message ID": 90614,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50413\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50413\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in codection Import and export users and customers allows Stored XSS.This issue affects Import and export users and customers: from n/a through 1.27.5.\n\nPublication Date: Tue Oct 29 13:13:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50413"
+            ]
+        },
+        {
+            "Message ID": 90613,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50414\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50414\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in VirusTran Button contact VR allows Stored XSS.This issue affects Button contact VR: from n/a through 4.7.9.1.\n\nPublication Date: Tue Oct 29 13:12:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Button",
+                "Button"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50414",
+                "4.7.9.1"
+            ]
+        },
+        {
+            "Message ID": 90612,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50415\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50415\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Pagup Ads.Txt & App-ads.Txt Manager for WordPress allows Stored XSS.This issue affects Ads.Txt & App-ads.Txt Manager for WordPress: from n/a through 1.1.7.1.\n\nPublication Date: Tue Oct 29 13:12:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Pagup Ads"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50415",
+                "1.1.7.1"
+            ]
+        },
+        {
+            "Message ID": 90611,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50418\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50418\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Time Slot Booking Time Slot allows Stored XSS.This issue affects Time Slot: from n/a through 1.3.6.\n\nPublication Date: Tue Oct 29 13:12:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50418"
+            ]
+        },
+        {
+            "Message ID": 90610,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50426\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50426\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Survey Maker team Survey Maker allows Stored XSS.This issue affects Survey Maker: from n/a through 5.0.2.\n\nPublication Date: Tue Oct 29 13:12:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50426"
+            ]
+        },
+        {
+            "Message ID": 90609,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50475\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50475\n\nDescription: Missing Authorization vulnerability in Scott Gamon Signup Page allows Privilege Escalation.This issue affects Signup Page: from n/a through 1.0.\n\nPublication Date: Tue Oct 29 13:12:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Signup Page"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50475"
+            ]
+        },
+        {
+            "Message ID": 90608,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50476\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50476\n\nDescription: Missing Authorization vulnerability in GRÜN Software Group GmbH GRÜN spendino Spendenformular allows Privilege Escalation.This issue affects GRÜN spendino Spendenformular: from n/a through 1.0.1.\n\nPublication Date: Tue Oct 29 13:11:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50476"
+            ]
+        },
+        {
+            "Message ID": 90607,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-50481\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50481\n\nDescription: Incorrect Privilege Assignment vulnerability in Stack Themes Bstone Demo Importer allows Privilege Escalation.This issue affects Bstone Demo Importer: from n/a through 1.0.1.\n\nPublication Date: Tue Oct 29 13:11:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50481"
+            ]
+        },
+        {
+            "Message ID": 90606,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-9376\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9376\n\nDescription: The Kata Plus – Addons for Elementor – Widgets, Extensions and Templates plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in all versions up to, and including, 1.4.7 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Author-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.\n\nPublication Date: Tue Oct 29 13:11:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9376"
+            ]
+        },
+        {
+            "Message ID": 90605,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-10436\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10436\n\nDescription: The WPC Smart Messages for WooCommerce plugin for WordPress is vulnerable to Local File Inclusion in all versions up to, and including, 4.2.1 via the get_condition_value function. This makes it possible for authenticated attackers, with Subscriber-level access and above, to include and execute arbitrary files on the server, allowing the execution of any PHP code in those files. This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where images and other “safe” file types can be uploaded and included.\n\nPublication Date: Tue Oct 29 13:11:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10436"
+            ]
+        },
+        {
+            "Message ID": 90604,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-10437\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10437\n\nDescription: The WPC Smart Messages for WooCommerce plugin for WordPress is vulnerable to unauthorized Smar Message activation/deactivation due to a missing capability check on the ajax_enable function in all versions up to, and including, 4.2.1. This makes it possible for authenticated attackers, with Subscriber-level access and above, to activate or deactivate smart messages.\n\nPublication Date: Tue Oct 29 13:11:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10437"
+            ]
+        },
+        {
+            "Message ID": 90603,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-10227\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10227\n\nDescription: The affiliate-toolkit plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's atkp_product shortcode in all versions up to, and including, 3.6.5 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Tue Oct 29 13:11:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10227"
+            ]
+        },
+        {
+            "Message ID": 90602,
+            "discovered": "2024-10-29",
+            "post_title": "Title: How TI Feeds Support Organizational Performance\n\nDate: October 29, 2024\n\nSource: https://any.run/cybersecurity-blog/ti-feeds-for-organizational-performance/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://any.run/cybersecurity-blog/ti-feeds-for-organizational-performance/"
+            ]
+        },
+        {
+            "Message ID": 90601,
+            "discovered": "2024-10-29",
+            "post_title": "Title: LightSpy: Implant for iOS\n\nDate: October 29, 2024\n\nSource: https://www.threatfabric.com/blogs/lightspy-implant-for-ios\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.threatfabric.com/blogs/lightspy-implant-for-ios"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
