@@ -10071,6 +10071,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5281,
+            "discovered": "2024-10-29",
+            "post_title": "University of Liberal Arts has offered Full Scholarship and Housing to Six Palestinian women from gaza",
+            "Attack Type": "Unknown",
+            "Location": [
+                "gaza"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -16530,6 +16540,28 @@
                 "OpIsrael"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1271,
+            "discovered": "2024-10-29",
+            "post_title": "17⏳",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1270,
+            "discovered": "2024-10-29",
+            "post_title": "בוקר טוב, במהלך הלילה הופץ לאזרחים סמס עם קישור להורדת אפליקציה המתחזה לאפליקציית פיקוד העורף.\n\nאינדיקטורים\nhttp://oref-support.one/alert.apk \n\nhttps://tinyurl.com/yc2t5cnp\nReports:\n\nVirustotal (apk)\n\nScanMySms (url)\n\nhttps://t.me/CyberSecurityIL/5962",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/CyberSecurityIL/5962"
+            ]
         }
     ],
     "DARKFEED": [
@@ -23592,6 +23624,93 @@
             "URLs": [
                 "https://t.co/YZwgFVebvz.auh"
             ]
+        },
+        {
+            "Message ID": 3376,
+            "discovered": "2024-10-29",
+            "post_title": "Group: ransomhub\nApprox. Time: 18:38 29/10/24\nTitle: https://t.co/YIsE6NwGiv",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/YIsE6NwGiv"
+            ]
+        },
+        {
+            "Message ID": 3375,
+            "discovered": "2024-10-29",
+            "post_title": "Group: ransomhub\nApprox. Time: 18:38 29/10/24\nTitle: https://t.co/FQ6W6kxFwR",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/FQ6W6kxFwR"
+            ]
+        },
+        {
+            "Message ID": 3374,
+            "discovered": "2024-10-29",
+            "post_title": "Group: ransomhub\nApprox. Time: 18:38 29/10/24\nTitle: https://t.co/3gwwtJUOOQ",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/3gwwtJUOOQ"
+            ]
+        },
+        {
+            "Message ID": 3373,
+            "discovered": "2024-10-29",
+            "post_title": "Group: bianlian\nApprox. Time: 18:38 29/10/24\nTitle: CLAS Information Services",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3372,
+            "discovered": "2024-10-29",
+            "post_title": "Group: blackbasta\nApprox. Time: 18:38 29/10/24\nTitle: The Rosen Law Firm, P.A.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx",
+                "P.A."
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3371,
+            "discovered": "2024-10-29",
+            "post_title": "Group: blackbasta\nApprox. Time: 18:38 29/10/24\nTitle: Weber Packaging Solutions",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3370,
+            "discovered": "2024-10-29",
+            "post_title": "Group: blackbasta\nApprox. Time: 18:38 29/10/24\nTitle: Distribution Alternatives, Inc.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3369,
+            "discovered": "2024-10-29",
+            "post_title": "Group: blackbasta\nApprox. Time: 18:38 29/10/24\nTitle: CELO",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -44241,6 +44360,28 @@
             "URLs": [
                 "https://ssc.mof.gov.vn/acms/ckfinder/anonymous/images/kapanlagi.jpg",
                 "http://www.zone-h.org/mirror/id/41293885"
+            ]
+        },
+        {
+            "Message ID": 90754,
+            "discovered": "2024-10-29",
+            "post_title": "Victim: CLAS Information Services\n\nDetection Date: Tue Oct 29 21:44:29 2024\n\nThreat Actor: bianlian\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 90753,
+            "discovered": "2024-10-29",
+            "post_title": "Title: Pig Butcher Scammers Put Job Seekers On The Menu\n\nDate: October 29, 2024\n\nSource: https://www.spreaker.com/episode/pig-butcher-scammers-put-job-seekers-on-the-menu--62545343\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.spreaker.com/episode/pig-butcher-scammers-put-job-seekers-on-the-menu--62545343"
             ]
         }
     ],
