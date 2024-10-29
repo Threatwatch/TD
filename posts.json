@@ -4353,6 +4353,38 @@
             "URLs": [
                 "s://darkwebinformer.com/australian-nursing-home-foundation-has-been-claimed-a-victim-to-abyss-ransomware/\n\nTh"
             ]
+        },
+        {
+            "Message ID": 6076,
+            "discovered": "2024-10-29",
+            "post_title": "\"In three words I can sum up everything I’ve learned about life: it goes on.\" — Robert Frost",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6074,
+            "discovered": "2024-10-29",
+            "post_title": "💡pydictor: A Powerful and Useful Hacker Dictionary Builder for a Brute-Force Attack\n\nhttps://darkwebinformer.com/pydictor-a-powerful-and-useful-hacker-dictionary-builder-for-a-brute-force-attack/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/pydictor-a-powerful-and-useful-hacker-dictionary-builder-for-a-brute-force-attack/"
+            ]
+        },
+        {
+            "Message ID": 6073,
+            "discovered": "2024-10-29",
+            "post_title": "OK what did you guys do this time?!?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -44159,6 +44191,56 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/qnap-fixes-nas-backup-software-zero-day-exploited-at-pwn2own/"
+            ]
+        },
+        {
+            "Message ID": 90752,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-48955\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48955\n\nDescription: In NetAdmin 4.0.30319, an attacker can steal a valid session cookie and inject it into another device, granting unauthorized access. This type of attack is commonly referred to as session hijacking.\n\nPublication Date: Tue Oct 29 21:11:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48955"
+            ]
+        },
+        {
+            "Message ID": 90751,
+            "discovered": "2024-10-29",
+            "post_title": "CVE-ID: CVE-2024-40792\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-40792\n\nDescription: A permissions issue was addressed with additional restrictions. This issue is fixed in macOS Sequoia 15. A malicious app may be able to change network settings.\n\nPublication Date: Tue Oct 29 21:11:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-40792"
+            ]
+        },
+        {
+            "Message ID": 90750,
+            "discovered": "2024-10-29",
+            "post_title": "Target: https://ssc.gov.vn/acms/ckfinder/anonymous/images/kapanlagi.jpg\n\nNotified: L4663R666H05T\n\nDate: Tue, 29 Oct 2024 15:57:31 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41293877\n\n#Defacements #Vietnam",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Vietnam"
+            ],
+            "URLs": [
+                "https://ssc.gov.vn/acms/ckfinder/anonymous/images/kapanlagi.jpg",
+                "http://www.zone-h.org/mirror/id/41293877"
+            ]
+        },
+        {
+            "Message ID": 90749,
+            "discovered": "2024-10-29",
+            "post_title": "Target: https://ssc.mof.gov.vn/acms/ckfinder/anonymous/images/kapanlagi.jpg\n\nNotified: L4663R666H05T\n\nDate: Tue, 29 Oct 2024 18:05:43 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41293885\n\n#Defacements #Vietnam",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Vietnam"
+            ],
+            "URLs": [
+                "https://ssc.mof.gov.vn/acms/ckfinder/anonymous/images/kapanlagi.jpg",
+                "http://www.zone-h.org/mirror/id/41293885"
             ]
         }
     ],
