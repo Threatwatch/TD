@@ -4431,6 +4431,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6081,
+            "discovered": "2024-10-29",
+            "post_title": "💡I think it's good to be transparent while keeping good OpSec, so going forward I will start providing all my disclosures to companies and will provide screenshots after the issue is resolved or there has been no response. In Progress Recon is on the sub-post.\n\nCurrent Disclosures:\n\nCompany: Ghost; BTW everyone knows I use this and it's not hard to run a scan and find out.\nReported Date: 10/26/24\nIncident Type: XSS; Possible Front-End Pivot\nAccess: N/A\nInstance: All Current Versions Affected\nStatus: We Are Talking; First response is after I sent a second email.\nScreenshots: Yes\nRating: N/A\n\nCompany: Disney\nReported Date: 10/26/24\nIncident Type: Credentials Leak\nAccess: Granted Access; 3rd Party Employee Access\nInstance: 3rd Party Benefits and Workplace.com Access\nStatus: Awaiting Response\nScreenshots: Yes\nRating: N/A\n\nCompany: Accenture\nReported Date: 10/26/24\nIncident Type: Credentials Leak\nAccess: Granted Access; 3rd Party Employee Access\nInstance: SAP\nStatus: Awaiting Response\nScreenshots: Yes\nRating: N/A\n\nCompany: Salesforce\nReported Date: 10/19/24\nIncident Type: Credentials Leak\nAccess: None; Credentials Logged in & Stuck at MFA Screen\nInstance: DEV Environment Salesforce URL\nStatus: Responded / Resolved\nScreenshots: Yes\nRating: A\n\nCompany: EA\nReported Date: 10/18/24\nIncident Type: Credentials Leak\nAccess: None; Credentials Logged in & Stuck at MFA Screen\nInstance: EA Website URL\nStatus: No Response\nRating: F\n\nIn Progress Recon:\n\nCompany: Cisco (Ongoing Recon)\nReported Date: N/A\nIncident Type: N/A\nAccess: N/A\nInstance: N/A\nStatus: N/A\nScreenshots: N/A\nRating: N/A\n\nCompany: Samsung (Ongoing Recon)\nReported Date: N/A\nIncident Type: N/A\nAccess: N/A\nInstance: N/A\nStatus: N/A\nScreenshots: N/A\nRating: N/A",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "orkplace.com "
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -44490,6 +44502,26 @@
             "URLs": [
                 "https://www.scworld.com/news/intel-and-amd-chips-still-vulnerable-to-spectre-flaw"
             ]
+        },
+        {
+            "Message ID": 90760,
+            "discovered": "2024-10-29",
+            "post_title": "Victim: Dirksen Screw Products\n\nDetection Date: Tue Oct 29 22:40:58 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 90759,
+            "discovered": "2024-10-29",
+            "post_title": "Victim: Dana Safety Supply\n\nDetection Date: Tue Oct 29 22:40:38 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": []
