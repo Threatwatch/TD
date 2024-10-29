@@ -4503,6 +4503,28 @@
             "URLs": [
                 "ps://darkwebinformer.com/ransomhub-ransomware-has-claimed-hcf-management-inc-as-a-victim/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6088,
+            "discovered": "2024-10-29",
+            "post_title": "Help me understand why you are mad.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6087,
+            "discovered": "2024-10-29",
+            "post_title": "💡FREE POST\n\n🚨🇺🇸🇺🇸🇺🇸PLAY Ransomware Has Named 3 New Victims\n\nhttps://darkwebinformer.com/play-ransomware-has-named-3-new-victims/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "darkwebinformer.com/play-ransomware-has-named-3-new-victims/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -44741,6 +44763,28 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-35903"
+            ]
+        },
+        {
+            "Message ID": 90775,
+            "discovered": "2024-10-29",
+            "post_title": "Victim: Hello.\n\nDetection Date: Tue Oct 29 23:39:17 2024\n\nThreat Actor: donutleaks\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 90774,
+            "discovered": "2024-10-29",
+            "post_title": "Title: New Windows Themes zero-day gets free, unofficial patches\n\nDate: October 29, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/new-windows-themes-zero-day-gets-free-unofficial-patches/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/new-windows-themes-zero-day-gets-free-unofficial-patches/"
             ]
         }
     ],
