@@ -4588,6 +4588,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6095,
+            "discovered": "2024-10-29",
+            "post_title": "Holidays Are Coming...\n\nPeople Are Taking Off...\n\nMore Breaches...\n\nLARGER Breaches...\n\nMore Leaks...\n\nBIGGER LEAKS...\n\nComing to a theater near you, Starting November 1st, 2024.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -45075,6 +45085,30 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-44144"
+            ]
+        },
+        {
+            "Message ID": 90786,
+            "discovered": "2024-10-29",
+            "post_title": "Title: An Introduction to Operational Relay Box (ORB) Networks - Unpatched, Forgotten, and Obscured\n\nDate: October 29, 2024\n\nSource: https://www.team-cymru.com/post/an-introduction-to-operational-relay-box-orb-networks-unpatched-forgotten-and-obscured\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.team-cymru.com/post/an-introduction-to-operational-relay-box-orb-networks-unpatched-forgotten-and-obscured"
+            ]
+        },
+        {
+            "Message ID": 90785,
+            "discovered": "2024-10-29",
+            "post_title": "Victim: www.baymark.com\n\nDetection Date: Wed Oct 30 00:38:16 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.baymark.com"
             ]
         }
     ],
