@@ -42223,6 +42223,18 @@
             "URLs": [
                 "https://thehackernews.com/2024/10/a-sherlock-holmes-approach-to.html"
             ]
+        },
+        {
+            "Message ID": 90627,
+            "discovered": "2024-10-29",
+            "post_title": "Victim: nathcompanies.com\n\nDetection Date: Tue Oct 29 14:38:28 2024\n\nThreat Actor: black suit\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "nathcompanies.com"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": []
