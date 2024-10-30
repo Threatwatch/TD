@@ -27191,6 +27191,134 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18264"
             ]
+        },
+        {
+            "Message ID": 3963,
+            "discovered": "2024-10-30",
+            "post_title": "ID: 18277\n⚠ Tue, 29 Oct 2024 21:19:10 UTC\n🥷 play\n🎯 Astac, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18277",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18277"
+            ]
+        },
+        {
+            "Message ID": 3962,
+            "discovered": "2024-10-30",
+            "post_title": "ID: 18276\n⚠ Tue, 29 Oct 2024 21:16:08 UTC\n🥷 play\n🎯 Dana Safety Supply, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18276",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18276"
+            ]
+        },
+        {
+            "Message ID": 3961,
+            "discovered": "2024-10-30",
+            "post_title": "ID: 18275\n⚠ Tue, 29 Oct 2024 21:13:04 UTC\n🥷 play\n🎯 Dirksen Screw Products, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18275",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18275"
+            ]
+        },
+        {
+            "Message ID": 3960,
+            "discovered": "2024-10-30",
+            "post_title": "ID: 18274\n⚠ Tue, 29 Oct 2024 21:52:42 UTC\n🥷 medusa\n🎯 Spirit Lake Community School District, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18274",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18274"
+            ]
+        },
+        {
+            "Message ID": 3959,
+            "discovered": "2024-10-30",
+            "post_title": "ID: 18273\n⚠ Tue, 29 Oct 2024 21:22:31 UTC\n🥷 ransomhub\n🎯 www.baymark.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18273",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "w.baymark.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18273"
+            ]
+        },
+        {
+            "Message ID": 3958,
+            "discovered": "2024-10-30",
+            "post_title": "ID: 18272\n⚠ Tue, 29 Oct 2024 19:17:35 UTC\n🥷 blackbasta\n🎯 daserv.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18272",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "serv.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18272"
+            ]
+        },
+        {
+            "Message ID": 3957,
+            "discovered": "2024-10-30",
+            "post_title": "ID: 18271\n⚠ Tue, 29 Oct 2024 19:14:31 UTC\n🥷 blackbasta\n🎯 celo.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18271",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "lo.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18271"
+            ]
+        },
+        {
+            "Message ID": 3956,
+            "discovered": "2024-10-30",
+            "post_title": "ID: 18270\n⚠ Tue, 29 Oct 2024 19:26:35 UTC\n🥷 ransomhub\n🎯 www.ztexconstruction.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18270",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "w.ztexconstruction.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18270"
+            ]
+        },
+        {
+            "Message ID": 3955,
+            "discovered": "2024-10-30",
+            "post_title": "ID: 18269\n⚠ Tue, 29 Oct 2024 19:29:54 UTC\n🥷 ransomhub\n🎯 hcfinc.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18269",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "finc.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18269"
+            ]
+        },
+        {
+            "Message ID": 3954,
+            "discovered": "2024-10-30",
+            "post_title": "ID: 18268\n⚠ Tue, 29 Oct 2024 19:33:02 UTC\n🥷 ransomhub\n🎯 noblehouse.com.ph, Philippines\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18268",
+            "Attack Type": "Unknown",
+            "Location": [
+                "noblehouse.com.ph",
+                "Philippines",
+                "ransomfeed.it/index.php?page=post_details&id_post=18268"
+            ],
+            "URLs": [
+                "blehouse.com.ph, ",
+                "somfeed.it/index.php?page=post_details&id_post=18268"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -46271,6 +46399,30 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9885"
+            ]
+        },
+        {
+            "Message ID": 90856,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-10399\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10399\n\nDescription: The Download Monitor plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the ajax_search_users function in all versions up to, and including, 5.0.13. This makes it possible for authenticated attackers, with Subscriber-level access and above, to obtain usernames and emails of site users.\n\nPublication Date: Wed Oct 30 09:09:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10399"
+            ]
+        },
+        {
+            "Message ID": 90855,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-8871\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8871\n\nDescription: The Pricing Tables WordPress Plugin – Easy Pricing Tables plugin for WordPress is vulnerable to Reflected Cross-Site Scripting due to the use of add_query_arg without appropriate escaping on the URL in all versions up to, and including, 3.2.5. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.\n\nPublication Date: Wed Oct 30 09:09:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8871"
             ]
         }
     ],
