@@ -5053,6 +5053,41 @@
             "URLs": [
                 "ttps://github.com/EQSTLab/CVE-2024-46538"
             ]
+        },
+        {
+            "Message ID": 6137,
+            "discovered": "2024-10-30",
+            "post_title": "I don't know who this person is, but this post is driving a ton of traffic.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6136,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇦🇺A Threat Actor is Allegedly Selling Admin Access of an Unidentified Shop in Australia\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-admin-access-of-an-unidentified-shop-in-australia/\n\nA threat actor is offering to sell WordPress admin access to an unidentified online shop based in Australia.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Australia",
+                "Australia"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-admin-access-of-an-unidentified-shop-in-australia/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6135,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇪🇸ASCIRES Has Been Claimed a Victim to Dragon Ransomware\n\nhttps://darkwebinformer.com/ascires-has-been-claimed-a-victim-to-dragon-ransomware/\n\nA group claims to have obtained 700GB of critical data from Ascires Biomedical Group, a leading biomedical organization in Spain. The compromised data reportedly includes research data, client records, internal documents, and more.\n\nNote: Ascires had previously been targeted by the STORMOUS group.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Spain"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/ascires-has-been-claimed-a-victim-to-dragon-ransomware/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -47979,6 +48014,105 @@
             ],
             "URLs": [
                 "jillamy.com"
+            ]
+        },
+        {
+            "Message ID": 90960,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44247\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44247\n\nDescription: The issue was addressed with improved checks. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. A malicious application may be able to modify protected parts of the file system.\n\nPublication Date: Wed Oct 30 20:16:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44247"
+            ]
+        },
+        {
+            "Message ID": 90959,
+            "discovered": "2024-10-30",
+            "post_title": "Vulnerability ID: CVE-2022-23861\n\nDescription: Multiple Stored Cross-Site Scripting vulnerabilities were discovered in Y Soft SAFEQ 6 Build 53. Multiple fields in the YSoft SafeQ web application can be used to inject malicious inputs that, due to a lack of output sanitization, result in the execution of arbitrary JS code. These fields can be leveraged to perform XSS attacks on legitimate users accessing the SafeQ web interface.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2022-23861\n\nDate of Publishing: 2024/10/30\n\nLink to Exploit: https://github.com/mbadanoiu/CVE-2022-23861\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS",
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-23861",
+                "https://github.com/mbadanoiu/CVE-2022-23861"
+            ]
+        },
+        {
+            "Message ID": 90958,
+            "discovered": "2024-10-30",
+            "post_title": "Title: 10,000 WordPress Sites Affected by Arbitrary File Upload Vulnerability in AI Power: Complete AI Pack WordPress Plugin\n\nDate: October 30, 2024\n\nSource: https://www.wordfence.com/blog/2024/10/10000-wordpress-sites-affected-by-arbitrary-file-upload-vulnerability-in-ai-power-complete-ai-pack-wordpress-plugin/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.wordfence.com/blog/2024/10/10000-wordpress-sites-affected-by-arbitrary-file-upload-vulnerability-in-ai-power-complete-ai-pack-wordpress-plugin/"
+            ]
+        },
+        {
+            "Message ID": 90957,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-38378\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-38378\n\nDescription: The web interface on the RIGOL MSO5000 digital oscilloscope with firmware 00.01.03.00.03 allows remote attackers to execute arbitrary code via shell metacharacters in pass1 to the webcontrol changepwd.cgi application.\n\nPublication Date: Wed Oct 30 20:04:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-38378"
+            ]
+        },
+        {
+            "Message ID": 90956,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-50344\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50344\n\nDescription: I, Librarian is an open-source version of a PDF managing SaaS. Supplemental Files are allowed to be viewed in the browser, only if they have a white-listed MIME type. Unfortunately, this logic is broken, thus allowing unsafe files containing Javascript to be executed with the application context. An attacker can exploit this vulnerability by uploading a supplementary file that contains a malicious code or script. This code will then be executed when the file is loaded in the browser. The vulnerability was fixed in version 5.11.2.\n\nPublication Date: Wed Oct 30 20:04:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50344"
+            ]
+        },
+        {
+            "Message ID": 90955,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-51258\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51258\n\nDescription: DrayTek Vigor3900 1.5.1.3 allows attackers to inject malicious commands into mainfunction.cgi and execute arbitrary commands by calling the doSSLTunnel function.\n\nPublication Date: Wed Oct 30 20:04:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51258",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 90954,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2022-38176\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-38176\n\nDescription: An issue was discovered in YSoft SAFEQ 6 before 6.0.72. Incorrect privileges were configured as part of the installer package for the Client V3 services, allowing for local user privilege escalation by overwriting the executable file via an alternative data stream. NOTE: this is not the same as CVE-2021-31859.\n\nPublication Date: Wed Oct 30 20:04:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-38176"
+            ]
+        },
+        {
+            "Message ID": 90953,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-31652\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-31652\n\nDescription: A cross-site scripting (XSS) in Cosmetics and Beauty Product Online Store v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Search parameter.\n\nPublication Date: Wed Oct 30 20:04:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-31652"
             ]
         }
     ],
