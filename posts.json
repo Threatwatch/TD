@@ -5134,6 +5134,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-alphabyte/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6142,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇮🇳Esteem Restoration Eagle Defaced the Website of Vrutant News\n\nhttps://darkwebinformer.com/esteem-restoration-eagle-defaced-the-website-of-vrutant-news/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/esteem-restoration-eagle-defaced-the-website-of-vrutant-news/"
+            ]
         }
     ],
     "RipperSec | 团队": [
