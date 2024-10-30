@@ -5388,6 +5388,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/sukob-is-allegedly-selling-unauthorized-access-to-an-unidentified-telecommunications-company-in-taiwan-with-a-55-billion-usd-revenue/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6165,
+            "discovered": "2024-10-30",
+            "post_title": "💡Daily Dose of Dark Web Informer - October 30th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-30th-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-30th-2024/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -49949,6 +49961,31 @@
             ],
             "URLs": [
                 "https://sinister.ly/Thread-DirecTV-FuboTV-Netflix-DAZN-Disney-And-more-Stable-Streaming-Account-at-Asils-STORE-%E2%9C%85"
+            ]
+        },
+        {
+            "Message ID": 91063,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-43839\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43839\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nbna: adjust 'name' buf size of bna_tcb and bna_ccb structures\n\nTo have enough space to write all possible sprintf() args. Currently\n'name' size is 16, but the first '%s' specifier may already need at\nleast 16 characters, since 'bnad->netdev->name' is used there.\n\nFor '%d' specifiers, assume that they require:\n * 1 char for 'tx_id + tx_info->tcb[i]->id' sum, BNAD_MAX_TXQ_PER_TX is 8\n * 2 chars for 'rx_id + rx_info->rx_ctrl[i].ccb->id', BNAD_MAX_RXP_PER_RX\n   is 16\n\nAnd replace sprintf with snprintf.\n\nDetected using the static analysis tool - Svace.\n\nPublication Date: Thu Oct 31 02:14:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43839"
+            ]
+        },
+        {
+            "Message ID": 91062,
+            "discovered": "2024-10-30",
+            "post_title": "Vulnerability ID: CVE-2022-23862\n\nDescription: A Local Privilege Escalation issue was discovered in Y Soft SAFEQ 6 Build 53. The SafeQ JMX service running on port 9696 is vulnerable to JMX MLet attacks. Because the service did not enforce authentication and was running under the \"NT Authority\\System\" user, an attacker is able to use the vulnerability to execute arbitrary code and elevate to the system user.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2022-23862\n\nDate of Publishing: 2024/10/30\n\nLink to Exploit: https://github.com/mbadanoiu/CVE-2022-23862\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-23862",
+                "https://github.com/mbadanoiu/CVE-2022-23862"
             ]
         }
     ],
