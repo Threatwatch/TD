@@ -47968,6 +47968,18 @@
                 "https://gobernacionnapo.gob.ec/kurd.html",
                 "http://www.zone-h.org/mirror/id/41293969"
             ]
+        },
+        {
+            "Message ID": 90952,
+            "discovered": "2024-10-30",
+            "post_title": "Victim: Jillamy (jillamy.com)\n\nDetection Date: Wed Oct 30 19:52:15 2024\n\nThreat Actor: fog\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "jillamy.com"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
