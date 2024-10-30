@@ -4947,6 +4947,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-80-million-leads-from-the-usa/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6127,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇫🇮303 Has Allegedly Leaked Source Code from Habbo Hotel (2020)\n\nhttps://darkwebinformer.com/303-has-allegedly-leaked-source-code-from-habbo-hotel-2020/\n\nA threat actor claims to have leaked the source code for Habbo Hotel.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/303-has-allegedly-leaked-source-code-from-habbo-hotel-2020/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6126,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇩🇪A Threat Actor is Selling Access to an Unidentified German E-commerce Site\n\nhttps://darkwebinformer.com/a-threat-actor-is-selling-access-to-an-unidentified-german-e-commerce-site/\n\nA threat actor claims to be selling access to a German e-commerce site running on PrestaShop, which reportedly handles approximately 65 orders per month.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-selling-access-to-an-unidentified-german-e-commerce-site/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -27570,6 +27594,32 @@
             "URLs": [
                 "blehouse.com.ph, ",
                 "somfeed.it/index.php?page=post_details&id_post=18268"
+            ]
+        },
+        {
+            "Message ID": 3965,
+            "discovered": "2024-10-30",
+            "post_title": "ID: 18279\n⚠ Wed, 30 Oct 2024 10:33:41 UTC\n🥷 ransomhub\n🎯 tlie.org, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18279",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "ie.org, ",
+                "somfeed.it/index.php?page=post_details&id_post=18279"
+            ]
+        },
+        {
+            "Message ID": 3964,
+            "discovered": "2024-10-30",
+            "post_title": "ID: 18278\n⚠ Wed, 30 Oct 2024 13:04:08 UTC\n🥷 ransomhub\n🎯 nagucoop.com, Puerto Rico\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18278",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Puerto Rico"
+            ],
+            "URLs": [
+                "gucoop.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18278"
             ]
         }
     ],
