@@ -5351,6 +5351,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/moroccan-conquest-team-targeted-the-website-of-general-directorate-for-digital-national-security/"
             ]
+        },
+        {
+            "Message ID": 6162,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇮🇳Dragon RaaS Defaced the Website of Mana Hotels\n\nhttps://darkwebinformer.com/dragon-raas-defaced-the-website-of-mana-hotels/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/dragon-raas-defaced-the-website-of-mana-hotels/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -49586,6 +49598,167 @@
             ],
             "URLs": [
                 "https://www.sonatype.com/blog/the-evolution-of-open-source-risk-persistent-challenges-in-software-security"
+            ]
+        },
+        {
+            "Message ID": 91052,
+            "discovered": "2024-10-30",
+            "post_title": "Title: RedLine and Meta: The Story of Two Disrupted Infostealers\n\nDate: October 30, 2024\n\nSource: https://intel471.com/blog/redline-and-meta-the-story-of-two-disrupted-infostealers\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://intel471.com/blog/redline-and-meta-the-story-of-two-disrupted-infostealers"
+            ]
+        },
+        {
+            "Message ID": 91051,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Cyber Threat Intelligence for Autodidacts\n\nDate: October 30, 2024\n\nSource: https://blog.bushidotoken.net/2024/10/cyber-threat-intelligence-for.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.bushidotoken.net/2024/10/cyber-threat-intelligence-for.html"
+            ]
+        },
+        {
+            "Message ID": 91050,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-48807\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48807\n\nDescription: Cross Site Scripting vulnerability in PHPGurukul Doctor Appointment Management System v.1.0 allows a local attacker to execute arbitrary code via the search parameter.\n\nPublication Date: Thu Oct 31 01:08:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48807"
+            ]
+        },
+        {
+            "Message ID": 91049,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-51242\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51242\n\nDescription: A Server-Side Request Forgery (SSRF) vulnerability has been identified in eladmin 2.7 and earlier in ServerDeployController.java. The manipulation of the HTTP Body ip parameter leads to SSRF.\n\nPublication Date: Thu Oct 31 01:08:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51242",
+                "ServerDeployController.java"
+            ]
+        },
+        {
+            "Message ID": 91048,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-51243\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51243\n\nDescription: The eladmin v2.7 and before contains a remote code execution (RCE) vulnerability that can control all application deployment servers of this management system via DeployController.java.\n\nPublication Date: Thu Oct 31 01:08:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51243",
+                "DeployController.java"
+            ]
+        },
+        {
+            "Message ID": 91047,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-51426\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51426\n\nDescription: Insecure Permissions vulnerability in Ethereum v.1.12.2 allows a remote attacker to escalate privileges via the _transfer function.\n\nPublication Date: Thu Oct 31 01:07:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51426"
+            ]
+        },
+        {
+            "Message ID": 91046,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-49373\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49373\n\nDescription: No Fuss Computing Centurion ERP is open source enterprise resource planning (ERP) software. Prior to version 1.2.1, an authenticated user can view projects within organizations they are not apart of. Version 1.2.1 fixes the problem.\n\nPublication Date: Thu Oct 31 01:07:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49373"
+            ]
+        },
+        {
+            "Message ID": 91045,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-10005\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10005\n\nDescription: A vulnerability was identified in Consul and Consul Enterprise (“Consul”) such that using URL paths in L7 traffic intentions could bypass HTTP request path-based access rules.\n\nPublication Date: Thu Oct 31 01:07:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Consul",
+                "L7"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10005"
+            ]
+        },
+        {
+            "Message ID": 91044,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-48605\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48605\n\nDescription: An issue in Helakuru Desktop Application v1.1 allows a local attacker to execute arbitrary code via the lack of proper validation of the wow64log.dll file.\n\nPublication Date: Thu Oct 31 01:07:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48605"
+            ]
+        },
+        {
+            "Message ID": 91043,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-10006\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10006\n\nDescription: A vulnerability was identified in Consul and Consul Enterprise (“Consul”) such that using Headers in L7 traffic intentions could bypass HTTP header based access rules.\n\nPublication Date: Thu Oct 31 01:07:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Consul",
+                "L7"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10006"
+            ]
+        },
+        {
+            "Message ID": 91042,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-10086\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10086\n\nDescription: A vulnerability was identified in Consul and Consul Enterprise such that the server response did not explicitly set a Content-Type HTTP header, allowing user-provided inputs to be misinterpreted and lead to reflected XSS.\n\nPublication Date: Thu Oct 31 01:07:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Consul",
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10086"
+            ]
+        },
+        {
+            "Message ID": 91041,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-45518\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45518\n\nDescription: An issue was discovered in Zimbra Collaboration (ZCS) 10.1.x before 10.1.1, 10.0.x before 10.0.9, 9.0.0 before Patch 41, and 8.8.15 before Patch 46. It allows authenticated users to exploit Server-Side Request Forgery (SSRF) due to improper input sanitization and misconfigured domain whitelisting. This issue permits unauthorized HTTP requests to be sent to internal services, which can lead to Remote Code Execution (RCE) by chaining Command Injection within the internal service. When combined with existing XSS vulnerabilities, this SSRF issue can further facilitate Remote Code Execution (RCE).\n\nPublication Date: Thu Oct 31 01:06:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45518"
+            ]
+        },
+        {
+            "Message ID": 91040,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-8421\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8421\n\nDescription: Red Hat Product Security has come to the conclusion that this CVE is not needed.\n\nPublication Date: Thu Oct 31 01:06:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8421"
             ]
         }
     ],
