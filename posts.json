@@ -5041,6 +5041,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/mommy-is-allegedly-selling-root-access-of-tiphone-mobile-indonesia-tbk-pt/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6134,
+            "discovered": "2024-10-30",
+            "post_title": "🚨PoC for CVE-2024-46538 PfSense Stored XSS lead to RCE\n\nhttps://github.com/EQSTLab/CVE-2024-46538",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://github.com/EQSTLab/CVE-2024-46538"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -47930,6 +47942,32 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-37716"
             ]
+        },
+        {
+            "Message ID": 90951,
+            "discovered": "2024-10-30",
+            "post_title": "Target: https://swdajk.gov.pk/kurd.html\n\nNotified: 0x1998\n\nDate: Wed, 30 Oct 2024 16:26:48 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41293971\n\n#Defacements #Pakistan",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Pakistan"
+            ],
+            "URLs": [
+                "https://swdajk.gov.pk/kurd.html",
+                "http://www.zone-h.org/mirror/id/41293971"
+            ]
+        },
+        {
+            "Message ID": 90950,
+            "discovered": "2024-10-30",
+            "post_title": "Target: https://gobernacionnapo.gob.ec/kurd.html\n\nNotified: 0x1998\n\nDate: Wed, 30 Oct 2024 16:22:03 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41293969\n\n#Defacements #Ecuador",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Ecuador"
+            ],
+            "URLs": [
+                "https://gobernacionnapo.gob.ec/kurd.html",
+                "http://www.zone-h.org/mirror/id/41293969"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
@@ -47945,5 +47983,6 @@
                 "https://www.thisdaylive.com/index.php/2024/10/30/pro-russia-hackers-accused-of-targeting-taiwans-computer-systems/"
             ]
         }
-    ]
+    ],
+    "RipperSec | 新闻频道 🗞️": []
 }
