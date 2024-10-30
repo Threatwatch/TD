@@ -5400,6 +5400,16 @@
             "URLs": [
                 "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-30th-2024/"
             ]
+        },
+        {
+            "Message ID": 6166,
+            "discovered": "2024-10-30",
+            "post_title": "???????????????",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -49986,6 +49996,44 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2022-23862",
                 "https://github.com/mbadanoiu/CVE-2022-23862"
+            ]
+        },
+        {
+            "Message ID": 91066,
+            "discovered": "2024-10-30",
+            "post_title": "Title: FakeCall malware menaces Android devices\n\nDate: October 30, 2024\n\nSource: https://www.scworld.com/news/fakecall-malware-menaces-android-devices\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/fakecall-malware-menaces-android-devices"
+            ]
+        },
+        {
+            "Message ID": 91065,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2021-47613\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47613\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ni2c: virtio: fix completion handling\n\nThe driver currently assumes that the notify callback is only received\nwhen the device is done with all the queued buffers.\n\nHowever, this is not true, since the notify callback could be called\nwithout any of the queued buffers being completed (for example, with\nvirtio-pci and shared interrupts) or with only some of the buffers being\ncompleted (since the driver makes them available to the device in\nmultiple separate virtqueue_add_sgs() calls).\n\nThis can lead to incorrect data on the I2C bus or memory corruption in\nthe guest if the device operates on buffers which are have been freed by\nthe driver.  (The WARN_ON in the driver is also triggered.)\n\n BUG kmalloc-128 (Tainted: G        W        ): Poison overwritten\n First byte 0x0 instead of 0x6b\n Allocated in i2cdev_ioctl_rdwr+0x9d/0x1de age=243 cpu=0 pid=28\n  memdup_user+0x2e/0xbd\n  i2cdev_ioctl_rdwr+0x9d/0x1de\n  i2cdev_ioctl+0x247/0x2ed\n  vfs_ioctl+0x21/0x30\n  sys_ioctl+0xb18/0xb41\n Freed in i2cdev_ioctl_rdwr+0x1bb/0x1de age=68 cpu=0 pid=28\n  kfree+0x1bd/0x1cc\n  i2cdev_ioctl_rdwr+0x1bb/0x1de\n  i2cdev_ioctl+0x247/0x2ed\n  vfs_ioctl+0x21/0x30\n  sys_ioctl+0xb18/0xb41\n\nFix this by calling virtio_get_buf() from the notify handler like other\nvirtio drivers and by actually waiting for all the buffers to be\ncompleted.\n\nPublication Date: Thu Oct 31 02:26:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47613"
+            ]
+        },
+        {
+            "Message ID": 91064,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2021-47615\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47615\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nRDMA/mlx5: Fix releasing unallocated memory in dereg MR flow\n\nFor the case of IB_MR_TYPE_DM the mr does doesn't have a umem, even though\nit is a user MR. This causes function mlx5_free_priv_descs() to think that\nit is a kernel MR, leading to wrongly accessing mr->descs that will get\nwrong values in the union which leads to attempt to release resources that\nwere not allocated in the first place.\n\nFor example:\n DMA-API: mlx5_core 0000:08:00.1: device driver tries to free DMA memory it has not allocated [device address=0x0000000000000000] [size=0 bytes]\n WARNING: CPU: 8 PID: 1021 at kernel/dma/debug.c:961 check_unmap+0x54f/0x8b0\n RIP: 0010:check_unmap+0x54f/0x8b0\n Call Trace:\n  debug_dma_unmap_page+0x57/0x60\n  mlx5_free_priv_descs+0x57/0x70 [mlx5_ib]\n  mlx5_ib_dereg_mr+0x1fb/0x3d0 [mlx5_ib]\n  ib_dereg_mr_user+0x60/0x140 [ib_core]\n  uverbs_destroy_uobject+0x59/0x210 [ib_uverbs]\n  uobj_destroy+0x3f/0x80 [ib_uverbs]\n  ib_uverbs_cmd_verbs+0x435/0xd10 [ib_uverbs]\n  ? uverbs_finalize_object+0x50/0x50 [ib_uverbs]\n  ? lock_acquire+0xc4/0x2e0\n  ? lock_acquired+0x12/0x380\n  ? lock_acquire+0xc4/0x2e0\n  ? lock_acquire+0xc4/0x2e0\n  ? ib_uverbs_ioctl+0x7c/0x140 [ib_uverbs]\n  ? lock_release+0x28a/0x400\n  ib_uverbs_ioctl+0xc0/0x140 [ib_uverbs]\n  ? ib_uverbs_ioctl+0x7c/0x140 [ib_uverbs]\n  __x64_sys_ioctl+0x7f/0xb0\n  do_syscall_64+0x38/0x90\n\nFix it by reorganizing the dereg flow and mlx5_ib_mr structure:\n - Move the ib_umem field into the user MRs structure in the union as it's\n   applicable only there.\n - Function mlx5_ib_dereg_mr() will now call mlx5_free_priv_descs() only\n   in case there isn't udata, which indicates that this isn't a user MR.\n\nPublication Date: Thu Oct 31 02:25:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "MR",
+                "MR",
+                "MR"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47615"
             ]
         }
     ],
