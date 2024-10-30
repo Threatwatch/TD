@@ -5178,6 +5178,28 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6147,
+            "discovered": "2024-10-30",
+            "post_title": "RIP",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6146,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇺🇸A Threat Actor is Allegedly Selling Access to an Unidentified USA Manufacturing Company\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-usa-manufacturing-company/\n\nA threat actor is offering to sell access to an unidentified U.S. manufacturing company, reportedly including control over approximately 40 machines within its network.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "U.S."
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-usa-manufacturing-company/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -48733,6 +48755,28 @@
             "URLs": [
                 "https://blog.lumen.com/how-ucc-helps-drive-business-success/?utm_source=rss&utm_medium=rss&utm_campaign=how-ucc-helps-drive-business-success"
             ]
+        },
+        {
+            "Message ID": 91001,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Sinisterly - I am selling corporate and personal Mail Access for 8477 Domains\n\nDetection Date: Wed Oct 30 22:47:17 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-Leak-I-am-selling-corporate-and-personal-Mail-Access-for-8477-Domains\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-Leak-I-am-selling-corporate-and-personal-Mail-Access-for-8477-Domains"
+            ]
+        },
+        {
+            "Message ID": 91000,
+            "discovered": "2024-10-30",
+            "post_title": "Victim: PlayBoySource Code Sale\n\nDetection Date: Wed Oct 30 22:46:53 2024\n\nThreat Actor: playboy\n\n#Ransomware",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": [
