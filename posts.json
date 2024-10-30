@@ -4971,6 +4971,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-selling-access-to-an-unidentified-german-e-commerce-site/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6129,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇨🇱mommy is Allegedly Selling Access to gtd\n\nhttps://darkwebinformer.com/mommy-is-allegedly-selling-access-to-gtd/\n\nA threat actor claims to be selling root access to the Gtd firewall, potentially granting full access to their entire network.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/mommy-is-allegedly-selling-access-to-gtd/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6128,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇺🇸mommy is Allegedly Selling Root Access of McKinsey & Company\n\nhttps://darkwebinformer.com/mommy-is-allegedly-selling-root-access-of-mckinsey-company/\n\nA threat actor is reportedly offering root access to the network of McKinsey & Company.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/mommy-is-allegedly-selling-root-access-of-mckinsey-company/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -47660,6 +47684,16 @@
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/android-malware-fakecall-now-reroutes-bank-calls-to-attackers/"
             ]
+        },
+        {
+            "Message ID": 90934,
+            "discovered": "2024-10-30",
+            "post_title": "Victim: IM Cannabis Hacked\n\nDetection Date: Wed Oct 30 18:43:12 2024\n\nThreat Actor: handala\n\n#Ransomware",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": [
