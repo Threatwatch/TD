@@ -5156,6 +5156,28 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6145,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇺🇦EvilMorocco Hacktivism Claims to have Breached GoSmart\n\nhttps://darkwebinformer.com/evilmorocco-hacktivism-claims-to-have-breached-gosmart/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/evilmorocco-hacktivism-claims-to-have-breached-gosmart/"
+            ]
+        },
+        {
+            "Message ID": 6144,
+            "discovered": "2024-10-30",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
