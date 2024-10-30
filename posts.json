@@ -4995,6 +4995,52 @@
             "URLs": [
                 "ps://darkwebinformer.com/mommy-is-allegedly-selling-root-access-of-mckinsey-company/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6133,
+            "discovered": "2024-10-30",
+            "post_title": "💡Shared Hosting vs Virtual Private Server (VPS) vs Dedicated Hosting",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6132,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🚨🚨🇵🇪A Threat Actor Allegedly Has Leaked Part 1 of Interbank Data\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-part-1-of-interbank-data/\n\nA threat actor claims to have leaked data from Interbank, reportedly comprising 3.7 TB of information on 3 million customers. The exposed data includes names, dates of birth, addresses, phone numbers, emails, credit card data, CVVs, passwords, and more. Additionally, the threat actor claims to have obtained access to API credentials, as well as LDAP and Azure credentials.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-part-1-of-interbank-data/\n\nA t"
+            ]
+        },
+        {
+            "Message ID": 6131,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇫🇷A Threat Actor Has Allegedly Leaked Data of Opencell\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-opencell/\n\nA threat actor claims to have leaked the database of Opencell, containing user IDs, names, password hashes, phone numbers, and other sensitive information.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-opencell/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6130,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇮🇩mommy is Allegedly Selling Root Access of Tiphone Mobile Indonesia Tbk, PT\n\nhttps://darkwebinformer.com/mommy-is-allegedly-selling-root-access-of-tiphone-mobile-indonesia-tbk-pt/\n\nA threat actor is reportedly offering root access to the network of Tiphone Mobile Indonesia Tbk, PT.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/mommy-is-allegedly-selling-root-access-of-tiphone-mobile-indonesia-tbk-pt/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -19666,6 +19712,16 @@
                 "ttps://t.me/Hunt3rkill3rs1\n",
                 "ttps://t.me/evilmorocco\n"
             ]
+        },
+        {
+            "Message ID": 947,
+            "discovered": "2024-10-30",
+            "post_title": "The registration will be closed in 24 hours!",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Electronic Tigers Unit": [
@@ -47694,6 +47750,186 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 90949,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44196\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44196\n\nDescription: A permissions issue was addressed with additional restrictions. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. An app may be able to modify protected parts of the file system.\n\nPublication Date: Wed Oct 30 19:19:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44196"
+            ]
+        },
+        {
+            "Message ID": 90948,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44123\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44123\n\nDescription: A permissions issue was addressed with additional restrictions. This issue is fixed in macOS Sequoia 15, iOS 18 and iPadOS 18. A malicious app with root privileges may be able to access keyboard input and location information without user consent.\n\nPublication Date: Wed Oct 30 19:19:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44123"
+            ]
+        },
+        {
+            "Message ID": 90947,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-38350\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-38350\n\nDescription: PNP4Nagios through 81ebfc5 has stored XSS in the AJAX controller via the basket API and filters. This affects 0.6.26.\n\nPublication Date: Wed Oct 30 19:19:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-38350"
+            ]
+        },
+        {
+            "Message ID": 90946,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44270\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44270\n\nDescription: A logic issue was addressed with improved validation. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. A sandboxed process may be able to circumvent sandbox restrictions.\n\nPublication Date: Wed Oct 30 19:18:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44270"
+            ]
+        },
+        {
+            "Message ID": 90945,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44267\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44267\n\nDescription: The issue was addressed with improved checks. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. A malicious application may be able to modify protected parts of the file system.\n\nPublication Date: Wed Oct 30 19:18:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44267"
+            ]
+        },
+        {
+            "Message ID": 90944,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Adlumin Named to Fortune Cyber 60 List\n\nDate: October 30, 2024\n\nSource: https://adlumin.com/news/press-release/adlumin-named-to-fortune-cyber-60-list/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://adlumin.com/news/press-release/adlumin-named-to-fortune-cyber-60-list/"
+            ]
+        },
+        {
+            "Message ID": 90943,
+            "discovered": "2024-10-30",
+            "post_title": "Title: How VSP Vision™ Gains Nearly 50% More Productivity And Protects The Data Of 85 Million Members\n\nDate: October 30, 2024\n\nSource: https://blog.lumen.com/how-vsp-vision-gains-nearly-50-more-productivity-and-protects-the-data-of-85-million-members/?utm_source=rss&utm_medium=rss&utm_campaign=how-vsp-vision-gains-nearly-50-more-productivity-and-protects-the-data-of-85-million-members\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.lumen.com/how-vsp-vision-gains-nearly-50-more-productivity-and-protects-the-data-of-85-million-members/?utm_source=rss&utm_medium=rss&utm_campaign=how-vsp-vision-gains-nearly-50-more-productivity-and-protects-the-data-of-85-million-members"
+            ]
+        },
+        {
+            "Message ID": 90942,
+            "discovered": "2024-10-30",
+            "post_title": "Title: North Korean Group Collaborates with Play Ransomware in Significant Cyber Attack\n\nDate: Oct 30, 2024\n\nSource: https://thehackernews.com/2024/10/north-korean-group-collaborates-with.html\n\n#News #Korea",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Korea"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/north-korean-group-collaborates-with.html"
+            ]
+        },
+        {
+            "Message ID": 90941,
+            "discovered": "2024-10-30",
+            "post_title": "Title: North Korean govt hackers linked to Play ransomware attack\n\nDate: October 30, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/north-korean-govt-hackers-linked-to-play-ransomware-attack/\n\n#News #Korea",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Korea"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/north-korean-govt-hackers-linked-to-play-ransomware-attack/"
+            ]
+        },
+        {
+            "Message ID": 90940,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-38349\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-38349\n\nDescription: PNP4Nagios through 81ebfc5 lacks CSRF protection in the AJAX controller. This affects 0.6.26.\n\nPublication Date: Wed Oct 30 19:06:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-38349"
+            ]
+        },
+        {
+            "Message ID": 90939,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-7976\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-7976\n\nDescription: Inappropriate implementation in FedCM in Google Chrome prior to 128.0.6613.84 allowed a remote attacker to perform UI spoofing via a crafted HTML page. (Chromium security severity: Medium)\n\nPublication Date: Wed Oct 30 19:06:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7976"
+            ]
+        },
+        {
+            "Message ID": 90938,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-40787\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-40787\n\nDescription: This issue was addressed by adding an additional prompt for user consent. This issue is fixed in macOS Ventura 13.6.8, macOS Monterey 12.7.6, iOS 17.6 and iPadOS 17.6, watchOS 10.6, macOS Sonoma 14.6. A shortcut may be able to bypass Internet permission requirements.\n\nPublication Date: Wed Oct 30 19:06:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-40787"
+            ]
+        },
+        {
+            "Message ID": 90937,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-37717\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37717\n\nDescription: Tenda F1202 V1.0BR_V1.2.0.20(408) and FH1202_V1.2.0.19_EN, AC10 V1.0, AC1206 V1.0, AC7 V1.0, AC5 V1.0, and AC9 V3.0 were discovered to contain a stack overflow in the page parameter in the function fromDhcpListClient.\n\nPublication Date: Wed Oct 30 19:06:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37717"
+            ]
+        },
+        {
+            "Message ID": 90936,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2022-48638\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-48638\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ncgroup: cgroup_get_from_id() must check the looked-up kn is a directory\n\ncgroup has to be one kernfs dir, otherwise kernel panic is caused,\nespecially cgroup id is provide from userspace.\n\nPublication Date: Wed Oct 30 19:06:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-48638"
+            ]
+        },
+        {
+            "Message ID": 90935,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-37716\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37716\n\nDescription: Tenda F1202 V1.0BR_V1.2.0.20(408) and FH1202_V1.2.0.19_EN, AC10 V1.0, AC1206 V1.0, AC7 V1.0, AC5 V1.0, and AC9 V3.0 were discovered to contain a stack overflow in the page parameter in the function fromNatStaticSetting.\n\nPublication Date: Wed Oct 30 19:05:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37716"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
