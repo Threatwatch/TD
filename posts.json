@@ -5410,6 +5410,31 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6168,
+            "discovered": "2024-10-30",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6167,
+            "discovered": "2024-10-30",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-30 23:52:28\n🚨 Title: Alleged sale of RDP access to an unidentified Belgium-based grocery retail company\n🛡️ Victim Country: Belgium\n🏭 Victim Industry: Retail Industry\n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Initial Access\n🕵️‍♂️ Threat Actor: CeFarir0ne\n🌍 Network: openweb\n🔗 Claim: https://forum.exploit.in/topic/249480/\n📝 Description: The threat actor claims to be selling corporate RDP access to a Belgium-based grocery retail company with revenue reported at $6.7 million. This access purportedly includes domain-level user rights, spanning 70 hosts within the domain.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Belgium",
+                "Belgium",
+                "Belgium"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "um.exploit.in/topic/249480/\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | 团队": [
