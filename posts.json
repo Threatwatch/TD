@@ -5339,6 +5339,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6161,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇫🇷Moroccan Conquest Team Targeted the Website of General Directorate for Digital National Security\n\nhttps://darkwebinformer.com/moroccan-conquest-team-targeted-the-website-of-general-directorate-for-digital-national-security/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/moroccan-conquest-team-targeted-the-website-of-general-directorate-for-digital-national-security/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -49562,6 +49574,18 @@
                 "DecryptApplicationService.java",
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10379",
                 "https://flowus.cn/share/0b03c61a-76a5-4f45-9ee7-a88e0f21d539?code=G8A6P3"
+            ]
+        },
+        {
+            "Message ID": 91039,
+            "discovered": "2024-10-30",
+            "post_title": "Title: The evolution of open source risk: Persistent challenges in software security\n\nDate: October 30, 2024\n\nSource: https://www.sonatype.com/blog/the-evolution-of-open-source-risk-persistent-challenges-in-software-security\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.sonatype.com/blog/the-evolution-of-open-source-risk-persistent-challenges-in-software-security"
             ]
         }
     ],
