@@ -5146,6 +5146,16 @@
             "URLs": [
                 "ps://darkwebinformer.com/esteem-restoration-eagle-defaced-the-website-of-vrutant-news/"
             ]
+        },
+        {
+            "Message ID": 6143,
+            "discovered": "2024-10-30",
+            "post_title": "If you happen to be in my channel and can DM me with proof, I'd like to say hi. I don't see contact info on your BF and I cannot reply because of PoW",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -27842,6 +27852,19 @@
                 "gucoop.com, ",
                 "somfeed.it/index.php?page=post_details&id_post=18278"
             ]
+        },
+        {
+            "Message ID": 3966,
+            "discovered": "2024-10-30",
+            "post_title": "ID: 18280\n⚠ Wed, 30 Oct 2024 14:00:06 UTC\n🥷 fog\n🎯 SmartSource (smartsource-inc.com), USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18280",
+            "Attack Type": "Hacking",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "artsource-inc.com),",
+                "somfeed.it/index.php?page=post_details&id_post=18280"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -48415,6 +48438,266 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9110"
+            ]
+        },
+        {
+            "Message ID": 90998,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-47064\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47064\n\nDescription: Computer Vision Annotation Tool (CVAT) is an interactive video and image annotation tool for computer vision. If an attacker can trick a logged-in CVAT user into visiting a maliciously-constructed URL, they can initiate any API calls on that user's behalf. This gives the attacker temporary access to all data that the victim user has access to. Upgrade to CVAT 2.19.0 or a later version to fix this issue.\n\nPublication Date: Wed Oct 30 22:14:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47064"
+            ]
+        },
+        {
+            "Message ID": 90997,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2018-25105\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2018-25105\n\nDescription: The  File Manager plugin for WordPress is vulnerable to authorization bypass due to a missing capability check in the /inc/root.php file in versions up to, and including, 3.0. This makes it possible for unauthenticated attackers to download arbitrary files from the server and upload arbitrary files that can be used for remote code execution.\n\nPublication Date: Wed Oct 30 22:13:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2018-25105"
+            ]
+        },
+        {
+            "Message ID": 90996,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-47063\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47063\n\nDescription: Computer Vision Annotation Tool (CVAT) is an interactive video and image annotation tool for computer vision. If a malicious CVAT user with permissions to either create a task, or edit an existing task can trick another logged-in user into visiting a maliciously-constructed URL, they can initiate any API calls on that user's behalf. This gives the attacker temporary access to all data that the victim user has access to. Upgrade to CVAT 2.19.0 or a later version to fix this issue.\n\nPublication Date: Wed Oct 30 22:13:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47063"
+            ]
+        },
+        {
+            "Message ID": 90995,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-35802\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35802\n\nDescription: IQ Engine before 10.6r1 on Extreme Network AP devices has a Buffer Overflow in the implementation of the CAPWAP protocol that may be exploited to obtain elevated privileges to conduct remote code execution. Access to the internal management interface/subnet is required to conduct the exploit.\n\nPublication Date: Wed Oct 30 22:13:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35802"
+            ]
+        },
+        {
+            "Message ID": 90994,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-47169\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47169\n\nDescription: Agnai is an artificial-intelligence-agnostic multi-user, mult-bot roleplaying chat system. A vulnerability in versions prior to 1.0.330 permits attackers to upload arbitrary files to attacker-chosen locations on the server, including JavaScript, enabling the execution of commands within those files. This issue could result in unauthorized access, full server compromise, data leakage, and other critical security threats. This does not affect `agnai.chat`, installations using S3-compatible storage, or self-hosting that is not publicly exposed. This does affect publicly hosted installs without S3-compatible storage. Version 1.0.330 fixes this vulnerability.\n\nPublication Date: Wed Oct 30 22:13:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47169"
+            ]
+        },
+        {
+            "Message ID": 90993,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44255\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44255\n\nDescription: A path handling issue was addressed with improved logic. This issue is fixed in visionOS 2.1, iOS 18.1 and iPadOS 18.1, macOS Ventura 13.7.1, macOS Sonoma 14.7.1, watchOS 11.1, tvOS 18.1. A malicious app may be able to run arbitrary shortcuts without user consent.\n\nPublication Date: Wed Oct 30 22:13:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44255"
+            ]
+        },
+        {
+            "Message ID": 90992,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44258\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44258\n\nDescription: This issue was addressed with improved handling of symlinks. This issue is fixed in iOS 18.1 and iPadOS 18.1, iOS 17.7.1 and iPadOS 17.7.1, visionOS 2.1, tvOS 18.1. Restoring a maliciously crafted backup file may lead to modification of protected system files.\n\nPublication Date: Wed Oct 30 22:12:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44258"
+            ]
+        },
+        {
+            "Message ID": 90991,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2021-31294\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-31294\n\nDescription: Redis before 6cbea7d allows a replica to cause an assertion failure in a primary server by sending a non-administrative command (specifically, a SET command). NOTE: this was fixed for Redis 6.2.x and 7.x in 2021. Versions before 6.2 were not intended to have safety guarantees related to this.\n\nPublication Date: Wed Oct 30 22:12:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-31294"
+            ]
+        },
+        {
+            "Message ID": 90990,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-37462\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37462\n\nDescription: XWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. Improper escaping in the document `SkinsCode.XWikiSkinsSheet` leads to an injection vector from view right on that document to programming rights, or in other words, it is possible to execute arbitrary script macros including Groovy and Python macros that allow remote code execution including unrestricted read and write access to all wiki contents. The attack works by opening a non-existing page with a name crafted to contain a dangerous payload. It is possible to check if an existing installation is vulnerable. See the linked GHSA for instructions on testing an installation. This issue has been patched in XWiki 14.4.8, 14.10.4 and 15.0-rc-1. Users are advised to upgrade. The fix commit `d9c88ddc` can also be applied manually to the impacted document `SkinsCode.XWikiSkinsSheet` and users unable to upgrade are advised to manually patch their installations.\n\nPublication Date: Wed Oct 30 22:12:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37462"
+            ]
+        },
+        {
+            "Message ID": 90989,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-37472\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37472\n\nDescription: Knowage is an open source suite for business analytics. The application often use user supplied data to create HQL queries without prior sanitization. An attacker can create specially crafted HQL queries that will break subsequent SQL queries generated by the Hibernate engine. The endpoint `_/knowage/restful-services/2.0/documents/listDocument_` calls the `_countBIObjects_` method of the `_BIObjectDAOHibImpl_` object with the user supplied `_label_` parameter without prior sanitization. This can lead to SQL injection in the backing database. Other injections have been identified in the application as well. An authenticated attacker with low privileges could leverage this vulnerability in order to retrieve sensitive information from the database, such as account credentials or business information. This issue has been addressed in version 8.1.8. Users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Wed Oct 30 22:12:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37472"
+            ]
+        },
+        {
+            "Message ID": 90988,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-33007\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-33007\n\nDescription: PDFViewer is a control delivered as part of SAPUI5 product which shows the PDF content in an embedded mode by default. If a PDF document contains embedded JavaScript (or any harmful client-side script), the PDFViewer will execute the JavaScript embedded in the PDF which can cause a potential security threat.\n\nPublication Date: Wed Oct 30 22:12:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-33007"
+            ]
+        },
+        {
+            "Message ID": 90987,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-37722\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37722\n\nDescription: Tenda F1202 V1.0BR_V1.2.0.20(408), FH1202_V1.2.0.19_EN were discovered to contain a stack overflow in the page parameter in the function fromSafeUrlFilter.\n\nPublication Date: Wed Oct 30 22:12:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37722"
+            ]
+        },
+        {
+            "Message ID": 90986,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-22231\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-22231\n\nDescription: Syndic cache directory creation is vulnerable to a directory traversal attack in salt project which can lead a malicious attacker to create an arbitrary directory on a Salt master.\n\nPublication Date: Wed Oct 30 22:11:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-22231"
+            ]
+        },
+        {
+            "Message ID": 90985,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-37721\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37721\n\nDescription: Tenda F1202 V1.0BR_V1.2.0.20(408), FH1202_V1.2.0.19_EN were discovered to contain a stack overflow in the page parameter in the function fromSafeMacFilter.\n\nPublication Date: Wed Oct 30 22:11:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37721"
+            ]
+        },
+        {
+            "Message ID": 90984,
+            "discovered": "2024-10-30",
+            "post_title": "Vulnerability ID: CVE-2024-10353\n\nDescription: A vulnerability classified as critical has been found in SourceCodester Online Exam System 1.0. Affected is an unknown function of the file /admin-dashboard. The manipulation leads to improper access controls. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. This affects a different product and is a different issue than CVE-2024-40480.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10353\n\nDate of Publishing: 2024/10/30\n\nLink to Exploit: https://vuldb.com/?submit.427957\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10353",
+                "https://vuldb.com/?submit.427957"
+            ]
+        },
+        {
+            "Message ID": 90983,
+            "discovered": "2024-10-30",
+            "post_title": "Vulnerability ID: CVE-2022-4971\n\nDescription: The Sassy Social Share plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the 'urls' parameter called via the 'heateor_sss_sharing_count' AJAX action in versions up to, and including, 3.3.3 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2022-4971\n\nDate of Publishing: 2024/10/30\n\nLink to Exploit: https://wpscan.com/vulnerability/4631519b-2060-43a0-b69b-b3d7ed94c705/\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-4971",
+                "https://wpscan.com/vulnerability/4631519b-2060-43a0-b69b-b3d7ed94c705/"
+            ]
+        },
+        {
+            "Message ID": 90982,
+            "discovered": "2024-10-30",
+            "post_title": "Vulnerability ID: CVE-2024-10370\n\nDescription: A vulnerability was found in Codezips Sales Management System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file /addcustind.php. The manipulation of the argument refno leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10370\n\nDate of Publishing: 2024/10/30\n\nLink to Exploit: https://github.com/ppp-src/CVE/issues/19\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10370",
+                "https://github.com/ppp-src/CVE/issues/19"
+            ]
+        },
+        {
+            "Message ID": 90981,
+            "discovered": "2024-10-30",
+            "post_title": "Vulnerability ID: CVE-2024-10368\n\nDescription: A vulnerability was found in Codezips Sales Management System 1.0. It has been classified as critical. Affected is an unknown function of the file /addstock.php. The manipulation of the argument prodtype leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10368\n\nDate of Publishing: 2024/10/30\n\nLink to Exploit: https://github.com/ppp-src/CVE/issues/17\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "/addstock.php",
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10368",
+                "https://github.com/ppp-src/CVE/issues/17"
+            ]
+        },
+        {
+            "Message ID": 90980,
+            "discovered": "2024-10-30",
+            "post_title": "Vulnerability ID: CVE-2024-10369\n\nDescription: A vulnerability was found in Codezips Sales Management System 1.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file /addcustcom.php. The manipulation of the argument refno leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10369\n\nDate of Publishing: 2024/10/30\n\nLink to Exploit: https://github.com/ppp-src/CVE/issues/18\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10369",
+                "https://github.com/ppp-src/CVE/issues/18"
+            ]
+        },
+        {
+            "Message ID": 90979,
+            "discovered": "2024-10-30",
+            "post_title": "Vulnerability ID: CVE-2024-10355\n\nDescription: A vulnerability, which was classified as critical, has been found in SourceCodester Petrol Pump Management Software 1.0. Affected by this issue is some unknown functionality of the file /admin/invoice.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10355\n\nDate of Publishing: 2024/10/30\n\nLink to Exploit: https://github.com/K1nako0/tmp_vuln4/blob/main/README.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10355",
+                "https://github.com/K1nako0/tmp_vuln4/blob/main/README.md"
+            ]
+        },
+        {
+            "Message ID": 90978,
+            "discovered": "2024-10-30",
+            "post_title": "Vulnerability ID: CVE-2024-47880\n\nDescription: OpenRefine is a free, open source tool for working with messy data. Prior to version 3.8.3, the `export-rows` command can be used in such a way that it reflects part of the request verbatim, with a Content-Type header also taken from the request. An attacker could lead a user to a malicious page that submits a form POST that contains  embedded JavaScript code. This code would then be included in the response, along with an attacker-controlled `Content-Type` header, and so potentially executed in the victim's browser as if it was part of OpenRefine. The attacker-provided code can do anything the user can do, including deleting projects, retrieving database passwords, or executing arbitrary Jython or Closure expressions, if those extensions are also present. The attacker must know a valid project ID of a project that contains at least one row. Version 3.8.3 fixes the issue.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-47880\n\nDate of Publishing: 2024/10/30\n\nLink to Exploit: https://github.com/OpenRefine/OpenRefine/security/advisories/GHSA-79jv-5226-783f\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47880",
+                "https://github.com/OpenRefine/OpenRefine/security/advisories/GHSA-79jv-5226-783f"
             ]
         }
     ],
