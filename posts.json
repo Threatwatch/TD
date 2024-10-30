@@ -5088,6 +5088,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/ascires-has-been-claimed-a-victim-to-dragon-ransomware/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6138,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇨🇿A Threat Actor Allegedly Leaked Databases of KVacDoor\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-databases-of-kvacdoor/\n\nA threat actor claims to have leaked several databases from KVacDoor. The leaked databases reportedly include users.sql, stresser_whitelist.sql, stresser_methods.sql, stresser_logs.csv, payloads_categories.sql, payloads.sql, csrf.sql, and badges.sql.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-databases-of-kvacdoor/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -14747,6 +14759,30 @@
             "URLs": [
                 "http://waimaodemo14.t1.bj.cloud.seo1158.cn/admin/index.php"
             ]
+        },
+        {
+            "Message ID": 1951,
+            "discovered": "2024-10-30",
+            "post_title": "Hacked By Esteem Restoration Eagle\n\nCountry : India🇮🇳 \n\nSite : https://vrutantnews.in/\nhttps://richhairtransplantclinic.com/\n\nMirror : https://haxor.id/archive/mirror/210691\n\n#EsteemRestorationEagle\n#FuckIndia\n#OpIndia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "tps://vrutantnews.in/\nh",
+                "tps://richhairtransplantclinic.com/\n\n",
+                "tps://haxor.id/archive/mirror/210691\n\n"
+            ]
+        },
+        {
+            "Message ID": 1950,
+            "discovered": "2024-10-30",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SERVER KILLERS": [
@@ -48113,6 +48149,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-31652"
+            ]
+        },
+        {
+            "Message ID": 90961,
+            "discovered": "2024-10-30",
+            "post_title": "Title: QNAP patches second zero-day exploited at Pwn2Own to get root\n\nDate: October 30, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/qnap-patches-second-zero-day-exploited-at-pwn2own-to-get-root/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/qnap-patches-second-zero-day-exploited-at-pwn2own-to-get-root/"
             ]
         }
     ],
