@@ -9094,6 +9094,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 7125,
+            "discovered": "2024-10-30",
+            "post_title": "can you help me",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 7124,
+            "discovered": "2024-10-30",
+            "post_title": "Yes",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -46099,6 +46119,78 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10503"
+            ]
+        },
+        {
+            "Message ID": 90849,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-10506\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10506\n\nDescription: A vulnerability classified as critical has been found in code-projects Blood Bank System 1.0. This affects an unknown part of the file /admin/blood/update/B-.php. The manipulation of the argument Bloodname leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Wed Oct 30 06:02:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10506"
+            ]
+        },
+        {
+            "Message ID": 90848,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-9884\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9884\n\nDescription: The T(-) Countdown plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's 'tminus' shortcode in all versions up to, and including, 2.4.8 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Wed Oct 30 06:01:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9884"
+            ]
+        },
+        {
+            "Message ID": 90847,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-5816\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-5816\n\nDescription: The Code Explorer plugin for WordPress is vulnerable to arbitrary external file reading in all versions up to, and including, 1.4.5. This is due to the fact that the plugin does not restrict accessing files to those outside of the WordPress instance, though the intention of the plugin is to only access WordPress related files. This makes it possible for authenticated attackers, with administrator-level access, to read files outside of the WordPress instance.\n\nPublication Date: Wed Oct 30 06:01:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-5816"
+            ]
+        },
+        {
+            "Message ID": 90846,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-9886\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9886\n\nDescription: The WP Baidu Map plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's 'baidu_map' shortcode in all versions up to, and including, 1.2.2 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Wed Oct 30 06:01:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9886"
+            ]
+        },
+        {
+            "Message ID": 90845,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-9846\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9846\n\nDescription: The The Enable Shortcodes inside Widgets,Comments and Experts plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to, and including, 1.0.0. This is due to the software allowing users to execute an action that does not properly validate a value before running do_shortcode. This makes it possible for unauthenticated attackers to execute arbitrary shortcodes.\n\nPublication Date: Wed Oct 30 06:01:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9846"
+            ]
+        },
+        {
+            "Message ID": 90844,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-10505\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10505\n\nDescription: A vulnerability was found in wuzhicms 4.1.0. It has been classified as critical. Affected is the function add/edit of the file www/coreframe/app/content/admin/block.php. The manipulation leads to code injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. Initially two separate issues were created by the researcher for the different function calls. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Wed Oct 30 06:01:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10505"
             ]
         }
     ],
