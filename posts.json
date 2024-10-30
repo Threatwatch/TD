@@ -4803,6 +4803,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6115,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇨🇳mommy is Allegedly Selling Access to China Unicom\n\nhttps://darkwebinformer.com/mommy-is-allegedly-selling-access-to-china-unicom/\n\nA threat actor claims to be offering root access to the firewall server of China United Network Communications Group (China Unicom).",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/mommy-is-allegedly-selling-access-to-china-unicom/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6114,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇨🇳mommy Allegedly is Selling Access to China Telecom Corporation Limited\n\nhttps://darkwebinformer.com/mommy-allegedly-is-selling-access-to-china-telecom-corporation-limited/\n\nA threat actor claims to be selling unauthorized access to the network of China Telecom Corporation Limited.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/mommy-allegedly-is-selling-access-to-china-telecom-corporation-limited/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -46974,6 +46998,30 @@
             "URLs": [
                 "https://wonosari-tekung.lumajangkab.go.id",
                 "http://www.zone-h.org/mirror/id/41290751"
+            ]
+        },
+        {
+            "Message ID": 90899,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Change Healthcare Breach Hits 100M Americans\n\nDate: October 30, 2024\n\nSource: https://krebsonsecurity.com/2024/10/change-healthcare-breach-hits-100m-americans/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://krebsonsecurity.com/2024/10/change-healthcare-breach-hits-100m-americans/"
+            ]
+        },
+        {
+            "Message ID": 90898,
+            "discovered": "2024-10-30",
+            "post_title": "Title: FBI: Upcoming U.S. general election fuel multiple fraud schemes\n\nDate: October 30, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/fbi-upcoming-us-general-election-fuel-multiple-fraud-schemes/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "U.S."
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/fbi-upcoming-us-general-election-fuel-multiple-fraud-schemes/"
             ]
         }
     ],
