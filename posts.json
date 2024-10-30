@@ -5272,6 +5272,38 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6157,
+            "discovered": "2024-10-30",
+            "post_title": "Not oof ^",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6156,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇺🇸888 is Allegedly Data Belonging to OTTera\n\nhttps://darkwebinformer.com/888-is-allegedly-data-belonging-to-ottera/\n\nA threat actor claims to be selling the database of OTTera. The leaked data reportedly includes information on 578,367 unique users, containing details such as names, usernames, emails, dates of birth, age, address information, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/888-is-allegedly-data-belonging-to-ottera/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6155,
+            "discovered": "2024-10-30",
+            "post_title": "oof",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -24956,6 +24988,16 @@
             "URLs": [
                 "https://t.co/m6Hz3u8Ucs"
             ]
+        },
+        {
+            "Message ID": 3386,
+            "discovered": "2024-10-30",
+            "post_title": "Group: flocker\nApprox. Time: 20:42 30/10/24\nTitle: C**********M",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -49096,6 +49138,16 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-33768"
             ]
+        },
+        {
+            "Message ID": 91013,
+            "discovered": "2024-10-30",
+            "post_title": "Victim: C**********M\n\nDetection Date: Wed Oct 30 23:44:18 2024\n\nThreat Actor: fsociety\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": [
