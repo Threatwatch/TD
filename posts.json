@@ -46474,6 +46474,80 @@
                 "https://www.indembassysweden.gov.in",
                 "http://www.zone-h.org/mirror/id/41293944"
             ]
+        },
+        {
+            "Message ID": 90866,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-10108\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10108\n\nDescription: The WPAdverts – Classifieds Plugin plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's adverts_add shortcode in all versions up to, and including, 2.1.6 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Wed Oct 30 11:02:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10108"
+            ]
+        },
+        {
+            "Message ID": 90865,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-10223\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10223\n\nDescription: The WP Team – WordPress Team Member Plugin plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's htteamember shortcode in all versions up to, and including, 1.1.4 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Wed Oct 30 11:01:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10223"
+            ]
+        },
+        {
+            "Message ID": 90864,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-50503\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50503\n\nDescription: Authentication Bypass Using an Alternate Path or Channel vulnerability in Deryck Oñate User Toolkit allows Authentication Bypass.This issue affects User Toolkit: from n/a through 1.2.3.\n\nPublication Date: Wed Oct 30 11:01:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50503"
+            ]
+        },
+        {
+            "Message ID": 90863,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-50509\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50509\n\nDescription: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Chetan Khandla Woocommerce Product Design allows Path Traversal.This issue affects Woocommerce Product Design: from n/a through 1.0.0.\n\nPublication Date: Wed Oct 30 11:01:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50509"
+            ]
+        },
+        {
+            "Message ID": 90862,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-50512\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50512\n\nDescription: Generation of Error Message Containing Sensitive Information vulnerability in Posti Posti Shipping allows Retrieve Embedded Sensitive Data.This issue affects Posti Shipping: from n/a through 3.10.2.\n\nPublication Date: Wed Oct 30 11:01:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50512"
+            ]
+        },
+        {
+            "Message ID": 90861,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-9632\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9632\n\nDescription: A flaw was found in the X.org server. Due to improperly tracked allocation size in _XkbSetCompatMap, a local attacker may be able to trigger a buffer overflow condition via a specially crafted payload, leading to denial of service or local privilege escalation in distributions where the X.org server is run with root privileges.\n\nPublication Date: Wed Oct 30 11:01:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9632",
+                "X.org",
+                "X.org"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
