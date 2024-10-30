@@ -4793,6 +4793,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6113,
+            "discovered": "2024-10-30",
+            "post_title": "mommy, you on a roll bro",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -46951,6 +46961,19 @@
             ],
             "URLs": [
                 "https://thehackernews.com/2024/10/opera-browser-fixes-big-security-hole.html"
+            ]
+        },
+        {
+            "Message ID": 90897,
+            "discovered": "2024-10-30",
+            "post_title": "Target: https://wonosari-tekung.lumajangkab.go.id\n\nNotified: ./unn0rmaL\n\nDate: Fri, 18 Oct 2024 02:49:35 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41290751\n\n#Defacements #Indonesia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "https://wonosari-tekung.lumajangkab.go.id",
+                "http://www.zone-h.org/mirror/id/41290751"
             ]
         }
     ],
