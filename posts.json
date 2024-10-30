@@ -5363,6 +5363,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/dragon-raas-defaced-the-website-of-mana-hotels/"
             ]
+        },
+        {
+            "Message ID": 6163,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇺🇸Sunrise Express Has Been Claimed a Victim to PLAY Ransomware\n\nhttps://darkwebinformer.com/sunrise-express-has-been-claimed-a-victim-to-play-ransomware/\n\nA group claims to have obtained the organization’s database and plans to publish it on November 2, 2024. The data reportedly includes private and confidential information, such as client documents, budgets, payroll records, accounting details, contracts, tax information, IDs, financial data, and more.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/sunrise-express-has-been-claimed-a-victim-to-play-ransomware/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -25052,6 +25064,77 @@
             "Message ID": 3386,
             "discovered": "2024-10-30",
             "post_title": "Group: flocker\nApprox. Time: 20:42 30/10/24\nTitle: C**********M",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3393,
+            "discovered": "2024-10-30",
+            "post_title": "Group: play\nApprox. Time: 22:33 30/10/24\nTitle: iFocus Consulting",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3392,
+            "discovered": "2024-10-30",
+            "post_title": "Group: play\nApprox. Time: 22:33 30/10/24\nTitle: Unlimited Lawn Care",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3391,
+            "discovered": "2024-10-30",
+            "post_title": "Group: play\nApprox. Time: 22:33 30/10/24\nTitle: Sunrise Express",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3390,
+            "discovered": "2024-10-30",
+            "post_title": "Group: play\nApprox. Time: 22:33 30/10/24\nTitle: Pureflow Airdog",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3389,
+            "discovered": "2024-10-30",
+            "post_title": "Group: play\nApprox. Time: 22:33 30/10/24\nTitle: Pelsue",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx",
+                "Pelsue"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3388,
+            "discovered": "2024-10-30",
+            "post_title": "Group: play\nApprox. Time: 22:33 30/10/24\nTitle: Paul White Company",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3387,
+            "discovered": "2024-10-30",
+            "post_title": "Group: play\nApprox. Time: 22:33 30/10/24\nTitle: Maval Industries",
             "Attack Type": "Unknown",
             "Location": [
                 "Approx"
@@ -49759,6 +49842,88 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-8421"
+            ]
+        },
+        {
+            "Message ID": 91060,
+            "discovered": "2024-10-30",
+            "post_title": "Victim: Sunrise Express\n\nDetection Date: Thu Oct 31 01:40:34 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91059,
+            "discovered": "2024-10-30",
+            "post_title": "Victim: Paul White Company\n\nDetection Date: Thu Oct 31 01:40:13 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91058,
+            "discovered": "2024-10-30",
+            "post_title": "Victim: Pelsue\n\nDetection Date: Thu Oct 31 01:39:54 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91057,
+            "discovered": "2024-10-30",
+            "post_title": "Victim: iFocus Consulting\n\nDetection Date: Thu Oct 31 01:39:33 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91056,
+            "discovered": "2024-10-30",
+            "post_title": "Victim: Pureflow Airdog\n\nDetection Date: Thu Oct 31 01:39:13 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91055,
+            "discovered": "2024-10-30",
+            "post_title": "Victim: Unlimited Lawn Care\n\nDetection Date: Thu Oct 31 01:38:53 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91054,
+            "discovered": "2024-10-30",
+            "post_title": "Victim: Maval Industries\n\nDetection Date: Thu Oct 31 01:38:33 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91053,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Interbank confirms data breach following failed extortion, data leak\n\nDate: October 30, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/interbank-confirms-data-breach-following-failed-extortion-data-leak/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/interbank-confirms-data-breach-following-failed-extortion-data-leak/"
             ]
         }
     ],
