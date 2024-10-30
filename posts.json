@@ -4875,6 +4875,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/blackhat-cyber-kill-targeted-the-website-of-simaki-sushi/"
             ]
+        },
+        {
+            "Message ID": 6121,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇺🇸A Threat Actor is Allegedly Selling the Database of Hisense USA Corporation\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-hisense-usa-corporation/\n\nA threat actor is offering to sell databases from Hisense. The leaked databases reportedly include EXTENDED SERVICE PLAN.CSV, GENERAL INQUIRIES.CSV, PARTS & SERVICE SUPPORT.CSV, PRODUCT REGISTRATION FORM.CSV, TV QR CODE REGISTRATION FORM.CSV, and UPGRADE SWEEPSTAKES 2023.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-hisense-usa-corporation/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6120,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇯🇵mommy is Allegedly Selling Unauthorized Access to Equinix\n\nhttps://darkwebinformer.com/mommy-is-allegedly-selling-unauthorized-access-to-equinix/\n\nA threat actor claims to be selling root access to the firewall server of Equinix Japan, potentially allowing further movement throughout the network. This access reportedly includes multiple database systems—relational, NoSQL, in-memory, and hybrid—across various cloud platforms, including AWS, Azure, and Google Cloud.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "NoSQL"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/mommy-is-allegedly-selling-unauthorized-access-to-equinix/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
