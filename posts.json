@@ -5304,6 +5304,31 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6159,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇮🇳henrymans0n Allegedly Leaked Data of Tech-Tailor\n\nhttps://darkwebinformer.com/henrymans0n-allegedly-leaked-data-of-tech-tailor/\n\nA threat actor claims to have leaked data from Tech-Tailor, reportedly containing 2,000 records, including names, phone numbers, emails, and messages.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/henrymans0n-allegedly-leaked-data-of-tech-tailor/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6158,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇸🇦A Threat Actor is Allegedly Selling Access to an Unidentified WordPress site in Saudi Arabia\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-wordpress-site-in-saudi-arabia/\n\nA threat actor claims to be selling access to a compromised WordPress site based in Saudi Arabia, specializing in financial services and using Authorize.Net for payment processing.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Saudi Arabia",
+                "Saudi Arabia"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-wordpress-site-in-saudi-arabia/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -49148,6 +49173,186 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 91028,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-52066\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52066\n\nDescription: http.zig commit 76cf5 was discovered to contain a CRLF injection vulnerability via the url parameter.\n\nPublication Date: Thu Oct 31 00:09:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52066"
+            ]
+        },
+        {
+            "Message ID": 91027,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44126\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44126\n\nDescription: The issue was addressed with improved checks. This issue is fixed in macOS Ventura 13.7.1, macOS Sequoia 15, iOS 17.7 and iPadOS 17.7, macOS Sonoma 14.7, visionOS 2, iOS 18 and iPadOS 18. Processing a maliciously crafted file may lead to heap corruption.\n\nPublication Date: Thu Oct 31 00:09:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44126"
+            ]
+        },
+        {
+            "Message ID": 91026,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44235\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44235\n\nDescription: The issue was addressed with improved checks. This issue is fixed in iOS 18.1 and iPadOS 18.1. An attacker may be able to view restricted content from the lock screen.\n\nPublication Date: Thu Oct 31 00:09:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44235"
+            ]
+        },
+        {
+            "Message ID": 91025,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-51419\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51419\n\nDescription: Cross Site Scripting vulnerability in Shenzhen Interconnection Harbor Network Technology Co., Ltd Ofweek Online Exhibition v.1.0.0 allows a remote attacker to execute arbitrary code.\n\nPublication Date: Thu Oct 31 00:09:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51419"
+            ]
+        },
+        {
+            "Message ID": 91024,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44262\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44262\n\nDescription: This issue was addressed with improved redaction of sensitive information. This issue is fixed in visionOS 2.1. A user may be able to view sensitive user information.\n\nPublication Date: Thu Oct 31 00:08:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44262"
+            ]
+        },
+        {
+            "Message ID": 91023,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44274\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44274\n\nDescription: The issue was addressed with improved authentication. This issue is fixed in iOS 17.7.1 and iPadOS 17.7.1, watchOS 11.1, iOS 18.1 and iPadOS 18.1. An attacker with physical access to a locked device may be able to view sensitive user information.\n\nPublication Date: Thu Oct 31 00:08:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44274"
+            ]
+        },
+        {
+            "Message ID": 91022,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-48735\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48735\n\nDescription: Directory Traversal in /SASStudio/sasexec/sessions/{sessionID}/workspace/{InternalPath} in SAS Studio 9.4 allows remote attacker to access internal files by manipulating default path during file download.\n\nPublication Date: Thu Oct 31 00:08:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48735"
+            ]
+        },
+        {
+            "Message ID": 91021,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44254\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44254\n\nDescription: This issue was addressed with improved redaction of sensitive information. This issue is fixed in watchOS 11.1, macOS Ventura 13.7.1, macOS Sonoma 14.7.1, iOS 18.1 and iPadOS 18.1. An app may be able to access sensitive user data.\n\nPublication Date: Thu Oct 31 00:08:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44254"
+            ]
+        },
+        {
+            "Message ID": 91020,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44239\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44239\n\nDescription: An information disclosure issue was addressed with improved private data redaction for log entries. This issue is fixed in tvOS 18.1, iOS 18.1 and iPadOS 18.1, iOS 17.7.1 and iPadOS 17.7.1, macOS Ventura 13.7.1, macOS Sonoma 14.7.1, watchOS 11.1, visionOS 2.1. An app may be able to leak sensitive kernel state.\n\nPublication Date: Thu Oct 31 00:08:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44239"
+            ]
+        },
+        {
+            "Message ID": 91019,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-48734\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48734\n\nDescription: *Unrestricted file upload in /SASStudio/SASStudio/sasexec/{sessionID}/{InternalPath} in SAS Studio 9.4 allows remote attacker to upload malicious files.\n\nPublication Date: Thu Oct 31 00:07:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48734"
+            ]
+        },
+        {
+            "Message ID": 91018,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-51424\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51424\n\nDescription: An issue in Ethereum v.1.12.2 allows remote attacker to execute arbitrary code via the Owned.setOwner function\n\nPublication Date: Thu Oct 31 00:07:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51424"
+            ]
+        },
+        {
+            "Message ID": 91017,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-48733\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48733\n\nDescription: SQL injection vulnerability in /SASStudio/sasexec/sessions/{sessionID}/sql in SAS Studio 9.4 allows remote attacker to execute arbitrary SQL commands via the POST body request.\n\nPublication Date: Thu Oct 31 00:07:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48733"
+            ]
+        },
+        {
+            "Message ID": 91016,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-51425\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51425\n\nDescription: Insecure Permissions vulnerability in Ethereum v.1.12.2 allows a remote attacker to escalate privileges via the WaterToken Contract.\n\nPublication Date: Thu Oct 31 00:07:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51425"
+            ]
+        },
+        {
+            "Message ID": 91015,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44203\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44203\n\nDescription: A permissions issue was addressed with additional restrictions. This issue is fixed in macOS Sequoia 15. An app may be able to access a user's Photos Library.\n\nPublication Date: Thu Oct 31 00:07:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44203"
+            ]
+        },
+        {
+            "Message ID": 91014,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-51427\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51427\n\nDescription: An issue in Ethereum v.1.12.2 allows remote attacker to execute arbitrary code via the PepeGxng smart contract mint function.\n\nPublication Date: Thu Oct 31 00:07:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51427"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
