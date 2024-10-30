@@ -46678,6 +46678,30 @@
             "URLs": [
                 "https://www.logpoint.com/en/blog/uncover-more-resources-with-logpoint-latest-release/"
             ]
+        },
+        {
+            "Message ID": 90878,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Writing a BugSleep C2 server and detecting its traffic with Snort\n\nDate: October 30, 2024\n\nSource: https://blog.talosintelligence.com/writing-a-bugsleep-c2-server/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.talosintelligence.com/writing-a-bugsleep-c2-server/"
+            ]
+        },
+        {
+            "Message ID": 90877,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Embarking on a Compliance Journey? Here's How Intruder Can Help\n\nDate: Oct 30, 2024\n\nSource: https://thehackernews.com/2024/10/embarking-on-compliance-journey-heres.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/embarking-on-compliance-journey-heres.html"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
