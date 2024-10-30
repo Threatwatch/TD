@@ -5200,6 +5200,58 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-usa-manufacturing-company/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6152,
+            "discovered": "2024-10-30",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6151,
+            "discovered": "2024-10-30",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6150,
+            "discovered": "2024-10-30",
+            "post_title": "Want the steps to reproduce?\n\nDownload Ghost client and install/set it up.\n\nClick Pages on the sidebar\n\nAdd a new page\n\nPlace XSS code in the body and save\n\nVisit that page\n\nand Magic",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6149,
+            "discovered": "2024-10-30",
+            "post_title": "Ghost is going to get a C rating. One because their responses suck and two I feel like they have no clue what pivoting is. Like I said if one of you can figure out a way to make this work via front end, you have yourself a nice vulnerability if you keep it to yourself",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6148,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🚨🇺🇸888 Has Allegedly Leaked Employee Data of IBM\n\nhttps://darkwebinformer.com/888-has-allegedly-leaked-employee-data-of-ibm/\n\nA threat actor claims to have leaked employee data from IBM (International Business Machines Corporation). The data reportedly includes 17,500 records, containing information such as names, country codes, and mobile numbers.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/888-has-allegedly-leaked-employee-data-of-ibm/\n\nA "
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -17535,6 +17587,96 @@
             "URLs": [
                 "https://t.me/CyberSecurityIL/5962"
             ]
+        },
+        {
+            "Message ID": 1280,
+            "discovered": "2024-10-30",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1279,
+            "discovered": "2024-10-30",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1278,
+            "discovered": "2024-10-30",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1277,
+            "discovered": "2024-10-30",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1276,
+            "discovered": "2024-10-30",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1275,
+            "discovered": "2024-10-30",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1274,
+            "discovered": "2024-10-30",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1273,
+            "discovered": "2024-10-30",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1272,
+            "discovered": "2024-10-30",
+            "post_title": "Your government's stupid actions will lead to your complete destruction. \nA historic event is on the way..\n\nהפעולות המטופשות של ממשלתך יובילו להרס מוחלט שלך.\nאירוע היסטורי בדרך..\n\n16⏳\n\n\n#Team1956 \n#Anonymous \n#FreePalestine \n#OpIsrael",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "DARKFEED": [
@@ -27908,6 +28050,31 @@
             "URLs": [
                 "artsource-inc.com),",
                 "somfeed.it/index.php?page=post_details&id_post=18280"
+            ]
+        },
+        {
+            "Message ID": 3968,
+            "discovered": "2024-10-30",
+            "post_title": "ID: 18282\n⚠ Wed, 30 Oct 2024 15:45:06 UTC\n🥷 handala\n🎯 IM Cannabis, Israel\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18282",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18282"
+            ]
+        },
+        {
+            "Message ID": 3967,
+            "discovered": "2024-10-30",
+            "post_title": "ID: 18281\n⚠ Wed, 30 Oct 2024 15:55:05 UTC\n🥷 fog\n🎯 Jillamy (jillamy.com), USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18281",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "llamy.com),",
+                "somfeed.it/index.php?page=post_details&id_post=18281"
             ]
         }
     ],
@@ -48777,6 +48944,138 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 91012,
+            "discovered": "2024-10-30",
+            "post_title": "Title: CrowdStrike Falcon Platform Supports Google Cloud's ARM-Based Axion CPUs\n\nDate: October 30, 2024\n\nSource: https://www.crowdstrike.com/en-us/blog/falcon-platform-supports-google-cloud-arm-based-axion-cpus/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.crowdstrike.com/en-us/blog/falcon-platform-supports-google-cloud-arm-based-axion-cpus/"
+            ]
+        },
+        {
+            "Message ID": 91011,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-3424\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3424\n\nDescription: An issue has been discovered in GitLab CE/EE affecting all versions starting from 10.3 before 15.11.10, all versions starting from 16.0 before 16.0.6, all versions starting from 16.1 before 16.1.1. A Regular Expression Denial of Service was possible via sending crafted payloads to the preview_markdown endpoint.\n\nPublication Date: Wed Oct 30 23:11:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3424"
+            ]
+        },
+        {
+            "Message ID": 91010,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-10546\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10546\n\nDescription: A vulnerability classified as critical was found in open-scratch Teaching 在线教学平台 up to 2.7. This vulnerability affects unknown code of the file /api/sys/ng-alain/getDictItemsByTable/ of the component URL Handler. The manipulation leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Wed Oct 30 23:11:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10546"
+            ]
+        },
+        {
+            "Message ID": 91009,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-2200\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-2200\n\nDescription: An issue has been discovered in GitLab CE/EE affecting all versions starting from 7.14 before 15.11.10, all versions starting from 16.0 before 16.0.6, all versions starting from 16.1 before 16.1.1, which allows an attacker to inject HTML in an email address field.\n\nPublication Date: Wed Oct 30 23:11:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-2200"
+            ]
+        },
+        {
+            "Message ID": 91008,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-37786\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37786\n\nDescription: Multiple cross-site scripting (XSS) vulnerabilities in Geeklog v2.2.2 allow attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Mail Settings[backend], Mail Settings[host], Mail Settings[port] and Mail Settings[auth] parameters of the /admin/configuration.php.\n\nPublication Date: Wed Oct 30 23:10:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37786"
+            ]
+        },
+        {
+            "Message ID": 91007,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44252\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44252\n\nDescription: A logic issue was addressed with improved file handling. This issue is fixed in iOS 18.1 and iPadOS 18.1, iOS 17.7.1 and iPadOS 17.7.1, visionOS 2.1, tvOS 18.1. Restoring a maliciously crafted backup file may lead to modification of protected system files.\n\nPublication Date: Wed Oct 30 23:10:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44252"
+            ]
+        },
+        {
+            "Message ID": 91006,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-6999\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-6999\n\nDescription: Inappropriate implementation in FedCM in Google Chrome prior to 127.0.6533.72 allowed a remote attacker who convinced a user to engage in specific UI gestures to perform UI spoofing via a crafted HTML page. (Chromium security severity: Medium)\n\nPublication Date: Wed Oct 30 23:10:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-6999"
+            ]
+        },
+        {
+            "Message ID": 91005,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-35833\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35833\n\nDescription: An issue was discovered in YSoft SAFEQ 6 Server before 6.0.82. When modifying the URL of the LDAP server configuration from LDAPS to LDAP, the system does not require the password to be (re)entered. This results in exposing cleartext credentials when connecting to a rogue LDAP server. NOTE: the vendor originally reported this as a security issue but then reconsidered because of the requirement for Admin access in order to change the configuration.\n\nPublication Date: Wed Oct 30 23:10:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35833"
+            ]
+        },
+        {
+            "Message ID": 91004,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-27360\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-27360\n\nDescription: A vulnerability was discovered in Samsung Mobile Processors Exynos 850, Exynos 1080, Exynos 2100, Exynos 2200, Exynos 1280, Exynos 1380, Exynos 1330, and Exynos W930 where they do not properly check length of the data, which can lead to a Denial of Service.\n\nPublication Date: Wed Oct 30 23:10:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27360"
+            ]
+        },
+        {
+            "Message ID": 91003,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-42550\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42550\n\nDescription: A cross-site scripting (XSS) vulnerability in the component /email/welcome.php of Mini Inventory and Sales Management System commit 18aa3d allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Title parameter.\n\nPublication Date: Wed Oct 30 23:10:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42550"
+            ]
+        },
+        {
+            "Message ID": 91002,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-33768\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33768\n\nDescription: Incorrect signature verification of the firmware during the Device Firmware Update process of Belkin Wemo Smart Plug WSP080 v1.2 allows attackers to cause a Denial of Service (DoS) via a crafted firmware file.\n\nPublication Date: Wed Oct 30 23:09:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33768"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
