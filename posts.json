@@ -10569,6 +10569,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5283,
+            "discovered": "2024-10-30",
+            "post_title": "JahangirNagar Muslim University ❤",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -46701,6 +46711,42 @@
             ],
             "URLs": [
                 "https://thehackernews.com/2024/10/embarking-on-compliance-journey-heres.html"
+            ]
+        },
+        {
+            "Message ID": 90881,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Researchers Uncover Python Package Targeting Crypto Wallets with Malicious Code\n\nDate: Oct 30, 2024\n\nSource: https://thehackernews.com/2024/10/researchers-uncover-python-package.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/researchers-uncover-python-package.html"
+            ]
+        },
+        {
+            "Message ID": 90880,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Can AI Replace Human Mediators? Groundbreaking Study Reveals Surprising Results\n\nDate: October 30, 2024\n\nSource: https://e-discoveryteam.com/2024/10/30/can-ai-replace-human-mediators-groundbreaking-study-reveals-surprising-results/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://e-discoveryteam.com/2024/10/30/can-ai-replace-human-mediators-groundbreaking-study-reveals-surprising-results/"
+            ]
+        },
+        {
+            "Message ID": 90879,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Echoes of AI Podcast: Can AI Replace Human Mediators?\n\nDate: October 30, 2024\n\nSource: https://e-discoveryteam.com/2024/10/30/echoes-of-ai-podcast-can-ai-replace-human-mediators/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://e-discoveryteam.com/2024/10/30/echoes-of-ai-podcast-can-ai-replace-human-mediators/"
             ]
         }
     ],
