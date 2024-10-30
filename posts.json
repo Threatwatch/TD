@@ -4827,6 +4827,42 @@
             "URLs": [
                 "ps://darkwebinformer.com/mommy-allegedly-is-selling-access-to-china-telecom-corporation-limited/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6118,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇮🇩My Ddos Targeted the Website of Jakarta\n\nhttps://darkwebinformer.com/my-ddos-targeted-the-website-of-jakarta/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Jakarta"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/my-ddos-targeted-the-website-of-jakarta/"
+            ]
+        },
+        {
+            "Message ID": 6117,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇨🇭A Threat Actor is Allegedly Selling Portal/Employer Access to MyRolex World Service\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-portal-employer-access-to-myrolex-world-service/\n\nA threat actor claims to be selling unauthorized access to the MyRolex World Service portal for employers. This access reportedly includes confidential resources related to Rolex models, with detailed schematics of watch movements, bracelet designs, specialized tools, and instructional materials for assembling and servicing each component of a Rolex watch.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Rolex"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-portal-employer-access-to-myrolex-world-service/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6116,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇮🇶henrymans0n Allegedly Leaked Data of University of Baghdad\n\nhttps://darkwebinformer.com/henrymans0n-allegedly-leaked-data-of-university-of-baghdad/\n\nA threat actor claims to have leaked data from the University of Baghdad, reportedly containing information such as emails, phone numbers, names, nationalities, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/henrymans0n-allegedly-leaked-data-of-university-of-baghdad/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -10608,6 +10644,16 @@
             "Message ID": 5283,
             "discovered": "2024-10-30",
             "post_title": "JahangirNagar Muslim University ❤",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5286,
+            "discovered": "2024-10-30",
+            "post_title": "11K done\n\nAlhamdulillah ❤",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -47022,6 +47068,188 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/fbi-upcoming-us-general-election-fuel-multiple-fraud-schemes/"
+            ]
+        },
+        {
+            "Message ID": 90914,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-33623\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-33623\n\nDescription: A denial of service vulnerability exists in the Web Application functionality of LevelOne WBR-6012 R0.40e6. A specially crafted HTTP request can lead to a reboot. An attacker can send an HTTP request to trigger this vulnerability.\n\nPublication Date: Wed Oct 30 17:23:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-33623"
+            ]
+        },
+        {
+            "Message ID": 90913,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-33700\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-33700\n\nDescription: The LevelOne WBR-6012 router firmware R0.40e6 suffers from an input validation vulnerability within its FTP functionality, enabling attackers to cause a denial of service through a series of malformed FTP commands. This can lead to device reboots and service disruption.\n\nPublication Date: Wed Oct 30 17:22:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-33700"
+            ]
+        },
+        {
+            "Message ID": 90912,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-28052\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-28052\n\nDescription: The WBR-6012 is a wireless SOHO router. It is a low-cost device which functions as an internet gateway for homes and small offices while aiming to be easy to configure and operate. In addition to providing a WiFi access point, the device serves as a 4-port wired router and implements a variety of common SOHO router capabilities such as port forwarding, quality-of-service, web-based administration, a DHCP server, a basic DMZ, and UPnP capabilities.\n\nPublication Date: Wed Oct 30 17:22:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "UPnP"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-28052"
+            ]
+        },
+        {
+            "Message ID": 90911,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-23309\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-23309\n\nDescription: The LevelOne WBR-6012 router with firmware R0.40e6 has an authentication bypass vulnerability in its web application due to reliance on client IP addresses for authentication. Attackers could spoof an IP address to gain unauthorized access without needing a session token.\n\nPublication Date: Wed Oct 30 17:22:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-23309"
+            ]
+        },
+        {
+            "Message ID": 90910,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-33626\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-33626\n\nDescription: The LevelOne WBR-6012 router contains a vulnerability within its web application that allows unauthenticated disclosure of sensitive information, such as the WiFi WPS PIN, through a hidden page accessible by an HTTP request. Disclosure of this information could enable attackers to connect to the device's WiFi network.\n\nPublication Date: Wed Oct 30 17:22:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-33626"
+            ]
+        },
+        {
+            "Message ID": 90909,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-33603\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-33603\n\nDescription: The LevelOne WBR-6012 router has an information disclosure vulnerability in its web application, which allows unauthenticated users to access a verbose system log page and obtain sensitive data, such as memory addresses and IP addresses for login attempts. This flaw could lead to session hijacking due to the device's reliance on IP address for authentication.\n\nPublication Date: Wed Oct 30 17:22:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-33603"
+            ]
+        },
+        {
+            "Message ID": 90908,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-33699\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-33699\n\nDescription: The LevelOne WBR-6012 router's web application has a vulnerability in its firmware version R0.40e6, allowing attackers to change the administrator password and gain higher privileges without the current password.\n\nPublication Date: Wed Oct 30 17:22:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-33699"
+            ]
+        },
+        {
+            "Message ID": 90907,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-32946\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-32946\n\nDescription: A vulnerability in the LevelOne WBR-6012 router's firmware version R0.40e6 allows sensitive information to be transmitted in cleartext via Web and FTP services, exposing it to network sniffing attacks.\n\nPublication Date: Wed Oct 30 17:21:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-32946"
+            ]
+        },
+        {
+            "Message ID": 90906,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-31152\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-31152\n\nDescription: The LevelOne WBR-6012 router with firmware R0.40e6 is vulnerable to improper resource allocation within its web application, where a series of crafted HTTP requests can cause a reboot. This could lead to network service interruptions.\n\nPublication Date: Wed Oct 30 17:21:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-31152"
+            ]
+        },
+        {
+            "Message ID": 90905,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-24777\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-24777\n\nDescription: A cross-site request forgery (CSRF) vulnerability exists in the Web Application functionality of the LevelOne WBR-6012 R0.40e6. A specially crafted HTTP request can lead to unauthorized access. An attacker can stage a malicious web page to trigger this vulnerability.\n\nPublication Date: Wed Oct 30 17:21:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-24777"
+            ]
+        },
+        {
+            "Message ID": 90904,
+            "discovered": "2024-10-30",
+            "post_title": "Victim: SmartSource (smartsource-inc.com)\n\nDetection Date: Wed Oct 30 17:20:44 2024\n\nThreat Actor: fog\n\n#Ransomware",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "smartsource-inc.com"
+            ]
+        },
+        {
+            "Message ID": 90903,
+            "discovered": "2024-10-30",
+            "post_title": "Title: EMERALDWHALE:  15k Cloud Credentials Stolen in Operation Targeting Exposed Git Config Files\n\nDate: October 30, 2024\n\nSource: https://sysdig.com/blog/emeraldwhale/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sysdig.com/blog/emeraldwhale/"
+            ]
+        },
+        {
+            "Message ID": 90902,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Hackers steal 15,000 cloud credentials from exposed Git config files\n\nDate: October 30, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/hackers-steal-15-000-cloud-credentials-from-exposed-git-config-files/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/hackers-steal-15-000-cloud-credentials-from-exposed-git-config-files/"
+            ]
+        },
+        {
+            "Message ID": 90901,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-31151\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-31151\n\nDescription: A security flaw involving hard-coded credentials in LevelOne WBR-6012's web services allows attackers to gain unauthorized access during the first 30 seconds post-boot. Other vulnerabilities can force a reboot, circumventing the initial time restriction for exploitation.The password string can be found at addresses 0x 803cdd0f and 0x803da3e6:\n\n    803cdd0f 41 72 69 65        ds         \"AriesSerenaCairryNativitaMegan\"\n             73 53 65 72 \n             65 6e 61 43\n             ...\n\nIt is referenced by the function at 0x800b78b0 and simplified in the pseudocode below:\n\n    if (is_equal = strcmp(password,\"AriesSerenaCairryNativitaMegan\"){\n        ret = 3;}\n\nWhere 3 is the return value to user-level access (0 being fail and 1 being admin/backdoor).\n\nWhile there's no legitimate functionality to change this password, once authenticated it is possible manually make a change by taking advantage of TALOS-2024-XXXXX using HTTP POST paramater \"Pu\" (new user password) in place of \"Pa\" (new admin password).\n\nPublication Date: Wed Oct 30 17:09:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "strcmp(password,\"AriesSerenaCairryNativitaMegan",
+                "TALOS-2024"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-31151"
+            ]
+        },
+        {
+            "Message ID": 90900,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-51257\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51257\n\nDescription: DrayTek Vigor3900 1.5.1.3 allows attackers to inject malicious commands into mainfunction.cgi and execute arbitrary commands by calling the doCertificate function.\n\nPublication Date: Wed Oct 30 17:09:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51257",
+                "1.5.1.3"
             ]
         }
     ],
