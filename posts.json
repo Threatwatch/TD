@@ -5252,6 +5252,26 @@
             "URLs": [
                 "s://darkwebinformer.com/888-has-allegedly-leaked-employee-data-of-ibm/\n\nA "
             ]
+        },
+        {
+            "Message ID": 6154,
+            "discovered": "2024-10-30",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6153,
+            "discovered": "2024-10-30",
+            "post_title": "I'm sure you get the idea.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
