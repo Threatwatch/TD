@@ -4694,6 +4694,105 @@
             "URLs": [
                 "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-29th-2024/"
             ]
+        },
+        {
+            "Message ID": 6112,
+            "discovered": "2024-10-30",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6111,
+            "discovered": "2024-10-30",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-30 02:20:58\n🚨 Title: Alleged sale of RDWeb access to an unidentified Canada-based insurance company\n🛡️ Victim Country: Canada\n🏭 Victim Industry: Insurance\n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Initial Access\n🕵️‍♂️ Threat Actor: ProfessorKliq\n🌍 Network: openweb\n🔗 Claim: https://forum.exploit.in/topic/249436/\n📝 Description: The threat actor claims to be selling RDWeb access to a Canada-based insurance company with domain user rights. The company reportedly employs 239 people and has annual revenue of $5.5 million.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Canada",
+                "Canada",
+                "Canada"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "um.exploit.in/topic/249436/\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 6110,
+            "discovered": "2024-10-30",
+            "post_title": "https://t.me/thedarkwebinformer?boost",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/thedarkwebinformer?boost"
+            ]
+        },
+        {
+            "Message ID": 6109,
+            "discovered": "2024-10-30",
+            "post_title": "https://t.me/cginfo_eng Damn they have their own background and everything",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/cginfo_eng"
+            ]
+        },
+        {
+            "Message ID": 6108,
+            "discovered": "2024-10-30",
+            "post_title": "lol wut",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6107,
+            "discovered": "2024-10-30",
+            "post_title": "Anyways its turned off",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6106,
+            "discovered": "2024-10-30",
+            "post_title": "How long has this been happening...",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6105,
+            "discovered": "2024-10-30",
+            "post_title": "Bruh",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6104,
+            "discovered": "2024-10-30",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -14240,6 +14339,18 @@
             "URLs": [
                 "https://kejari-pati.go.id",
                 "https://defacer.id/mirror/id/129868"
+            ]
+        },
+        {
+            "Message ID": 1949,
+            "discovered": "2024-10-30",
+            "post_title": "OpenCart  -->  http://waimaodemo14.t1.bj.cloud.seo1158.cn/admin/index.php  admin : 123456",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://waimaodemo14.t1.bj.cloud.seo1158.cn/admin/index.php"
             ]
         }
     ],
@@ -45783,6 +45894,153 @@
             ],
             "URLs": [
                 "https://www.scworld.com/news/netherlands-police-lead-takedown-of-redline-meta-malware-networks"
+            ]
+        },
+        {
+            "Message ID": 90840,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Weekly Detection Rule (YARA and Snort) Information – Week 5, October 2024\n\nDate: October 30, 2024\n\nSource: https://asec.ahnlab.com/en/84143/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://asec.ahnlab.com/en/84143/"
+            ]
+        },
+        {
+            "Message ID": 90839,
+            "discovered": "2024-10-30",
+            "post_title": "Victim: Astac\n\nDetection Date: Wed Oct 30 04:40:03 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 90838,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-10500\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10500\n\nDescription: A vulnerability, which was classified as critical, has been found in ESAFENET CDG 5. Affected by this issue is some unknown functionality of the file /com/esafenet/servlet/policy/HookWhiteListService.java. The manipulation of the argument policyId leads to sql injection. The attack may be launched remotely. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Wed Oct 30 04:06:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10500",
+                "HookWhiteListService.java"
+            ]
+        },
+        {
+            "Message ID": 90837,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-10501\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10501\n\nDescription: A vulnerability, which was classified as critical, was found in ESAFENET CDG 5. This affects the function findById of the file /com/esafenet/servlet/document/ExamCDGDocService.java. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Wed Oct 30 04:06:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10501",
+                "ExamCDGDocService.java"
+            ]
+        },
+        {
+            "Message ID": 90836,
+            "discovered": "2024-10-30",
+            "post_title": "Title: A Halloween Story: 10 Cyber Ghouls We Eyeballed In Q3 2024\n\nDate: October 30, 2024\n\nSource: https://intel471.com/blog/a-halloween-story-10-cyber-ghouls-we-eyeballed-in-q3-2024\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://intel471.com/blog/a-halloween-story-10-cyber-ghouls-we-eyeballed-in-q3-2024"
+            ]
+        },
+        {
+            "Message ID": 90835,
+            "discovered": "2024-10-30",
+            "post_title": "Title: AI bug bounty program yields 34 flaws in open-source tools\n\nDate: October 30, 2024\n\nSource: https://www.scworld.com/news/ai-bug-bounty-program-yields-34-flaws-in-open-source-tools\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/ai-bug-bounty-program-yields-34-flaws-in-open-source-tools"
+            ]
+        },
+        {
+            "Message ID": 90834,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44229\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44229\n\nDescription: An information leakage was addressed with additional validation. This issue is fixed in visionOS 2.1, iOS 18.1 and iPadOS 18.1, macOS Sequoia 15.1, Safari 18.1. Private browsing may leak some browsing history.\n\nPublication Date: Wed Oct 30 03:10:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44229"
+            ]
+        },
+        {
+            "Message ID": 90833,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44244\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44244\n\nDescription: A memory corruption issue was addressed with improved input validation. This issue is fixed in iOS 18.1 and iPadOS 18.1, watchOS 11.1, visionOS 2.1, tvOS 18.1, macOS Sequoia 15.1, Safari 18.1. Processing maliciously crafted web content may lead to an unexpected process crash.\n\nPublication Date: Wed Oct 30 03:10:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44244"
+            ]
+        },
+        {
+            "Message ID": 90832,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44259\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44259\n\nDescription: This issue was addressed through improved state management. This issue is fixed in iOS 17.7.1 and iPadOS 17.7.1, visionOS 2.1, iOS 18.1 and iPadOS 18.1, macOS Sequoia 15.1, Safari 18.1. An attacker may be able to misuse a trust relationship to download malicious content.\n\nPublication Date: Wed Oct 30 03:10:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44259"
+            ]
+        },
+        {
+            "Message ID": 90831,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-51567\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51567\n\nDescription: upgrademysqlstatus in databases/views.py in CyberPanel (aka Cyber Panel) before 5b08cd6 allows remote attackers to bypass authentication and execute arbitrary commands via /dataBases/upgrademysqlstatus by bypassing secMiddleware (which is only for a POST request) and using shell metacharacters in the statusfile property, as exploited in the wild in October 2024 by PSAUX. Versions through 2.3.6 and (unpatched) 2.3.7 are affected.\n\nPublication Date: Wed Oct 30 03:10:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51567",
+                "views.py"
+            ]
+        },
+        {
+            "Message ID": 90830,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-51568\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51568\n\nDescription: CyberPanel (aka Cyber Panel) before 2.3.5 allows Command Injection via completePath in the ProcessUtilities.outputExecutioner() sink. There is /filemanager/upload (aka File Manager upload) unauthenticated remote code execution via shell metacharacters.\n\nPublication Date: Wed Oct 30 03:10:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51568"
+            ]
+        },
+        {
+            "Message ID": 90829,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-51378\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51378\n\nDescription: getresetstatus in dns/views.py and ftp/views.py in CyberPanel (aka Cyber Panel) before 1c0c6cb allows remote attackers to bypass authentication and execute arbitrary commands via /dns/getresetstatus or /ftp/getresetstatus by bypassing secMiddleware (which is only for a POST request) and using shell metacharacters in the statusfile property, as exploited in the wild in October 2024 by PSAUX. Versions through 2.3.6 and (unpatched) 2.3.7 are affected.\n\nPublication Date: Wed Oct 30 03:09:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51378",
+                "views.py",
+                "views.py"
             ]
         }
     ],
