@@ -4899,6 +4899,54 @@
             "URLs": [
                 "ps://darkwebinformer.com/mommy-is-allegedly-selling-unauthorized-access-to-equinix/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6125,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇮🇱RipperSec Targeted the Website of Ortal HR\n\nhttps://darkwebinformer.com/rippersec-targeted-the-website-of-ortal-hr/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rippersec-targeted-the-website-of-ortal-hr/"
+            ]
+        },
+        {
+            "Message ID": 6124,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇯🇴A Threat Actor is Allegedly Selling Admin Access to Jordan Exchange\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-admin-access-to-jordan-exchange/\n\nA threat actor claims to be selling admin access to a remittance exchange in Jordan. This access reportedly enables RIA transfers, local bank transactions, and wallet transfers, along with access to customer data for over 150,000 individuals, including ID details and personal information.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Jordan"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-admin-access-to-jordan-exchange/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6123,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇮🇱Handala Allegedly Leaked Data of IM Cannabis\n\nhttps://darkwebinformer.com/handala-allegedly-leaked-data-of-im-cannabis/\n\nA threat actor claims to have leaked 10 GB of confidential data from IM Cannabis.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/handala-allegedly-leaked-data-of-im-cannabis/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6122,
+            "discovered": "2024-10-30",
+            "post_title": "🚨🇺🇸A Threat Actor is Allegedly Selling 80 Million Leads From the USA\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-80-million-leads-from-the-usa/\n\nA threat actor claims to be selling a database of 80 million leads from the USA, reportedly containing information related to sweepstakes, Section 8 housing, and financing. The data is said to include fields such as lead IDs, submission dates, email addresses, and phone numbers.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-80-million-leads-from-the-usa/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -10690,6 +10738,16 @@
             "Message ID": 5286,
             "discovered": "2024-10-30",
             "post_title": "11K done\n\nAlhamdulillah ❤",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5288,
+            "discovered": "2024-10-30",
+            "post_title": "Congratulation Bangladesh Women Football team ❤\n\nFor winning SAFF Women's Championship against Nepal",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -47380,6 +47438,177 @@
             ],
             "URLs": [
                 "https://www.scworld.com/brief/improved-fraud-abuse-detection-added-to-akamai-account-protector"
+            ]
+        },
+        {
+            "Message ID": 90933,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Lumen Powers The State Of New Mexico’s Statewide Education Network With Connectivity For K-12 Schools\n\nDate: October 30, 2024\n\nSource: https://blog.lumen.com/lumen-powers-the-state-of-new-mexicos-statewide-education-network-with-connectivity-for-k-12-schools/?utm_source=rss&utm_medium=rss&utm_campaign=lumen-powers-the-state-of-new-mexicos-statewide-education-network-with-connectivity-for-k-12-schools\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.lumen.com/lumen-powers-the-state-of-new-mexicos-statewide-education-network-with-connectivity-for-k-12-schools/?utm_source=rss&utm_medium=rss&utm_campaign=lumen-powers-the-state-of-new-mexicos-statewide-education-network-with-connectivity-for-k-12-schools"
+            ]
+        },
+        {
+            "Message ID": 90932,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Patch now! New Chrome update for two critical vulnerabilities\n\nDate: October 30, 2024\n\nSource: https://www.malwarebytes.com/blog/news/2024/10/patch-now-new-chrome-update-for-two-critical-vulnerabilities\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/news/2024/10/patch-now-new-chrome-update-for-two-critical-vulnerabilities"
+            ]
+        },
+        {
+            "Message ID": 90931,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Apple Intelligence를 탑재 iOS 18.1,macOS 15.1,iPadOS 18.1 업데이트\n\nDate: October 30, 2024\n\nSource: http://wezard4u.tistory.com/429313\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://wezard4u.tistory.com/429313"
+            ]
+        },
+        {
+            "Message ID": 90930,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-3620\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3620\n\nDescription: Cross-site Scripting (XSS) - Stored in GitHub repository amauric/tarteaucitron.js prior to v1.13.1.\n\nPublication Date: Wed Oct 30 18:10:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3620"
+            ]
+        },
+        {
+            "Message ID": 90929,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-3580\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3580\n\nDescription: Improper Handling of Additional Special Element in GitHub repository squidex/squidex prior to 7.4.0.\n\nPublication Date: Wed Oct 30 18:09:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3580"
+            ]
+        },
+        {
+            "Message ID": 90928,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-3574\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3574\n\nDescription: Improper Authorization in GitHub repository pimcore/customer-data-framework prior to 3.4.1.\n\nPublication Date: Wed Oct 30 18:09:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3574"
+            ]
+        },
+        {
+            "Message ID": 90927,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-44280\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44280\n\nDescription: A downgrade issue affecting Intel-based Mac computers was addressed with additional code-signing restrictions. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. An app may be able to modify protected parts of the file system.\n\nPublication Date: Wed Oct 30 18:09:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44280"
+            ]
+        },
+        {
+            "Message ID": 90926,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2023-3565\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3565\n\nDescription: Cross-site Scripting (XSS) - Generic in GitHub repository nilsteampassnet/teampass prior to 3.0.10.\n\nPublication Date: Wed Oct 30 18:09:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3565"
+            ]
+        },
+        {
+            "Message ID": 90925,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-40851\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-40851\n\nDescription: This issue was addressed by restricting options offered on a locked device. This issue is fixed in iOS 18.1 and iPadOS 18.1. An attacker with physical access may be able to access contact photos from the lock screen.\n\nPublication Date: Wed Oct 30 18:09:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-40851"
+            ]
+        },
+        {
+            "Message ID": 90924,
+            "discovered": "2024-10-30",
+            "post_title": "CVE-ID: CVE-2024-48138\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48138\n\nDescription: A remote code execution (RCE) vulnerability in the component /PluXml/core/admin/parametres_edittpl.php of PluXml v5.8.16 and lower allows attackers to execute arbitrary code via injecting a crafted payload into a template.\n\nPublication Date: Wed Oct 30 18:08:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48138"
+            ]
+        },
+        {
+            "Message ID": 90923,
+            "discovered": "2024-10-30",
+            "post_title": "Vulnerability ID: CVE-2024-10348\n\nDescription: A vulnerability was found in SourceCodester Best House Rental Management System 1.0. It has been classified as problematic. This affects an unknown part of the file /index.php?page=tenants of the component Manage Tenant Details. The manipulation of the argument Last Name/First Name/Middle Name leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory only shows the field \"Last Name\" to be affected. Other fields might be affected as well.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10348\n\nDate of Publishing: 2024/10/30\n\nLink to Exploit: https://github.com/will121351/wenqin.webray.com.cn/blob/main/CVE-project/house-rental-management-system.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10348",
+                "https://github.com/will121351/wenqin.webray.com.cn/blob/main/CVE-project/house-rental-management-system.md"
+            ]
+        },
+        {
+            "Message ID": 90922,
+            "discovered": "2024-10-30",
+            "post_title": "Vulnerability ID: CVE-2024-10349\n\nDescription: A vulnerability was found in SourceCodester Best House Rental Management System 1.0 and classified as critical. Affected by this issue is the function delete_tenant of the file /ajax.php?action=delete_tenant. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10349\n\nDate of Publishing: 2024/10/30\n\nLink to Exploit: https://github.com/will121351/wenqin.webray.com.cn/blob/main/CVE-project/house-rentalmanagement-system1.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10349",
+                "https://github.com/will121351/wenqin.webray.com.cn/blob/main/CVE-project/house-rentalmanagement-system1.md"
+            ]
+        },
+        {
+            "Message ID": 90921,
+            "discovered": "2024-10-30",
+            "post_title": "Vulnerability ID: CVE-2022-4968\n\nDescription: netplan leaks the private key of wireguard to local users. Versions after 1.0 are not affected.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2022-4968\n\nDate of Publishing: 2024/10/30\n\nLink to Exploit: https://bugs.launchpad.net/ubuntu/+source/netplan.io/+bug/2065738\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-4968",
+                "https://bugs.launchpad.net/ubuntu/+source/netplan.io/+bug/2065738"
+            ]
+        },
+        {
+            "Message ID": 90920,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Android malware \"FakeCall\" now reroutes bank calls to attackers\n\nDate: October 30, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/android-malware-fakecall-now-reroutes-bank-calls-to-attackers/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/android-malware-fakecall-now-reroutes-bank-calls-to-attackers/"
             ]
         }
     ],
