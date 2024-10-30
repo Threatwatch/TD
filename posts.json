@@ -10559,6 +10559,16 @@
                 "gaza"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5282,
+            "discovered": "2024-10-30",
+            "post_title": "🦶🇮🇱",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -46631,6 +46641,42 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-50511"
+            ]
+        },
+        {
+            "Message ID": 90876,
+            "discovered": "2024-10-30",
+            "post_title": "Title: The AI Solution to One of Email’s Biggest Problems: Misdirected Emails\n\nDate: October 30, 2024\n\nSource: https://www.hornetsecurity.com/en/blog/misdirected-emails/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.hornetsecurity.com/en/blog/misdirected-emails/"
+            ]
+        },
+        {
+            "Message ID": 90875,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Cryptocurrency Enthusiasts Targeted in Multi-Vector Supply Chain Attack\n\nDate: October 30, 2024\n\nSource: https://checkmarx.com/blog/cryptocurrency-enthusiasts-targeted-in-multi-vector-supply-chain-attack/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://checkmarx.com/blog/cryptocurrency-enthusiasts-targeted-in-multi-vector-supply-chain-attack/"
+            ]
+        },
+        {
+            "Message ID": 90874,
+            "discovered": "2024-10-30",
+            "post_title": "Title: Uncover more resources with Logpoint’s latest release\n\nDate: October 30, 2024\n\nSource: https://www.logpoint.com/en/blog/uncover-more-resources-with-logpoint-latest-release/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.logpoint.com/en/blog/uncover-more-resources-with-logpoint-latest-release/"
             ]
         }
     ],
