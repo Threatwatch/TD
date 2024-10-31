@@ -6012,6 +6012,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6221,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🇧🇩THE ANON 69 Targeted the Website of The Daily Star\n\nhttps://darkwebinformer.com/the-anon-69-targeted-the-website-of-the-daily-star/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/the-anon-69-targeted-the-website-of-the-daily-star/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -54086,6 +54098,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-39332"
+            ]
+        },
+        {
+            "Message ID": 91292,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Fed, intel and military groups warn data broker practices may threaten national security\n\nDate: October 31, 2024\n\nSource: https://www.nextgov.com/cybersecurity/2024/10/fed-intel-and-military-groups-warn-data-broker-practices-may-threaten-national-security/400719/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.nextgov.com/cybersecurity/2024/10/fed-intel-and-military-groups-warn-data-broker-practices-may-threaten-national-security/400719/"
             ]
         }
     ],
