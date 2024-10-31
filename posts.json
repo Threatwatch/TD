@@ -50795,6 +50795,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9446"
             ]
+        },
+        {
+            "Message ID": 91105,
+            "discovered": "2024-10-31",
+            "post_title": "Title: LottieFiles hit in npm supply chain attack targeting users' crypto\n\nDate: October 31, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/lottiefiles-hit-in-npm-supply-chain-attack-targeting-users-crypto/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/lottiefiles-hit-in-npm-supply-chain-attack-targeting-users-crypto/"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
