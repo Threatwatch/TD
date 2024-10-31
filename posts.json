@@ -6088,6 +6088,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/team-htr-targeted-multiple-indian-government-websites/"
             ]
+        },
+        {
+            "Message ID": 6228,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🇺🇸A Threat Actor is Allegedly Selling 100 CCs From the USA\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-100-ccs-from-the-usa/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-100-ccs-from-the-usa/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -29714,6 +29726,32 @@
             ],
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18303"
+            ]
+        },
+        {
+            "Message ID": 3995,
+            "discovered": "2024-10-31",
+            "post_title": "ID: 18311\n⚠ Thu, 31 Oct 2024 15:29:47 UTC\n🥷 ransomhub\n🎯 www.mabeglobal.com, Mexico\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18311",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Mexico"
+            ],
+            "URLs": [
+                "w.mabeglobal.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18311"
+            ]
+        },
+        {
+            "Message ID": 3994,
+            "discovered": "2024-10-31",
+            "post_title": "ID: 18310\n⚠ Thu, 31 Oct 2024 15:21:58 UTC\n🥷 fog\n🎯 Askling Car (asklingbil.se), Sweden\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18310",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Sweden"
+            ],
+            "URLs": [
+                "klingbil.se),",
+                "somfeed.it/index.php?page=post_details&id_post=18310"
             ]
         }
     ],
@@ -54341,6 +54379,80 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10595",
                 "PublicDocInfoAjax.java"
+            ]
+        },
+        {
+            "Message ID": 91309,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-10596\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10596\n\nDescription: A vulnerability was found in ESAFENET CDG 5. It has been rated as critical. Affected by this issue is the function delEntryptPolicySort of the file /com/esafenet/servlet/system/EncryptPolicyTypeService.java. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Fri Nov 01 01:07:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10596",
+                "EncryptPolicyTypeService.java"
+            ]
+        },
+        {
+            "Message ID": 91308,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-10597\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10597\n\nDescription: A vulnerability classified as critical has been found in ESAFENET CDG 5. This affects the function delPolicyAction of the file /com/esafenet/servlet/system/PolicyActionService.java. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Fri Nov 01 01:07:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10597",
+                "PolicyActionService.java"
+            ]
+        },
+        {
+            "Message ID": 91307,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-6480\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-6480\n\nDescription: The SIP Reviews Shortcode for WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'no_of_reviews' attribute in the woocommerce_reviews shortcode in all versions up to, and including, 1.2.3 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Fri Nov 01 01:07:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-6480"
+            ]
+        },
+        {
+            "Message ID": 91306,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-6479\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-6479\n\nDescription: The SIP Reviews Shortcode for WooCommerce plugin for WordPress is vulnerable to SQL Injection via the 'no_of_reviews' attribute in the woocommerce_reviews shortcode in all versions up to, and including, 1.2.3 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\nPublication Date: Fri Nov 01 01:06:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-6479"
+            ]
+        },
+        {
+            "Message ID": 91305,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-10598\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10598\n\nDescription: A vulnerability classified as critical was found in Tongda OA 11.2/11.3/11.4/11.5/11.6. This vulnerability affects unknown code of the file general/hr/setting/attendance/leave/data.php of the component Annual Leave Handler. The manipulation leads to improper authorization. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Nov 01 01:06:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10598"
+            ]
+        },
+        {
+            "Message ID": 91304,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-10599\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10599\n\nDescription: A vulnerability, which was classified as problematic, has been found in Tongda OA 2017 up to 11.7. This issue affects some unknown processing of the file /inc/package_static_resources.php. The manipulation leads to resource consumption. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Nov 01 01:06:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10599"
             ]
         }
     ],
