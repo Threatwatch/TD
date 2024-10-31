@@ -25433,6 +25433,88 @@
             "URLs": [
                 "https://t.co/H8DlC8bZQn\\$1.9B\\USA\\861GB\\&lt;1%"
             ]
+        },
+        {
+            "Message ID": 3406,
+            "discovered": "2024-10-31",
+            "post_title": "Group: threeam\nApprox. Time: 12:44 31/10/24\nTitle: https://t.co/TSQmeH0Gp6",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/TSQmeH0Gp6"
+            ]
+        },
+        {
+            "Message ID": 3405,
+            "discovered": "2024-10-31",
+            "post_title": "Group: threeam\nApprox. Time: 12:44 31/10/24\nTitle: https://t.co/ptM5DsdWvv",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/ptM5DsdWvv"
+            ]
+        },
+        {
+            "Message ID": 3404,
+            "discovered": "2024-10-31",
+            "post_title": "Group: threeam\nApprox. Time: 12:44 31/10/24\nTitle: https://t.co/UttmfH8JQQ",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/UttmfH8JQQ"
+            ]
+        },
+        {
+            "Message ID": 3403,
+            "discovered": "2024-10-31",
+            "post_title": "Group: threeam\nApprox. Time: 12:44 31/10/24\nTitle: https://t.co/PryNgmb7ys",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/PryNgmb7ys"
+            ]
+        },
+        {
+            "Message ID": 3402,
+            "discovered": "2024-10-31",
+            "post_title": "Group: threeam\nApprox. Time: 12:44 31/10/24\nTitle: https://t.co/bCzlDqexdK",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/bCzlDqexdK"
+            ]
+        },
+        {
+            "Message ID": 3401,
+            "discovered": "2024-10-31",
+            "post_title": "Group: threeam\nApprox. Time: 12:44 31/10/24\nTitle: https://t.co/504tyAf6g3",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/504tyAf6g3"
+            ]
+        },
+        {
+            "Message ID": 3400,
+            "discovered": "2024-10-31",
+            "post_title": "Group: ragroup\nApprox. Time: 12:44 31/10/24\nTitle: BULLONERIE GALVIT",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -51083,6 +51165,54 @@
             ],
             "URLs": [
                 "https://www.reversinglabs.com/blog/upgrade-nice-sscs-era"
+            ]
+        },
+        {
+            "Message ID": 91125,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Eclypsium Named a 2024 SINET16 Innovator Award Winner\n\nDate: October 31, 2024\n\nSource: https://eclypsium.com/press-release/eclypsium-named-a-2024-sinet16-innovator-award-winner/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://eclypsium.com/press-release/eclypsium-named-a-2024-sinet16-innovator-award-winner/"
+            ]
+        },
+        {
+            "Message ID": 91124,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Over a thousand online shops hacked to show fake product listings\n\nDate: October 31, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/over-a-thousand-online-shops-hacked-to-show-fake-product-listings/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/over-a-thousand-online-shops-hacked-to-show-fake-product-listings/"
+            ]
+        },
+        {
+            "Message ID": 91123,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-1414\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-1414\n\nDescription: The WP VR WordPress plugin before 8.3.0 does not have authorisation and CSRF checks in various AJAX actions, one in particular could allow any authenticated users, such as subscriber to update arbitrary tours\n\nPublication Date: Thu Oct 31 16:05:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-1414"
+            ]
+        },
+        {
+            "Message ID": 91122,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2021-45046\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-45046\n\nDescription: It was found that the fix to address CVE-2021-44228 in Apache Log4j 2.15.0 was incomplete in certain non-default configurations. This could allows attackers with control over Thread Context Map (MDC) input data when the logging configuration uses a non-default Pattern Layout with either a Context Lookup (for example, $${ctx:loginId}) or a Thread Context Map pattern (%X, %mdc, or %MDC) to craft malicious input data using a JNDI Lookup pattern resulting in an information leak and remote code execution in some environments and local code execution in all environments. Log4j 2.16.0 (Java 8) and 2.12.2 (Java 7) fix this issue by removing support for message lookup patterns and disabling JNDI functionality by default.\n\nPublication Date: Thu Oct 31 16:05:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-45046"
             ]
         }
     ],
