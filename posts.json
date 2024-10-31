@@ -5522,6 +5522,30 @@
                 "o.com\n📜 Cate",
                 "livemqbawcco4cx4a672k2fip3guyxudzurfqvdszafam3ofqgqd.onion/companies/clasinfo.com/\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 6178,
+            "discovered": "2024-10-31",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6177,
+            "discovered": "2024-10-31",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-31 07:33:03\n🚨 Title: Alleged sale of unauthorized access to Samsung Electronics\n🛡️ Victim Country: South Korea\n🏭 Victim Industry: Consumer Electronics\n🏢 Victim Organization: samsung\n🌐 Victim Site: samsung.com\n📜 Category: Initial Access\n🕵️‍♂️ Threat Actor: mommy\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-5000-Samsung-Korea-Initial-Access\n📝 Description: Threat actor claims to be selling unauthorized root access to the firewall server of Samsung Electronics.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "South Korea"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                ".com\n📜 Cate",
+                "achforums.st/Thread-5000-Samsung-Korea-Initial-Access\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -20339,6 +20363,42 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 950,
+            "discovered": "2024-10-31",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 949,
+            "discovered": "2024-10-31",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 948,
+            "discovered": "2024-10-31",
+            "post_title": "Multi-Site Hack Alert: Indian Websites Taken Down \n\nTargets Acquired:\n\nIndian Institute of Photography (IIP) – indianinstituteofphotography.com\nType: Educational\nFocus: Offering online and offline courses in photography, from beginner to pro levels.\n\nVirtue Pharma – virtuepharma.co\nType: Corporate / Healthcare\nFocus: A pharmaceutical company in Ahmedabad Gujarat, specializing in healthcare products with innovative drug delivery systems.\n\nBLDC India – bldcindia.in\nType: E-commerce / Corporate\nFocus: Selling energy-efficient BLDC ceiling fans, promoting eco-friendly technology across India\n\n⚠️ Why?\nThis is a direct response to the Indian governments relentless support for the killing of Muslims destruction of homes, and spreading of religious hatred against Islam Your actions have consequences, and we are here to ensure that your crimes dont go unnoticed\n\nThis is just the beginning. End your support for oppression, or expect more systems to fall We are watching, and we are everywhere\n\n#AllEyesOnIndianMuslims",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Ahmedabad Gujarat",
+                "India",
+                "India"
+            ],
+            "URLs": [
+                "indianinstituteofphotography.com",
+                "virtuepharma.co",
+                "bldcindia.in"
+            ]
         }
     ],
     "Electronic Tigers Unit": [
@@ -50806,6 +50866,30 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/lottiefiles-hit-in-npm-supply-chain-attack-targeting-users-crypto/"
+            ]
+        },
+        {
+            "Message ID": 91107,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Lottie Player compromised in supply chain attack — all you need to know\n\nDate: October 31, 2024\n\nSource: https://www.sonatype.com/blog/lottie-player-compromised-in-supply-chain-attack-all-you-need-to-know\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.sonatype.com/blog/lottie-player-compromised-in-supply-chain-attack-all-you-need-to-know"
+            ]
+        },
+        {
+            "Message ID": 91106,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Federal agency confirms that a health data breach affects a third of Americans\n\nDate: October 31, 2024\n\nSource: https://www.pandasecurity.com/en/mediacenter/federal-agency-confirms-health-data-breach-affects-third-americans/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.pandasecurity.com/en/mediacenter/federal-agency-confirms-health-data-breach-affects-third-americans/"
             ]
         }
     ],
