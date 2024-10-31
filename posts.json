@@ -5473,6 +5473,55 @@
             "URLs": [
                 "https://x.com/dreyand_/status/1850349186056691835?t=hwu9C2dlEMgOvczq0VFMaQ&s=19"
             ]
+        },
+        {
+            "Message ID": 6176,
+            "discovered": "2024-10-31",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6175,
+            "discovered": "2024-10-31",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-31 04:30:29\n🚨 Title: Alleged data leak of Hindustan Insurance Brokers Limited\n🛡️ Victim Country: India\n🏭 Victim Industry: Insurance\n🏢 Victim Organization: hindustan insurance brokers limited\n🌐 Victim Site: hibl.in\n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: dbsector\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-DATABASE-hibl-in-Hindustan-Insurance-Brokers\n📝 Description: Threat actor claims to have leaked data from Hindustan Insurance Brokers Limited, a leading direct insurance broker in India. The leaked data reportedly includes sensitive information on permits and insurance details from registered customers.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "India",
+                "India"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "\n📜 Cate",
+                "achforums.st/Thread-DATABASE-hibl-in-Hindustan-Insurance-Brokers\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 6174,
+            "discovered": "2024-10-31",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6173,
+            "discovered": "2024-10-31",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-31 04:11:32\n🚨 Title: CLAS Information Services falls victim to BianLian Ransomware\n🛡️ Victim Country: USA\n🏭 Victim Industry: Legal Services\n🏢 Victim Organization: clas information services\n🌐 Victim Site: clasinfo.com\n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: BianLian\n🌍 Network: tor\n🔗 Claim: http://bianlivemqbawcco4cx4a672k2fip3guyxudzurfqvdszafam3ofqgqd.onion/companies/clasinfo.com/\n📝 Description: The group claims to have access to 450 GB of organization's data, which includes Confidential customer information, Financial documents, Files from CEO PC, Operational and business files, Mailboxes & Internal and external email correspondence",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "o.com\n📜 Cate",
+                "livemqbawcco4cx4a672k2fip3guyxudzurfqvdszafam3ofqgqd.onion/companies/clasinfo.com/\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -50244,6 +50293,115 @@
             "URLs": [
                 "https://drr12.drr.go.th/87.txt",
                 "http://www.zone-h.org/mirror/id/41294013"
+            ]
+        },
+        {
+            "Message ID": 91087,
+            "discovered": "2024-10-31",
+            "post_title": "Title: ISC Stormcast For Thursday, October 31st, 2024 https://isc.sans.edu/podcastdetail/9204, (Thu, Oct 31st)\n\nDate: October 31, 2024\n\nSource: https://isc.sans.edu/diary/rss/31402\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/podcastdetail/9204",
+                "https://isc.sans.edu/diary/rss/31402"
+            ]
+        },
+        {
+            "Message ID": 91086,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-50470\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50470\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Themes4WP Themes4WP YouTube External Subtitles allows Stored XSS.This issue affects Themes4WP YouTube External Subtitles: from n/a through 1.0.\n\nPublication Date: Thu Oct 31 06:09:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50470"
+            ]
+        },
+        {
+            "Message ID": 91085,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-50471\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50471\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Checklist Trip Plan allows Stored XSS.This issue affects Trip Plan: from n/a through 1.0.10.\n\nPublication Date: Thu Oct 31 06:09:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50471"
+            ]
+        },
+        {
+            "Message ID": 91084,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-50472\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50472\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Martin Drapeau Amilia Store allows Stored XSS.This issue affects Amilia Store: from n/a through 2.9.8.\n\nPublication Date: Thu Oct 31 06:09:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Amilia"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50472"
+            ]
+        },
+        {
+            "Message ID": 91083,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-50478\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50478\n\nDescription: Authentication Bypass by Primary Weakness vulnerability in Swoop 1-Click Login: Passwordless Authentication allows Authentication Bypass.This issue affects 1-Click Login: Passwordless Authentication: 1.4.5.\n\nPublication Date: Thu Oct 31 06:08:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50478"
+            ]
+        },
+        {
+            "Message ID": 91082,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-10544\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10544\n\nDescription: The Woo Manage Fraud Orders plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 6.1.7 through publicly exposed log files. This makes it possible for unauthenticated attackers to view potentially sensitive information about users contained in the exposed log files.\n\nPublication Date: Thu Oct 31 06:08:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10544"
+            ]
+        },
+        {
+            "Message ID": 91081,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-10559\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10559\n\nDescription: A vulnerability was found in SourceCodester Airport Booking Management System 1.0 and classified as critical. Affected by this issue is the function details of the component Passport Number Handler. The manipulation leads to buffer overflow. The attack needs to be approached locally. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Oct 31 06:08:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10559"
+            ]
+        },
+        {
+            "Message ID": 91080,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-10561\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10561\n\nDescription: A vulnerability was found in Codezips Pet Shop Management System 1.0. It has been classified as critical. This affects an unknown part of the file birdsupdate.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Oct 31 06:08:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10561"
+            ]
+        },
+        {
+            "Message ID": 91079,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-9708\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9708\n\nDescription: The Easy SVG Upload plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in all versions up to, and including, 1.0 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Author-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.\n\nPublication Date: Thu Oct 31 06:08:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9708"
             ]
         }
     ],
