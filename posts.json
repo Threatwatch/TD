@@ -6120,6 +6120,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6232,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🇵🇹888 Has Allegedly Leaked the Database of Ensinio\n\nhttps://darkwebinformer.com/888-has-allegedly-leaked-the-database-of-ensinio/\n\nA threat actor claims to have leaked the database of Ensinio, reportedly containing data on 161,000 users. The compromised information includes IDs, names, emails, usernames, documents, dates of birth, addresses, phone numbers, and more.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/888-has-allegedly-leaked-the-database-of-ensinio/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6231,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🇹🇼303 is Allegedly Selling Unauthorized Access to Asus Taiwan\n\nhttps://darkwebinformer.com/303-is-allegedly-selling-unauthorized-access-to-asus-taiwan/\n\nA threat actor claims to be selling unauthorized root access to the firewall server of Asus.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/303-is-allegedly-selling-unauthorized-access-to-asus-taiwan/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -30843,6 +30867,126 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2827,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: Houston Housing Authority\nAttacker: Meow\nDisclosure Date: 31.10.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2826,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: hacla[.]org\nAttacker: Cactus\nDisclosure Date: 31.10.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2825,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: www[.]mabeglobal[.]com\nAttacker: FOG\nDisclosure Date: 31.10.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2824,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: illumin8global[.]com\nAttacker: FOG\nDisclosure Date: 31.10.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2823,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: granjazul[.]com\nAttacker: FOG\nDisclosure Date: 31.10.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2822,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: Askling Car (asklingbil[.]se)\nAttacker: FOG\nDisclosure Date: 31.10.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2821,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: sandray[.]com\nAttacker: 3AM\nDisclosure Date: 31.10.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2820,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: mpspromotions[.]com\nAttacker: 3AM\nDisclosure Date: 31.10.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2819,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: inhometexas[.]com\nAttacker: 3AM\nDisclosure Date: 31.10.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2818,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: freedomhomecare[.]net\nAttacker: 3AM\nDisclosure Date: 31.10.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2817,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: caillau[.]com[.]br\nAttacker: 3AM\nDisclosure Date: 31.10.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2816,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: anuenterprise[.]com[.]au\nAttacker: 3AM\nDisclosure Date: 31.10.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "anuenterprise[.]com[.]au"
             ],
             "URLs": []
         }
