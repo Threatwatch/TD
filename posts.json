@@ -5740,6 +5740,40 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6198,
+            "discovered": "2024-10-31",
+            "post_title": "Peru.. Waffles.. what is going on",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Peru"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6197,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🇧🇪A Threat Actor Allegedly Has Leaked Data of Waffle Factory\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-data-of-waffle-factory/\n\nA threat actor claims to have leaked data from Waffle Factory, reportedly involving 270,000 user records, including 115,000 unique email addresses. The data is said to include names, emails, phone numbers, birthdates, and card numbers.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-data-of-waffle-factory/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6196,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🇮🇳dbsector has Allegedly Leaked the Data of EMBASE Pro Suit\n\nhttps://darkwebinformer.com/dbsector-has-allegedly-leaked-the-data-of-embase-pro-suit/\n\nA threat actor claims to have leaked databases from EMBASE Pro Suit. The leaked data is reportedly a combination of Excel (.xlsx) and CSV files, containing educational records such as student data, admissions details, staff records, and transaction information.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/dbsector-has-allegedly-leaked-the-data-of-embase-pro-suit/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -11589,6 +11623,19 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5292,
+            "discovered": "2024-10-31",
+            "post_title": "We have to know that both of our neighboring countries recognizes Israel\n\nBurma Recognizes Israel only\nand India recognizes both (But supports Israel)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel",
+                "Israel",
+                "India",
+                "Israel"
             ],
             "URLs": []
         }
@@ -29143,6 +29190,31 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3985,
+            "discovered": "2024-10-31",
+            "post_title": "ID: 18302\n⚠ Thu, 31 Oct 2024 11:25:37 UTC\n🥷 raworld\n🎯 BULLONERIE GALVIT, Italy\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18302",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Italy"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18302"
+            ]
+        },
+        {
+            "Message ID": 3984,
+            "discovered": "2024-10-31",
+            "post_title": "ID: 18301\n⚠ Thu, 31 Oct 2024 11:15:43 UTC\n🥷 cactus\n🎯 hacla.org, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18301",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "cla.org, ",
+                "somfeed.it/index.php?page=post_details&id_post=18301"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -52663,6 +52735,336 @@
             ],
             "URLs": [
                 "https://blog.talosintelligence.com/nvidia-shader-out-of-bounds-and-level1-2/"
+            ]
+        },
+        {
+            "Message ID": 91240,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Predict D.C. and London: The Fight Against Ransomware Enters a New Phase\n\nDate: October 31, 2024\n\nSource: https://www.recordedfuture.com/blog/predict-cybersecurity-conference-recap-dc-london\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "London"
+            ],
+            "URLs": [
+                "https://www.recordedfuture.com/blog/predict-cybersecurity-conference-recap-dc-london"
+            ]
+        },
+        {
+            "Message ID": 91239,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-50354\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50354\n\nDescription: gnark is a fast zk-SNARK library that offers a high-level API to design circuits. In gnark 0.11.0 and earlier, deserialization of Groth16 verification keys allocate excessive memory, consuming a lot of resources and triggering a crash with the error fatal error: runtime: out of memory.\n\nPublication Date: Thu Oct 31 20:14:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50354"
+            ]
+        },
+        {
+            "Message ID": 91238,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-8185\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8185\n\nDescription: Vault Community and Vault Enterprise (“Vault”) clusters using Vault’s Integrated Storage backend are vulnerable to a denial-of-service (DoS) attack through memory exhaustion through a Raft cluster join API endpoint . An attacker may send a large volume of requests to the endpoint which may cause Vault to consume excessive system memory resources, potentially leading to a crash of the underlying system and the Vault process itself.\n\nThis vulnerability, CVE-2024-8185, is fixed in Vault Community 1.18.1 and Vault Enterprise 1.18.1, 1.17.8, and 1.16.12.\n\nPublication Date: Thu Oct 31 20:14:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8185"
+            ]
+        },
+        {
+            "Message ID": 91237,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-51478\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51478\n\nDescription: YesWiki is a wiki system written in PHP. Prior to 4.4.5, the use of a weak cryptographic algorithm and a hard-coded salt to hash the password reset key allows it to be recovered and used to reset the password of any account. This issue is fixed in 4.4.5.\n\nPublication Date: Thu Oct 31 20:14:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51478"
+            ]
+        },
+        {
+            "Message ID": 91236,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-8143\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8143\n\nDescription: In the latest version (20240628) of gaizhenbiao/chuanhuchatgpt, an issue exists in the /file endpoint that allows authenticated users to access the chat history of other users. When a user logs in, a directory is created in the history folder with the user's name. By manipulating the /file endpoint, an authenticated user can enumerate and access files in other users' directories, leading to unauthorized access to private chat histories. This vulnerability can be exploited to read any user's private chat history.\n\nPublication Date: Thu Oct 31 20:14:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8143"
+            ]
+        },
+        {
+            "Message ID": 91235,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-37794\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37794\n\nDescription: WAYOS FBM-291W 19.09.11V was discovered to contain a command injection vulnerability via the component /upgrade_filter.asp.\n\nPublication Date: Thu Oct 31 20:14:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37794"
+            ]
+        },
+        {
+            "Message ID": 91234,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-35945\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35945\n\nDescription: Envoy is a cloud-native high-performance edge/middle/service proxy. Envoy’s HTTP/2 codec may leak a header map and bookkeeping structures upon receiving `RST_STREAM` immediately followed by the `GOAWAY` frames from an upstream server. In nghttp2, cleanup of pending requests due to receipt of the `GOAWAY` frame skips de-allocation of the bookkeeping structure and pending compressed header. The error return [code path] is taken if connection is already marked for not sending more requests due to `GOAWAY` frame. The clean-up code is right after the return statement, causing memory leak. Denial of service through memory exhaustion. This vulnerability was patched in versions(s) 1.26.3, 1.25.8, 1.24.9, 1.23.11.\n\nPublication Date: Thu Oct 31 20:13:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35945"
+            ]
+        },
+        {
+            "Message ID": 91233,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-51430\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51430\n\nDescription: Cross Site Scripting vulnerability in online diagnostic lab management system using php v.1.0 allows a remote attacker to execute arbitrary code via the Test Name parameter on the diagnostic/add-test.php component.\n\nPublication Date: Thu Oct 31 20:13:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51430"
+            ]
+        },
+        {
+            "Message ID": 91232,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-48224\n\nDescription: Funadmin v5.0.2 has an arbitrary file read vulnerability in /curd/index/editfile.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-48224\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://github.com/funadmin/funadmin/issues/24\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48224",
+                "https://github.com/funadmin/funadmin/issues/24"
+            ]
+        },
+        {
+            "Message ID": 91231,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-48225\n\nDescription: Funadmin v5.0.2 has an arbitrary file deletion vulnerability in /curd/index/delfile.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-48225\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://github.com/funadmin/funadmin/issues/25\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48225",
+                "https://github.com/funadmin/funadmin/issues/25"
+            ]
+        },
+        {
+            "Message ID": 91230,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-48226\n\nDescription: Funadmin 5.0.2 is vulnerable to SQL Injection in curd/table/savefield.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-48226\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://github.com/funadmin/funadmin/issues/26\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48226",
+                "https://github.com/funadmin/funadmin/issues/26"
+            ]
+        },
+        {
+            "Message ID": 91229,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-7774\n\nDescription: A path traversal vulnerability exists in the `getFullPath` method of langchain-ai/langchainjs version 0.2.5. This vulnerability allows attackers to save files anywhere in the filesystem, overwrite existing text files, read `.txt` files, and delete files. The vulnerability is exploited through the `setFileContent`, `getParsedFile`, and `mdelete` methods, which do not properly sanitize user input.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-7774\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://huntr.com/bounties/8fe40685-b714-4191-af7a-3de5e5628cee\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7774",
+                "https://huntr.com/bounties/8fe40685-b714-4191-af7a-3de5e5628cee"
+            ]
+        },
+        {
+            "Message ID": 91228,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-48218\n\nDescription: Funadmin v5.0.2 has a SQL injection vulnerability in /curd/table/list.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-48218\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://github.com/funadmin/funadmin/issues/21\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48218",
+                "https://github.com/funadmin/funadmin/issues/21"
+            ]
+        },
+        {
+            "Message ID": 91227,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-48222\n\nDescription: Funadmin v5.0.2 has a SQL injection vulnerability in /curd/table/edit.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-48222\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://github.com/funadmin/funadmin/issues/22\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48222",
+                "https://github.com/funadmin/funadmin/issues/22"
+            ]
+        },
+        {
+            "Message ID": 91226,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-48223\n\nDescription: Funadmin v5.0.2 has a SQL injection vulnerability in /curd/table/fieldlist.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-48223\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://github.com/funadmin/funadmin/issues/23\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48223",
+                "https://github.com/funadmin/funadmin/issues/23"
+            ]
+        },
+        {
+            "Message ID": 91225,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-48227\n\nDescription: Funadmin 5.0.2 has a logical flaw in the Curd one click command deletion function, which can result in a Denial of Service (DOS).\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-48227\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://github.com/funadmin/funadmin/issues/27\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48227",
+                "https://github.com/funadmin/funadmin/issues/27"
+            ]
+        },
+        {
+            "Message ID": 91224,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-7783\n\nDescription: mintplex-labs/anything-llm version latest contains a vulnerability where sensitive information, specifically a password, is improperly stored within a JWT (JSON Web Token) used as a bearer token in single user mode. When decoded, the JWT reveals the password in plaintext. This improper storage of sensitive information poses significant security risks, as an attacker who gains access to the JWT can easily decode it and retrieve the password. The issue is fixed in version 1.0.3.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-7783\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://huntr.com/bounties/20e9950f-ad41-4d6b-8bd0-c7f7051695b3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7783",
+                "https://huntr.com/bounties/20e9950f-ad41-4d6b-8bd0-c7f7051695b3"
+            ]
+        },
+        {
+            "Message ID": 91223,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-48230\n\nDescription: funadmin 5.0.2 is vulnerable to SQL Injection via the parentField parameter in the index method of \\backend\\controller\\auth\\Auth.php.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-48230\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://github.com/funadmin/funadmin/issues/30\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48230",
+                "https://github.com/funadmin/funadmin/issues/30"
+            ]
+        },
+        {
+            "Message ID": 91222,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: mpspromotions.com\n\nDetection Date: Thu Oct 31 20:11:07 2024\n\nThreat Actor: 3am\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "mpspromotions.com"
+            ]
+        },
+        {
+            "Message ID": 91221,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: sandray.com\n\nDetection Date: Thu Oct 31 20:10:54 2024\n\nThreat Actor: 3am\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "sandray.com"
+            ]
+        },
+        {
+            "Message ID": 91220,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: caillau.com.br\n\nDetection Date: Thu Oct 31 20:10:41 2024\n\nThreat Actor: 3am\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "caillau.com.br"
+            ]
+        },
+        {
+            "Message ID": 91219,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: inhometexas.com\n\nDetection Date: Thu Oct 31 20:10:28 2024\n\nThreat Actor: 3am\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "inhometexas.com"
+            ]
+        },
+        {
+            "Message ID": 91218,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: anuenterprise.com.au\n\nDetection Date: Thu Oct 31 20:10:15 2024\n\nThreat Actor: 3am\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "anuenterprise.com.au"
+            ]
+        },
+        {
+            "Message ID": 91217,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: Askling Car (asklingbil.se)\n\nDetection Date: Thu Oct 31 20:10:02 2024\n\nThreat Actor: fog\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "asklingbil.se"
+            ]
+        },
+        {
+            "Message ID": 91216,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: Houston Housing Authority\n\nDetection Date: Thu Oct 31 20:09:49 2024\n\nThreat Actor: meow\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91215,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: BULLONERIE GALVIT\n\nDetection Date: Thu Oct 31 20:09:32 2024\n\nThreat Actor: ra group\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91214,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: granjazul.com\n\nDetection Date: Thu Oct 31 20:09:17 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "granjazul.com"
             ]
         }
     ],
