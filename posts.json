@@ -5730,6 +5730,16 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-a-git-database-from-an-unidentified-atlanta-usa-internet-service-provider/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6195,
+            "discovered": "2024-10-31",
+            "post_title": ".",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -25802,6 +25812,16 @@
             "URLs": [
                 "https://t.co/53Jc1xBDLL"
             ]
+        },
+        {
+            "Message ID": 3409,
+            "discovered": "2024-10-31",
+            "post_title": "Group: meow\nApprox. Time: 16:39 31/10/24\nTitle: Houston Housing Authority",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -52619,6 +52639,18 @@
             ],
             "URLs": [
                 "https://medium.com/mitre-attack/attack-v16-561c76af94cf?source=rss----6da19bd08fba---4"
+            ]
+        },
+        {
+            "Message ID": 91212,
+            "discovered": "2024-10-31",
+            "post_title": "Title: LiteSpeed Cache WordPress plugin bug lets hackers get admin access\n\nDate: October 31, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/litespeed-cache-wordpress-plugin-bug-lets-hackers-get-admin-access/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/litespeed-cache-wordpress-plugin-bug-lets-hackers-get-admin-access/"
             ]
         }
     ],
