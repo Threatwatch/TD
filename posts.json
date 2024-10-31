@@ -52103,6 +52103,201 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2021-47228"
             ]
+        },
+        {
+            "Message ID": 91193,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-48910\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48910\n\nDescription: DOMPurify is a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify was vulnerable to prototype pollution. This vulnerability is fixed in 2.4.2.\n\nPublication Date: Thu Oct 31 18:38:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS",
+                "MathML"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48910"
+            ]
+        },
+        {
+            "Message ID": 91192,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-20913\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20913\n\nDescription: Vulnerability in the Oracle Business Intelligence Enterprise Edition product of Oracle Analytics (component: BI Platform Security).   The supported version that is affected is 12.2.1.4.0. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Business Intelligence Enterprise Edition.  Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Oracle Business Intelligence Enterprise Edition, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in  unauthorized update, insert or delete access to some of Oracle Business Intelligence Enterprise Edition accessible data as well as  unauthorized read access to a subset of Oracle Business Intelligence Enterprise Edition accessible data. CVSS 3.1 Base Score 5.4 (Confidentiality and Integrity impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N).\n\nPublication Date: Thu Oct 31 18:38:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20913"
+            ]
+        },
+        {
+            "Message ID": 91191,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Federal cyber posture bolstered by TMF, says federal CIO\n\nDate: October 31, 2024\n\nSource: https://www.scworld.com/brief/federal-cyber-posture-bolstered-by-tmf-says-federal-cio\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/federal-cyber-posture-bolstered-by-tmf-says-federal-cio"
+            ]
+        },
+        {
+            "Message ID": 91190,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Official details key cyber policy priorities for 2025\n\nDate: October 31, 2024\n\nSource: https://www.scworld.com/brief/official-details-key-cyber-policy-priorities-for-2025\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/official-details-key-cyber-policy-priorities-for-2025"
+            ]
+        },
+        {
+            "Message ID": 91189,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Private API compromise possible with now-patched Opera bug\n\nDate: October 31, 2024\n\nSource: https://www.scworld.com/brief/private-api-compromise-possible-with-now-patched-opera-bug\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/private-api-compromise-possible-with-now-patched-opera-bug"
+            ]
+        },
+        {
+            "Message ID": 91188,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Critical QNAP HBS zero-day addressed\n\nDate: October 31, 2024\n\nSource: https://www.scworld.com/brief/critical-qnap-hbs-zero-day-addressed\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/critical-qnap-hbs-zero-day-addressed"
+            ]
+        },
+        {
+            "Message ID": 91187,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Data breach disclosed by Interbank\n\nDate: October 31, 2024\n\nSource: https://www.scworld.com/brief/data-breach-disclosed-by-interbank\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/data-breach-disclosed-by-interbank"
+            ]
+        },
+        {
+            "Message ID": 91186,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Canada targeted by Chinese hacking efforts\n\nDate: October 31, 2024\n\nSource: https://www.scworld.com/brief/canada-targeted-by-chinese-hacking-efforts\n\n#News #Canada #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Canada",
+                "Canada",
+                "China"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/canada-targeted-by-chinese-hacking-efforts"
+            ]
+        },
+        {
+            "Message ID": 91185,
+            "discovered": "2024-10-31",
+            "post_title": "Title: More potent LightSpy malware for iOS emerges\n\nDate: October 31, 2024\n\nSource: https://www.scworld.com/brief/more-potent-lightspy-malware-for-ios-emerges\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/more-potent-lightspy-malware-for-ios-emerges"
+            ]
+        },
+        {
+            "Message ID": 91184,
+            "discovered": "2024-10-31",
+            "post_title": "Title: New Facebook-targeted malvertising deploys SYS01 infostealer\n\nDate: October 31, 2024\n\nSource: https://www.scworld.com/brief/new-facebook-targeted-malvertising-deploys-sys01-infostealer\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/new-facebook-targeted-malvertising-deploys-sys01-infostealer"
+            ]
+        },
+        {
+            "Message ID": 91183,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Phony CAPTCHAs exploited in Lumma, Amadey trojan campaign\n\nDate: October 31, 2024\n\nSource: https://www.scworld.com/brief/phony-captchas-exploited-in-lumma-amadey-trojan-campaign\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Lumma"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/phony-captchas-exploited-in-lumma-amadey-trojan-campaign"
+            ]
+        },
+        {
+            "Message ID": 91182,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Massive cloud credential theft conducted via exposed Git configuration breach\n\nDate: October 31, 2024\n\nSource: https://www.scworld.com/brief/massive-cloud-credential-theft-conducted-via-exposed-git-configuration-breach\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/massive-cloud-credential-theft-conducted-via-exposed-git-configuration-breach"
+            ]
+        },
+        {
+            "Message ID": 91181,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-52811\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52811\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nscsi: ibmvfc: Remove BUG_ON in the case of an empty event pool\n\nIn practice the driver should never send more commands than are allocated\nto a queue's event pool. In the unlikely event that this happens, the code\nasserts a BUG_ON, and in the case that the kernel is not configured to\ncrash on panic returns a junk event pointer from the empty event list\ncausing things to spiral from there. This BUG_ON is a historical artifact\nof the ibmvfc driver first being upstreamed, and it is well known now that\nthe use of BUG_ON is bad practice except in the most unrecoverable\nscenario. There is nothing about this scenario that prevents the driver\nfrom recovering and carrying on.\n\nRemove the BUG_ON in question from ibmvfc_get_event() and return a NULL\npointer in the case of an empty event pool. Update all call sites to\nibmvfc_get_event() to check for a NULL pointer and perfrom the appropriate\nfailure or recovery action.\n\nPublication Date: Thu Oct 31 18:25:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "BUG_ON"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52811"
+            ]
+        },
+        {
+            "Message ID": 91180,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-48093\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48093\n\nDescription: Unrestricted File Upload in the Discussions tab in Operately v.0.1.0 allows a privileged user to achieve Remote Code Execution via uploading and executing malicious files without validating file extensions or content types.\n\nPublication Date: Thu Oct 31 18:24:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48093"
+            ]
+        },
+        {
+            "Message ID": 91179,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-52776\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52776\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: ath12k: fix dfs-radar and temperature event locking\n\nThe ath12k active pdevs are protected by RCU but the DFS-radar and\ntemperature event handling code calling ath12k_mac_get_ar_by_pdev_id()\nwas not marked as a read-side critical section.\n\nMark the code in question as RCU read-side critical sections to avoid\nany potential use-after-free issues.\n\nNote that the temperature event handler looks like a place holder\ncurrently but would still trigger an RCU lockdep splat.\n\nCompile tested only.\n\nPublication Date: Thu Oct 31 18:24:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52776"
+            ]
+        },
+        {
+            "Message ID": 91178,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-21249\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21249\n\nDescription: Vulnerability in the PeopleSoft Enterprise FIN Expenses product of Oracle PeopleSoft (component: Expenses).   The supported version that is affected is 9.2. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise FIN Expenses.  Successful attacks of this vulnerability can result in  unauthorized read access to a subset of PeopleSoft Enterprise FIN Expenses accessible data. CVSS 3.1 Base Score 4.3 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N).\n\nPublication Date: Thu Oct 31 18:24:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21249"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
