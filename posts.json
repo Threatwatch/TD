@@ -25309,6 +25309,38 @@
             "URLs": [
                 "https://t.co/xTtRs0IjwG"
             ]
+        },
+        {
+            "Message ID": 3397,
+            "discovered": "2024-10-31",
+            "post_title": "Group: sarcoma\nApprox. Time: 06:37 31/10/24\nTitle: TDM Technical Services",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3396,
+            "discovered": "2024-10-31",
+            "post_title": "Group: sarcoma\nApprox. Time: 06:37 31/10/24\nTitle: CAS Software",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3395,
+            "discovered": "2024-10-31",
+            "post_title": "Group: ransomhub\nApprox. Time: 06:37 31/10/24\nTitle: https://t.co/6PNO5RuXOd",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/6PNO5RuXOd"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -50655,6 +50687,30 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9700"
+            ]
+        },
+        {
+            "Message ID": 91099,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: illumin8global.com\n\nDetection Date: Thu Oct 31 09:46:55 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "illumin8global.com"
+            ]
+        },
+        {
+            "Message ID": 91098,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Typosquat Campaign Targeting Puppeteer Users\n\nDate: October 31, 2024\n\nSource: https://blog.phylum.io/supply-chain-security-typosquat-campaign-targeting-puppeteer-users/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.phylum.io/supply-chain-security-typosquat-campaign-targeting-puppeteer-users/"
             ]
         }
     ],
