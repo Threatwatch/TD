@@ -50913,6 +50913,30 @@
             "URLs": [
                 "hacla.org"
             ]
+        },
+        {
+            "Message ID": 91110,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Loose-lipped neural networks and lazy scammers\n\nDate: October 31, 2024\n\nSource: https://securelist.com/llm-phish-blunders/114367/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://securelist.com/llm-phish-blunders/114367/"
+            ]
+        },
+        {
+            "Message ID": 91109,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Getting to DevSecOps: How to Change Culture\n\nDate: October 31, 2024\n\nSource: https://checkmarx.com/blog/getting-to-devsecops-how-to-change-culture/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://checkmarx.com/blog/getting-to-devsecops-how-to-change-culture/"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
