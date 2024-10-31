@@ -52652,6 +52652,18 @@
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/litespeed-cache-wordpress-plugin-bug-lets-hackers-get-admin-access/"
             ]
+        },
+        {
+            "Message ID": 91213,
+            "discovered": "2024-10-31",
+            "post_title": "Title: NVIDIA shader out-of-bounds and eleven LevelOne router vulnerabilities\n\nDate: October 31, 2024\n\nSource: https://blog.talosintelligence.com/nvidia-shader-out-of-bounds-and-level1-2/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.talosintelligence.com/nvidia-shader-out-of-bounds-and-level1-2/"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
