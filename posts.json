@@ -5918,6 +5918,36 @@
                 "🇪Gatito_FBI_NZ"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6214,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🚨🇵🇪Gatito_FBI_NZ has Allegedly Leaked Data Belonging to BANCO CREDITO DE PERU (BCP)",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "🇪Gatito_FBI_NZ"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6213,
+            "discovered": "2024-10-31",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6212,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🚨🚨🇵🇪Gatito_FBI_NZ Has Allegedly Leaked Data of SIDPOL system of the National Police of Peru (PNP)",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -11815,6 +11845,26 @@
                 "Bangladesh",
                 "Bangladesh",
                 "Bangladesh"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5297,
+            "discovered": "2024-10-31",
+            "post_title": "Owh, I See\nthat's why Fat man is jumping too much,\n\nDon't worry, Our Cooperation with China is Boosting ✔",
+            "Attack Type": "Unknown",
+            "Location": [
+                "China"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5296,
+            "discovered": "2024-10-31",
+            "post_title": "The eager for Votes has made him Mentally unstable \n\nFat man should withdraw from Election",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
@@ -53549,6 +53599,249 @@
             ],
             "URLs": [
                 "https://www.reliaquest.com/blog/announcing-the-greymatter-notification-center/"
+            ]
+        },
+        {
+            "Message ID": 91276,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-50347\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50347\n\nDescription: Laravel Reverb provides a real-time WebSocket communication backend for Laravel applications. Prior to 1.4.0, there is an issue where verification signatures for requests sent to Reverb's Pusher-compatible API were not being verified. This API is used in scenarios such as broadcasting a message from a backend service or for obtaining statistical information (such as number of connections) about a given channel. This issue only affects the Pusher-compatible API endpoints and not the WebSocket connections themselves. In order to exploit this vulnerability, the application ID which, should never be exposed, would need to be known by an attacker. This vulnerability is fixed in 1.4.0.\n\nPublication Date: Thu Oct 31 22:16:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50347"
+            ]
+        },
+        {
+            "Message ID": 91275,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-50356\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50356\n\nDescription: Press, a Frappe custom app that runs Frappe Cloud, manages infrastructure, subscription, marketplace, and software-as-a-service (SaaS). The password could be reset by anyone who have access to the mail inbox circumventing the 2FA. Even though they wouldn't be able to login by bypassing the 2FA. Only users who have enabled 2FA are affected. Commit ba0007c28ac814260f836849bc07d29beea7deb6 patches this bug.\n\nPublication Date: Thu Oct 31 22:16:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50356"
+            ]
+        },
+        {
+            "Message ID": 91274,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-7962\n\nDescription: An arbitrary file read vulnerability exists in gaizhenbiao/chuanhuchatgpt version 20240628 due to insufficient validation when loading prompt template files. An attacker can read any file that matches specific criteria using an absolute path. The file must not have a .json extension and, except for the first line, every other line must contain commas. This vulnerability allows reading parts of format-compliant files, including code and log files, which may contain highly sensitive information such as account credentials.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-7962\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://huntr.com/bounties/83f0a8e1-490c-49e7-b334-02125ee0f1b1\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7962",
+                "https://huntr.com/bounties/83f0a8e1-490c-49e7-b334-02125ee0f1b1"
+            ]
+        },
+        {
+            "Message ID": 91273,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-8143\n\nDescription: In the latest version (20240628) of gaizhenbiao/chuanhuchatgpt, an issue exists in the /file endpoint that allows authenticated users to access the chat history of other users. When a user logs in, a directory is created in the history folder with the user's name. By manipulating the /file endpoint, an authenticated user can enumerate and access files in other users' directories, leading to unauthorized access to private chat histories. This vulnerability can be exploited to read any user's private chat history.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-8143\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://huntr.com/bounties/71c5ea4b-524a-4173-8fd4-2fbabd69502e\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8143",
+                "https://huntr.com/bounties/71c5ea4b-524a-4173-8fd4-2fbabd69502e"
+            ]
+        },
+        {
+            "Message ID": 91272,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2022-30356\n\nDescription: OvalEdge 5.2.8.0 and earlier is affected by a Privilege Escalation vulnerability via a POST request to /user/assignuserrole via the userid and role parameters . Authentication is required with OE_ADMIN role privilege.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2022-30356\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://cve.offsecguy.com/ovaledge/vulnerabilities/privilege-escalation#cve-2022-30356\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "5.2.8.0",
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-30356",
+                "https://cve.offsecguy.com/ovaledge/vulnerabilities/privilege-escalation#cve-2022-30356"
+            ]
+        },
+        {
+            "Message ID": 91271,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2022-30361\n\nDescription: OvalEdge 5.2.8.0 and earlier is affected by a Sensitive Data Exposure vulnerability via a GET request to /user/getUserType. No authentication is required. The information disclosed is associated with the registered user ID, status, email address, role(s), user type, license type, and personal details such as first name, last name, gender, and user preferences.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2022-30361\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://cve.offsecguy.com/ovaledge/vulnerabilities/sensitive-data-exposure#cve-2022-30361\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "5.2.8.0",
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-30361",
+                "https://cve.offsecguy.com/ovaledge/vulnerabilities/sensitive-data-exposure#cve-2022-30361"
+            ]
+        },
+        {
+            "Message ID": 91270,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2022-30359\n\nDescription: OvalEdge 5.2.8.0 and earlier is affected by a Sensitive Data Exposure vulnerability via a GET request to /user/getUserList. Authentication is required. The information disclosed is associated with the all registered users, including user ID, status, email address, role(s), user type, license type, and personal details such as first name, last name, gender, and user preferences.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2022-30359\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://cve.offsecguy.com/ovaledge/vulnerabilities/sensitive-data-exposure#cve-2022-30359\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "5.2.8.0",
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-30359",
+                "https://cve.offsecguy.com/ovaledge/vulnerabilities/sensitive-data-exposure#cve-2022-30359"
+            ]
+        },
+        {
+            "Message ID": 91269,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2022-30360\n\nDescription: OvalEdge 5.2.8.0 and earlier is affected by multiple Stored XSS (AKA Persistent or Type II) vulnerabilities via a POST request to /profile/updateProfile via the slackid or phone parameters. Authentication is required.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2022-30360\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://cve.offsecguy.com/ovaledge/vulnerabilities/stored-xss#cve-2022-30360\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "5.2.8.0",
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-30360",
+                "https://cve.offsecguy.com/ovaledge/vulnerabilities/stored-xss#cve-2022-30360"
+            ]
+        },
+        {
+            "Message ID": 91268,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2022-30358\n\nDescription: OvalEdge 5.2.8.0 and earlier is affected by an Account Takeover vulnerability via a POST request to /user/updatePassword via the userId and newPsw parameters. Authentication is required.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2022-30358\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://cve.offsecguy.com/ovaledge/vulnerabilities/account-takeover#cve-2022-30358\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "5.2.8.0",
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-30358",
+                "https://cve.offsecguy.com/ovaledge/vulnerabilities/account-takeover#cve-2022-30358"
+            ]
+        },
+        {
+            "Message ID": 91267,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2022-30357\n\nDescription: OvalEdge 5.2.8.0 and earlier is affected by an Account Takeover vulnerability via a POST request to /profile/updateProfile via the userId and email parameters. Authentication is required.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2022-30357\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://cve.offsecguy.com/ovaledge/vulnerabilities/account-takeover#cve-2022-30357\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "5.2.8.0",
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-30357",
+                "https://cve.offsecguy.com/ovaledge/vulnerabilities/account-takeover#cve-2022-30357"
+            ]
+        },
+        {
+            "Message ID": 91266,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-51060\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51060\n\nDescription: Projectworlds Online Admission System v1 is vulnerable to SQL Injection in index.php via the 'a_id' parameter.\n\nPublication Date: Thu Oct 31 22:03:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51060"
+            ]
+        },
+        {
+            "Message ID": 91265,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-51064\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51064\n\nDescription: Phpgurukul Teachers Record Management System v2.1 is vulnerable to SQL Injection via the tid parameter to admin/queries.php.\n\nPublication Date: Thu Oct 31 22:03:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51064"
+            ]
+        },
+        {
+            "Message ID": 91264,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-51066\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51066\n\nDescription: An Insecure Direct Object Reference (IDOR) vulnerability in appointment-detail.php in Phpgurukul's Beauty Parlour Management System v1.1 allows unauthorized access to the Personally Identifiable Information (PII) of other customers.\n\nPublication Date: Thu Oct 31 22:03:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51066"
+            ]
+        },
+        {
+            "Message ID": 91263,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-51259\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51259\n\nDescription: DrayTek Vigor3900 1.5.1.3 allows attackers to inject malicious commands into mainfunction.cgi and execute arbitrary commands by calling the setup_cacertificate function.\n\nPublication Date: Thu Oct 31 22:03:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51259",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 91262,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-51065\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51065\n\nDescription: Phpgurukul Beauty Parlour Management System v1.1 is vulnerable to SQL Injection in admin/index.php via the the username parameter.\n\nPublication Date: Thu Oct 31 22:03:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51065"
+            ]
+        },
+        {
+            "Message ID": 91261,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-21080\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21080\n\nDescription: Vulnerability in the Oracle Applications Framework product of Oracle E-Business Suite (component: REST Services).  Supported versions that are affected are 12.2.9-12.2.13. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Applications Framework.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle Applications Framework accessible data. CVSS 3.1 Base Score 6.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N).\n\nPublication Date: Thu Oct 31 22:02:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21080"
+            ]
+        },
+        {
+            "Message ID": 91260,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-10573\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10573\n\nDescription: An out-of-bounds write flaw was found in mpg123 when handling crafted streams. When decoding PCM, the libmpg123 may write past the end of a heap-located buffer. Consequently, heap corruption may happen, and arbitrary code execution is not discarded. The complexity required to exploit this flaw is considered high as the payload must be validated by the MPEG decoder and the PCM synth before execution. Additionally, to successfully execute the attack, the user must scan through the stream, making web live stream content (such as web radios) a very unlikely attack vector.\n\nPublication Date: Thu Oct 31 22:02:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10573"
+            ]
+        },
+        {
+            "Message ID": 91259,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-50801\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50801\n\nDescription: A SQL Injection vulnerability was discovered in AbanteCart 1.4.0 in the update() function in public_html/admin/controller/responses/listing_grid/collections.php. The vulnerability is exploitable via the id parameter.\n\nPublication Date: Thu Oct 31 22:02:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50801"
+            ]
+        },
+        {
+            "Message ID": 91258,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-50802\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50802\n\nDescription: A SQL Injection vulnerability was discovered in AbanteCart 1.4.0 in the update() function in public_html/admin/controller/responses/listing_grid/email_templates.php. The vulnerability is exploitable via the id parameter.\n\nPublication Date: Thu Oct 31 22:02:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50802"
             ]
         }
     ],
