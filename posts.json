@@ -6144,6 +6144,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/303-is-allegedly-selling-unauthorized-access-to-asus-taiwan/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6234,
+            "discovered": "2024-10-31",
+            "post_title": "💡Daily Dose of Dark Web Informer - October 31st, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-31st-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-october-31st-2024/"
+            ]
+        },
+        {
+            "Message ID": 6233,
+            "discovered": "2024-10-31",
+            "post_title": "🚨abyss0 is Allegedly Selling IBM Aspera Access to an Unidentified Financial Software Company\n\nhttps://darkwebinformer.com/abyss0-is-allegedly-selling-ibm-aspera-access-to-an-unidentified-financial-software-company/\n\nA threat actor claims to be selling IBM Aspera access to an unidentified financial software company. This access reportedly includes tens of terabytes of data, which is easily accessible and consists of various file types, documentation, credentials, and more.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/abyss0-is-allegedly-selling-ibm-aspera-access-to-an-unidentified-financial-software-company/\n"
+            ]
         }
     ],
     "RipperSec | 团队": [
