@@ -5992,6 +5992,26 @@
                 "Peru"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6220,
+            "discovered": "2024-10-31",
+            "post_title": "/Thread-Unofficial-Database-Index",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6219,
+            "discovered": "2024-10-31",
+            "post_title": "#OpSec: Trust, but verify.. or better yet.. don't trust at all.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -53994,6 +54014,78 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-48359"
+            ]
+        },
+        {
+            "Message ID": 91291,
+            "discovered": "2024-10-31",
+            "post_title": "Title: UnitedHealth Hires Longtime Cybersecurity Executive as CISO\n\nDate: October 31, 2024\n\nSource: https://securityboulevard.com/2024/10/unitedhealth-hires-longtime-cybersecurity-executive-as-ciso/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://securityboulevard.com/2024/10/unitedhealth-hires-longtime-cybersecurity-executive-as-ciso/"
+            ]
+        },
+        {
+            "Message ID": 91290,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Introducing VxWorks Support for Binary Ninja Ultimate\n\nDate: October 31, 2024\n\nSource: https://binary.ninja/2024/10/31/introducing-vxworks.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://binary.ninja/2024/10/31/introducing-vxworks.html"
+            ]
+        },
+        {
+            "Message ID": 91289,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Microsoft: Chinese hackers use Quad7 botnet to steal credentials\n\nDate: October 31, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/microsoft-chinese-hackers-use-quad7-botnet-to-steal-credentials/\n\n#News #China",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/microsoft-chinese-hackers-use-quad7-botnet-to-steal-credentials/"
+            ]
+        },
+        {
+            "Message ID": 91288,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-52044\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52044\n\nDescription: Studio-42 eLfinder 2.1.62 is vulnerable to Remote Code Execution (RCE) as there is no restriction for uploading files with the .php8 extension.\n\nPublication Date: Thu Oct 31 23:13:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52044"
+            ]
+        },
+        {
+            "Message ID": 91287,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-52045\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52045\n\nDescription: Studio-42 eLfinder 2.1.62 contains a filename restriction bypass leading to a persistent Cross-site Scripting (XSS) vulnerability.\n\nPublication Date: Thu Oct 31 23:13:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52045"
+            ]
+        },
+        {
+            "Message ID": 91286,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-39332\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-39332\n\nDescription: Webswing 23.2.2 allows remote attackers to modify client-side JavaScript code to achieve path traversal, likely leading to remote code execution via modification of shell scripts on the server.\n\nPublication Date: Thu Oct 31 23:13:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-39332"
             ]
         }
     ],
