@@ -6064,6 +6064,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6227,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🇺🇸Guardian Healthcare Has Been Claimed a Victim to STORMOUS Ransomware\n\nhttps://darkwebinformer.com/guardian-healthcare-has-been-claimed-a-victim-to-stormous-ransomware/\n\nA group claims to have obtained 3 GB of data from the organization. The compromised data reportedly includes apps, attachments, daily admission copies, documents, pictures, and custom office templates. Sample screenshots have been shared on their dark web portal.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/guardian-healthcare-has-been-claimed-a-victim-to-stormous-ransomware/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6226,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🇮🇳TEAM HTR Targeted Multiple Indian Government Websites\n\nhttps://darkwebinformer.com/team-htr-targeted-multiple-indian-government-websites/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/team-htr-targeted-multiple-indian-government-websites/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -54219,6 +54243,104 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-7472",
                 "https://huntr.com/bounties/dc1feec6-1efb-4538-9b56-ab25deb80948"
+            ]
+        },
+        {
+            "Message ID": 91303,
+            "discovered": "2024-10-31",
+            "post_title": "Title: CrowdStrike Receives High Scores in 2024 Gartner® Critical Capabilities for Endpoint Protection Platforms Report\n\nDate: October 31, 2024\n\nSource: https://www.crowdstrike.com/en-us/blog/crowdstrike-top-scores-2024-gartner-critical-capabilities-endpoint-protection-platforms-report/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.crowdstrike.com/en-us/blog/crowdstrike-top-scores-2024-gartner-critical-capabilities-endpoint-protection-platforms-report/"
+            ]
+        },
+        {
+            "Message ID": 91302,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2014-9824\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2014-9824\n\nDescription: Heap-based buffer overflow in ImageMagick allows remote attackers to have unspecified impact via a crafted psd file, a different vulnerability than CVE-2014-9825.\n\nPublication Date: Fri Nov 01 00:22:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2014-9824"
+            ]
+        },
+        {
+            "Message ID": 91301,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-52704\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52704\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nfreezer,umh: Fix call_usermode_helper_exec() vs SIGKILL\n\nTetsuo-San noted that commit f5d39b020809 (\"freezer,sched: Rewrite\ncore freezer logic\") broke call_usermodehelper_exec() for the KILLABLE\ncase.\n\nSpecifically it was missed that the second, unconditional,\nwait_for_completion() was not optional and ensures the on-stack\ncompletion is unused before going out-of-scope.\n\nPublication Date: Fri Nov 01 00:21:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52704"
+            ]
+        },
+        {
+            "Message ID": 91300,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-35958\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-35958\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: ena: Fix incorrect descriptor free behavior\n\nENA has two types of TX queues:\n- queues which only process TX packets arriving from the network stack\n- queues which only process TX packets forwarded to it by XDP_REDIRECT\n  or XDP_TX instructions\n\nThe ena_free_tx_bufs() cycles through all descriptors in a TX queue\nand unmaps + frees every descriptor that hasn't been acknowledged yet\nby the device (uncompleted TX transactions).\nThe function assumes that the processed TX queue is necessarily from\nthe first category listed above and ends up using napi_consume_skb()\nfor descriptors belonging to an XDP specific queue.\n\nThis patch solves a bug in which, in case of a VF reset, the\ndescriptors aren't freed correctly, leading to crashes.\n\nPublication Date: Fri Nov 01 00:21:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "napi_consume_skb"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-35958"
+            ]
+        },
+        {
+            "Message ID": 91299,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-40457\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-40457\n\nDescription: No-IP Dynamic Update Client (DUC) v3.x uses cleartext credentials that may occur on a command line or in a file. NOTE: the vendor's position is that cleartext in /etc/default/noip-duc is recommended and is the intentional behavior.\n\nPublication Date: Fri Nov 01 00:21:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-40457"
+            ]
+        },
+        {
+            "Message ID": 91298,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-48360\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48360\n\nDescription: Qualitor v8.24 was discovered to contain a Server-Side Request Forgery (SSRF) via the component /request/viewValidacao.php.\n\nPublication Date: Fri Nov 01 00:21:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48360"
+            ]
+        },
+        {
+            "Message ID": 91297,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-10594\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10594\n\nDescription: A vulnerability was found in ESAFENET CDG 5. It has been classified as critical. Affected is the function docHistory of the file /com/esafenet/servlet/fileManagement/FileDirectoryService.java. The manipulation of the argument fileId leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Fri Nov 01 00:21:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10594",
+                "FileDirectoryService.java"
+            ]
+        },
+        {
+            "Message ID": 91296,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-10595\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10595\n\nDescription: A vulnerability was found in ESAFENET CDG 5. It has been declared as critical. Affected by this vulnerability is the function delFile/delDifferCourseList of the file /com/esafenet/servlet/ajax/PublicDocInfoAjax.java. The manipulation leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Fri Nov 01 00:21:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10595",
+                "PublicDocInfoAjax.java"
             ]
         }
     ],
