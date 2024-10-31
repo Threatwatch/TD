@@ -50712,6 +50712,18 @@
             "URLs": [
                 "https://blog.phylum.io/supply-chain-security-typosquat-campaign-targeting-puppeteer-users/"
             ]
+        },
+        {
+            "Message ID": 91100,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Ghidra Tip 0x07: Iterating over all strings in a Program\n\nDate: October 31, 2024\n\nSource: https://maxkersten.nl/2024/10/31/ghidra-tip-0x07-iterating-over-all-strings-in-a-program/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://maxkersten.nl/2024/10/31/ghidra-tip-0x07-iterating-over-all-strings-in-a-program/"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
