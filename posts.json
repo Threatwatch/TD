@@ -28449,6 +28449,42 @@
                 "llamy.com),",
                 "somfeed.it/index.php?page=post_details&id_post=18281"
             ]
+        },
+        {
+            "Message ID": 3971,
+            "discovered": "2024-10-31",
+            "post_title": "ID: 18286\n⚠ Wed, 30 Oct 2024 20:41:12 UTC\n🥷 flocker\n🎯 C**********M, Non Disponibile\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18286",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18286"
+            ]
+        },
+        {
+            "Message ID": 3970,
+            "discovered": "2024-10-31",
+            "post_title": "ID: 18284\n⚠ Tue, 29 Oct 2024 22:17:30 UTC\n🥷 cloak\n🎯 CO****************.COM, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18284",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18284"
+            ]
+        },
+        {
+            "Message ID": 3969,
+            "discovered": "2024-10-31",
+            "post_title": "ID: 18283\n⚠ Tue, 29 Oct 2024 22:13:43 UTC\n🥷 cloak\n🎯 Scaff'Holding, France\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18283",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18283"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
