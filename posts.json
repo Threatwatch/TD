@@ -51370,6 +51370,18 @@
             "URLs": [
                 "https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/"
             ]
+        },
+        {
+            "Message ID": 91133,
+            "discovered": "2024-10-31",
+            "post_title": "Title: New Slips version v1.1.3 is here!\n\nDate: October 31, 2024\n\nSource: https://www.stratosphereips.org/blog/2024/10/31/new-slips-version-v113-is-here\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "New Slips"
+            ],
+            "URLs": [
+                "https://www.stratosphereips.org/blog/2024/10/31/new-slips-version-v113-is-here"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
