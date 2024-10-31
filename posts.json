@@ -50060,6 +50060,32 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2021-47615"
             ]
+        },
+        {
+            "Message ID": 91068,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-10378\n\nDescription: A vulnerability classified as critical has been found in ESAFENET CDG 5. Affected is the function actionViewCDGRenewFile of the file /com/esafenet/servlet/client/CDGRenewApplicationService.java. The manipulation of the argument CDGRenewFileId leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10378\n\nDate of Publishing: 2024/10/30\n\nLink to Exploit: https://flowus.cn/share/5d03f1d5-695a-421b-8445-2273774ea97a?code=G8A6P3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "CDGRenewApplicationService.java",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10378",
+                "https://flowus.cn/share/5d03f1d5-695a-421b-8445-2273774ea97a?code=G8A6P3"
+            ]
+        },
+        {
+            "Message ID": 91067,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Scans for RDP Gateways, (Wed, Oct 30th)\n\nDate: October 31, 2024\n\nSource: https://isc.sans.edu/diary/rss/31398\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/diary/rss/31398"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
