@@ -50973,6 +50973,93 @@
             "URLs": [
                 "https://thehackernews.com/2024/10/enterprise-identity-threat-report-2024.html"
             ]
+        },
+        {
+            "Message ID": 91119,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Cynet delivers 426% ROI in Forrester Total Economic Impact Study\n\nDate: October 31, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/cynet-delivers-426-percent-roi-in-forrester-total-economic-impact-study/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/cynet-delivers-426-percent-roi-in-forrester-total-economic-impact-study/"
+            ]
+        },
+        {
+            "Message ID": 91118,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-43383\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43383\n\nDescription: Deserialization of Untrusted Data vulnerability in Apache Lucene.Net.Replicator.\n\nThis issue affects Apache Lucene.NET's Replicator library: from 4.8.0-beta00005 through 4.8.0-beta00016.\n\nAn attacker that can intercept traffic between a replication client and server, or control the target replication node URL, can provide a specially-crafted JSON response that is deserialized as an attacker-provided exception type. This can result in remote code execution or other potential unauthorized access.\n\n\nUsers are recommended to upgrade to version 4.8.0-beta00017, which fixes the issue.\n\nPublication Date: Thu Oct 31 14:03:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Apache Lucene",
+                "beta00016"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43383",
+                "Lucene.NET"
+            ]
+        },
+        {
+            "Message ID": 91117,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-43930\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43930\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in eyecix JobSearch allows Cross Site Request Forgery.This issue affects JobSearch: from n/a through 2.5.3.\n\nPublication Date: Thu Oct 31 14:03:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43930"
+            ]
+        },
+        {
+            "Message ID": 91116,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-43933\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43933\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in WPMobile.App allows Stored XSS.This issue affects WPMobile.App: from n/a through 11.48.\n\nPublication Date: Thu Oct 31 14:03:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43933"
+            ]
+        },
+        {
+            "Message ID": 91115,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-43984\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43984\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Podlove Podlove Podcast Publisher allows Code Injection.This issue affects Podlove Podcast Publisher: from n/a through 4.1.13.\n\nPublication Date: Thu Oct 31 14:03:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Podlove"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43984"
+            ]
+        },
+        {
+            "Message ID": 91114,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-49674\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49674\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Lukas Huser EKC Tournament Manager allows Upload a Web Shell to a Web Server.This issue affects EKC Tournament Manager: from n/a through 2.2.1.\n\nPublication Date: Thu Oct 31 14:03:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49674"
+            ]
+        },
+        {
+            "Message ID": 91113,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-49685\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49685\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Smash Balloon Custom Twitter Feeds (Tweets Widget) allows Cross Site Request Forgery.This issue affects Custom Twitter Feeds (Tweets Widget): from n/a through 2.2.3.\n\nPublication Date: Thu Oct 31 14:02:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Smash Balloon Custom",
+                "Custom"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49685"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
