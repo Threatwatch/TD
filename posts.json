@@ -11362,6 +11362,19 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5289,
+            "discovered": "2024-10-31",
+            "post_title": "The Israel Cart server has been hit by a cyberattack from SylhetGang - SG —and it's taken down access to all your favourite products. The status? 502 Bad Gateway.\n\n🎯 Target Details:\nWebsite: https://www.israelcart.com\nAttack Duration: ⏱️120s \nStatus: ⚠️ 502 Bad Gateway\nReport: 💥 https://check-host.net/check-report/1fd1bed1kb8e \n\n🚫 No browsing, no checkout, just a cold 502 mocking every click. Who’s next? Is this just the beginning?\n\nGreatz: @SylhetGangSGOfficial\n#SGxF07\n#Op_Israel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "ttps://www.israelcart.com\n",
+                "tps://check-host.net/check-report/1fd1bed1kb8e \n"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
@@ -28776,6 +28789,55 @@
             "URLs": [
                 "lumin8global.com, ",
                 "somfeed.it/index.php?page=post_details&id_post=18295"
+            ]
+        },
+        {
+            "Message ID": 3982,
+            "discovered": "2024-10-31",
+            "post_title": "ID: 18299\n⚠ Thu, 31 Oct 2024 07:23:45 UTC\n🥷 ransomhub\n🎯 granjazul.com, Guatemala\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18299",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Guatemala"
+            ],
+            "URLs": [
+                "anjazul.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18299"
+            ]
+        },
+        {
+            "Message ID": 3981,
+            "discovered": "2024-10-31",
+            "post_title": "ID: 18298\n⚠ Thu, 31 Oct 2024 10:35:27 UTC\n🥷 sarcoma\n🎯 Brancaia, Italy\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18298",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Italy"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18298"
+            ]
+        },
+        {
+            "Message ID": 3980,
+            "discovered": "2024-10-31",
+            "post_title": "ID: 18297\n⚠ Thu, 31 Oct 2024 10:35:28 UTC\n🥷 sarcoma\n🎯 CAS Software, Germany\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18297",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Germany"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18297"
+            ]
+        },
+        {
+            "Message ID": 3979,
+            "discovered": "2024-10-31",
+            "post_title": "ID: 18296\n⚠ Thu, 31 Oct 2024 10:35:29 UTC\n🥷 sarcoma\n🎯 TDM Technical Services, Canada\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18296",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Canada"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18296"
             ]
         }
     ],
@@ -51213,6 +51275,78 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2021-45046"
+            ]
+        },
+        {
+            "Message ID": 91131,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Pacific Rim: Inside the Counter-Offensive—The TTPs Used to Neutralize China-Based Threats\n\nDate: October 31, 2024\n\nSource: https://news.sophos.com/en-us/2024/10/31/pacific-rim-neutralizing-china-based-threat/\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://news.sophos.com/en-us/2024/10/31/pacific-rim-neutralizing-china-based-threat/"
+            ]
+        },
+        {
+            "Message ID": 91130,
+            "discovered": "2024-10-31",
+            "post_title": "Title: From the frontlines: Our CISO’s view of Pacific Rim\n\nDate: October 31, 2024\n\nSource: https://news.sophos.com/en-us/2024/10/31/from-the-frontlines-our-cisos-view-of-pacific-rim/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://news.sophos.com/en-us/2024/10/31/from-the-frontlines-our-cisos-view-of-pacific-rim/"
+            ]
+        },
+        {
+            "Message ID": 91129,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Pacific Rim: What’s it to you?\n\nDate: October 31, 2024\n\nSource: https://news.sophos.com/en-us/2024/10/31/pacific-rim-whats-it-to-you/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://news.sophos.com/en-us/2024/10/31/pacific-rim-whats-it-to-you/"
+            ]
+        },
+        {
+            "Message ID": 91128,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Pacific Rim: Learning to eat soup with a knife\n\nDate: October 31, 2024\n\nSource: https://news.sophos.com/en-us/2024/10/31/pacific-rim-learning-to-eat-soup-with-a-knife/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://news.sophos.com/en-us/2024/10/31/pacific-rim-learning-to-eat-soup-with-a-knife/"
+            ]
+        },
+        {
+            "Message ID": 91127,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Digital Detritus: The engine of Pacific Rim and a call to the industry for action\n\nDate: October 31, 2024\n\nSource: https://news.sophos.com/en-us/2024/10/31/digital-detritus-the-engine-of-pacific-rim-and-a-call-to-the-industry-for-action/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://news.sophos.com/en-us/2024/10/31/digital-detritus-the-engine-of-pacific-rim-and-a-call-to-the-industry-for-action/"
+            ]
+        },
+        {
+            "Message ID": 91126,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-1413\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-1413\n\nDescription: The WP VR WordPress plugin before 8.2.9 does not sanitise and escape some parameters before outputting them back in the page, leading to a Reflected Cross-Site Scripting which could be used against high privilege users such as admin\n\nPublication Date: Thu Oct 31 16:16:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-1413"
             ]
         }
     ],
