@@ -50594,6 +50594,68 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-40743"
             ]
+        },
+        {
+            "Message ID": 91097,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-50613\n\nDescription: libsndfile through 1.2.2 has a reachable assertion, that may lead to application exit, in mpeg_l3_encode.c mpeg_l3_encoder_close.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-50613\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://github.com/libsndfile/libsndfile/issues/1034\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50613",
+                "https://github.com/libsndfile/libsndfile/issues/1034"
+            ]
+        },
+        {
+            "Message ID": 91096,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-10447\n\nDescription: A vulnerability classified as critical was found in Project Worlds Online Time Table Generator 1.0. Affected by this vulnerability is an unknown functionality of the file /timetable/staff/staffdashboard.php?info=updateprofile. The manipulation of the argument n leads to sql injection. The attack can be launched remotely.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10447\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://github.com/jadu101/CVE/blob/main/project_worlds_online_time_table_generator_update_profile_sqli.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10447",
+                "https://github.com/jadu101/CVE/blob/main/project_worlds_online_time_table_generator_update_profile_sqli.md"
+            ]
+        },
+        {
+            "Message ID": 91095,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-21537\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21537\n\nDescription: Versions of the package lilconfig from 3.1.0 and before 3.1.1 are vulnerable to Arbitrary Code Execution due to the insecure usage of eval in the dynamicImport function. An attacker can exploit this vulnerability by passing a malicious input through the defaultLoaders function.\n\nPublication Date: Thu Oct 31 09:02:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21537"
+            ]
+        },
+        {
+            "Message ID": 91094,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-10392\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10392\n\nDescription: The AI Power: Complete AI Pack plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'handle_image_upload' function in all versions up to, and including, 1.8.89. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.\n\nPublication Date: Thu Oct 31 09:02:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10392"
+            ]
+        },
+        {
+            "Message ID": 91093,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-9700\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9700\n\nDescription: The Forminator Forms – Contact Form, Payment Form & Custom Form Builder plugin for WordPress is vulnerable to Insecure Direct Object Reference in all versions up to, and including, 1.36.0 via the submit_quizzes() function due to missing validation on the 'entry_id' user controlled key. This makes it possible for unauthenticated attackers to modify other user's quiz submissions.\n\nPublication Date: Thu Oct 31 09:02:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9700"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
