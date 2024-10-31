@@ -5832,6 +5832,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/team-htr-targeted-the-website-of-accounting-solutions-ltd/"
             ]
+        },
+        {
+            "Message ID": 6205,
+            "discovered": "2024-10-31",
+            "post_title": "https://x.com/Tails_live/status/1851909361867575749",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/Tails_live/status/1851909361867575749"
+            ]
+        },
+        {
+            "Message ID": 6204,
+            "discovered": "2024-10-31",
+            "post_title": "💡JustDeleteMe: Simplifying Your Digital Life by Deleting Unwanted Accounts\n\nhttps://darkwebinformer.com/justdeleteme-simplifying-your-digital-life-by-deleting-unwanted-accounts/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/justdeleteme-simplifying-your-digital-life-by-deleting-unwanted-accounts/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -11704,6 +11728,19 @@
             "Attack Type": "Unknown",
             "Location": [
                 "Palestine"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5294,
+            "discovered": "2024-10-31",
+            "post_title": "A Recent news circulated by RTA that Afghanistan's Agricultural export hit 900 Million dollar in first 9 month\nIsn't true \n\nIt is conformed by Bakhtar News Agency that, It struck 734 Million in 9 month.\n\nSome people seen comparing Bangladesh with Afghanistan in this sector \nfor them our total Agricultural Export was more then 1.16 Billion in 21-22\nand 800 Million + in 22-23\n\nWe can export 2x that of Afghanistan now Exporting, \nif we succeeds in Ending Corruptions in Agricultural sector and Provide needed facilities to Farmers \nand teach them the proper techniques to get Production level higher",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Afghanistan",
+                "Bangladesh",
+                "Afghanistan",
+                "Afghanistan"
             ],
             "URLs": []
         }
@@ -53239,6 +53276,91 @@
             ],
             "URLs": [
                 "https://www.nextgov.com/cybersecurity/2024/10/every-single-american-target-election-interference-former-dhs-official-says/400710/"
+            ]
+        },
+        {
+            "Message ID": 91255,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Hackers target critical zero-day vulnerability in PTZ cameras\n\nDate: October 31, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/hackers-target-critical-zero-day-vulnerability-in-ptz-cameras/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/hackers-target-critical-zero-day-vulnerability-in-ptz-cameras/"
+            ]
+        },
+        {
+            "Message ID": 91254,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-48647\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48647\n\nDescription: A file disclosure vulnerability exists in Sage 1000 v7.0.0. This vulnerability allows remote attackers to retrieve arbitrary files from the server's file system by manipulating the URL parameter in HTTP requests. The attacker can exploit this flaw to access sensitive information, including configuration files that may contain credentials and system settings, which could lead to further compromise of the server.\n\nPublication Date: Thu Oct 31 21:28:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48647"
+            ]
+        },
+        {
+            "Message ID": 91253,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-21133\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21133\n\nDescription: Vulnerability in the Oracle Reports Developer product of Oracle Fusion Middleware (component: Servlet).  Supported versions that are affected are 12.2.1.4.0 and  12.2.1.19.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Reports Developer.  Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Oracle Reports Developer, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in  unauthorized update, insert or delete access to some of Oracle Reports Developer accessible data as well as  unauthorized read access to a subset of Oracle Reports Developer accessible data. CVSS 3.1 Base Score 6.1 (Confidentiality and Integrity impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N).\n\nPublication Date: Thu Oct 31 21:28:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21133"
+            ]
+        },
+        {
+            "Message ID": 91252,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-30560\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-30560\n\nDescription: The configuration from the PCU can be modified without authentication using physical connection to the PCU.\n\nPublication Date: Thu Oct 31 21:28:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-30560"
+            ]
+        },
+        {
+            "Message ID": 91251,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-48646\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48646\n\nDescription: An Unrestricted File Upload vulnerability exists in Sage 1000 v7.0.0, which allows authorized users to upload files without proper validation. An attacker could exploit this vulnerability by uploading malicious files, such as HTML, scripts, or other executable content, that may be executed on the server, leading to further system compromise.\n\nPublication Date: Thu Oct 31 21:28:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48646"
+            ]
+        },
+        {
+            "Message ID": 91250,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-48569\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48569\n\nDescription: Proactive Risk Manager version 9.1.1.0 is affected by multiple Cross-Site Scripting (XSS) vulnerabilities in the add/edit form fields, at the urls starting with the subpaths: /ar/config/configuation/ and /ar/config/risk-strategy-control/\n\nPublication Date: Thu Oct 31 21:27:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48569",
+                "9.1.1.0"
+            ]
+        },
+        {
+            "Message ID": 91249,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Microsoft wants $30 if you want to delay Windows 11 switch\n\nDate: October 31, 2024\n\nSource: https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-30-if-you-want-to-delay-windows-11-switch/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-30-if-you-want-to-delay-windows-11-switch/"
             ]
         }
     ],
