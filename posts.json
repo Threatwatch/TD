@@ -6034,6 +6034,36 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6225,
+            "discovered": "2024-10-31",
+            "post_title": "this has to be whats happening in Peru.. how tf yall gonna manage putting together 7 different threads, one that is related to the other but different years..",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Peru"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6224,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🇵🇪A Threat Actor Has Allegedly Leaked 118K Lines of Data of Peruvian College of Nurses",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6223,
+            "discovered": "2024-10-31",
+            "post_title": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -54151,6 +54181,44 @@
             ],
             "URLs": [
                 "https://www.nextgov.com/cybersecurity/2024/10/fed-intel-and-military-groups-warn-data-broker-practices-may-threaten-national-security/400719/"
+            ]
+        },
+        {
+            "Message ID": 91295,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Q3 2024 Evolution of Software Supply Chain Security Report\n\nDate: October 31, 2024\n\nSource: https://blog.phylum.io/q3-2024-evolution-of-software-supply-chain-security-report/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.phylum.io/q3-2024-evolution-of-software-supply-chain-security-report/"
+            ]
+        },
+        {
+            "Message ID": 91294,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-7042\n\nDescription: A vulnerability in the GraphCypherQAChain class of langchain-ai/langchainjs versions 0.2.5 and all versions with this class allows for prompt injection, leading to SQL injection. This vulnerability permits unauthorized data manipulation, data exfiltration, denial of service (DoS) by deleting all data, breaches in multi-tenant security environments, and data integrity issues. Attackers can create, update, or delete nodes and relationships without proper authorization, extract sensitive data, disrupt services, access data across different tenants, and compromise the integrity of the database.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-7042\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://huntr.com/bounties/b612defb-1104-4fff-9fef-001ab07c7b2d\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7042",
+                "https://huntr.com/bounties/b612defb-1104-4fff-9fef-001ab07c7b2d"
+            ]
+        },
+        {
+            "Message ID": 91293,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-7472\n\nDescription: lunary-ai/lunary v1.2.26 contains an email injection vulnerability in the Send email verification API (/v1/users/send-verification) and Sign up API (/auth/signup). An unauthenticated attacker can inject data into outgoing emails by bypassing the extractFirstName function using a different whitespace character (e.g., \\xa0). This vulnerability can be exploited to conduct phishing attacks, damage the application's brand, cause legal and compliance issues, and result in financial impact due to unauthorized email usage.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-7472\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://huntr.com/bounties/dc1feec6-1efb-4538-9b56-ab25deb80948\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7472",
+                "https://huntr.com/bounties/dc1feec6-1efb-4538-9b56-ab25deb80948"
             ]
         }
     ],
