@@ -28590,6 +28590,19 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18288"
             ]
+        },
+        {
+            "Message ID": 3978,
+            "discovered": "2024-10-31",
+            "post_title": "ID: 18295\n⚠ Thu, 31 Oct 2024 03:58:21 UTC\n🥷 ransomhub\n🎯 illumin8global.com, UK\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18295",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "lumin8global.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18295"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -50723,6 +50736,54 @@
             ],
             "URLs": [
                 "https://maxkersten.nl/2024/10/31/ghidra-tip-0x07-iterating-over-all-strings-in-a-program/"
+            ]
+        },
+        {
+            "Message ID": 91104,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-9165\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9165\n\nDescription: The Gift Cards (Gift Vouchers and Packages) (WooCommerce Supported) plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in all versions up to, and including, 4.4.4 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Author-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.\n\nPublication Date: Thu Oct 31 11:05:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9165"
+            ]
+        },
+        {
+            "Message ID": 91103,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-9430\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9430\n\nDescription: The Get Quote For Woocommerce – Request A Quote For Woocommerce plugin for WordPress is vulnerable to unauthorized access of Quote data due to a missing capability check on the ct_tepfw_wp_loaded function in all versions up to, and including, 1.0.0. This makes it possible for unauthenticated attackers to download Quote PDF and CSV documents.\n\nPublication Date: Thu Oct 31 11:05:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9430"
+            ]
+        },
+        {
+            "Message ID": 91102,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-9434\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9434\n\nDescription: The WPGlobus Translate Options plugin for WordPress is vulnerable to Cross-Site Request Forgery in all versions up to, and including, 2.2.0. This is due to missing or incorrect nonce validation on the on__translate_options_page() function. This makes it possible for unauthenticated attackers to inject malicious web scripts and update plugin settings via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.\n\nPublication Date: Thu Oct 31 11:04:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9434"
+            ]
+        },
+        {
+            "Message ID": 91101,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-9446\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9446\n\nDescription: The WP Simple Anchors Links plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's wpanchor shortcode in all versions up to, and including, 1.0.0 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Thu Oct 31 11:04:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9446"
             ]
         }
     ],
