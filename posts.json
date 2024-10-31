@@ -5695,6 +5695,41 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-topitop/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6194,
+            "discovered": "2024-10-31",
+            "post_title": "Yall love hitting Peru right now don't you?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Peru"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6193,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🚨🚨🇵🇪A Threat Actor has Allegedly Leaked Data of RENIEC\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-reniec/\n\nA threat actor claims to have leaked a database from RENIEC (Registro Nacional de Identificación y Estado Civil). The leaked data reportedly includes information on 32 million citizens, comprising names, dates of birth, addresses, parental details, job information, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "RENIEC"
+            ],
+            "URLs": [
+                "://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-reniec/\n\nA t"
+            ]
+        },
+        {
+            "Message ID": 6192,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🇺🇸A Threat Actor is Allegedly Selling a Git Database From an Unidentified Atlanta, USA Internet Service Provider\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-a-git-database-from-an-unidentified-atlanta-usa-internet-service-provider/\n\nA threat actor claims to be selling a Git database from an unidentified Internet service provider based in Atlanta. The database allegedly contains API details, mobile and app code, and website code.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Atlanta",
+                "Atlanta"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-a-git-database-from-an-unidentified-atlanta-usa-internet-service-provider/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -11536,6 +11571,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5291,
+            "discovered": "2024-10-31",
+            "post_title": "Iranian Response is coming",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -15425,6 +15470,29 @@
             "URLs": [
                 "https://gurukulfortuners.co.in/wp-login.php"
             ]
+        },
+        {
+            "Message ID": 1955,
+            "discovered": "2024-10-31",
+            "post_title": "India's Topspot Website Has Been Hacked By Esteem Restoration Eagle\n\nCountry : Indian 🇮🇳 \n\nSite : https://topspot.in/\n\nMirror : https://zone-xsec.com/mirror/id/693596\n\n#EsteemRestorationEagle\n#FuckIndia\n#OpIndia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "tps://topspot.in/\n\n",
+                "tps://zone-xsec.com/mirror/id/693596\n\n"
+            ]
+        },
+        {
+            "Message ID": 1954,
+            "discovered": "2024-10-31",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SERVER KILLERS": [
@@ -23175,7 +23243,18 @@
             "URLs": []
         }
     ],
-    "CyberS102": [],
+    "CyberS102": [
+        {
+            "Message ID": 110,
+            "discovered": "2024-10-31",
+            "post_title": "We will be back soon.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        }
+    ],
     "Ransomware News (VX)": [
         {
             "Message ID": 3278,
@@ -52345,6 +52424,201 @@
             "URLs": [
                 "https://concejocuruzucuatia.gob.ar/proof.txt",
                 "http://www.zone-h.org/mirror/id/41294128"
+            ]
+        },
+        {
+            "Message ID": 91211,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-35818\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35818\n\nDescription: An issue was discovered on Espressif ESP32 3.0 (ESP32_rev300 ROM) devices. An EMFI attack on ECO3 provides the attacker with a capability to influence the PC value at the CPU context level, regardless of Secure Boot and Flash Encryption status. By using this capability, the attacker can exploit another behavior in the chip to gain unauthorized access to the ROM download mode. Access to ROM download mode may be further exploited to read the encrypted flash content in cleartext format or execute stub code.\n\nPublication Date: Thu Oct 31 19:14:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35818"
+            ]
+        },
+        {
+            "Message ID": 91210,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-51255\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51255\n\nDescription: DrayTek Vigor3900 1.5.1.3 allows attackers to inject malicious commands into mainfunction.cgi and execute arbitrary commands by calling the ruequest_certificate function.\n\nPublication Date: Thu Oct 31 19:14:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51255",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 91209,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-34669\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34669\n\nDescription: TOTOLINK CP300+ V5.2cu.7594 contains a Denial of Service vulnerability in function RebootSystem of the file lib/cste_modules/system which can reboot the system.\n\nPublication Date: Thu Oct 31 19:14:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34669"
+            ]
+        },
+        {
+            "Message ID": 91208,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-49635\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49635\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Manzurul Haque Banner Slider allows Reflected XSS.This issue affects Banner Slider: from n/a through 2.1.\n\nPublication Date: Thu Oct 31 19:13:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49635"
+            ]
+        },
+        {
+            "Message ID": 91207,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2021-47333\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47333\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nmisc: alcor_pci: fix null-ptr-deref when there is no PCI bridge\n\nThere is an issue with the ASPM(optional) capability checking function.\nA device might be attached to root complex directly, in this case,\nbus->self(bridge) will be NULL, thus priv->parent_pdev is NULL.\nSince alcor_pci_init_check_aspm(priv->parent_pdev) checks the PCI link's\nASPM capability and populate parent_cap_off, which will be used later by\nalcor_pci_aspm_ctrl() to dynamically turn on/off device, what we can do\nhere is to avoid checking the capability if we are on the root complex.\nThis will make pdev_cap_off 0 and alcor_pci_aspm_ctrl() will simply\nreturn when bring called, effectively disable ASPM for the device.\n\n[    1.246492] BUG: kernel NULL pointer dereference, address: 00000000000000c0\n[    1.248731] RIP: 0010:pci_read_config_byte+0x5/0x40\n[    1.253998] Call Trace:\n[    1.254131]  ? alcor_pci_find_cap_offset.isra.0+0x3a/0x100 [alcor_pci]\n[    1.254476]  alcor_pci_probe+0x169/0x2d5 [alcor_pci]\n\nPublication Date: Thu Oct 31 19:13:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47333"
+            ]
+        },
+        {
+            "Message ID": 91206,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-48218\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48218\n\nDescription: Funadmin v5.0.2 has a SQL injection vulnerability in /curd/table/list.\n\nPublication Date: Thu Oct 31 19:13:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48218"
+            ]
+        },
+        {
+            "Message ID": 91205,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-48222\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48222\n\nDescription: Funadmin v5.0.2 has a SQL injection vulnerability in /curd/table/edit.\n\nPublication Date: Thu Oct 31 19:13:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48222"
+            ]
+        },
+        {
+            "Message ID": 91204,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-48223\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48223\n\nDescription: Funadmin v5.0.2 has a SQL injection vulnerability in /curd/table/fieldlist.\n\nPublication Date: Thu Oct 31 19:13:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48223"
+            ]
+        },
+        {
+            "Message ID": 91203,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-31973\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-31973\n\nDescription: Hitron CODA-4582 2AHKM-CODA4589 7.2.4.5.1b8 devices allow a remote attacker within Wi-Fi proximity to conduct stored XSS attacks via the 'Network Name (SSID)' input fields to the /index.html#wireless_basic page.\n\nPublication Date: Thu Oct 31 19:13:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-31973"
+            ]
+        },
+        {
+            "Message ID": 91202,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2021-47432\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47432\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nlib/generic-radix-tree.c: Don't overflow in peek()\n\nWhen we started spreading new inode numbers throughout most of the 64\nbit inode space, that triggered some corner case bugs, in particular\nsome integer overflows related to the radix tree code. Oops.\n\nPublication Date: Thu Oct 31 19:12:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47432"
+            ]
+        },
+        {
+            "Message ID": 91201,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-51260\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51260\n\nDescription: DrayTek Vigor3900 1.5.1.3 allows attackers to inject malicious commands into mainfunction.cgi and execute arbitrary commands by calling the acme_process function.\n\nPublication Date: Thu Oct 31 19:12:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51260",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 91200,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-33857\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33857\n\nDescription: IBM InfoSphere Information Server 11.7 could allow a remote attacker to obtain system information using a specially crafted query that could aid in further attacks against the system.  IBM X-Force ID:  257695.\n\nPublication Date: Thu Oct 31 19:12:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33857"
+            ]
+        },
+        {
+            "Message ID": 91199,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-48272\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48272\n\nDescription: D-Link DSL6740C v6.TR069.20211230 was discovered to use an insecure default Wifi password, possibly allowing attackers to connect to the device via a bruteforce attack.\n\nPublication Date: Thu Oct 31 19:12:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48272"
+            ]
+        },
+        {
+            "Message ID": 91198,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-48271\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48271\n\nDescription: D-Link DSL6740C v6.TR069.20211230 was discovered to use insecure default credentials for Administrator access, possibly allowing attackers to bypass authentication and escalate privileges on the device via a bruteforce attack.\n\nPublication Date: Thu Oct 31 19:12:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48271"
+            ]
+        },
+        {
+            "Message ID": 91197,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-35692\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35692\n\nDescription: In getLocationCache of GeoLocation.java, there is a possible way to send a mock location during an emergency call due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Thu Oct 31 19:11:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35692",
+                "GeoLocation.java"
+            ]
+        },
+        {
+            "Message ID": 91196,
+            "discovered": "2024-10-31",
+            "post_title": "Title: V16 Cloud Rebalancing, Analytics,\n\nDate: October 31, 2024\n\nSource: https://medium.com/mitre-attack/attack-v16-561c76af94cf?source=rss----6da19bd08fba---4\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://medium.com/mitre-attack/attack-v16-561c76af94cf?source=rss----6da19bd08fba---4"
             ]
         }
     ],
