@@ -5888,6 +5888,36 @@
             "URLs": [
                 "://darkwebinformer.com/gatito_fbi_nz-has-allegedly-leaked-15-million-records-of-claro-peru-2023/"
             ]
+        },
+        {
+            "Message ID": 6211,
+            "discovered": "2024-10-31",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6210,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🚨🚨🇵🇪Gatito_FBI_NZ Has Allegedly Leaked Data of SIDPOL system of the National Police of Peru (PNP)",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6209,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🚨🇵🇪Gatito_FBI_NZ has Allegedly Leaked Data Belonging to BANCO CREDITO DE PERU (BCP)",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "🇪Gatito_FBI_NZ"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -11773,6 +11803,18 @@
                 "Bangladesh",
                 "Afghanistan",
                 "Afghanistan"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5295,
+            "discovered": "2024-10-31",
+            "post_title": "it is better for the American fat man's to avoid intervening into internal affairs of Bangladesh.\nYou have no professionalism as you claimed that Bangladesh remains in chaos because Hindus are being attacked\nMaybe you have taken a dose of Indian media just like you take from Zionist Media.\n \nbut Be aware that even if you become president or anything shit, you are not allowed to enter Bangladesh again \n\nYou are banned by the People from now🚫",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Bangladesh",
+                "Bangladesh",
+                "Bangladesh"
             ],
             "URLs": []
         }
@@ -53495,6 +53537,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-7883"
+            ]
+        },
+        {
+            "Message ID": 91257,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Announcing the GreyMatter Notification Center\n\nDate: October 31, 2024\n\nSource: https://www.reliaquest.com/blog/announcing-the-greymatter-notification-center/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.reliaquest.com/blog/announcing-the-greymatter-notification-center/"
             ]
         }
     ],
