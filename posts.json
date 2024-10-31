@@ -5774,6 +5774,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/dbsector-has-allegedly-leaked-the-data-of-embase-pro-suit/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6200,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🇫🇷Bousilleur is Allegedly Selling the Data of Cybertek\n\nhttps://darkwebinformer.com/bousilleur-is-allegedly-selling-the-data-of-cybertek/\n\nA threat actor claims to be selling data from Cybertek, reportedly comprising information on 973,000 users, including 669,000 unique email addresses. The data is said to include names, email addresses, phone numbers, and addresses.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Cybertek"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/bousilleur-is-allegedly-selling-the-data-of-cybertek/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6199,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🇫🇷Bousilleur Allegedly is Selling Data of Côte Sushi and Maison Poke\n\nhttps://darkwebinformer.com/bousilleur-allegedly-has-leaked-data-of-cote-sushi-and-maison-poke/\n\nA threat actor is offering to sell data from Côte Sushi, and Maison Poke reportedly comprising information on 1 million users. The leaked data is said to include names, email addresses, and phone numbers.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/bousilleur-allegedly-has-leaked-data-of-cote-sushi-and-maison-poke/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -11636,6 +11660,16 @@
                 "Israel",
                 "India",
                 "Israel"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5293,
+            "discovered": "2024-10-31",
+            "post_title": "On the other hand we only recognizes Palestine \n\nSo clashes and Bad relations are inevitable \nand we must be prepared for it",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Palestine"
             ],
             "URLs": []
         }
@@ -29215,6 +29249,16 @@
                 "cla.org, ",
                 "somfeed.it/index.php?page=post_details&id_post=18301"
             ]
+        },
+        {
+            "Message ID": 3986,
+            "discovered": "2024-10-31",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -53065,6 +53109,90 @@
             ],
             "URLs": [
                 "granjazul.com"
+            ]
+        },
+        {
+            "Message ID": 91247,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Threat Intelligence Snapshot: Week 44, 2024\n\nDate: October 31, 2024\n\nSource: https://quointelligence.eu/2024/10/threat-intelligence-snapshot-week-44-2024/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://quointelligence.eu/2024/10/threat-intelligence-snapshot-week-44-2024/"
+            ]
+        },
+        {
+            "Message ID": 91246,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Android malware FakeCall intercepts your calls to the bank\n\nDate: October 31, 2024\n\nSource: https://www.malwarebytes.com/blog/news/2024/10/android-malware-fakecall-intercepts-your-calls-to-the-bank\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/news/2024/10/android-malware-fakecall-intercepts-your-calls-to-the-bank"
+            ]
+        },
+        {
+            "Message ID": 91245,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-21061\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21061\n\nDescription: Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Audit Plug-in).  Supported versions that are affected are 8.0.35 and prior and  8.2.0 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).\n\nPublication Date: Thu Oct 31 20:27:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21061"
+            ]
+        },
+        {
+            "Message ID": 91244,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-49640\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49640\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in AmaderCode Lab ACL Floating Cart for WooCommerce allows Reflected XSS.This issue affects ACL Floating Cart for WooCommerce: from n/a through 0.9.\n\nPublication Date: Thu Oct 31 20:26:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49640"
+            ]
+        },
+        {
+            "Message ID": 91243,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-38337\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-38337\n\nDescription: rswag before 2.10.1 allows remote attackers to read arbitrary JSON and YAML files via directory traversal, because rswag-api can expose a file that is not the OpenAPI (or Swagger) specification file of a project.\n\nPublication Date: Thu Oct 31 20:26:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-38337"
+            ]
+        },
+        {
+            "Message ID": 91242,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: freedomhomecare.net\n\nDetection Date: Thu Oct 31 20:25:53 2024\n\nThreat Actor: 3am\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "freedomhomecare.net"
+            ]
+        },
+        {
+            "Message ID": 91241,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: www.mabeglobal.com\n\nDetection Date: Thu Oct 31 20:25:36 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.mabeglobal.com"
             ]
         }
     ],
