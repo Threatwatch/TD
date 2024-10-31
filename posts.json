@@ -25421,6 +25421,18 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3399,
+            "discovered": "2024-10-31",
+            "post_title": "Group: cactus\nApprox. Time: 10:40 31/10/24\nTitle: https://t.co/H8DlC8bZQn\\$1.9B\\USA\\861GB\\&lt;1% DISCLOSED",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/H8DlC8bZQn\\$1.9B\\USA\\861GB\\&lt;1%"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -50936,6 +50948,30 @@
             ],
             "URLs": [
                 "https://checkmarx.com/blog/getting-to-devsecops-how-to-change-culture/"
+            ]
+        },
+        {
+            "Message ID": 91112,
+            "discovered": "2024-10-31",
+            "post_title": "Title: LiteSpeed Cache Plugin Vulnerability Poses Significant Risk to WordPress Websites\n\nDate: Oct 31, 2024\n\nSource: https://thehackernews.com/2024/10/litespeed-cache-plugin-vulnerability.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/litespeed-cache-plugin-vulnerability.html"
+            ]
+        },
+        {
+            "Message ID": 91111,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Enterprise Identity Threat Report 2024: Unveiling Hidden Threats to Corporate Identities\n\nDate: Oct 31, 2024\n\nSource: https://thehackernews.com/2024/10/enterprise-identity-threat-report-2024.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/enterprise-identity-threat-report-2024.html"
             ]
         }
     ],
