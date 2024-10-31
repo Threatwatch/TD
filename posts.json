@@ -5948,6 +5948,50 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6218,
+            "discovered": "2024-10-31",
+            "post_title": "Selfish self-promo.. because at this point why not.\n\nIf you like my content, think about subscribing for even more stuff: https://darkwebinformer.com/#/portal/signup\n\nIf you want to subscribe, but want to do so via Crypto: https://darkwebinformer.com/crypto-payments\n\nIf you wanna donate: https://darkwebinformer.com/donations\n\n🫶❤️",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkwebinformer.com/#/portal/signup",
+                "https://darkwebinformer.com/crypto-payments",
+                "https://darkwebinformer.com/donations"
+            ]
+        },
+        {
+            "Message ID": 6217,
+            "discovered": "2024-10-31",
+            "post_title": "We need a way to surpass this one day.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6216,
+            "discovered": "2024-10-31",
+            "post_title": "Meanwhile.. on Dread",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6215,
+            "discovered": "2024-10-31",
+            "post_title": "Either Peru has really bad security or they have really bad security.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Peru"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -53842,6 +53886,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-50802"
+            ]
+        },
+        {
+            "Message ID": 91277,
+            "discovered": "2024-10-31",
+            "post_title": "Title: EmeraldWhale steals 15,000 credentials from exposed Git configurations\n\nDate: October 31, 2024\n\nSource: https://www.scworld.com/news/emeraldwhale-steals-15000-credentials-from-exposed-git-configurations\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/emeraldwhale-steals-15000-credentials-from-exposed-git-configurations"
             ]
         }
     ],
