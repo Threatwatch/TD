@@ -6100,6 +6100,16 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-100-ccs-from-the-usa/"
             ]
+        },
+        {
+            "Message ID": 6229,
+            "discovered": "2024-10-31",
+            "post_title": "💡I guess depending on what happens next in the cybercrime world, I can show you some in depth screenshots of the World's Largest Darknet Market Archetyp.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -54453,6 +54463,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10599"
+            ]
+        },
+        {
+            "Message ID": 91310,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Sophos reveals 5-year battle with Chinese hackers attacking network devices\n\nDate: October 31, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/"
             ]
         }
     ],
