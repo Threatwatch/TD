@@ -5546,6 +5546,16 @@
                 ".com\n📜 Cate",
                 "achforums.st/Thread-5000-Samsung-Korea-Initial-Access\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 6179,
+            "discovered": "2024-10-31",
+            "post_title": "Will be switching out Samsung for another company., I will think of some replacement companies and make a poll for you to decide. No im not involved. It's smarter to do this with another organization",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -50890,6 +50900,18 @@
             ],
             "URLs": [
                 "https://www.pandasecurity.com/en/mediacenter/federal-agency-confirms-health-data-breach-affects-third-americans/"
+            ]
+        },
+        {
+            "Message ID": 91108,
+            "discovered": "2024-10-31",
+            "post_title": "Victim: hacla.org\n\nDetection Date: Thu Oct 31 12:44:40 2024\n\nThreat Actor: cactus\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "hacla.org"
             ]
         }
     ],
