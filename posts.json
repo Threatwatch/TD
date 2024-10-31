@@ -5435,6 +5435,32 @@
                 "arkWebInformer.com ",
                 "um.exploit.in/topic/249480/\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 6170,
+            "discovered": "2024-10-31",
+            "post_title": "Looks like the holidays started early.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6169,
+            "discovered": "2024-10-31",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-10-31 02:53:22\n🚨 Title: GhostXTools targets the website of hmvelms.org\n🛡️ Victim Country: India\n🏭 Victim Industry: Education\n🏢 Victim Organization: hans raj mahila maha vidyalaya\n🌐 Victim Site: hmvelms.org\n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: GhostXTools\n🌍 Network: telegram\n🔗 Claim: https://t.me/BLN006/151\n📝 Description: Proof of downtime: https://check-host.net/check-report/1fcde043k5dd",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "elms.org\n🛡️",
+                ".org\n📜 Cate",
+                "e/BLN006/151\n📝 Descript",
+                "k-host.net/check-report/1fcde043k5dd"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -50085,6 +50111,127 @@
             ],
             "URLs": [
                 "https://isc.sans.edu/diary/rss/31398"
+            ]
+        },
+        {
+            "Message ID": 91078,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-20526\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20526\n\nDescription: A vulnerability in the SSH server of Cisco Adaptive Security Appliance (ASA) Software could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition for the SSH server of an affected device.\n This vulnerability is due to a logic error when an SSH session is established. An attacker could exploit this vulnerability by sending crafted SSH messages to an affected device. A successful exploit could allow the attacker to exhaust available SSH resources on the affected device so that new SSH connections to the device are denied, resulting in a DoS condition. Existing SSH connections to the device would continue to function normally. The device must be rebooted manually to recover. However, user traffic would not be impacted and could be managed using a remote application such as Cisco Adaptive Security Device Manager (ASDM).\n\nPublication Date: Thu Oct 31 05:02:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20526"
+            ]
+        },
+        {
+            "Message ID": 91077,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-10557\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10557\n\nDescription: A vulnerability has been found in code-projects Blood Bank Management System 1.0 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file /file/updateprofile.php. The manipulation leads to cross-site request forgery. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Oct 31 05:02:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10557"
+            ]
+        },
+        {
+            "Message ID": 91076,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-50465\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50465\n\nDescription: Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WP SEO – Calin Vingan Premium SEO Pack allows SQL Injection.This issue affects Premium SEO Pack: from n/a through 1.6.001.\n\nPublication Date: Thu Oct 31 05:01:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50465"
+            ]
+        },
+        {
+            "Message ID": 91075,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-48311\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48311\n\nDescription: Piwigo v14.5.0 was discovered to contain a Cross-Site Request Forgery (CSRF) via the Edit album function.\n\nPublication Date: Thu Oct 31 05:01:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48311"
+            ]
+        },
+        {
+            "Message ID": 91074,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2019-13640\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2019-13640\n\nDescription: In qBittorrent before 4.1.7, the function Application::runExternalProgram() located in app/application.cpp allows command injection via shell metacharacters in the torrent name parameter or current tracker parameter, as demonstrated by remote command execution via a crafted name within an RSS feed.\n\nPublication Date: Thu Oct 31 05:01:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2019-13640"
+            ]
+        },
+        {
+            "Message ID": 91073,
+            "discovered": "2024-10-31",
+            "post_title": "Title: October 2024 Activity with Username chenzilong, (Thu, Oct 31st)\n\nDate: October 31, 2024\n\nSource: https://isc.sans.edu/diary/rss/31400\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/diary/rss/31400"
+            ]
+        },
+        {
+            "Message ID": 91072,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-48427\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48427\n\nDescription: A SQL injection vulnerability in Sourcecodester Packers and Movers Management System v1.0 allows remote authenticated users to execute arbitrary SQL commands via the id parameter in /mpms/admin/?page=services/manage_service&id\n\nPublication Date: Thu Oct 31 04:06:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48427"
+            ]
+        },
+        {
+            "Message ID": 91071,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-48307\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48307\n\nDescription: JeecgBoot v3.7.1 was discovered to contain a SQL injection vulnerability via the component /onlDragDatasetHead/getTotalData.\n\nPublication Date: Thu Oct 31 04:06:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48307"
+            ]
+        },
+        {
+            "Message ID": 91070,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-10556\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10556\n\nDescription: A vulnerability, which was classified as critical, was found in Codezips Pet Shop Management System 1.0. Affected is an unknown function of the file birdsadd.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Oct 31 04:05:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10556"
+            ]
+        },
+        {
+            "Message ID": 91069,
+            "discovered": "2024-10-31",
+            "post_title": "Target: https://drr12.drr.go.th/87.txt\n\nNotified: White System&#039;./404\n\nDate: Thu, 31 Oct 2024 00:51:42 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41294013\n\n#Defacements #Thailand",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://drr12.drr.go.th/87.txt",
+                "http://www.zone-h.org/mirror/id/41294013"
             ]
         }
     ],
