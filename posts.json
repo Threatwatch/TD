@@ -5810,6 +5810,28 @@
             "URLs": [
                 "ps://darkwebinformer.com/houston-housing-authority-has-been-claimed-a-victim-to-meow-ransomware/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6203,
+            "discovered": "2024-10-31",
+            "post_title": "closing this poll in 6 hours.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6202,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🇮🇱TEAM HTR Targeted the Website of Accounting Solutions Ltd\n\nhttps://darkwebinformer.com/team-htr-targeted-the-website-of-accounting-solutions-ltd/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/team-htr-targeted-the-website-of-accounting-solutions-ltd/"
+            ]
         }
     ],
     "RipperSec | 团队": [
