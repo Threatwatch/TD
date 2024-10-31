@@ -5615,6 +5615,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/mommy-is-allegedly-selling-unauthorized-access-to-samsung-electronics/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6185,
+            "discovered": "2024-10-31",
+            "post_title": "It's 1993 & You Startup Windows 3.11! 😮\n\nCredit: PCUSER486 // https://www.youtube.com/@PCUSER486/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.youtube.com/@PCUSER486/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -25609,6 +25621,30 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3408,
+            "discovered": "2024-10-31",
+            "post_title": "Group: FOG\nApprox. Time: 14:37 31/10/24\nTitle: Askling Car (https://t.co/Hr8sh6W7wO)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/Hr8sh6W7wO"
+            ]
+        },
+        {
+            "Message ID": 3407,
+            "discovered": "2024-10-31",
+            "post_title": "Group: ransomhub\nApprox. Time: 14:37 31/10/24\nTitle: https://t.co/53Jc1xBDLL",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/53Jc1xBDLL"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -51715,6 +51751,191 @@
             "URLs": [
                 "https://asistencia.gobernacionnapo.gob.ec/kurd.html",
                 "http://www.zone-h.org/mirror/id/41293984"
+            ]
+        },
+        {
+            "Message ID": 91168,
+            "discovered": "2024-10-31",
+            "post_title": "Title: With 2FA Enabled: NPM Package lottie-player Taken Over by Attackers\n\nDate: October 31, 2024\n\nSource: https://checkmarx.com/blog/with-2fa-enabled-npm-package-lottie-player-taken-over-by-attackers/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://checkmarx.com/blog/with-2fa-enabled-npm-package-lottie-player-taken-over-by-attackers/"
+            ]
+        },
+        {
+            "Message ID": 91167,
+            "discovered": "2024-10-31",
+            "post_title": "Title: SmokeBuster: Keeping Systems SmokeLoader Free\n\nDate: October 31, 2024\n\nSource: https://www.zscaler.com/blogs/security-research/smokebuster-keeping-systems-smokeloader-free\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.zscaler.com/blogs/security-research/smokebuster-keeping-systems-smokeloader-free"
+            ]
+        },
+        {
+            "Message ID": 91166,
+            "discovered": "2024-10-31",
+            "post_title": "Title: LottieFiles Issues Warning About Compromised \"lottie-player\" npm Package\n\nDate: Oct 31, 2024\n\nSource: https://thehackernews.com/2024/10/lottiefiles-issues-warning-about.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/lottiefiles-issues-warning-about.html"
+            ]
+        },
+        {
+            "Message ID": 91165,
+            "discovered": "2024-10-31",
+            "post_title": "Target: https://bcbontang.beacukai.go.id/evil.html\n\nNotified: 0xEv1lS0UL\n\nDate: Sat, 03 Dec 2022 17:39:22 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/40418376\n\n#Defacements #Indonesia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "https://bcbontang.beacukai.go.id/evil.html",
+                "http://www.zone-h.org/mirror/id/40418376"
+            ]
+        },
+        {
+            "Message ID": 91164,
+            "discovered": "2024-10-31",
+            "post_title": "Target: https://meteo.gov.lk/proof.txt\n\nNotified: Tr0n\n\nDate: Thu, 31 Oct 2024 14:14:49 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41294121\n\n#Defacements #SriLanka",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://meteo.gov.lk/proof.txt",
+                "http://www.zone-h.org/mirror/id/41294121"
+            ]
+        },
+        {
+            "Message ID": 91163,
+            "discovered": "2024-10-31",
+            "post_title": "Target: http://bpkad.sultengprov.go.id/proof.txt\n\nNotified: Tr0n\n\nDate: Thu, 31 Oct 2024 14:23:52 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41294122\n\n#Defacements #Indonesia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "http://bpkad.sultengprov.go.id/proof.txt",
+                "http://www.zone-h.org/mirror/id/41294122"
+            ]
+        },
+        {
+            "Message ID": 91162,
+            "discovered": "2024-10-31",
+            "post_title": "Target: https://ms-blangpidie.go.id/proof.txt\n\nNotified: Tr0n\n\nDate: Thu, 31 Oct 2024 14:23:52 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41294123\n\n#Defacements #Indonesia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "https://ms-blangpidie.go.id/proof.txt",
+                "http://www.zone-h.org/mirror/id/41294123"
+            ]
+        },
+        {
+            "Message ID": 91161,
+            "discovered": "2024-10-31",
+            "post_title": "Target: https://pn-polewali.go.id/proof.txt\n\nNotified: Tr0n\n\nDate: Thu, 31 Oct 2024 14:23:52 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41294124\n\n#Defacements #Indonesia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "https://pn-polewali.go.id/proof.txt",
+                "http://www.zone-h.org/mirror/id/41294124"
+            ]
+        },
+        {
+            "Message ID": 91160,
+            "discovered": "2024-10-31",
+            "post_title": "Title: How to think like an attacker: Preventative cybersecurity with Censys\n\nDate: October 31, 2024\n\nSource: https://www.scworld.com/resource/how-to-think-like-an-attacker-preventative-cybersecurity-with-censys\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/resource/how-to-think-like-an-attacker-preventative-cybersecurity-with-censys"
+            ]
+        },
+        {
+            "Message ID": 91159,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-28276\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-28276\n\nDescription: Sourcecodester School Task Manager 1.0 is vulnerable to Cross Site Scripting (XSS) via add-task.php?task_name=.\n\nPublication Date: Thu Oct 31 17:26:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-28276"
+            ]
+        },
+        {
+            "Message ID": 91158,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-4811\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-4811\n\nDescription: In affected versions of Octopus Server under certain conditions, a user with specific role assignments can access restricted project artifacts.\n\nPublication Date: Thu Oct 31 17:26:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-4811"
+            ]
+        },
+        {
+            "Message ID": 91157,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-50483\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50483\n\nDescription: Authorization Bypass Through User-Controlled Key vulnerability in Meetup allows Privilege Escalation.This issue affects Meetup: from n/a through 0.1.\n\nPublication Date: Thu Oct 31 17:26:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50483"
+            ]
+        },
+        {
+            "Message ID": 91156,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-10454\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10454\n\nDescription: Clickjacking vulnerability in Clibo Manager v1.1.9.12 in the '/public/login' directory, a login panel. This vulnerability occurs due to the absence of an X-Frame-Options server-side header. An attacker could overlay a transparent iframe to perform click hijacking on victims.\n\nPublication Date: Thu Oct 31 17:26:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10454"
+            ]
+        },
+        {
+            "Message ID": 91155,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-8934\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8934\n\nDescription: A local user with administrative access rights can enter specialy crafted values for settings at the user interface (UI) of the TwinCAT Package Manager which then causes arbitrary OS commands to be executed.\n\nPublication Date: Thu Oct 31 17:25:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8934"
+            ]
+        },
+        {
+            "Message ID": 91154,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-37087\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37087\n\nDescription: The vCenter Server contains a denial-of-service vulnerability. A malicious actor with network access to vCenter Server may create a denial-of-service condition.\n\nPublication Date: Thu Oct 31 17:25:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37087"
             ]
         }
     ],
