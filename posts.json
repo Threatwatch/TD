@@ -5683,6 +5683,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/mommy-is-allegedly-selling-unauthorized-access-to-sangfor-technologies/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6191,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🇵🇪A Threat Actor Allegedly Leaked Data of Topitop\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-topitop/\n\nA threat actor claims to have leaked data from Topitop, an online clothing retailer specializing in products like bags, accessories, and footwear for men and women. The leaked data reportedly includes information on 1,810,084 customers, containing names, IDs, email addresses, phone numbers, and other personal details.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-topitop/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -11514,6 +11526,16 @@
                 "ttps://www.israelcart.com\n",
                 "tps://check-host.net/check-report/1fd1bed1kb8e \n"
             ]
+        },
+        {
+            "Message ID": 5290,
+            "discovered": "2024-10-31",
+            "post_title": "We tested The Daily Star website ⚡\nsucceeded in taking it down\n\nWill visit it tomorrow again\nand will make it down fully ✔\n\nBotnet:- @powerproofsziy\n\n#SylhetGangSG\n#CyberCommunity",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -52297,6 +52319,32 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-21249"
+            ]
+        },
+        {
+            "Message ID": 91195,
+            "discovered": "2024-10-31",
+            "post_title": "Target: https://pusdikkowad.kodiklat-tniad.mil.id/proof.txt\n\nNotified: Tr0n\n\nDate: Thu, 31 Oct 2024 14:34:37 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41294126\n\n#Defacements #Indonesia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "https://pusdikkowad.kodiklat-tniad.mil.id/proof.txt",
+                "http://www.zone-h.org/mirror/id/41294126"
+            ]
+        },
+        {
+            "Message ID": 91194,
+            "discovered": "2024-10-31",
+            "post_title": "Target: https://concejocuruzucuatia.gob.ar/proof.txt\n\nNotified: Tr0n\n\nDate: Thu, 31 Oct 2024 14:48:46 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41294128\n\n#Defacements #Argentina",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Argentina"
+            ],
+            "URLs": [
+                "https://concejocuruzucuatia.gob.ar/proof.txt",
+                "http://www.zone-h.org/mirror/id/41294128"
             ]
         }
     ],
