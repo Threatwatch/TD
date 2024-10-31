@@ -53899,6 +53899,102 @@
             "URLs": [
                 "https://www.scworld.com/news/emeraldwhale-steals-15000-credentials-from-exposed-git-configurations"
             ]
+        },
+        {
+            "Message ID": 91285,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-48200\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48200\n\nDescription: An issue in MobaXterm v24.2 allows a local attacker to escalate privileges and execute arbitrary code via the remove function of the MobaXterm MSI is spawning one Administrative cmd (conhost.exe)\n\nPublication Date: Thu Oct 31 23:02:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48200"
+            ]
+        },
+        {
+            "Message ID": 91284,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-51063\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51063\n\nDescription: Phpgurukul Teachers Record Management System v2.1 is vulnerable to SQL Injection in add-teacher.php via the mobile number or email parameter.\n\nPublication Date: Thu Oct 31 23:02:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51063"
+            ]
+        },
+        {
+            "Message ID": 91283,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-39720\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-39720\n\nDescription: An issue was discovered in Ollama before 0.1.46. An attacker can use two HTTP requests to upload a malformed GGUF file containing just 4 bytes starting with the GGUF custom magic header. By leveraging a custom Modelfile that includes a FROM statement pointing to the attacker-controlled blob file, the attacker can crash the application through the CreateModel route, leading to a segmentation fault (signal SIGSEGV: segmentation violation).\n\nPublication Date: Thu Oct 31 23:01:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-39720"
+            ]
+        },
+        {
+            "Message ID": 91282,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-39721\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-39721\n\nDescription: An issue was discovered in Ollama before 0.1.34. The CreateModelHandler function uses os.Open to read a file until completion. The req.Path parameter is user-controlled and can be set to /dev/random, which is blocking, causing the goroutine to run infinitely (even after the HTTP request is aborted by the client).\n\nPublication Date: Thu Oct 31 23:01:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-39721"
+            ]
+        },
+        {
+            "Message ID": 91281,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-39722\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-39722\n\nDescription: An issue was discovered in Ollama before 0.1.46. It exposes which files exist on the server on which it is deployed via path traversal in the api/push route.\n\nPublication Date: Thu Oct 31 23:01:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-39722"
+            ]
+        },
+        {
+            "Message ID": 91280,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-39719\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-39719\n\nDescription: An issue was discovered in Ollama through 0.3.14. File existence disclosure can occur via api/create. When calling the CreateModel route with a path parameter that does not exist, it reflects the \"File does not exist\" error message to the attacker, providing a primitive for file existence on the server.\n\nPublication Date: Thu Oct 31 23:01:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Ollama"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-39719"
+            ]
+        },
+        {
+            "Message ID": 91279,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-20298\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20298\n\nDescription: A vulnerability in the web-based management interface of Cisco Firepower Management Center (FMC) Software could allow an authenticated, remote attacker to conduct a cross-site scripting (XSS) attack against a user of the interface of an affected device. This vulnerability is due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit this vulnerability by inserting crafted input into various data fields in an affected interface. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface, or access sensitive, browser-based information.\n\nPublication Date: Thu Oct 31 23:01:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20298"
+            ]
+        },
+        {
+            "Message ID": 91278,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2024-48359\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48359\n\nDescription: Qualitor v8.24 was discovered to contain a remote code execution (RCE) vulnerability via the gridValoresPopHidden parameter.\n\nPublication Date: Thu Oct 31 23:00:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48359"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
