@@ -54630,6 +54630,18 @@
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/"
             ]
+        },
+        {
+            "Message ID": 91311,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-2062\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-2062\n\nDescription: Missing Password Field Masking vulnerability in Mitsubishi Electric Corporation EtherNet/IP configuration tools SW1DNN-EIPCT-BD and SW1DNN-EIPCTFX5-BD allows a remote unauthenticated attacker to know the password for MELSEC iQ-R Series EtherNet/IP module RJ71EIP91 and MELSEC iQ-F Series EtherNet/IP module FX5-ENET/IP. This vulnerability results in authentication bypass vulnerability, which allows the attacker to access MELSEC iQ-R Series EtherNet/IP module RJ71EIP91 and MELSEC iQ-F Series EtherNet/IP module FX5-ENET/IP via FTP.\n\nPublication Date: Fri Nov 01 02:02:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-2062"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
