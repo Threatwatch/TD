@@ -25297,6 +25297,18 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3394,
+            "discovered": "2024-10-31",
+            "post_title": "Group: ransomhub\nApprox. Time: 04:36 31/10/24\nTitle: https://t.co/xTtRs0IjwG",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/xTtRs0IjwG"
+            ]
         }
     ],
     "RansomfeedNews": [
