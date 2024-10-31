@@ -5637,6 +5637,52 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6190,
+            "discovered": "2024-10-31",
+            "post_title": "i think its time to update that twitter header",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6189,
+            "discovered": "2024-10-31",
+            "post_title": "https://x.com/fs0c131y/status/1851795937577902096\n\ngood read",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/fs0c131y/status/1851795937577902096"
+            ]
+        },
+        {
+            "Message ID": 6188,
+            "discovered": "2024-10-31",
+            "post_title": "💡Changelog to version 2.3. For all changes: https://darkwebinformer.com/changelog\n\n🌟 Version 2.3 - October 31st, 2024\n\n🎉 New Features:\n\n* WhiteIntel integration is live for Breaches, Leaks, and Ransomware posts. You can see the data at the bottom of the post. If the Victim Site is empty in the post, no data will be fetched.\n\n⚙️ Improvements:\n\n* Added the word \"Search\" next to the search icon in the upper left corner of the page. This is to make sure the icon is seen easier with a word next to it.\n* Added 1 new Ransomware group\n\n🐛 Bug Fixes:\n\n* Sometimes link previews do not show immediately on X. Finally resolved.\n\n🐛 Open Bugs:\n\n* [Medium]: Status Page shows Dark Web links as down randomly several times a day, but recovers automatically. I am working on a fix for this.\n* [Minor]: When changing all images to have rounded corners it makes the images look stretched and not centered on the website/X/Telegram/LinkedIn.\n* [Minor]: Add new tags next to new urls is not showing properly against the table.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Changelog"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog\n"
+            ]
+        },
+        {
+            "Message ID": 6187,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🇨🇳mommy is Allegedly Selling Unauthorized Access to Sangfor Technologies\n\nhttps://darkwebinformer.com/mommy-is-allegedly-selling-unauthorized-access-to-sangfor-technologies/\n\nA threat actor claims to be selling unauthorized root access to the firewall server of Sangfor Technologies, a global provider of IT infrastructure, security solutions, and cloud computing services.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/mommy-is-allegedly-selling-unauthorized-access-to-sangfor-technologies/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -51946,6 +51992,116 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-37087"
+            ]
+        },
+        {
+            "Message ID": 91177,
+            "discovered": "2024-10-31",
+            "post_title": "Title: 안드로이드 스마트폰 도난 방지 활성화 방법(갤럭시 스마트폰 포함)\n\nDate: October 31, 2024\n\nSource: https://wezard4u.tistory.com/429314\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://wezard4u.tistory.com/429314"
+            ]
+        },
+        {
+            "Message ID": 91176,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Pentesting, Threat Hunting, and SOC: An Overview\n\nDate: October 31, 2024\n\nSource: https://www.blackhillsinfosec.com/pentesting-threat-hunting-and-soc-an-overview/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.blackhillsinfosec.com/pentesting-threat-hunting-and-soc-an-overview/"
+            ]
+        },
+        {
+            "Message ID": 91175,
+            "discovered": "2024-10-31",
+            "post_title": "Title: New LightSpy Spyware Version Targets iPhones with Increased Surveillance Tactics\n\nDate: Oct 31, 2024\n\nSource: https://thehackernews.com/2024/10/new-lightspy-spyware-version-targets.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/10/new-lightspy-spyware-version-targets.html"
+            ]
+        },
+        {
+            "Message ID": 91174,
+            "discovered": "2024-10-31",
+            "post_title": "Title: qBittorrent fixes flaw exposing users to MitM attacks for 14 years\n\nDate: October 31, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/qbittorrent-fixes-flaw-exposing-users-to-mitm-attacks-for-14-years/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/qbittorrent-fixes-flaw-exposing-users-to-mitm-attacks-for-14-years/"
+            ]
+        },
+        {
+            "Message ID": 91173,
+            "discovered": "2024-10-31",
+            "post_title": "Vulnerability ID: CVE-2024-10449\n\nDescription: A vulnerability, which was classified as critical, was found in Codezips Hospital Appointment System 1.0. This affects an unknown part of the file /loginAction.php. The manipulation of the argument Username leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10449\n\nDate of Publishing: 2024/10/31\n\nLink to Exploit: https://github.com/ppp-src/CVE/issues/25\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Username",
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10449",
+                "https://github.com/ppp-src/CVE/issues/25"
+            ]
+        },
+        {
+            "Message ID": 91172,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Threat actors use copyright infringement phishing lure to deploy infostealers\n\nDate: October 31, 2024\n\nSource: https://blog.talosintelligence.com/threat-actors-use-copyright-infringement-phishing-lure-to-deploy-infostealers/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.talosintelligence.com/threat-actors-use-copyright-infringement-phishing-lure-to-deploy-infostealers/"
+            ]
+        },
+        {
+            "Message ID": 91171,
+            "discovered": "2024-10-31",
+            "post_title": "Title: Google Chrome security advisory (AV24-625)\n\nDate: October 31, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-625\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-625"
+            ]
+        },
+        {
+            "Message ID": 91170,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2023-38299\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-38299\n\nDescription: Various software builds for the AT&T Calypso, Nokia C100, Nokia C200, and BLU View 3 devices leak the device IMEI to a system property that can be accessed by any local app on the device without any permissions or special privileges. Google restricted third-party apps from directly obtaining non-resettable device identifiers in Android 10 and higher, but in these instances they are leaked by a high-privilege process and can be obtained indirectly. The software build fingerprints for each confirmed vulnerable device are as follows: AT&T Calypso (ATT/U318AA/U318AA:10/QP1A.190711.020/1632369780:user/release-keys); Nokia C100 (Nokia/DrakeLite_02US/DKT:12/SP1A.210812.016/02US_1_190:user/release-keys and Nokia/DrakeLite_02US/DKT:12/SP1A.210812.016/02US_1_270:user/release-keys); Nokia C200 (Nokia/Drake_02US/DRK:12/SP1A.210812.016/02US_1_080:user/release-keys); and BLU View 3 (BLU/B140DL/B140DL:11/RP1A.200720.011/1628014629:user/release-keys, BLU/B140DL/B140DL:11/RP1A.200720.011/1632535579:user/release-keys, BLU/B140DL/B140DL:11/RP1A.200720.011/1637325978:user/release-keys, BLU/B140DL/B140DL:11/RP1A.200720.011/1650073052:user/release-keys, BLU/B140DL/B140DL:11/RP1A.200720.011/1657087912:user/release-keys, BLU/B140DL/B140DL:11/RP1A.200720.011/1666316280:user/release-keys, and BLU/B140DL/B140DL:11/RP1A.200720.011/1672371162:user/release-keys). This malicious app reads from the \"persist.sys.imei1\" system property to indirectly obtain the device IMEI.\n\nPublication Date: Thu Oct 31 18:01:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Android"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-38299"
+            ]
+        },
+        {
+            "Message ID": 91169,
+            "discovered": "2024-10-31",
+            "post_title": "CVE-ID: CVE-2021-47228\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47228\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nx86/ioremap: Map EFI-reserved memory as encrypted for SEV\n\nSome drivers require memory that is marked as EFI boot services\ndata. In order for this memory to not be re-used by the kernel\nafter ExitBootServices(), efi_mem_reserve() is used to preserve it\nby inserting a new EFI memory descriptor and marking it with the\nEFI_MEMORY_RUNTIME attribute.\n\nUnder SEV, memory marked with the EFI_MEMORY_RUNTIME attribute needs to\nbe mapped encrypted by Linux, otherwise the kernel might crash at boot\nlike below:\n\n  EFI Variables Facility v0.08 2004-May-17\n  general protection fault, probably for non-canonical address 0x3597688770a868b2: 0000 [#1] SMP NOPTI\n  CPU: 13 PID: 1 Comm: swapper/0 Not tainted 5.12.4-2-default #1 openSUSE Tumbleweed\n  Hardware name: QEMU Standard PC (Q35 + ICH9, 2009), BIOS 0.0.0 02/06/2015\n  RIP: 0010:efi_mokvar_entry_next\n  [...]\n  Call Trace:\n   efi_mokvar_sysfs_init\n   ? efi_mokvar_table_init\n   do_one_initcall\n   ? __kmalloc\n   kernel_init_freeable\n   ? rest_init\n   kernel_init\n   ret_from_fork\n\nExpand the __ioremap_check_other() function to additionally check for\nthis other type of boot data reserved at runtime and indicate that it\nshould be mapped encrypted for an SEV guest.\n\n [ bp: Massage commit message. ]\n\nPublication Date: Thu Oct 31 18:01:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47228"
             ]
         }
     ],
