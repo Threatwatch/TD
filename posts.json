@@ -5798,6 +5798,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/bousilleur-allegedly-has-leaked-data-of-cote-sushi-and-maison-poke/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6201,
+            "discovered": "2024-10-31",
+            "post_title": "🚨🇺🇸Houston Housing Authority Has Been Claimed a Victim to MEOW Ransomware\n\nhttps://darkwebinformer.com/houston-housing-authority-has-been-claimed-a-victim-to-meow-ransomware/\n\nA group claims to have obtained 38 GB of data from the organization, reportedly including employee data, Social Security cards, ID scans, client information, rental assistance records, confidentiality agreements, service contracts, financial documents, real estate purchase records, invoices, debt obligations, liability insurance certificates, tax forms, and more.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/houston-housing-authority-has-been-claimed-a-victim-to-meow-ransomware/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -53193,6 +53205,18 @@
             ],
             "URLs": [
                 "www.mabeglobal.com"
+            ]
+        },
+        {
+            "Message ID": 91248,
+            "discovered": "2024-10-31",
+            "post_title": "Title: ‘Every single American’ a target of election interference, former DHS official says\n\nDate: October 31, 2024\n\nSource: https://www.nextgov.com/cybersecurity/2024/10/every-single-american-target-election-interference-former-dhs-official-says/400710/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.nextgov.com/cybersecurity/2024/10/every-single-american-target-election-interference-former-dhs-official-says/400710/"
             ]
         }
     ],
