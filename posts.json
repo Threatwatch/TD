@@ -6448,6 +6448,22 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-president-of-the-republic-of-indonesia-and-candidate-data-2/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6261,
+            "discovered": "2024-11-01",
+            "post_title": "🚨🚨🇺🇸🇺🇸🇺🇸🇦🇺🇦🇺🇪🇸🇬🇧🇿🇦doZKey is Allegedly Selling RDWeb Access to Eight Unidentified Companies\n\nhttps://darkwebinformer.com/dozkey-is-allegedly-selling-rdweb-access-to-eight-unidentified-companies/\n\nA threat actor claims to be selling RDWeb access credentials for unidentified organizations across the USA, Australia, the UK, South Africa, and Spain, as well as offering additional access options for users within the European Union.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA",
+                "Australia",
+                "UK",
+                "South Africa",
+                "Spain"
+            ],
+            "URLs": [
+                "ormer.com/dozkey-is-allegedly-selling-rdweb-access-to-eight-unidentified-companies/\n\nA threat actor c"
+            ]
         }
     ],
     "RipperSec | 团队": [
