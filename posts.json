@@ -55655,6 +55655,16 @@
             "URLs": [
                 "https://thehackernews.com/2024/11/microsoft-delays-windows-copilot-recall.html"
             ]
+        },
+        {
+            "Message ID": 91360,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: MENZIES CNAC (Jardine Aviation Services)\n\nDetection Date: Fri Nov 01 12:38:21 2024\n\nThreat Actor: space bears\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": [
