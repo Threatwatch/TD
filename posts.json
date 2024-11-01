@@ -56678,6 +56678,79 @@
             "URLs": [
                 "https://demonforums.net/Thread-Verified-E-wallets-Accounts"
             ]
+        },
+        {
+            "Message ID": 91419,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-41738\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-41738\n\nDescription: IBM TXSeries for Multiplatforms 10.1 could allow an attacker to obtain sensitive information from the query string of an HTTP GET method to process a request which could be obtained using man in the middle techniques.\n\nPublication Date: Fri Nov 01 20:11:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-41738"
+            ]
+        },
+        {
+            "Message ID": 91418,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-39459\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-39459\n\nDescription: In rare cases Jenkins Plain Credentials Plugin 182.v468b_97b_9dcb_8 and earlier stores secret file credentials unencrypted (only Base64 encoded) on the Jenkins controller file system, where they can be viewed by users with access to the Jenkins controller file system (global credentials) or with Item/Extended Read permission (folder-scoped credentials).\n\nPublication Date: Fri Nov 01 20:11:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-39459"
+            ]
+        },
+        {
+            "Message ID": 91417,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-48410\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48410\n\nDescription: Cross Site Scripting vulnerability in Camtrace v.9.16.2.1 allows a remote attacker to execute arbitrary code via the login.php.\n\nPublication Date: Fri Nov 01 20:11:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48410"
+            ]
+        },
+        {
+            "Message ID": 91416,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-41741\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-41741\n\nDescription: IBM TXSeries for Multiplatforms 10.1 could allow an attacker to determine valid usernames due to an observable timing discrepancy which could be used in further attacks against the system.\n\nPublication Date: Fri Nov 01 20:11:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-41741"
+            ]
+        },
+        {
+            "Message ID": 91415,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-9793\n\nDescription: A vulnerability classified as critical was found in Tenda AC1206 up to 15.03.06.23. This vulnerability affects the function ate_iwpriv_set/ate_ifconfig_set of the file /goform/ate. The manipulation leads to command injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-9793\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://github.com/ixout/iotVuls/blob/main/Tenda/ac1206_004/report.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Tenda"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9793",
+                "https://github.com/ixout/iotVuls/blob/main/Tenda/ac1206_004/report.md"
+            ]
+        },
+        {
+            "Message ID": 91414,
+            "discovered": "2024-11-01",
+            "post_title": "Title: 1,000+ web shops infected by “Phish ‘n Ships” criminals who create fake product listings for in-demand products\n\nDate: November 1, 2024\n\nSource: https://www.malwarebytes.com/blog/news/2024/11/1000-web-shops-infected-by-phish-n-ships-criminals-who-create-fake-product-listings-for-in-demand-products\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/news/2024/11/1000-web-shops-infected-by-phish-n-ships-criminals-who-create-fake-product-listings-for-in-demand-products"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
