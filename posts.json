@@ -6188,6 +6188,31 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6240,
+            "discovered": "2024-11-01",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6239,
+            "discovered": "2024-11-01",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-11-01 03:11:55\n🚨 Title: Alleged data breach of Israel\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: the government databases\n🌐 Victim Site: gov.il\n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: henrymans0n\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-DOCUMENTS-Israel-has-been-breached-2024\n📝 Description: Threat actor claims to have compromised Israeli servers, including various government and educational domains such as the Ministry of Defense, Ministry of Education, and the government information website. The leaked data allegedly contains sensitive personal information, including addresses, phone numbers, social security numbers, emails, full names, and passports. The breach reportedly includes 167 XLS/XLSX files and a folder of PDF documents, with the main database exceeding 500GB.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel",
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "📜 Cate",
+                "achforums.st/Thread-DOCUMENTS-Israel-has-been-breached-2024\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -54830,6 +54855,180 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10605"
             ]
+        },
+        {
+            "Message ID": 91334,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: patria.hu\n\nDetection Date: Fri Nov 01 05:50:03 2024\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "patria.hu"
+            ]
+        },
+        {
+            "Message ID": 91333,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: PetroSouth\n\nDetection Date: Fri Nov 01 05:49:46 2024\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91332,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: aziz oil\n\nDetection Date: Fri Nov 01 05:49:30 2024\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91331,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: Freyberg Petroleum\n\nDetection Date: Fri Nov 01 05:49:13 2024\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91330,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: Groupe Althays\n\nDetection Date: Fri Nov 01 05:48:57 2024\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91329,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: Aiken Electric Cooperative\n\nDetection Date: Fri Nov 01 05:48:42 2024\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91328,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: propak\n\nDetection Date: Fri Nov 01 05:48:25 2024\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91327,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: Valu-Trac Investment Management\n\nDetection Date: Fri Nov 01 05:48:08 2024\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91326,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: Heritage Golf\n\nDetection Date: Fri Nov 01 05:47:52 2024\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91325,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: DAIKIN THAILAND\n\nDetection Date: Fri Nov 01 05:47:36 2024\n\nThreat Actor: qilin\n\n#Ransomware #Thailand",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Thailand"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91324,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10609\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10609\n\nDescription: A vulnerability, which was classified as critical, was found in itsourcecode Tailoring Management System Project 1.0. This affects an unknown part of the file typeadd.php. The manipulation of the argument sex leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Nov 01 05:04:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10609"
+            ]
+        },
+        {
+            "Message ID": 91323,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: Arctrade\n\nDetection Date: Fri Nov 01 04:41:18 2024\n\nThreat Actor: everest\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91322,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: Aspen Healthcare Data Leak\n\nDetection Date: Fri Nov 01 04:41:05 2024\n\nThreat Actor: everest\n\n#Ransomware",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91321,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: Country Inn & Suites by Radisson Data Leak\n\nDetection Date: Fri Nov 01 04:40:52 2024\n\nThreat Actor: everest\n\n#Ransomware",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91320,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: CreaGen Inc Data Leak\n\nDetection Date: Fri Nov 01 04:40:40 2024\n\nThreat Actor: everest\n\n#Ransomware",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91319,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: Broward Realty Corp Data Leak\n\nDetection Date: Fri Nov 01 04:40:27 2024\n\nThreat Actor: everest\n\n#Ransomware",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91318,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: MCNA Dental Data Leak\n\nDetection Date: Fri Nov 01 04:40:14 2024\n\nThreat Actor: everest\n\n#Ransomware",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": [
