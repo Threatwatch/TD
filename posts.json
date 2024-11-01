@@ -27249,6 +27249,26 @@
             "URLs": [
                 "https://t.co/TIke27RYGw\\$49.2M\\France\\652GB\\&lt;1%"
             ]
+        },
+        {
+            "Message ID": 3448,
+            "discovered": "2024-11-01",
+            "post_title": "Group: play\nApprox. Time: 22:38 01/11/24\nTitle: JS McCarthy Printers",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3447,
+            "discovered": "2024-11-01",
+            "post_title": "Group: play\nApprox. Time: 22:37 01/11/24\nTitle: CGR Technologies",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
