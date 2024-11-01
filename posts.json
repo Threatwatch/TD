@@ -6258,6 +6258,28 @@
             "URLs": [
                 "://darkwebinformer.com/henrymans0n-has-allegedly-breached-various-government-and-educational-domains-in-israel/\n\nA t"
             ]
+        },
+        {
+            "Message ID": 6246,
+            "discovered": "2024-11-01",
+            "post_title": "🚨🇵🇪A Threat Actor Has Allegedly Leaked Data of Gobierno Regional de Áncash\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-gobierno-regional-de-ancash/\n\nA threat actor claims to have leaked data from the Gobierno Regional de Áncash, comprising 114,762 records in a CSV file format with a total size of 21MB.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-gobierno-regional-de-ancash/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6245,
+            "discovered": "2024-11-01",
+            "post_title": "looks like no",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -21320,6 +21342,16 @@
             "Attack Type": "Hacking",
             "Location": [
                 "Нам"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 952,
+            "discovered": "2024-11-01",
+            "post_title": "Это лишь малая часть информации, которую мы получили от израильских военно-воздушных сил.😱\n\nThis is just a small corner of the information we got from the Israeli Air Force.😱",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
