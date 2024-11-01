@@ -55299,6 +55299,78 @@
             "URLs": [
                 "https://thehackernews.com/2024/11/stop-lucr-3-attacks-learn-key-identity.html"
             ]
+        },
+        {
+            "Message ID": 91352,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-44156\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44156\n\nDescription: A path deletion vulnerability was addressed by preventing vulnerable code from running with privileges. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. An app may be able to bypass Privacy preferences.\n\nPublication Date: Fri Nov 01 08:01:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44156"
+            ]
+        },
+        {
+            "Message ID": 91351,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-44159\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44159\n\nDescription: A path deletion vulnerability was addressed by preventing vulnerable code from running with privileges. This issue is fixed in macOS Ventura 13.7.1, macOS Sonoma 14.7.1. An app may be able to bypass Privacy preferences.\n\nPublication Date: Fri Nov 01 08:01:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44159"
+            ]
+        },
+        {
+            "Message ID": 91350,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-49501\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49501\n\nDescription: Sysmac Studio provided by OMRON Corporation contains an incorrect authorization vulnerability. If this vulnerability is exploited, an attacker may access the program which is protected by Data Protection function.\n\nPublication Date: Fri Nov 01 08:01:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49501"
+            ]
+        },
+        {
+            "Message ID": 91349,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10619\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10619\n\nDescription: A vulnerability, which was classified as critical, was found in Tongda OA 2017 up to 11.10. Affected is an unknown function of the file /pda/reportshop/next_detail.php. The manipulation of the argument repid leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Nov 01 08:01:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10619"
+            ]
+        },
+        {
+            "Message ID": 91348,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-47939\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47939\n\nDescription: Stack-based buffer overflow vulnerability exists in multiple Ricoh laser printers and MFPs which implement Web Image Monitor. If this vulnerability is exploited, receiving a specially crafted request created and sent by an attacker may lead to arbitrary code execution and/or a denial-of-service (DoS) condition. As for the details of affected product names and versions, refer to the information provided by the vendor under [References].\n\nPublication Date: Fri Nov 01 08:01:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47939"
+            ]
+        },
+        {
+            "Message ID": 91347,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10620\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10620\n\nDescription: A vulnerability was found in knightliao Disconf 2.6.36. It has been classified as critical. This affects an unknown part of the file /api/config/list of the component Configuration Center. The manipulation leads to improper authentication. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Nov 01 08:01:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10620"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
