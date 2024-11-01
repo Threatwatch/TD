@@ -55665,6 +55665,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 91361,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10232\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10232\n\nDescription: The Group Chat & Video Chat by AtomChat plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's atomchat shortcode in all versions up to, and including, 1.1.5 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Fri Nov 01 13:01:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10232"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
