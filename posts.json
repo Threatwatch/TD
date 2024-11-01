@@ -6560,6 +6560,16 @@
             "URLs": [
                 "ps://darkwebinformer.com/dbsector-allegedly-leaked-scraped-data-of-twitter-x/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6270,
+            "discovered": "2024-11-01",
+            "post_title": "RIP",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -58034,6 +58044,70 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9191"
+            ]
+        },
+        {
+            "Message ID": 91503,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: DieTech North America\n\nDetection Date: Sat Nov 02 01:41:56 2024\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91502,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: Cerp Bretagne Nord\n\nDetection Date: Sat Nov 02 01:41:42 2024\n\nThreat Actor: hunters\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91501,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: CGR Technologies\n\nDetection Date: Sat Nov 02 01:41:23 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91500,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: JS McCarthy Printers\n\nDetection Date: Sat Nov 02 01:41:02 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91499,
+            "discovered": "2024-11-01",
+            "post_title": "Title: CISA Director Easterly seeks to quell concerns about election security\n\nDate: November 1, 2024\n\nSource: https://www.scworld.com/news/cisa-director-easterly-seeks-to-quell-concerns-about-election-security\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/cisa-director-easterly-seeks-to-quell-concerns-about-election-security"
+            ]
+        },
+        {
+            "Message ID": 91498,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Microsoft credentials pilfered by APT Storm via botnet spray-and-pray router attack\n\nDate: November 1, 2024\n\nSource: https://www.scworld.com/news/storm-0940-steals-credentials-of-microsoft-customers-by-leveraging-quad7-botnet\n\n#News",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/storm-0940-steals-credentials-of-microsoft-customers-by-leveraging-quad7-botnet"
             ]
         }
     ],
