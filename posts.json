@@ -6535,6 +6535,19 @@
                 "ttps://darkwebinformer.com/ransomhub-ransomware-profile/\n",
                 "ttps://darkwebinformer.com/tag/resources/"
             ]
+        },
+        {
+            "Message ID": 6268,
+            "discovered": "2024-11-01",
+            "post_title": "🚨🇪🇨Gatito_FBI_NZ Has Allegedly Leaked Data of SINIDOT\n\nhttps://darkwebinformer.com/gatito_fbi_nz-has-allegedly-leaked-data-of-sinidot/\n\nThe threat actor alleges that they have leaked data from SINIDOT (Sistema Nacional Informático de Donación y Trasplante), reportedly comprising 4.21 GB across 11,603 PDF files, including a database of organ donors.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Trasplante",
+                "GB"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/gatito_fbi_nz-has-allegedly-leaked-data-of-sinidot/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -30929,6 +30942,18 @@
             "URLs": [
                 "kurverk.is, ",
                 "somfeed.it/index.php?page=post_details&id_post=18334"
+            ]
+        },
+        {
+            "Message ID": 4015,
+            "discovered": "2024-11-01",
+            "post_title": "ID: 18339\n⚠ Thu, 31 Oct 2024 21:04:14 UTC\n🥷 stormous\n🎯 Guardian Healthcare, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18339",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18339"
             ]
         }
     ],
@@ -57936,6 +57961,31 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-6581",
                 "https://huntr.com/bounties/ad68ecd6-44e2-449b-8e7e-f2b71b1b43c7"
+            ]
+        },
+        {
+            "Message ID": 91494,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Booking.com Phishers May Leave You With Reservations\n\nDate: November 1, 2024\n\nSource: https://krebsonsecurity.com/2024/11/booking-com-phishers-may-leave-you-with-reservations/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "Booking.com",
+                "https://krebsonsecurity.com/2024/11/booking-com-phishers-may-leave-you-with-reservations/"
+            ]
+        },
+        {
+            "Message ID": 91493,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Ngioweb Remains Active 7 Years Later\n\nDate: November 1, 2024\n\nSource: https://cybersecurity.att.com/blogs/labs-research/ngioweb-remains-active-7-years-later\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cybersecurity.att.com/blogs/labs-research/ngioweb-remains-active-7-years-later"
             ]
         }
     ],
