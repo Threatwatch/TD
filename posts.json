@@ -26612,6 +26612,28 @@
             "URLs": [
                 "https://t.co/uHLc9vg8t2"
             ]
+        },
+        {
+            "Message ID": 3428,
+            "discovered": "2024-11-01",
+            "post_title": "Group: spacebears\nApprox. Time: 08:36 01/11/24\nTitle: MENZIES CNAC (Jardine Aviation Services)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3427,
+            "discovered": "2024-11-01",
+            "post_title": "Group: qilin\nApprox. Time: 08:35 01/11/24\nTitle: https://t.co/65XYx7phGE",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/65XYx7phGE"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -55608,6 +55630,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9655"
+            ]
+        },
+        {
+            "Message ID": 91358,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: www.mltmua.com\n\nDetection Date: Fri Nov 01 11:42:00 2024\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.mltmua.com"
             ]
         }
     ],
