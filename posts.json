@@ -6303,6 +6303,40 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-entel-peru/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6251,
+            "discovered": "2024-11-01",
+            "post_title": "🚨Dstat[.]cc has been seized!\n\nMore: https://www.bleepingcomputer.com/news/security/ddos-site-dstatcc-seized-and-two-suspects-arrested-in-germany/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.bleepingcomputer.com/news/security/ddos-site-dstatcc-seized-and-two-suspects-arrested-in-germany/"
+            ]
+        },
+        {
+            "Message ID": 6250,
+            "discovered": "2024-11-01",
+            "post_title": "Someone tell this guy I posted his PoC. I can't post on BF because of the PoW. /Thread-CyberPanel-Pre-Auth-RCE-PoC-Drop",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6249,
+            "discovered": "2024-11-01",
+            "post_title": "🚨PoC for CVE-2024-51378; CyberPanel Command Injection Vulnerability\n\nhttps://darkwebinformer.com/poc-for-cve-2024-51378-cyberpanel-command-injection-vulnerability/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/poc-for-cve-2024-51378-cyberpanel-command-injection-vulnerability/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -56109,6 +56143,57 @@
             ],
             "URLs": [
                 "https://thehackernews.com/2024/11/inside-irans-cyber-playbook-ai-fake.html"
+            ]
+        },
+        {
+            "Message ID": 91389,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2021-47476\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47476\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ncomedi: ni_usb6501: fix NULL-deref in command paths\n\nThe driver uses endpoint-sized USB transfer buffers but had no sanity\nchecks on the sizes. This can lead to zero-size-pointer dereferences or\noverflowed transfer buffers in ni6501_port_command() and\nni6501_counter_command() if a (malicious) device has smaller max-packet\nsizes than expected (or when doing descriptor fuzz testing).\n\nAdd the missing sanity checks to probe().\n\nPublication Date: Fri Nov 01 18:14:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47476"
+            ]
+        },
+        {
+            "Message ID": 91388,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-21151\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21151\n\nDescription: Vulnerability in the Oracle Solaris product of Oracle Systems (component: Filesystem).   The supported version that is affected is 11. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle Solaris executes to compromise Oracle Solaris.  Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of Oracle Solaris. CVSS 3.1 Base Score 3.3 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L).\n\nPublication Date: Fri Nov 01 18:14:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21151"
+            ]
+        },
+        {
+            "Message ID": 91387,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-10331\n\nDescription: A vulnerability, which was classified as critical, has been found in PHPGurukul Vehicle Record System 1.0. This issue affects some unknown processing of the file /admin/search-vehicle.php. The manipulation of the argument searchinputdata leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10331\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://vuldb.com/?submit.427426\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10331",
+                "https://vuldb.com/?submit.427426"
+            ]
+        },
+        {
+            "Message ID": 91386,
+            "discovered": "2024-11-01",
+            "post_title": "Title: DDoS site Dstat.cc seized and two suspects arrested in Germany\n\nDate: November 01, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/ddos-site-dstatcc-seized-and-two-suspects-arrested-in-germany/\n\n#News #Germany",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Germany",
+                "Germany"
+            ],
+            "URLs": [
+                "Dstat.cc",
+                "https://www.bleepingcomputer.com/news/security/ddos-site-dstatcc-seized-and-two-suspects-arrested-in-germany/"
             ]
         }
     ],
