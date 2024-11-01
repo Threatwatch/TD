@@ -57786,6 +57786,157 @@
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/openais-new-chatgpt-search-chrome-extension-feels-like-a-search-hijacker/"
             ]
+        },
+        {
+            "Message ID": 91492,
+            "discovered": "2024-11-01",
+            "post_title": "Title: GreyNoise: AI’s Central Role in Detecting Security Flaws in IoT Devices\n\nDate: November 1, 2024\n\nSource: https://securityboulevard.com/2024/11/greynoise-ais-central-role-in-detecting-security-flaws-in-iot-devices/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://securityboulevard.com/2024/11/greynoise-ais-central-role-in-detecting-security-flaws-in-iot-devices/"
+            ]
+        },
+        {
+            "Message ID": 91491,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10657\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10657\n\nDescription: A vulnerability classified as critical has been found in Tongda OA up to 11.10. Affected is an unknown function of the file /pda/approve_center/prcs_info.php. The manipulation of the argument RUN_ID leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sat Nov 02 00:12:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10657"
+            ]
+        },
+        {
+            "Message ID": 91490,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10658\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10658\n\nDescription: A vulnerability classified as critical was found in Tongda OA up to 11.10. Affected by this vulnerability is an unknown functionality of the file /pda/approve_center/check_seal.php. The manipulation of the argument ID leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sat Nov 02 00:11:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10658"
+            ]
+        },
+        {
+            "Message ID": 91489,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-37094\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37094\n\nDescription: Access Control vulnerability in StylemixThemes MasterStudy LMS allows .\n\nThis issue affects MasterStudy LMS: from n/a through 3.2.12.\n\nPublication Date: Sat Nov 02 00:11:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37094"
+            ]
+        },
+        {
+            "Message ID": 91488,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-49659\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49659\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Rami Yushuvaev Coub allows Stored XSS.This issue affects Coub: from n/a through 1.4.\n\nPublication Date: Sat Nov 02 00:11:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49659"
+            ]
+        },
+        {
+            "Message ID": 91487,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-44234\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44234\n\nDescription: The issue was addressed with improved bounds checks. This issue is fixed in macOS Sonoma 14.7.1, macOS Ventura 13.7.1, visionOS 2.1, watchOS 11.1, tvOS 18.1, iOS 17.7.1 and iPadOS 17.7.1, iOS 18.1 and iPadOS 18.1. Parsing a maliciously crafted video file may lead to unexpected system termination.\n\nPublication Date: Sat Nov 02 00:11:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44234"
+            ]
+        },
+        {
+            "Message ID": 91486,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-44232\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44232\n\nDescription: The issue was addressed with improved bounds checks. This issue is fixed in macOS Sonoma 14.7.1, macOS Ventura 13.7.1, visionOS 2.1, watchOS 11.1, tvOS 18.1, iOS 17.7.1 and iPadOS 17.7.1, iOS 18.1 and iPadOS 18.1. Parsing a maliciously crafted video file may lead to unexpected system termination.\n\nPublication Date: Sat Nov 02 00:11:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44232"
+            ]
+        },
+        {
+            "Message ID": 91485,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-44233\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44233\n\nDescription: The issue was addressed with improved bounds checks. This issue is fixed in macOS Sonoma 14.7.1, macOS Ventura 13.7.1, visionOS 2.1, watchOS 11.1, tvOS 18.1, iOS 17.7.1 and iPadOS 17.7.1, iOS 18.1 and iPadOS 18.1. Parsing a maliciously crafted video file may lead to unexpected system termination.\n\nPublication Date: Sat Nov 02 00:11:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44233"
+            ]
+        },
+        {
+            "Message ID": 91484,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-21536\n\nDescription: Versions of the package http-proxy-middleware before 2.0.7, from 3.0.0 and before 3.0.3 are vulnerable to Denial of Service (DoS) due to an UnhandledPromiseRejection error thrown by micromatch. An attacker could kill the Node.js process and crash the server by making requests to certain paths.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-21536\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://gist.github.com/mhassan1/28be67266d82a53708ed59ce5dc3c94a\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Node.js",
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21536",
+                "https://gist.github.com/mhassan1/28be67266d82a53708ed59ce5dc3c94a"
+            ]
+        },
+        {
+            "Message ID": 91483,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-10448\n\nDescription: A vulnerability, which was classified as problematic, has been found in code-projects Blood Bank Management System 1.0. Affected by this issue is some unknown functionality of the file /file/delete.php. The manipulation of the argument bid leads to cross-site request forgery. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. Other endpoints might be affected as well.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10448\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://github.com/bevennyamande/bloodbank_delete_csrf_attack\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10448",
+                "https://github.com/bevennyamande/bloodbank_delete_csrf_attack"
+            ]
+        },
+        {
+            "Message ID": 91482,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-8309\n\nDescription: A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain version 0.2.5 allows for SQL injection through prompt injection. This vulnerability can lead to unauthorized data manipulation, data exfiltration, denial of service (DoS) by deleting all data, breaches in multi-tenant security environments, and data integrity issues. Attackers can create, update, or delete nodes and relationships without proper authorization, extract sensitive data, disrupt services, access data across different tenants, and compromise the integrity of the database.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-8309\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://huntr.com/bounties/8f4ad910-7fdc-4089-8f0a-b5df5f32e7c5\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8309",
+                "https://huntr.com/bounties/8f4ad910-7fdc-4089-8f0a-b5df5f32e7c5"
+            ]
+        },
+        {
+            "Message ID": 91481,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-6581\n\nDescription: A vulnerability in the discussion image upload function of the Lollms application, version v9.9, allows for the uploading of SVG files. Due to incomplete filtering in the sanitize_svg function, this can lead to cross-site scripting (XSS) vulnerabilities, which in turn pose a risk of remote code execution. The sanitize_svg function only removes script elements and 'on*' event attributes, but does not account for other potential vectors for XSS within SVG files. This vulnerability can be exploited when authorized users access a malicious URL containing the crafted SVG file.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-6581\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://huntr.com/bounties/ad68ecd6-44e2-449b-8e7e-f2b71b1b43c7\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS",
+                "XSS",
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-6581",
+                "https://huntr.com/bounties/ad68ecd6-44e2-449b-8e7e-f2b71b1b43c7"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
