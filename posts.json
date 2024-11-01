@@ -16109,6 +16109,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1957,
+            "discovered": "2024-11-01",
+            "post_title": "☠☠",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SERVER KILLERS": [
@@ -26646,6 +26656,26 @@
             "URLs": [
                 "https://t.co/bZNSiiaTgx\\$72.2M\\United"
             ]
+        },
+        {
+            "Message ID": 3431,
+            "discovered": "2024-11-01",
+            "post_title": "Group: rhysida\nApprox. Time: 12:37 01/11/24\nTitle: Hope Valley Recovery",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3430,
+            "discovered": "2024-11-01",
+            "post_title": "Group: ransomhouse\nApprox. Time: 12:37 01/11/24\nTitle: Sabesp",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -55762,6 +55792,30 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10653"
+            ]
+        },
+        {
+            "Message ID": 91368,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10367\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10367\n\nDescription: The Otter Blocks – Gutenberg Blocks, Page Builder for Gutenberg Editor & FSE plugin for WordPress is vulnerable to Stored Cross-Site Scripting via REST API SVG File uploads in all versions up to, and including, 3.0.4 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Author-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.\n\nPublication Date: Fri Nov 01 15:03:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10367"
+            ]
+        },
+        {
+            "Message ID": 91367,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10654\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10654\n\nDescription: A vulnerability has been found in TOTOLINK LR350 up to 9.3.5u.6369 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /formLoginAuth.htm. The manipulation of the argument authCode with the input 1 leads to authorization bypass. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Nov 01 15:02:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10654"
             ]
         }
     ],
