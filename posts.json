@@ -57361,6 +57361,70 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-20989"
             ]
+        },
+        {
+            "Message ID": 91461,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-10434\n\nDescription: A vulnerability was found in Tenda AC1206 up to 20241027. It has been classified as critical. This affects the function ate_Tenda_mfg_check_usb/ate_Tenda_mfg_check_usb3 of the file /goform/ate. The manipulation of the argument arg leads to stack-based buffer overflow. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10434\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://github.com/physicszq/Routers/blob/main/Tenda/README.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Tenda",
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10434",
+                "https://github.com/physicszq/Routers/blob/main/Tenda/README.md"
+            ]
+        },
+        {
+            "Message ID": 91460,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-10446\n\nDescription: A vulnerability classified as critical has been found in Project Worlds Online Time Table Generator 1.0. Affected is an unknown function of the file /timetable/admin/admindashboard.php?info=add_course. The manipulation of the argument c leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10446\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://github.com/jadu101/CVE/blob/main/project_worlds_online_time_table_generator_add_department_sqli.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10446",
+                "https://github.com/jadu101/CVE/blob/main/project_worlds_online_time_table_generator_add_department_sqli.md"
+            ]
+        },
+        {
+            "Message ID": 91459,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-10131\n\nDescription: The `add_llm` function in `llm_app.py` in infiniflow/ragflow version 0.11.0 contains a remote code execution (RCE) vulnerability. The function uses user-supplied input `req['llm_factory']` and `req['llm_name']` to dynamically instantiate classes from various model dictionaries. This approach allows an attacker to potentially execute arbitrary code due to the lack of comprehensive input validation or sanitization. An attacker could provide a malicious value for 'llm_factory' that, when used as an index to these model dictionaries, results in the execution of arbitrary code.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10131\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://huntr.com/bounties/42ae0b27-e851-4b58-a991-f691a437fbaa\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10131",
+                "https://huntr.com/bounties/42ae0b27-e851-4b58-a991-f691a437fbaa"
+            ]
+        },
+        {
+            "Message ID": 91458,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: lumiplan.com\n\nDetection Date: Fri Nov 01 22:19:15 2024\n\nThreat Actor: cactus\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "lumiplan.com"
+            ]
+        },
+        {
+            "Message ID": 91457,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: eap.gr\n\nDetection Date: Fri Nov 01 22:18:58 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "eap.gr"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
