@@ -30997,6 +30997,56 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18339"
             ]
+        },
+        {
+            "Message ID": 4019,
+            "discovered": "2024-11-01",
+            "post_title": "ID: 18343\n⚠ Fri, 01 Nov 2024 19:43:25 UTC\n🥷 cactus\n🎯 lumiplan.com, France\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18343",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "miplan.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18343"
+            ]
+        },
+        {
+            "Message ID": 4018,
+            "discovered": "2024-11-01",
+            "post_title": "ID: 18342\n⚠ Fri, 01 Nov 2024 18:03:55 UTC\n🥷 hunters\n🎯 Cerp Bretagne Nord, France\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18342",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18342"
+            ]
+        },
+        {
+            "Message ID": 4017,
+            "discovered": "2024-11-01",
+            "post_title": "ID: 18341\n⚠ Fri, 01 Nov 2024 18:42:13 UTC\n🥷 medusa\n🎯 United Sleep Diagnostics, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18341",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18341"
+            ]
+        },
+        {
+            "Message ID": 4016,
+            "discovered": "2024-11-01",
+            "post_title": "ID: 18340\n⚠ Fri, 01 Nov 2024 18:16:32 UTC\n🥷 ransomhub\n🎯 eap.gr, Greece\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18340",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Greece"
+            ],
+            "URLs": [
+                "p.gr, ",
+                "somfeed.it/index.php?page=post_details&id_post=18340"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -58128,6 +58178,111 @@
             ],
             "URLs": [
                 "https://www.scworld.com/news/storm-0940-steals-credentials-of-microsoft-customers-by-leveraging-quad7-botnet"
+            ]
+        },
+        {
+            "Message ID": 91511,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-6674\n\nDescription: A CORS misconfiguration in parisneo/lollms-webui prior to version 10 allows attackers to steal sensitive information such as logs, browser sessions, and settings containing private API keys from other services. This vulnerability can also enable attackers to perform actions on behalf of a user, such as deleting a project or sending a message. The issue impacts the confidentiality and integrity of the information.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-6674\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://huntr.com/bounties/e688f71b-a3a4-4f6d-b48a-837073fa6908\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-6674",
+                "https://huntr.com/bounties/e688f71b-a3a4-4f6d-b48a-837073fa6908"
+            ]
+        },
+        {
+            "Message ID": 91510,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-6673\n\nDescription: A Cross-Site Request Forgery (CSRF) vulnerability exists in the `install_comfyui` endpoint of the `lollms_comfyui.py` file in the parisneo/lollms-webui repository, versions v9.9 to the latest. The endpoint uses the GET method without requiring a client ID, allowing an attacker to trick a victim into installing ComfyUI. If the victim's device does not have sufficient capacity, this can result in a crash.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-6673\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://huntr.com/bounties/a38f9a7d-b357-427d-adac-f9654d8c0e3c\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-6673",
+                "https://huntr.com/bounties/a38f9a7d-b357-427d-adac-f9654d8c0e3c"
+            ]
+        },
+        {
+            "Message ID": 91509,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-10561\n\nDescription: A vulnerability was found in Codezips Pet Shop Management System 1.0. It has been classified as critical. This affects an unknown part of the file birdsupdate.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10561\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://github.com/ppp-src/CVE/issues/29\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10561",
+                "https://github.com/ppp-src/CVE/issues/29"
+            ]
+        },
+        {
+            "Message ID": 91508,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-10559\n\nDescription: A vulnerability was found in SourceCodester Airport Booking Management System 1.0 and classified as critical. Affected by this issue is the function details of the component Passport Number Handler. The manipulation leads to buffer overflow. The attack needs to be approached locally. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10559\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://github.com/CveSecLook/cve/issues/64\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10559",
+                "https://github.com/CveSecLook/cve/issues/64"
+            ]
+        },
+        {
+            "Message ID": 91507,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-10557\n\nDescription: A vulnerability has been found in code-projects Blood Bank Management System 1.0 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file /file/updateprofile.php. The manipulation leads to cross-site request forgery. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10557\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://github.com/bevennyamande/bloodbank_profile_update_csrf\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10557",
+                "https://github.com/bevennyamande/bloodbank_profile_update_csrf"
+            ]
+        },
+        {
+            "Message ID": 91506,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-10556\n\nDescription: A vulnerability, which was classified as critical, was found in Codezips Pet Shop Management System 1.0. Affected is an unknown function of the file birdsadd.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10556\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://github.com/ppp-src/CVE/issues/28\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10556",
+                "https://github.com/ppp-src/CVE/issues/28"
+            ]
+        },
+        {
+            "Message ID": 91505,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-10509\n\nDescription: A vulnerability, which was classified as critical, has been found in Codezips Online Institute Management System 1.0. This issue affects some unknown processing of the file /login.php. The manipulation of the argument email leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10509\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://github.com/ppp-src/CVE/issues/27\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10509",
+                "https://github.com/ppp-src/CVE/issues/27"
+            ]
+        },
+        {
+            "Message ID": 91504,
+            "discovered": "2024-11-01",
+            "post_title": "Vulnerability ID: CVE-2024-10595\n\nDescription: A vulnerability was found in ESAFENET CDG 5. It has been declared as critical. Affected by this vulnerability is the function delFile/delDifferCourseList of the file /com/esafenet/servlet/ajax/PublicDocInfoAjax.java. The manipulation leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10595\n\nDate of Publishing: 2024/11/01\n\nLink to Exploit: https://flowus.cn/share/651b6010-4701-4cec-a5a3-6e01e22636b9?code=G8A6P3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "PublicDocInfoAjax.java",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10595",
+                "https://flowus.cn/share/651b6010-4701-4cec-a5a3-6e01e22636b9?code=G8A6P3"
             ]
         }
     ],
