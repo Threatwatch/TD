@@ -26634,6 +26634,18 @@
             "URLs": [
                 "https://t.co/65XYx7phGE"
             ]
+        },
+        {
+            "Message ID": 3429,
+            "discovered": "2024-11-01",
+            "post_title": "Group: cactus\nApprox. Time: 10:35 01/11/24\nTitle: https://t.co/bZNSiiaTgx\\$72.2M\\United Kingdom\\845GB\\&lt;1% DISCLOSED",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/bZNSiiaTgx\\$72.2M\\United"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -30259,6 +30271,20 @@
             ],
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18320"
+            ]
+        },
+        {
+            "Message ID": 4008,
+            "discovered": "2024-11-01",
+            "post_title": "ID: 18329\n⚠ Fri, 01 Nov 2024 09:35:13 UTC\n🥷 qilin\n🎯 www.mltmua.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18329",
+            "Attack Type": "Unknown",
+            "Location": [
+                "qilin",
+                "USA"
+            ],
+            "URLs": [
+                "w.mltmua.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18329"
             ]
         }
     ],
@@ -55676,6 +55702,30 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10232"
+            ]
+        },
+        {
+            "Message ID": 91363,
+            "discovered": "2024-11-01",
+            "post_title": "Title: 5 SaaS Misconfigurations Leading to Major Fu*%@ Ups\n\nDate: Nov 01, 2024\n\nSource: https://thehackernews.com/2024/11/5-saas-misconfigurations-leading-to.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/5-saas-misconfigurations-leading-to.html"
+            ]
+        },
+        {
+            "Message ID": 91362,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Massive Git Config Breach Exposes 15,000 Credentials; 10,000 Private Repos Cloned\n\nDate: Nov 01, 2024\n\nSource: https://thehackernews.com/2024/11/massive-git-config-breach-exposes-15000.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/massive-git-config-breach-exposes-15000.html"
             ]
         }
     ],
