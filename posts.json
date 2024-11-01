@@ -6411,6 +6411,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/infamous-is-allegedly-selling-the-database-of-aeon-maxvalu/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6258,
+            "discovered": "2024-11-01",
+            "post_title": "🚨🇰🇼DarkRaaS Has Allegedly Leaked Access to Kuwait Airways\n\nhttps://darkwebinformer.com/darkraas-has-allegedly-leaked-access-to-kuwait-airways/\n\nA threat actor claims to have leaked access to Kuwait Airways' internal data. The compromised information reportedly includes confidential emails, flight schedules, expense reports, and other sensitive documents.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/darkraas-has-allegedly-leaked-access-to-kuwait-airways/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -10793,6 +10805,18 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 7134,
+            "discovered": "2024-11-01",
+            "post_title": "لدعم محور المقاومة الاسلامية السيبراني\n\n⚪️TON :\nUQBJHq4Mis6lJ_OfbOGQwyeCaT5PaM4O8C5tgKXjvLpMtjqb\n\n⚪️USDT(TRC20):\nTEaXLxbMkKBaPx1HusRmKLzhZvFycF9mhY\n\n⚪️USDT(Tron) :\n\nUQBJHq4Mis6lJ_OfbOGQwyeCaT5PaM4O8C5tgKXjvLpMtjqb\n\n\n⚪️BTC:\n19HutSNPt9koScxb3YVHyMYVvcUPa8Aimj\n\n\nلا تنسونا من خالص دعائكم اخوانكم محور المقاومة الاسلامية السيبراني ✊",
+            "Attack Type": "Unknown",
+            "Location": [
+                "الاسلامية",
+                "⚪",
+                "الاسلامية"
             ],
             "URLs": []
         }
@@ -16302,6 +16326,32 @@
             "Message ID": 1957,
             "discovered": "2024-11-01",
             "post_title": "☠☠",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1960,
+            "discovered": "2024-11-01",
+            "post_title": "Sinha Digitech's Website Has Been Hacked By Esteem Restoration Eagle\n\nCountry : India 🇮🇳 \n\nSite : https://sinhadigitech.in\nhttps://courses.sinhadigitech.in\nhttps://store.sinhadigitech.in\nhttps://demo.sinhadigitech.in\n\nMirror : https://haxor.id/archive/mirror/210729\n\n#EsteemRestorationEagle🇲🇨\n#HacktivistIndonesia\n#FuckIndia\n#OpIndia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "tps://sinhadigitech.in\nh",
+                "tps://courses.sinhadigitech.in\nh",
+                "tps://store.sinhadigitech.in\nh",
+                "tps://demo.sinhadigitech.in\n\n",
+                "tps://haxor.id/archive/mirror/210729\n\n"
+            ]
+        },
+        {
+            "Message ID": 1959,
+            "discovered": "2024-11-01",
+            "post_title": "",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -56353,6 +56403,208 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-21066"
+            ]
+        },
+        {
+            "Message ID": 91411,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Enhance security with the Sonatype Lifecycle and GitLab Ultimate integration\n\nDate: November 1, 2024\n\nSource: https://www.sonatype.com/blog/enhance-security-with-the-sonatype-lifecycle-and-gitlab-ultimate-integration\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.sonatype.com/blog/enhance-security-with-the-sonatype-lifecycle-and-gitlab-ultimate-integration"
+            ]
+        },
+        {
+            "Message ID": 91410,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Sintesi riepilogativa delle campagne malevole nella settimana del 26 ottobre – 1 novembre\n\nDate: November 1, 2024\n\nSource: https://cert-agid.gov.it/news/sintesi-riepilogativa-delle-campagne-malevole-nella-settimana-del-26-ottobre-1-novembre/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cert-agid.gov.it/news/sintesi-riepilogativa-delle-campagne-malevole-nella-settimana-del-26-ottobre-1-novembre/"
+            ]
+        },
+        {
+            "Message ID": 91409,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-26769\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-26769\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnvmet-fc: avoid deadlock on delete association path\n\nWhen deleting an association the shutdown path is deadlocking because we\ntry to flush the nvmet_wq nested. Avoid this by deadlock by deferring\nthe put work into its own work item.\n\nPublication Date: Fri Nov 01 19:14:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-26769"
+            ]
+        },
+        {
+            "Message ID": 91408,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2022-48987\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-48987\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nmedia: v4l2-dv-timings.c: fix too strict blanking sanity checks\n\nSanity checks were added to verify the v4l2_bt_timings blanking fields\nin order to avoid integer overflows when userspace passes weird values.\n\nBut that assumed that userspace would correctly fill in the front porch,\nbackporch and sync values, but sometimes all you know is the total\nblanking, which is then assigned to just one of these fields.\n\nAnd that can fail with these checks.\n\nSo instead set a maximum for the total horizontal and vertical\nblanking and check that each field remains below that.\n\nThat is still sufficient to avoid integer overflows, but it also\nallows for more flexibility in how userspace fills in these fields.\n\nPublication Date: Fri Nov 01 19:14:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-48987"
+            ]
+        },
+        {
+            "Message ID": 91407,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-40490\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-40490\n\nDescription: An issue in Sourcebans++ before v.1.8.0 allows a remote attacker to obtain sensitive information via a crafted XAJAX call to the Forgot Password function.\n\nPublication Date: Fri Nov 01 19:14:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XAJAX"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-40490"
+            ]
+        },
+        {
+            "Message ID": 91406,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-36819\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-36819\n\nDescription: MAP-OS 4.45.0 and earlier is vulnerable to Cross-Site Scripting (XSS). This vulnerability allows malicious users to insert a malicious payload into the \"Client Name\" input. When a service order from this client is created, the malicious payload is displayed on the administrator and employee dashboards, resulting in unauthorized script execution whenever the dashboard is loaded.\n\nPublication Date: Fri Nov 01 19:14:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-36819"
+            ]
+        },
+        {
+            "Message ID": 91405,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-26772\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-26772\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\next4: avoid allocating blocks from corrupted group in ext4_mb_find_by_goal()\n\nPlaces the logic for checking if the group's block bitmap is corrupt under\nthe protection of the group lock to avoid allocating blocks from the group\nwith a corrupted block bitmap.\n\nPublication Date: Fri Nov 01 19:14:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-26772"
+            ]
+        },
+        {
+            "Message ID": 91404,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10659\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10659\n\nDescription: A vulnerability, which was classified as critical, has been found in ESAFENET CDG 5. Affected by this issue is the function delSystemEncryptPolicy of the file /com/esafenet/servlet/document/CDGAuthoriseTempletService.java. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Nov 01 19:13:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10659",
+                "CDGAuthoriseTempletService.java"
+            ]
+        },
+        {
+            "Message ID": 91403,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10660\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10660\n\nDescription: A vulnerability, which was classified as critical, was found in ESAFENET CDG 5. This affects the function deleteHook of the file /com/esafenet/servlet/policy/HookService.java. The manipulation of the argument hookId leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Nov 01 19:13:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10660",
+                "HookService.java"
+            ]
+        },
+        {
+            "Message ID": 91402,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-8037\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8037\n\nDescription: Vulnerable juju hook tool abstract UNIX domain socket. When combined with an attack of JUJU_CONTEXT_ID, any user on the local system with access to the default network namespace may connect to the @/var/lib/juju/agents/unit-xxxx-yyyy/agent.socket and perform actions that are normally reserved to a juju charm.\n\nPublication Date: Fri Nov 01 19:13:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8037"
+            ]
+        },
+        {
+            "Message ID": 91401,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2023-38291\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-38291\n\nDescription: An issue was discovered in a third-party component related to ro.boot.wifimacaddr, shipped on devices from multiple device manufacturers. Various software builds for the following TCL devices (30Z and 10L) and Motorola devices (Moto G Pure and Moto G Power) leak the Wi-Fi MAC address to a system property that can be accessed by any local app on the device without any permissions or special privileges. Google restricted third-party apps from directly obtaining non-resettable device identifiers in Android 10 and higher, but in these instances they are leaked by a high-privilege process and can be obtained indirectly. The software build fingerprints for each confirmed vulnerable device are as follows: TCL A3X (TCL/A600DL/Delhi_TF:11/RKQ1.201202.002/vAAZ:user/release-keys, TCL/A600DL/Delhi_TF:11/RKQ1.201202.002/vAB3:user/release-keys, TCL/A600DL/Delhi_TF:11/RKQ1.201202.002/vAB7:user/release-keys, TCL/A600DL/Delhi_TF:11/RKQ1.201202.002/vABA:user/release-keys, TCL/A600DL/Delhi_TF:11/RKQ1.201202.002/vABM:user/release-keys, TCL/A600DL/Delhi_TF:11/RKQ1.201202.002/vABP:user/release-keys, and TCL/A600DL/Delhi_TF:11/RKQ1.201202.002/vABS:user/release-keys); TCL 10L (TCL/T770B/T1_LITE:10/QKQ1.200329.002/3CJ0:user/release-keys and TCL/T770B/T1_LITE:11/RKQ1.210107.001/8BIC:user/release-keys); Motorola Moto G Pure (motorola/ellis_trac/ellis:11/RRHS31.Q3-46-110-2/74844:user/release-keys, motorola/ellis_trac/ellis:11/RRHS31.Q3-46-110-7/5cde8:user/release-keys, motorola/ellis_trac/ellis:11/RRHS31.Q3-46-110-10/d67faa:user/release-keys, motorola/ellis_trac/ellis:11/RRHS31.Q3-46-110-13/b4a29:user/release-keys, motorola/ellis_trac/ellis:12/S3RH32.20-42-10/1c2540:user/release-keys, motorola/ellis_trac/ellis:12/S3RHS32.20-42-13-2-1/6368dd:user/release-keys, motorola/ellis_a/ellis:11/RRH31.Q3-46-50-2/20fec:user/release-keys, motorola/ellis_vzw/ellis:11/RRH31.Q3-46-138/103bd:user/release-keys, motorola/ellis_vzw/ellis:11/RRHS31.Q3-46-138-2/e5502:user/release-keys, and motorola/ellis_vzw/ellis:12/S3RHS32.20-42-10-14-2/5e0b0:user/release-keys); and Motorola Moto G Power (motorola/tonga_g/tonga:11/RRQ31.Q3-68-16-2/e5877:user/release-keys and motorola/tonga_g/tonga:12/S3RQS32.20-42-10-6/f876d3:user/release-keys). This malicious app reads from the \"ro.boot.wifimacaddr\" system property to indirectly obtain the Wi-Fi MAC address.\n\nPublication Date: Fri Nov 01 19:13:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Android"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-38291"
+            ]
+        },
+        {
+            "Message ID": 91400,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-32920\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-32920\n\nDescription: In set_secure_reg of sac_handler.c, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure of 4 bytes of stack memory with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Nov 01 19:13:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-32920"
+            ]
+        },
+        {
+            "Message ID": 91399,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-47302\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47302\n\nDescription: Missing Authorization vulnerability in WPManageNinja LLC Fluent Support allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Fluent Support: from n/a through 1.8.0.\n\nPublication Date: Fri Nov 01 19:13:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47302"
+            ]
+        },
+        {
+            "Message ID": 91398,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: Hope Valley Recovery\n\nDetection Date: Fri Nov 01 19:12:07 2024\n\nThreat Actor: rhysida\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91397,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: Hope Valley Recovery\n\nDetection Date: Fri Nov 01 19:12:07 2024\n\nThreat Actor: rhysida\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91396,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: mirandaproduce.com.ve\n\nDetection Date: Fri Nov 01 19:10:56 2024\n\nThreat Actor: lockbit3\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "mirandaproduce.com.ve"
+            ]
+        },
+        {
+            "Message ID": 91395,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: vikurverk.is\n\nDetection Date: Fri Nov 01 19:09:41 2024\n\nThreat Actor: lockbit3\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "vikurverk.is"
             ]
         }
     ],
