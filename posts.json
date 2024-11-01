@@ -58284,6 +58284,114 @@
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10595",
                 "https://flowus.cn/share/651b6010-4701-4cec-a5a3-6e01e22636b9?code=G8A6P3"
             ]
+        },
+        {
+            "Message ID": 91520,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: lighthouseelectric.com\n\nDetection Date: Sat Nov 02 02:40:41 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "lighthouseelectric.com"
+            ]
+        },
+        {
+            "Message ID": 91519,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: obe.com\n\nDetection Date: Sat Nov 02 02:40:25 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "obe.com"
+            ]
+        },
+        {
+            "Message ID": 91518,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: www.rosito-bisani.com\n\nDetection Date: Sat Nov 02 02:40:08 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.rosito-bisani.com"
+            ]
+        },
+        {
+            "Message ID": 91517,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: www.ua4rent.com\n\nDetection Date: Sat Nov 02 02:39:51 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.ua4rent.com"
+            ]
+        },
+        {
+            "Message ID": 91516,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: www.usm.cl\n\nDetection Date: Sat Nov 02 02:39:36 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.usm.cl"
+            ]
+        },
+        {
+            "Message ID": 91515,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: www.tigre.gob.ar\n\nDetection Date: Sat Nov 02 02:39:20 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.tigre.gob.ar"
+            ]
+        },
+        {
+            "Message ID": 91514,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: www.tetco-group.com\n\nDetection Date: Sat Nov 02 02:39:02 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.tetco-group.com"
+            ]
+        },
+        {
+            "Message ID": 91513,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: www.fatboysfleetandauto.com\n\nDetection Date: Sat Nov 02 02:38:46 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.fatboysfleetandauto.com"
+            ]
+        },
+        {
+            "Message ID": 91512,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: www.sym-global.com\n\nDetection Date: Sat Nov 02 02:38:29 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.sym-global.com"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
