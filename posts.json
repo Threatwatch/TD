@@ -6387,6 +6387,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/mommy-is-allegedly-selling-unauthorized-access-to-pinger/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6257,
+            "discovered": "2024-11-01",
+            "post_title": "🚨🇨🇳mommy is Allegedly Selling Access to Tencent\n\nhttps://darkwebinformer.com/mommy-is-allegedly-selling-access-to-tencent/\n\nA threat actor claims to be selling root access to a Tencent firewall server, which could potentially grant unauthorized entry to their entire network.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/mommy-is-allegedly-selling-access-to-tencent/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6256,
+            "discovered": "2024-11-01",
+            "post_title": "🚨🇹🇭infamous is Allegedly Selling the Database of AEON MaxValu\n\nhttps://darkwebinformer.com/infamous-is-allegedly-selling-the-database-of-aeon-maxvalu/\n\nA threat actor claims to be selling the database of AEON MaxValu, which allegedly contains 861,000 records. The compromised data reportedly includes member IDs, full names, email addresses, and other personal information.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/infamous-is-allegedly-selling-the-database-of-aeon-maxvalu/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
