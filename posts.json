@@ -6474,6 +6474,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6264,
+            "discovered": "2024-11-01",
+            "post_title": "Search \"github.com\" (8083 hits in 1 file of 1 searched)  yum",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "github.com"
+            ]
+        },
+        {
+            "Message ID": 6263,
+            "discovered": "2024-11-01",
+            "post_title": "lol ok https://dev.hososuckhoe.net",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://dev.hososuckhoe.net"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -27011,6 +27035,28 @@
             "URLs": [
                 "https://t.co/ebv5QrS69X"
             ]
+        },
+        {
+            "Message ID": 3436,
+            "discovered": "2024-11-01",
+            "post_title": "Group: ransomhub\nApprox. Time: 18:37 01/11/24\nTitle: https://t.co/lVj2htMKuW",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/lVj2htMKuW"
+            ]
+        },
+        {
+            "Message ID": 3435,
+            "discovered": "2024-11-01",
+            "post_title": "Group: hunters\nApprox. Time: 18:37 01/11/24\nTitle: Cerp Bretagne Nord",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
