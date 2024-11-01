@@ -55239,6 +55239,54 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10615"
             ]
+        },
+        {
+            "Message ID": 91345,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10616\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10616\n\nDescription: A vulnerability classified as critical has been found in Tongda OA up to 11.9. This affects an unknown part of the file /pda/workflow/webSignSubmit.php. The manipulation of the argument saleId leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Nov 01 07:09:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10616"
+            ]
+        },
+        {
+            "Message ID": 91344,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10617\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10617\n\nDescription: A vulnerability classified as critical was found in Tongda OA up to 11.10. This vulnerability affects unknown code of the file /pda/workflow/check_seal.php. The manipulation of the argument ID leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Nov 01 07:09:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10617"
+            ]
+        },
+        {
+            "Message ID": 91343,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10618\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10618\n\nDescription: A vulnerability, which was classified as critical, has been found in Tongda OA 2017 up to 11.10. This issue affects some unknown processing of the file /pda/reportshop/record_detail.php. The manipulation of the argument repid leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Nov 01 07:09:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10618"
+            ]
+        },
+        {
+            "Message ID": 91342,
+            "discovered": "2024-11-01",
+            "post_title": "Title: New Phishing Kit Xiū gǒu Targets Users Across Five Countries With 2,000 Fake Sites\n\nDate: Nov 01, 2024\n\nSource: https://thehackernews.com/2024/11/new-phishing-kit-xiu-gou-targets-users.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/new-phishing-kit-xiu-gou-targets-users.html"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
