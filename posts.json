@@ -6464,6 +6464,16 @@
             "URLs": [
                 "ormer.com/dozkey-is-allegedly-selling-rdweb-access-to-eight-unidentified-companies/\n\nA threat actor c"
             ]
+        },
+        {
+            "Message ID": 6262,
+            "discovered": "2024-11-01",
+            "post_title": "tester_intel_4s_2@netflix.com",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -56827,6 +56837,201 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-7992"
+            ]
+        },
+        {
+            "Message ID": 91439,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-41745\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-41745\n\nDescription: IBM CICS TX Standard is vulnerable to cross-site scripting. This vulnerability allows an unauthenticated attacker to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session.\n\nPublication Date: Fri Nov 01 21:10:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-41745"
+            ]
+        },
+        {
+            "Message ID": 91438,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-51252\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51252\n\nDescription: In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitrary commands by calling the restore function.\n\nPublication Date: Fri Nov 01 21:10:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51252",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 91437,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-37276\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37276\n\nDescription: Missing Authorization vulnerability in fifu.App Featured Image from URL allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Featured Image from URL: from n/a through 4.8.1.\n\nPublication Date: Fri Nov 01 21:09:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37276"
+            ]
+        },
+        {
+            "Message ID": 91436,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-37277\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37277\n\nDescription: Authorization Bypass Through User-Controlled Key vulnerability in Paid Memberships Pro allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Paid Memberships Pro: from n/a through 3.0.4.\n\nPublication Date: Fri Nov 01 21:09:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37277"
+            ]
+        },
+        {
+            "Message ID": 91435,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-51483\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51483\n\nDescription: changedetection.io is free, open source web page change detection software. Prior to version 0.47.5, when a WebDriver is used to fetch files, `source:file:///etc/passwd` can be used to retrieve local system files, where the more traditional `file:///etc/passwd` gets blocked. Version 0.47.5 fixes the issue.\n\nPublication Date: Fri Nov 01 21:09:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51483",
+                "changedetection.io"
+            ]
+        },
+        {
+            "Message ID": 91434,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-37411\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37411\n\nDescription: Missing Authorization vulnerability in Team Emilia Projects Progress Planner allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Progress Planner: from n/a through 0.9.1.\n\nPublication Date: Fri Nov 01 21:09:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37411"
+            ]
+        },
+        {
+            "Message ID": 91433,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-37201\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37201\n\nDescription: Missing Authorization vulnerability in javmah Woocommerce Customers Order History allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Woocommerce Customers Order History: from n/a through 5.2.2.\n\nPublication Date: Fri Nov 01 21:09:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37201"
+            ]
+        },
+        {
+            "Message ID": 91432,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-37203\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37203\n\nDescription: Missing Authorization vulnerability in Laybuy Laybuy Payment Extension for WooCommerce allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Laybuy Payment Extension for WooCommerce: from n/a through 5.3.9.\n\nPublication Date: Fri Nov 01 21:09:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37203"
+            ]
+        },
+        {
+            "Message ID": 91431,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-37427\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37427\n\nDescription: Missing Authorization vulnerability in Arraytics Timetics allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Timetics: from n/a through 1.0.21.\n\nPublication Date: Fri Nov 01 21:08:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37427"
+            ]
+        },
+        {
+            "Message ID": 91430,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-37204\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37204\n\nDescription: Missing Authorization vulnerability in PropertyHive allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects PropertyHive: from n/a through 2.0.9.\n\nPublication Date: Fri Nov 01 21:08:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37204"
+            ]
+        },
+        {
+            "Message ID": 91429,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-49770\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49770\n\nDescription: `oak` is a middleware framework for Deno's native HTTP server, Deno Deploy, Node.js 16.5 and later, Cloudflare Workers and Bun. By default `oak` does not allow transferring of hidden files with `Context.send` API. However, prior to version 17.1.3, this can be bypassed by encoding `/` as its URL encoded form `%2F`. For an attacker this has potential to read sensitive user data or to gain access to server secrets. Version 17.1.3 fixes the issue.\n\nPublication Date: Fri Nov 01 21:08:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49770"
+            ]
+        },
+        {
+            "Message ID": 91428,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-37218\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37218\n\nDescription: Missing Authorization vulnerability in WordPress Page Builder Sandwich Team Page Builder Sandwich – Front-End Page Builder allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Page Builder Sandwich – Front-End Page Builder: from n/a through 5.1.0.\n\nPublication Date: Fri Nov 01 21:08:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37218"
+            ]
+        },
+        {
+            "Message ID": 91427,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-37439\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37439\n\nDescription: Missing Authorization vulnerability in Uncanny Owl Uncanny Toolkit Pro for LearnDash allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Uncanny Toolkit Pro for LearnDash: from n/a through 4.1.4.0\n\nPublication Date: Fri Nov 01 21:08:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37439",
+                "4.1.4.0"
+            ]
+        },
+        {
+            "Message ID": 91426,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-37440\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37440\n\nDescription: Missing Authorization vulnerability in Andy Moyle Church Admin allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Church Admin: from n/a through 4.4.4.\n\nPublication Date: Fri Nov 01 21:07:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37440"
+            ]
+        },
+        {
+            "Message ID": 91425,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-37220\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37220\n\nDescription: Missing Authorization vulnerability in OptinlyHQ Optinly allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Optinly: from n/a through 1.0.18.\n\nPublication Date: Fri Nov 01 21:07:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37220"
+            ]
+        },
+        {
+            "Message ID": 91424,
+            "discovered": "2024-11-01",
+            "post_title": "Title: LastPass warns of fake support centers trying to steal customer data\n\nDate: November 01, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/lastpass-warns-of-fake-support-centers-trying-to-steal-customer-data/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/lastpass-warns-of-fake-support-centers-trying-to-steal-customer-data/"
             ]
         }
     ],
