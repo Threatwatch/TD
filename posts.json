@@ -57642,6 +57642,30 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-23260"
             ]
+        },
+        {
+            "Message ID": 91480,
+            "discovered": "2024-11-01",
+            "post_title": "Title: LA housing authority confirms breach claimed by Cactus ransomware\n\nDate: November 01, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/la-housing-authority-confirms-breach-claimed-by-cactus-ransomware/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "LA"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/la-housing-authority-confirms-breach-claimed-by-cactus-ransomware/"
+            ]
+        },
+        {
+            "Message ID": 91479,
+            "discovered": "2024-11-01",
+            "post_title": "Title: OpenAI's new ChatGPT Search Chrome extension feels like a search hijacker\n\nDate: November 01, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/openais-new-chatgpt-search-chrome-extension-feels-like-a-search-hijacker/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/openais-new-chatgpt-search-chrome-extension-feels-like-a-search-hijacker/"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
