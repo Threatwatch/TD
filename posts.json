@@ -12183,6 +12183,20 @@
                 "Turkiye"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5299,
+            "discovered": "2024-11-01",
+            "post_title": "The attack against Daily Star, A Prominent Pro Indian Media Portal of Bangladesh has been initiated by Sylhet Gang-SG\n\nIt is down at the moment \nCheckhost:- https://check-host.net/check-report/1fd7cae8k31a\n\nThere is no place for Awami league and Indian Backed Media's in Bangladesh \n\nCredz:- K3V1N_M1TN1CK",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Bangladesh",
+                "Awami",
+                "Bangladesh"
+            ],
+            "URLs": [
+                "https://check-host.net/check-report/1fd7cae8k31a"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
@@ -55570,6 +55584,30 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-0106"
+            ]
+        },
+        {
+            "Message ID": 91357,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-7424\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-7424\n\nDescription: The Multiple Page Generator Plugin – MPG plugin for WordPress is vulnerable to unauthorized modification of and access to data due to a missing capability check on several functions in all versions up to, and including, 4.0.1. This makes it possible for authenticated attackers, with Subscriber-level access and above, to invoke those functions intended for admin use resulting in subscribers being able to upload csv files and view the contents of MPG projects.\n\nPublication Date: Fri Nov 01 11:09:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7424"
+            ]
+        },
+        {
+            "Message ID": 91356,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-9655\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9655\n\nDescription: The Gutenberg Blocks with AI by Kadence WP – Page Builder Features plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's Icon widget in all versions up to, and including, 6.6.2 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Fri Nov 01 11:09:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9655"
             ]
         }
     ],
