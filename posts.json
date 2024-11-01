@@ -6337,6 +6337,44 @@
             "URLs": [
                 "ttps://darkwebinformer.com/poc-for-cve-2024-51378-cyberpanel-command-injection-vulnerability/"
             ]
+        },
+        {
+            "Message ID": 6254,
+            "discovered": "2024-11-01",
+            "post_title": "🚨A Threat Actor Has Allegedly Leaked the Webstresser[.]cc Source Code\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-webstresser-cc-source-code/\n\nA threat actor claims to have leaked the source code associated with webstresser.cc, a DDoS attack service. The leaked data reportedly includes all Layer 4 and Layer 7 attack methods, lists of proxies and user agents, complete SQL databases, the unmodified web source code, and all server IP addresses.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-webstresser-cc-source-code/\n",
+                "ebstresser.cc,"
+            ]
+        },
+        {
+            "Message ID": 6253,
+            "discovered": "2024-11-01",
+            "post_title": "🚨🇮🇩A Threat Actor Has Allegedly Leaked Data of Indian Architects\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-indian-architects/\n\nA threat actor alleges to have leaked data from 5,876 architects in India. The exposed information reportedly includes names, email addresses, physical addresses, and phone numbers.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-indian-architects/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6252,
+            "discovered": "2024-11-01",
+            "post_title": "🚨🇮🇩Hiken Allegedly Has Leaked Data of KSP Jaya Abadi\n\nhttps://darkwebinformer.com/hiken-allegedly-has-leaked-data-of-ksp-jaya-abadi/\n\nA threat actor claims to have leaked data from Koperasi Simpan Pinjam (KSP) Jaya Abadi, a cooperative financial institution based in Kebumen, Indonesia. The compromised data reportedly includes personal information such as names, addresses, national ID numbers, gender, occupations, and other details.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Kebumen",
+                "Indonesia"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/hiken-allegedly-has-leaked-data-of-ksp-jaya-abadi/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -30439,6 +30477,31 @@
             "URLs": [
                 "w.mltmua.com, ",
                 "somfeed.it/index.php?page=post_details&id_post=18329"
+            ]
+        },
+        {
+            "Message ID": 4010,
+            "discovered": "2024-11-01",
+            "post_title": "ID: 18333\n⚠ Fri, 01 Nov 2024 09:44:17 UTC\n🥷 spacebears\n🎯 MENZIES CNAC (Jardine Aviation Services), Hong Kongbr\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18333",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Hong Kongbr"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18333"
+            ]
+        },
+        {
+            "Message ID": 4009,
+            "discovered": "2024-11-01",
+            "post_title": "ID: 18332\n⚠ Fri, 01 Nov 2024 13:02:24 UTC\n🥷 ransomhouse\n🎯 Sabesp, Brazil\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18332",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Brazil",
+                "ransomfeed.it/index.php?page=post_details&id_post=18332"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18332"
             ]
         }
     ],
@@ -56194,6 +56257,54 @@
             "URLs": [
                 "Dstat.cc",
                 "https://www.bleepingcomputer.com/news/security/ddos-site-dstatcc-seized-and-two-suspects-arrested-in-germany/"
+            ]
+        },
+        {
+            "Message ID": 91393,
+            "discovered": "2024-11-01",
+            "post_title": "Title: CISO Top 10 Priorities for Q3 2024: Navigating Cybersecurity's Evolving Challenges\n\nDate: November 1, 2024\n\nSource: https://www.scworld.com/perspective/ciso-top-10-priorities-for-q3-2024-navigating-cybersecuritys-evolving-challenges\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/perspective/ciso-top-10-priorities-for-q3-2024-navigating-cybersecuritys-evolving-challenges"
+            ]
+        },
+        {
+            "Message ID": 91392,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10656\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10656\n\nDescription: A vulnerability was found in Tongda OA 2017 up to 11.9. It has been rated as critical. This issue affects some unknown processing of the file /pda/meeting/apply.php. The manipulation of the argument mr_id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Nov 01 18:25:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10656"
+            ]
+        },
+        {
+            "Message ID": 91391,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-48289\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48289\n\nDescription: An issue in the Bluetooth Low Energy implementation of Cypress Bluetooth SDK v3.66 allows attackers to cause a Denial of Service (DoS) via supplying a crafted LL_PAUSE_ENC_REQ packet.\n\nPublication Date: Fri Nov 01 18:25:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "LL_PAUSE_ENC_REQ"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48289"
+            ]
+        },
+        {
+            "Message ID": 91390,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-28715\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-28715\n\nDescription: Cross Site Scripting vulnerability in DOraCMS v.2.18 and before allows a remote attacker to execute arbitrary code via the markdown0 function in the /app/public/apidoc/oas3/wrap-components/markdown.jsx endpoint.\n\nPublication Date: Fri Nov 01 18:25:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-28715"
             ]
         }
     ],
