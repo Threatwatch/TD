@@ -55727,6 +55727,42 @@
             "URLs": [
                 "https://thehackernews.com/2024/11/massive-git-config-breach-exposes-15000.html"
             ]
+        },
+        {
+            "Message ID": 91366,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10651\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10651\n\nDescription: IDExpert from CHANGING Information Technology does not properly validate a specific parameter in the administrator interface, allowing remote attackers with administrator privileges to exploit this vulnerability to read arbitrary system files.\n\nPublication Date: Fri Nov 01 14:07:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10651"
+            ]
+        },
+        {
+            "Message ID": 91365,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10652\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10652\n\nDescription: IDExpert from CHANGING Information Technology does not properly validate a parameter for a specific functionality, allowing unauthenticated remote attackers to inject JavsScript code and perform Reflected Cross-site scripting attacks.\n\nPublication Date: Fri Nov 01 14:07:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10652"
+            ]
+        },
+        {
+            "Message ID": 91364,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-10653\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10653\n\nDescription: IDExpert from CHANGING Information Technology does not properly validate a specific parameter in the administrator interface, allowing remote attackers with administrative privileges to inject and execute OS commands on the server.\n\nPublication Date: Fri Nov 01 14:07:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10653"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
