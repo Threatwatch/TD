@@ -6280,6 +6280,29 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6248,
+            "discovered": "2024-11-01",
+            "post_title": "I'm curious to know how this supply chain attack started :)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6247,
+            "discovered": "2024-11-01",
+            "post_title": "🚨🇵🇪A Threat Actor Allegedly Leaked Data of Entel Perú\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-entel-peru/\n\nA threat actor alleges to have leaked data from Entel Perú, a telecommunications provider headquartered in Lima, Peru. The exposed data reportedly includes 4,398,070 records containing names and phone numbers.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Lima",
+                "Peru"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-entel-peru/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -55968,6 +55991,124 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10655"
+            ]
+        },
+        {
+            "Message ID": 91385,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: Sabesp\n\nDetection Date: Fri Nov 01 17:39:56 2024\n\nThreat Actor: ransomhouse\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91384,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Microsoft Recall launch postponed anew\n\nDate: November 1, 2024\n\nSource: https://www.scworld.com/brief/microsoft-recall-launch-postponed-anew\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/microsoft-recall-launch-postponed-anew"
+            ]
+        },
+        {
+            "Message ID": 91383,
+            "discovered": "2024-11-01",
+            "post_title": "Title: About 87K compromised in Mystic Valley Elder Services breach\n\nDate: November 1, 2024\n\nSource: https://www.scworld.com/brief/about-87k-compromised-in-mystic-valley-elder-services-breach\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/about-87k-compromised-in-mystic-valley-elder-services-breach"
+            ]
+        },
+        {
+            "Message ID": 91382,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Tougher export controls for US tech sought\n\nDate: November 1, 2024\n\nSource: https://www.scworld.com/brief/tougher-export-controls-for-us-tech-sought\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/tougher-export-controls-for-us-tech-sought"
+            ]
+        },
+        {
+            "Message ID": 91381,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Serious WordPress compromise likely with LiteSpeed Cache plugin bug\n\nDate: November 1, 2024\n\nSource: https://www.scworld.com/brief/serious-wordpress-compromise-likely-with-litespeed-cache-plugin-bug\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/serious-wordpress-compromise-likely-with-litespeed-cache-plugin-bug"
+            ]
+        },
+        {
+            "Message ID": 91380,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Active exploitation of PTZOptics zero-days underway\n\nDate: November 1, 2024\n\nSource: https://www.scworld.com/brief/active-exploitation-of-ptzoptics-zero-days-underway\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/active-exploitation-of-ptzoptics-zero-days-underway"
+            ]
+        },
+        {
+            "Message ID": 91379,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Supply chain attack compromises LottieFiles npm package with crypto drainer\n\nDate: November 1, 2024\n\nSource: https://www.scworld.com/brief/supply-chain-attack-compromises-lottiefiles-npm-package-with-crypto-drainer\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/supply-chain-attack-compromises-lottiefiles-npm-package-with-crypto-drainer"
+            ]
+        },
+        {
+            "Message ID": 91378,
+            "discovered": "2024-11-01",
+            "post_title": "Title: New attack techniques utilized by Iranian cyber group Emennet Pasargad\n\nDate: November 1, 2024\n\nSource: https://www.scworld.com/brief/new-attack-techniques-utilized-by-iranian-cyber-group-emennet-pasargad\n\n#News #Iran",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Iran"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/new-attack-techniques-utilized-by-iranian-cyber-group-emennet-pasargad"
+            ]
+        },
+        {
+            "Message ID": 91377,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Novel Xiū gǒu phishing kit has global reach\n\nDate: November 1, 2024\n\nSource: https://www.scworld.com/brief/novel-xiu-gou-phishing-kit-has-global-reach\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/novel-xiu-gou-phishing-kit-has-global-reach"
+            ]
+        },
+        {
+            "Message ID": 91376,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Inside Iran's Cyber Playbook: AI, Fake Hosting, and Psychological Warfare\n\nDate: Nov 01, 2024\n\nSource: https://thehackernews.com/2024/11/inside-irans-cyber-playbook-ai-fake.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Iran"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/inside-irans-cyber-playbook-ai-fake.html"
             ]
         }
     ],
