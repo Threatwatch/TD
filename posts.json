@@ -6375,6 +6375,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/hiken-allegedly-has-leaked-data-of-ksp-jaya-abadi/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6255,
+            "discovered": "2024-11-01",
+            "post_title": "🚨🇺🇸mommy is Allegedly Selling Unauthorized Access to Pinger\n\nhttps://darkwebinformer.com/mommy-is-allegedly-selling-unauthorized-access-to-pinger/\n\nA threat actor claims to be selling unauthorized root access to the firewall server of Pinger, a U.S.-based telecom provider that offers free texting, picture messaging, calls, and voicemail services.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/mommy-is-allegedly-selling-unauthorized-access-to-pinger/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -56305,6 +56317,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-28715"
+            ]
+        },
+        {
+            "Message ID": 91394,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-21066\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21066\n\nDescription: Vulnerability in the RDBMS component of Oracle Database Server.  Supported versions that are affected are 19.3-19.22 and  21.3-21.13. Easily exploitable vulnerability allows high privileged attacker having Authenticated User privilege with logon to the infrastructure where RDBMS executes to compromise RDBMS.  Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all RDBMS accessible data. CVSS 3.1 Base Score 4.2 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:H/UI:R/S:U/C:H/I:N/A:N).\n\nPublication Date: Fri Nov 01 18:37:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21066"
             ]
         }
     ],
