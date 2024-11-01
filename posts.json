@@ -12173,6 +12173,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5298,
+            "discovered": "2024-11-01",
+            "post_title": "The grand Welcome of Hafiz Muaz Mahmud\n\nWho achieved First position in International Hifzul Quran Competition hosted by Turkiye",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Turkiye"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -55548,6 +55558,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-0105"
+            ]
+        },
+        {
+            "Message ID": 91355,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-0106\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-0106\n\nDescription: NVIDIA ConnectX Host Firmware for the BlueField Data Processing Unit (DPU) contains a vulnerability where an attacker may cause an improper handling of insufficient privileges issue. A successful exploit of this vulnerability may lead to denial of service, data tampering, and limited information disclosure.\n\nPublication Date: Fri Nov 01 10:03:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-0106"
             ]
         }
     ],
