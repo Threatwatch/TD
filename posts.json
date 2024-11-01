@@ -6522,6 +6522,19 @@
             "URLs": [
                 "ps://darkwebinformer.com/ransomhub-ransomware-has-claimed-hellenic-open-university-as-a-victimransomhub-ransomware-has-claimed-hellenic-open-university-as-a-victim/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6267,
+            "discovered": "2024-11-01",
+            "post_title": "💡I always thought Threat Profiles were good to look at, so I'm doing my first. Gradually it will look nicer and nicer but I put this together in a couple hours.\n\nhttps://darkwebinformer.com/ransomhub-ransomware-profile/\n\nThreat Profile: RansomHub Ransomware\n\nI created a Threat Profiles category in Resources. https://darkwebinformer.com/tag/resources/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/ransomhub-ransomware-profile/\n",
+                "ttps://darkwebinformer.com/tag/resources/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -57436,6 +57449,198 @@
             ],
             "URLs": [
                 "https://eclypsium.com/events/getting-the-gist-of-cjis-5-9-5/"
+            ]
+        },
+        {
+            "Message ID": 91478,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Stop Supply Chain Invaders\n\nDate: November 1, 2024\n\nSource: https://eclypsium.com/videos/stop-supply-chain-invaders/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://eclypsium.com/videos/stop-supply-chain-invaders/"
+            ]
+        },
+        {
+            "Message ID": 91477,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Microsoft Edge security advisory (AV24-626)\n\nDate: November 1, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-626\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av24-626"
+            ]
+        },
+        {
+            "Message ID": 91476,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-38774\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38774\n\nDescription: Missing Authorization vulnerability in SiteGround SiteGround Security allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects SiteGround Security: from n/a through 1.5.0.\n\nPublication Date: Fri Nov 01 23:03:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38774"
+            ]
+        },
+        {
+            "Message ID": 91475,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-43981\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43981\n\nDescription: Missing Authorization vulnerability in AyeCode – WP Business Directory Plugins GeoDirectory allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects GeoDirectory: from n/a through 2.3.70.\n\nPublication Date: Fri Nov 01 23:03:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43981"
+            ]
+        },
+        {
+            "Message ID": 91474,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-43157\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43157\n\nDescription: Missing Authorization vulnerability in nCrafts FormCraft allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects FormCraft: from n/a through 1.2.10.\n\nPublication Date: Fri Nov 01 23:03:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43157"
+            ]
+        },
+        {
+            "Message ID": 91473,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-38777\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38777\n\nDescription: Missing Authorization vulnerability in CreativeMotion Titan Anti-spam & Security allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Titan Anti-spam & Security: from n/a through 7.3.6.\n\nPublication Date: Fri Nov 01 23:02:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38777"
+            ]
+        },
+        {
+            "Message ID": 91472,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-43208\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43208\n\nDescription: Missing Authorization vulnerability in Miller Media ( Matt Miller ) Send Emails with Mandrill allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Send Emails with Mandrill: from n/a through 1.4.1.\n\nPublication Date: Fri Nov 01 23:02:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43208"
+            ]
+        },
+        {
+            "Message ID": 91471,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-26330\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-26330\n\nDescription: An issue was discovered in Kape CyberGhostVPN 8.4.3.12823 on Windows. After a successful logout, user credentials remain in memory while the process is still open, and can be obtained by dumping the process memory and parsing it.\n\nPublication Date: Fri Nov 01 23:02:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-26330"
+            ]
+        },
+        {
+            "Message ID": 91470,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-28061\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-28061\n\nDescription: An issue was discovered in Apiris Kafeo 6.4.4. It permits a bypass, of the protection in place, to access to the data stored in the embedded database file.\n\nPublication Date: Fri Nov 01 23:02:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-28061"
+            ]
+        },
+        {
+            "Message ID": 91469,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-43974\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43974\n\nDescription: Missing Authorization vulnerability in CozyThemes ReviveNews allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects ReviveNews: from n/a through 1.0.2.\n\nPublication Date: Fri Nov 01 23:02:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43974"
+            ]
+        },
+        {
+            "Message ID": 91468,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-43979\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43979\n\nDescription: Missing Authorization vulnerability in CozyThemes Blockbooster allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Blockbooster: from n/a through 1.0.10.\n\nPublication Date: Fri Nov 01 23:02:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Blockbooster"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43979"
+            ]
+        },
+        {
+            "Message ID": 91467,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-43980\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43980\n\nDescription: Missing Authorization vulnerability in CozyThemes Fota WP allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Fota WP: from n/a through 1.4.1.\n\nPublication Date: Fri Nov 01 23:01:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Fota"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43980"
+            ]
+        },
+        {
+            "Message ID": 91466,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-43162\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43162\n\nDescription: Missing Authorization vulnerability in Easy Digital Downloads allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Easy Digital Downloads: from n/a through 3.2.12.\n\nPublication Date: Fri Nov 01 23:01:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43162"
+            ]
+        },
+        {
+            "Message ID": 91465,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-43982\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43982\n\nDescription: Missing Authorization vulnerability in Geek Code Lab Login As Users allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Login As Users: from n/a through 1.4.3.\n\nPublication Date: Fri Nov 01 23:01:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43982"
+            ]
+        },
+        {
+            "Message ID": 91464,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-43215\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43215\n\nDescription: Missing Authorization vulnerability in creativemotion Social Slider Feed allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Social Slider Feed: from n/a through 2.2.2.\n\nPublication Date: Fri Nov 01 23:01:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43215"
+            ]
+        },
+        {
+            "Message ID": 91463,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-23260\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-23260\n\nDescription: This issue was addressed by removing additional entitlements. This issue is fixed in macOS Sonoma 14.4. An app may be able to access user-sensitive data.\n\nPublication Date: Fri Nov 01 23:01:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-23260"
             ]
         }
     ],
