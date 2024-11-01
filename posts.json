@@ -55817,6 +55817,30 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10654"
             ]
+        },
+        {
+            "Message ID": 91370,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-7456\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-7456\n\nDescription: A SQL injection vulnerability exists in the `/api/v1/external-users` route of lunary-ai/lunary version v1.4.2. The `order by` clause of the SQL query uses `sql.unsafe` without prior sanitization, allowing for SQL injection. The `orderByClause` variable is constructed without server-side validation or sanitization, enabling an attacker to execute arbitrary SQL commands. Successful exploitation can lead to complete data loss, modification, or corruption.\n\nPublication Date: Fri Nov 01 16:09:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7456"
+            ]
+        },
+        {
+            "Message ID": 91369,
+            "discovered": "2024-11-01",
+            "post_title": "Victim: lsst.ac\n\nDetection Date: Fri Nov 01 15:46:35 2024\n\nThreat Actor: cactus\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "lsst.ac"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
