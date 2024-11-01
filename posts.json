@@ -6498,6 +6498,18 @@
             "URLs": [
                 "https://dev.hososuckhoe.net"
             ]
+        },
+        {
+            "Message ID": 6265,
+            "discovered": "2024-11-01",
+            "post_title": "https://github.com/cisagov/dotgov-data should be useful to some of you",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/cisagov/dotgov-data"
+            ]
         }
     ],
     "RipperSec | 团队": [
