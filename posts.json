@@ -6510,6 +6510,18 @@
             "URLs": [
                 "https://github.com/cisagov/dotgov-data"
             ]
+        },
+        {
+            "Message ID": 6266,
+            "discovered": "2024-11-01",
+            "post_title": "🚨🇬🇷RansomHub Ransomware Has Claimed Hellenic Open University as a Victim\n\nhttps://darkwebinformer.com/ransomhub-ransomware-has-claimed-hellenic-open-university-as-a-victimransomhub-ransomware-has-claimed-hellenic-open-university-as-a-victim/\n\nA group claims to have acquired 813 GB of the organization's data and plans to release it within 9 to 10 days.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/ransomhub-ransomware-has-claimed-hellenic-open-university-as-a-victimransomhub-ransomware-has-claimed-hellenic-open-university-as-a-victim/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -30733,6 +30745,57 @@
             ],
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18332"
+            ]
+        },
+        {
+            "Message ID": 4014,
+            "discovered": "2024-11-01",
+            "post_title": "ID: 18338\n⚠ Fri, 01 Nov 2024 13:37:36 UTC\n🥷 rhysida\n🎯 Hope Valley Recovery, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18338",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18338"
+            ]
+        },
+        {
+            "Message ID": 4013,
+            "discovered": "2024-11-01",
+            "post_title": "ID: 18337\n⚠ Fri, 01 Nov 2024 13:24:10 UTC\n🥷 cactus\n🎯 lsst.ac, UK\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18337",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "st.ac, ",
+                "somfeed.it/index.php?page=post_details&id_post=18337"
+            ]
+        },
+        {
+            "Message ID": 4012,
+            "discovered": "2024-11-01",
+            "post_title": "ID: 18335\n⚠ Fri, 01 Nov 2024 17:04:35 UTC\n🥷 lockbit3\n🎯 mirandaproduce.com.ve, Venezuela\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18335",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Venezuela"
+            ],
+            "URLs": [
+                "randaproduce.com.ve, ",
+                "somfeed.it/index.php?page=post_details&id_post=18335"
+            ]
+        },
+        {
+            "Message ID": 4011,
+            "discovered": "2024-11-01",
+            "post_title": "ID: 18334\n⚠ Fri, 01 Nov 2024 17:04:36 UTC\n🥷 lockbit3\n🎯 vikurverk.is, Iceland\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18334",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Iceland"
+            ],
+            "URLs": [
+                "kurverk.is, ",
+                "somfeed.it/index.php?page=post_details&id_post=18334"
             ]
         }
     ],
@@ -57090,6 +57153,213 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/lastpass-warns-of-fake-support-centers-trying-to-steal-customer-data/"
+            ]
+        },
+        {
+            "Message ID": 91456,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Why Supply Chain Security Demands Focus on Hardware\n\nDate: November 1, 2024\n\nSource: https://eclypsium.com/whitepapers/why-supply-chain-security-demands-focus-on-hardware/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://eclypsium.com/whitepapers/why-supply-chain-security-demands-focus-on-hardware/"
+            ]
+        },
+        {
+            "Message ID": 91455,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Russia produced fake video of immigrant election fraud in Georgia, officials say\n\nDate: November 1, 2024\n\nSource: https://www.nextgov.com/cybersecurity/2024/11/russia-produced-fake-video-immigrant-election-fraud-georgia-officials-say/400756/\n\n#News #Russia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Russia",
+                "Georgia",
+                "Russia"
+            ],
+            "URLs": [
+                "https://www.nextgov.com/cybersecurity/2024/11/russia-produced-fake-video-immigrant-election-fraud-georgia-officials-say/400756/"
+            ]
+        },
+        {
+            "Message ID": 91454,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-38743\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38743\n\nDescription: Access Control vulnerability in Upqode Plum: Spin Wheel & Email Pop-up allows .\n\nThis issue affects Plum: Spin Wheel & Email Pop-up: from n/a through 2.0.\n\nPublication Date: Fri Nov 01 22:07:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38743"
+            ]
+        },
+        {
+            "Message ID": 91453,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-37926\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37926\n\nDescription: Missing Authorization vulnerability in Alex Volkov WP Accessibility Helper (WAH) allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects WP Accessibility Helper (WAH): from n/a through 0.6.2.9.\n\nPublication Date: Fri Nov 01 22:07:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "WP"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37926",
+                "0.6.2.9"
+            ]
+        },
+        {
+            "Message ID": 91452,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-38737\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38737\n\nDescription: Missing Authorization vulnerability in Reservation Diary ReDi Restaurant Reservation allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects ReDi Restaurant Reservation: from n/a through 24.0422.\n\nPublication Date: Fri Nov 01 22:07:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38737"
+            ]
+        },
+        {
+            "Message ID": 91451,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-38733\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38733\n\nDescription: Missing Authorization vulnerability in Meks Meks Video Importer allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Meks Video Importer: from n/a through 1.0.12.\n\nPublication Date: Fri Nov 01 22:07:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38733"
+            ]
+        },
+        {
+            "Message ID": 91450,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-39625\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-39625\n\nDescription: Missing Authorization vulnerability in icegram Icegram allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Icegram: from n/a through 3.1.24.\n\nPublication Date: Fri Nov 01 22:07:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-39625"
+            ]
+        },
+        {
+            "Message ID": 91449,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-39640\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-39640\n\nDescription: Missing Authorization vulnerability in QuadLayers WP Social Feed Gallery allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects WP Social Feed Gallery: from n/a through 4.3.9.\n\nPublication Date: Fri Nov 01 22:07:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-39640"
+            ]
+        },
+        {
+            "Message ID": 91448,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-38690\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38690\n\nDescription: Missing Authorization vulnerability in Avirtum iPanorama 360 WordPress Virtual Tour Builder allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects iPanorama 360 WordPress Virtual Tour Builder: from n/a through 1.8.3.\n\nPublication Date: Fri Nov 01 22:06:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Avirtum"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38690"
+            ]
+        },
+        {
+            "Message ID": 91447,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-44573\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44573\n\nDescription: A stored cross-site scripting (XSS) vulnerability in the VLAN configuration of RELY-PCIe v22.2.1 to v23.1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.\n\nPublication Date: Fri Nov 01 22:06:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44573"
+            ]
+        },
+        {
+            "Message ID": 91446,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-33941\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-33941\n\nDescription: Missing Authorization vulnerability in Avirtum iPanorama 360 WordPress Virtual Tour Builder.This issue affects iPanorama 360 WordPress Virtual Tour Builder: from n/a through 1.8.1.\n\nPublication Date: Fri Nov 01 22:06:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Avirtum"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-33941"
+            ]
+        },
+        {
+            "Message ID": 91445,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-27282\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-27282\n\nDescription: An issue was discovered in Ruby 3.x through 3.3.0. If attacker-supplied data is provided to the Ruby regex compiler, it is possible to extract arbitrary heap data relative to the start of the text, including pointers and sensitive strings. The fixed versions are 3.0.7, 3.1.5, 3.2.4, and 3.3.1.\n\nPublication Date: Fri Nov 01 22:06:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27282"
+            ]
+        },
+        {
+            "Message ID": 91444,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-38702\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38702\n\nDescription: Missing Authorization vulnerability in Tyche Softwares Product Delivery Date for WooCommerce – Lite allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Product Delivery Date for WooCommerce – Lite: from n/a through 2.7.2.\n\nPublication Date: Fri Nov 01 22:06:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Tyche"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38702"
+            ]
+        },
+        {
+            "Message ID": 91443,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-38707\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38707\n\nDescription: Missing Authorization vulnerability in WPDeveloper EmbedPress allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects EmbedPress: from n/a through 4.0.4.\n\nPublication Date: Fri Nov 01 22:05:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38707"
+            ]
+        },
+        {
+            "Message ID": 91442,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-23558\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-23558\n\nDescription: HCL DevOps Deploy / HCL Launch does not invalidate session after logout which could allow an authenticated user to impersonate another user on the system.\n\nPublication Date: Fri Nov 01 22:05:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-23558"
+            ]
+        },
+        {
+            "Message ID": 91441,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-49400\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49400\n\nDescription: Tacquito prior to commit 07b49d1358e6ec0b5aa482fcd284f509191119e2 was not properly performing regex matches on authorized commands and arguments. Configured allowed commands/arguments were intended to require a match on the entire string, but instead only enforced a match on a sub-string. That would have potentially allowed unauthorized commands to be executed.\n\nPublication Date: Fri Nov 01 22:05:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49400"
+            ]
+        },
+        {
+            "Message ID": 91440,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-20989\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20989\n\nDescription: Vulnerability in the Oracle Hospitality Simphony product of Oracle Food and Beverage Applications (component: Simphony POS).  Supported versions that are affected are 19.1.0-19.5.4. Difficult to exploit vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Hospitality Simphony.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle Hospitality Simphony accessible data as well as  unauthorized update, insert or delete access to some of Oracle Hospitality Simphony accessible data and unauthorized ability to cause a partial denial of service (partial DOS) of Oracle Hospitality Simphony. CVSS 3.1 Base Score 7.0 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:L/A:L).\n\nPublication Date: Fri Nov 01 22:05:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20989"
             ]
         }
     ],
