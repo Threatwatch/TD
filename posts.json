@@ -6223,6 +6223,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6242,
+            "discovered": "2024-11-01",
+            "post_title": "Will Peru get a day off today?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Peru"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -55840,6 +55850,19 @@
             ],
             "URLs": [
                 "lsst.ac"
+            ]
+        },
+        {
+            "Message ID": 91371,
+            "discovered": "2024-11-01",
+            "post_title": "Target: https://mirzapurpourashava.gov.bd\n\nNotified: 0xEv1lS0UL\n\nDate: Fri, 01 Nov 2024 13:11:55 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41294185\n\n#Defacements #Bangladesh",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://mirzapurpourashava.gov.bd",
+                "http://www.zone-h.org/mirror/id/41294185"
             ]
         }
     ],
