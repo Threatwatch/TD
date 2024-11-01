@@ -6548,6 +6548,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/gatito_fbi_nz-has-allegedly-leaked-data-of-sinidot/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6269,
+            "discovered": "2024-11-01",
+            "post_title": "🚨🇺🇸dbsector Allegedly Leaked Scraped Data of Twitter/X\n\nhttps://darkwebinformer.com/dbsector-allegedly-leaked-scraped-data-of-twitter-x/\n\nThe threat actor claims to have leaked data from X, which reportedly includes 1,000,000 rows containing details such as names, emails, creation dates, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/dbsector-allegedly-leaked-scraped-data-of-twitter-x/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -57986,6 +57998,42 @@
             ],
             "URLs": [
                 "https://cybersecurity.att.com/blogs/labs-research/ngioweb-remains-active-7-years-later"
+            ]
+        },
+        {
+            "Message ID": 91497,
+            "discovered": "2024-11-01",
+            "post_title": "Title: Dario Amodei’s Vision: A Hopeful Future ‘Through AI’s Loving Grace,’ Is Like a Breath of Fresh Air\n\nDate: November 1, 2024\n\nSource: https://e-discoveryteam.com/2024/11/01/dario-amodeis-vision-a-hopeful-future-through-ais-loving-grace-is-like-a-breath-of-fresh-air/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://e-discoveryteam.com/2024/11/01/dario-amodeis-vision-a-hopeful-future-through-ais-loving-grace-is-like-a-breath-of-fresh-air/"
+            ]
+        },
+        {
+            "Message ID": 91496,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-37879\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37879\n\nDescription: Improper input validation in /admin/config/save in User-friendly SVN (USVN) before v1.0.12 and below allows administrators to execute arbitrary code via the fields \"siteTitle\", \"siteIco\" and \"siteLogo\".\n\nPublication Date: Sat Nov 02 01:07:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "USVN"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37879"
+            ]
+        },
+        {
+            "Message ID": 91495,
+            "discovered": "2024-11-01",
+            "post_title": "CVE-ID: CVE-2024-9191\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9191\n\nDescription: The Okta Device Access features, provided by the Okta Verify agent for Windows, provides access to the OktaDeviceAccessPipe, which enables attackers in a compromised device to retrieve passwords associated with Desktop MFA passwordless logins. The vulnerability was discovered via routine penetration testing.\n\nNote: A precondition of this vulnerability is that the user must be using the Okta Device Access passwordless feature. Okta Device Access users not using passwordless are not affected, and customers only using Okta Verify on platforms other than Windows, or only using FastPass are not affected.\n\nPublication Date: Sat Nov 02 01:07:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9191"
             ]
         }
     ],
