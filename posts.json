@@ -6233,6 +6233,31 @@
                 "Peru"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6244,
+            "discovered": "2024-11-01",
+            "post_title": "🚨🚨🇮🇱A Threat Actor is Allegedly Selling Data of Israeli Air Force\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-israeli-air-force/\n\nA threat actor claims to be offering for sale data linked to the Israeli Air Force, containing detailed records about both current and former pilots and personnel. The purported data includes information such as ranks, roles, service history, and training qualifications. Reports indicate that the leaked data spans multiple airbases, including Haifa, Hatzor, Ovda, Nevatim, Ramat David, Ramón, Tel Nof, Sdot Micha, as well as details pertaining to a special forces unit.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Haifa",
+                "Hatzor"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-israeli-air-force/\n\nA "
+            ]
+        },
+        {
+            "Message ID": 6243,
+            "discovered": "2024-11-01",
+            "post_title": "🚨🚨🚨🇮🇱henrymans0n Has Allegedly Breached Various Government and Educational Domains in Israel\n\nhttps://darkwebinformer.com/henrymans0n-has-allegedly-breached-various-government-and-educational-domains-in-israel/\n\nA threat actor has claimed responsibility for compromising Israeli servers, targeting multiple government and educational domains, including those of the Ministry of Defense, Ministry of Education, and the national government information portal. According to reports, the leaked data comprises sensitive personal details such as full names, addresses, phone numbers, social security numbers, email addresses, and passport information. The breach is said to contain 167 XLS/XLSX files and a collection of PDF documents, with the primary database purportedly exceeding 500GB.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "://darkwebinformer.com/henrymans0n-has-allegedly-breached-various-government-and-educational-domains-in-israel/\n\nA t"
+            ]
         }
     ],
     "RipperSec | 团队": [
