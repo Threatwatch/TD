@@ -58866,6 +58866,19 @@
                 "pdfid.py",
                 "https://blog.didierstevens.com/2024/11/02/update-pdfid-py-version-0-2-9/"
             ]
+        },
+        {
+            "Message ID": 91529,
+            "discovered": "2024-11-02",
+            "post_title": "Title: Update: pdf-parser.py Version 0.7.10\n\nDate: November 2, 2024\n\nSource: https://blog.didierstevens.com/2024/11/02/update-pdf-parser-py-version-0-7-10/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "pdf-parser.py",
+                "https://blog.didierstevens.com/2024/11/02/update-pdf-parser-py-version-0-7-10/"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
