@@ -59256,6 +59256,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10698"
             ]
+        },
+        {
+            "Message ID": 91538,
+            "discovered": "2024-11-02",
+            "post_title": "CVE-ID: CVE-2024-10699\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10699\n\nDescription: A vulnerability was found in code-projects Wazifa System 1.0. It has been classified as critical. This affects an unknown part of the file /controllers/logincontrol.php. The manipulation of the argument username leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sat Nov 02 18:03:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10699"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
