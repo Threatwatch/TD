@@ -6942,6 +6942,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6305,
+            "discovered": "2024-11-02",
+            "post_title": "🚨🇦🇷A Threat Actor Has Allegedly Leaked Data of Ministry of Health of Argentina\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-ministry-of-health-of-argentina/\n\nThe threat actor alleges they have leaked a 40 GB database belonging to the Ministry of Health of Argentina. The exposed data purportedly includes records from all provinces, invoices, social welfare documents, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-ministry-of-health-of-argentina/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6304,
+            "discovered": "2024-11-02",
+            "post_title": "🚨🇺🇸doZKey is Allegedly Selling RDWeb Domain Admin Access to an Unidentified US Organization\n\nhttps://darkwebinformer.com/dozkey-is-allegedly-selling-rdweb-domain-admin-access-to-an-unidentified-us-organization/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/dozkey-is-allegedly-selling-rdweb-domain-admin-access-to-an-unidentified-us-organization/"
+            ]
         }
     ],
     "RipperSec | 团队": [
