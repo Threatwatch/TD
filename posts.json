@@ -15239,6 +15239,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1773,
+            "discovered": "2024-11-02",
+            "post_title": "NEPALI WEBSITE \n\nhttps://pradhanengineering.com.np/\n\n\nHACKED BY BEE",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://pradhanengineering.com.np/"
+            ]
         }
     ],
     "Esteem Restoration Eagle": [
@@ -27615,6 +27627,18 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3450,
+            "discovered": "2024-11-02",
+            "post_title": "Group: blacksuit\nApprox. Time: 12:33 02/11/24\nTitle: https://t.co/FFxydlzU8q",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/FFxydlzU8q"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -59053,6 +59077,18 @@
             "URLs": [
                 "ANY.RUN",
                 "https://any.run/cybersecurity-blog/how-to-analyze-malicious-network-traffic/"
+            ]
+        },
+        {
+            "Message ID": 91534,
+            "discovered": "2024-11-02",
+            "post_title": "Victim: Sumitomo \n              srigroup.co.za\n\nDetection Date: Sat Nov 02 15:45:18 2024\n\nThreat Actor: killsec3\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "srigroup.co.za"
             ]
         }
     ],
