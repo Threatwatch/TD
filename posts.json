@@ -6831,6 +6831,45 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-anomoz-softwares/\n"
             ]
+        },
+        {
+            "Message ID": 6295,
+            "discovered": "2024-11-02",
+            "post_title": "🚨🇺🇸A Threat Actor is Allegedly Selling Data of CETDIGIT\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-cetdigit/\n\nA threat actor claims to be selling data from CETDIGIT, a Delaware-based provider of turnkey solutions for Salesforce and HubSpot. The compromised data reportedly includes 1.3 million records containing names, email addresses, phone numbers, addresses, ZIP codes, and more.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CETDIGIT",
+                "Delaware"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-cetdigit/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6294,
+            "discovered": "2024-11-02",
+            "post_title": "🚨🇧🇩A Threat Actor is Allegedly Selling the Database of BRAC\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-brac/\n\nA threat actor claims to be selling the database of BRAC, a prominent NGO based in Bangladesh. The alleged data reportedly includes passwords, loan details, and phone numbers.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Bangladesh"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-brac/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6293,
+            "discovered": "2024-11-02",
+            "post_title": "🚨🇺🇸A Threat Actor is Allegedly Selling 18 Million Lines from Vizocare\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-18-million-lines-from-vizocare/\n\nA threat actor claims to be selling data from Vizocare, a prominent provider of personal protection and disinfection equipment in the US. The compromised data is said to include 18 million records, containing details such as IDs, email addresses, source IDs, tokens, and more.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Vizocare",
+                "Vizocare",
+                "US"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-18-million-lines-from-vizocare/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -27710,6 +27749,26 @@
             "URLs": [
                 "https://t.co/FFxydlzU8q"
             ]
+        },
+        {
+            "Message ID": 3452,
+            "discovered": "2024-11-02",
+            "post_title": "Group: qilin\nApprox. Time: 14:38 02/11/24\nTitle: Imprimerie Peau",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3451,
+            "discovered": "2024-11-02",
+            "post_title": "Group: bianlian\nApprox. Time: 14:38 02/11/24\nTitle: B Transport, L.L.C.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
