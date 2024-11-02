@@ -12882,6 +12882,16 @@
             "URLs": [
                 "ttps://www.shva.co.il/\n"
             ]
+        },
+        {
+            "Message ID": 5307,
+            "discovered": "2024-11-02",
+            "post_title": "Well, It was previously believed that Dhaka was Founded by Mughal Subedar Islam Khan.\nBut the recent Archaeological excavation unveiled that Glazed and Rolled Pottery Dates back to 5th and 2nd century BCE. It points Human Habitation in Dhaka 2500 years ago ☠",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Dhaka"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -59089,6 +59099,18 @@
             ],
             "URLs": [
                 "srigroup.co.za"
+            ]
+        },
+        {
+            "Message ID": 91535,
+            "discovered": "2024-11-02",
+            "post_title": "CVE-ID: CVE-2024-10697\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10697\n\nDescription: A vulnerability has been found in Tenda AC6 15.03.05.19 and classified as critical. Affected by this vulnerability is the function formWriteFacMac of the file /goform/WriteFacMac of the component API Endpoint. The manipulation of the argument The leads to command injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sat Nov 02 16:09:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Tenda"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10697"
             ]
         }
     ],
