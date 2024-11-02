@@ -6882,6 +6882,16 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-panel-access-of-dell-eu-internal-logistics/\n"
             ]
+        },
+        {
+            "Message ID": 6297,
+            "discovered": "2024-11-02",
+            "post_title": "💡The Real Time Status Page that monitors the 400+ different Clearnet and Dark Web Onions will be transitioned to another server that has better hardware. \n\nThe page will be up and down for a couple hours. Hoping this resolves the issue with Onion sites not responding  for no reason.\n\nAssuming everything goes well and things are stable, the Threat Feeds and other things maintained on the current server will be moved next week.\n\nThe website is not affected by this change.\n\nWill update once the page is back up and running.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
