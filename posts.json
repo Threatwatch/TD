@@ -6807,6 +6807,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-grand-traverse-dems/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6292,
+            "discovered": "2024-11-02",
+            "post_title": "🚨🇪🇪A Threat Actor is Allegedly Selling Data of Football Ticket Net\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-football-ticket-net/\n\nA threat actor claims to be selling data from Football Ticket Net, a private platform for purchasing and reselling tickets to high-demand football matches. The compromised data reportedly consists of 851,377 records, including IDs, names, email addresses, phone numbers, physical addresses, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "🇪"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-football-ticket-net/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6291,
+            "discovered": "2024-11-02",
+            "post_title": "🚨A Threat Actor is Allegedly Selling Data of Anomoz Softwares\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-anomoz-softwares/\n\nA threat actor claims to be selling data from Anomoz Softwares, a cloud-based CRM and ERP solutions provider based in Pakistan. The compromised data reportedly includes 200,000 lines of information containing IDs, names, company details, email addresses, phone numbers, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Pakistan"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-anomoz-softwares/\n"
+            ]
         }
     ],
     "RipperSec | 团队": [
