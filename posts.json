@@ -59112,6 +59112,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10697"
             ]
+        },
+        {
+            "Message ID": 91536,
+            "discovered": "2024-11-02",
+            "post_title": "Title: Qpdf: Extracting PDF Streams, (Sat, Nov 2nd)\n\nDate: November 2, 2024\n\nSource: https://isc.sans.edu/diary/rss/31406\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/diary/rss/31406"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
