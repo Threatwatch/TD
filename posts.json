@@ -12768,6 +12768,16 @@
             "URLs": [
                 "https://check-host.net/check-report/1fdec8e0k73d"
             ]
+        },
+        {
+            "Message ID": 5301,
+            "discovered": "2024-11-02",
+            "post_title": "Those who are expert in Exploiting Cve's\nContact :- @musab_63",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -58878,6 +58888,19 @@
             "URLs": [
                 "pdf-parser.py",
                 "https://blog.didierstevens.com/2024/11/02/update-pdf-parser-py-version-0-7-10/"
+            ]
+        },
+        {
+            "Message ID": 91530,
+            "discovered": "2024-11-02",
+            "post_title": "Title: Update: xmldump.py Version 0.0.9\n\nDate: November 2, 2024\n\nSource: https://blog.didierstevens.com/2024/11/02/update-xmldump-py-version-0-0-9/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "xmldump.py",
+                "https://blog.didierstevens.com/2024/11/02/update-xmldump-py-version-0-0-9/"
             ]
         }
     ],
