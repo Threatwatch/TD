@@ -58841,6 +58841,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-45656"
             ]
+        },
+        {
+            "Message ID": 91527,
+            "discovered": "2024-11-02",
+            "post_title": "CVE-ID: CVE-2024-51774\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51774\n\nDescription: qBittorrent before 5.0.1 proceeds with use of https URLs even after certificate validation errors.\n\nPublication Date: Sat Nov 02 10:00:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51774"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
