@@ -6770,6 +6770,43 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6290,
+            "discovered": "2024-11-02",
+            "post_title": "🚨🇦🇹A Threat Actor Allegedly Has Leaked Data of Regiocheck\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-data-of-regiocheck/\n\nA threat actor claims to be selling data from Regiocheck, reportedly comprising information on 1.4 million individuals. The compromised data is said to include details such as IDs, names, addresses, ZIP codes, cities, emails, bank information, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-data-of-regiocheck/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6289,
+            "discovered": "2024-11-02",
+            "post_title": "🚨🇵🇱A Threat Actor Has Allegedly Leaked Data of iloclassb[.]net\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-iloclassb-net/\n\nThe threat actor claims to have leaked the website's database.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-iloclassb-net/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6288,
+            "discovered": "2024-11-02",
+            "post_title": "🚨🇺🇸A Threat Actor has Allegedly Leaked Data of Grand Traverse Dems\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-grand-traverse-dems/\n\nA threat actor alleges they have released data from the Grand Traverse Democrats, a Democratic political organization based in Michigan, USA.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Michigan",
+                "USA"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-grand-traverse-dems/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -59123,6 +59160,18 @@
             ],
             "URLs": [
                 "https://isc.sans.edu/diary/rss/31406"
+            ]
+        },
+        {
+            "Message ID": 91537,
+            "discovered": "2024-11-02",
+            "post_title": "CVE-ID: CVE-2024-10698\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10698\n\nDescription: A vulnerability was found in Tenda AC6 15.03.05.19 and classified as critical. Affected by this issue is the function formSetDeviceName of the file /goform/SetOnlineDevName. The manipulation of the argument devName leads to stack-based buffer overflow. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sat Nov 02 17:06:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Tenda"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10698"
             ]
         }
     ],
