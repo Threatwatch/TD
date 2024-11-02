@@ -6870,6 +6870,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-18-million-lines-from-vizocare/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6296,
+            "discovered": "2024-11-02",
+            "post_title": "🚨A Threat Actor is Allegedly Selling Panel Access of Dell EU Internal Logistics\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-panel-access-of-dell-eu-internal-logistics/\n\nA threat actor is offering to sell panel access to Dell EU Internal Logistics. The leaked data reportedly includes service tags, shipment details, customer information, and other logistics-related data accessible through this panel.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-panel-access-of-dell-eu-internal-logistics/\n"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -59267,6 +59279,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10699"
+            ]
+        },
+        {
+            "Message ID": 91539,
+            "discovered": "2024-11-02",
+            "post_title": "Title: Microsoft SharePoint RCE bug exploited to breach corporate network\n\nDate: November 02, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-rce-bug-exploited-to-breach-corporate-network/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-rce-bug-exploited-to-breach-corporate-network/"
             ]
         }
     ],
