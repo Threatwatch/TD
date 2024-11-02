@@ -58853,6 +58853,19 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-51774"
             ]
+        },
+        {
+            "Message ID": 91528,
+            "discovered": "2024-11-02",
+            "post_title": "Title: Update: pdfid.py Version 0.2.9\n\nDate: November 2, 2024\n\nSource: https://blog.didierstevens.com/2024/11/02/update-pdfid-py-version-0-2-9/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "pdfid.py",
+                "https://blog.didierstevens.com/2024/11/02/update-pdfid-py-version-0-2-9/"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
