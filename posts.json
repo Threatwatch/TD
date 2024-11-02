@@ -6980,6 +6980,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/sukob-is-allegedly-selling-firewall-access-to-an-unidentified-telecom-company-in-china/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6308,
+            "discovered": "2024-11-02",
+            "post_title": "🚨🇫🇷A Threat Actor is Allegedly Selling Data of Orange S.A.\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-orange-s-a/\n\nThe threat actor alleges they are selling a database from Orange S.A., a prominent French telecommunications company, containing data on approximately 4.2 million customers. The compromised information, approximately 8 GB in size and in TXT format, reportedly includes sensitive personal details such as names, contact information, addresses, account details, and records of offers. Notably, bank information, including IBAN numbers, is included for 2.1 million of these records.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-orange-s-a/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6307,
+            "discovered": "2024-11-02",
+            "post_title": "🚨🇦🇷A Threat Actor has Allegdly Leaked Data of Hospital Nacional Profesor Alejandro Posadas\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegdly-leaked-data-of-hospital-nacional-profesor-alejandro-posadas/\n\nThe threat actor claims to have leaked data from Hospital Nacional Profesor Alejandro Posadas. The leaked information reportedly includes 19,000 records, featuring photos of ID cards, PAMI cards, prescriptions, and various other databases.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegdly-leaked-data-of-hospital-nacional-profesor-alejandro-posadas/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
