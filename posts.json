@@ -11166,6 +11166,56 @@
                 "الاسلامية"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 7139,
+            "discovered": "2024-11-02",
+            "post_title": "U can provide",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 7138,
+            "discovered": "2024-11-02",
+            "post_title": "I need a Israel number to nid card info",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 7137,
+            "discovered": "2024-11-02",
+            "post_title": "I need account",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 7136,
+            "discovered": "2024-11-02",
+            "post_title": "Assalamualaikum",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 7135,
+            "discovered": "2024-11-02",
+            "post_title": "Hello",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -58901,6 +58951,18 @@
             "URLs": [
                 "xmldump.py",
                 "https://blog.didierstevens.com/2024/11/02/update-xmldump-py-version-0-0-9/"
+            ]
+        },
+        {
+            "Message ID": 91531,
+            "discovered": "2024-11-02",
+            "post_title": "CVE-ID: CVE-2024-9896\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9896\n\nDescription: The BBP Core – Expand bbPress powered forums with useful features plugin for WordPress is vulnerable to Reflected Cross-Site Scripting due to the use of add_query_arg without appropriate escaping on the URL in all versions up to, and including, 1.2.5. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.\n\nPublication Date: Sat Nov 02 11:09:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9896"
             ]
         }
     ],
