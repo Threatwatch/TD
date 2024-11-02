@@ -6966,6 +6966,20 @@
             "URLs": [
                 "ps://darkwebinformer.com/dozkey-is-allegedly-selling-rdweb-domain-admin-access-to-an-unidentified-us-organization/"
             ]
+        },
+        {
+            "Message ID": 6306,
+            "discovered": "2024-11-02",
+            "post_title": "🚨🇨🇳Sukob is Allegedly Selling Firewall Access to an Unidentified Telecom Company in China\n\nhttps://darkwebinformer.com/sukob-is-allegedly-selling-firewall-access-to-an-unidentified-telecom-company-in-china/\n\nThe threat actor is offering to sell firewall access, including root privileges and SSH keys, for an unidentified telecommunications company based in China or Taiwan. This company reportedly has an annual revenue of $7 billion.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "China",
+                "China",
+                "Taiwan"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/sukob-is-allegedly-selling-firewall-access-to-an-unidentified-telecom-company-in-china/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
