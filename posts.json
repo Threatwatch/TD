@@ -58828,6 +58828,19 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9868"
             ]
+        },
+        {
+            "Message ID": 91526,
+            "discovered": "2024-11-02",
+            "post_title": "CVE-ID: CVE-2024-45656\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45656\n\nDescription: IBM Flexible Service Processor (FSP) FW860.00 through FW860.B3, FW950.00 through FW950.C0, FW1030.00 through FW1030.61, FW1050.00 through FW1050.21, and FW1060.00 through FW1060.10 has static credentials which may allow network users to gain service privileges to the FSP.\n\nPublication Date: Sat Nov 02 08:01:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "FW1050.00",
+                "FSP"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45656"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
