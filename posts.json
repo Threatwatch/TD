@@ -6892,6 +6892,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6298,
+            "discovered": "2024-11-02",
+            "post_title": "⚠️Most top Darknet Markets are down at the moment. It appears to be a DDoS.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -33335,6 +33345,126 @@
             "Attack Type": "Unknown",
             "Location": [
                 "anuenterprise[.]com[.]au"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2839,
+            "discovered": "2024-11-02",
+            "post_title": "Victim: Sumitomo srigroupcoza\nAttacker: KillSec3\nDisclosure Date: 02.11.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2838,
+            "discovered": "2024-11-02",
+            "post_title": "Victim: SVP Worldwide\nAttacker: Black Suit\nDisclosure Date: 02.11.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2837,
+            "discovered": "2024-11-02",
+            "post_title": "Victim: www[.]usm[.]cl\nAttacker: RansomHub\nDisclosure Date: 02.11.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2836,
+            "discovered": "2024-11-02",
+            "post_title": "Victim: www[.]ua4rent[.]com\nAttacker: RansomHub\nDisclosure Date: 02.11.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2835,
+            "discovered": "2024-11-02",
+            "post_title": "Victim: www[.]tigre[.]gob[.]ar\nAttacker: RansomHub\nDisclosure Date: 02.11.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2834,
+            "discovered": "2024-11-02",
+            "post_title": "Victim: www[.]tetco-group[.]com\nAttacker: RansomHub\nDisclosure Date: 02.11.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2833,
+            "discovered": "2024-11-02",
+            "post_title": "Victim: www[.]sym-global[.]com\nAttacker: RansomHub\nDisclosure Date: 02.11.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2832,
+            "discovered": "2024-11-02",
+            "post_title": "Victim: www[.]rosito-bisani[.]com\nAttacker: RansomHub\nDisclosure Date: 02.11.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2831,
+            "discovered": "2024-11-02",
+            "post_title": "Victim: www[.]fatboysfleetandauto[.]com\nAttacker: RansomHub\nDisclosure Date: 02.11.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2830,
+            "discovered": "2024-11-02",
+            "post_title": "Victim: lobe[.]com\nAttacker: RansomHub\nDisclosure Date: 02.11.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2829,
+            "discovered": "2024-11-02",
+            "post_title": "Victim: lighthouseelectric[.]com\nAttacker: RansomHub\nDisclosure Date: 02.11.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2828,
+            "discovered": "2024-11-02",
+            "post_title": "Victim: bravodigitaltrader[.]co[.]uk\nAttacker: RansomHub\nDisclosure Date: 02.11.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
