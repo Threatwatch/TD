@@ -6570,6 +6570,196 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6286,
+            "discovered": "2024-11-02",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6285,
+            "discovered": "2024-11-02",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6284,
+            "discovered": "2024-11-02",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6283,
+            "discovered": "2024-11-02",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6282,
+            "discovered": "2024-11-02",
+            "post_title": "or if you're too lazy like i am sometimes",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6281,
+            "discovered": "2024-11-02",
+            "post_title": "https://x.com/DarkWebInformer/status/1852522992405774371",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1852522992405774371"
+            ]
+        },
+        {
+            "Message ID": 6280,
+            "discovered": "2024-11-02",
+            "post_title": "RDP: 89.187.25.192:5985\nMySQL: 89.187.25.192:3306",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "89.187.25.192:5985",
+                "89.187.25.192:3306"
+            ]
+        },
+        {
+            "Message ID": 6279,
+            "discovered": "2024-11-02",
+            "post_title": "🚨Ailurophile Stealer\n\nhxxp://89.187.25.192/login",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6278,
+            "discovered": "2024-11-02",
+            "post_title": "bingo",
+            "Attack Type": "Unknown",
+            "Location": [
+                "bingo"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6277,
+            "discovered": "2024-11-02",
+            "post_title": "http://111.90.148.191:3000/auth/login",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://111.90.148.191:3000/auth/login"
+            ]
+        },
+        {
+            "Message ID": 6276,
+            "discovered": "2024-11-02",
+            "post_title": "https://x.com/DarkWebInformer/status/1852510917713420518",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1852510917713420518"
+            ]
+        },
+        {
+            "Message ID": 6275,
+            "discovered": "2024-11-02",
+            "post_title": "Well hello there https://199.83.103.130/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://199.83.103.130/"
+            ]
+        },
+        {
+            "Message ID": 6274,
+            "discovered": "2024-11-02",
+            "post_title": "Feel free to mute your notis for the next hour or two.. i feel like looking around and sharing",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6273,
+            "discovered": "2024-11-02",
+            "post_title": "Subject:\nCountry: US\nProvince: New York\nOrganization: Stony Brook University\nCommonName: ciscovpn.stonybrookmedicine.edu\n\nhttps://129.49.7.134/+CSCOE+/logon.html#form_title_text\nhttps://ciscovpn.stonybrookmedicine.edu/+CSCOE+/logon.html#form_title_text\n\nciscovpn.stonybrookmedicine.edu\nciscovpn-in-active.uhmc.sunysb.edu\nciscovpn-in-standby.uhmc.sunysb.edu\nciscovpn.uhmc.sunysb.edu\nipsecvpn-in-active.uhmc.sunysb.edu\nipsecvpn-in-standby.uhmc.sunysb.edu\nipsecvpn.stonybrookmedicine.edu\nipsecvpn.uhmc.sunysb.edu",
+            "Attack Type": "Unknown",
+            "Location": [
+                "US",
+                "Province",
+                "New York"
+            ],
+            "URLs": [
+                "ciscovpn.stonybrookmedicine.edu",
+                "https://129.49.7.134/+CSCOE+/logon.html#form_title_text",
+                "https://ciscovpn.stonybrookmedicine.edu/+CSCOE+/logon.html#form_title_text",
+                "ciscovpn.stonybrookmedicine.edu",
+                "ciscovpn-in-active.uhmc.sunysb.edu",
+                "ciscovpn-in-standby.uhmc.sunysb.edu",
+                "ciscovpn.uhmc.sunysb.edu",
+                "ipsecvpn-in-active.uhmc.sunysb.edu",
+                "ipsecvpn-in-standby.uhmc.sunysb.edu",
+                "ipsecvpn.stonybrookmedicine.edu",
+                "ipsecvpn.uhmc.sunysb.edu"
+            ]
+        },
+        {
+            "Message ID": 6272,
+            "discovered": "2024-11-02",
+            "post_title": "Synology Device: https://81.10.181.169:34354/ // https://christof-cloud.at:34354/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://81.10.181.169:34354/",
+                "https://christof-cloud.at:34354/"
+            ]
+        },
+        {
+            "Message ID": 6271,
+            "discovered": "2024-11-02",
+            "post_title": "💡Daily Dose of Dark Web Informer - November 1st, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-november-1st-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-november-1st-2024/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -58391,6 +58581,18 @@
             ],
             "URLs": [
                 "www.sym-global.com"
+            ]
+        },
+        {
+            "Message ID": 91521,
+            "discovered": "2024-11-02",
+            "post_title": "Title: Mickey Mouse operation hacked by former employee\n\nDate: November 2, 2024\n\nSource: https://www.scworld.com/news/mickey-mouse-operation-hacked-by-former-employee\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/mickey-mouse-operation-hacked-by-former-employee"
             ]
         }
     ],
