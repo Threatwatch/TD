@@ -13014,6 +13014,31 @@
                 "Dhaka"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5309,
+            "discovered": "2024-11-02",
+            "post_title": "We call on Egyptians to\nThrow Rocks or anything heavy you get\nAt the israeli corvettes and warships that pass through suez canal",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5308,
+            "discovered": "2024-11-02",
+            "post_title": "CAIRO AIRPORT has been taken down by Cyberattack from Sylhet gang-sg \n\nThis is because the Egyptian government cooperates with Israel and allows it to cross with shipments of weapons that kill our brothers in Palestine, and even protects it during transit\ntarget: \nhttps://www.cairo-airport.com/ar-eg/\n\n\ncheck: \nhttps://check-host.net/check-report/1fe2f65fkea9\n\nused: @vulcanc2\n\n#F07xD01xCaplo\n\n#SYLHETGANG_SG\n\n#Op_israel",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel",
+                "Palestine",
+                "F07xD01xCaplo"
+            ],
+            "URLs": [
+                "https://www.cairo-airport.com/ar-eg/",
+                "https://check-host.net/check-report/1fe2f65fkea9"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
@@ -15382,6 +15407,20 @@
             ],
             "URLs": [
                 "https://pradhanengineering.com.np/"
+            ]
+        },
+        {
+            "Message ID": 1774,
+            "discovered": "2024-11-02",
+            "post_title": "NEPALI WEBSITE \n\n\nhttps://www.siddhivinayakmetal.com.np/\n\nhttps://www.midhadental.com.np/index.php?page=notice_details\n\nhttps://www.gkmacl.com.np/home/\n\n\nHACKED BY BEE",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.siddhivinayakmetal.com.np/",
+                "https://www.midhadental.com.np/index.php?page=notice_details",
+                "https://www.gkmacl.com.np/home/"
             ]
         }
     ],
@@ -59302,6 +59341,26 @@
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-rce-bug-exploited-to-breach-corporate-network/"
             ]
+        },
+        {
+            "Message ID": 91541,
+            "discovered": "2024-11-02",
+            "post_title": "Victim: Imprimerie Peau\n\nDetection Date: Sat Nov 02 19:13:44 2024\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91540,
+            "discovered": "2024-11-02",
+            "post_title": "Victim: SVP Worldwide\n\nDetection Date: Sat Nov 02 19:13:30 2024\n\nThreat Actor: black suit\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": [
