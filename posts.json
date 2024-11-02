@@ -59041,6 +59041,19 @@
                 "strings.py",
                 "https://blog.didierstevens.com/2024/11/02/update-strings-py-version-0-0-10/"
             ]
+        },
+        {
+            "Message ID": 91533,
+            "discovered": "2024-11-02",
+            "post_title": "Title: How to Capture, Decrypt, and Analyze Malicious Network Traffic with ANY.RUN\n\nDate: November 2, 2024\n\nSource: https://any.run/cybersecurity-blog/how-to-analyze-malicious-network-traffic/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ANY.RUN",
+                "https://any.run/cybersecurity-blog/how-to-analyze-malicious-network-traffic/"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
