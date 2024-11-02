@@ -59420,6 +59420,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10700"
             ]
+        },
+        {
+            "Message ID": 91543,
+            "discovered": "2024-11-02",
+            "post_title": "CVE-ID: CVE-2024-10701\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10701\n\nDescription: A vulnerability was found in PHPGurukul Car Rental Portal 1.0. It has been rated as problematic. This issue affects some unknown processing of the file /search.php. The manipulation of the argument searchdata leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sat Nov 02 21:10:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10701"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
