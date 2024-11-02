@@ -27865,6 +27865,18 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3453,
+            "discovered": "2024-11-02",
+            "post_title": "Group: ransomhub\nApprox. Time: 18:38 02/11/24\nTitle: https://t.co/i1vledVmZy",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/i1vledVmZy"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -31808,6 +31820,30 @@
             ],
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18356"
+            ]
+        },
+        {
+            "Message ID": 4034,
+            "discovered": "2024-11-02",
+            "post_title": "ID: 18358\n⚠ Sat, 02 Nov 2024 14:07:40 UTC\n🥷 blacksuit\n🎯 SVP Worldwide, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18358",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18358"
+            ]
+        },
+        {
+            "Message ID": 4033,
+            "discovered": "2024-11-02",
+            "post_title": "ID: 18357\n⚠ Sat, 02 Nov 2024 17:05:33 UTC\n🥷 qilin\n🎯 Imprimerie Peau, France\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18357",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18357"
             ]
         }
     ],
