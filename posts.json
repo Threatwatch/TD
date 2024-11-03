@@ -7198,6 +7198,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-penitentiary-service-of-the-province-of-misiones/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6329,
+            "discovered": "2024-11-03",
+            "post_title": "🚨🇦🇷A Threat Actor Has Allegedly Leaked Data of Ministry of Health San Juan and Neuquén\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-ministry-of-health-san-juan-and-neuquen/\n\nThe threat actor claims to have leaked data from the Ministry of Health of the Argentine provinces of San Juan and Neuquén, reportedly containing personal information on around 1.7 million individuals. The exposed data allegedly includes family phone numbers, addresses, and other sensitive personal details.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "San Juan"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-ministry-of-health-san-juan-and-neuquen/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6328,
+            "discovered": "2024-11-03",
+            "post_title": "🚨🇦🇷A Threat Actor Allegedly Leaked Data of Ministry of Foreign Affairs, International Trade and Worship of Argentina\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-ministry-of-foreign-affairs-international-trade-and-worship-of-argentina/\n\nThe threat actor claims to have leaked data from the Ministry of Foreign Affairs, International Trade, and Worship of Argentina (MINISTERIO DE RELACIONES EXTERIORES Y CULTO), reportedly comprising 29,069 records. The breach is said to include an extensive signature database from the official domain cancilleria[.gob[.ar, encompassing records from various agencies, legal representatives, hospitals, and other public institutions.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-ministry-of-foreign-affairs-international-trade-and-worship-of-argentina/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
