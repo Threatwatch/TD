@@ -17927,6 +17927,28 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1986,
+            "discovered": "2024-11-03",
+            "post_title": "Nepal Government Website Hacked By Esteem Restoration Eagle \n\nCountry : Nepal 🇳🇵\n\nSite : https://haxor.id/archive/mirror/210838\n\n#EstemRestorationEagle\n#AnonymousBangladesh",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://haxor.id/archive/mirror/210838\n\n"
+            ]
+        },
+        {
+            "Message ID": 1985,
+            "discovered": "2024-11-03",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SERVER KILLERS": [
@@ -32845,6 +32867,18 @@
             ],
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18364"
+            ]
+        },
+        {
+            "Message ID": 4037,
+            "discovered": "2024-11-03",
+            "post_title": "ID: 18365\n⚠ Sun, 03 Nov 2024 15:20:29 UTC\n🥷 handala\n🎯 Elad municipality, Israel\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18365",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18365"
             ]
         }
     ],
