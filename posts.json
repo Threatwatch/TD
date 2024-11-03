@@ -34192,6 +34192,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 2841,
+            "discovered": "2024-11-03",
+            "post_title": "Victim: Hemubo\nAttacker: Hunters\nDisclosure Date: 03.11.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 2840,
+            "discovered": "2024-11-03",
+            "post_title": "Victim: Elad municipality Hacked\nAttacker: Handala\nDisclosure Date: 03.11.2024  \nLeak Data Information: Company Information \n#ransomware",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Cyberthint's Dark Monitor": [
