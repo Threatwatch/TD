@@ -7186,6 +7186,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6327,
+            "discovered": "2024-11-03",
+            "post_title": "🚨🇦🇷A Threat Actor has Allegedly Leaked Data of Penitentiary Service of the Province of Misiones\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-penitentiary-service-of-the-province-of-misiones/\n\nThe threat actor alleges they are selling data from the Servicio Penitenciario De La Provincia De Misiones (Penitentiary Service of the Province of Misiones), reportedly containing 17,668 records. The leaked data is said to include sensitive information about prisoners, along with their photographs.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-penitentiary-service-of-the-province-of-misiones/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
