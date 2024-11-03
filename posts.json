@@ -7276,6 +7276,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6336,
+            "discovered": "2024-11-03",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6335,
+            "discovered": "2024-11-03",
+            "post_title": "we're fucked",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -60817,6 +60837,126 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10737"
+            ]
+        },
+        {
+            "Message ID": 91578,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-10738\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10738\n\nDescription: A vulnerability classified as critical was found in itsourcecode Farm Management System 1.0. Affected by this vulnerability is an unknown functionality of the file manage-breed.php. The manipulation of the argument breed leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Nov 03 21:04:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10738"
+            ]
+        },
+        {
+            "Message ID": 91577,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-2965\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-2965\n\nDescription: A Denial-of-Service (DoS) vulnerability exists in the `SitemapLoader` class of the `langchain-ai/langchain` repository, affecting all versions. The `parse_sitemap` method, responsible for parsing sitemaps and extracting URLs, lacks a mechanism to prevent infinite recursion when a sitemap URL refers to the current sitemap itself. This oversight allows for the possibility of an infinite loop, leading to a crash by exceeding the maximum recursion depth in Python. This vulnerability can be exploited to occupy server socket/port resources and crash the Python process, impacting the availability of services relying on this functionality.\n\nPublication Date: Sun Nov 03 21:03:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Python"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-2965"
+            ]
+        },
+        {
+            "Message ID": 91576,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-3102\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-3102\n\nDescription: A JSON Injection vulnerability exists in the `mintplex-labs/anything-llm` application, specifically within the username parameter during the login process at the `/api/request-token` endpoint. The vulnerability arises from improper handling of values, allowing attackers to perform brute force attacks without prior knowledge of the username. Once the password is known, attackers can conduct blind attacks to ascertain the full username, significantly compromising system security.\n\nPublication Date: Sun Nov 03 21:03:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-3102"
+            ]
+        },
+        {
+            "Message ID": 91575,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-4888\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-4888\n\nDescription: BerriAI's litellm, in its latest version, is vulnerable to arbitrary file deletion due to improper input validation on the `/audio/transcriptions` endpoint. An attacker can exploit this vulnerability by sending a specially crafted request that includes a file path to the server, which then deletes the specified file without proper authorization or validation. This vulnerability is present in the code where `os.remove(file.filename)` is used to delete a file, allowing any user to delete critical files on the server such as SSH keys, SQLite databases, or configuration files.\n\nPublication Date: Sun Nov 03 21:03:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-4888"
+            ]
+        },
+        {
+            "Message ID": 91574,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-5127\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-5127\n\nDescription: In lunary-ai/lunary versions 1.2.2 through 1.2.25, an improper access control vulnerability allows users on the Free plan to invite other members and assign them any role, including those intended for Paid and Enterprise plans only. This issue arises due to insufficient backend validation of roles and permissions, enabling unauthorized users to join a project and potentially exploit roles and permissions not intended for their use. The vulnerability specifically affects the Team feature, where the backend fails to validate whether a user has paid for a plan before allowing them to send invite links with any role assigned. This could lead to unauthorized access and manipulation of project settings or data.\n\nPublication Date: Sun Nov 03 21:03:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-5127"
+            ]
+        },
+        {
+            "Message ID": 91573,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-5128\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-5128\n\nDescription: An Insecure Direct Object Reference (IDOR) vulnerability was identified in lunary-ai/lunary, affecting versions up to and including 1.2.2. This vulnerability allows unauthorized users to view, update, or delete any dataset_prompt or dataset_prompt_variation within any dataset or project. The issue stems from improper access control checks in the dataset management endpoints, where direct references to object IDs are not adequately secured against unauthorized access. This vulnerability was fixed in version 1.2.25.\n\nPublication Date: Sun Nov 03 21:03:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-5128"
+            ]
+        },
+        {
+            "Message ID": 91572,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-5130\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-5130\n\nDescription: An Incorrect Authorization vulnerability exists in lunary-ai/lunary versions up to and including 1.2.2, which allows unauthenticated users to delete any dataset. The vulnerability is due to the lack of proper authorization checks in the dataset deletion endpoint. Specifically, the endpoint does not verify if the provided project ID belongs to the current user, thereby allowing any dataset to be deleted without proper authentication. This issue was fixed in version 1.2.8.\n\nPublication Date: Sun Nov 03 21:03:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-5130"
+            ]
+        },
+        {
+            "Message ID": 91571,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-5131\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-5131\n\nDescription: An Improper Access Control vulnerability exists in the lunary-ai/lunary repository, affecting versions up to and including 1.2.2. The vulnerability allows unauthorized users to view any prompts in any projects by supplying a specific prompt ID to an endpoint that does not adequately verify the ownership of the prompt ID. This issue was fixed in version 1.2.25.\n\nPublication Date: Sun Nov 03 21:02:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-5131"
+            ]
+        },
+        {
+            "Message ID": 91570,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-7473\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-7473\n\nDescription: An IDOR vulnerability exists in the 'Evaluations' function of the 'umgws datasets' section in lunary-ai/lunary versions 1.3.2. This vulnerability allows an authenticated user to update other users' prompts by manipulating the 'id' parameter in the request. The issue is fixed in version 1.4.3.\n\nPublication Date: Sun Nov 03 21:02:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7473"
+            ]
+        },
+        {
+            "Message ID": 91569,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-10739\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10739\n\nDescription: A vulnerability, which was classified as critical, has been found in code-projects E-Health Care System 1.0. Affected by this issue is some unknown functionality of the file /Admin/adminlogin.php. The manipulation of the argument email/admin_pswd as part of String leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory only mentions the parameter \"email\" to be affected. But it must be assumed that parameter \"admin_pswd\" is affected as well.\n\nPublication Date: Sun Nov 03 21:02:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10739"
             ]
         }
     ],
