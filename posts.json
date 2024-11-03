@@ -7222,6 +7222,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-ministry-of-foreign-affairs-international-trade-and-worship-of-argentina/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6330,
+            "discovered": "2024-11-03",
+            "post_title": "🚨🇺🇸A Threat Actor is Allegedly Selling Data from Dell Partner Users\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-from-dell-partner-users/\n\nThe threat actor claims to be selling data from Dell partner users, which allegedly includes user IDs and email addresses of about 80,000 business users, predominantly associated with corporate domain emails.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-from-dell-partner-users/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -60663,6 +60675,19 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10736"
+            ]
+        },
+        {
+            "Message ID": 91565,
+            "discovered": "2024-11-03",
+            "post_title": "Target: https://agajk.gov.pk\n\nNotified: CaptainSmok3r\n\nDate: Sun, 03 Nov 2024 15:39:36 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41294423\n\n#Defacements #Pakistan",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Pakistan"
+            ],
+            "URLs": [
+                "https://agajk.gov.pk",
+                "http://www.zone-h.org/mirror/id/41294423"
             ]
         }
     ],
