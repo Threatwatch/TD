@@ -7234,6 +7234,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-from-dell-partner-users/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6331,
+            "discovered": "2024-11-03",
+            "post_title": "🚨🇮🇱DarkRaaS is Allegedly Selling Access to Phoenix Financial\n\nhttps://darkwebinformer.com/darkraas-is-allegedly-selling-access-to-phoenix-financial/\n\nThe threat actor claims to be offering access to Phoenix Financial, providing a range of sensitive datasets for sale. These reportedly include customer databases with detailed client profiles containing personal information, financial histories, and transaction records. The access is also said to feature investment portfolios with complete data on investment strategies, holdings, and performance metrics. Additionally, the offer purportedly includes insurance policy details, such as claims history and underwriting information, along with comprehensive credit information, including credit scores, loan histories, and creditworthiness assessments.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/darkraas-is-allegedly-selling-access-to-phoenix-financial/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -13704,6 +13716,28 @@
                 "Syria"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5313,
+            "discovered": "2024-11-03",
+            "post_title": "data in JSON format",
+            "Attack Type": "Unknown",
+            "Location": [
+                "JSON"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5312,
+            "discovered": "2024-11-03",
+            "post_title": "Peep The Spy\n\nFor such a feared company, described as one of the most advanced, you'd think its employees were all geniuses. But life never ceases to amaze!\n\nTake a look to our investigation on employees from NSO Group, the Israeli firm that created Pegasus Spyware:\nhttps://rentry.co/nsogroup\n\nGhostSec Stand With Palestine 🇵🇸🇵🇸",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://rentry.co/nsogroup"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
@@ -60688,6 +60722,38 @@
             "URLs": [
                 "https://agajk.gov.pk",
                 "http://www.zone-h.org/mirror/id/41294423"
+            ]
+        },
+        {
+            "Message ID": 91568,
+            "discovered": "2024-11-03",
+            "post_title": "Victim: Elad municipality Hacked\n\nDetection Date: Sun Nov 03 19:27:43 2024\n\nThreat Actor: handala\n\n#Ransomware",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91567,
+            "discovered": "2024-11-03",
+            "post_title": "Victim: The Law Offices of Jed Silverman\n\nDetection Date: Sun Nov 03 19:27:27 2024\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91566,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-10737\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10737\n\nDescription: A vulnerability classified as critical has been found in Codezips Free Exam Hall Seating Management System 1.0. Affected is an unknown function of the file /teacher.php. The manipulation of the argument email leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Nov 03 19:06:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10737"
             ]
         }
     ],
