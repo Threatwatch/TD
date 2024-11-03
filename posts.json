@@ -60355,6 +60355,56 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10730"
             ]
+        },
+        {
+            "Message ID": 91554,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-10731\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10731\n\nDescription: A vulnerability, which was classified as critical, was found in Tongda OA up to 11.10. Affected is an unknown function of the file /pda/appcenter/check_seal.php. The manipulation of the argument ID leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Nov 03 14:05:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10731"
+            ]
+        },
+        {
+            "Message ID": 91553,
+            "discovered": "2024-11-03",
+            "post_title": "Title: Sinisterly - 170K Bitcoin.com email:pass\n\nDetection Date: Sun Nov 03 14:04:31 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-Leak-170K-Bitcoin-com-email-pass\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "Bitcoin.com",
+                "https://sinister.ly/Thread-Leak-170K-Bitcoin-com-email-pass"
+            ]
+        },
+        {
+            "Message ID": 91552,
+            "discovered": "2024-11-03",
+            "post_title": "Title: Sinisterly - Doge.defi email:password list (70K)\n\nDetection Date: Sun Nov 03 14:04:19 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-Leak-Doge-defi-email-password-list-70K\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-Leak-Doge-defi-email-password-list-70K"
+            ]
+        },
+        {
+            "Message ID": 91551,
+            "discovered": "2024-11-03",
+            "post_title": "Title: Sinisterly - Binance.com 50K users leak\n\nDetection Date: Sun Nov 03 14:04:06 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-Leak-Binance-com-50K-users-leak\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "Binance.com",
+                "https://sinister.ly/Thread-Leak-Binance-com-50K-users-leak"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
