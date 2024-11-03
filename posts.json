@@ -7328,6 +7328,57 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6344,
+            "discovered": "2024-11-03",
+            "post_title": "⚠️It's a little flawed in my eyes that if you are talking to someone on Dread through private messages that if messages get disabled for the user at any point, you no longer see that conversation with that person.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6343,
+            "discovered": "2024-11-03",
+            "post_title": "so what's that 6 in Argentina in 24 hours and like 9 in Peru within 48 hours. weirdest chain supply attack ever IF it is one.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Argentina",
+                "Peru"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6342,
+            "discovered": "2024-11-03",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6341,
+            "discovered": "2024-11-03",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6340,
+            "discovered": "2024-11-03",
+            "post_title": "🚨🚨🚨🇦🇷rufusdomando has Allegedly Leaked Multiple Telecommunication Companies and a Government Administration",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -13840,6 +13891,19 @@
                 "اعمالنا"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5317,
+            "discovered": "2024-11-03",
+            "post_title": "Turkish Armed Forces Foundation is Down by cyberattack of Sylhet gang \n\ntarger: \nhttps://www.tskgv.org.tr/\n\n\ncheck: \nhttps://check-host.net/check-report/1fecf547k7d5\n\nused: vulcanC2\n\n#SYLHETGANG_SG \n#op_turkey",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.tskgv.org.tr/",
+                "https://check-host.net/check-report/1fecf547k7d5"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
@@ -32931,6 +32995,43 @@
             ],
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18365"
+            ]
+        },
+        {
+            "Message ID": 4040,
+            "discovered": "2024-11-03",
+            "post_title": "ID: 18368\n⚠ Sun, 03 Nov 2024 17:16:05 UTC\n🥷 hunters\n🎯 Hemubo, Netherlands\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18368",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Netherlands"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18368"
+            ]
+        },
+        {
+            "Message ID": 4039,
+            "discovered": "2024-11-03",
+            "post_title": "ID: 18367\n⚠ Sun, 03 Nov 2024 06:39:02 UTC\n🥷 bianlian\n🎯 Russell Law Firm, LLC, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18367",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18367"
+            ]
+        },
+        {
+            "Message ID": 4038,
+            "discovered": "2024-11-03",
+            "post_title": "ID: 18366\n⚠ Sun, 03 Nov 2024 06:35:01 UTC\n🥷 bianlian\n🎯 L  AND  B Transport, L.L.C., USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18366",
+            "Attack Type": "Unknown",
+            "Location": [
+                "L.L.C.",
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18366"
             ]
         }
     ],
@@ -61163,6 +61264,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 91584,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-10742\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10742\n\nDescription: A vulnerability was found in code-projects Wazifa System 1.0 and classified as critical. This issue affects some unknown processing of the file /controllers/control.php. The manipulation of the argument to leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Nov 04 01:06:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10742"
+            ]
+        },
+        {
+            "Message ID": 91583,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-10743\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10743\n\nDescription: A vulnerability was found in PHPGurukul Online Shopping Portal 2.0. It has been classified as problematic. Affected is an unknown function of the file /shopping/admin/assets/plugins/DataTables/examples/examples_support/editable_ajax.php. The manipulation of the argument value leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Nov 04 01:05:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10743"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
