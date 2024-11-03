@@ -7256,6 +7256,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6333,
+            "discovered": "2024-11-03",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -32729,6 +32739,19 @@
             "URLs": [
                 "avodigitaltrader.co.uk, ",
                 "somfeed.it/index.php?page=post_details&id_post=18359"
+            ]
+        },
+        {
+            "Message ID": 4036,
+            "discovered": "2024-11-03",
+            "post_title": "ID: 18364\n⚠ Sun, 03 Nov 2024 12:17:52 UTC\n🥷 qilin\n🎯 The Law Offices of Jed Silverman, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18364",
+            "Attack Type": "Unknown",
+            "Location": [
+                "qilin",
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18364"
             ]
         }
     ],
