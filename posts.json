@@ -17643,6 +17643,29 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1970,
+            "discovered": "2024-11-03",
+            "post_title": "Hacked By Esteem Restoration Eagle\n\nCountry : Israel \n\nSite : https://v-school.co.il/\n\nMirror : https://haxor.id/archive/mirror/210794\n\n#EsteemRestorationEagle\n#OpIsrael",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "https://v-school.co.il/",
+                "https://haxor.id/archive/mirror/210794"
+            ]
+        },
+        {
+            "Message ID": 1969,
+            "discovered": "2024-11-03",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SERVER KILLERS": [
