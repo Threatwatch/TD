@@ -16007,6 +16007,23 @@
                 "https://www.midhadental.com.np/index.php?page=notice_details",
                 "https://www.gkmacl.com.np/home/"
             ]
+        },
+        {
+            "Message ID": 1777,
+            "discovered": "2024-11-03",
+            "post_title": "NEPALI WEBSITE \n\n\nhttps://shyamlalandsons.com.np/\n\nhttps://www.laxmiceramics.com.np/\n\nhttps://krishnablocksandtile.com.np\n\nhttps://kitchentrading.com.np/\n\nhttps://antarikchya.org.np/\n\nhttp://www.shripurraj.org.np/home/\n\nHACKED BY BEE",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://shyamlalandsons.com.np/",
+                "https://www.laxmiceramics.com.np/",
+                "https://krishnablocksandtile.com.np",
+                "https://kitchentrading.com.np/",
+                "https://antarikchya.org.np/",
+                "http://www.shripurraj.org.np/home/"
+            ]
         }
     ],
     "Esteem Restoration Eagle": [
@@ -17670,6 +17687,16 @@
         },
         {
             "Message ID": 1969,
+            "discovered": "2024-11-03",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1972,
             "discovered": "2024-11-03",
             "post_title": "",
             "Attack Type": "Unknown",
