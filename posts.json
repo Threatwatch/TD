@@ -7004,6 +7004,76 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-allegdly-leaked-data-of-hospital-nacional-profesor-alejandro-posadas/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6315,
+            "discovered": "2024-11-03",
+            "post_title": "🚨It's been a while.. but I don't think this is a SOPHOS login\n\nhxxps://102.117.160.175/userportal/webpages/myaccount/login.jsp",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6314,
+            "discovered": "2024-11-03",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6313,
+            "discovered": "2024-11-03",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6312,
+            "discovered": "2024-11-03",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6311,
+            "discovered": "2024-11-03",
+            "post_title": "🚨Query Panel\n\nhxxp://154.216.18.171/login.php",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6310,
+            "discovered": "2024-11-03",
+            "post_title": "🚨Universe 1.0; This appears to be spyware by the Telegram name, but seems to be a dead project.\n\nhxxp://157.66.197.221/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6309,
+            "discovered": "2024-11-03",
+            "post_title": "🚨Agony 1.5\n\nhxxp://154.216.20.57/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -28289,6 +28359,16 @@
             "URLs": [
                 "https://t.co/i1vledVmZy"
             ]
+        },
+        {
+            "Message ID": 3454,
+            "discovered": "2024-11-03",
+            "post_title": "Group: bianlian\nApprox. Time: 00:36 03/11/24\nTitle: Russell Law Firm, LLC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -60035,6 +60115,18 @@
             ],
             "URLs": [
                 "bravodigitaltrader.co.uk"
+            ]
+        },
+        {
+            "Message ID": 91547,
+            "discovered": "2024-11-03",
+            "post_title": "Title: Quickpost: The Electric Energy Consumption Of A Wired Doorbell\n\nDate: November 3, 2024\n\nSource: https://blog.didierstevens.com/2024/11/03/quickpost-the-electric-energy-consumption-of-a-wired-doorbell/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.didierstevens.com/2024/11/03/quickpost-the-electric-energy-consumption-of-a-wired-doorbell/"
             ]
         }
     ],
