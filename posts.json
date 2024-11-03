@@ -7391,6 +7391,26 @@
             "URLs": [
                 "ttps://darkwebinformer.com/tag/tools/"
             ]
+        },
+        {
+            "Message ID": 6347,
+            "discovered": "2024-11-03",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6346,
+            "discovered": "2024-11-03",
+            "post_title": "🚨🇺🇸A Threat Actor is Allegedly Selling RDWeb Access to Multiple Unidentified Companies",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -61299,6 +61319,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10743"
+            ]
+        },
+        {
+            "Message ID": 91585,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-10744\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10744\n\nDescription: A vulnerability was found in PHPGurukul Online Shopping Portal 2.0. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file /admin/assets/plugins/DataTables/media/unit_testing/templates/complex_header_2.php. The manipulation of the argument scripts leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Nov 04 02:03:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10744"
             ]
         }
     ],
