@@ -32474,6 +32474,19 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18357"
             ]
+        },
+        {
+            "Message ID": 4035,
+            "discovered": "2024-11-03",
+            "post_title": "ID: 18359\n⚠ Sat, 02 Nov 2024 18:58:24 UTC\n🥷 ransomhub\n🎯 bravodigitaltrader.co.uk, UK\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18359",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "avodigitaltrader.co.uk, ",
+                "somfeed.it/index.php?page=post_details&id_post=18359"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
