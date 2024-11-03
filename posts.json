@@ -60525,6 +60525,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10733"
             ]
+        },
+        {
+            "Message ID": 91561,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-10734\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10734\n\nDescription: A vulnerability was found in Project Worlds Life Insurance Management System 1.0. It has been classified as critical. This affects an unknown part of the file /editPayment.php. The manipulation of the argument recipt_no leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Nov 03 17:10:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10734"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
