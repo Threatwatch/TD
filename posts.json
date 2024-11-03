@@ -17704,6 +17704,29 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1976,
+            "discovered": "2024-11-03",
+            "post_title": "Bindu Thapa's Website Has Been Hacked By Esteem Restoration Eagle\n\nCountry : Nepal 🇳🇵 \n\nSite : https://binduthapa.com.np/index.html\n\nMirror : https://haxor.id/archive/mirror/210826\n\n#EsteemRestorationEagle",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://binduthapa.com.np/index.html\n\n",
+                "tps://haxor.id/archive/mirror/210826\n\n"
+            ]
+        },
+        {
+            "Message ID": 1975,
+            "discovered": "2024-11-03",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SERVER KILLERS": [
