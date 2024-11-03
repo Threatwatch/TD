@@ -60343,6 +60343,18 @@
             "URLs": [
                 "https://sinister.ly/Thread-Disney%E2%9A%9C%EF%B8%8FLegacy-Hulu-With-LIVE-TV%E2%9A%9C%EF%B8%8FDirecTV%E2%9A%9C%EF%B8%8FFuboTV%E2%9A%9C%EF%B8%8FSlingTV%E2%9A%9C%EF%B8%8FNetflix%E2%9A%9C%EF%B8%8FDAZN%E2%9A%9C%EF%B8%8F"
             ]
+        },
+        {
+            "Message ID": 91550,
+            "discovered": "2024-11-03",
+            "post_title": "CVE-ID: CVE-2024-10730\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10730\n\nDescription: A vulnerability, which was classified as critical, has been found in Tongda OA up to 11.6. This issue affects some unknown processing of the file /pda/appcenter/web_show.php. The manipulation of the argument ID leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Nov 03 12:09:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10730"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
