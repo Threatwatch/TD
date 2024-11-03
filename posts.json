@@ -7154,6 +7154,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6324,
+            "discovered": "2024-11-03",
+            "post_title": "🚨🇵🇪A Threat Actor has Allegedly Leaked Data of Verificativa\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-verificativa/\n\nThe threat actor claims to have leaked 1.4GB database of Verificativa.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "GB"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-verificativa/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -28601,6 +28613,16 @@
             "discovered": "2024-11-03",
             "post_title": "Group: qilin\nApprox. Time: 12:36 03/11/24\nTitle: The Law Offices of Jed Silverman",
             "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3456,
+            "discovered": "2024-11-03",
+            "post_title": "Group: handala\nApprox. Time: 14:40 03/11/24\nTitle: Elad municipality Hacked",
+            "Attack Type": "Hacking",
             "Location": [
                 "Approx"
             ],
