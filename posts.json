@@ -7308,6 +7308,26 @@
             "URLs": [
                 "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-from-dell-partner-users/\n"
             ]
+        },
+        {
+            "Message ID": 6339,
+            "discovered": "2024-11-03",
+            "post_title": "OK, which one of you is cheating :D",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6338,
+            "discovered": "2024-11-03",
+            "post_title": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
