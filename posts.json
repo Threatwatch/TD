@@ -7296,6 +7296,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6337,
+            "discovered": "2024-11-03",
+            "post_title": "💡A couple changes..\n\nI adjusted the WhiteIntel code a little bit. It now displays ComboList Exposure count and has a more narrow format for mobile devices, this will go live tomorrow. You can see it on this URL: https://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-from-dell-partner-users/\n\n💡The status page/server is running good so far. It's also a little more optimized and loads the page in about 10 seconds versus 30-60 seconds.\n\nOn to the next feature... 😏",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-from-dell-partner-users/\n"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -13788,6 +13800,26 @@
             "URLs": [
                 "https://rentry.co/nsogroup"
             ]
+        },
+        {
+            "Message ID": 5315,
+            "discovered": "2024-11-03",
+            "post_title": "we are with you brother ❤️\n\n#SYLHETGANG_SG\n\n#op_turkey",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5314,
+            "discovered": "2024-11-03",
+            "post_title": "بسم الله الرحمن الرحيم \n\nالصلاة و السلام على اشرف خلق الله سيدنا و نبينا محمد عليه افضل الصلاة و اتم التسليم \n\nاما بعد : رسالة من فريق 1915 المناضل و الحليف الدائم لفلسطين\nرسالة الى كافة الفريق التي تتابع نشاطنا و اعمالنا و اختراقتنا \nنطلب اليوم الدعم الكتروني منكم و مد يد المساعدة لنا \nاليوم تركيا تقصف مناطقنا و نحن في الصفوف الاوليى \nلا نستطيع الوصول لحواسيب و اطلاق حرب الكترونية على تركيا \nالعدو المغول اليوم يستعمل اسلحة حرمت دولية مثل (الفسفور الابيض ) و يسمارس الأبادة الجماعية \nبحق شعب اعزل \nيقصف تركيا اليوم \n\nكوباني \nقامشلي \nالحسكة \nروج افا\n عامودة \n\nمشاهد القصف عنيفا اشلاء في كل مكان \nقصفت المستشفيات و فرن الخبز و الجامعات مصنع الاغذاء و ابراج الكهرباء و خطوط الهاتف \nاليوم تركيا تمارس الابادة الجماعية في سوريا كاملا و بل تحديد مناطق الاكراد \nكما فعل في عملية نبع السلام سنة 2022 التي راح ضحيته 655 طفل \nو حرق 200 طفل في سينما عامودة \n\nنطلب من كافة فرق الهكرز العرب و الاخوة التي طلما وقفنا معه في حروبه ان تقف معنا هذه المرا و تساندا \nبشن حرب الكترونية على تركيا لتوقيف كل خدماته و شل حركة حكومته الطاغية المغولية \n\nو نشكر الجميع و اكيد سوف نتابع انجازاتكم \n\n\n\nفريق 1915 رسالة من قائد الفريق (امير علي عبدالله )\n\nتحية حب و احترام لكم كلكم \n\n#ARAB_HACK\n#KURD_HACK\n#Hacker_News\n#TEAM_HACK\n#Indonisia_HACK\n#ALL_HACK\n==============\n#FreeKurd\n#FreeRojAva\n\n\n\n#Op_Turkey",
+            "Attack Type": "Hacking",
+            "Location": [
+                "اعمالنا"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -61101,6 +61133,16 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10741"
             ]
+        },
+        {
+            "Message ID": 91582,
+            "discovered": "2024-11-03",
+            "post_title": "Victim: Hemubo\n\nDetection Date: Mon Nov 04 00:38:57 2024\n\nThreat Actor: hunters\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": [
