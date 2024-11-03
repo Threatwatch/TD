@@ -7074,6 +7074,86 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6323,
+            "discovered": "2024-11-03",
+            "post_title": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6322,
+            "discovered": "2024-11-03",
+            "post_title": "Reminder; update Canary",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6321,
+            "discovered": "2024-11-03",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6320,
+            "discovered": "2024-11-03",
+            "post_title": "by the way.. stop listening to the FUD on Dread.. even though it's a great forum with great insight, it's also full of a lot of cancer",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6319,
+            "discovered": "2024-11-03",
+            "post_title": "TLDR.. as soon as you login, get your private mirror and use that going forward.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6318,
+            "discovered": "2024-11-03",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6317,
+            "discovered": "2024-11-03",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6316,
+            "discovered": "2024-11-03",
+            "post_title": "💡Just an update on this.. Archetyp seems to be the most affected by the DDoS. I have a private mirror that I'm able to access with no issues, so if anyone is thinking of an exit scam, that doesn't seem to be the case. I took a screenshot of the home page on Archetyp, showing I'm in.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -17534,6 +17614,29 @@
         {
             "Message ID": 1963,
             "discovered": "2024-11-02",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1967,
+            "discovered": "2024-11-03",
+            "post_title": "Nepal Remodelers Website Announced By Esteem Restoration Eagle\n\nCountry : Nepal 🇳🇵 \n\nSite : https://remodelersnepal.com.np/\n\nMirror : https://haxor.id/archive/mirror/210788\n\n#EsteemRestorationEagle",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://remodelersnepal.com.np/\n\n",
+                "tps://haxor.id/archive/mirror/210788\n\n"
+            ]
+        },
+        {
+            "Message ID": 1966,
+            "discovered": "2024-11-03",
             "post_title": "",
             "Attack Type": "Unknown",
             "Location": [
@@ -60127,6 +60230,18 @@
             ],
             "URLs": [
                 "https://blog.didierstevens.com/2024/11/03/quickpost-the-electric-energy-consumption-of-a-wired-doorbell/"
+            ]
+        },
+        {
+            "Message ID": 91548,
+            "discovered": "2024-11-03",
+            "post_title": "Title: Sinisterly - DirecTV-FuboTV-Netflix-DAZN-Disney And more Stable Streaming Account at Cyber store\n\nDetection Date: Sun Nov 03 05:24:40 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-DirecTV-FuboTV-Netflix-DAZN-Disney-And-more-Stable-Streaming-Account-at-Cyber-store\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-DirecTV-FuboTV-Netflix-DAZN-Disney-And-more-Stable-Streaming-Account-at-Cyber-store"
             ]
         }
     ],
