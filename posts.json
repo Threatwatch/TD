@@ -7709,6 +7709,62 @@
             "URLs": [
                 "ps://darkwebinformer.com/rippersec-targeted-the-website-of-police-nationale/"
             ]
+        },
+        {
+            "Message ID": 6377,
+            "discovered": "2024-11-04",
+            "post_title": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6376,
+            "discovered": "2024-11-04",
+            "post_title": "Canary: https://darkwebinformer.com/canary/\nPGP: https://darkwebinformer.com/pgp/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkwebinformer.com/canary/",
+                "https://darkwebinformer.com/pgp/"
+            ]
+        },
+        {
+            "Message ID": 6375,
+            "discovered": "2024-11-04",
+            "post_title": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6374,
+            "discovered": "2024-11-04",
+            "post_title": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA512\n\nToday is the 4th of November 2024.\n\nI am Dark Web Informer and I am in control of my PGP key and all identities listed below.\n\nReddit has been removed since I was banned. I never used the account anyways.\n\nThis canary will be updated by the end of the 18th of November 2024. Donations are very much appreciated!\n\nCredit Card Donations: https://darkwebinformer.com/#/portal/support\n\nBTC Donations: bc1qd9q0fpkchjs9zz2u27mx29vz6vggkfmw6rxgfa\n\nMonero Donations: 868pSMZ2RVBAjEUGGbEUhHZD4x6zun2WXgXTFVFPzYJuRnZAJTVZoahWvL3gUDLi7vPxTpcEePxjLUjMrJhGm4gNU4TGFDv\n\nETH USDT-ERC20 Donations: 0x828B98817aBF157A269D6a1eF204F539A28f1752\n\nWebsite: https://darkwebinformer.com/\nSecondary Website: https://darkwebinformer.io\nX/Twitter: https://x.com/DarkWebInformer\nMedium: https://medium.com/@DarkWebInformer\nGitHub: https://github.com/DarkWebInformer\nLinkedIn: https://linkedin.com/company/darkwebinformer\nTelegram Channel: https://t.me/TheDarkWebInformer\nTelegram Contact: https://t.me/D4rkWebInformer\nDread: @DarkWebInformer\nSubdread: /d/DarkWebInformer\nPitch: @darkwebinformer\nXMPP: darkwebinformer@xmpp.is\nDiscord: darkwebinformer\nSignal: DarkWebInformer.99\nSignal Group: https://signal.group/#CjQKIOiHbystGUzgYDjLfZdoTw7Xz2caufdzIOTWqwdCfOiPEhBB_xAgpv3HOdciAr3PSVDi\nYouTube: https://youtube.com/@DarkWebInformer\nInfosec Exchange: https://infosec.exchange/@DarkWebInformer\n\nLatest Monero Block Hash:\n09bed59ece13ee7a564058670dd0e8eda95878bf9cd5c75778c21ae412750ada\n-----BEGIN PGP SIGNATURE-----\n\niHUEARYKAB0WIQQ9/D9VgPN15+Zez18HxZ/3+EVxnQUCZyj+0QAKCRAHxZ/3+EVx\nnd4rAQDqJvCPUJmBNUaQWIfgfJTNtmdMTy7/Jr5E1VN9hNbhrwEA4USx2YpvCM1y\n0a43kF/LED/txk4RNVwBG47+czH1sgM=\n=XMs2\n-----END PGP SIGNATURE-----",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Reddit"
+            ],
+            "URLs": [
+                "https://darkwebinformer.com/#/portal/support",
+                "https://darkwebinformer.com/",
+                "https://darkwebinformer.io",
+                "https://x.com/DarkWebInformer",
+                "https://medium.com/@DarkWebInformer",
+                "https://github.com/DarkWebInformer",
+                "https://linkedin.com/company/darkwebinformer",
+                "https://t.me/TheDarkWebInformer",
+                "https://t.me/D4rkWebInformer",
+                "https://signal.group/#CjQKIOiHbystGUzgYDjLfZdoTw7Xz2caufdzIOTWqwdCfOiPEhBB_xAgpv3HOdciAr3PSVDi",
+                "https://youtube.com/@DarkWebInformer",
+                "https://infosec.exchange/@DarkWebInformer"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -64251,6 +64307,200 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/"
+            ]
+        },
+        {
+            "Message ID": 91786,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Adversary in the Middle (AitM): Post-Exploitation\n\nDate: November 4, 2024\n\nSource: https://www.blackhillsinfosec.com/adversary-in-the-middle-aitm-post-exploitation-wrapup/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.blackhillsinfosec.com/adversary-in-the-middle-aitm-post-exploitation-wrapup/"
+            ]
+        },
+        {
+            "Message ID": 91785,
+            "discovered": "2024-11-04",
+            "post_title": "Title: 3 Advantages of choosing a single communications service provider\n\nDate: November 4, 2024\n\nSource: https://blog.lumen.com/3-advantages-of-choosing-a-single-communications-service-provider/?utm_source=rss&utm_medium=rss&utm_campaign=3-advantages-of-choosing-a-single-communications-service-provider\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.lumen.com/3-advantages-of-choosing-a-single-communications-service-provider/?utm_source=rss&utm_medium=rss&utm_campaign=3-advantages-of-choosing-a-single-communications-service-provider"
+            ]
+        },
+        {
+            "Message ID": 91784,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Why your vote can’t be “hacked,” with Cait Conley of CISA (Lock and Code S05E23)\n\nDate: November 4, 2024\n\nSource: https://www.malwarebytes.com/blog/podcast/2024/11/why-your-vote-cant-be-hacked-with-cait-conley-of-cisa-lock-and-code-s05e23\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/podcast/2024/11/why-your-vote-cant-be-hacked-with-cait-conley-of-cisa-lock-and-code-s05e23"
+            ]
+        },
+        {
+            "Message ID": 91783,
+            "discovered": "2024-11-04",
+            "post_title": "Title: City of Columbus breach affects around half a million citizens\n\nDate: November 4, 2024\n\nSource: https://www.malwarebytes.com/blog/news/2024/11/city-of-columbus-breach-affects-around-half-a-million-citizens\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Columbus"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/news/2024/11/city-of-columbus-breach-affects-around-half-a-million-citizens"
+            ]
+        },
+        {
+            "Message ID": 91782,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Crooks bank on Microsoft’s search engine to phish customers\n\nDate: November 4, 2024\n\nSource: https://www.malwarebytes.com/blog/scams/2024/11/crooks-bank-on-microsofts-search-engine-to-phish-customers\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/scams/2024/11/crooks-bank-on-microsofts-search-engine-to-phish-customers"
+            ]
+        },
+        {
+            "Message ID": 91781,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Dell security advisory (AV24-627)\n\nDate: November 4, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-627\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av24-627"
+            ]
+        },
+        {
+            "Message ID": 91780,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-26956\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-26956\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnilfs2: fix failure to detect DAT corruption in btree and direct mappings\n\nPatch series \"nilfs2: fix kernel bug at submit_bh_wbc()\".\n\nThis resolves a kernel BUG reported by syzbot.  Since there are two\nflaws involved, I've made each one a separate patch.\n\nThe first patch alone resolves the syzbot-reported bug, but I think\nboth fixes should be sent to stable, so I've tagged them as such.\n\n\nThis patch (of 2):\n\nSyzbot has reported a kernel bug in submit_bh_wbc() when writing file data\nto a nilfs2 file system whose metadata is corrupted.\n\nThere are two flaws involved in this issue.\n\nThe first flaw is that when nilfs_get_block() locates a data block using\nbtree or direct mapping, if the disk address translation routine\nnilfs_dat_translate() fails with internal code -ENOENT due to DAT metadata\ncorruption, it can be passed back to nilfs_get_block().  This causes\nnilfs_get_block() to misidentify an existing block as non-existent,\ncausing both data block lookup and insertion to fail inconsistently.\n\nThe second flaw is that nilfs_get_block() returns a successful status in\nthis inconsistent state.  This causes the caller __block_write_begin_int()\nor others to request a read even though the buffer is not mapped,\nresulting in a BUG_ON check for the BH_Mapped flag in submit_bh_wbc()\nfailing.\n\nThis fixes the first issue by changing the return value to code -EINVAL\nwhen a conversion using DAT fails with code -ENOENT, avoiding the\nconflicting condition that leads to the kernel bug described above.  Here,\ncode -EINVAL indicates that metadata corruption was detected during the\nblock lookup, which will be properly handled as a file system error and\nconverted to -EIO when passing through the nilfs2 bmap layer.\n\nPublication Date: Mon Nov 04 20:12:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Syzbot"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-26956"
+            ]
+        },
+        {
+            "Message ID": 91779,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-43314\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43314\n\nDescription: Missing Authorization vulnerability in Gabe Livan Asset CleanUp: Page Speed Booster allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Asset CleanUp: Page Speed Booster: from n/a through 1.3.9.3.\n\nPublication Date: Mon Nov 04 20:11:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43314",
+                "1.3.9.3"
+            ]
+        },
+        {
+            "Message ID": 91778,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-43312\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43312\n\nDescription: Missing Authorization vulnerability in WPClever WPC Frequently Bought Together for WooCommerce allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects WPC Frequently Bought Together for WooCommerce: from n/a through 7.1.9.\n\nPublication Date: Mon Nov 04 20:11:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43312"
+            ]
+        },
+        {
+            "Message ID": 91777,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-43293\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43293\n\nDescription: Missing Authorization vulnerability in WPZOOM Recipe Card Blocks for Gutenberg & Elementor allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Recipe Card Blocks for Gutenberg & Elementor: from n/a through 3.3.1.\n\nPublication Date: Mon Nov 04 20:11:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43293"
+            ]
+        },
+        {
+            "Message ID": 91776,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-43285\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43285\n\nDescription: Missing Authorization vulnerability in Presto Made, Inc Presto Player allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Presto Player: from n/a through 3.0.2.\n\nPublication Date: Mon Nov 04 20:11:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43285"
+            ]
+        },
+        {
+            "Message ID": 91775,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-43154\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43154\n\nDescription: Missing Authorization vulnerability in BracketSpace Advanced Cron Manager allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Advanced Cron Manager – debug & control: from n/a through 2.5.9.\n\nPublication Date: Mon Nov 04 20:11:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43154"
+            ]
+        },
+        {
+            "Message ID": 91774,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-43146\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43146\n\nDescription: Missing Authorization vulnerability in Ahmed Kaludi, Mohammed Kaludi AMP for WP allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects AMP for WP: from n/a through 1.0.96.1.\n\nPublication Date: Mon Nov 04 20:11:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Ahmed Kaludi"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43146",
+                "1.0.96.1"
+            ]
+        },
+        {
+            "Message ID": 91773,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-38491\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38491\n\nDescription: The vulnerability allows an unauthenticated attacker to read arbitrary information from the database.\n\nPublication Date: Mon Nov 04 20:10:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38491"
+            ]
+        },
+        {
+            "Message ID": 91772,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-39341\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-39341\n\nDescription: Entrust Instant Financial Issuance (On Premise) Software (formerly known as Cardwizard) 6.10.0, 6.9.0, 6.9.1, 6.9.2, and 6.8.x and earlier leaves behind a configuration file (i.e. WebAPI.cfg.xml) after the installation process. This file can be accessed without authentication on HTTP port 80 by guessing the correct IIS webroot path. It includes system configuration parameter names and values with sensitive configuration values encrypted.\n\nPublication Date: Mon Nov 04 20:10:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-39341"
+            ]
+        },
+        {
+            "Message ID": 91771,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-31304\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-31304\n\nDescription: Improper input validation in SMU may allow an attacker with privileges and a compromised physical function (PF)      to modify the PCIe® lane count and speed, potentially leading to a loss of availability.\n\nPublication Date: Mon Nov 04 20:10:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-31304"
             ]
         }
     ],
