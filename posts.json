@@ -33233,6 +33233,19 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18366"
             ]
+        },
+        {
+            "Message ID": 4041,
+            "discovered": "2024-11-04",
+            "post_title": "ID: 18369\n⚠ Mon, 04 Nov 2024 06:57:36 UTC\n🥷 ransomhub\n🎯 lambertstonecommercial.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18369",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "mbertstonecommercial.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18369"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
