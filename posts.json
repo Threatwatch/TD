@@ -7520,6 +7520,30 @@
             "URLs": [
                 "https://exchanger.infinity.taxi/"
             ]
+        },
+        {
+            "Message ID": 6359,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇫🇮IntelBroker and EnergyWeaponUser Are Allegedly Selling the Data of Nokia\n\nhttps://darkwebinformer.com/intelbroker-and-energyweaponuser-are-allegedly-selling-the-data-of-nokia/\n\nThe threat actor alleges they are selling data obtained from a breach involving a third-party contractor working directly with Nokia. The compromised information reportedly includes SSH keys, source code, RSA keys, Bitbucket credentials, SMTP accounts, hardcoded webhook credentials, and more.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/intelbroker-and-energyweaponuser-are-allegedly-selling-the-data-of-nokia/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6358,
+            "discovered": "2024-11-04",
+            "post_title": "hmm\n\nhttps://x.com/jgreigj/status/1853446451835080849",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/jgreigj/status/1853446451835080849"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -29287,6 +29311,18 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3465,
+            "discovered": "2024-11-04",
+            "post_title": "Group: ransomhub\nApprox. Time: 14:39 04/11/24\nTitle: https://t.co/14j9m6WXdz",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/14j9m6WXdz"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -63251,6 +63287,42 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-51249",
                 "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 91720,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Sinisterly - WE BUY ALL SE IN BULKS, READ THIS THREAD IF YOU DO ITEM SE4U\n\nDetection Date: Mon Nov 04 17:48:30 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-WE-BUY-ALL-SE-IN-BULKS-READ-THIS-THREAD-IF-YOU-DO-ITEM-SE4U\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-WE-BUY-ALL-SE-IN-BULKS-READ-THIS-THREAD-IF-YOU-DO-ITEM-SE4U"
+            ]
+        },
+        {
+            "Message ID": 91719,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Sinisterly - Make $10-15k+ Per Month | Scalable Model | Proven Strategy | Join Us Today\n\nDetection Date: Mon Nov 04 17:48:19 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-Make-10-15k-Per-Month-Scalable-Model-Proven-Strategy-Join-Us-Today\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Us"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-Make-10-15k-Per-Month-Scalable-Model-Proven-Strategy-Join-Us-Today"
+            ]
+        },
+        {
+            "Message ID": 91718,
+            "discovered": "2024-11-04",
+            "post_title": "Victim: fullfordelectric.com\n\nDetection Date: Mon Nov 04 17:47:52 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "fullfordelectric.com"
             ]
         }
     ],
