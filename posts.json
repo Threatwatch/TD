@@ -15207,6 +15207,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1256,
+            "discovered": "2024-11-04",
+            "post_title": "🚨 Cyberattack Update 🚨\n\n🇺🇸 USA - Summit Pathology Laboratories, 1.8 Million Individuals Affected\n\nSummit Pathology Laboratories, Inc., a pathology provider based in Colorado, has confirmed that a ransomware attack by the Medusa group in April 2024 affected 1,813,538 individuals. \n\nThe breach was detected on April 18, 2024, following the discovery of suspicious activity that prompted an immediate investigation. A cybersecurity firm determined that patient data—including names, addresses, birthdates, Social Security numbers, financial, and health information—was accessed or acquired by the attackers. \n\nThe breach reportedly originated from a phishing email containing a malicious attachment. \n\nAlthough it remains unclear if a ransom was paid, Summit Pathology has not been listed on Medusa’s data leak site, which frequently names victims who refuse to pay.\n\nFull article:\nhttps://www.hipaajournal.com/summit-pathology-data-breach/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Colorado"
+            ],
+            "URLs": [
+                "s://www.hipaajournal.com/summit-pathology-data-breach/"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -63013,6 +63025,26 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-52498"
             ]
+        },
+        {
+            "Message ID": 91702,
+            "discovered": "2024-11-04",
+            "post_title": "Victim: San Francisco Ballet\n\nDetection Date: Mon Nov 04 16:49:53 2024\n\nThreat Actor: inc ransom\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "San Francisco Ballet"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91701,
+            "discovered": "2024-11-04",
+            "post_title": "Victim: European External Action Service (EEAS)\n\nDetection Date: Mon Nov 04 16:49:38 2024\n\nThreat Actor: hunters\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": [
