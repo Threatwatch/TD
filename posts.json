@@ -7661,6 +7661,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/sukob-is-allegedly-selling-unauthorized-access-to-a-telecommunication-company-in-brazil/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6371,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇫🇷IntelBroker Has Allegedly Leaked Source Code of Cartier\n\nhttps://darkwebinformer.com/intelbroker-has-allegedly-leaked-source-code-of-cartier/\n\nThe threat actor claims to have leaked the iOS source code for Cartier",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/intelbroker-has-allegedly-leaked-source-code-of-cartier/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6370,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇲🇽A Threat Actor is Allegedly Selling Access to an Unknown Mexican Company\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unknown-mexican-company/\n\nA threat actor claims to be selling unauthorized access to an unnamed Mexican organization. The compromised data reportedly includes over 100,000 records containing citizen information, fingerprints, and both sides of INE (National Electoral Institute) documents.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unknown-mexican-company/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -33603,6 +33627,45 @@
             ],
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18374"
+            ]
+        },
+        {
+            "Message ID": 4048,
+            "discovered": "2024-11-04",
+            "post_title": "ID: 18377\n⚠ Mon, 04 Nov 2024 11:30:21 UTC\n🥷 ransomhub\n🎯 redphoenixconstruction.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18377",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "dphoenixconstruction.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18377"
+            ]
+        },
+        {
+            "Message ID": 4047,
+            "discovered": "2024-11-04",
+            "post_title": "ID: 18376\n⚠ Mon, 04 Nov 2024 11:33:26 UTC\n🥷 ransomhub\n🎯 csucontracting.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18376",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "ucontracting.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18376"
+            ]
+        },
+        {
+            "Message ID": 4046,
+            "discovered": "2024-11-04",
+            "post_title": "ID: 18375\n⚠ Mon, 04 Nov 2024 14:50:31 UTC\n🥷 ransomhub\n🎯 fullfordelectric.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18375",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "llfordelectric.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18375"
             ]
         }
     ],
