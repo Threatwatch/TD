@@ -61865,6 +61865,42 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10755"
             ]
+        },
+        {
+            "Message ID": 91622,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-10756\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10756\n\nDescription: A vulnerability classified as problematic was found in PHPGurukul Online Shopping Portal 2.0. Affected by this vulnerability is an unknown functionality of the file /admin/assets/plugins/DataTables/media/unit_testing/templates/html_table.php. The manipulation of the argument scripts leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Nov 04 07:04:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10756"
+            ]
+        },
+        {
+            "Message ID": 91621,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-10757\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10757\n\nDescription: A vulnerability, which was classified as problematic, has been found in PHPGurukul Online Shopping Portal 2.0. Affected by this issue is some unknown functionality of the file /admin/assets/plugins/DataTables/media/unit_testing/templates/js_data.php. The manipulation of the argument scripts leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Nov 04 07:04:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10757"
+            ]
+        },
+        {
+            "Message ID": 91620,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-10758\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10758\n\nDescription: A vulnerability, which was classified as critical, was found in code-projects/anirbandutta9 Content Management System and News-Buzz 1.0. This affects an unknown part of the file /index.php. The manipulation of the argument user_name leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. This product is distributed under two entirely different names.\n\nPublication Date: Mon Nov 04 07:04:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10758"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
