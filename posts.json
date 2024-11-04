@@ -62905,6 +62905,114 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-52507"
             ]
+        },
+        {
+            "Message ID": 91700,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Cloudy With a Chance of RATs: Unveiling APT36 and the Evolution of ElizaRAT\n\nDate: November 4, 2024\n\nSource: https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://research.checkpoint.com/2024/the-evolution-of-transparent-tribes-new-malware/"
+            ]
+        },
+        {
+            "Message ID": 91699,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-52490\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52490\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nmm: migrate: fix getting incorrect page mapping during page migration\n\nWhen running stress-ng testing, we found below kernel crash after a few hours:\n\nUnable to handle kernel NULL pointer dereference at virtual address 0000000000000000\npc : dentry_name+0xd8/0x224\nlr : pointer+0x22c/0x370\nsp : ffff800025f134c0\n......\nCall trace:\n  dentry_name+0xd8/0x224\n  pointer+0x22c/0x370\n  vsnprintf+0x1ec/0x730\n  vscnprintf+0x2c/0x60\n  vprintk_store+0x70/0x234\n  vprintk_emit+0xe0/0x24c\n  vprintk_default+0x3c/0x44\n  vprintk_func+0x84/0x2d0\n  printk+0x64/0x88\n  __dump_page+0x52c/0x530\n  dump_page+0x14/0x20\n  set_migratetype_isolate+0x110/0x224\n  start_isolate_page_range+0xc4/0x20c\n  offline_pages+0x124/0x474\n  memory_block_offline+0x44/0xf4\n  memory_subsys_offline+0x3c/0x70\n  device_offline+0xf0/0x120\n  ......\n\nAfter analyzing the vmcore, I found this issue is caused by page migration.\nThe scenario is that, one thread is doing page migration, and we will use the\ntarget page's ->mapping field to save 'anon_vma' pointer between page unmap and\npage move, and now the target page is locked and refcount is 1.\n\nCurrently, there is another stress-ng thread performing memory hotplug,\nattempting to offline the target page that is being migrated. It discovers that\nthe refcount of this target page is 1, preventing the offline operation, thus\nproceeding to dump the page. However, page_mapping() of the target page may\nreturn an incorrect file mapping to crash the system in dump_mapping(), since\nthe target page->mapping only saves 'anon_vma' pointer without setting\nPAGE_MAPPING_ANON flag.\n\nThere are seveval ways to fix this issue:\n(1) Setting the PAGE_MAPPING_ANON flag for target page's ->mapping when saving\n'anon_vma', but this can confuse PageAnon() for PFN walkers, since the target\npage has not built mappings yet.\n(2) Getting the page lock to call page_mapping() in __dump_page() to avoid crashing\nthe system, however, there are still some PFN walkers that call page_mapping()\nwithout holding the page lock, such as compaction.\n(3) Using target page->private field to save the 'anon_vma' pointer and 2 bits\npage state, just as page->mapping records an anonymous page, which can remove\nthe page_mapping() impact for PFN walkers and also seems a simple way.\n\nSo I choose option 3 to fix this issue, and this can also fix other potential\nissues for PFN walkers, such as compaction.\n\nPublication Date: Mon Nov 04 16:27:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52490"
+            ]
+        },
+        {
+            "Message ID": 91698,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-52491\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52491\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nmedia: mtk-jpeg: Fix use after free bug due to error path handling in mtk_jpeg_dec_device_run\n\nIn mtk_jpeg_probe, &jpeg->job_timeout_work is bound with\nmtk_jpeg_job_timeout_work.\n\nIn mtk_jpeg_dec_device_run, if error happens in\nmtk_jpeg_set_dec_dst, it will finally start the worker while\nmark the job as finished by invoking v4l2_m2m_job_finish.\n\nThere are two methods to trigger the bug. If we remove the\nmodule, it which will call mtk_jpeg_remove to make cleanup.\nThe possible sequence is as follows, which will cause a\nuse-after-free bug.\n\nCPU0                  CPU1\nmtk_jpeg_dec_...    |\n  start worker     |\n                    |mtk_jpeg_job_timeout_work\nmtk_jpeg_remove     |\n  v4l2_m2m_release  |\n    kfree(m2m_dev); |\n                    |\n                    | v4l2_m2m_get_curr_priv\n                    |   m2m_dev->curr_ctx //use\n\nIf we close the file descriptor, which will call mtk_jpeg_release,\nit will have a similar sequence.\n\nFix this bug by starting timeout worker only if started jpegdec worker\nsuccessfully. Then v4l2_m2m_job_finish will only be called in\neither mtk_jpeg_job_timeout_work or mtk_jpeg_dec_device_run.\n\nPublication Date: Mon Nov 04 16:27:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52491"
+            ]
+        },
+        {
+            "Message ID": 91697,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-52492\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52492\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndmaengine: fix NULL pointer in channel unregistration function\n\n__dma_async_device_channel_register() can fail. In case of failure,\nchan->local is freed (with free_percpu()), and chan->local is nullified.\nWhen dma_async_device_unregister() is called (because of managed API or\nintentionally by DMA controller driver), channels are unconditionally\nunregistered, leading to this NULL pointer:\n[    1.318693] Unable to handle kernel NULL pointer dereference at virtual address 00000000000000d0\n[...]\n[    1.484499] Call trace:\n[    1.486930]  device_del+0x40/0x394\n[    1.490314]  device_unregister+0x20/0x7c\n[    1.494220]  __dma_async_device_channel_unregister+0x68/0xc0\n\nLook at dma_async_device_register() function error path, channel device\nunregistration is done only if chan->local is not NULL.\n\nThen add the same condition at the beginning of\n__dma_async_device_channel_unregister() function, to avoid NULL pointer\nissue whatever the API used to reach this function.\n\nPublication Date: Mon Nov 04 16:27:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52492"
+            ]
+        },
+        {
+            "Message ID": 91696,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-52493\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52493\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nbus: mhi: host: Drop chan lock before queuing buffers\n\nEnsure read and write locks for the channel are not taken in succession by\ndropping the read lock from parse_xfer_event() such that a callback given\nto client can potentially queue buffers and acquire the write lock in that\nprocess. Any queueing of buffers should be done without channel read lock\nacquired as it can result in multiple locks and a soft lockup.\n\n[mani: added fixes tag and cc'ed stable]\n\nPublication Date: Mon Nov 04 16:27:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52493"
+            ]
+        },
+        {
+            "Message ID": 91695,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-52494\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52494\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nbus: mhi: host: Add alignment check for event ring read pointer\n\nThough we do check the event ring read pointer by \"is_valid_ring_ptr\"\nto make sure it is in the buffer range, but there is another risk the\npointer may be not aligned.  Since we are expecting event ring elements\nare 128 bits(struct mhi_ring_element) aligned, an unaligned read pointer\ncould lead to multiple issues like DoS or ring buffer memory corruption.\n\nSo add a alignment check for event ring read pointer.\n\nPublication Date: Mon Nov 04 16:27:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52494"
+            ]
+        },
+        {
+            "Message ID": 91694,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-52495\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52495\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nsoc: qcom: pmic_glink_altmode: fix port sanity check\n\nThe PMIC GLINK altmode driver currently supports at most two ports.\n\nFix the incomplete port sanity check on notifications to avoid\naccessing and corrupting memory beyond the port array if we ever get a\nnotification for an unsupported port.\n\nPublication Date: Mon Nov 04 16:26:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52495"
+            ]
+        },
+        {
+            "Message ID": 91693,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-52497\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52497\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nerofs: fix lz4 inplace decompression\n\nCurrently EROFS can map another compressed buffer for inplace\ndecompression, that was used to handle the cases that some pages of\ncompressed data are actually not in-place I/O.\n\nHowever, like most simple LZ77 algorithms, LZ4 expects the compressed\ndata is arranged at the end of the decompressed buffer and it\nexplicitly uses memmove() to handle overlapping:\n  __________________________________________________________\n |_ direction of decompression --> ____ |_ compressed data _|\n\nAlthough EROFS arranges compressed data like this, it typically maps two\nindividual virtual buffers so the relative order is uncertain.\nPreviously, it was hardly observed since LZ4 only uses memmove() for\nshort overlapped literals and x86/arm64 memmove implementations seem to\ncompletely cover it up and they don't have this issue.  Juhyung reported\nthat EROFS data corruption can be found on a new Intel x86 processor.\nAfter some analysis, it seems that recent x86 processors with the new\nFSRM feature expose this issue with \"rep movsb\".\n\nLet's strictly use the decompressed buffer for lz4 inplace\ndecompression for now.  Later, as an useful improvement, we could try\nto tie up these two buffers together in the correct order.\n\nPublication Date: Mon Nov 04 16:26:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52497"
+            ]
+        },
+        {
+            "Message ID": 91692,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-52498\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52498\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nPM: sleep: Fix possible deadlocks in core system-wide PM code\n\nIt is reported that in low-memory situations the system-wide resume core\ncode deadlocks, because async_schedule_dev() executes its argument\nfunction synchronously if it cannot allocate memory (and not only in\nthat case) and that function attempts to acquire a mutex that is already\nheld.  Executing the argument function synchronously from within\ndpm_async_fn() may also be problematic for ordering reasons (it may\ncause a consumer device's resume callback to be invoked before a\nrequisite supplier device's one, for example).\n\nAddress this by changing the code in question to use\nasync_schedule_dev_nocall() for scheduling the asynchronous\nexecution of device suspend and resume functions and to directly\nrun them synchronously if async_schedule_dev_nocall() returns false.\n\nPublication Date: Mon Nov 04 16:26:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52498"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
