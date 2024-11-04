@@ -7835,6 +7835,40 @@
             "URLs": [
                 "ps://darkwebinformer.com/nick-diesel-has-allegedly-leaked-data-of-multiple-us-based-companies/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6386,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇺🇸888 Has Allegedly Leaked the Data of Beautytap\n\nhttps://darkwebinformer.com/888-has-allegedly-leaked-the-data-of-beautytap/\n\nA threat actor claims to have leaked data from Beautytap. The compromised data reportedly includes information on 90,233 users, consisting of IDs and email addresses.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Beautytap"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/888-has-allegedly-leaked-the-data-of-beautytap/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6385,
+            "discovered": "2024-11-04",
+            "post_title": "I still like having fun though. 😈",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6384,
+            "discovered": "2024-11-04",
+            "post_title": "💡My methodology to some people is a little out of the ordinary, but all companies want is a secure platform. Accenture gets an A.\n\nhttps://accenture.responsibledisclosure.com/hc/en-us/articles/360040573233-Acknowledgments",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://accenture.responsibledisclosure.com/hc/en-us/articles/360040573233-Acknowledgments"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -14444,6 +14478,16 @@
                 "https://sju.org.sa/",
                 "https://mirror-h.org/zone/5801385/"
             ]
+        },
+        {
+            "Message ID": 5325,
+            "discovered": "2024-11-04",
+            "post_title": "Bangladeshi Civilian?\nor the Soldiers who were deployed as peacekeepers?\n\nStill unknown,\nBut this aggression will met with a reply",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -65080,6 +65124,187 @@
             "URLs": [
                 "http://ict.foreign.gov.ly",
                 "http://www.zone-h.org/mirror/id/30066214"
+            ]
+        },
+        {
+            "Message ID": 91836,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Android security advisory – November 2024 Monthly Rollup (AV24-632)\n\nDate: November 4, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2024-monthly-rollup-av24-632"
+            ]
+        },
+        {
+            "Message ID": 91835,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51327\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51327\n\nDescription: SQL Injection in loginform.php in ProjectWorld's Travel Management System v1.0 allows remote attackers to bypass authentication via SQL Injection in the 'username' and 'password' fields.\n\nPublication Date: Mon Nov 04 22:04:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51327"
+            ]
+        },
+        {
+            "Message ID": 91834,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51329\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51329\n\nDescription: A Host header injection vulnerability in Agile-Board 1.0 allows attackers to obtain the password reset token via user interaction with a crafted password reset link.\n\nPublication Date: Mon Nov 04 22:04:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51329"
+            ]
+        },
+        {
+            "Message ID": 91833,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-34891\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34891\n\nDescription: Insufficiently protected credentials in DAV server settings in 1C-Bitrix Bitrix24 23.300.100 allows remote administrators to read Exchange account passwords via HTTP GET request.\n\nPublication Date: Mon Nov 04 22:04:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34891"
+            ]
+        },
+        {
+            "Message ID": 91832,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-44021\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44021\n\nDescription: Missing Authorization vulnerability in Truepush allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Truepush: from n/a through 1.0.8.\n\nPublication Date: Mon Nov 04 22:04:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44021"
+            ]
+        },
+        {
+            "Message ID": 91831,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-36117\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-36117\n\nDescription: Reposilite is an open source, lightweight and easy-to-use repository manager for Maven based artifacts in JVM ecosystem. Reposilite v3.5.10 is affected by an Arbitrary File Read vulnerability via path traversal while serving expanded javadoc files. Reposilite has addressed this issue in version 3.5.12. There are no known workarounds for this vulnerability. This issue was discovered and reported by the GitHub Security lab and is also tracked as GHSL-2024-074.\n\nPublication Date: Mon Nov 04 22:04:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-36117"
+            ]
+        },
+        {
+            "Message ID": 91830,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47070\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47070\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nuio_hv_generic: Fix another memory leak in error handling paths\n\nMemory allocated by 'vmbus_alloc_ring()' at the beginning of the probe\nfunction is never freed in the error handling path.\n\nAdd the missing 'vmbus_free_ring()' call.\n\nNote that it is already freed in the .remove function.\n\nPublication Date: Mon Nov 04 22:03:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47070"
+            ]
+        },
+        {
+            "Message ID": 91829,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47547\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47547\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: tulip: de4x5: fix the problem that the array 'lp->phy[8]' may be out of bound\n\nIn line 5001, if all id in the array 'lp->phy[8]' is not 0, when the\n'for' end, the 'k' is 8.\n\nAt this time, the array 'lp->phy[8]' may be out of bound.\n\nPublication Date: Mon Nov 04 22:03:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47547"
+            ]
+        },
+        {
+            "Message ID": 91828,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-26828\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-26828\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ncifs: fix underflow in parse_server_interfaces()\n\nIn this loop, we step through the buffer and after each item we check\nif the size_left is greater than the minimum size we need.  However,\nthe problem is that \"bytes_left\" is type ssize_t while sizeof() is type\nsize_t.  That means that because of type promotion, the comparison is\ndone as an unsigned and if we have negative bytes left the loop\ncontinues instead of ending.\n\nPublication Date: Mon Nov 04 22:03:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-26828"
+            ]
+        },
+        {
+            "Message ID": 91827,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-10768\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10768\n\nDescription: A vulnerability classified as problematic was found in PHPGurukul Online Shopping Portal 2.0. This vulnerability affects unknown code of the file /admin/assets/plugins/DataTables/media/unit_testing/templates/two_tables.php. The manipulation of the argument scripts leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Nov 04 22:03:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "two_tables.php"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10768"
+            ]
+        },
+        {
+            "Message ID": 91826,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-44052\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44052\n\nDescription: Missing Authorization vulnerability in HelloAsso allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects HelloAsso: from n/a through 1.1.10.\n\nPublication Date: Mon Nov 04 22:03:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44052"
+            ]
+        },
+        {
+            "Message ID": 91825,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-44031\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-44031\n\nDescription: Missing Authorization vulnerability in BearDev JoomSport allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects JoomSport: from n/a through 5.6.3.\n\nPublication Date: Mon Nov 04 22:03:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-44031"
+            ]
+        },
+        {
+            "Message ID": 91824,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-47362\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47362\n\nDescription: Missing Authorization vulnerability in WPChill Strong Testimonials allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Strong Testimonials: from n/a through 3.1.16.\n\nPublication Date: Mon Nov 04 22:02:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Strong"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47362"
+            ]
+        },
+        {
+            "Message ID": 91823,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-10101\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10101\n\nDescription: A stored cross-site scripting (XSS) vulnerability exists in binary-husky/gpt_academic version 3.83. The vulnerability occurs at the /file endpoint, which renders HTML files. Malicious HTML files containing XSS payloads can be uploaded and stored in the backend, leading to the execution of the payload in the victim's browser when the file is accessed. This can result in the theft of session cookies or other sensitive information.\n\nPublication Date: Mon Nov 04 22:02:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS",
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10101"
+            ]
+        },
+        {
+            "Message ID": 91822,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-10100\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10100\n\nDescription: A path traversal vulnerability exists in binary-husky/gpt_academic version 3.83. The vulnerability is due to improper handling of the file parameter, which is open to path traversal through URL encoding. This allows attackers to view any file on the host system, including sensitive files such as critical application files, SSH keys, API keys, and configuration values.\n\nPublication Date: Mon Nov 04 22:02:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10100"
             ]
         }
     ],
