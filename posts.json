@@ -14383,6 +14383,21 @@
                 "https://www.sadat.com.tr/ar/",
                 "https://check-host.net/check-report/1ff35bfek466"
             ]
+        },
+        {
+            "Message ID": 5323,
+            "discovered": "2024-11-04",
+            "post_title": "We hacked the website of Saudi Journalists Association, \n\nIn response to it's connection with the Zionist Entity, as we seen how they are stopping Missiles from Yemen and Iran from hitting the entity \n\nThe operation against the Zionist entity and it's Helpers will continue \n\nLink:-  https://sju.org.sa/\nMirror:- https://mirror-h.org/zone/5801385/\n\ncredz:-D01\n\n#SYLHETGANG_SG \n\n#D01",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Missiles",
+                "Yemen",
+                "Iran"
+            ],
+            "URLs": [
+                "https://sju.org.sa/",
+                "https://mirror-h.org/zone/5801385/"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
@@ -64571,6 +64586,78 @@
             ],
             "URLs": [
                 "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628"
+            ]
+        },
+        {
+            "Message ID": 91795,
+            "discovered": "2024-11-04",
+            "post_title": "Victim: www.mssupply.com\n\nDetection Date: Mon Nov 04 20:40:19 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.mssupply.com"
+            ]
+        },
+        {
+            "Message ID": 91794,
+            "discovered": "2024-11-04",
+            "post_title": "Victim: www.drbutlerandassociates.com\n\nDetection Date: Mon Nov 04 20:40:04 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.drbutlerandassociates.com"
+            ]
+        },
+        {
+            "Message ID": 91793,
+            "discovered": "2024-11-04",
+            "post_title": "Victim: www.schweiker.de\n\nDetection Date: Mon Nov 04 20:39:48 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.schweiker.de"
+            ]
+        },
+        {
+            "Message ID": 91792,
+            "discovered": "2024-11-04",
+            "post_title": "Victim: kenanasugarcompany.com\n\nDetection Date: Mon Nov 04 20:39:32 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "kenanasugarcompany.com"
+            ]
+        },
+        {
+            "Message ID": 91791,
+            "discovered": "2024-11-04",
+            "post_title": "Victim: goodline.com.au\n\nDetection Date: Mon Nov 04 20:39:17 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "goodline.com.au"
+            ]
+        },
+        {
+            "Message ID": 91790,
+            "discovered": "2024-11-04",
+            "post_title": "Victim: maxdata.com.br\n\nDetection Date: Mon Nov 04 20:39:00 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "maxdata.com.br"
             ]
         }
     ],
