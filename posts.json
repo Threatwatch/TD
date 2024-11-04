@@ -61612,6 +61612,259 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10752"
             ]
+        },
+        {
+            "Message ID": 91619,
+            "discovered": "2024-11-04",
+            "post_title": "Title: ISC Stormcast For Monday, November 4th, 2024 https://isc.sans.edu/podcastdetail/9206, (Mon, Nov 4th)\n\nDate: November 4, 2024\n\nSource: https://isc.sans.edu/diary/rss/31410\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/podcastdetail/9206",
+                "https://isc.sans.edu/diary/rss/31410"
+            ]
+        },
+        {
+            "Message ID": 91618,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20106\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20106\n\nDescription: In m4u, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS08960505; Issue ID: MSV-1590.\n\nPublication Date: Mon Nov 04 06:06:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20106"
+            ]
+        },
+        {
+            "Message ID": 91617,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20107\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20107\n\nDescription: In da, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09124360; Issue ID: MSV-1823.\n\nPublication Date: Mon Nov 04 06:06:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20107"
+            ]
+        },
+        {
+            "Message ID": 91616,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20108\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20108\n\nDescription: In atci, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09082988; Issue ID: MSV-1774.\n\nPublication Date: Mon Nov 04 06:06:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20108"
+            ]
+        },
+        {
+            "Message ID": 91615,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20109\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20109\n\nDescription: In ccu, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09065928; Issue ID: MSV-1763.\n\nPublication Date: Mon Nov 04 06:06:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20109"
+            ]
+        },
+        {
+            "Message ID": 91614,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20110\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20110\n\nDescription: In ccu, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09065887; Issue ID: MSV-1762.\n\nPublication Date: Mon Nov 04 06:05:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20110"
+            ]
+        },
+        {
+            "Message ID": 91613,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20111\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20111\n\nDescription: In ccu, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09065033; Issue ID: MSV-1754.\n\nPublication Date: Mon Nov 04 06:05:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20111"
+            ]
+        },
+        {
+            "Message ID": 91612,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20112\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20112\n\nDescription: In isp, there is a possible out of bounds read due to a missing bounds check. This could lead to local denial of service with System execution privileges needed. User interaction is needed for exploitation. Patch ID: ALPS09071481; Issue ID: MSV-1730.\n\nPublication Date: Mon Nov 04 06:05:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20112"
+            ]
+        },
+        {
+            "Message ID": 91611,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20113\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20113\n\nDescription: In ccu, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09036814; Issue ID: MSV-1715.\n\nPublication Date: Mon Nov 04 06:05:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20113"
+            ]
+        },
+        {
+            "Message ID": 91610,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20114\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20114\n\nDescription: In ccu, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09037038; Issue ID: MSV-1714.\n\nPublication Date: Mon Nov 04 06:05:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20114"
+            ]
+        },
+        {
+            "Message ID": 91609,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20115\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20115\n\nDescription: In ccu, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09036695; Issue ID: MSV-1713.\n\nPublication Date: Mon Nov 04 06:05:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20115"
+            ]
+        },
+        {
+            "Message ID": 91608,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20117\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20117\n\nDescription: In vdec, there is a possible out of bounds read due to improper structure design. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09008925; Issue ID: MSV-1681.\n\nPublication Date: Mon Nov 04 06:04:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20117"
+            ]
+        },
+        {
+            "Message ID": 91607,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20118\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20118\n\nDescription: In mms, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09062392; Issue ID: MSV-1621.\n\nPublication Date: Mon Nov 04 06:04:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20118"
+            ]
+        },
+        {
+            "Message ID": 91606,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20119\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20119\n\nDescription: In mms, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09062301; Issue ID: MSV-1620.\n\nPublication Date: Mon Nov 04 06:04:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20119"
+            ]
+        },
+        {
+            "Message ID": 91605,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20120\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20120\n\nDescription: In KeyInstall, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS08956986; Issue ID: MSV-1575.\n\nPublication Date: Mon Nov 04 06:04:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20120"
+            ]
+        },
+        {
+            "Message ID": 91604,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20121\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20121\n\nDescription: In KeyInstall, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS08956986; Issue ID: MSV-1574.\n\nPublication Date: Mon Nov 04 06:04:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20121"
+            ]
+        },
+        {
+            "Message ID": 91603,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20122\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20122\n\nDescription: In vdec, there is a possible out of bounds read due to improper structure design. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09008925; Issue ID: MSV-1572.\n\nPublication Date: Mon Nov 04 06:03:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20122"
+            ]
+        },
+        {
+            "Message ID": 91602,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20123\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20123\n\nDescription: In vdec, there is a possible out of bounds read due to improper structure design. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09008925; Issue ID: MSV-1569.\n\nPublication Date: Mon Nov 04 06:03:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20123"
+            ]
+        },
+        {
+            "Message ID": 91601,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-20124\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20124\n\nDescription: In vdec, there is a possible out of bounds read due to improper structure design. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS09008925; Issue ID: MSV-1568.\n\nPublication Date: Mon Nov 04 06:03:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20124"
+            ]
+        },
+        {
+            "Message ID": 91600,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-10754\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10754\n\nDescription: A vulnerability was found in PHPGurukul Online Shopping Portal 2.0. It has been rated as problematic. This issue affects some unknown processing of the file /admin/assets/plugins/DataTables/media/unit_testing/templates/dymanic_table.php. The manipulation of the argument scripts leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Nov 04 06:03:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10754"
+            ]
+        },
+        {
+            "Message ID": 91599,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-10755\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10755\n\nDescription: A vulnerability classified as problematic has been found in PHPGurukul Online Shopping Portal 2.0. Affected is an unknown function of the file /admin/assets/plugins/DataTables/media/unit_testing/templates/empty_table.php. The manipulation of the argument scripts leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Nov 04 06:03:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10755"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
