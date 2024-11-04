@@ -61995,6 +61995,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10761"
             ]
+        },
+        {
+            "Message ID": 91627,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-48342\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48342\n\nDescription: Redis 2.60 through 7.41 allows a denial of service (memory consumption) when authentication is enabled because \"client-output-buffer-limit normal\" has no limit, and an attacker can send requests without a password (which results in a \"NOAUTH Authentication required\" response). NOTE: this is disputed by third parties because Redis is not intended for use with untrusted clients.\n\nPublication Date: Mon Nov 04 10:08:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48342"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
