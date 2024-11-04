@@ -15187,6 +15187,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 1255,
+            "discovered": "2024-11-04",
+            "post_title": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - San Francisco Ballet\n\nINC Ransom hacking group claims to have breached San Francisco Ballet. \n\nAllegedly, exfiltrated data include financial data, email correspondence, personally identifiable information (PII), and students’ data.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "San Francisco Ballet"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1254,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🚨🚨Cyberattack Alert ‼️\n\n🇪🇺European External Action Service (EEAS)\n\nHunters International ransomware group claims to have breached the European External Action Service (EEAS), the diplomatic service in charge of executing all international relations of the European Union.\n\nAllegedly, 52.3 GB (21,680 files) of confidential data, including employees’ data, databases, financial records,  personally identifiable information (PII) and more, were exfiltrated.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
@@ -62812,6 +62832,78 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2021-47348"
+            ]
+        },
+        {
+            "Message ID": 91691,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-52500\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52500\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nscsi: pm80xx: Avoid leaking tags when processing OPC_INB_SET_CONTROLLER_CONFIG command\n\nTags allocated for OPC_INB_SET_CONTROLLER_CONFIG command need to be freed\nwhen we receive the response.\n\nPublication Date: Mon Nov 04 16:15:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52500"
+            ]
+        },
+        {
+            "Message ID": 91690,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-52501\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52501\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nring-buffer: Do not attempt to read past \"commit\"\n\nWhen iterating over the ring buffer while the ring buffer is active, the\nwriter can corrupt the reader. There's barriers to help detect this and\nhandle it, but that code missed the case where the last event was at the\nvery end of the page and has only 4 bytes left.\n\nThe checks to detect the corruption by the writer to reads needs to see the\nlength of the event. If the length in the first 4 bytes is zero then the\nlength is stored in the second 4 bytes. But if the writer is in the process\nof updating that code, there's a small window where the length in the first\n4 bytes could be zero even though the length is only 4 bytes. That will\ncause rb_event_length() to read the next 4 bytes which could happen to be off the\nallocated page.\n\nTo protect against this, fail immediately if the next event pointer is\nless than 8 bytes from the end of the commit (last byte of data), as all\nevents must be a minimum of 8 bytes anyway.\n\nPublication Date: Mon Nov 04 16:15:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52501"
+            ]
+        },
+        {
+            "Message ID": 91689,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-52502\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52502\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: nfc: fix races in nfc_llcp_sock_get() and nfc_llcp_sock_get_sn()\n\nSili Luo reported a race in nfc_llcp_sock_get(), leading to UAF.\n\nGetting a reference on the socket found in a lookup while\nholding a lock should happen before releasing the lock.\n\nnfc_llcp_sock_get_sn() has a similar problem.\n\nFinally nfc_llcp_recv_snl() needs to make sure the socket\nfound by nfc_llcp_sock_from_sn() does not disappear.\n\nPublication Date: Mon Nov 04 16:14:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52502"
+            ]
+        },
+        {
+            "Message ID": 91688,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-52503\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52503\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ntee: amdtee: fix use-after-free vulnerability in amdtee_close_session\n\nThere is a potential race condition in amdtee_close_session that may\ncause use-after-free in amdtee_open_session. For instance, if a session\nhas refcount == 1, and one thread tries to free this session via:\n\n    kref_put(&sess->refcount, destroy_session);\n\nthe reference count will get decremented, and the next step would be to\ncall destroy_session(). However, if in another thread,\namdtee_open_session() is called before destroy_session() has completed\nexecution, alloc_session() may return 'sess' that will be freed up\nlater in destroy_session() leading to use-after-free in\namdtee_open_session.\n\nTo fix this issue, treat decrement of sess->refcount and removal of\n'sess' from session list in destroy_session() as a critical section, so\nthat it is executed atomically.\n\nPublication Date: Mon Nov 04 16:14:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52503"
+            ]
+        },
+        {
+            "Message ID": 91687,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-52504\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52504\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nx86/alternatives: Disable KASAN in apply_alternatives()\n\nFei has reported that KASAN triggers during apply_alternatives() on\na 5-level paging machine:\n\n BUG: KASAN: out-of-bounds in rcu_is_watching()\n Read of size 4 at addr ff110003ee6419a0 by task swapper/0/0\n ...\n __asan_load4()\n rcu_is_watching()\n trace_hardirqs_on()\n text_poke_early()\n apply_alternatives()\n ...\n\nOn machines with 5-level paging, cpu_feature_enabled(X86_FEATURE_LA57)\ngets patched. It includes KASAN code, where KASAN_SHADOW_START depends on\n__VIRTUAL_MASK_SHIFT, which is defined with cpu_feature_enabled().\n\nKASAN gets confused when apply_alternatives() patches the\nKASAN_SHADOW_START users. A test patch that makes KASAN_SHADOW_START\nstatic, by replacing __VIRTUAL_MASK_SHIFT with 56, works around the issue.\n\nFix it for real by disabling KASAN while the kernel is patching alternatives.\n\n[ mingo: updated the changelog ]\n\nPublication Date: Mon Nov 04 16:14:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52504"
+            ]
+        },
+        {
+            "Message ID": 91686,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-52507\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52507\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnfc: nci: assert requested protocol is valid\n\nThe protocol is used in a bit mask to determine if the protocol is\nsupported. Assert the provided protocol is less than the maximum\ndefined so it doesn't potentially perform a shift-out-of-bounds and\nprovide a clearer error for undefined protocols vs unsupported ones.\n\nPublication Date: Mon Nov 04 16:03:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52507"
             ]
         }
     ],
