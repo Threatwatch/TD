@@ -7811,6 +7811,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/888-allegedly-leaked-data-of-swenson-park-golf-course/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6383,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇪🇸888 Has Allegedly Leaked the Data of LEOlytics\n\nhttps://darkwebinformer.com/888-has-allegedly-leaked-the-data-of-leolytics/\n\nA threat actor claims to have leaked the database of LEOlytics. The compromised data reportedly includes information on 7,400 users, featuring company names, email addresses, phone numbers, tax data, invoices, VAT details, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/888-has-allegedly-leaked-the-data-of-leolytics/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6382,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇺🇸Nick Diesel Has Allegedly Leaked Data of Multiple US-Based Companies\n\nhttps://darkwebinformer.com/nick-diesel-has-allegedly-leaked-data-of-multiple-us-based-companies/\n\nA threat actor alleges they have leaked data from several US-based organizations. The data dump reportedly amounts to 520 GB and impacts approximately 850,000 individuals, including personal details, driver's licenses, phone numbers, certificates, and various other documents.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "US"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/nick-diesel-has-allegedly-leaked-data-of-multiple-us-based-companies/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -33890,6 +33914,31 @@
             "URLs": [
                 "llfordelectric.com, ",
                 "somfeed.it/index.php?page=post_details&id_post=18375"
+            ]
+        },
+        {
+            "Message ID": 4050,
+            "discovered": "2024-11-04",
+            "post_title": "ID: 18379\n⚠ Mon, 04 Nov 2024 13:27:57 UTC\n🥷 incransom\n🎯 San Francisco Ballet, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18379",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18379"
+            ]
+        },
+        {
+            "Message ID": 4049,
+            "discovered": "2024-11-04",
+            "post_title": "ID: 18378\n⚠ Mon, 04 Nov 2024 16:52:56 UTC\n🥷 ransomhub\n🎯 www.mssupply.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18378",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "w.mssupply.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18378"
             ]
         }
     ],
