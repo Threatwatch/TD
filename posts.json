@@ -29235,6 +29235,16 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3464,
+            "discovered": "2024-11-04",
+            "post_title": "Group: hunters\nApprox. Time: 12:38 04/11/24\nTitle: European External Action Service (EEAS)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -33290,6 +33300,44 @@
             "URLs": [
                 "mbertstonecommercial.com, ",
                 "somfeed.it/index.php?page=post_details&id_post=18369"
+            ]
+        },
+        {
+            "Message ID": 4044,
+            "discovered": "2024-11-04",
+            "post_title": "ID: 18373\n⚠ Mon, 04 Nov 2024 07:30:48 UTC\n🥷 ransomhub\n🎯 krigerconstruction.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18373",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "igerconstruction.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18373"
+            ]
+        },
+        {
+            "Message ID": 4043,
+            "discovered": "2024-11-04",
+            "post_title": "ID: 18372\n⚠ Mon, 04 Nov 2024 10:55:48 UTC\n🥷 hunters\n🎯 Air Specialists Heating  AND  Air Conditioning, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18372",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18372"
+            ]
+        },
+        {
+            "Message ID": 4042,
+            "discovered": "2024-11-04",
+            "post_title": "ID: 18370\n⚠ Mon, 04 Nov 2024 08:54:15 UTC\n🥷 ransomhub\n🎯 caseconstruction.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18370",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "seconstruction.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18370"
             ]
         }
     ],
@@ -62506,6 +62554,264 @@
             ],
             "URLs": [
                 "csucontracting.com"
+            ]
+        },
+        {
+            "Message ID": 91685,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Chinese Hackers Attacking Microsoft Customers With Sophisticated Password Spray Attacks\n\nDate: November 4, 2024\n\nSource: https://gbhackers.com/chinese-password-attacks-microsoft/\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://gbhackers.com/chinese-password-attacks-microsoft/"
+            ]
+        },
+        {
+            "Message ID": 91684,
+            "discovered": "2024-11-04",
+            "post_title": "Title: IT Pro Tuesday #326\n\nDate: November 4, 2024\n\nSource: https://www.hornetsecurity.com/en/blog/it-pro-tuesday-326/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.hornetsecurity.com/en/blog/it-pro-tuesday-326/"
+            ]
+        },
+        {
+            "Message ID": 91683,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47329\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47329\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nscsi: megaraid_sas: Fix resource leak in case of probe failure\n\nThe driver doesn't clean up all the allocated resources properly when\nscsi_add_host(), megasas_start_aen() function fails during the PCI device\nprobe.\n\nClean up all those resources.\n\nPublication Date: Mon Nov 04 15:29:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47329"
+            ]
+        },
+        {
+            "Message ID": 91682,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47330\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47330\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ntty: serial: 8250: serial_cs: Fix a memory leak in error handling path\n\nIn the probe function, if the final 'serial_config()' fails, 'info' is\nleaking.\n\nAdd a resource handling path to free this memory.\n\nPublication Date: Mon Nov 04 15:29:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47330"
+            ]
+        },
+        {
+            "Message ID": 91681,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47331\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47331\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nusb: common: usb-conn-gpio: fix NULL pointer dereference of charger\n\nWhen power on system with OTG cable, IDDIG's interrupt arises before\nthe charger registration, it will cause a NULL pointer dereference,\nfix the issue by registering the power supply before requesting\nIDDIG/VBUS irq.\n\nPublication Date: Mon Nov 04 15:29:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47331"
+            ]
+        },
+        {
+            "Message ID": 91680,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47332\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47332\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nALSA: usx2y: Don't call free_pages_exact() with NULL address\n\nUnlike some other functions, we can't pass NULL pointer to\nfree_pages_exact().  Add a proper NULL check for avoiding possible\nOops.\n\nPublication Date: Mon Nov 04 15:29:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47332"
+            ]
+        },
+        {
+            "Message ID": 91679,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47334\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47334\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nmisc/libmasm/module: Fix two use after free in ibmasm_init_one\n\nIn ibmasm_init_one, it calls ibmasm_init_remote_input_dev().\nInside ibmasm_init_remote_input_dev, mouse_dev and keybd_dev are\nallocated by input_allocate_device(), and assigned to\nsp->remote.mouse_dev and sp->remote.keybd_dev respectively.\n\nIn the err_free_devices error branch of ibmasm_init_one,\nmouse_dev and keybd_dev are freed by input_free_device(), and return\nerror. Then the execution runs into error_send_message error branch\nof ibmasm_init_one, where ibmasm_free_remote_input_dev(sp) is called\nto unregister the freed sp->remote.mouse_dev and sp->remote.keybd_dev.\n\nMy patch add a \"error_init_remote\" label to handle the error of\nibmasm_init_remote_input_dev(), to avoid the uaf bugs.\n\nPublication Date: Mon Nov 04 15:29:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47334"
+            ]
+        },
+        {
+            "Message ID": 91678,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47335\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47335\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nf2fs: fix to avoid racing on fsync_entry_slab by multi filesystem instances\n\nAs syzbot reported, there is an use-after-free issue during f2fs recovery:\n\nUse-after-free write at 0xffff88823bc16040 (in kfence-#10):\n kmem_cache_destroy+0x1f/0x120 mm/slab_common.c:486\n f2fs_recover_fsync_data+0x75b0/0x8380 fs/f2fs/recovery.c:869\n f2fs_fill_super+0x9393/0xa420 fs/f2fs/super.c:3945\n mount_bdev+0x26c/0x3a0 fs/super.c:1367\n legacy_get_tree+0xea/0x180 fs/fs_context.c:592\n vfs_get_tree+0x86/0x270 fs/super.c:1497\n do_new_mount fs/namespace.c:2905 [inline]\n path_mount+0x196f/0x2be0 fs/namespace.c:3235\n do_mount fs/namespace.c:3248 [inline]\n __do_sys_mount fs/namespace.c:3456 [inline]\n __se_sys_mount+0x2f9/0x3b0 fs/namespace.c:3433\n do_syscall_64+0x3f/0xb0 arch/x86/entry/common.c:47\n entry_SYSCALL_64_after_hwframe+0x44/0xae\n\nThe root cause is multi f2fs filesystem instances can race on accessing\nglobal fsync_entry_slab pointer, result in use-after-free issue of slab\ncache, fixes to init/destroy this slab cache only once during module\ninit/destroy procedure to avoid this issue.\n\nPublication Date: Mon Nov 04 15:28:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47335"
+            ]
+        },
+        {
+            "Message ID": 91677,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47336\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47336\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nsmackfs: restrict bytes count in smk_set_cipso()\n\nOops, I failed to update subject line.\n\nFrom 07571157c91b98ce1a4aa70967531e64b78e8346 Mon Sep 17 00:00:00 2001\nDate: Mon, 12 Apr 2021 22:25:06 +0900\nSubject: [PATCH] smackfs: restrict bytes count in smk_set_cipso()\n\nCommit 7ef4c19d245f3dc2 (\"smackfs: restrict bytes count in smackfs write\nfunctions\") missed that count > SMK_CIPSOMAX check applies to only\nformat == SMK_FIXED24_FMT case.\n\nPublication Date: Mon Nov 04 15:28:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47336"
+            ]
+        },
+        {
+            "Message ID": 91676,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47337\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47337\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nscsi: core: Fix bad pointer dereference when ehandler kthread is invalid\n\nCommit 66a834d09293 (\"scsi: core: Fix error handling of scsi_host_alloc()\")\nchanged the allocation logic to call put_device() to perform host cleanup\nwith the assumption that IDA removal and stopping the kthread would\nproperly be performed in scsi_host_dev_release(). However, in the unlikely\ncase that the error handler thread fails to spawn, shost->ehandler is set\nto ERR_PTR(-ENOMEM).\n\nThe error handler cleanup code in scsi_host_dev_release() will call\nkthread_stop() if shost->ehandler != NULL which will always be the case\nwhether the kthread was successfully spawned or not. In the case that it\nfailed to spawn this has the nasty side effect of trying to dereference an\ninvalid pointer when kthread_stop() is called. The following splat provides\nan example of this behavior in the wild:\n\nscsi host11: error handler thread failed to spawn, error = -4\nKernel attempted to read user page (10c) - exploit attempt? (uid: 0)\nBUG: Kernel NULL pointer dereference on read at 0x0000010c\nFaulting instruction address: 0xc00000000818e9a8\nOops: Kernel access of bad area, sig: 11 [#1]\nLE PAGE_SIZE=64K MMU=Hash SMP NR_CPUS=2048 NUMA pSeries\nModules linked in: ibmvscsi(+) scsi_transport_srp dm_multipath dm_mirror dm_region\n hash dm_log dm_mod fuse overlay squashfs loop\nCPU: 12 PID: 274 Comm: systemd-udevd Not tainted 5.13.0-rc7 #1\nNIP:  c00000000818e9a8 LR: c0000000089846e8 CTR: 0000000000007ee8\nREGS: c000000037d12ea0 TRAP: 0300   Not tainted  (5.13.0-rc7)\nMSR:  800000000280b033 <SF,VEC,VSX,EE,FP,ME,IR,DR,RI,LE>  CR: 28228228\nXER: 20040001\nCFAR: c0000000089846e4 DAR: 000000000000010c DSISR: 40000000 IRQMASK: 0\nGPR00: c0000000089846e8 c000000037d13140 c000000009cc1100 fffffffffffffffc\nGPR04: 0000000000000001 0000000000000000 0000000000000000 c000000037dc0000\nGPR08: 0000000000000000 c000000037dc0000 0000000000000001 00000000fffff7ff\nGPR12: 0000000000008000 c00000000a049000 c000000037d13d00 000000011134d5a0\nGPR16: 0000000000001740 c0080000190d0000 c0080000190d1740 c000000009129288\nGPR20: c000000037d13bc0 0000000000000001 c000000037d13bc0 c0080000190b7898\nGPR24: c0080000190b7708 0000000000000000 c000000033bb2c48 0000000000000000\nGPR28: c000000046b28280 0000000000000000 000000000000010c fffffffffffffffc\nNIP [c00000000818e9a8] kthread_stop+0x38/0x230\nLR [c0000000089846e8] scsi_host_dev_release+0x98/0x160\nCall Trace:\n[c000000033bb2c48] 0xc000000033bb2c48 (unreliable)\n[c0000000089846e8] scsi_host_dev_release+0x98/0x160\n[c00000000891e960] device_release+0x60/0x100\n[c0000000087e55c4] kobject_release+0x84/0x210\n[c00000000891ec78] put_device+0x28/0x40\n[c000000008984ea4] scsi_host_alloc+0x314/0x430\n[c0080000190b38bc] ibmvscsi_probe+0x54/0xad0 [ibmvscsi]\n[c000000008110104] vio_bus_probe+0xa4/0x4b0\n[c00000000892a860] really_probe+0x140/0x680\n[c00000000892aefc] driver_probe_device+0x15c/0x200\n[c00000000892b63c] device_driver_attach+0xcc/0xe0\n[c00000000892b740] __driver_attach+0xf0/0x200\n[c000000008926f28] bus_for_each_dev+0xa8/0x130\n[c000000008929ce4] driver_attach+0x34/0x50\n[c000000008928fc0] bus_add_driver+0x1b0/0x300\n[c00000000892c798] driver_register+0x98/0x1a0\n[c00000000810eb60] __vio_register_driver+0x80/0xe0\n[c0080000190b4a30] ibmvscsi_module_init+0x9c/0xdc [ibmvscsi]\n[c0000000080121d0] do_one_initcall+0x60/0x2d0\n[c000000008261abc] do_init_module+0x7c/0x320\n[c000000008265700] load_module+0x2350/0x25b0\n[c000000008265cb4] __do_sys_finit_module+0xd4/0x160\n[c000000008031110] system_call_exception+0x150/0x2d0\n[c00000000800d35c] system_call_common+0xec/0x278\n\nFix this be nulling shost->ehandler when the kthread fails to spawn.\n\nPublication Date: Mon Nov 04 15:28:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "DR",
+                "RI"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47337"
+            ]
+        },
+        {
+            "Message ID": 91675,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47338\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47338\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nfbmem: Do not delete the mode that is still in use\n\nThe execution of fb_delete_videomode() is not based on the result of the\nprevious fbcon_mode_deleted(). As a result, the mode is directly deleted,\nregardless of whether it is still in use, which may cause UAF.\n\n==================================================================\nBUG: KASAN: use-after-free in fb_mode_is_equal+0x36e/0x5e0 \\\ndrivers/video/fbdev/core/modedb.c:924\nRead of size 4 at addr ffff88807e0ddb1c by task syz-executor.0/18962\n\nCPU: 2 PID: 18962 Comm: syz-executor.0 Not tainted 5.10.45-rc1+ #3\nHardware name: QEMU Standard PC (i440FX + PIIX, 1996), BIOS ...\nCall Trace:\n __dump_stack lib/dump_stack.c:77 [inline]\n dump_stack+0x137/0x1be lib/dump_stack.c:118\n print_address_description+0x6c/0x640 mm/kasan/report.c:385\n __kasan_report mm/kasan/report.c:545 [inline]\n kasan_report+0x13d/0x1e0 mm/kasan/report.c:562\n fb_mode_is_equal+0x36e/0x5e0 drivers/video/fbdev/core/modedb.c:924\n fbcon_mode_deleted+0x16a/0x220 drivers/video/fbdev/core/fbcon.c:2746\n fb_set_var+0x1e1/0xdb0 drivers/video/fbdev/core/fbmem.c:975\n do_fb_ioctl+0x4d9/0x6e0 drivers/video/fbdev/core/fbmem.c:1108\n vfs_ioctl fs/ioctl.c:48 [inline]\n __do_sys_ioctl fs/ioctl.c:753 [inline]\n __se_sys_ioctl+0xfb/0x170 fs/ioctl.c:739\n do_syscall_64+0x2d/0x70 arch/x86/entry/common.c:46\n entry_SYSCALL_64_after_hwframe+0x44/0xa9\n\nFreed by task 18960:\n kasan_save_stack mm/kasan/common.c:48 [inline]\n kasan_set_track+0x3d/0x70 mm/kasan/common.c:56\n kasan_set_free_info+0x17/0x30 mm/kasan/generic.c:355\n __kasan_slab_free+0x108/0x140 mm/kasan/common.c:422\n slab_free_hook mm/slub.c:1541 [inline]\n slab_free_freelist_hook+0xd6/0x1a0 mm/slub.c:1574\n slab_free mm/slub.c:3139 [inline]\n kfree+0xca/0x3d0 mm/slub.c:4121\n fb_delete_videomode+0x56a/0x820 drivers/video/fbdev/core/modedb.c:1104\n fb_set_var+0x1f3/0xdb0 drivers/video/fbdev/core/fbmem.c:978\n do_fb_ioctl+0x4d9/0x6e0 drivers/video/fbdev/core/fbmem.c:1108\n vfs_ioctl fs/ioctl.c:48 [inline]\n __do_sys_ioctl fs/ioctl.c:753 [inline]\n __se_sys_ioctl+0xfb/0x170 fs/ioctl.c:739\n do_syscall_64+0x2d/0x70 arch/x86/entry/common.c:46\n entry_SYSCALL_64_after_hwframe+0x44/0xa9\n\nPublication Date: Mon Nov 04 15:28:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47338"
+            ]
+        },
+        {
+            "Message ID": 91674,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47339\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47339\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nmedia: v4l2-core: explicitly clear ioctl input data\n\nAs seen from a recent syzbot bug report, mistakes in the compat ioctl\nimplementation can lead to uninitialized kernel stack data getting used\nas input for driver ioctl handlers.\n\nThe reported bug is now fixed, but it's possible that other related\nbugs are still present or get added in the future. As the drivers need\nto check user input already, the possible impact is fairly low, but it\nmight still cause an information leak.\n\nTo be on the safe side, always clear the entire ioctl buffer before\ncalling the conversion handler functions that are meant to initialize\nthem.\n\nPublication Date: Mon Nov 04 15:28:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47339"
+            ]
+        },
+        {
+            "Message ID": 91673,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47340\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47340\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\njfs: fix GPF in diFree\n\nAvoid passing inode with\nJFS_SBI(inode->i_sb)->ipimap == NULL to\ndiFree()[1]. GFP will appear:\n\n struct inode *ipimap = JFS_SBI(ip->i_sb)->ipimap;\n struct inomap *imap = JFS_IP(ipimap)->i_imap;\n\nJFS_IP() will return invalid pointer when ipimap == NULL\n\nCall Trace:\n diFree+0x13d/0x2dc0 fs/jfs/jfs_imap.c:853 [1]\n jfs_evict_inode+0x2c9/0x370 fs/jfs/inode.c:154\n evict+0x2ed/0x750 fs/inode.c:578\n iput_final fs/inode.c:1654 [inline]\n iput.part.0+0x3fe/0x820 fs/inode.c:1680\n iput+0x58/0x70 fs/inode.c:1670\n\nPublication Date: Mon Nov 04 15:28:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "JFS_IP"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47340"
+            ]
+        },
+        {
+            "Message ID": 91672,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Supply Chain Attack Using Ethereum Smart Contracts to Distribute Multi-Platform Malware\n\nDate: November 4, 2024\n\nSource: https://checkmarx.com/blog/supply-chain-attack-using-ethereum-smart-contracts-to-distribute-multi-platform-malware/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://checkmarx.com/blog/supply-chain-attack-using-ethereum-smart-contracts-to-distribute-multi-platform-malware/"
+            ]
+        },
+        {
+            "Message ID": 91671,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Russia, Iran, And China Influence U.S. Elections, Microsoft Warns\n\nDate: November 4, 2024\n\nSource: https://gbhackers.com/foreign-influence-us-elections/\n\n#News #Russia #Iran #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Russia",
+                "Iran",
+                "Russia",
+                "Iran",
+                "China"
+            ],
+            "URLs": [
+                "https://gbhackers.com/foreign-influence-us-elections/"
+            ]
+        },
+        {
+            "Message ID": 91670,
+            "discovered": "2024-11-04",
+            "post_title": "Title: German Police Disrupt DDoS-for-Hire Platform dstat[.]cc; Suspects Arrested\n\nDate: Nov 04, 2024\n\nSource: https://thehackernews.com/2024/11/german-police-disrupt-ddos-for-hire.html\n\n#News #Germany",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Germany"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/german-police-disrupt-ddos-for-hire.html"
+            ]
+        },
+        {
+            "Message ID": 91669,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47343\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47343\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndm btree remove: assign new_root only when removal succeeds\n\nremove_raw() in dm_btree_remove() may fail due to IO read error\n(e.g. read the content of origin block fails during shadowing),\nand the value of shadow_spine::root is uninitialized, but\nthe uninitialized value is still assign to new_root in the\nend of dm_btree_remove().\n\nFor dm-thin, the value of pmd->details_root or pmd->root will become\nan uninitialized value, so if trying to read details_info tree again\nout-of-bound memory may occur as showed below:\n\n  general protection fault, probably for non-canonical address 0x3fdcb14c8d7520\n  CPU: 4 PID: 515 Comm: dmsetup Not tainted 5.13.0-rc6\n  Hardware name: QEMU Standard PC\n  RIP: 0010:metadata_ll_load_ie+0x14/0x30\n  Call Trace:\n   sm_metadata_count_is_more_than_one+0xb9/0xe0\n   dm_tm_shadow_block+0x52/0x1c0\n   shadow_step+0x59/0xf0\n   remove_raw+0xb2/0x170\n   dm_btree_remove+0xf4/0x1c0\n   dm_pool_delete_thin_device+0xc3/0x140\n   pool_message+0x218/0x2b0\n   target_message+0x251/0x290\n   ctl_ioctl+0x1c4/0x4d0\n   dm_ctl_ioctl+0xe/0x20\n   __x64_sys_ioctl+0x7b/0xb0\n   do_syscall_64+0x40/0xb0\n   entry_SYSCALL_64_after_hwframe+0x44/0xae\n\nFixing it by only assign new_root when removal succeeds\n\nPublication Date: Mon Nov 04 15:12:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "IO",
+                "target_message+0x251/0x290"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47343"
+            ]
+        },
+        {
+            "Message ID": 91668,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47345\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47345\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nRDMA/cma: Fix rdma_resolve_route() memory leak\n\nFix a memory leak when \"mda_resolve_route() is called more than once on\nthe same \"rdma_cm_id\".\n\nThis is possible if cma_query_handler() triggers the\nRDMA_CM_EVENT_ROUTE_ERROR flow which puts the state machine back and\nallows rdma_resolve_route() to be called again.\n\nPublication Date: Mon Nov 04 15:01:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47345"
+            ]
+        },
+        {
+            "Message ID": 91667,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47346\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47346\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ncoresight: tmc-etf: Fix global-out-of-bounds in tmc_update_etf_buffer()\n\ncommit 6f755e85c332 (\"coresight: Add helper for inserting synchronization\npackets\") removed trailing '\\0' from barrier_pkt array and updated the\ncall sites like etb_update_buffer() to have proper checks for barrier_pkt\nsize before read but missed updating tmc_update_etf_buffer() which still\nreads barrier_pkt past the array size resulting in KASAN out-of-bounds\nbug. Fix this by adding a check for barrier_pkt size before accessing\nlike it is done in etb_update_buffer().\n\n BUG: KASAN: global-out-of-bounds in tmc_update_etf_buffer+0x4b8/0x698\n Read of size 4 at addr ffffffd05b7d1030 by task perf/2629\n\n Call trace:\n  dump_backtrace+0x0/0x27c\n  show_stack+0x20/0x2c\n  dump_stack+0x11c/0x188\n  print_address_description+0x3c/0x4a4\n  __kasan_report+0x140/0x164\n  kasan_report+0x10/0x18\n  __asan_report_load4_noabort+0x1c/0x24\n  tmc_update_etf_buffer+0x4b8/0x698\n  etm_event_stop+0x248/0x2d8\n  etm_event_del+0x20/0x2c\n  event_sched_out+0x214/0x6f0\n  group_sched_out+0xd0/0x270\n  ctx_sched_out+0x2ec/0x518\n  __perf_event_task_sched_out+0x4fc/0xe6c\n  __schedule+0x1094/0x16a0\n  preempt_schedule_irq+0x88/0x170\n  arm64_preempt_schedule_irq+0xf0/0x18c\n  el1_irq+0xe8/0x180\n  perf_event_exec+0x4d8/0x56c\n  setup_new_exec+0x204/0x400\n  load_elf_binary+0x72c/0x18c0\n  search_binary_handler+0x13c/0x420\n  load_script+0x500/0x6c4\n  search_binary_handler+0x13c/0x420\n  exec_binprm+0x118/0x654\n  __do_execve_file+0x77c/0xba4\n  __arm64_compat_sys_execve+0x98/0xac\n  el0_svc_common+0x1f8/0x5e0\n  el0_svc_compat_handler+0x84/0xb0\n  el0_svc_compat+0x10/0x50\n\n The buggy address belongs to the variable:\n  barrier_pkt+0x10/0x40\n\n Memory state around the buggy address:\n  ffffffd05b7d0f00: fa fa fa fa 04 fa fa fa fa fa fa fa 00 00 00 00\n  ffffffd05b7d0f80: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00\n >ffffffd05b7d1000: 00 00 00 00 00 00 fa fa fa fa fa fa 00 00 00 03\n                                      ^\n  ffffffd05b7d1080: fa fa fa fa 00 02 fa fa fa fa fa fa 03 fa fa fa\n  ffffffd05b7d1100: fa fa fa fa 00 00 00 00 05 fa fa fa fa fa fa fa\n ==================================================================\n\nPublication Date: Mon Nov 04 15:01:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47346"
+            ]
+        },
+        {
+            "Message ID": 91666,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47347\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47347\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nwl1251: Fix possible buffer overflow in wl1251_cmd_scan\n\nFunction wl1251_cmd_scan calls memcpy without checking the length.\nHarden by checking the length is within the maximum allowed size.\n\nPublication Date: Mon Nov 04 15:00:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Harden"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47347"
+            ]
+        },
+        {
+            "Message ID": 91665,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47348\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47348\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amd/display: Avoid HDCP over-read and corruption\n\nInstead of reading the desired 5 bytes of the actual target field,\nthe code was reading 8. This could result in a corrupted value if the\ntrailing 3 bytes were non-zero, so instead use an appropriately sized\nand zero-initialized bounce buffer, and read only 5 bytes before casting\nto u64.\n\nPublication Date: Mon Nov 04 15:00:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47348"
             ]
         }
     ],
