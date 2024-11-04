@@ -7685,6 +7685,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unknown-mexican-company/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6373,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇮🇳Cyber Defence Unit Defaced the Website of Adruner Digital Marketing Agency\n\nhttps://darkwebinformer.com/cyber-defence-unit-defaced-the-website-of-adruner-digital-marketing-agency/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/cyber-defence-unit-defaced-the-website-of-adruner-digital-marketing-agency/"
+            ]
+        },
+        {
+            "Message ID": 6372,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇫🇷RipperSec Targeted the Website of Police Nationale\n\nhttps://darkwebinformer.com/rippersec-targeted-the-website-of-police-nationale/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rippersec-targeted-the-website-of-police-nationale/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -29521,6 +29545,54 @@
             ],
             "URLs": [
                 "https://t.co/14j9m6WXdz"
+            ]
+        },
+        {
+            "Message ID": 3469,
+            "discovered": "2024-11-04",
+            "post_title": "Group: ransomhub\nApprox. Time: 16:42 04/11/24\nTitle: https://t.co/4XwnbBrhI3",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/4XwnbBrhI3"
+            ]
+        },
+        {
+            "Message ID": 3468,
+            "discovered": "2024-11-04",
+            "post_title": "Group: ransomhub\nApprox. Time: 16:42 04/11/24\nTitle: https://t.co/9UVUOuvdeh",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/9UVUOuvdeh"
+            ]
+        },
+        {
+            "Message ID": 3467,
+            "discovered": "2024-11-04",
+            "post_title": "Group: ransomhub\nApprox. Time: 16:42 04/11/24\nTitle: https://t.co/9pYXQR7ryY",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/9pYXQR7ryY"
+            ]
+        },
+        {
+            "Message ID": 3466,
+            "discovered": "2024-11-04",
+            "post_title": "Group: ransomhub\nApprox. Time: 16:42 04/11/24\nTitle: https://t.co/ZgEyBNzqQC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/ZgEyBNzqQC"
             ]
         }
     ],
