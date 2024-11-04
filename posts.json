@@ -7544,6 +7544,26 @@
             "URLs": [
                 "https://x.com/jgreigj/status/1853446451835080849"
             ]
+        },
+        {
+            "Message ID": 6361,
+            "discovered": "2024-11-04",
+            "post_title": "ngl french baguettes are pretty good",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6360,
+            "discovered": "2024-11-04",
+            "post_title": "🚨Schneider Electric Has Allegedly Been Breached by HELLCAT\n\nHELLCAT is asking for $125,000 in French Baguettes 🤔",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -14080,6 +14100,27 @@
                 "https://www.tskgv.org.tr/",
                 "https://check-host.net/check-report/1fecf547k7d5"
             ]
+        },
+        {
+            "Message ID": 5319,
+            "discovered": "2024-11-04",
+            "post_title": "The Turkish AirStrikes are killing More civilians that those Kurdish Militias,\n\nWe for those Innocent Civilians \nWho can't Speak out,\n\nWe will speak for them, Turkiye is exporting many things to Israel\ndirectly Helping it in the genocide, From the money it get they targets Civilian areas without precision and correct information of The Militias presence\n\n#Op_Turkey",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Turkiye",
+                "Israel"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5318,
+            "discovered": "2024-11-04",
+            "post_title": "This news is completely Baseless and is not authentic,\n\nThis is circulated to defame Islamic Sharia and Defame the Country of Afghanistan",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -63323,6 +63364,181 @@
             ],
             "URLs": [
                 "fullfordelectric.com"
+            ]
+        },
+        {
+            "Message ID": 91734,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-28327\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-28327\n\nDescription: Asus RT-N12+ B1 router stores user passwords in plaintext, which could allow local attackers to obtain unauthorized access and modify router settings.\n\nPublication Date: Mon Nov 04 18:24:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-28327"
+            ]
+        },
+        {
+            "Message ID": 91733,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-45889\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45889\n\nDescription: DrayTek Vigor3900 1.5.1.3 contains a post-authentication command injection vulnerability. This vulnerability occurs when the `action` parameter in `cgi-bin/mainfunction.cgi` is set to `commandTable.`\n\nPublication Date: Mon Nov 04 18:24:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45889",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 91732,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-22721\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-22721\n\nDescription: Cross Site Request Forgery (CSRF) vulnerability in Form Tools 3.1.1 allows attackers to manipulate sensitive user data via crafted link.\n\nPublication Date: Mon Nov 04 18:24:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-22721"
+            ]
+        },
+        {
+            "Message ID": 91731,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Solving the painful password problem with better policies\n\nDate: November 04, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/solving-the-painful-password-problem-with-better-policies/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/solving-the-painful-password-problem-with-better-policies/"
+            ]
+        },
+        {
+            "Message ID": 91730,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-45890\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45890\n\nDescription: DrayTek Vigor3900 1.5.1.3 contains a post-authentication command injection vulnerability This vulnerability occurs when the `action` parameter in `cgi-bin/mainfunction.cgi` is set to `download_ovpn.`\n\nPublication Date: Mon Nov 04 18:12:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45890",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 91729,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-38403\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38403\n\nDescription: Transient DOS while parsing BTM ML IE when per STA profile is not included.\n\nPublication Date: Mon Nov 04 18:12:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38403"
+            ]
+        },
+        {
+            "Message ID": 91728,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-45887\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45887\n\nDescription: DrayTek Vigor3900 1.5.1.3 contains a post-authentication command injection vulnerability. This vulnerability occurs when the `action` parameter in `cgi-bin/mainfunction.cgi` is set to `doOpenVPN.`\n\nPublication Date: Mon Nov 04 18:12:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45887",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 91727,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-27867\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-27867\n\nDescription: An authentication issue was addressed with improved state management. This issue is fixed in AirPods Firmware Update 6A326, AirPods Firmware Update 6F8, and Beats Firmware Update 6F8. When your headphones are seeking a connection request to one of your previously paired devices, an attacker in Bluetooth range might be able to spoof the intended source device and gain access to your headphones.\n\nPublication Date: Mon Nov 04 18:12:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27867"
+            ]
+        },
+        {
+            "Message ID": 91726,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-45885\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45885\n\nDescription: DrayTek Vigor3900 1.5.1.3 contains a post-authentication command injection vulnerability. This vulnerability occurs when the `action` parameter in `cgi-bin/mainfunction.cgi` is set to `autodiscovery_clear.`\n\nPublication Date: Mon Nov 04 18:12:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45885",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 91725,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-45884\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45884\n\nDescription: DrayTek Vigor3900 1.5.1.3 contains a post-authentication command injection vulnerability. This vulnerability occurs when the `action` parameter in `cgi-bin/mainfunction.cgi` is set to `setSWMGroup.`\n\nPublication Date: Mon Nov 04 18:11:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45884",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 91724,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-33068\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-33068\n\nDescription: Transient DOS while parsing fragments of MBSSID IE from beacon frame.\n\nPublication Date: Mon Nov 04 18:11:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-33068"
+            ]
+        },
+        {
+            "Message ID": 91723,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-45882\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45882\n\nDescription: DrayTek Vigor3900 1.5.1.3 contains a command injection vulnerability. This vulnerability occurs when the `action` parameter in `cgi-bin/mainfunction.cgi` is set to `delete_map_profile.`\n\nPublication Date: Mon Nov 04 18:11:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45882",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 91722,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-45891\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45891\n\nDescription: DrayTek Vigor3900 1.5.1.3 contains a post-authentication command injection vulnerability. This vulnerability occurs when the `action` parameter in `cgi-bin/mainfunction.cgi` is set to `delete_wlan_profile.`\n\nPublication Date: Mon Nov 04 18:11:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45891",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 91721,
+            "discovered": "2024-11-04",
+            "post_title": "Title: City of Columbus: Data of 500,000 stolen in July ransomware attack\n\nDate: November 04, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/city-of-columbus-data-of-500-000-stolen-in-july-ransomware-attack/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Columbus"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/city-of-columbus-data-of-500-000-stolen-in-july-ransomware-attack/"
             ]
         }
     ],
