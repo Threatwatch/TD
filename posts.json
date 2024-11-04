@@ -7979,6 +7979,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6397,
+            "discovered": "2024-11-04",
+            "post_title": "I'll end this poll in 24 hours",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -66272,6 +66282,30 @@
             ],
             "URLs": [
                 "https://www.scworld.com/news/rhysida-ransomware-attack-on-columbus-claimed-500k-victims"
+            ]
+        },
+        {
+            "Message ID": 91888,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51734\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51734\n\nDescription: Zope AccessControl provides a general security framework for use in Zope. In affected versions anonymous users can delete the user data maintained by an `AccessControl.userfolder.UserFolder` which may prevent any privileged access. This problem has been fixed in version 7.2. Users are advised to upgrade. Users unable to upgrade may address the issue by adding `data__roles__ = ()` to `AccessControl.userfolder.UserFolder`.\n\nPublication Date: Tue Nov 05 02:45:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Zope"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51734"
+            ]
+        },
+        {
+            "Message ID": 91887,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-10805\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10805\n\nDescription: A vulnerability was found in code-projects University Event Management System 1.0. It has been classified as critical. This affects an unknown part of the file doedit.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions a confusing product name to be affected. Other parameters might be affected as well.\n\nPublication Date: Tue Nov 05 02:34:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10805"
             ]
         }
     ],
