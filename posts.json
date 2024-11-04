@@ -29154,6 +29154,42 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3460,
+            "discovered": "2024-11-04",
+            "post_title": "Group: ransomhub\nApprox. Time: 06:40 04/11/24\nTitle: https://t.co/tqXjwup9NN",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/tqXjwup9NN"
+            ]
+        },
+        {
+            "Message ID": 3459,
+            "discovered": "2024-11-04",
+            "post_title": "Group: ransomhub\nApprox. Time: 06:40 04/11/24\nTitle: https://t.co/57QaKcl0H1",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/57QaKcl0H1"
+            ]
+        },
+        {
+            "Message ID": 3458,
+            "discovered": "2024-11-04",
+            "post_title": "Group: ransomhub\nApprox. Time: 06:40 04/11/24\nTitle: https://t.co/MC6WyGJfEB",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/MC6WyGJfEB"
+            ]
         }
     ],
     "RansomfeedNews": [
