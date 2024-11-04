@@ -7889,6 +7889,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6390,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇮🇱ShadowDefenders Targeted the Website of The Jewish voice\n\nhttps://darkwebinformer.com/shadowdefenders-targeted-the-website-of-the-jewish-voice/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/shadowdefenders-targeted-the-website-of-the-jewish-voice/"
+            ]
+        },
+        {
+            "Message ID": 6389,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇸🇦SYLHET GANG-SG Defaced the Website of Saudi Journalists Association\n\nhttps://darkwebinformer.com/sylhet-gang-sg-defaced-the-website-of-saudi-journalists-association/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/sylhet-gang-sg-defaced-the-website-of-saudi-journalists-association/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -15689,6 +15713,16 @@
             "Attack Type": "Hacking",
             "Location": [
                 "France"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1259,
+            "discovered": "2024-11-04",
+            "post_title": "🚨 CyberAttack 🚨\n\n🇯🇴 Jordan Ministry of Education\n\nHellcat hacking group claims to have breached Jordan Ministry of Education. \n\nThe hackers allegedly exfiltrated 458 MB (compressed) of data, including identification cards, divorce papers, and various letters addressed to the Minister. \n\nThe data has been fully leaked.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
@@ -65337,6 +65371,162 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/schneider-electric-confirms-dev-platform-breach-after-hacker-steals-data/"
+            ]
+        },
+        {
+            "Message ID": 91850,
+            "discovered": "2024-11-04",
+            "post_title": "Title: DocuSign's Envelopes API abused to send realistic fake invoices\n\nDate: November 04, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/docusigns-envelopes-api-abused-to-send-realistic-fake-invoices/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/docusigns-envelopes-api-abused-to-send-realistic-fake-invoices/"
+            ]
+        },
+        {
+            "Message ID": 91849,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-30618\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-30618\n\nDescription: A Stored Cross-Site Scripting (XSS) Vulnerability in Chamilo LMS 1.11.26 allows a remote attacker to execute arbitrary JavaScript in a web browser by including a malicious payload in the 'content' parameter of 'group_topics.php'.\n\nPublication Date: Mon Nov 04 23:02:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-30618"
+            ]
+        },
+        {
+            "Message ID": 91848,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-30619\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-30619\n\nDescription: Chamilo LMS Version 1.11.26 is vulnerable to Incorrect Access Control. A non-authenticated attacker can request the number of messages and the number of online users via \"/main/inc/ajax/message.ajax.php?a=get_count_message\" AND \"/main/inc/ajax/online.ajax.php?a=get_users_online.\"\n\nPublication Date: Mon Nov 04 23:02:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-30619"
+            ]
+        },
+        {
+            "Message ID": 91847,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-34885\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34885\n\nDescription: Insufficiently protected credentials in SMTP server settings in 1C-Bitrix Bitrix24 23.300.100 allows remote administrators to read SMTP accounts passwords via HTTP GET request.\n\nPublication Date: Mon Nov 04 23:02:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34885"
+            ]
+        },
+        {
+            "Message ID": 91846,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-9324\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9324\n\nDescription: A vulnerability was found in Intelbras InControl up to 2.21.57. It has been rated as critical. Affected by this issue is some unknown functionality of the file /v1/operador/ of the component Relatório de Operadores Page. The manipulation of the argument fields leads to code injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 2.21.58 is able to address this issue. It is recommended to upgrade the affected component. The vendor was informed early on 2024-07-19 about this issue. The release of a fixed version 2.21.58 was announced for the end of August 2024 but then was postponed until 2024-09-20.\n\nPublication Date: Mon Nov 04 23:02:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9324"
+            ]
+        },
+        {
+            "Message ID": 91845,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-9325\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9325\n\nDescription: A vulnerability classified as critical has been found in Intelbras InControl up to 2.21.56. This affects an unknown part of the file C:\\Program Files (x86)\\Intelbras\\Incontrol Cliente\\incontrol_webcam\\incontrol-service-watchdog.exe. The manipulation leads to unquoted search path. It is possible to launch the attack on the local host. Upgrading to version 2.21.58 is able to address this issue. It is recommended to upgrade the affected component. The vendor was informed early on 2024-08-05 about this issue. The release of a fixed version 2.21.58 was announced for the end of August 2024 but then was postponed until 2024-09-20.\n\nPublication Date: Mon Nov 04 23:01:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9325"
+            ]
+        },
+        {
+            "Message ID": 91844,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-45185\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45185\n\nDescription: An issue was discovered in Samsung Mobile Processor, Wearable Processor, and Modem Exynos 9820, 9825, 980, 990, 850, 1080, 2100, 1280, 2200, 1330, 1380, 1480, 2400, 9110, W920, W930, Modem 5123, Modem 5300. There is an out-of-bounds write due to a heap overflow in the GPRS protocol.\n\nPublication Date: Mon Nov 04 23:01:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45185"
+            ]
+        },
+        {
+            "Message ID": 91843,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51407\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51407\n\nDescription: Floodlight SDN OpenFlow Controller v.1.2 has an issue that allows local hosts to construct false broadcast ports causing inter-host communication anomalies.\n\nPublication Date: Mon Nov 04 23:01:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51407"
+            ]
+        },
+        {
+            "Message ID": 91842,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-45086\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45086\n\nDescription: IBM WebSphere Application Server 8.5 and 9.0 is vulnerable to an XML external entity injection (XXE) attack when processing XML data. A privileged user could exploit this vulnerability to expose sensitive information or consume memory resources.\n\nPublication Date: Mon Nov 04 23:01:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45086"
+            ]
+        },
+        {
+            "Message ID": 91841,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-27525\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-27525\n\nDescription: Cross Site Scripting vulnerability in Chamilo LMS v.1.11.26 allows a remote attacker to escalate privileges via a crafted script to the filename parameter of the home.php component.\n\nPublication Date: Mon Nov 04 23:01:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27525"
+            ]
+        },
+        {
+            "Message ID": 91840,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-27524\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-27524\n\nDescription: Cross Site Scripting vulnerability in Chamilo LMS v.1.11.26 allows a remote attacker to escalate privileges via a crafted script to the filename parameter of the new_ticket.php component.\n\nPublication Date: Mon Nov 04 23:00:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27524"
+            ]
+        },
+        {
+            "Message ID": 91839,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-10791\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10791\n\nDescription: A vulnerability, which was classified as critical, has been found in Codezips Hospital Appointment System 1.0. This issue affects some unknown processing of the file /doctorAction.php. The manipulation of the argument Name leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions contradicting file and parameter names to be affected.\n\nPublication Date: Mon Nov 04 23:00:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10791"
+            ]
+        },
+        {
+            "Message ID": 91838,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-35083\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-35083\n\nDescription: J2EEFAST v2.7.0 was discovered to contain a SQL injection vulnerability via the findPage function in SysLoginInfoMapper.xml.\n\nPublication Date: Mon Nov 04 23:00:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "SysLoginInfoMapper.xml"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-35083"
             ]
         }
     ],
