@@ -66260,6 +66260,19 @@
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10601",
                 "https://github.com/LvZCh/td/issues/4"
             ]
+        },
+        {
+            "Message ID": 91886,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Rhysida ransomware attack on Columbus claimed 500K victims\n\nDate: November 4, 2024\n\nSource: https://www.scworld.com/news/rhysida-ransomware-attack-on-columbus-claimed-500k-victims\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Rhysida",
+                "Columbus"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/rhysida-ransomware-attack-on-columbus-claimed-500k-victims"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
