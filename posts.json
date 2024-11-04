@@ -7411,6 +7411,33 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6349,
+            "discovered": "2024-11-04",
+            "post_title": "I guess there is something for everyone. https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes"
+            ]
+        },
+        {
+            "Message ID": 6348,
+            "discovered": "2024-11-03",
+            "post_title": "💡No Daily Dose of Dark Web Informer. Caught up on some features and things return to normal tomorrow. Be sure to check Latest for all articles: https://darkwebinformer.com/latest/\n\n💡Changelog updated to Version 2.4; All changes can be found at: https://darkwebinformer.com/changelog\n\n🌟 Version 2.4 - November 3rd, 2024\n\n🎉 New Features:\n\n* \n\n⚙️ Improvements:\n\n* Moved servers for the status page to fix the issue with Dark Web sites consistently all going down at the same time for 1-2 hours at a time. After 1 day of monitoring, the server is stable and the responses from Onions is also good.\n* WhiteIntel was modified to show ComboList Expsure data\n* D.M. was missing on the Status page and is now added\n* Added an onion that was missing for B.C. in Fraud Vendors\n* Updated the top half of the text on all Subscriber categories\n\n🐛 Bug Fixes:\n\n* WhiteIntel was modified to show properly on mobile devices; this was tested via Desktop\n\n🐛 Open Bugs:\n\n* [Minor]: When changing all images to have rounded corners it makes the images look stretched and not centered on the website/X/Telegram/LinkedIn.\n* [Minor]: Add new tags next to new urls is not showing properly against the table.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Changelog",
+                "https://darkwebinformer.com/changelog",
+                "B.C."
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/latest/\n",
+                "tps://darkwebinformer.com/changelog\n\n"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -61331,6 +61358,42 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10744"
+            ]
+        },
+        {
+            "Message ID": 91588,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Unransomware: From Zero to Full Recovery in a Blink\n\nDate: November 4, 2024\n\nSource: https://medium.com/@DCSO_CyTec/unransomware-from-zero-to-full-recovery-in-a-blink-8a47dd031df3?source=rss-7c32125308fc------2\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://medium.com/@DCSO_CyTec/unransomware-from-zero-to-full-recovery-in-a-blink-8a47dd031df3?source=rss-7c32125308fc------2"
+            ]
+        },
+        {
+            "Message ID": 91587,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-10745\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10745\n\nDescription: A vulnerability was found in PHPGurukul Online Shopping Portal 2.0. It has been rated as problematic. Affected by this issue is some unknown functionality of the file /admin/assets/plugins/DataTables/media/unit_testing/templates/deferred_table.php. The manipulation of the argument scripts leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Nov 04 03:01:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10745"
+            ]
+        },
+        {
+            "Message ID": 91586,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-10746\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10746\n\nDescription: A vulnerability classified as problematic has been found in PHPGurukul Online Shopping Portal 2.0. This affects an unknown part of the file /admin/assets/plugins/DataTables/media/unit_testing/templates/dom_data.php. The manipulation of the argument scripts leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Nov 04 03:01:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10746"
             ]
         }
     ],
