@@ -7765,6 +7765,30 @@
                 "https://youtube.com/@DarkWebInformer",
                 "https://infosec.exchange/@DarkWebInformer"
             ]
+        },
+        {
+            "Message ID": 6379,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇦🇺🇩🇪🇺🇸🇺🇸🇧🇷RansomHub Ransomware Has Named Numerous Victims\n\nhttps://darkwebinformer.com/ransomhub-ransomware-has-named-numerous-victims/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "kwebinformer.com/ransomhub-ransomware-has-named-numerous-victims/"
+            ]
+        },
+        {
+            "Message ID": 6378,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇮🇱DarkRaaS is Allegedly Selling CRM Access of Lirot Finance\n\nhttps://darkwebinformer.com/darkraas-is-allegedly-selling-crm-access-of-lirot-finance/\n\nA threat actor is offering to sell access to Lirot Finance's CRM system. Additionally, they are providing a leads database from the company, which includes details such as contact information, financial profiles, and potential investment opportunities.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/darkraas-is-allegedly-selling-crm-access-of-lirot-finance/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -15530,6 +15554,16 @@
             "Attack Type": "Hacking",
             "Location": [
                 "Bosnia and"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1258,
+            "discovered": "2024-11-04",
+            "post_title": "🚨Cyberattack Alert ‼️\n\n🇫🇷France - Schneider Electric\n\nHellcat hacking group claims to have breached Schneider Electric. \n\nAllegedly, 40 GB of data, including projects, issues, plugins, and over 400,000 rows of user data, were exfiltrated. \n\nRansom demand: $125,000.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "France"
             ],
             "URLs": []
         }
@@ -64501,6 +64535,42 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-31304"
+            ]
+        },
+        {
+            "Message ID": 91789,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Gartner Report: How to Respond to the Threat Landscape in a Volatile, Complex and Ambiguous World\n\nDate: November 4, 2024\n\nSource: https://www.sonatype.com/blog/gartner-report-how-to-respond-to-the-threat-landscape-in-a-volatile-complex-and-ambiguous-world\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Volatile"
+            ],
+            "URLs": [
+                "https://www.sonatype.com/blog/gartner-report-how-to-respond-to-the-threat-landscape-in-a-volatile-complex-and-ambiguous-world"
+            ]
+        },
+        {
+            "Message ID": 91788,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Ubuntu security advisory (AV24-629)\n\nDate: November 4, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av24-629"
+            ]
+        },
+        {
+            "Message ID": 91787,
+            "discovered": "2024-11-04",
+            "post_title": "Title: IBM security advisory (AV24-628)\n\nDate: November 4, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av24-628"
             ]
         }
     ],
