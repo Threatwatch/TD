@@ -29934,6 +29934,28 @@
             "URLs": [
                 "https://t.co/iNtsSd2laZ"
             ]
+        },
+        {
+            "Message ID": 3473,
+            "discovered": "2024-11-04",
+            "post_title": "Group: qilin\nApprox. Time: 22:39 04/11/24\nTitle: https://t.co/u3dfl3jIob",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/u3dfl3jIob"
+            ]
+        },
+        {
+            "Message ID": 3472,
+            "discovered": "2024-11-04",
+            "post_title": "Group: qilin\nApprox. Time: 22:39 04/11/24\nTitle: AXIOM",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
