@@ -64681,6 +64681,256 @@
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/custom-pygmy-goat-malware-used-in-sophos-firewall-hack-on-govt-network/"
             ]
+        },
+        {
+            "Message ID": 91816,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Red Hat security advisory (AV24-630)\n\nDate: November 4, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av24-630"
+            ]
+        },
+        {
+            "Message ID": 91815,
+            "discovered": "2024-11-04",
+            "post_title": "Title: [Control systems] CISA ICS security advisories (AV24-631)\n\nDate: November 4, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av24-631"
+            ]
+        },
+        {
+            "Message ID": 91814,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-10618\n\nDescription: A vulnerability, which was classified as critical, has been found in Tongda OA 2017 up to 11.10. This issue affects some unknown processing of the file /pda/reportshop/record_detail.php. The manipulation of the argument repid leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10618\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/LvZCh/td/issues/9\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10618",
+                "https://github.com/LvZCh/td/issues/9"
+            ]
+        },
+        {
+            "Message ID": 91813,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-10619\n\nDescription: A vulnerability, which was classified as critical, was found in Tongda OA 2017 up to 11.10. Affected is an unknown function of the file /pda/reportshop/next_detail.php. The manipulation of the argument repid leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10619\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/LvZCh/td/issues/10\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10619",
+                "https://github.com/LvZCh/td/issues/10"
+            ]
+        },
+        {
+            "Message ID": 91812,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-10730\n\nDescription: A vulnerability, which was classified as critical, has been found in Tongda OA up to 11.6. This issue affects some unknown processing of the file /pda/appcenter/web_show.php. The manipulation of the argument ID leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10730\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/LvZCh/td/issues/15\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10730",
+                "https://github.com/LvZCh/td/issues/15"
+            ]
+        },
+        {
+            "Message ID": 91811,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-10731\n\nDescription: A vulnerability, which was classified as critical, was found in Tongda OA up to 11.10. Affected is an unknown function of the file /pda/appcenter/check_seal.php. The manipulation of the argument ID leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10731\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/LvZCh/td/issues/16\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10731",
+                "https://github.com/LvZCh/td/issues/16"
+            ]
+        },
+        {
+            "Message ID": 91810,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-10732\n\nDescription: A vulnerability has been found in Tongda OA 2017 up to 11.10 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /module/word_model/view/index.php. The manipulation of the argument query_str leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10732\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/LvZCh/td/issues/17\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10732",
+                "https://github.com/LvZCh/td/issues/17"
+            ]
+        },
+        {
+            "Message ID": 91809,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-10616\n\nDescription: A vulnerability classified as critical has been found in Tongda OA up to 11.9. This affects an unknown part of the file /pda/workflow/webSignSubmit.php. The manipulation of the argument saleId leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10616\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/LvZCh/td/issues/7\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10616",
+                "https://github.com/LvZCh/td/issues/7"
+            ]
+        },
+        {
+            "Message ID": 91808,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-10617\n\nDescription: A vulnerability classified as critical was found in Tongda OA up to 11.10. This vulnerability affects unknown code of the file /pda/workflow/check_seal.php. The manipulation of the argument ID leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10617\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/LvZCh/td/issues/8\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10617",
+                "https://github.com/LvZCh/td/issues/8"
+            ]
+        },
+        {
+            "Message ID": 91807,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-10615\n\nDescription: A vulnerability was found in Tongda OA 2017 up to 11.10. It has been rated as critical. Affected by this issue is some unknown functionality of the file /general/approve_center/query/list/input_form/delete_data_attach.php. The manipulation of the argument RUN_ID leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10615\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/LvZCh/td/issues/6\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10615",
+                "https://github.com/LvZCh/td/issues/6"
+            ]
+        },
+        {
+            "Message ID": 91806,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Growth capital of $50M obtained by Bugcrowd\n\nDate: November 4, 2024\n\nSource: https://www.scworld.com/brief/growth-capital-of-50m-obtained-by-bugcrowd\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/growth-capital-of-50m-obtained-by-bugcrowd"
+            ]
+        },
+        {
+            "Message ID": 91805,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-48809\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48809\n\nDescription: An issue in Open Networking Foundations sdran-in-a-box v.1.4.3 and onos-a1t v.0.2.3 allows a remote attacker to cause a denial of service via the onos-a1t component of the sdran-in-a-box, specifically the DeleteWatcher function.\n\nPublication Date: Mon Nov 04 21:04:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48809"
+            ]
+        },
+        {
+            "Message ID": 91804,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51136\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51136\n\nDescription: An XML External Entity (XXE) vulnerability in Dmoz2CSV in openimaj v1.3.10 allows attackers to access sensitive information or execute arbitrary code via supplying a crafted XML file.\n\nPublication Date: Mon Nov 04 21:04:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Dmoz2CSV"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51136"
+            ]
+        },
+        {
+            "Message ID": 91803,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-3571\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3571\n\nDescription: In PHOENIX CONTACTs WP 6xxx series web panels in versions prior to 4.0.10 a remote attacker with low privileges may use a specific HTTP POST releated to certificate operations to gain full access to the device.\n\nPublication Date: Mon Nov 04 21:04:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3571"
+            ]
+        },
+        {
+            "Message ID": 91802,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-48336\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48336\n\nDescription: The install() function of ProviderInstaller.java in Magisk App before canary version 27007 does not verify the GMS app before loading it, which allows a local untrusted app with no additional privileges to silently execute arbitrary code in the Magisk app and escalate privileges to root via a crafted package, aka Bug #8279. User interaction is not needed for exploitation.\n\nPublication Date: Mon Nov 04 21:04:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48336",
+                "ProviderInstaller.java"
+            ]
+        },
+        {
+            "Message ID": 91801,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-10766\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10766\n\nDescription: A vulnerability, which was classified as critical, has been found in Codezips Free Exam Hall Seating Management System 1.0. This issue affects some unknown processing of the file /pages/save_user.php. The manipulation of the argument image leads to unrestricted upload. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The initial researcher disclosure contains confusing vulnerability classes and file names.\n\nPublication Date: Mon Nov 04 21:04:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10766"
+            ]
+        },
+        {
+            "Message ID": 91800,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47551\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47551\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amd/amdkfd: Fix kernel panic when reset failed and been triggered again\n\nIn SRIOV configuration, the reset may failed to bring asic back to normal but stop cpsch\nalready been called, the start_cpsch will not be called since there is no resume in this\ncase.  When reset been triggered again, driver should avoid to do uninitialization again.\n\nPublication Date: Mon Nov 04 21:03:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47551"
+            ]
+        },
+        {
+            "Message ID": 91799,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51328\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51328\n\nDescription: Cross Site Scripting vulnerability in addcategory.php in projectworld's Travel Management System v1.0 allows remote attacker to inject arbitrary code via the t2 parameter.\n\nPublication Date: Mon Nov 04 21:03:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51328"
+            ]
+        },
+        {
+            "Message ID": 91798,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-52561\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52561\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\narm64: dts: qcom: sdm845-db845c: Mark cont splash memory region as reserved\n\nAdding a reserved memory region for the framebuffer memory\n(the splash memory region set up by the bootloader).\n\nIt fixes a kernel panic (arm-smmu: Unhandled context fault\nat this particular memory region) reported on DB845c running\nv5.10.y.\n\nPublication Date: Mon Nov 04 21:03:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "DB845c"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52561"
+            ]
+        },
+        {
+            "Message ID": 91797,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-26758\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-26758\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nmd: Don't ignore suspended array in md_check_recovery()\n\nmddev_suspend() never stop sync_thread, hence it doesn't make sense to\nignore suspended array in md_check_recovery(), which might cause\nsync_thread can't be unregistered.\n\nAfter commit f52f5c71f3d4 (\"md: fix stopping sync thread\"), following\nhang can be triggered by test shell/integrity-caching.sh:\n\n1) suspend the array:\nraid_postsuspend\n mddev_suspend\n\n2) stop the array:\nraid_dtr\n md_stop\n  __md_stop_writes\n   stop_sync_thread\n    set_bit(MD_RECOVERY_INTR, &mddev->recovery);\n    md_wakeup_thread_directly(mddev->sync_thread);\n    wait_event(..., !test_bit(MD_RECOVERY_RUNNING, &mddev->recovery))\n\n3) sync thread done:\nmd_do_sync\n set_bit(MD_RECOVERY_DONE, &mddev->recovery);\n md_wakeup_thread(mddev->thread);\n\n4) daemon thread can't unregister sync thread:\nmd_check_recovery\n if (mddev->suspended)\n   return; -> return directly\n md_read_sync_thread\n clear_bit(MD_RECOVERY_RUNNING, &mddev->recovery);\n -> MD_RECOVERY_RUNNING can't be cleared, hence step 2 hang;\n\nThis problem is not just related to dm-raid, fix it by ignoring\nsuspended array in md_check_recovery(). And follow up patches will\nimprove dm-raid better to frozen sync thread during suspend.\n\nPublication Date: Mon Nov 04 21:03:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-26758",
+                "integrity-caching.sh"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
