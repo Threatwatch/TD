@@ -15219,6 +15219,16 @@
             "URLs": [
                 "s://www.hipaajournal.com/summit-pathology-data-breach/"
             ]
+        },
+        {
+            "Message ID": 1257,
+            "discovered": "2024-11-04",
+            "post_title": "🚨Cyberattack Alert ‼️\n\n🇧🇦Bosnia and Herzegovina - International University of Sarajevo (IUS)\n\nMedusa ransomware group claims to have breached the International University of Sarajevo (IUS). \n\nSamples have been provided.\n\nRansom demand: $180,000. \nRansom deadline: 12th Nov 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Bosnia and"
+            ],
+            "URLs": []
         }
     ],
     "ANONYM∅US": [
@@ -33370,6 +33380,18 @@
             "URLs": [
                 "seconstruction.com, ",
                 "somfeed.it/index.php?page=post_details&id_post=18370"
+            ]
+        },
+        {
+            "Message ID": 4045,
+            "discovered": "2024-11-04",
+            "post_title": "ID: 18374\n⚠ Mon, 04 Nov 2024 13:11:26 UTC\n🥷 hunters\n🎯 European External Action Service (EEAS), Belgium\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18374",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Belgium"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18374"
             ]
         }
     ],
@@ -63155,6 +63177,80 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-50527"
+            ]
+        },
+        {
+            "Message ID": 91717,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Critical Flaws in Ollama AI Framework Could Enable DoS, Model Theft, and Poisoning\n\nDate: Nov 04, 2024\n\nSource: https://thehackernews.com/2024/11/critical-flaws-in-ollama-ai-framework.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/critical-flaws-in-ollama-ai-framework.html"
+            ]
+        },
+        {
+            "Message ID": 91716,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51560\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51560\n\nDescription: This vulnerability exists in the Wave 2.0 due to improper exception handling for invalid inputs at certain API endpoint. An authenticated remote attacker could exploit this vulnerability by providing invalid inputs for “userId” parameter in the API request leading to generation of error message containing sensitive information on the targeted system.\n\nPublication Date: Mon Nov 04 17:15:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51560"
+            ]
+        },
+        {
+            "Message ID": 91715,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51561\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51561\n\nDescription: This vulnerability exists in Aero due to improper implementation of OTP validation mechanism in certain API endpoints. An authenticated remote attacker could exploit this vulnerability by intercepting and manipulating the responses exchanged during the second factor authentication process.  \n\nSuccessful exploitation of this vulnerability could allow the attacker to bypass OTP verification for accessing other user accounts.\n\nPublication Date: Mon Nov 04 17:14:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51561"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51561"
+            ]
+        },
+        {
+            "Message ID": 91714,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-9147\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9147\n\nDescription: Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in Bna Informatics PosPratik allows XSS Through HTTP Query Strings.This issue affects PosPratik: before v3.2.1.\n\nPublication Date: Mon Nov 04 17:14:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9147"
+            ]
+        },
+        {
+            "Message ID": 91713,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51246\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51246\n\nDescription: In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitrary commands by calling the doPPTP function.\n\nPublication Date: Mon Nov 04 17:14:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51246",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 91712,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51249\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51249\n\nDescription: In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitrary commands by calling the reboot function.\n\nPublication Date: Mon Nov 04 17:14:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51249",
+                "1.5.1.3"
             ]
         }
     ],
