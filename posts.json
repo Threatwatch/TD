@@ -7957,6 +7957,28 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6396,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇱🇻A Threat Actor Has Allegedly Leaked Employee Data of Balcia Insurance SE\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-employee-data-of-balcia-insurance-se/\n\nA threat actor claims to have leaked employee data from Balcia Insurance SE. The compromised data reportedly includes information from the Latvian, Lithuanian, and Polish branches, such as IDs, confidential documents, payroll data, full names, and PESEL (Polish national identification numbers).",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "PESEL"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-employee-data-of-balcia-insurance-se/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6395,
+            "discovered": "2024-11-04",
+            "post_title": "Disney never responded to me, this is a screenshot from a 3rd party benefits site that I had access to",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -65645,6 +65667,128 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-35083"
+            ]
+        },
+        {
+            "Message ID": 91860,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47555\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47555\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: vlan: fix underflow for the real_dev refcnt\n\nInject error before dev_hold(real_dev) in register_vlan_dev(),\nand execute the following testcase:\n\nip link add dev dummy1 type dummy\nip link add name dummy1.100 link dummy1 type vlan id 100\nip link del dev dummy1\n\nWhen the dummy netdevice is removed, we will get a WARNING as following:\n\n=======================================================================\nrefcount_t: decrement hit 0; leaking memory.\nWARNING: CPU: 2 PID: 0 at lib/refcount.c:31 refcount_warn_saturate+0xbf/0x1e0\n\nand an endless loop of:\n\n=======================================================================\nunregister_netdevice: waiting for dummy1 to become free. Usage count = -1073741824\n\nThat is because dev_put(real_dev) in vlan_dev_free() be called without\ndev_hold(real_dev) in register_vlan_dev(). It makes the refcnt of real_dev\nunderflow.\n\nMove the dev_hold(real_dev) to vlan_dev_init() which is the call-back of\nndo_init(). That makes dev_hold() and dev_put() for vlan's real_dev\nsymmetrical.\n\nPublication Date: Tue Nov 05 00:21:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47555"
+            ]
+        },
+        {
+            "Message ID": 91859,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-38587\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38587\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nspeakup: Fix sizeof() vs ARRAY_SIZE() bug\n\nThe \"buf\" pointer is an array of u16 values.  This code should be\nusing ARRAY_SIZE() (which is 256) instead of sizeof() (which is 512),\notherwise it can the still got out of bounds.\n\nPublication Date: Tue Nov 05 00:21:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38587"
+            ]
+        },
+        {
+            "Message ID": 91858,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-37264\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37264\n\nDescription: Tekton Pipelines project provides k8s-style resources for declaring CI/CD-style pipelines. Starting in version 0.35.0, pipelines do not validate child UIDs, which means that a user that has access to create TaskRuns can create their own Tasks that the Pipelines controller will accept as the child Task. While the software stores and validates the PipelineRun's (api version, kind, name, uid) in the child Run's OwnerReference, it only store (api version, kind, name) in the ChildStatusReference. This means that if a client had access to create TaskRuns on a cluster, they could create a child TaskRun for a pipeline with the same name + owner reference, and the Pipeline controller picks it up as if it was the original TaskRun. This is problematic since it can let users modify the config of Pipelines at runtime, which violates SLSA L2 Service Generated / Non-falsifiable requirements. This issue can be used to trick the Pipeline controller into associating unrelated Runs to the Pipeline, feeding its data through the rest of the Pipeline. This requires access to create TaskRuns, so impact may vary depending on one Tekton setup. If users already have unrestricted access to create any Task/PipelineRun, this does not grant any additional capabilities. As of time of publication, there are no known patches for this issue.\n\nPublication Date: Tue Nov 05 00:21:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Pipelines",
+                "Tekton"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37264"
+            ]
+        },
+        {
+            "Message ID": 91857,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-21726\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21726\n\nDescription: Inadequate content filtering leads to XSS vulnerabilities in various components.\n\nPublication Date: Tue Nov 05 00:21:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21726"
+            ]
+        },
+        {
+            "Message ID": 91856,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-3532\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3532\n\nDescription: Cross-site Scripting (XSS) - Stored in GitHub repository outline/outline prior to 0.70.1.\n\nPublication Date: Tue Nov 05 00:20:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3532"
+            ]
+        },
+        {
+            "Message ID": 91855,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Chinese telecom breaches won’t sway election outcomes, CISA chief says\n\nDate: November 4, 2024\n\nSource: https://www.nextgov.com/cybersecurity/2024/11/chinese-telecom-breaches-wont-sway-election-outcomes-cisa-chief-says/400801/\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://www.nextgov.com/cybersecurity/2024/11/chinese-telecom-breaches-wont-sway-election-outcomes-cisa-chief-says/400801/"
+            ]
+        },
+        {
+            "Message ID": 91854,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47350\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47350\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\npowerpc/mm: Fix lockup on kernel exec fault\n\nThe powerpc kernel is not prepared to handle exec faults from kernel.\nEspecially, the function is_exec_fault() will return 'false' when an\nexec fault is taken by kernel, because the check is based on reading\ncurrent->thread.regs->trap which contains the trap from user.\n\nFor instance, when provoking a LKDTM EXEC_USERSPACE test,\ncurrent->thread.regs->trap is set to SYSCALL trap (0xc00), and\nthe fault taken by the kernel is not seen as an exec fault by\nset_access_flags_filter().\n\nCommit d7df2443cd5f (\"powerpc/mm: Fix spurious segfaults on radix\nwith autonuma\") made it clear and handled it properly. But later on\ncommit d3ca587404b3 (\"powerpc/mm: Fix reporting of kernel execute\nfaults\") removed that handling, introducing test based on error_code.\nAnd here is the problem, because on the 603 all upper bits of SRR1\nget cleared when the TLB instruction miss handler bails out to ISI.\n\nUntil commit cbd7e6ca0210 (\"powerpc/fault: Avoid heavy\nsearch_exception_tables() verification\"), an exec fault from kernel\nat a userspace address was indirectly caught by the lack of entry for\nthat address in the exception tables. But after that commit the\nkernel mainly relies on KUAP or on core mm handling to catch wrong\nuser accesses. Here the access is not wrong, so mm handles it.\nIt is a minor fault because PAGE_EXEC is not set,\nset_access_flags_filter() should set PAGE_EXEC and voila.\nBut as is_exec_fault() returns false as explained in the beginning,\nset_access_flags_filter() bails out without setting PAGE_EXEC flag,\nwhich leads to a forever minor exec fault.\n\nAs the kernel is not prepared to handle such exec faults, the thing to\ndo is to fire in bad_kernel_fault() for any exec fault taken by the\nkernel, as it was prior to commit d3ca587404b3.\n\nPublication Date: Tue Nov 05 00:09:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47350"
+            ]
+        },
+        {
+            "Message ID": 91853,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47511\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47511\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nALSA: pcm: oss: Fix negative period/buffer sizes\n\nThe period size calculation in OSS layer may receive a negative value\nas an error, but the code there assumes only the positive values and\nhandle them with size_t.  Due to that, a too big value may be passed\nto the lower layers.\n\nThis patch changes the code to handle with ssize_t and adds the proper\nerror checks appropriately.\n\nPublication Date: Tue Nov 05 00:09:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47511"
+            ]
+        },
+        {
+            "Message ID": 91852,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2021-47224\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47224\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: ll_temac: Make sure to free skb when it is completely used\n\nWith the skb pointer piggy-backed on the TX BD, we have a simple and\nefficient way to free the skb buffer when the frame has been transmitted.\nBut in order to avoid freeing the skb while there are still fragments from\nthe skb in use, we need to piggy-back on the TX BD of the skb, not the\nfirst.\n\nWithout this, we are doing use-after-free on the DMA side, when the first\nBD of a multi TX BD packet is seen as completed in xmit_done, and the\nremaining BDs are still being processed.\n\nPublication Date: Tue Nov 05 00:09:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "piggy",
+                "piggy"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47224"
+            ]
+        },
+        {
+            "Message ID": 91851,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51377\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51377\n\nDescription: An issue in Ladybird Web Solution Faveo Helpdesk & Servicedesk (On-Premise and Cloud) 9.2.0 allows a remote attacker to execute arbitrary code via the Subject and Identifier fields\n\nPublication Date: Tue Nov 05 00:08:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Ladybird"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51377"
             ]
         }
     ],
