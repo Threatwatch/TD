@@ -62461,6 +62461,52 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-5124"
             ]
+        },
+        {
+            "Message ID": 91664,
+            "discovered": "2024-11-04",
+            "post_title": "Title: THN Recap: Top Cybersecurity Threats, Tools, and Practices (Oct 28 - Nov 03)\n\nDate: Nov 04, 2024\n\nSource: https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/thn-recap-top-cybersecurity-threats.html"
+            ]
+        },
+        {
+            "Message ID": 91663,
+            "discovered": "2024-11-04",
+            "post_title": "Victim: Air Specialists Heating & Air Conditioning\n\nDetection Date: Mon Nov 04 14:48:50 2024\n\nThreat Actor: hunters\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91662,
+            "discovered": "2024-11-04",
+            "post_title": "Victim: redphoenixconstruction.com\n\nDetection Date: Mon Nov 04 14:48:35 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "redphoenixconstruction.com"
+            ]
+        },
+        {
+            "Message ID": 91661,
+            "discovered": "2024-11-04",
+            "post_title": "Victim: csucontracting.com\n\nDetection Date: Mon Nov 04 14:48:20 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "csucontracting.com"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
