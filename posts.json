@@ -7564,6 +7564,52 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6365,
+            "discovered": "2024-11-04",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6364,
+            "discovered": "2024-11-04",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-11-04 16:37:44\n🚨 Title: Alleged database sale of ORBCOMM\n🛡️ Victim Country: USA\n🏭 Victim Industry: Software Development\n🏢 Victim Organization: orbcomm\n🌐 Victim Site: orbcomm.com\n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: KryptonZambie\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-SELLING-FULL-DATABASE-ORBCOMM-COM-WITH-OVER-70TB-FILE-SQL-USAhttps://breachforums.st/Thread-SELLING-FULL-DATABASE-ORBCOMM-COM-WITH-OVER-70TB-FILE-SQL-USA\n📝 Description: The threat actor claims to have leaked database of ORBCOMM. The leaked data reportedly contains 70 TB of SQL data.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                ".com\n📜 Cate",
+                "achforums.st/Thread-SELLING-FULL-DATABASE-ORBCOMM-COM-WITH-OVER-70TB-FILE-SQL-USAhttps://breachforums.st/Thread-SELLING-FULL-DATABASE-ORBCOMM-COM-WITH-OVER-70TB-FILE-SQL-USA\n📝 Descript"
+            ]
+        },
+        {
+            "Message ID": 6363,
+            "discovered": "2024-11-04",
+            "post_title": "lol wtffff",
+            "Attack Type": "Unknown",
+            "Location": [
+                "wtffff"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6362,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇺🇸IntelBroker and EnergyWeaponUser Have Allegedly Leaked Data of MIT Technology Review\n\nhttps://darkwebinformer.com/intelbroker-and-energyweaponuser-have-allegedly-leaked-data-of-mit-technology-review/\n\nThe threat actor alleges to have leaked the database of MIT Technology Review. According to reports, the leaked data contains information on approximately 290,000 users, including names, email addresses, education details, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/intelbroker-and-energyweaponuser-have-allegedly-leaked-data-of-mit-technology-review/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -14121,6 +14167,20 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5320,
+            "discovered": "2024-11-04",
+            "post_title": "Suez Canal Belongs to the Egyptians \nIt should be Used for the Prosperity of it's own people and for it's ideology,\n\nThe Ideology of 99% Egyptians is anti Zionism , So it shouldn't be allowed to pass a Zionist Corvette which commits Genocide in Gaza and Lebanon \n\nhttps://x.com/FalconFeedsio/status/1852749856449966471?t=6ky1TiY643y8iIzoq85Tmg&s=19",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Genocide",
+                "Gaza",
+                "Lebanon"
+            ],
+            "URLs": [
+                "https://x.com/FalconFeedsio/status/1852749856449966471?t=6ky1TiY643y8iIzoq85Tmg&s=19"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
