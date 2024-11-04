@@ -7610,6 +7610,57 @@
             "URLs": [
                 "ps://darkwebinformer.com/intelbroker-and-energyweaponuser-have-allegedly-leaked-data-of-mit-technology-review/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6369,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇦🇷rufusdomando Allegedly Has Leaked the Data of Dirección General de Cultura y Educación PBA\n\nhttps://darkwebinformer.com/rufusdomando-allegedly-has-leaked-the-data-of-direccion-general-de-cultura-y-educacion-pba/\n\nA threat actor has claimed to have leaked data from the Dirección General de Cultura y Educación PBA, the authority overseeing public education and cultural initiatives in the Province of Buenos Aires, Argentina. The breach reportedly involves 110,126 records containing sensitive student information, including IDs, names, gender, document ID numbers, and additional personal data.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "the Province of Buenos Aires",
+                "Argentina"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rufusdomando-allegedly-has-leaked-the-data-of-direccion-general-de-cultura-y-educacion-pba/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6368,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇦🇷rufusdomando Has Allegedly Leaked Data of Hospital Universitario Austral\n\nhttps://darkwebinformer.com/rufusdomando-has-allegedly-leaked-data-of-hospital-universitario-austral/\n\nA threat actor claims to have leaked data from Hospital Universitario Austral, a healthcare, teaching, and biomedical research institution located in Buenos Aires, Argentina. The leaked data reportedly includes 36,276 records containing information such as IDs, usernames, names, email addresses, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Buenos Aires",
+                "Argentina"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rufusdomando-has-allegedly-leaked-data-of-hospital-universitario-austral/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6367,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇦🇷rufusdomando Has Allegedly Leaked Data of OSPAT\n\nhttps://darkwebinformer.com/rufusdomando-has-allegedly-leaked-data-of-ospat/\n\nThe threat actor claims to have leaked data from OSPAT (Obra Social del Personal de la Actividad del Turf). The leaked information reportedly includes details on 43,346 individuals, such as names, addresses, phone numbers, email addresses, and other personal data.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rufusdomando-has-allegedly-leaked-data-of-ospat/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6366,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇧🇷Sukob is Allegedly Selling Unauthorized Access to a Telecommunication Company in Brazil\n\nhttps://darkwebinformer.com/sukob-is-allegedly-selling-unauthorized-access-to-a-telecommunication-company-in-brazil/\n\nA threat actor claims to be selling root access to the firewall server, along with the root SSH key, of an unidentified telecommunications company in Brazil.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Brazil",
+                "Brazil"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/sukob-is-allegedly-selling-unauthorized-access-to-a-telecommunication-company-in-brazil/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -14191,6 +14242,19 @@
                 "Bangladesh"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5322,
+            "discovered": "2024-11-04",
+            "post_title": "Turkish  company specializing in military affairs Sadat is Down by cyberattack from sylhet gang \n\n\nTarget:  \nhttps://www.sadat.com.tr/ar/\n\n\ncheck:  \nhttps://check-host.net/check-report/1ff35bfek466\n\n\n#SYLHETGANG_SG \n\n#op_turkey",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.sadat.com.tr/ar/",
+                "https://check-host.net/check-report/1ff35bfek466"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
@@ -63621,6 +63685,437 @@
             ],
             "URLs": [
                 "https://research.checkpoint.com/2024/4th-november-threat-intelligence-report/"
+            ]
+        },
+        {
+            "Message ID": 91770,
+            "discovered": "2024-11-04",
+            "post_title": "Title: German pharmacuetical distributor impacted by ransomware\n\nDate: November 4, 2024\n\nSource: https://www.scworld.com/brief/german-pharmacuetical-distributor-impacted-by-ransomware\n\n#News #Germany",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Germany"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/german-pharmacuetical-distributor-impacted-by-ransomware"
+            ]
+        },
+        {
+            "Message ID": 91769,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Most California court online services disrupted by cyberattack\n\nDate: November 4, 2024\n\nSource: https://www.scworld.com/brief/most-california-court-online-services-disrupted-by-cyberattack\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "California"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/most-california-court-online-services-disrupted-by-cyberattack"
+            ]
+        },
+        {
+            "Message ID": 91768,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Cyberattack disclosed by LA housing authority after Cactus ransomware claims\n\nDate: November 4, 2024\n\nSource: https://www.scworld.com/brief/cyberattack-disclosed-by-la-housing-authority-after-cactus-ransomware-claims\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "LA"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/cyberattack-disclosed-by-la-housing-authority-after-cactus-ransomware-claims"
+            ]
+        },
+        {
+            "Message ID": 91767,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Corporate network compromised via Microsoft SharePoint RCE exploit\n\nDate: November 4, 2024\n\nSource: https://www.scworld.com/brief/corporate-network-compromised-via-microsoft-sharepoint-rce-exploit\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/corporate-network-compromised-via-microsoft-sharepoint-rce-exploit"
+            ]
+        },
+        {
+            "Message ID": 91766,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Sophos firewalls compromised with Pygmy Goat backdoor\n\nDate: November 4, 2024\n\nSource: https://www.scworld.com/brief/sophos-firewalls-compromised-with-pygmy-goat-backdoor\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/sophos-firewalls-compromised-with-pygmy-goat-backdoor"
+            ]
+        },
+        {
+            "Message ID": 91765,
+            "discovered": "2024-11-04",
+            "post_title": "Title: FreeBSD servers subjected to novel Interlock ransomware attacks\n\nDate: November 4, 2024\n\nSource: https://www.scworld.com/brief/freebsd-servers-subjected-to-novel-interlock-ransomware-attacks\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/freebsd-servers-subjected-to-novel-interlock-ransomware-attacks"
+            ]
+        },
+        {
+            "Message ID": 91764,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51681\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51681\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in CodeRevolution WP Pocket URLs allows Stored XSS.This issue affects WP Pocket URLs: from n/a through 1.0.3.\n\nPublication Date: Mon Nov 04 19:14:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51681"
+            ]
+        },
+        {
+            "Message ID": 91763,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-10035\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10035\n\nDescription: Improper Control of Generation of Code ('Code Injection') vulnerability in BG-TEK Informatics Security Technologies CoslatV3 allows Command Injection.This issue affects CoslatV3: through 3.1069. \n\n\n\nNOTE: The vendor was contacted and it was learned that the product is not supported.\n\nPublication Date: Mon Nov 04 19:13:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10035"
+            ]
+        },
+        {
+            "Message ID": 91762,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-36485\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-36485\n\nDescription: Zohocorp ManageEngine ADAudit Plus versions 8121 and prior are vulnerable to SQL Injection in Technician reports option.\n\nPublication Date: Mon Nov 04 19:13:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-36485"
+            ]
+        },
+        {
+            "Message ID": 91761,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51661\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51661\n\nDescription: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability in David Lingren Media Library Assistant allows Command Injection.This issue affects Media Library Assistant: from n/a through 3.19.\n\nPublication Date: Mon Nov 04 19:13:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51661"
+            ]
+        },
+        {
+            "Message ID": 91760,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-43310\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43310\n\nDescription: Missing Authorization vulnerability in UkrSolution Print Barcode Labels for your WooCommerce allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Print Barcode Labels for your WooCommerce products/orders: from n/a through 3.4.9.\n\nPublication Date: Mon Nov 04 19:13:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43310"
+            ]
+        },
+        {
+            "Message ID": 91759,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-43302\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43302\n\nDescription: Missing Authorization vulnerability in Fonts Plugin Fonts allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Fonts: from n/a through 3.7.7.\n\nPublication Date: Mon Nov 04 19:13:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43302"
+            ]
+        },
+        {
+            "Message ID": 91758,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-43298\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43298\n\nDescription: Missing Authorization vulnerability in Migrate Clone allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Clone: from n/a through 2.4.5.\n\nPublication Date: Mon Nov 04 19:13:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43298"
+            ]
+        },
+        {
+            "Message ID": 91757,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-43297\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43297\n\nDescription: Missing Authorization vulnerability in Migrate Clone allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Clone: from n/a through 2.4.5.\n\nPublication Date: Mon Nov 04 19:12:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43297"
+            ]
+        },
+        {
+            "Message ID": 91756,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-43296\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43296\n\nDescription: Missing Authorization vulnerability in bPlugins LLC Flash & HTML5 Video allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Flash & HTML5 Video: from n/a through 2.5.30.\n\nPublication Date: Mon Nov 04 19:12:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43296"
+            ]
+        },
+        {
+            "Message ID": 91755,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-48878\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48878\n\nDescription: Zohocorp ManageEngine ADManager Plus versions 7241 and prior are vulnerable to SQL Injection in Archived Audit Report.\n\nPublication Date: Mon Nov 04 19:12:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48878"
+            ]
+        },
+        {
+            "Message ID": 91754,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51682\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51682\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in HasThemes HT Builder – WordPress Theme Builder for Elementor allows Stored XSS.This issue affects HT Builder – WordPress Theme Builder for Elementor: from n/a through 1.3.0.\n\nPublication Date: Mon Nov 04 19:12:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51682"
+            ]
+        },
+        {
+            "Message ID": 91753,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51683\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51683\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Michael Gangolf Custom post type templates for Elementor allows Stored XSS.This issue affects Custom post type templates for Elementor: from n/a through 1.10.1.\n\nPublication Date: Mon Nov 04 19:12:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Custom"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51683"
+            ]
+        },
+        {
+            "Message ID": 91752,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-50523\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50523\n\nDescription: Unrestricted Upload of File with Dangerous Type vulnerability in RainbowLink Inc. All Post Contact Form allows Upload a Web Shell to a Web Server.This issue affects All Post Contact Form: from n/a through 1.7.3.\n\nPublication Date: Mon Nov 04 19:11:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50523"
+            ]
+        },
+        {
+            "Message ID": 91751,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-10764\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10764\n\nDescription: A vulnerability classified as critical has been found in Codezips Online Institute Management System 1.0. This affects an unknown part of the file /pages/save_user.php. The manipulation of the argument image leads to unrestricted upload. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Nov 04 19:11:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10764"
+            ]
+        },
+        {
+            "Message ID": 91750,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-10765\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10765\n\nDescription: A vulnerability classified as critical was found in Codezips Online Institute Management System up to 1.0. This vulnerability affects unknown code of the file /profile.php. The manipulation of the argument old_image leads to unrestricted upload. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Nov 04 19:11:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10765"
+            ]
+        },
+        {
+            "Message ID": 91749,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-50525\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50525\n\nDescription: Unrestricted Upload of File with Dangerous Type vulnerability in Helloprint Plug your WooCommerce into the largest catalog of customized print products from Helloprint allows Upload a Web Shell to a Web Server.This issue affects Plug your WooCommerce into the largest catalog of customized print products from Helloprint: from n/a through 2.0.2.\n\nPublication Date: Mon Nov 04 19:11:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50525"
+            ]
+        },
+        {
+            "Message ID": 91748,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-50526\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50526\n\nDescription: Unrestricted Upload of File with Dangerous Type vulnerability in mahlamusa Multi Purpose Mail Form allows Upload a Web Shell to a Web Server.This issue affects Multi Purpose Mail Form: from n/a through 1.0.2.\n\nPublication Date: Mon Nov 04 19:11:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50526"
+            ]
+        },
+        {
+            "Message ID": 91747,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51685\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51685\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Michael Gangolf Accordion title for Elementor allows Stored XSS.This issue affects Accordion title for Elementor: from n/a through 1.2.1.\n\nPublication Date: Mon Nov 04 19:11:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51685"
+            ]
+        },
+        {
+            "Message ID": 91746,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-51626\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51626\n\nDescription: Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Mansur Ahamed Woocommerce Quote Calculator allows Blind SQL Injection.This issue affects Woocommerce Quote Calculator: from n/a through 1.1.\n\nPublication Date: Mon Nov 04 19:10:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Mansur"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51626"
+            ]
+        },
+        {
+            "Message ID": 91745,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-51180\n\nDescription: A Reflected Cross Site Scripting (XSS) vulnerability was found in /ifscfinder/index.php in PHPGurukul IFSC Code Finder Project v1.0, which allows remote attackers to execute arbitrary code via the \"searchifsccode\" parameter.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-51180\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/Santoshcyber1/CVE-wirteup/blob/main/Phpgurukul/IFSC%20Code%20Finder/IFSC%20Code%20Finder%20do.pdf\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51180",
+                "https://github.com/Santoshcyber1/CVE-wirteup/blob/main/Phpgurukul/IFSC%20Code%20Finder/IFSC%20Code%20Finder%20do.pdf"
+            ]
+        },
+        {
+            "Message ID": 91744,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-51181\n\nDescription: A Reflected Cross Site Scripting (XSS) vulnerability was found in /ifscfinder/admin/profile.php in PHPGurukul IFSC Code Finder Project v1.0, which allows remote attackers to execute arbitrary code via \" searchifsccode\" parameter.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-51181\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/Santoshcyber1/CVE-wirteup/blob/main/Phpgurukul/IFSC%20Code%20Finder/IFSC%20Code%20Finder%20Admin.pdf\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS",
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51181",
+                "https://github.com/Santoshcyber1/CVE-wirteup/blob/main/Phpgurukul/IFSC%20Code%20Finder/IFSC%20Code%20Finder%20Admin.pdf"
+            ]
+        },
+        {
+            "Message ID": 91743,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-51075\n\nDescription: A Reflected Cross Site Scripting (XSS) vulnerability was found in /odms/admin/user-search.php in PHPGurukul Online DJ Booking Management System v1.0, which allows remote attackers to execute arbitrary code via the searchdata parameter.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-51075\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/Santoshcyber1/CVE-wirteup/blob/main/Phpgurukul/Online%20DJ%20Booking/DJ%20online%20Cross%20Site%20Scripting%20%20u.pdf\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51075",
+                "https://github.com/Santoshcyber1/CVE-wirteup/blob/main/Phpgurukul/Online%20DJ%20Booking/DJ%20online%20Cross%20Site%20Scripting%20%20u.pdf"
+            ]
+        },
+        {
+            "Message ID": 91742,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-51076\n\nDescription: A Reflected Cross Site Scripting (XSS) vulnerability was found in /odms/admin/booking-search.php in PHPGurukul Online DJ Booking Management System 1.0, which allows remote attackers to execute arbitrary code via the \"searchdata\" parameter.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-51076\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/Santoshcyber1/CVE-wirteup/blob/main/Phpgurukul/Online%20DJ%20Booking/Reflected%20Cross%20Site%20Scripting%20b.pdf\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS",
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51076",
+                "https://github.com/Santoshcyber1/CVE-wirteup/blob/main/Phpgurukul/Online%20DJ%20Booking/Reflected%20Cross%20Site%20Scripting%20b.pdf"
+            ]
+        },
+        {
+            "Message ID": 91741,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-7474\n\nDescription: In version 1.3.2 of lunary-ai/lunary, an Insecure Direct Object Reference (IDOR) vulnerability exists. A user can view or delete external users by manipulating the 'id' parameter in the request URL. The application does not perform adequate checks on the 'id' parameter, allowing unauthorized access to external user data.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-7474\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://huntr.com/bounties/95d8b993-3347-4ef5-a2b3-1f57219b7871\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7474",
+                "https://huntr.com/bounties/95d8b993-3347-4ef5-a2b3-1f57219b7871"
+            ]
+        },
+        {
+            "Message ID": 91740,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-7475\n\nDescription: An improper access control vulnerability in lunary-ai/lunary version 1.3.2 allows an attacker to update the SAML configuration without authorization. This vulnerability can lead to manipulation of authentication processes, fraudulent login requests, and theft of user information. Appropriate access controls should be implemented to ensure that the SAML configuration can only be updated by authorized users.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-7475\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://huntr.com/bounties/78c824f7-3b6d-443d-bb76-0f8031c6c126\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7475",
+                "https://huntr.com/bounties/78c824f7-3b6d-443d-bb76-0f8031c6c126"
+            ]
+        },
+        {
+            "Message ID": 91739,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-10697\n\nDescription: A vulnerability has been found in Tenda AC6 15.03.05.19 and classified as critical. Affected by this vulnerability is the function formWriteFacMac of the file /goform/WriteFacMac of the component API Endpoint. The manipulation of the argument The leads to command injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10697\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/theRaz0r/iot-mycve/blob/main/tenda_ac6_rce_WriteFacMac/tenda_ac6_rce_WriteFacMac.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Tenda"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10697",
+                "https://github.com/theRaz0r/iot-mycve/blob/main/tenda_ac6_rce_WriteFacMac/tenda_ac6_rce_WriteFacMac.md"
+            ]
+        },
+        {
+            "Message ID": 91738,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-10698\n\nDescription: A vulnerability was found in Tenda AC6 15.03.05.19 and classified as critical. Affected by this issue is the function formSetDeviceName of the file /goform/SetOnlineDevName. The manipulation of the argument devName leads to stack-based buffer overflow. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10698\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/theRaz0r/iot-mycve/blob/main/tenda_ac6_stackflow_formSetDeviceName/tenda_ac6_stackflow_formSetDeviceName.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Tenda"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10698",
+                "https://github.com/theRaz0r/iot-mycve/blob/main/tenda_ac6_stackflow_formSetDeviceName/tenda_ac6_stackflow_formSetDeviceName.md"
+            ]
+        },
+        {
+            "Message ID": 91737,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-51774\n\nDescription: qBittorrent before 5.0.1 proceeds with use of https URLs even after certificate validation errors.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-51774\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://sharpsec.run/rce-vulnerability-in-qbittorrent/\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51774",
+                "https://sharpsec.run/rce-vulnerability-in-qbittorrent/"
+            ]
+        },
+        {
+            "Message ID": 91736,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Windows infected with backdoored Linux VMs in new phishing attacks\n\nDate: November 04, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/windows-infected-with-backdoored-linux-vms-in-new-phishing-attacks/"
             ]
         }
     ],
