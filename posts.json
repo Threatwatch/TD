@@ -7799,6 +7799,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6381,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇺🇸888 Allegedly Leaked Data of Swenson Park Golf Course\n\nhttps://darkwebinformer.com/888-allegedly-leaked-data-of-swenson-park-golf-course/\n\nA threat actor claims to have leaked the database of Swenson Park Golf Course. The compromised data reportedly includes information on 40,069 users, containing names, email addresses, phone numbers, dates of birth, home addresses, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/888-allegedly-leaked-data-of-swenson-park-golf-course/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -29708,6 +29720,31 @@
             ],
             "URLs": [
                 "https://t.co/ZgEyBNzqQC"
+            ]
+        },
+        {
+            "Message ID": 3471,
+            "discovered": "2024-11-04",
+            "post_title": "Group: ransomhub\nApprox. Time: 18:40 04/11/24\nTitle: https://t.co/CRAIB40Eu2",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx",
+                "https://t.co/CRAIB40Eu2"
+            ],
+            "URLs": [
+                "https://t.co/CRAIB40Eu2"
+            ]
+        },
+        {
+            "Message ID": 3470,
+            "discovered": "2024-11-04",
+            "post_title": "Group: ransomhub\nApprox. Time: 18:40 04/11/24\nTitle: https://t.co/iNtsSd2laZ",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/iNtsSd2laZ"
             ]
         }
     ],
@@ -64930,6 +64967,70 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-26758",
                 "integrity-caching.sh"
+            ]
+        },
+        {
+            "Message ID": 91821,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Securing your software supply chain with CISA's new SBOM guidance\n\nDate: November 4, 2024\n\nSource: https://www.sonatype.com/blog/securing-your-software-supply-chain-with-cisas-new-sbom-guidance\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.sonatype.com/blog/securing-your-software-supply-chain-with-cisas-new-sbom-guidance"
+            ]
+        },
+        {
+            "Message ID": 91820,
+            "discovered": "2024-11-04",
+            "post_title": "Target: http://www.ardo.gov.ly/phpstuff/?page=ContactUs&amp;id=17\n\nNotified: LGH\n\nDate: Sat, 30 Jul 2016 02:14:23 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/26603740\n\n#Defacements #Libya",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Libya"
+            ],
+            "URLs": [
+                "http://www.ardo.gov.ly/phpstuff/?page=ContactUs&amp;id=17",
+                "http://www.zone-h.org/mirror/id/26603740"
+            ]
+        },
+        {
+            "Message ID": 91819,
+            "discovered": "2024-11-04",
+            "post_title": "Target: http://cccl4.gov.ly/pages/commite_rq.php?id=7\n\nNotified: LGH\n\nDate: Thu, 22 Jun 2017 02:35:04 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/29785236\n\n#Defacements #Libya",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Libya"
+            ],
+            "URLs": [
+                "http://cccl4.gov.ly/pages/commite_rq.php?id=7",
+                "http://www.zone-h.org/mirror/id/29785236"
+            ]
+        },
+        {
+            "Message ID": 91818,
+            "discovered": "2024-11-04",
+            "post_title": "Target: http://www.email.lmac.gov.ly\n\nNotified: LGH\n\nDate: Tue, 25 Jul 2017 19:55:52 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/29971356\n\n#Defacements #Libya",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Libya"
+            ],
+            "URLs": [
+                "http://www.email.lmac.gov.ly",
+                "http://www.zone-h.org/mirror/id/29971356"
+            ]
+        },
+        {
+            "Message ID": 91817,
+            "discovered": "2024-11-04",
+            "post_title": "Target: http://ict.foreign.gov.ly\n\nNotified: LGH\n\nDate: Thu, 17 Aug 2017 05:50:09 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/30066214\n\n#Defacements #Libya",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Libya"
+            ],
+            "URLs": [
+                "http://ict.foreign.gov.ly",
+                "http://www.zone-h.org/mirror/id/30066214"
             ]
         }
     ],
