@@ -62281,6 +62281,186 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-23590"
             ]
+        },
+        {
+            "Message ID": 91660,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Vidar torna a colpire in Italia attraverso PEC compromesse\n\nDate: November 4, 2024\n\nSource: https://cert-agid.gov.it/news/vidar-torna-a-colpire-in-italia-attraverso-pec-compromesse/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Italia"
+            ],
+            "URLs": [
+                "https://cert-agid.gov.it/news/vidar-torna-a-colpire-in-italia-attraverso-pec-compromesse/"
+            ]
+        },
+        {
+            "Message ID": 91659,
+            "discovered": "2024-11-04",
+            "post_title": "Title: Cyber Threats That Could Impact the Retail Industry This Holiday Season (and What to Do About It)\n\nDate: Nov 04, 2024\n\nSource: https://thehackernews.com/2024/11/cyber-threats-that-could-impact-retail.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/cyber-threats-that-could-impact-retail.html"
+            ]
+        },
+        {
+            "Message ID": 91658,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-38407\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38407\n\nDescription: Memory corruption while processing input parameters for any IOCTL call in the JPEG Encoder driver.\n\nPublication Date: Mon Nov 04 14:04:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38407"
+            ]
+        },
+        {
+            "Message ID": 91657,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-38408\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38408\n\nDescription: Cryptographic issue when a controller receives an LMP start encryption command under unexpected conditions.\n\nPublication Date: Mon Nov 04 14:04:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38408"
+            ]
+        },
+        {
+            "Message ID": 91656,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-38409\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38409\n\nDescription: Memory corruption while station LL statistic handling.\n\nPublication Date: Mon Nov 04 14:04:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38409"
+            ]
+        },
+        {
+            "Message ID": 91655,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-38410\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38410\n\nDescription: Memory corruption while IOCLT is called when device is in invalid state and the WMI command buffer may be freed twice.\n\nPublication Date: Mon Nov 04 14:04:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38410"
+            ]
+        },
+        {
+            "Message ID": 91654,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-38415\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38415\n\nDescription: Memory corruption while handling session errors from firmware.\n\nPublication Date: Mon Nov 04 14:03:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38415"
+            ]
+        },
+        {
+            "Message ID": 91653,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-38419\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38419\n\nDescription: Memory corruption while invoking IOCTL calls from the use-space for HGSL memory node.\n\nPublication Date: Mon Nov 04 14:03:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38419"
+            ]
+        },
+        {
+            "Message ID": 91652,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-38421\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38421\n\nDescription: Memory corruption while processing GPU commands.\n\nPublication Date: Mon Nov 04 14:03:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38421"
+            ]
+        },
+        {
+            "Message ID": 91651,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-38422\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38422\n\nDescription: Memory corruption while processing voice packet with arbitrary data received from ADSP.\n\nPublication Date: Mon Nov 04 14:03:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "ADSP"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38422"
+            ]
+        },
+        {
+            "Message ID": 91650,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-38423\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38423\n\nDescription: Memory corruption while processing GPU page table switch.\n\nPublication Date: Mon Nov 04 14:03:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38423"
+            ]
+        },
+        {
+            "Message ID": 91649,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-38424\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38424\n\nDescription: Memory corruption during GNSS HAL process initialization.\n\nPublication Date: Mon Nov 04 14:02:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38424"
+            ]
+        },
+        {
+            "Message ID": 91648,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-3150\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-3150\n\nDescription: In mintplex-labs/anything-llm, a vulnerability exists in the thread update process that allows users with Default or Manager roles to escalate their privileges to Administrator. The issue arises from improper input validation when handling HTTP POST requests to the endpoint `/workspace/:slug/thread/:threadSlug/update`. Specifically, the application fails to validate or check user input before passing it to the `workspace_thread` Prisma model for execution. This oversight allows attackers to craft a Prisma relation query operation that manipulates the `users` model to change a user's role to admin. Successful exploitation grants attackers the highest level of user privileges, enabling them to see and perform all actions within the system.\n\nPublication Date: Mon Nov 04 14:02:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-3150"
+            ]
+        },
+        {
+            "Message ID": 91647,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-3152\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-3152\n\nDescription: mintplex-labs/anything-llm is vulnerable to multiple security issues due to improper input validation in several endpoints. An attacker can exploit these vulnerabilities to escalate privileges from a default user role to an admin role, read and delete arbitrary files on the system, and perform Server-Side Request Forgery (SSRF) attacks. The vulnerabilities are present in the `/request-token`, `/workspace/:slug/thread/:threadSlug/update`, `/system/remove-logo`, `/system/logo`, and collector's `/process` endpoints. These issues are due to the application's failure to properly validate user input before passing it to `prisma` functions and other critical operations. Affected versions include the latest version prior to 1.0.0.\n\nPublication Date: Mon Nov 04 14:02:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-3152"
+            ]
+        },
+        {
+            "Message ID": 91646,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-5124\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-5124\n\nDescription: A timing attack vulnerability exists in the gaizhenbiao/chuanhuchatgpt repository, specifically within the password comparison logic. The vulnerability is present in version 20240310 of the software, where passwords are compared using the '=' operator in Python. This method of comparison allows an attacker to guess passwords based on the timing of each character's comparison. The issue arises from the code segment that checks a password for a particular username, which can lead to the exposure of sensitive information to an unauthorized actor. An attacker exploiting this vulnerability could potentially guess user passwords, compromising the security of the system.\n\nPublication Date: Mon Nov 04 14:02:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Python"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-5124"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
