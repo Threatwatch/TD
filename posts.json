@@ -29201,6 +29201,40 @@
             "URLs": [
                 "https://t.co/MC6WyGJfEB"
             ]
+        },
+        {
+            "Message ID": 3463,
+            "discovered": "2024-11-04",
+            "post_title": "Group: ransomhub\nApprox. Time: 10:38 04/11/24\nTitle: https://t.co/xTiNyKpcxc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/xTiNyKpcxc"
+            ]
+        },
+        {
+            "Message ID": 3462,
+            "discovered": "2024-11-04",
+            "post_title": "Group: ransomhub\nApprox. Time: 10:38 04/11/24\nTitle: https://t.co/NXSGoVeM6C",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/NXSGoVeM6C"
+            ]
+        },
+        {
+            "Message ID": 3461,
+            "discovered": "2024-11-04",
+            "post_title": "Group: hunters\nApprox. Time: 10:38 04/11/24\nTitle: Air Specialists Heating & Air Conditioning",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
