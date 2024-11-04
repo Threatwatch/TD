@@ -7913,6 +7913,40 @@
             "URLs": [
                 "ps://darkwebinformer.com/sylhet-gang-sg-defaced-the-website-of-saudi-journalists-association/"
             ]
+        },
+        {
+            "Message ID": 6393,
+            "discovered": "2024-11-04",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6392,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇺🇸Moroccan Conquest Team Targeted the Website of U.S. Department of Energy and Legacy Management\n\nhttps://darkwebinformer.com/moroccan-conquest-team-targeted-the-website-of-u-s-department-of-energy-and-legacy-management/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/moroccan-conquest-team-targeted-the-website-of-u-s-department-of-energy-and-legacy-management/"
+            ]
+        },
+        {
+            "Message ID": 6391,
+            "discovered": "2024-11-04",
+            "post_title": "🚨🇷🇺HIMARS DDOS Targeted the Website of Umnye Seti\n\nhttps://darkwebinformer.com/himars-ddos-targeted-the-website-of-umnye-seti/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/himars-ddos-targeted-the-website-of-umnye-seti/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -34037,6 +34071,80 @@
             "URLs": [
                 "w.mssupply.com, ",
                 "somfeed.it/index.php?page=post_details&id_post=18378"
+            ]
+        },
+        {
+            "Message ID": 4056,
+            "discovered": "2024-11-04",
+            "post_title": "ID: 18385\n⚠ Mon, 04 Nov 2024 15:24:23 UTC\n🥷 hellcat\n🎯 College of Business - Tanzania, Tanzania\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18385",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Tanzania"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18385"
+            ]
+        },
+        {
+            "Message ID": 4055,
+            "discovered": "2024-11-04",
+            "post_title": "ID: 18384\n⚠ Mon, 04 Nov 2024 15:24:21 UTC\n🥷 hellcat\n🎯 Ministry of Education - Jordan, Jordan\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18384",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Jordan"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18384"
+            ]
+        },
+        {
+            "Message ID": 4054,
+            "discovered": "2024-11-04",
+            "post_title": "ID: 18383\n⚠ Mon, 04 Nov 2024 15:24:18 UTC\n🥷 hellcat\n🎯 Schneider Electric - France, France\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18383",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18383"
+            ]
+        },
+        {
+            "Message ID": 4053,
+            "discovered": "2024-11-04",
+            "post_title": "ID: 18382\n⚠ Mon, 04 Nov 2024 14:54:34 UTC\n🥷 medusa\n🎯 Whitaker Construction Group, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18382",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18382"
+            ]
+        },
+        {
+            "Message ID": 4052,
+            "discovered": "2024-11-04",
+            "post_title": "ID: 18381\n⚠ Mon, 04 Nov 2024 14:55:35 UTC\n🥷 medusa\n🎯 International University of Sarajevo, Bosnia and Herzegovina\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18381",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Bosnia and",
+                "Herzegovina"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18381"
+            ]
+        },
+        {
+            "Message ID": 4051,
+            "discovered": "2024-11-04",
+            "post_title": "ID: 18380\n⚠ Mon, 04 Nov 2024 18:55:34 UTC\n🥷 ransomhub\n🎯 www.drbutlerandassociates.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18380",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "w.drbutlerandassociates.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18380"
             ]
         }
     ],
