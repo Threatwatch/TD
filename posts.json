@@ -66055,6 +66055,189 @@
             "URLs": [
                 "tps://sinister.ly/Thread-%E2%AD%90CHEAPEST-ACCOUNT-SHOP-%E2%98%84%EF%B8%8F-INSTANT-DELIVERY-%F0%9F%8D%BFSTREAMING%F0%9F%94%92VPN\n\n"
             ]
+        },
+        {
+            "Message ID": 91885,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-3493\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3493\n\nDescription: Improper Neutralization of Formula Elements in a CSV File in GitHub repository fossbilling/fossbilling prior to 0.5.3.\n\nPublication Date: Tue Nov 05 01:10:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3493"
+            ]
+        },
+        {
+            "Message ID": 91884,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-3491\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3491\n\nDescription: Unrestricted Upload of File with Dangerous Type in GitHub repository fossbilling/fossbilling prior to 0.5.3.\n\nPublication Date: Tue Nov 05 01:09:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3491"
+            ]
+        },
+        {
+            "Message ID": 91883,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-21155\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21155\n\nDescription: Vulnerability in the Oracle ZFS Storage Appliance Kit product of Oracle Systems (component: User Interface).   The supported version that is affected is 8.8. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle ZFS Storage Appliance Kit.  Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Oracle ZFS Storage Appliance Kit, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in  unauthorized read access to a subset of Oracle ZFS Storage Appliance Kit accessible data. CVSS 3.1 Base Score 4.7 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:N/A:N).\n\nPublication Date: Tue Nov 05 01:09:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21155"
+            ]
+        },
+        {
+            "Message ID": 91882,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-3490\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3490\n\nDescription: SQL Injection in GitHub repository fossbilling/fossbilling prior to 0.5.3.\n\nPublication Date: Tue Nov 05 01:09:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3490"
+            ]
+        },
+        {
+            "Message ID": 91881,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-23245\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-23245\n\nDescription: This issue was addressed by adding an additional prompt for user consent. This issue is fixed in macOS Sonoma 14.4, macOS Monterey 12.7.4, macOS Ventura 13.6.5. Third-party shortcuts may use a legacy action from Automator to send events to apps without user consent.\n\nPublication Date: Tue Nov 05 01:09:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-23245"
+            ]
+        },
+        {
+            "Message ID": 91880,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-27184\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-27184\n\nDescription: Inadequate validation of URLs could result into an invalid check whether an redirect URL is internal or not..\n\nPublication Date: Tue Nov 05 01:09:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27184"
+            ]
+        },
+        {
+            "Message ID": 91879,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-21000\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21000\n\nDescription: Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Privileges).  Supported versions that are affected are 8.0.36 and prior and  8.3.0 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in  unauthorized update, insert or delete access to some of MySQL Server accessible data as well as  unauthorized read access to a subset of MySQL Server accessible data. CVSS 3.1 Base Score 3.8 (Confidentiality and Integrity impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:L/I:L/A:N).\n\nPublication Date: Tue Nov 05 01:09:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21000"
+            ]
+        },
+        {
+            "Message ID": 91878,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-48463\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48463\n\nDescription: Bruno before 1.29.1 uses Electron shell.openExternal without validation (of http or https) for opening windows within the Markdown docs viewer.\n\nPublication Date: Tue Nov 05 01:08:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48463"
+            ]
+        },
+        {
+            "Message ID": 91877,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-23561\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-23561\n\nDescription: HCL DevOps Deploy / HCL Launch is vulnerable to sensitive information disclosure vulnerability due to insufficient obfuscation of sensitive values.\n\nPublication Date: Tue Nov 05 01:08:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-23561"
+            ]
+        },
+        {
+            "Message ID": 91876,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2023-36810\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-36810\n\nDescription: pypdf is a pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files. An attacker who uses this vulnerability can craft a PDF which leads to unexpected long runtime. This quadratic runtime blocks the current process and can utilize a single core of the CPU by 100%. It does not affect memory usage. This issue has been addressed in PR 808 and versions from 1.27.9 include this fix. Users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Tue Nov 05 01:08:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-36810"
+            ]
+        },
+        {
+            "Message ID": 91875,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-23242\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-23242\n\nDescription: A privacy issue was addressed by not logging contents of text fields. This issue is fixed in macOS Sonoma 14.4, iOS 17.4 and iPadOS 17.4. An app may be able to view Mail data.\n\nPublication Date: Tue Nov 05 01:08:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-23242"
+            ]
+        },
+        {
+            "Message ID": 91874,
+            "discovered": "2024-11-04",
+            "post_title": "CVE-ID: CVE-2024-33147\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-33147\n\nDescription: J2EEFAST v2.7.0 was discovered to contain a SQL injection vulnerability via the sql_filter parameter in the authRoleList function.\n\nPublication Date: Tue Nov 05 01:08:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-33147"
+            ]
+        },
+        {
+            "Message ID": 91873,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-10599\n\nDescription: A vulnerability, which was classified as problematic, has been found in Tongda OA 2017 up to 11.7. This issue affects some unknown processing of the file /inc/package_static_resources.php. The manipulation leads to resource consumption. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10599\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/LvZCh/td/issues/2\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10599",
+                "https://github.com/LvZCh/td/issues/2"
+            ]
+        },
+        {
+            "Message ID": 91872,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-10600\n\nDescription: A vulnerability, which was classified as critical, was found in Tongda OA 2017 up to 11.6. Affected is an unknown function of the file pda/appcenter/submenu.php. The manipulation of the argument appid leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10600\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/LvZCh/td/issues/3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10600",
+                "https://github.com/LvZCh/td/issues/3"
+            ]
+        },
+        {
+            "Message ID": 91871,
+            "discovered": "2024-11-04",
+            "post_title": "Vulnerability ID: CVE-2024-10601\n\nDescription: A vulnerability has been found in Tongda OA 2017 up to 11.10 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /general/address/private/address/query/delete.php. The manipulation of the argument where_repeat leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10601\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://github.com/LvZCh/td/issues/4\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10601",
+                "https://github.com/LvZCh/td/issues/4"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
