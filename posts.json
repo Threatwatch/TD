@@ -8249,6 +8249,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6420,
+            "discovered": "2024-11-05",
+            "post_title": ".@briankrebs did a blog post on Waifu/Judische. Good read.\n\nhttps://krebsonsecurity.com/2024/11/canadian-man-arrested-in-snowflake-data-extortions/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://krebsonsecurity.com/2024/11/canadian-man-arrested-in-snowflake-data-extortions/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -34963,6 +34975,30 @@
             "URLs": [
                 "oyoconsultoria.com, ",
                 "somfeed.it/index.php?page=post_details&id_post=18398"
+            ]
+        },
+        {
+            "Message ID": 4073,
+            "discovered": "2024-11-05",
+            "post_title": "ID: 18401\n⚠ Tue, 05 Nov 2024 16:46:56 UTC\n🥷 bianlian\n🎯 Falco Sult, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18401",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18401"
+            ]
+        },
+        {
+            "Message ID": 4072,
+            "discovered": "2024-11-05",
+            "post_title": "ID: 18400\n⚠ Tue, 05 Nov 2024 19:36:07 UTC\n🥷 lynx\n🎯 Model Die  AND  Mold, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18400",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18400"
             ]
         }
     ],
@@ -69592,6 +69628,298 @@
             ],
             "URLs": [
                 "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633"
+            ]
+        },
+        {
+            "Message ID": 92120,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Russian email domains sent uncredible bomb threats to polling places, FBI says\n\nDate: November 5, 2024\n\nSource: https://www.nextgov.com/cybersecurity/2024/11/russian-email-domains-sent-uncredible-bomb-threats-polling-places-fbi-says/400838/\n\n#News #Russia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Russia"
+            ],
+            "URLs": [
+                "https://www.nextgov.com/cybersecurity/2024/11/russian-email-domains-sent-uncredible-bomb-threats-polling-places-fbi-says/400838/"
+            ]
+        },
+        {
+            "Message ID": 92119,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Google Cloud to make MFA mandatory by the end of 2025\n\nDate: November 05, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/google-cloud-to-make-mfa-mandatory-by-the-end-of-2025/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/google-cloud-to-make-mfa-mandatory-by-the-end-of-2025/"
+            ]
+        },
+        {
+            "Message ID": 92118,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10659\n\nDescription: A vulnerability, which was classified as critical, has been found in ESAFENET CDG 5. Affected by this issue is the function delSystemEncryptPolicy of the file /com/esafenet/servlet/document/CDGAuthoriseTempletService.java. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10659\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://flowus.cn/share/eaefcf21-6a72-48f8-bc18-a4889512bfe5?code=G8A6P3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "CDGAuthoriseTempletService.java",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10659",
+                "https://flowus.cn/share/eaefcf21-6a72-48f8-bc18-a4889512bfe5?code=G8A6P3"
+            ]
+        },
+        {
+            "Message ID": 92117,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10660\n\nDescription: A vulnerability, which was classified as critical, was found in ESAFENET CDG 5. This affects the function deleteHook of the file /com/esafenet/servlet/policy/HookService.java. The manipulation of the argument hookId leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10660\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://flowus.cn/share/9d33a5d8-87b1-482b-8642-a8fcf27585ba?code=G8A6P3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "HookService.java",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10660",
+                "https://flowus.cn/share/9d33a5d8-87b1-482b-8642-a8fcf27585ba?code=G8A6P3"
+            ]
+        },
+        {
+            "Message ID": 92116,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10594\n\nDescription: A vulnerability was found in ESAFENET CDG 5. It has been classified as critical. Affected is the function docHistory of the file /com/esafenet/servlet/fileManagement/FileDirectoryService.java. The manipulation of the argument fileId leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10594\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://flowus.cn/share/b95a0695-de84-4459-aa7b-87a1400d5509?code=G8A6P3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "FileDirectoryService.java",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10594",
+                "https://flowus.cn/share/b95a0695-de84-4459-aa7b-87a1400d5509?code=G8A6P3"
+            ]
+        },
+        {
+            "Message ID": 92115,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-48423\n\nDescription: An issue in assimp v.5.4.3 allows a local attacker to execute arbitrary code via the CallbackToLogRedirector function within the Assimp library.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-48423\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/assimp/assimp/issues/5788\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48423",
+                "https://github.com/assimp/assimp/issues/5788"
+            ]
+        },
+        {
+            "Message ID": 92114,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10752\n\nDescription: A vulnerability was found in Codezips Pet Shop Management System 1.0. It has been classified as critical. This affects an unknown part of the file /productsadd.php. The manipulation of the argument id/name leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory mentions contradicting file names to be affected.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10752\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/primaryboy/CVE/issues/1\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10752",
+                "https://github.com/primaryboy/CVE/issues/1"
+            ]
+        },
+        {
+            "Message ID": 92113,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10736\n\nDescription: A vulnerability was found in Codezips Free Exam Hall Seating Management System 1.0. It has been rated as critical. This issue affects some unknown processing of the file /student.php. The manipulation of the argument email leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10736\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/EddieAy/cve/issues/3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10736",
+                "https://github.com/EddieAy/cve/issues/3"
+            ]
+        },
+        {
+            "Message ID": 92112,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10737\n\nDescription: A vulnerability classified as critical has been found in Codezips Free Exam Hall Seating Management System 1.0. Affected is an unknown function of the file /teacher.php. The manipulation of the argument email leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10737\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/Scholar-XD/CVE/issues/1\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10737",
+                "https://github.com/Scholar-XD/CVE/issues/1"
+            ]
+        },
+        {
+            "Message ID": 92111,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51735\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51735\n\nDescription: Osmedeus is a Workflow Engine for Offensive Security. Cross-site Scripting (XSS) occurs on the Osmedues web server when viewing results from the workflow, allowing commands to be executed on the server. When using a workflow that contains the summary module, it generates reports in HTML and Markdown formats. The default report is based on the `general-template.md` template.The contents of the files are read and used to generate the report. However, the file contents are not properly filtered, leading to XSS. This may lead to commands executed on the host as well. This issue is not yet resolved. Users are advised to add their own filtering or to reach out to the developer to aid in developing a patch.\n\nPublication Date: Tue Nov 05 23:03:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS",
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51735"
+            ]
+        },
+        {
+            "Message ID": 92110,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51740\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51740\n\nDescription: Combodo iTop is a simple, web based IT Service Management tool. This vulnerability can be used to create HTTP requests on behalf of the server, from a low privileged user. The user portal form manager has been fixed to only instantiate classes derived from it. This issue has been addressed in versions 2.7.11, 3.0.5, 3.1.2, and 3.2.0. Users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Tue Nov 05 23:03:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51740"
+            ]
+        },
+        {
+            "Message ID": 92109,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51746\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51746\n\nDescription: Gitsign is a keyless Sigstore to signing tool for Git commits with your a GitHub / OIDC identity. gitsign may select the wrong Rekor entry to use during online verification when multiple entries are returned by the log. gitsign uses Rekor's search API to fetch entries that apply to a signature being verified. The parameters used for the search are the public key and the payload. The search API returns entries that match either condition rather than both. When gitsign's credential cache is used, there can be multiple entries that use the same ephemeral keypair / signing certificate. As gitsign assumes both conditions are matched by Rekor, there is no additional validation that the entry's hash matches the payload being verified, meaning that the wrong entry can be used to successfully pass verification. Impact is minimal as while gitsign does not match the payload against the entry, it does ensure that the certificate matches. This would need to be exploited during the certificate validity window (10 minutes) by the key holder.\n\nPublication Date: Tue Nov 05 23:03:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51746"
+            ]
+        },
+        {
+            "Message ID": 92108,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51752\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51752\n\nDescription: The AuthKit library for Next.js provides convenient helpers for authentication and session management using WorkOS & AuthKit with Next.js. In affected versions refresh tokens are logged to the console when the disabled by default `debug` flag, is enabled. This issue has been patched in version 0.13.2 and all users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Tue Nov 05 23:02:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Next.js"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51752"
+            ]
+        },
+        {
+            "Message ID": 92107,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2023-49932\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-49932\n\nDescription: An issue was discovered in Couchbase Server before 7.2.4. An attacker can bypass SQL++ N1QL cURL host restrictions.\n\nPublication Date: Tue Nov 05 23:02:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-49932"
+            ]
+        },
+        {
+            "Message ID": 92106,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-21684\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21684\n\nDescription: There is a low severity open redirect vulnerability within affected versions of Bitbucket Data Center. Versions of Bitbucket DC from 8.0.0 to 8.9.12 and 8.19.0 to 8.19.1 are affected by this vulnerability. It is patched in 8.9.13 and 8.19.2.\n\nThis open redirect vulnerability, with a CVSS Score of 3.1 and a CVSS Vector of CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:N/A:N, allows an unauthenticated attacker to redirect a victim user upon login to Bitbucket Data Center to any arbitrary site which can be utilized for further exploitation which has low impact to confidentiality, no impact to integrity, no impact to availability, and requires user interaction.\n\nAtlassian recommends that Bitbucket Data Center customers upgrade to the version. If you are unable to do so, upgrade your instance to one of the  supported fixed versions.\n\nPublication Date: Tue Nov 05 23:02:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Bitbucket DC",
+                "8.9.12"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21684"
+            ]
+        },
+        {
+            "Message ID": 92105,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-32607\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-32607\n\nDescription: HDF5 Library through 1.14.3 has a SEGV in H5A__close in H5Aint.c, resulting in the corruption of the instruction pointer.\n\nPublication Date: Tue Nov 05 23:02:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-32607"
+            ]
+        },
+        {
+            "Message ID": 92104,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51244\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51244\n\nDescription: In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitrary commands by calling the doIPSec function.\n\nPublication Date: Tue Nov 05 23:02:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51244",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 92103,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51245\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51245\n\nDescription: In DrayTek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitrary commands by calling the rename_table function.\n\nPublication Date: Tue Nov 05 23:01:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51245",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 92102,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51247\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51247\n\nDescription: In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitrary commands by calling the doPPPo function.\n\nPublication Date: Tue Nov 05 23:01:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51247",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 92101,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51248\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51248\n\nDescription: In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitrary commands by calling the modifyrow function.\n\nPublication Date: Tue Nov 05 23:01:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51248",
+                "1.5.1.3"
+            ]
+        },
+        {
+            "Message ID": 92100,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-21024\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21024\n\nDescription: Vulnerability in the Oracle Complex Maintenance, Repair, and Overhaul product of Oracle E-Business Suite (component: LOV).  Supported versions that are affected are 12.2.3-12.2.13. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Complex Maintenance, Repair, and Overhaul.  Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Oracle Complex Maintenance, Repair, and Overhaul, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in  unauthorized update, insert or delete access to some of Oracle Complex Maintenance, Repair, and Overhaul accessible data as well as  unauthorized read access to a subset of Oracle Complex Maintenance, Repair, and Overhaul accessible data. CVSS 3.1 Base Score 6.1 (Confidentiality and Integrity impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N).\n\nPublication Date: Tue Nov 05 23:01:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21024"
+            ]
+        },
+        {
+            "Message ID": 92099,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-10845\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10845\n\nDescription: A vulnerability has been found in 1000 Projects Bookstore Management System 1.0 and classified as critical. This vulnerability affects unknown code of the file book_detail.php. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Tue Nov 05 23:01:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10845"
+            ]
+        },
+        {
+            "Message ID": 92098,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-10844\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10844\n\nDescription: A vulnerability, which was classified as critical, was found in 1000 Projects Bookstore Management System 1.0. This affects an unknown part of the file search.php. The manipulation of the argument s leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Tue Nov 05 23:01:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10844"
             ]
         }
     ],
