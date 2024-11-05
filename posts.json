@@ -66768,6 +66768,18 @@
             "URLs": [
                 "https://thehackernews.com/2024/11/google-warns-of-actively-exploited-cve.html"
             ]
+        },
+        {
+            "Message ID": 91917,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Canadian Suspect Arrested Over Snowflake Data Breach and Extortion Attacks\n\nDate: Nov 05, 2024\n\nSource: https://thehackernews.com/2024/11/canadian-suspect-arrested-over.html\n\n#News #Canada",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Canada"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/canadian-suspect-arrested-over.html"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
