@@ -66992,6 +66992,138 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10097"
             ]
+        },
+        {
+            "Message ID": 91939,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-47137\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47137\n\nDescription: in OpenHarmony v4.1.0 and prior versions allow a local attacker cause the common permission is upgraded to root and sensitive information leak through out-of-bounds write.\n\nPublication Date: Tue Nov 05 12:03:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47137"
+            ]
+        },
+        {
+            "Message ID": 91938,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-47402\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47402\n\nDescription: in OpenHarmony v4.0.0 and prior versions allow a local attacker cause DOS through out-of-bounds read.\n\nPublication Date: Tue Nov 05 12:03:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47402"
+            ]
+        },
+        {
+            "Message ID": 91937,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-47404\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47404\n\nDescription: in OpenHarmony v4.1.0 and prior versions allow a local attacker cause the common permission is upgraded to root and sensitive information leak through double free.\n\nPublication Date: Tue Nov 05 12:02:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47404"
+            ]
+        },
+        {
+            "Message ID": 91936,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-47797\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47797\n\nDescription: in OpenHarmony v4.1.0 and prior versions allow a local attacker cause the common permission is upgraded to root and sensitive information leak through out-of-bounds write.\n\nPublication Date: Tue Nov 05 12:02:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47797"
+            ]
+        },
+        {
+            "Message ID": 91935,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51510\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51510\n\nDescription: Out-of-bounds access vulnerability in the logo module\nImpact: Successful exploitation of this vulnerability may affect service confidentiality.\n\nPublication Date: Tue Nov 05 12:02:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51510"
+            ]
+        },
+        {
+            "Message ID": 91934,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-9443\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9443\n\nDescription: The Basticom Framework plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in all versions up to, and including, 1.5.0 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Author-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.\n\nPublication Date: Tue Nov 05 12:02:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9443"
+            ]
+        },
+        {
+            "Message ID": 91933,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-10114\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10114\n\nDescription: The WooCommerce - Social Login plugin for WordPress is vulnerable to authentication bypass in all versions up to, and including, 2.7.7. This is due to insufficient verification on the user being returned by the social login token. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the email and the user does not have an already-existing account for the service returning the token.\n\nPublication Date: Tue Nov 05 12:02:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10114"
+            ]
+        },
+        {
+            "Message ID": 91932,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-10711\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10711\n\nDescription: The WooCommerce Report plugin for WordPress is vulnerable to Cross-Site Request Forgery in all versions up to, and including, 1.5.1. This is due to missing or incorrect nonce validation on the settings update functionality. This makes it possible for unauthenticated attackers to update arbitrary options that can be leveraged for privilege escalation via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.\n\nPublication Date: Tue Nov 05 12:01:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10711"
+            ]
+        },
+        {
+            "Message ID": 91931,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-9667\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9667\n\nDescription: The Seriously Simple Podcasting plugin for WordPress is vulnerable to Reflected Cross-Site Scripting due to the use of add_query_arg without appropriate escaping on the URL in all versions up to, and including, 3.5.0. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.\n\nPublication Date: Tue Nov 05 12:01:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9667"
+            ]
+        },
+        {
+            "Message ID": 91930,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51511\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51511\n\nDescription: Vulnerability of parameter type not being verified in the WantAgent module\nImpact: Successful exploitation of this vulnerability may affect availability.\n\nPublication Date: Tue Nov 05 12:01:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51511"
+            ]
+        },
+        {
+            "Message ID": 91929,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51512\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51512\n\nDescription: Vulnerability of parameter type not being verified in the WantAgent module\nImpact: Successful exploitation of this vulnerability may affect availability.\n\nPublication Date: Tue Nov 05 12:01:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51512"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
