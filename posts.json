@@ -67585,6 +67585,58 @@
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-47255",
                 "3.1.1.2"
             ]
+        },
+        {
+            "Message ID": 91980,
+            "discovered": "2024-11-05",
+            "post_title": "Victim: Fylde Coast Academy Trust\n\nDetection Date: Tue Nov 05 14:43:50 2024\n\nThreat Actor: rhysida\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91979,
+            "discovered": "2024-11-05",
+            "post_title": "Victim: Fylde Coast Academy Trust\n\nDetection Date: Tue Nov 05 14:43:50 2024\n\nThreat Actor: rhysida\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91978,
+            "discovered": "2024-11-05",
+            "post_title": "Victim: Russell Law Firm, LLC\n\nDetection Date: Tue Nov 05 14:43:38 2024\n\nThreat Actor: bianlian\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91977,
+            "discovered": "2024-11-05",
+            "post_title": "Victim: L & B Transport, L.L.C.\n\nDetection Date: Tue Nov 05 14:43:25 2024\n\nThreat Actor: bianlian\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91976,
+            "discovered": "2024-11-05",
+            "post_title": "Victim: sundt.com\n\nDetection Date: Tue Nov 05 14:43:07 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "sundt.com"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
