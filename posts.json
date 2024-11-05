@@ -8079,6 +8079,34 @@
             "URLs": [
                 "ps://darkwebinformer.com/intelbroker-and-energryweaponuser-have-allegedly-leaked-the-data-of-sharan/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6407,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇺🇸🇦🇺🇨🇦🇿🇦🇪🇸doZKey is Allegedly Selling RDWeb Access to Multiple Companies\n\nhttps://darkwebinformer.com/dozkey-is-allegedly-selling-rdweb-access-to-multiple-companies/\n\nA threat actor is reportedly offering RDWeb user access rights for sale to unspecified organizations in the USA, Australia, Canada, South Africa, and Spain, as well as extended access options for users within the European Union.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA",
+                "Australia",
+                "Canada",
+                "South Africa",
+                "Spain"
+            ],
+            "URLs": [
+                "kwebinformer.com/dozkey-is-allegedly-selling-rdweb-access-to-multiple-companies/\n\nA threat "
+            ]
+        },
+        {
+            "Message ID": 6406,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇮🇱DarkRaaS Has Allegedly Leaked Data of Ariel University\n\nhttps://darkwebinformer.com/darkraas-has-allegedly-leaked-data-of-ariel-university/\n\nThe threat actor asserts they have leaked data involving 30,000 individuals associated with Ariel University. The exposed information reportedly includes full names, phone numbers, email addresses, zip codes, degree interests, faculty preferences, campaign details, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/darkraas-has-allegedly-leaked-data-of-ariel-university/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -68691,6 +68719,42 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-1893"
+            ]
+        },
+        {
+            "Message ID": 92047,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Canadian Man Arrested in Snowflake Data Extortions\n\nDate: November 5, 2024\n\nSource: https://krebsonsecurity.com/2024/11/canadian-man-arrested-in-snowflake-data-extortions/\n\n#News #Canada",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Canada"
+            ],
+            "URLs": [
+                "https://krebsonsecurity.com/2024/11/canadian-man-arrested-in-snowflake-data-extortions/"
+            ]
+        },
+        {
+            "Message ID": 92046,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Google Uses Its Big Sleep AI Agent to Find SQLite Security Flaw\n\nDate: November 5, 2024\n\nSource: https://securityboulevard.com/2024/11/google-uses-its-big-sleep-ai-agent-to-find-sqlite-security-flaw/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://securityboulevard.com/2024/11/google-uses-its-big-sleep-ai-agent-to-find-sqlite-security-flaw/"
+            ]
+        },
+        {
+            "Message ID": 92045,
+            "discovered": "2024-11-05",
+            "post_title": "Title: FBI Seeks Public Help to Identify Chinese Hackers Behind Global Cyber Intrusions\n\nDate: Nov 05, 2024\n\nSource: https://thehackernews.com/2024/11/fbi-seeks-public-help-to-identify.html\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/fbi-seeks-public-help-to-identify.html"
             ]
         }
     ],
