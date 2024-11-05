@@ -30110,6 +30110,36 @@
             "URLs": [
                 "https://t.co/XbPrJeLclS"
             ]
+        },
+        {
+            "Message ID": 3480,
+            "discovered": "2024-11-05",
+            "post_title": "Group: rhysida\nApprox. Time: 12:36 05/11/24\nTitle: Fylde Coast Academy Trust",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3479,
+            "discovered": "2024-11-05",
+            "post_title": "Group: bianlian\nApprox. Time: 12:36 05/11/24\nTitle: Burch, APC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3478,
+            "discovered": "2024-11-05",
+            "post_title": "Group: bianlian\nApprox. Time: 12:36 05/11/24\nTitle: L and B Transport, L.L.C.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -34430,6 +34460,30 @@
             ],
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18391"
+            ]
+        },
+        {
+            "Message ID": 4064,
+            "discovered": "2024-11-05",
+            "post_title": "ID: 18393\n⚠ Tue, 05 Nov 2024 08:45:38 UTC\n🥷 medusa\n🎯 McMillan Electric Company, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18393",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18393"
+            ]
+        },
+        {
+            "Message ID": 4063,
+            "discovered": "2024-11-05",
+            "post_title": "ID: 18392\n⚠ Tue, 05 Nov 2024 08:49:11 UTC\n🥷 dragonforce\n🎯 Scolari, Italy\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18392",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Italy"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18392"
             ]
         }
     ],
@@ -67636,6 +67690,102 @@
             ],
             "URLs": [
                 "sundt.com"
+            ]
+        },
+        {
+            "Message ID": 91988,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Pacific Rim: Chronicling a 5-year Hacking Escapade\n\nDate: November 5, 2024\n\nSource: https://eclypsium.com/blog/pacific-rim-chronicling-a-5-year-hacking-escapade/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://eclypsium.com/blog/pacific-rim-chronicling-a-5-year-hacking-escapade/"
+            ]
+        },
+        {
+            "Message ID": 91987,
+            "discovered": "2024-11-05",
+            "post_title": "Title: New Android Banking Malware 'ToxicPanda' Targets Users with Fraudulent Money Transfers\n\nDate: Nov 05, 2024\n\nSource: https://thehackernews.com/2024/11/new-android-banking-malware-toxicpanda.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/new-android-banking-malware-toxicpanda.html"
+            ]
+        },
+        {
+            "Message ID": 91986,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-10319\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10319\n\nDescription: The 140+ Widgets | Xpro Addons For Elementor – FREE plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 1.4.6 via the render function in widgets/content-toggle/layout/frontend.php. This makes it possible for authenticated attackers, with Contributor-level access and above, to extract sensitive private, pending, and draft template data.\n\nPublication Date: Tue Nov 05 15:07:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10319"
+            ]
+        },
+        {
+            "Message ID": 91985,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-9178\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9178\n\nDescription: The XT Floating Cart for WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in all versions up to, and including, 2.8.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Author-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.\n\nPublication Date: Tue Nov 05 15:07:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9178"
+            ]
+        },
+        {
+            "Message ID": 91984,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51529\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51529\n\nDescription: Data verification vulnerability in the battery module\nImpact:  Successful exploitation of this vulnerability may affect function stability.\n\nPublication Date: Tue Nov 05 15:07:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51529"
+            ]
+        },
+        {
+            "Message ID": 91983,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51530\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51530\n\nDescription: LaunchAnywhere vulnerability in the account module\nImpact: Successful exploitation of this vulnerability may affect service confidentiality.\n\nPublication Date: Tue Nov 05 15:07:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51530"
+            ]
+        },
+        {
+            "Message ID": 91982,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-9657\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9657\n\nDescription: The Element Pack Elementor Addons (Header Footer, Template Library, Dynamic Grid & Carousel, Remote Arrows) plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘tooltip' parameter in all versions up to, and including, 5.10.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Tue Nov 05 15:06:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9657"
+            ]
+        },
+        {
+            "Message ID": 91981,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-9867\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9867\n\nDescription: The Element Pack Elementor Addons (Header Footer, Template Library, Dynamic Grid & Carousel, Remote Arrows) plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'Open Map Widget' marker_content parameter in all versions up to, and including, 5.10.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Tue Nov 05 15:06:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9867"
             ]
         }
     ],
