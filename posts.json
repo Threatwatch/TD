@@ -8309,6 +8309,18 @@
             "URLs": [
                 "ttps://darkwebinformer.com/cve-2024-45519-zimbra-postjournal-exploit-setup/"
             ]
+        },
+        {
+            "Message ID": 6425,
+            "discovered": "2024-11-05",
+            "post_title": "🚨DenBots Proof Targeted the Website of SeriesLan\n\nhttps://darkwebinformer.com/denbots-proof-targeted-the-website-of-serieslan/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/denbots-proof-targeted-the-website-of-serieslan/"
+            ]
         }
     ],
     "RipperSec | 团队": [
