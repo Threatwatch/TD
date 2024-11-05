@@ -14672,6 +14672,19 @@
                 "Dhaka"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5328,
+            "discovered": "2024-11-05",
+            "post_title": "Al Ain Class Motors is one of the leading companies for selling luxury cars in UAE. It was hacked by sylhet gang-sg\n\nTarget: \nhttps://alainclass.com/\n\nThis attack comes as part of a response to the UAE’s support for the Rapid Support Forces in Sudan to commit massacres of Muslims.\n\nCredz:- D01\n\n\n#Sylhet_gang_sg",
+            "Attack Type": "Hacking",
+            "Location": [
+                "UAE",
+                "Sudan"
+            ],
+            "URLs": [
+                "https://alainclass.com/"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
@@ -67340,6 +67353,174 @@
             ],
             "URLs": [
                 "https://any.run/cybersecurity-blog/dr-jim-furstenberg-expert-qa/"
+            ]
+        },
+        {
+            "Message ID": 91970,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51517\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51517\n\nDescription: Vulnerability of improper memory access in the phone service module\nImpact: Successful exploitation of this vulnerability may affect availability.\n\nPublication Date: Tue Nov 05 14:09:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51517"
+            ]
+        },
+        {
+            "Message ID": 91969,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51518\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51518\n\nDescription: Vulnerability of message types not being verified in the advanced messaging modul\nImpact: Successful exploitation of this vulnerability may affect availability.\n\nPublication Date: Tue Nov 05 14:09:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51518"
+            ]
+        },
+        {
+            "Message ID": 91968,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51519\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51519\n\nDescription: Vulnerability of input parameters not being verified in the HDC module\nImpact: Successful exploitation of this vulnerability may affect availability.\n\nPublication Date: Tue Nov 05 14:09:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51519"
+            ]
+        },
+        {
+            "Message ID": 91967,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51520\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51520\n\nDescription: Vulnerability of input parameters not being verified in the HDC module\nImpact: Successful exploitation of this vulnerability may affect availability.\n\nPublication Date: Tue Nov 05 14:09:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51520"
+            ]
+        },
+        {
+            "Message ID": 91966,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51521\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51521\n\nDescription: Input parameter verification vulnerability in the background service module\nImpact: Successful exploitation of this vulnerability may affect availability.\n\nPublication Date: Tue Nov 05 14:08:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51521"
+            ]
+        },
+        {
+            "Message ID": 91965,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51522\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51522\n\nDescription: Vulnerability of improper device information processing in the device management module\nImpact: Successful exploitation of this vulnerability may affect availability.\n\nPublication Date: Tue Nov 05 14:08:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51522"
+            ]
+        },
+        {
+            "Message ID": 91964,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51523\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51523\n\nDescription: Information management vulnerability in the Gallery module\nImpact: Successful exploitation of this vulnerability may affect service confidentiality.\n\nPublication Date: Tue Nov 05 14:08:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51523"
+            ]
+        },
+        {
+            "Message ID": 91963,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51524\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51524\n\nDescription: Permission control vulnerability in the Wi-Fi module\nImpact: Successful exploitation of this vulnerability may affect service confidentiality.\n\nPublication Date: Tue Nov 05 14:08:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51524"
+            ]
+        },
+        {
+            "Message ID": 91962,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51525\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51525\n\nDescription: Permission control vulnerability in the clipboard module\nImpact: Successful exploitation of this vulnerability may affect service confidentiality.\n\nPublication Date: Tue Nov 05 14:08:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51525"
+            ]
+        },
+        {
+            "Message ID": 91961,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51526\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51526\n\nDescription: Permission control vulnerability in the hidebug module\nImpact: Successful exploitation of this vulnerability may affect service confidentiality.\n\nPublication Date: Tue Nov 05 14:07:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51526"
+            ]
+        },
+        {
+            "Message ID": 91960,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51527\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51527\n\nDescription: Permission control vulnerability in the Gallery app\nImpact: Successful exploitation of this vulnerability may affect service confidentiality.\n\nPublication Date: Tue Nov 05 14:07:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51527"
+            ]
+        },
+        {
+            "Message ID": 91959,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51528\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51528\n\nDescription: Vulnerability of improper log printing in the Super Home Screen module\nImpact: Successful exploitation of this vulnerability may affect service confidentiality.\n\nPublication Date: Tue Nov 05 14:07:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51528"
+            ]
+        },
+        {
+            "Message ID": 91958,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-7429\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-7429\n\nDescription: The Zotpress plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the Zotpress_process_accounts_AJAX function in all versions up to, and including, 7.3.12. This makes it possible for authenticated attackers, with Contributor-level access and above, to reset the plugin's settings.\n\nPublication Date: Tue Nov 05 14:07:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Zotpress_process_accounts_AJAX"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7429"
+            ]
+        },
+        {
+            "Message ID": 91957,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-9878\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9878\n\nDescription: The Photo Gallery by 10Web – Mobile-Friendly Image Gallery plugin for WordPress is vulnerable to Stored Cross-Site Scripting via admin settings in all versions up to, and including, 1.8.30 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with administrator-level permissions and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. This only affects multi-site installations and installations where unfiltered_html has been disabled.\n\nPublication Date: Tue Nov 05 14:07:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9878"
             ]
         }
     ],
