@@ -30252,6 +30252,18 @@
             "URLs": [
                 "https://t.co/OQeJ8Wnw3B"
             ]
+        },
+        {
+            "Message ID": 3482,
+            "discovered": "2024-11-05",
+            "post_title": "Group: embargo\nApprox. Time: 16:37 05/11/24\nTitle: https://t.co/fRFLHWJHL9",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/fRFLHWJHL9"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -34633,6 +34645,31 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4069,
+            "discovered": "2024-11-05",
+            "post_title": "ID: 18397\n⚠ Tue, 05 Nov 2024 11:21:22 UTC\n🥷 ransomhub\n🎯 sundt.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18397",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "ndt.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18397"
+            ]
+        },
+        {
+            "Message ID": 4068,
+            "discovered": "2024-11-05",
+            "post_title": "ID: 18396\n⚠ Tue, 05 Nov 2024 14:52:31 UTC\n🥷 rhysida\n🎯 Fylde Coast Academy Trust, UK\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18396",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18396"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -68387,6 +68424,31 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-51015"
+            ]
+        },
+        {
+            "Message ID": 92027,
+            "discovered": "2024-11-05",
+            "post_title": "Title: How Black Basta used PowerShell to set up a Cobalt Strike beacon\n\nDate: November 5, 2024\n\nSource: https://www.threatdown.com/blog/how-black-basta-used-powershell-to-set-up-a-cobalt-strike-beacon/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Cobalt Strike"
+            ],
+            "URLs": [
+                "https://www.threatdown.com/blog/how-black-basta-used-powershell-to-set-up-a-cobalt-strike-beacon/"
+            ]
+        },
+        {
+            "Message ID": 92026,
+            "discovered": "2024-11-05",
+            "post_title": "Title: US warns of last-minute Iranian and Russian election influence ops\n\nDate: November 05, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/us-warns-of-last-minute-iranian-and-russian-election-influence-ops/\n\n#News #Iran #Russia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US",
+                "Russia"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/us-warns-of-last-minute-iranian-and-russian-election-influence-ops/"
             ]
         }
     ],
