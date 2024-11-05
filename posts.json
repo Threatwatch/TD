@@ -24110,6 +24110,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 953,
+            "discovered": "2024-11-05",
+            "post_title": "We are @MysteriousTeam0  announcing our new alliance with @Hunt3rkill3rs1 (Hunt3r Kill3rs).\n\n\n🤝Unity is strength, it will stronger more us.\n\n\nWe will work together against Evils and Their countries.🔥\n\nWe will work together to defend our nations from evils & their countries.🤝\n\nWe will carry out major operations against Nato countries & Israel ~ Zionist countries.🚀\n\n\n\n#MysteriousTeamBD🇧🇩\n#Hunt3rKill3rs🇷🇺",
+            "Attack Type": "Unknown",
+            "Location": [
+                "& Israel"
+            ],
+            "URLs": []
         }
     ],
     "Electronic Tigers Unit": [
@@ -66791,6 +66801,18 @@
             ],
             "URLs": [
                 "https://thehackernews.com/2024/11/malware-campaign-uses-ethereum-smart.html"
+            ]
+        },
+        {
+            "Message ID": 91919,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2019-16278\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2019-16278\n\nDescription: Directory Traversal in the function http_verify in nostromo nhttpd through 1.9.6 allows an attacker to achieve remote code execution via a crafted HTTP request.\n\nPublication Date: Tue Nov 05 09:02:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2019-16278"
             ]
         }
     ],
