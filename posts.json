@@ -70589,6 +70589,200 @@
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10739",
                 "https://github.com/UnrealdDei/cve/blob/main/sql11.md"
             ]
+        },
+        {
+            "Message ID": 92168,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Cyberthreats linked to foreign actors aim to hinder Election Day proceedings\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/news/cyberthreats-linked-to-foreign-actors-aim-to-hinder-election-day-proceedings\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/cyberthreats-linked-to-foreign-actors-aim-to-hinder-election-day-proceedings"
+            ]
+        },
+        {
+            "Message ID": 92167,
+            "discovered": "2024-11-05",
+            "post_title": "Title: DocuSign’s API used to lure victims into e-signing fake invoices\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/news/docusigns-api-used-to-lure-victims-into-e-signing-fake-invoices\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/docusigns-api-used-to-lure-victims-into-e-signing-fake-invoices"
+            ]
+        },
+        {
+            "Message ID": 92166,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-37380\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37380\n\nDescription: A misconfiguration on UniFi U6+ Access Point could cause an incorrect VLAN traffic forwarding to APs meshed to UniFi U6+ Access Point.\n\n\nAffected Products:\nUniFi U6+ Access Point (Version 6.6.65 and earlier) \n\n \nMitigation:\nUpdate your UniFi U6+ Access Point to Version 6.6.74 or later.\n\nPublication Date: Wed Nov 06 02:21:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37380"
+            ]
+        },
+        {
+            "Message ID": 92165,
+            "discovered": "2024-11-05",
+            "post_title": "Victim: Dome Construction\n\nDetection Date: Wed Nov 06 02:20:17 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 92164,
+            "discovered": "2024-11-05",
+            "post_title": "Victim: S & W Kitchens\n\nDetection Date: Wed Nov 06 02:19:58 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 92163,
+            "discovered": "2024-11-05",
+            "post_title": "Victim: Smitty's Supply\n\nDetection Date: Wed Nov 06 02:19:38 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 92162,
+            "discovered": "2024-11-05",
+            "post_title": "Victim: Delfin Design & Manufacturing\n\nDetection Date: Wed Nov 06 02:19:19 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 92161,
+            "discovered": "2024-11-05",
+            "post_title": "Victim: Paragon Plastics\n\nDetection Date: Wed Nov 06 02:18:59 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 92160,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-6492\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-6492\n\nDescription: Exposure of Sensitive Information in edge browser session proxy feature in Devolutions Remote Desktop Manager 2024.2.14.0 and earlier on Windows allows an attacker to intercept proxy credentials via a specially crafted website.\n\nPublication Date: Wed Nov 06 02:08:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-6492"
+            ]
+        },
+        {
+            "Message ID": 92159,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-41577\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-41577\n\nDescription: An arbitrary file upload vulnerability in the Ueditor component of productinfoquick v1.0 allows attackers to execute arbitrary code via uploading a crafted PNG file.\n\nPublication Date: Wed Nov 06 02:08:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-41577"
+            ]
+        },
+        {
+            "Message ID": 92158,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51115\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51115\n\nDescription: DCME-320 v7.4.12.90 was discovered to contain a command injection vulnerability.\n\nPublication Date: Wed Nov 06 02:07:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51115"
+            ]
+        },
+        {
+            "Message ID": 92157,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-48746\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48746\n\nDescription: An issue in Lens Visual integration with Power BI v.4.0.0.3 allows a remote attacker to execute arbitrary code via the Natural language processing component\n\nPublication Date: Wed Nov 06 02:07:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Lens"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48746"
+            ]
+        },
+        {
+            "Message ID": 92156,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51116\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51116\n\nDescription: Tenda AC6 v2.0 V15.03.06.50 was discovered to contain a buffer overflow in the function 'formSetPPTPServer'.\n\nPublication Date: Wed Nov 06 02:07:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51116"
+            ]
+        },
+        {
+            "Message ID": 92155,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51756\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51756\n\nDescription: The cap-std project is organized around the eponymous `cap-std` crate, and develops libraries to make it easy to write capability-based code. cap-std's filesystem sandbox implementation on Windows blocks access to special device filenames such as \"COM1\", \"COM2\", \"LPT0\", \"LPT1\", and so on, however it did not block access to the special device filenames which use superscript digits, such as \"COM¹\", \"COM²\", \"LPT⁰\", \"LPT¹\", and so on. Untrusted filesystem paths could bypass the sandbox and access devices through those special device filenames with superscript digits, and through them provide access peripheral devices connected to the computer, or network resources mapped to those devices. This can include modems, printers, network printers, and any other device connected to a serial or parallel port, including emulated USB serial ports. The bug is fixed in #371, which is published in cap-primitives 3.4.1, cap-std 3.4.1, and cap-async-std 3.4.1. There are no known workarounds for this issue. Affected Windows users are recommended to upgrade.\n\nPublication Date: Wed Nov 06 02:07:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "COM¹"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51756"
+            ]
+        },
+        {
+            "Message ID": 92154,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-48176\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48176\n\nDescription: Lylme Spage v1.9.5 is vulnerable to Incorrect Access Control. There is no limit on the number of login attempts, and the verification code will not be refreshed after a failed login, which allows attackers to blast the username and password and log into the system backend.\n\nPublication Date: Wed Nov 06 02:07:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48176"
+            ]
+        },
+        {
+            "Message ID": 92153,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-42509\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42509\n\nDescription: Command injection vulnerability in the underlying CLI service could lead to unauthenticated remote code execution by sending specially crafted packets destined to the PAPI (Aruba's Access Point management protocol) UDP port (8211). Successful exploitation of this vulnerability results in the ability to execute arbitrary code as a privileged user on the underlying operating system.\n\nPublication Date: Wed Nov 06 02:07:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Aruba"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42509"
+            ]
+        },
+        {
+            "Message ID": 92152,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51358\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51358\n\nDescription: An issue in Linux Server Heimdall v.2.6.1 allows a remote attacker to execute arbitrary code via a crafted script to the Add new application.\n\nPublication Date: Wed Nov 06 02:06:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51358"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
