@@ -8033,6 +8033,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6402,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇺🇸natohub Has Allegedly Leaked Data of the US Military\n\nhttps://darkwebinformer.com/natohub-has-allegedly-leaked-data-of-the-us-military/\n\nThe threat actor alleges that they are selling data belonging to the US Military. This compromised dataset reportedly contains information on over 385,000 military personnel and contractors, including names, email addresses, phone numbers, home addresses, service details, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/natohub-has-allegedly-leaked-data-of-the-us-military/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -34497,6 +34509,42 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18392"
             ]
+        },
+        {
+            "Message ID": 4067,
+            "discovered": "2024-11-05",
+            "post_title": "ID: 18395\n⚠ Tue, 05 Nov 2024 09:18:46 UTC\n🥷 embargo\n🎯 Memorial Hospital  AND  Manor, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18395",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18395"
+            ]
+        },
+        {
+            "Message ID": 4066,
+            "discovered": "2024-11-05",
+            "post_title": "ID: 18394\n⚠ Tue, 05 Nov 2024 09:28:06 UTC\n🥷 qilin\n🎯 www.colonialbh.org, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18394",
+            "Attack Type": "Unknown",
+            "Location": [
+                "qilin",
+                "USA"
+            ],
+            "URLs": [
+                "w.colonialbh.org, ",
+                "somfeed.it/index.php?page=post_details&id_post=18394"
+            ]
+        },
+        {
+            "Message ID": 4065,
+            "discovered": "2024-11-05",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -67871,6 +67919,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-7059"
+            ]
+        },
+        {
+            "Message ID": 91995,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Google fixes two Android zero-days used in targeted attacks\n\nDate: November 05, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/google-fixes-two-android-zero-days-used-in-targeted-attacks/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/google-fixes-two-android-zero-days-used-in-targeted-attacks/"
             ]
         }
     ],
