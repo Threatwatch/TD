@@ -66946,6 +66946,30 @@
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9883",
                 "3.2.7.1"
             ]
+        },
+        {
+            "Message ID": 91928,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Is the UK government about to ban smartphones in schools?\n\nDate: November 5, 2024\n\nSource: https://www.pandasecurity.com/en/mediacenter/uk-government-ban-smartphones-in-schools/\n\n#News #UnitedKingdom",
+            "Attack Type": "Hacking",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "https://www.pandasecurity.com/en/mediacenter/uk-government-ban-smartphones-in-schools/"
+            ]
+        },
+        {
+            "Message ID": 91927,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-10097\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10097\n\nDescription: The Loginizer Security and Loginizer plugins for WordPress are vulnerable to authentication bypass in all versions up to, and including, 1.9.2. This is due to insufficient verification on the user being returned by the social login token. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the email and the user does not have an already-existing account for the service returning the token.\n\nPublication Date: Tue Nov 05 11:05:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10097"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
