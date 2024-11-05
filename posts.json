@@ -67522,6 +67522,69 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9878"
             ]
+        },
+        {
+            "Message ID": 91975,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Leveraging Wazuh for Zero Trust security\n\nDate: Nov 05, 2024\n\nSource: https://thehackernews.com/2024/11/leveraging-wazuh-for-zero-trust-security.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/leveraging-wazuh-for-zero-trust-security.html"
+            ]
+        },
+        {
+            "Message ID": 91974,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-45448\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45448\n\nDescription: Page table protection configuration vulnerability in the trusted firmware module\nImpact: Successful exploitation of this vulnerability may affect service confidentiality.\n\nPublication Date: Tue Nov 05 14:21:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45448"
+            ]
+        },
+        {
+            "Message ID": 91973,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-47253\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47253\n\nDescription: In 2N Access Commander versions 3.1.1.2 and prior, a Path Traversal \nvulnerability could allow an attacker to write files on the filesystem \nto achieve arbitrary remote code execution.\n\nPublication Date: Tue Nov 05 14:21:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47253",
+                "3.1.1.2"
+            ]
+        },
+        {
+            "Message ID": 91972,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-47254\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47254\n\nDescription: In 2N Access Commander versions 3.1.1.2 and prior, an Insufficient \nVerification of Data Authenticity vulnerability could allow an attacker \nto escalate their privileges and gain root access to the system.\n\nPublication Date: Tue Nov 05 14:20:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47254",
+                "3.1.1.2"
+            ]
+        },
+        {
+            "Message ID": 91971,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-47255\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47255\n\nDescription: In 2N Access Commander versions 3.1.1.2 and prior, a local attacker can escalate their privileges in the system which could allow for arbitrary \ncode execution with root permissions.\n\nPublication Date: Tue Nov 05 14:20:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47255",
+                "3.1.1.2"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
