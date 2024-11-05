@@ -14685,6 +14685,18 @@
             "URLs": [
                 "https://alainclass.com/"
             ]
+        },
+        {
+            "Message ID": 5329,
+            "discovered": "2024-11-05",
+            "post_title": "The PayTR web server has been hit by Sylhet Gang - SG, bringing down this essential payment platform of Zionist Turkeye with the dreaded 502 Bad Gateway error. ⚠️💥\n\n🎯 Target Details:\nServer: https://www.paytr.com\nStatus: 🚫 502 Bad Gateway\nReport: 💥 Check Report\n\n\n🚫 Right now, the site is non-responsive, showing only a blank 502 error. For users dependent on PayTR’s seamless payment solutions, it’s as if the system has vanished. 😹\n\nGreatz: F07xD01\nMagician of the madness : VulCanC2",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://www.paytr.com\nS"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
@@ -67798,6 +67810,67 @@
             ],
             "URLs": [
                 "https://www.reversinglabs.com/blog/sec-takes-action-software-transparency"
+            ]
+        },
+        {
+            "Message ID": 91994,
+            "discovered": "2024-11-05",
+            "post_title": "Title: The Credential Abuse Cycle: Theft, Trade, and Exploitation\n\nDate: November 5, 2024\n\nSource: https://www.reliaquest.com/blog/the-credential-abuse-cycle-theft-trade-and-exploitation/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.reliaquest.com/blog/the-credential-abuse-cycle-theft-trade-and-exploitation/"
+            ]
+        },
+        {
+            "Message ID": 91993,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-9560\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9560\n\nDescription: A vulnerability was found in ESAFENET CDG V5. It has been rated as critical. Affected by this issue is the function delCatelogs of the file /CDGServer3/document/Catelogs;logindojojs?command=DelCatelogs. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Tue Nov 05 17:01:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9560"
+            ]
+        },
+        {
+            "Message ID": 91992,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-10263\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10263\n\nDescription: The Tickera – WordPress Event Ticketing plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to, and including, 3.5.4.4. This is due to the software allowing users to execute an action that does not properly validate a value before running do_shortcode. This makes it possible for unauthenticated attackers to execute arbitrary shortcodes.\n\nPublication Date: Tue Nov 05 17:01:23 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10263",
+                "3.5.4.4"
+            ]
+        },
+        {
+            "Message ID": 91991,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-10840\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10840\n\nDescription: A vulnerability classified as problematic has been found in romadebrian WEB-Sekolah 1.0. Affected is an unknown function of the file /Admin/akun_edit.php of the component Backend. The manipulation of the argument kode leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Tue Nov 05 17:01:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10840"
+            ]
+        },
+        {
+            "Message ID": 91990,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-7059\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-7059\n\nDescription: A high-severity vulnerability that can lead to arbitrary code execution on the system hosting the Web SDK role was found in the Genetecâ„¢ Security Center product line.\n\nPublication Date: Tue Nov 05 17:01:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7059"
             ]
         }
     ],
