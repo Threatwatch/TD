@@ -8107,6 +8107,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/darkraas-has-allegedly-leaked-data-of-ariel-university/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6409,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇺🇸East Baton Rouge Sheriff's Office Has Been Claimed a Victim to Qilin Ransomware\n\nhttps://darkwebinformer.com/east-baton-rouge-sheriffs-office-has-been-claimed-a-victim-to-qilin-ransomware/\n\nA group claims to have acquired the organization's data and has shared sample screenshots on their dark web portal.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/east-baton-rouge-sheriffs-office-has-been-claimed-a-victim-to-qilin-ransomware/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6408,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇷🇺anonmoose Has Allegedly Leaked Data of WineStyle\n\nhttps://darkwebinformer.com/anonmoose-has-allegedly-leaked-data-of-winestyle/\n\nA threat actor claims to have leaked the database of WineStyle Store. The exposed data reportedly consists of 1.1 million records, including names, phone numbers, addresses, and IP addresses.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/anonmoose-has-allegedly-leaked-data-of-winestyle/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -14815,6 +14839,16 @@
             "Location": [
                 "Bangladesh",
                 "India"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5335,
+            "discovered": "2024-11-05",
+            "post_title": "Bangladeshi Military Strikes on members of Terrorist Organization Iskcon, as they were creating Unrest in the area, \n\nWe believe that they will be banned in the country soon",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": []
         }
@@ -21823,6 +21857,16 @@
             "discovered": "2024-11-03",
             "post_title": "There is nothing left and the deadline is ending, and those who did not listen to the warnings will regret it.\nלא נשאר כלום והדדליין מסתיים, ומי שלא הקשיב לאזהרות יתחרט.\n\nA historic event is on the way.\nאירוע היסטורי בדרך.\n12⏳\n\n#Team1956 \n#Anonymous \n#FreePalestine \n#OpIsrael",
             "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 1282,
+            "discovered": "2024-11-05",
+            "post_title": "Just 10 days. Millions of shekels for a useless war. Wouldn't it be better to think about your destroyed economy?\n\nנותרו רק עשרה ימים. מיליוני שקלים למלחמה חסרת תועלת. עדיף לחשוב על הכלכלה ההרוסה שלכם.\n\n\n#Team1956 \n#FreePalestine\n#OpIsrael\n#BabykillerZionist\n#IDFTerrorists\n#AnonymousHackers\n\nYour money is in our hands, nothing left\nContact: @Anon_1srael",
+            "Attack Type": "Hacking",
             "Location": [
                 "N/A"
             ],
