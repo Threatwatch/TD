@@ -66691,6 +66691,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10810"
             ]
+        },
+        {
+            "Message ID": 91916,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Google Warns of Actively Exploited CVE-2024-43093 Vulnerability in Android System\n\nDate: Nov 05, 2024\n\nSource: https://thehackernews.com/2024/11/google-warns-of-actively-exploited-cve.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/google-warns-of-actively-exploited-cve.html"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
