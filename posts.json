@@ -8045,6 +8045,28 @@
             "URLs": [
                 "ps://darkwebinformer.com/natohub-has-allegedly-leaked-data-of-the-us-military/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6404,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🚨🚨🇺🇸engineer is Allegedly Selling Partner Portal Access to Rapid7's Open Data\n\nhttps://darkwebinformer.com/engineer-is-allegedly-selling-partner-portal-access-to-rapid7s-open-data/\n\nThe threat actor claims to be offering access to Rapid7's partner portal, which provides comprehensive data from Project Sonar's internet-wide scans. Project Sonar gathers global telemetry to identify widespread vulnerabilities, supplying researchers with valuable data to aid public security initiatives. The purported access includes 84.8 TB of data spread across 71,125 files, potentially offering significant insights for security research, government advocacy, and commercial security projects.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "://darkwebinformer.com/engineer-is-allegedly-selling-partner-portal-access-to-rapid7s-open-data/\n\nThe"
+            ]
+        },
+        {
+            "Message ID": 6403,
+            "discovered": "2024-11-05",
+            "post_title": "Reminder, poll is closing in the next 8.5 hours",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -14709,6 +14731,16 @@
             "URLs": [
                 "tps://www.paytr.com\nS"
             ]
+        },
+        {
+            "Message ID": 5330,
+            "discovered": "2024-11-05",
+            "post_title": "Largest Gathering in Suhrawardy Garden After 7 March 1971.\n\nPeople are ready to be sacrificed in the road to Quds, Just need transit and they will reach",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -22794,6 +22826,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 4460,
+            "discovered": "2024-11-05",
+            "post_title": "November 5, 2024  Medusa Blog  #Industrial_Machinery #Medusa_Blog #United_States",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 4459,
+            "discovered": "2024-11-05",
+            "post_title": "November 5, 2024  Darknet Forum Lists Compromised Nokia Source Code for Sale  #Intel",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hunt3r Kill3rs | Охотники-убийцы": [
@@ -24189,6 +24241,18 @@
             "URLs": [
                 "https://t.me/Hunt3rkill3rs1",
                 "https://t.me/ANONYMOUSACTIVIST"
+            ]
+        },
+        {
+            "Message ID": 955,
+            "discovered": "2024-11-05",
+            "post_title": "https://x.com/FalconFeedsio/status/1853523810320060470?t=tNUZjvFI1uzxM7sMsjGu0Q&s=19",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/FalconFeedsio/status/1853523810320060470?t=tNUZjvFI1uzxM7sMsjGu0Q&s=19"
             ]
         }
     ],
@@ -67967,6 +68031,104 @@
             ],
             "URLs": [
                 "https://www.paloaltonetworks.com/blog/2024/11/top-three-ways-organizations-were-unprepared-for-cyberattacks-in-2023/"
+            ]
+        },
+        {
+            "Message ID": 92005,
+            "discovered": "2024-11-05",
+            "post_title": "Title: 파이어폭스 132(Firefox 132) 4K Netflix 재생 지원 및 보안 업데이트\n\nDate: November 5, 2024\n\nSource: https://wezard4u.tistory.com/429317\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://wezard4u.tistory.com/429317"
+            ]
+        },
+        {
+            "Message ID": 92004,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Suspect behind Snowflake data-theft attacks arrested in Canada\n\nDate: November 05, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/suspect-behind-snowflake-data-theft-attacks-arrested-in-canada/\n\n#News #Canada",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Canada",
+                "Canada"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/suspect-behind-snowflake-data-theft-attacks-arrested-in-canada/"
+            ]
+        },
+        {
+            "Message ID": 92003,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-10329\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10329\n\nDescription: The Ultimate Bootstrap Elements for Elementor plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 1.4.6 via the 'ube_get_page_templates' function. This makes it possible for authenticated attackers, with Contributor-level access and above, to extract sensitive data including the contents of templates that are private.\n\nPublication Date: Tue Nov 05 18:20:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10329"
+            ]
+        },
+        {
+            "Message ID": 92002,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-10841\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10841\n\nDescription: A vulnerability classified as critical was found in romadebrian WEB-Sekolah 1.0. Affected by this vulnerability is an unknown functionality of the file /Proses_Kirim.php of the component Mail Handler. The manipulation of the argument Name leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. Other parameters might be affected as well.\n\nPublication Date: Tue Nov 05 18:20:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10841"
+            ]
+        },
+        {
+            "Message ID": 92001,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2023-44040\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-44040\n\nDescription: In VeridiumID before 3.5.0, the identity provider page is susceptible to a cross-site scripting (XSS) vulnerability that can be exploited by an internal unauthenticated attacker for JavaScript execution in the context of the user trying to authenticate.\n\nPublication Date: Tue Nov 05 18:08:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-44040"
+            ]
+        },
+        {
+            "Message ID": 92000,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-34400\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34400\n\nDescription: An issue was discovered in VirtoSoftware Virto Kanban Board Web Part before 5.3.5.1 for SharePoint 2019. There is /_layouts/15/Virto.KanbanTaskManager/api/KanbanData.ashx LinkTitle2 XSS.\n\nPublication Date: Tue Nov 05 18:08:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34400",
+                "5.3.5.1"
+            ]
+        },
+        {
+            "Message ID": 91999,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2021-47580\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47580\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nscsi: scsi_debug: Fix type in min_t to avoid stack OOB\n\nChange min_t() to use type \"u32\" instead of type \"int\" to avoid stack out\nof bounds. With min_t() type \"int\" the values get sign extended and the\nlarger value gets used causing stack out of bounds.\n\nBUG: KASAN: stack-out-of-bounds in memcpy include/linux/fortify-string.h:191 [inline]\nBUG: KASAN: stack-out-of-bounds in sg_copy_buffer+0x1de/0x240 lib/scatterlist.c:976\nRead of size 127 at addr ffff888072607128 by task syz-executor.7/18707\n\nCPU: 1 PID: 18707 Comm: syz-executor.7 Not tainted 5.15.0-syzk #1\nHardware name: Red Hat KVM, BIOS 1.13.0-2\nCall Trace:\n __dump_stack lib/dump_stack.c:88 [inline]\n dump_stack_lvl+0x89/0xb5 lib/dump_stack.c:106\n print_address_description.constprop.9+0x28/0x160 mm/kasan/report.c:256\n __kasan_report mm/kasan/report.c:442 [inline]\n kasan_report.cold.14+0x7d/0x117 mm/kasan/report.c:459\n check_region_inline mm/kasan/generic.c:183 [inline]\n kasan_check_range+0x1a3/0x210 mm/kasan/generic.c:189\n memcpy+0x23/0x60 mm/kasan/shadow.c:65\n memcpy include/linux/fortify-string.h:191 [inline]\n sg_copy_buffer+0x1de/0x240 lib/scatterlist.c:976\n sg_copy_from_buffer+0x33/0x40 lib/scatterlist.c:1000\n fill_from_dev_buffer.part.34+0x82/0x130 drivers/scsi/scsi_debug.c:1162\n fill_from_dev_buffer drivers/scsi/scsi_debug.c:1888 [inline]\n resp_readcap16+0x365/0x3b0 drivers/scsi/scsi_debug.c:1887\n schedule_resp+0x4d8/0x1a70 drivers/scsi/scsi_debug.c:5478\n scsi_debug_queuecommand+0x8c9/0x1ec0 drivers/scsi/scsi_debug.c:7533\n scsi_dispatch_cmd drivers/scsi/scsi_lib.c:1520 [inline]\n scsi_queue_rq+0x16b0/0x2d40 drivers/scsi/scsi_lib.c:1699\n blk_mq_dispatch_rq_list+0xb9b/0x2700 block/blk-mq.c:1639\n __blk_mq_sched_dispatch_requests+0x28f/0x590 block/blk-mq-sched.c:325\n blk_mq_sched_dispatch_requests+0x105/0x190 block/blk-mq-sched.c:358\n __blk_mq_run_hw_queue+0xe5/0x150 block/blk-mq.c:1761\n __blk_mq_delay_run_hw_queue+0x4f8/0x5c0 block/blk-mq.c:1838\n blk_mq_run_hw_queue+0x18d/0x350 block/blk-mq.c:1891\n blk_mq_sched_insert_request+0x3db/0x4e0 block/blk-mq-sched.c:474\n blk_execute_rq_nowait+0x16b/0x1c0 block/blk-exec.c:62\n sg_common_write.isra.18+0xeb3/0x2000 drivers/scsi/sg.c:836\n sg_new_write.isra.19+0x570/0x8c0 drivers/scsi/sg.c:774\n sg_ioctl_common+0x14d6/0x2710 drivers/scsi/sg.c:939\n sg_ioctl+0xa2/0x180 drivers/scsi/sg.c:1165\n vfs_ioctl fs/ioctl.c:51 [inline]\n __do_sys_ioctl fs/ioctl.c:874 [inline]\n __se_sys_ioctl fs/ioctl.c:860 [inline]\n __x64_sys_ioctl+0x19d/0x220 fs/ioctl.c:860\n do_syscall_x64 arch/x86/entry/common.c:50 [inline]\n do_syscall_64+0x3a/0x80 arch/x86/entry/common.c:80\n entry_SYSCALL_64_after_hwframe+0x44/0xae\n\nPublication Date: Tue Nov 05 18:08:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "min_t"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47580"
+            ]
+        },
+        {
+            "Message ID": 91998,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-26747\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-26747\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nusb: roles: fix NULL pointer issue when put module's reference\n\nIn current design, usb role class driver will get usb_role_switch parent's\nmodule reference after the user get usb_role_switch device and put the\nreference after the user put the usb_role_switch device. However, the\nparent device of usb_role_switch may be removed before the user put the\nusb_role_switch. If so, then, NULL pointer issue will be met when the user\nput the parent module's reference.\n\nThis will save the module pointer in structure of usb_role_switch. Then,\nwe don't need to find module by iterating long relations.\n\nPublication Date: Tue Nov 05 18:08:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-26747"
             ]
         }
     ],
