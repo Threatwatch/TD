@@ -66780,6 +66780,18 @@
             "URLs": [
                 "https://thehackernews.com/2024/11/canadian-suspect-arrested-over.html"
             ]
+        },
+        {
+            "Message ID": 91918,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Malware Campaign Uses Ethereum Smart Contracts to Control npm Typosquat Packages\n\nDate: Nov 05, 2024\n\nSource: https://thehackernews.com/2024/11/malware-campaign-uses-ethereum-smart.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/malware-campaign-uses-ethereum-smart.html"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
