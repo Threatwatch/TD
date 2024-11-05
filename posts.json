@@ -30599,6 +30599,16 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3486,
+            "discovered": "2024-11-05",
+            "post_title": "Group: qilin\nApprox. Time: 20:39 05/11/24\nTitle: ebrso",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -69974,6 +69984,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10844"
+            ]
+        },
+        {
+            "Message ID": 92121,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Agentic AI for SecOps: More Than Just Another Chatbot\n\nDate: November 5, 2024\n\nSource: https://www.reliaquest.com/blog/agentic-ai-for-secops-more-than-just-another-chatbot/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.reliaquest.com/blog/agentic-ai-for-secops-more-than-just-another-chatbot/"
             ]
         }
     ],
