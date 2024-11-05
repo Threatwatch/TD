@@ -8202,6 +8202,31 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-rdp-access-to-an-unidentified-company-in-turkey/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6417,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇨🇦A Threat Actor is Allegedly Selling Fullz on Canadian Citizens\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-fullz-on-canadian-citizens/\n\nThe threat actor asserts that they are selling data on Canadian citizens. The purported data set includes First Name, Last Name, Date of Birth, Driver’s License, and additional personal details.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Last Name"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-fullz-on-canadian-citizens/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6416,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇺🇸888 Has Allegedly Leaked Data of Appstle\n\nhttps://darkwebinformer.com/888-has-allegedly-leaked-data-of-appstle/\n\nThe threat actor alleges that they have leaked data from Appstle. The reported leak includes 31,585 rows of information containing details such as Name, Email, Date of Birth, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Appstle",
+                "Name"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/888-has-allegedly-leaked-data-of-appstle/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -69509,6 +69534,30 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-0134"
+            ]
+        },
+        {
+            "Message ID": 92096,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Team Cymru Supports INTERPOL’s Operation Synergia II to Dismantle 22,000 Cybercrime Servers\n\nDate: November 5, 2024\n\nSource: https://www.team-cymru.com/post/team-cymru-supports-interpol-s-operation-synergia-ii-to-dismantle-22-000-cybercrime-servers\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.team-cymru.com/post/team-cymru-supports-interpol-s-operation-synergia-ii-to-dismantle-22-000-cybercrime-servers"
+            ]
+        },
+        {
+            "Message ID": 92095,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-50134\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50134\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/vboxvideo: Replace fake VLA at end of vbva_mouse_pointer_shape with real VLA\n\nReplace the fake VLA at end of the vbva_mouse_pointer_shape shape with\na real VLA to fix a \"memcpy: detected field-spanning write error\" warning:\n\n[   13.319813] memcpy: detected field-spanning write (size 16896) of single field \"p->data\" at drivers/gpu/drm/vboxvideo/hgsmi_base.c:154 (size 4)\n[   13.319841] WARNING: CPU: 0 PID: 1105 at drivers/gpu/drm/vboxvideo/hgsmi_base.c:154 hgsmi_update_pointer_shape+0x192/0x1c0 [vboxvideo]\n[   13.320038] Call Trace:\n[   13.320173]  hgsmi_update_pointer_shape [vboxvideo]\n[   13.320184]  vbox_cursor_atomic_update [vboxvideo]\n\nNote as mentioned in the added comment it seems the original length\ncalculation for the allocated and send hgsmi buffer is 4 bytes too large.\nChanging this is not the goal of this patch, so this behavior is kept.\n\nPublication Date: Tue Nov 05 22:38:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50134"
             ]
         }
     ],
