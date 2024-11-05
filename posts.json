@@ -8011,6 +8011,28 @@
             "URLs": [
                 "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-november-4th-2024/"
             ]
+        },
+        {
+            "Message ID": 6401,
+            "discovered": "2024-11-05",
+            "post_title": "https://www.404media.co/suspected-snowflake-hacker-arrested-in-canada/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.404media.co/suspected-snowflake-hacker-arrested-in-canada/"
+            ]
+        },
+        {
+            "Message ID": 6400,
+            "discovered": "2024-11-05",
+            "post_title": "Judische was arrested",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -66576,6 +66598,64 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-32870"
+            ]
+        },
+        {
+            "Message ID": 91913,
+            "discovered": "2024-11-05",
+            "post_title": "Victim: d****I\n\nDetection Date: Tue Nov 05 05:12:12 2024\n\nThreat Actor: fsociety\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 91912,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-10807\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10807\n\nDescription: A vulnerability was found in PHPGurukul Hospital Management System 4.0. It has been rated as problematic. This issue affects some unknown processing of the file hms/doctor/search.php. The manipulation of the argument searchdata leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Tue Nov 05 05:01:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10807"
+            ]
+        },
+        {
+            "Message ID": 91911,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-10808\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10808\n\nDescription: A vulnerability has been found in code-projects E-Health Care System 1.0 and classified as critical. This vulnerability affects unknown code of the file Admin/req_detail.php. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Tue Nov 05 05:01:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10808"
+            ]
+        },
+        {
+            "Message ID": 91910,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-10806\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10806\n\nDescription: A vulnerability was found in PHPGurukul Hospital Management System 4.0. It has been declared as problematic. This vulnerability affects unknown code of the file betweendates-detailsreports.php. The manipulation of the argument fromdate/todate leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Tue Nov 05 05:01:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10806"
+            ]
+        },
+        {
+            "Message ID": 91909,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-10809\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10809\n\nDescription: A vulnerability was found in code-projects E-Health Care System 1.0 and classified as critical. This issue affects some unknown processing of the file /Doctor/chat.php. The manipulation of the argument name/message leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory only mentions the parameter \"name\" to be affected. But it must be assumed that the parameter \"message\" is affected as well.\n\nPublication Date: Tue Nov 05 05:01:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10809"
             ]
         }
     ],
