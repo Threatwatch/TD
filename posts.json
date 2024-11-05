@@ -7989,6 +7989,28 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6399,
+            "discovered": "2024-11-05",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6398,
+            "discovered": "2024-11-05",
+            "post_title": "💡Daily Dose of Dark Web Informer - November 4th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-november-4th-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-november-4th-2024/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -66368,6 +66390,192 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-51744"
+            ]
+        },
+        {
+            "Message ID": 91908,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10278\n\nDescription: A vulnerability was found in ESAFENET CDG 5. It has been classified as critical. This affects an unknown part of the file /com/esafenet/servlet/user/ReUserOrganiseService.java. The manipulation of the argument userId leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10278\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://flowus.cn/share/cdfbea40-da0c-4fe7-a4b8-86631f0fd796?code=G8A6P3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ReUserOrganiseService.java",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10278",
+                "https://flowus.cn/share/cdfbea40-da0c-4fe7-a4b8-86631f0fd796?code=G8A6P3"
+            ]
+        },
+        {
+            "Message ID": 91907,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10277\n\nDescription: A vulnerability was found in ESAFENET CDG 5 and classified as critical. Affected by this issue is some unknown functionality of the file /com/esafenet/servlet/ajax/UsbKeyAjax.java. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10277\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://flowus.cn/share/510c9ef1-8bb9-4c8f-9648-2ea6ee726b06?code=G8A6P3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "UsbKeyAjax.java",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10277",
+                "https://flowus.cn/share/510c9ef1-8bb9-4c8f-9648-2ea6ee726b06?code=G8A6P3"
+            ]
+        },
+        {
+            "Message ID": 91906,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10279\n\nDescription: A vulnerability was found in ESAFENET CDG 5. It has been declared as critical. This vulnerability affects unknown code of the file /com/esafenet/servlet/policy/PrintPolicyService.java. The manipulation of the argument policyId leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10279\n\nDate of Publishing: 2024/11/04\n\nLink to Exploit: https://flowus.cn/share/b04c63c7-5b3c-47d2-9159-43943aecc342?code=G8A6P3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "PrintPolicyService.java",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10279",
+                "https://flowus.cn/share/b04c63c7-5b3c-47d2-9159-43943aecc342?code=G8A6P3"
+            ]
+        },
+        {
+            "Message ID": 91905,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Sinisterly - Selling Corporate and Domain SMTP Services - Reliable and Customizable Options\n\nDetection Date: Tue Nov 05 03:32:05 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-Leak-Selling-Corporate-and-Domain-SMTP-Services-Reliable-and-Customizable-Options\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-Leak-Selling-Corporate-and-Domain-SMTP-Services-Reliable-and-Customizable-Options"
+            ]
+        },
+        {
+            "Message ID": 91904,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51498\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51498\n\nDescription: cobalt is a media downloader that doesn't piss you off. A malicious cobalt instance could serve links with the `javascript:` protocol, resulting in Cross-site Scripting (XSS) when the user tries to download an item from a picker. This issue has been present since commit `66bac03e`, was mitigated in commit `97977efa` (correctly configured web instances were no longer vulnerable) and fully fixed in commit `c4be1d3a` (included in release version 10.2.1). Users are advised to upgrade. Users unable to upgrade should enable a content-security-policy.\n\nPublication Date: Tue Nov 05 03:10:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51498"
+            ]
+        },
+        {
+            "Message ID": 91903,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-50346\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50346\n\nDescription: WebFeed is a lightweight web feed reader extension for Firefox/Chrome. Multiple HTML injection vulnerabilities in WebFeed can lead to CSRF and UI spoofing attacks. A remote attacker can provide malicious RSS feeds and attract the victim user to visit it using WebFeed. The attacker can then inject malicious HTML into the extension page and fool the victim into sending out HTTP requests to arbitrary sites with the victim's credentials. Users are vulnerable to CSRF attacks when visiting malicious RSS feeds via WebFeed. Unwanted actions could be executed on the user's behalf on arbitrary websites. This issue has been addressed in release version 0.9.2. All users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Tue Nov 05 03:10:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50346"
+            ]
+        },
+        {
+            "Message ID": 91902,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51500\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51500\n\nDescription: Meshtastic firmware is a device firmware for the Meshtastic project. The Meshtastic firmware does not check for packets claiming to be from the special broadcast address (0xFFFFFFFF) which could result in unexpected behavior and potential for DDoS attacks on the network. A malicious actor could craft a packet to be from that address which would result in an amplification of this one message into every node on the network sending multiple messages. Such an attack could result in degraded network performance for all users as the available bandwidth is consumed. This issue has been addressed in release version 2.5.6. All users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Tue Nov 05 03:09:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51500"
+            ]
+        },
+        {
+            "Message ID": 91901,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51501\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51501\n\nDescription: Refit is an automatic type-safe REST library for .NET Core, Xamarin and .NET The various header-related Refit attributes (Header, HeaderCollection and Authorize) are vulnerable to CRLF injection. The way HTTP headers are added to a request is via the `HttpHeaders.TryAddWithoutValidation` method. This method does not check for CRLF characters in the header value. This means that any headers added to a refit request are vulnerable to CRLF-injection. In general, CRLF-injection into a HTTP header (when using HTTP/1.1) means that one can inject additional HTTP headers or smuggle whole HTTP requests. If an application using the Refit library passes a user-controllable value through to a header, then that application becomes vulnerable to CRLF-injection. This is not necessarily a security issue for a command line application like the one above, but if such code were present in a web application then it becomes vulnerable to request splitting (as shown in the PoC) and thus Server Side Request Forgery. Strictly speaking this is a potential vulnerability in applications using Refit and not in Refit itself. This issue has been addressed in release version 8.0.0 and all users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Tue Nov 05 03:09:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Xamarin"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51501"
+            ]
+        },
+        {
+            "Message ID": 91900,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51502\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51502\n\nDescription: loona is an experimental, HTTP/1.1 and HTTP/2 implementation in Rust on top of io-uring. `loona-hpack` suffers from the same vulnerability as the original `hpack` as documented in issue #11. All users who try to decode untrusted input using the Decoder are vulnerable to this exploit. This issue has been addressed in release version 0.4.3. All users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Tue Nov 05 03:09:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51502"
+            ]
+        },
+        {
+            "Message ID": 91899,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2023-34443\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34443\n\nDescription: Combodo iTop is a simple, web based IT Service Management tool. When displaying page Run queries Cross-site Scripting (XSS) are possible for scripts outside of script tags. This has been fixed in versions 2.7.9, 3.0.4, 3.1.0. All users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Tue Nov 05 03:09:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34443"
+            ]
+        },
+        {
+            "Message ID": 91898,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2023-34444\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34444\n\nDescription: Combodo iTop is a simple, web based IT Service Management tool. When displaying pages/ajax.searchform.php XSS are possible for scripts outside of script tags. This issue has been fixed in versions 2.7.9, 3.0.4, 3.1.0. All users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Tue Nov 05 03:09:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34444"
+            ]
+        },
+        {
+            "Message ID": 91897,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2023-34445\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34445\n\nDescription: Combodo iTop is a simple, web based IT Service Management tool. When displaying pages/ajax.render.php XSS are possible for scripts outside of script tags. This issue has been fixed in versions 2.7.9, 3.0.4, 3.1.0. All users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Tue Nov 05 03:08:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34445"
+            ]
+        },
+        {
+            "Message ID": 91896,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-31448\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-31448\n\nDescription: Combodo iTop is a simple, web based IT Service Management tool. By filling malicious code in a CSV content, an Cross-site Scripting (XSS) attack can be performed when importing this content. This issue has been fixed in versions 3.1.2 and 3.2.0. All users are advised to upgrade. Users unable to upgrade should validate CSV content before importing it.\n\nPublication Date: Tue Nov 05 03:08:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-31448"
+            ]
+        },
+        {
+            "Message ID": 91895,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-31998\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-31998\n\nDescription: Combodo iTop is a simple, web based IT Service Management tool. A CSRF can be performed on CSV import simulation. This issue has been fixed in versions 3.1.2 and 3.2.0. All users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Tue Nov 05 03:08:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-31998"
+            ]
+        },
+        {
+            "Message ID": 91894,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-32870\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-32870\n\nDescription: Combodo iTop is a simple, web based IT Service Management tool. Server, OS, DBMS, PHP, and iTop info (name, version and parameters) can be read by anyone having access to iTop URI. This issue has been patched in versions 2.7.11, 3.0.5, 3.1.2, and 3.2.0. Users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Tue Nov 05 03:08:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-32870"
             ]
         }
     ],
