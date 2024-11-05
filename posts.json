@@ -8321,6 +8321,18 @@
             "URLs": [
                 "ttps://darkwebinformer.com/denbots-proof-targeted-the-website-of-serieslan/"
             ]
+        },
+        {
+            "Message ID": 6426,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇷🇺HIMARS DDOS Targeted the Website of RuWeb-NN\n\nhttps://darkwebinformer.com/himars-ddos-targeted-the-website-of-ruweb-nn/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/himars-ddos-targeted-the-website-of-ruweb-nn/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -70239,6 +70251,20 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 92131,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-51252\n\nDescription: In Draytek Vigor3900 1.5.1.3, attackers can inject malicious commands into mainfunction.cgi and execute arbitrary commands by calling the restore function.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-51252\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/fu37kola/cve/blob/main/DrayTek/Vigor3900/1.5.1.3/DrayTek_Vigor_3900_1.5.1.3.pdf\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "1.5.1.3",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51252",
+                "https://github.com/fu37kola/cve/blob/main/DrayTek/Vigor3900/1.5.1.3/DrayTek_Vigor_3900_1.5.1.3.pdf"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
