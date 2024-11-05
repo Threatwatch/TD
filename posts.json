@@ -68142,6 +68142,252 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-26747"
             ]
+        },
+        {
+            "Message ID": 92025,
+            "discovered": "2024-11-05",
+            "post_title": "Title: CISA has not clocked any 'national-level significant incidents' impacting the election, official says\n\nDate: November 5, 2024\n\nSource: https://www.nextgov.com/cybersecurity/2024/11/cisa-has-not-clocked-any-national-level-significant-incidents-impacting-election-official-says/400822/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.nextgov.com/cybersecurity/2024/11/cisa-has-not-clocked-any-national-level-significant-incidents-impacting-election-official-says/400822/"
+            ]
+        },
+        {
+            "Message ID": 92024,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10661\n\nDescription: A vulnerability has been found in Tenda AC15 15.03.05.19 and classified as critical. This vulnerability affects the function SetDlnaCfg of the file /goform/SetDlnaCfg. The manipulation of the argument scanList leads to stack-based buffer overflow. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10661\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/theRaz0r/iot-mycve/blob/main/tenda_ac15_stackflow_formDLNAserver/tenda_ac15_stackflow_formDLNAserver.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Tenda",
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10661",
+                "https://github.com/theRaz0r/iot-mycve/blob/main/tenda_ac15_stackflow_formDLNAserver/tenda_ac15_stackflow_formDLNAserver.md"
+            ]
+        },
+        {
+            "Message ID": 92023,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10662\n\nDescription: A vulnerability was found in Tenda AC15 15.03.05.19 and classified as critical. This issue affects the function formSetDeviceName of the file /goform/SetOnlineDevName. The manipulation of the argument devName leads to stack-based buffer overflow. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10662\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/theRaz0r/iot-mycve/blob/main/tenda_ac15_stackflow_formSetDeviceName/tenda_ac15_stackflow_formSetDeviceName.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Tenda",
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10662",
+                "https://github.com/theRaz0r/iot-mycve/blob/main/tenda_ac15_stackflow_formSetDeviceName/tenda_ac15_stackflow_formSetDeviceName.md"
+            ]
+        },
+        {
+            "Message ID": 92022,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-36788\n\nDescription: Netgear WNR614 JNR1010V2 N300-V1.1.0.54_1.0.1 does not properly set the HTTPOnly flag for cookies. This allows attackers to possibly intercept and access sensitive communications between the router and connected devices.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-36788\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://redfoxsec.com/blog/security-advisory-multiple-vulnerabilities-in-netgear-wnr614-router/\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-36788",
+                "https://redfoxsec.com/blog/security-advisory-multiple-vulnerabilities-in-netgear-wnr614-router/"
+            ]
+        },
+        {
+            "Message ID": 92021,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Sinisterly - ⭐CHEAPEST ACCOUNT SHOP ☄️ INSTANT DELIVERY 🍿STREAMING🔒VPN 🌎& MORE\n\nDetection Date: Tue Nov 05 19:18:22 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-%E2%AD%90CHEAPEST-ACCOUNT-SHOP-%E2%98%84%EF%B8%8F-INSTANT-DELIVERY-%F0%9F%8D%BFSTREAMING%F0%9F%94%92VPN-%F0%9F%8C%8E-MORE\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://sinister.ly/Thread-%E2%AD%90CHEAPEST-ACCOUNT-SHOP-%E2%98%84%EF%B8%8F-INSTANT-DELIVERY-%F0%9F%8D%BFSTREAMING%F0%9F%94%92VPN-%F0%9F%8C%8E-MORE\n\n#"
+            ]
+        },
+        {
+            "Message ID": 92020,
+            "discovered": "2024-11-05",
+            "post_title": "Victim: www.colonialbh.org\n\nDetection Date: Tue Nov 05 19:17:54 2024\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.colonialbh.org"
+            ]
+        },
+        {
+            "Message ID": 92019,
+            "discovered": "2024-11-05",
+            "post_title": "Title: The Benefits Of Threat Research For Midsize Businesses\n\nDate: November 5, 2024\n\nSource: https://blog.lumen.com/the-benefits-of-threat-research-for-midsize-businesses/?utm_source=rss&utm_medium=rss&utm_campaign=the-benefits-of-threat-research-for-midsize-businesses\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.lumen.com/the-benefits-of-threat-research-for-midsize-businesses/?utm_source=rss&utm_medium=rss&utm_campaign=the-benefits-of-threat-research-for-midsize-businesses"
+            ]
+        },
+        {
+            "Message ID": 92018,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-38745\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38745\n\nDescription: Missing Authorization vulnerability in Rymera Web Co Wholesale Suite allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Wholesale Suite: from n/a through 2.1.12.\n\nPublication Date: Tue Nov 05 19:07:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38745"
+            ]
+        },
+        {
+            "Message ID": 92017,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-52020\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-52020\n\nDescription: Netgear R8500 v1.0.2.160 was discovered to contain a command injection vulnerability in the wan_gateway parameter at wiz_fix2.cgi. This vulnerability allows attackers to execute arbitrary OS commands via a crafted request.\n\nPublication Date: Tue Nov 05 19:06:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-52020"
+            ]
+        },
+        {
+            "Message ID": 92016,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-21154\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21154\n\nDescription: Vulnerability in the PeopleSoft Enterprise HCM Human Resources product of Oracle PeopleSoft (component: Human Resources).   The supported version that is affected is 9.2. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise HCM Human Resources.  Successful attacks of this vulnerability can result in  unauthorized read access to a subset of PeopleSoft Enterprise HCM Human Resources accessible data. CVSS 3.1 Base Score 4.3 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N).\n\nPublication Date: Tue Nov 05 19:06:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21154"
+            ]
+        },
+        {
+            "Message ID": 92015,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-38748\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38748\n\nDescription: Access Control vulnerability in TheInnovs EleForms allows .\n\nThis issue affects EleForms: from n/a through 2.9.9.9.\n\nPublication Date: Tue Nov 05 19:06:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38748",
+                "2.9.9.9"
+            ]
+        },
+        {
+            "Message ID": 92014,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2023-37560\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37560\n\nDescription: Cross-site scripting vulnerability in WRH-300WH-H v2.12 and earlier, and WTC-300HWH v1.09 and earlier allows a remote unauthenticated attacker to inject an arbitrary script.\n\nPublication Date: Tue Nov 05 19:06:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37560"
+            ]
+        },
+        {
+            "Message ID": 92013,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-38273\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38273\n\nDescription: Insufficient capability checks meant it was possible for users to gain access to BigBlueButton join URLs they did not have permission to access.\n\nPublication Date: Tue Nov 05 19:06:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38273"
+            ]
+        },
+        {
+            "Message ID": 92012,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2023-34125\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34125\n\nDescription: Path Traversal vulnerability in GMS and Analytics allows an authenticated attacker to read arbitrary files from the underlying filesystem with root privileges. This issue affects GMS: 9.3.2-SP1 and earlier versions; Analytics: 2.5.0.4-R7 and earlier versions.\n\nPublication Date: Tue Nov 05 19:06:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34125"
+            ]
+        },
+        {
+            "Message ID": 92011,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-38769\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38769\n\nDescription: Missing Authorization vulnerability in Tyche Softwares Arconix Shortcodes allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Arconix Shortcodes: from n/a through 2.1.11.\n\nPublication Date: Tue Nov 05 19:05:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Tyche"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38769"
+            ]
+        },
+        {
+            "Message ID": 92010,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51020\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51020\n\nDescription: Netgear R7000P v1.3.3.154 was discovered to contain a stack overflow via the apn parameter at usbISP_detail_edit.cgi. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted POST request.\n\nPublication Date: Tue Nov 05 19:05:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51020"
+            ]
+        },
+        {
+            "Message ID": 92009,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51019\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51019\n\nDescription: Netgear R7000P v1.3.3.154 was discovered to contain a stack overflow via the pppoe_localnetmask parameter at pppoe.cgi. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted POST request.\n\nPublication Date: Tue Nov 05 19:05:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51019"
+            ]
+        },
+        {
+            "Message ID": 92008,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51018\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51018\n\nDescription: Netgear R7000P v1.3.3.154 was discovered to contain a stack overflow via the pptp_user_netmask parameter at pptp.cgi. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted POST request.\n\nPublication Date: Tue Nov 05 19:05:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51018"
+            ]
+        },
+        {
+            "Message ID": 92007,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51017\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51017\n\nDescription: Netgear R7000P v1.3.3.154 was discovered to contain a stack overflow via the l2tp_user_netmask parameter at l2tp.cgi. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted POST request.\n\nPublication Date: Tue Nov 05 19:05:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51017"
+            ]
+        },
+        {
+            "Message ID": 92006,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51015\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51015\n\nDescription: Netgear R7000P v1.3.3.154 was discovered to contain a command injection vulnerability via the device_name2 parameter at operation_mode.cgi. This vulnerability allows attackers to execute arbitrary OS commands via a crafted request.\n\nPublication Date: Tue Nov 05 19:04:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51015"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
