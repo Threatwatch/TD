@@ -8131,6 +8131,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/anonmoose-has-allegedly-leaked-data-of-winestyle/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6410,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇮🇳A Threat Actor is Allegedly Selling Data of the Dell India Portal\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-the-dell-india-portal/\n\nA threat actor is offering data for sale allegedly sourced from the Dell India portal. The leaked data reportedly comprises 200,000 HTML files containing names, emails, KYC information, invoices, phone numbers, and organizational credentials. Additionally, 750 folders with various documents have been obtained.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-the-dell-india-portal/\n\nA"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -14849,6 +14861,17 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5336,
+            "discovered": "2024-11-05",
+            "post_title": "The Muslims of Heroic Chattola showed the extreme example of Patience, They avoided any kind revenge attack on Hindu's, They are helping the Military to detainee the Terrorists of Iskcon, Who were involved in Attacking Stalls.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Patience",
+                "Iskcon"
             ],
             "URLs": []
         }
@@ -68821,6 +68844,319 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 92073,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-50091\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50091\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndm vdo: don't refer to dedupe_context after releasing it\n\nClear the dedupe_context pointer in a data_vio whenever ownership of\nthe context is lost, so that vdo can't examine it accidentally.\n\nPublication Date: Tue Nov 05 21:28:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50091"
+            ]
+        },
+        {
+            "Message ID": 92072,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-50092\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50092\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: netconsole: fix wrong warning\n\nA warning is triggered when there is insufficient space in the buffer\nfor userdata. However, this is not an issue since userdata will be sent\nin the next iteration.\n\nCurrent warning message:\n\n    ------------[ cut here ]------------\n     WARNING: CPU: 13 PID: 3013042 at drivers/net/netconsole.c:1122 write_ext_msg+0x3b6/0x3d0\n      ? write_ext_msg+0x3b6/0x3d0\n      console_flush_all+0x1e9/0x330\n\nThe code incorrectly issues a warning when this_chunk is zero, which is\na valid scenario. The warning should only be triggered when this_chunk\nis negative.\n\nPublication Date: Tue Nov 05 21:28:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50092"
+            ]
+        },
+        {
+            "Message ID": 92071,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Adding runtime threat detection to Google Kubernetes Engine with Falco\n\nDate: November 5, 2024\n\nSource: https://sysdig.com/blog/adding-runtime-threat-detection-to-gke-with-falco/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sysdig.com/blog/adding-runtime-threat-detection-to-gke-with-falco/"
+            ]
+        },
+        {
+            "Message ID": 92070,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Technical debt, multi-cloud complexity hinder modern tech adoption\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/brief/technical-debt-multi-cloud-complexity-hinder-modern-tech-adoption\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/technical-debt-multi-cloud-complexity-hinder-modern-tech-adoption"
+            ]
+        },
+        {
+            "Message ID": 92069,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Link Index for Customer Identity and Access Management\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/resource/link-index-for-customer-identity-and-access-management\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/resource/link-index-for-customer-identity-and-access-management"
+            ]
+        },
+        {
+            "Message ID": 92068,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Biden administration prepares second executive order on cybersecurity\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/brief/biden-administration-prepares-second-executive-order-on-cybersecurity\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/biden-administration-prepares-second-executive-order-on-cybersecurity"
+            ]
+        },
+        {
+            "Message ID": 92067,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Noma debuts AI security platform\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/brief/noma-debuts-ai-security-platform\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/noma-debuts-ai-security-platform"
+            ]
+        },
+        {
+            "Message ID": 92066,
+            "discovered": "2024-11-05",
+            "post_title": "Title: NTT Data, Palo Alto Networks partner to enhance AI-driven cybersecurity\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/brief/ntt-data-palo-alto-networks-partner-to-enhance-ai-driven-cybersecurity\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Palo Alto Networks",
+                "AI"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/ntt-data-palo-alto-networks-partner-to-enhance-ai-driven-cybersecurity"
+            ]
+        },
+        {
+            "Message ID": 92065,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-50094\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50094\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nsfc: Don't invoke xdp_do_flush() from netpoll.\n\nYury reported a crash in the sfc driver originated from\nnetpoll_send_udp(). The netconsole sends a message and then netpoll\ninvokes the driver's NAPI function with a budget of zero. It is\ndedicated to allow driver to free TX resources, that it may have used\nwhile sending the packet.\n\nIn the netpoll case the driver invokes xdp_do_flush() unconditionally,\nleading to crash because bpf_net_context was never assigned.\n\nInvoke xdp_do_flush() only if budget is not zero.\n\nPublication Date: Tue Nov 05 21:16:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50094"
+            ]
+        },
+        {
+            "Message ID": 92064,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10613\n\nDescription: A vulnerability was found in ESAFENET CDG 5. It has been declared as critical. Affected by this vulnerability is the function delSystemEncryptPolicy of the file /com/esafenet/servlet/system/SystemEncryptPolicyService.java. The manipulation of the argument id leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10613\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://flowus.cn/share/b73c3e0f-21ff-4026-84ec-be60bcbd5bfc?code=G8A6P3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "SystemEncryptPolicyService.java",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10613",
+                "https://flowus.cn/share/b73c3e0f-21ff-4026-84ec-be60bcbd5bfc?code=G8A6P3"
+            ]
+        },
+        {
+            "Message ID": 92063,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10607\n\nDescription: A vulnerability was found in code-projects Courier Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /track-result.php. The manipulation of the argument Consignment leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10607\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/yanhuoshanjin/cve/issues/1\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10607",
+                "https://github.com/yanhuoshanjin/cve/issues/1"
+            ]
+        },
+        {
+            "Message ID": 92062,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10608\n\nDescription: A vulnerability was found in code-projects Courier Management System 1.0. It has been rated as critical. This issue affects some unknown processing of the file /login.php. The manipulation of the argument txtusername leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10608\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/AXUyaku/cve/issues/1\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10608",
+                "https://github.com/AXUyaku/cve/issues/1"
+            ]
+        },
+        {
+            "Message ID": 92061,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10610\n\nDescription: A vulnerability has been found in ESAFENET CDG 5 and classified as critical. This vulnerability affects the function delProtocol of the file /com/esafenet/servlet/system/ProtocolService.java. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10610\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://flowus.cn/share/0099e10a-5242-4651-a85a-5e8f98abc533?code=G8A6P3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "ProtocolService.java",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10610",
+                "https://flowus.cn/share/0099e10a-5242-4651-a85a-5e8f98abc533?code=G8A6P3"
+            ]
+        },
+        {
+            "Message ID": 92060,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10506\n\nDescription: A vulnerability classified as critical has been found in code-projects Blood Bank System 1.0. This affects an unknown part of the file /admin/blood/update/B-.php. The manipulation of the argument Bloodname leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10506\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/xxx-www/cve/blob/main/sql8.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10506",
+                "https://github.com/xxx-www/cve/blob/main/sql8.md"
+            ]
+        },
+        {
+            "Message ID": 92059,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10605\n\nDescription: A vulnerability was found in code-projects Blood Bank Management System 1.0. It has been classified as problematic. This affects an unknown part of the file /file/request.php. The manipulation leads to cross-site request forgery. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10605\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/bevennyamande/receiver_request_sample_csrf\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10605",
+                "https://github.com/bevennyamande/receiver_request_sample_csrf"
+            ]
+        },
+        {
+            "Message ID": 92058,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10609\n\nDescription: A vulnerability, which was classified as critical, was found in itsourcecode Tailoring Management System Project 1.0. This affects an unknown part of the file typeadd.php. The manipulation of the argument sex leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10609\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/Lanxiy7th/lx_CVE_report-/issues/17\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10609",
+                "https://github.com/Lanxiy7th/lx_CVE_report-/issues/17"
+            ]
+        },
+        {
+            "Message ID": 92057,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10507\n\nDescription: A vulnerability classified as critical was found in Codezips Free Exam Hall Seating Management System 1.0. This vulnerability affects unknown code of the file /login.php. The manipulation of the argument email leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10507\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/ppp-src/CVE/issues/26\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10507",
+                "https://github.com/ppp-src/CVE/issues/26"
+            ]
+        },
+        {
+            "Message ID": 92056,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10701\n\nDescription: A vulnerability was found in PHPGurukul Car Rental Portal 1.0. It has been rated as problematic. This issue affects some unknown processing of the file /search.php. The manipulation of the argument searchdata leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10701\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/secuserx/CVE/blob/main/%5BXSS%20vulnerability%5D%20found%20in%20Car%20Rental%20Portal%203.0%20-%20(search.php).md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10701",
+                "https://github.com/secuserx/CVE/blob/main/%5BXSS%20vulnerability%5D%20found%20in%20Car%20Rental%20Portal%203.0%20-%20(search.php).md"
+            ]
+        },
+        {
+            "Message ID": 92055,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10702\n\nDescription: A vulnerability classified as critical has been found in code-projects Simple Car Rental System 1.0. Affected is an unknown function of the file /signup.php. The manipulation of the argument fname leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10702\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/imTedCao/cve/issues/1\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10702",
+                "https://github.com/imTedCao/cve/issues/1"
+            ]
+        },
+        {
+            "Message ID": 92054,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-50096\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50096\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnouveau/dmem: Fix vulnerability in migrate_to_ram upon copy error\n\nThe `nouveau_dmem_copy_one` function ensures that the copy push command is\nsent to the device firmware but does not track whether it was executed\nsuccessfully.\n\nIn the case of a copy error (e.g., firmware or hardware failure), the\ncopy push command will be sent via the firmware channel, and\n`nouveau_dmem_copy_one` will likely report success, leading to the\n`migrate_to_ram` function returning a dirty HIGH_USER page to the user.\n\nThis can result in a security vulnerability, as a HIGH_USER page that may\ncontain sensitive or corrupted data could be returned to the user.\n\nTo prevent this vulnerability, we allocate a zero page. Thus, in case of\nan error, a non-dirty (zero) page will be returned to the user.\n\nPublication Date: Tue Nov 05 21:03:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50096"
+            ]
+        },
+        {
+            "Message ID": 92053,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-50097\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50097\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: fec: don't save PTP state if PTP is unsupported\n\nSome platforms (such as i.MX25 and i.MX27) do not support PTP, so on\nthese platforms fec_ptp_init() is not called and the related members\nin fep are not initialized. However, fec_ptp_save_state() is called\nunconditionally, which causes the kernel to panic. Therefore, add a\ncondition so that fec_ptp_save_state() is not called if PTP is not\nsupported.\n\nPublication Date: Tue Nov 05 21:03:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50097"
+            ]
+        },
+        {
+            "Message ID": 92052,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51132\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51132\n\nDescription: An XML External Entity (XXE) vulnerability in HAPI FHIR before v6.4.0 allows attackers to access sensitive information or execute arbitrary code via supplying a crafted request containing malicious XML entities.\n\nPublication Date: Tue Nov 05 21:03:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "HAPI"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51132"
+            ]
+        },
+        {
+            "Message ID": 92051,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51362\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51362\n\nDescription: The LSC Smart Connect Indoor IP Camera V7.6.32 is vulnerable to an information disclosure issue where live camera footage can be accessed through the RTSP protocol on port 8554 without requiring authentication. This allows unauthorized users with network access to view the camera's feed, potentially compromising user privacy and security. No credentials or special permissions are required, and access can be gained remotely over the network.\n\nPublication Date: Tue Nov 05 21:03:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51362"
+            ]
+        },
+        {
+            "Message ID": 92050,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-30172\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-30172\n\nDescription: An issue was discovered in Bouncy Castle Java Cryptography APIs before 1.78. An Ed25519 verification code infinite loop can occur via a crafted signature and public key.\n\nPublication Date: Tue Nov 05 21:03:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-30172"
+            ]
+        },
+        {
+            "Message ID": 92049,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2023-52768\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52768\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: wilc1000: use vmm_table as array in wilc struct\n\nEnabling KASAN and running some iperf tests raises some memory issues with\nvmm_table:\n\nBUG: KASAN: slab-out-of-bounds in wilc_wlan_handle_txq+0x6ac/0xdb4\nWrite of size 4 at addr c3a61540 by task wlan0-tx/95\n\nKASAN detects that we are writing data beyond range allocated to vmm_table.\nThere is indeed a mismatch between the size passed to allocator in\nwilc_wlan_init, and the range of possible indexes used later: allocation\nsize is missing a multiplication by sizeof(u32)\n\nPublication Date: Tue Nov 05 21:02:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52768"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
