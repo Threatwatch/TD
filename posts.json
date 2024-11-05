@@ -8333,6 +8333,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/himars-ddos-targeted-the-website-of-ruweb-nn/"
             ]
+        },
+        {
+            "Message ID": 6428,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇺🇸girlhigh is Allegedly Selling Access to Data to an Unidentified US Bank\n\nhttps://darkwebinformer.com/girlhigh-is-allegedly-selling-access-to-data-to-an-unidentified-us-bank/\n\nA threat actor alleges they are selling access to data from an unnamed US bank.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "US"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/girlhigh-is-allegedly-selling-access-to-data-to-an-unidentified-us-bank/\n\nA"
+            ]
+        },
+        {
+            "Message ID": 6427,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🚨🇺🇸Northwest Health Has Been Claimed a Victim to RansomHub Ransomware\n\nhttps://darkwebinformer.com/northwest-health-has-been-claimed-a-victim-to-ransomhub-ransomware/\n\nThe group claims to have acquired 199 GB of the organization's data and plans to release it within 7-8 days.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/northwest-health-has-been-claimed-a-victim-to-ransomhub-ransomware/\n\nTh"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -70264,6 +70288,250 @@
                 "1.5.1.3",
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-51252",
                 "https://github.com/fu37kola/cve/blob/main/DrayTek/Vigor3900/1.5.1.3/DrayTek_Vigor_3900_1.5.1.3.pdf"
+            ]
+        },
+        {
+            "Message ID": 92151,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Fewer Outages Lead To A Better Customer Experience For A Custom Cloud Service Provider\n\nDate: November 5, 2024\n\nSource: https://blog.lumen.com/enhanced-connectivity-boosts-customer-experience-for-cloud-service-provider/?utm_source=rss&utm_medium=rss&utm_campaign=enhanced-connectivity-boosts-customer-experience-for-cloud-service-provider\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.lumen.com/enhanced-connectivity-boosts-customer-experience-for-cloud-service-provider/?utm_source=rss&utm_medium=rss&utm_campaign=enhanced-connectivity-boosts-customer-experience-for-cloud-service-provider"
+            ]
+        },
+        {
+            "Message ID": 92150,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-43219\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43219\n\nDescription: Missing Authorization vulnerability in ووکامرس فارسی Persian WooCommerce allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Persian WooCommerce: from n/a through 7.1.6.\n\nPublication Date: Wed Nov 06 01:11:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "ووکامرس"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43219"
+            ]
+        },
+        {
+            "Message ID": 92149,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-41200\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-41200\n\nDescription: A segmentation fault in KMPlayer v4.2.2.65 allows attackers to cause a Denial of Service (DoS) via a crafted AVI file.\n\nPublication Date: Wed Nov 06 01:11:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "KMPlayer v4.2.2.65"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-41200"
+            ]
+        },
+        {
+            "Message ID": 92148,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-21068\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21068\n\nDescription: Vulnerability in the Oracle Java SE, Oracle GraalVM for JDK, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Hotspot).  Supported versions that are affected are Oracle Java SE: 8u401-perf, 11.0.22, 17.0.10, 21.0.2, 22; Oracle GraalVM for JDK: 17.0.10, 21.0.2 and  22; Oracle GraalVM Enterprise Edition: 21.3.9. Difficult to exploit vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Oracle Java SE, Oracle GraalVM for JDK, Oracle GraalVM Enterprise Edition.  Successful attacks of this vulnerability can result in  unauthorized update, insert or delete access to some of Oracle Java SE, Oracle GraalVM for JDK, Oracle GraalVM Enterprise Edition accessible data. Note: This vulnerability can be exploited by using APIs in the specified Component, e.g., through a web service which supplies data to the APIs. This vulnerability also applies to Java deployments, typically in clients running sandboxed Java Web Start applications or sandboxed Java applets, that load and run untrusted code (e.g., code that comes from the internet) and rely on the Java sandbox for security. CVSS 3.1 Base Score 3.7 (Integrity impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:L/A:N).\n\nPublication Date: Wed Nov 06 01:11:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21068"
+            ]
+        },
+        {
+            "Message ID": 92147,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2021-47244\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47244\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nmptcp: Fix out of bounds when parsing TCP options\n\nThe TCP option parser in mptcp (mptcp_get_options) could read one byte\nout of bounds. When the length is 1, the execution flow gets into the\nloop, reads one byte of the opcode, and if the opcode is neither\nTCPOPT_EOL nor TCPOPT_NOP, it reads one more byte, which exceeds the\nlength of 1.\n\nThis fix is inspired by commit 9609dad263f8 (\"ipv4: tcp_input: fix stack\nout of bounds when parsing TCP options.\").\n\nPublication Date: Wed Nov 06 01:11:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47244"
+            ]
+        },
+        {
+            "Message ID": 92146,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-51745\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51745\n\nDescription: Wasmtime is a fast and secure runtime for WebAssembly. Wasmtime's filesystem sandbox implementation on Windows blocks access to special device filenames such as \"COM1\", \"COM2\", \"LPT0\", \"LPT1\", and so on, however it did not block access to the special device filenames which use superscript digits, such as \"COM¹\", \"COM²\", \"LPT⁰\", \"LPT¹\", and so on. Untrusted Wasm programs that are given access to any filesystem directory could bypass the sandbox and access devices through those special device filenames with superscript digits, and through them gain access peripheral devices connected to the computer, or network resources mapped to those devices. This can include modems, printers, network printers, and any other device connected to a serial or parallel port, including emulated USB serial ports. Patch releases for Wasmtime have been issued as 24.0.2, 25.0.3, and 26.0.1. Users of Wasmtime 23.0.x and prior are recommended to upgrade to one of these patched versions. There are no known workarounds for this issue. Affected Windows users are recommended to upgrade.\n\nPublication Date: Wed Nov 06 01:10:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "COM¹"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51745"
+            ]
+        },
+        {
+            "Message ID": 92145,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-10084\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10084\n\nDescription: The Contact Form 7 – Dynamic Text Extension plugin for WordPress is vulnerable to Basic Information Disclosure in all versions up to, and including, 4.5 via the CF7_get_post_var shortcode. This makes it possible for authenticated attackers, with Contributor-level access and above, to extract the titles and text contents of private and password-protected posts, they do not own.\n\nPublication Date: Wed Nov 06 01:10:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10084"
+            ]
+        },
+        {
+            "Message ID": 92144,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2023-52771\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52771\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ncxl/port: Fix delete_endpoint() vs parent unregistration race\n\nThe CXL subsystem, at cxl_mem ->probe() time, establishes a lineage of\nports (struct cxl_port objects) between an endpoint and the root of a\nCXL topology. Each port including the endpoint port is attached to the\ncxl_port driver.\n\nGiven that setup, it follows that when either any port in that lineage\ngoes through a cxl_port ->remove() event, or the memdev goes through a\ncxl_mem ->remove() event. The hierarchy below the removed port, or the\nentire hierarchy if the memdev is removed needs to come down.\n\nThe delete_endpoint() callback is careful to check whether it is being\ncalled to tear down the hierarchy, or if it is only being called to\nteardown the memdev because an ancestor port is going through\n->remove().\n\nThat care needs to take the device_lock() of the endpoint's parent.\nWhich requires 2 bugs to be fixed:\n\n1/ A reference on the parent is needed to prevent use-after-free\n   scenarios like this signature:\n\n    BUG: spinlock bad magic on CPU#0, kworker/u56:0/11\n    Hardware name: QEMU Standard PC (Q35 + ICH9, 2009), BIOS edk2-20230524-3.fc38 05/24/2023\n    Workqueue: cxl_port detach_memdev [cxl_core]\n    RIP: 0010:spin_bug+0x65/0xa0\n    Call Trace:\n      do_raw_spin_lock+0x69/0xa0\n     __mutex_lock+0x695/0xb80\n     delete_endpoint+0xad/0x150 [cxl_core]\n     devres_release_all+0xb8/0x110\n     device_unbind_cleanup+0xe/0x70\n     device_release_driver_internal+0x1d2/0x210\n     detach_memdev+0x15/0x20 [cxl_core]\n     process_one_work+0x1e3/0x4c0\n     worker_thread+0x1dd/0x3d0\n\n2/ In the case of RCH topologies, the parent device that needs to be\n   locked is not always @port->dev as returned by cxl_mem_find_port(), use\n   endpoint->dev.parent instead.\n\nPublication Date: Wed Nov 06 01:10:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "05/24/2023",
+                "worker_thread+0x1dd/0x3d0"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52771"
+            ]
+        },
+        {
+            "Message ID": 92143,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-43253\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43253\n\nDescription: Missing Authorization vulnerability in Zaytech Smart Online Order for Clover allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Smart Online Order for Clover: from n/a through 1.5.6.\n\nPublication Date: Wed Nov 06 01:10:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Zaytech"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43253"
+            ]
+        },
+        {
+            "Message ID": 92142,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-43270\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43270\n\nDescription: Missing Authorization vulnerability in WPBackItUp Backup and Restore WordPress allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Backup and Restore WordPress: from n/a through 1.50.\n\nPublication Date: Wed Nov 06 01:10:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43270"
+            ]
+        },
+        {
+            "Message ID": 92141,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-43274\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43274\n\nDescription: Missing Authorization vulnerability in JS Help Desk JS Help Desk – Best Help Desk & Support Plugin allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects JS Help Desk – Best Help Desk & Support Plugin: from n/a through 2.8.6.\n\nPublication Date: Wed Nov 06 01:09:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43274"
+            ]
+        },
+        {
+            "Message ID": 92140,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-43277\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43277\n\nDescription: Missing Authorization vulnerability in AyeCode Ltd UsersWP allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects UsersWP: from n/a through 1.2.15.\n\nPublication Date: Wed Nov 06 01:09:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43277"
+            ]
+        },
+        {
+            "Message ID": 92139,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-43290\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43290\n\nDescription: Missing Authorization vulnerability in Atarim allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Atarim: from n/a through 4.0.1.\n\nPublication Date: Wed Nov 06 01:09:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43290"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43290"
+            ]
+        },
+        {
+            "Message ID": 92138,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-43323\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43323\n\nDescription: Missing Authorization vulnerability in ReviewX allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects ReviewX: from n/a through 1.6.28.\n\nPublication Date: Wed Nov 06 01:09:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43323"
+            ]
+        },
+        {
+            "Message ID": 92137,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2023-20584\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20584\n\nDescription: IOMMU improperly handles certain special address\nranges with invalid device table entries (DTEs), which may allow an attacker\nwith privileges and a compromised Hypervisor to\ninduce DTE faults to bypass RMP checks in SEV-SNP, potentially leading to a\nloss of guest integrity.\n\nPublication Date: Wed Nov 06 01:09:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20584"
+            ]
+        },
+        {
+            "Message ID": 92136,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-43956\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43956\n\nDescription: Missing Authorization vulnerability in Caseproof, LLC Memberpress allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects Memberpress: from n/a through 1.11.34.\n\nPublication Date: Wed Nov 06 01:09:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Caseproof"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43956"
+            ]
+        },
+        {
+            "Message ID": 92135,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-23243\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-23243\n\nDescription: A privacy issue was addressed with improved private data redaction for log entries. This issue is fixed in iOS 17.4 and iPadOS 17.4. An app may be able to read sensitive location information.\n\nPublication Date: Wed Nov 06 01:08:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-23243"
+            ]
+        },
+        {
+            "Message ID": 92134,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10735\n\nDescription: A vulnerability was found in Project Worlds Life Insurance Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /editNominee.php. The manipulation of the argument nominee_id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10735\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://vuldb.com/?submit.435424\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10735",
+                "https://vuldb.com/?submit.435424"
+            ]
+        },
+        {
+            "Message ID": 92133,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10738\n\nDescription: A vulnerability classified as critical was found in itsourcecode Farm Management System 1.0. Affected by this vulnerability is an unknown functionality of the file manage-breed.php. The manipulation of the argument breed leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10738\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/Nightmaremassacre/cve/issues/3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10738",
+                "https://github.com/Nightmaremassacre/cve/issues/3"
+            ]
+        },
+        {
+            "Message ID": 92132,
+            "discovered": "2024-11-05",
+            "post_title": "Vulnerability ID: CVE-2024-10739\n\nDescription: A vulnerability, which was classified as critical, has been found in code-projects E-Health Care System 1.0. Affected by this issue is some unknown functionality of the file /Admin/adminlogin.php. The manipulation of the argument email/admin_pswd as part of String leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The initial researcher advisory only mentions the parameter \"email\" to be affected. But it must be assumed that parameter \"admin_pswd\" is affected as well.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10739\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/UnrealdDei/cve/blob/main/sql11.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10739",
+                "https://github.com/UnrealdDei/cve/blob/main/sql11.md"
             ]
         }
     ],
