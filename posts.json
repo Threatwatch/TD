@@ -67787,6 +67787,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9867"
             ]
+        },
+        {
+            "Message ID": 91989,
+            "discovered": "2024-11-05",
+            "post_title": "Title: SEC action raises the bar on software transparency\n\nDate: November 5, 2024\n\nSource: https://www.reversinglabs.com/blog/sec-takes-action-software-transparency\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.reversinglabs.com/blog/sec-takes-action-software-transparency"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
