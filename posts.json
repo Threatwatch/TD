@@ -8155,6 +8155,40 @@
             "URLs": [
                 "ps://darkwebinformer.com/fylde-coast-academy-trust-has-been-claimed-a-victim-to-rhysida-ransomware/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6414,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇧🇬A Threat Actor is Allegedly Selling a Vulnerability of Alessa",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6413,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇨🇴A Threat Claims to Have Admin Access to the Joomla Portal of Hospital Salazar de Villeta\n\nhttps://darkwebinformer.com/a-threat-claims-to-have-admin-access-to-the-joomla-portal-of-hospital-salazar-de-villeta/\n\nThe threat actor claims to have gained administrative access to the Joomla portal of Hospital Salazar de Villeta.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-claims-to-have-admin-access-to-the-joomla-portal-of-hospital-salazar-de-villeta/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6412,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇰🇷NoName Targeted Multiple Websites in South Korea\n\nhttps://darkwebinformer.com/noname-targeted-multiple-websites-in-south-korea/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "South Korea"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/noname-targeted-multiple-websites-in-south-korea/"
+            ]
         }
     ],
     "RipperSec | 团队": [
