@@ -30085,6 +30085,18 @@
             "URLs": [
                 "https://t.co/3HboZRLwdb"
             ]
+        },
+        {
+            "Message ID": 3477,
+            "discovered": "2024-11-05",
+            "post_title": "Group: ransomhub\nApprox. Time: 10:37 05/11/24\nTitle: https://t.co/XbPrJeLclS",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/XbPrJeLclS"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -67304,6 +67316,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-42089"
+            ]
+        },
+        {
+            "Message ID": 91955,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Hackers Using AV/EDR Bypass Tool From Cybercrime Forums To Bypass Endpoints\n\nDate: November 5, 2024\n\nSource: https://gbhackers.com/hackers-av-edr-bypass-cybercrime/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://gbhackers.com/hackers-av-edr-bypass-cybercrime/"
             ]
         }
     ],
