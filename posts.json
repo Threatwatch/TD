@@ -67148,6 +67148,163 @@
             "URLs": [
                 "https://isc.sans.edu/diary/rss/31414"
             ]
+        },
+        {
+            "Message ID": 91954,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-42072\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42072\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nbpf: Fix may_goto with negative offset.\n\nZac's syzbot crafted a bpf prog that exposed two bugs in may_goto.\nThe 1st bug is the way may_goto is patched. When offset is negative\nit should be patched differently.\nThe 2nd bug is in the verifier:\nwhen current state may_goto_depth is equal to visited state may_goto_depth\nit means there is an actual infinite loop. It's not correct to prune\nexploration of the program at this point.\nNote, that this check doesn't limit the program to only one may_goto insn,\nsince 2nd and any further may_goto will increment may_goto_depth only\nin the queued state pushed for future exploration. The current state\nwill have may_goto_depth == 0 regardless of number of may_goto insns\nand the verifier has to explore the program until bpf_exit.\n\nPublication Date: Tue Nov 05 13:33:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42072"
+            ]
+        },
+        {
+            "Message ID": 91953,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-42074\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42074\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nASoC: amd: acp: add a null check for chip_pdev structure\n\nWhen acp platform device creation is skipped, chip->chip_pdev value will\nremain NULL. Add NULL check for chip->chip_pdev structure in\nsnd_acp_resume() function to avoid null pointer dereference.\n\nPublication Date: Tue Nov 05 13:22:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42074"
+            ]
+        },
+        {
+            "Message ID": 91952,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-42075\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42075\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nbpf: Fix remap of arena.\n\nThe bpf arena logic didn't account for mremap operation. Add a refcnt for\nmultiple mmap events to prevent use-after-free in arena_vm_close.\n\nPublication Date: Tue Nov 05 13:22:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42075"
+            ]
+        },
+        {
+            "Message ID": 91951,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-42076\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42076\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: can: j1939: Initialize unused data in j1939_send_one()\n\nsyzbot reported kernel-infoleak in raw_recvmsg() [1]. j1939_send_one()\ncreates full frame including unused data, but it doesn't initialize\nit. This causes the kernel-infoleak issue. Fix this by initializing\nunused data.\n\n[1]\nBUG: KMSAN: kernel-infoleak in instrument_copy_to_user include/linux/instrumented.h:114 [inline]\nBUG: KMSAN: kernel-infoleak in copy_to_user_iter lib/iov_iter.c:24 [inline]\nBUG: KMSAN: kernel-infoleak in iterate_ubuf include/linux/iov_iter.h:29 [inline]\nBUG: KMSAN: kernel-infoleak in iterate_and_advance2 include/linux/iov_iter.h:245 [inline]\nBUG: KMSAN: kernel-infoleak in iterate_and_advance include/linux/iov_iter.h:271 [inline]\nBUG: KMSAN: kernel-infoleak in _copy_to_iter+0x366/0x2520 lib/iov_iter.c:185\n instrument_copy_to_user include/linux/instrumented.h:114 [inline]\n copy_to_user_iter lib/iov_iter.c:24 [inline]\n iterate_ubuf include/linux/iov_iter.h:29 [inline]\n iterate_and_advance2 include/linux/iov_iter.h:245 [inline]\n iterate_and_advance include/linux/iov_iter.h:271 [inline]\n _copy_to_iter+0x366/0x2520 lib/iov_iter.c:185\n copy_to_iter include/linux/uio.h:196 [inline]\n memcpy_to_msg include/linux/skbuff.h:4113 [inline]\n raw_recvmsg+0x2b8/0x9e0 net/can/raw.c:1008\n sock_recvmsg_nosec net/socket.c:1046 [inline]\n sock_recvmsg+0x2c4/0x340 net/socket.c:1068\n ____sys_recvmsg+0x18a/0x620 net/socket.c:2803\n ___sys_recvmsg+0x223/0x840 net/socket.c:2845\n do_recvmmsg+0x4fc/0xfd0 net/socket.c:2939\n __sys_recvmmsg net/socket.c:3018 [inline]\n __do_sys_recvmmsg net/socket.c:3041 [inline]\n __se_sys_recvmmsg net/socket.c:3034 [inline]\n __x64_sys_recvmmsg+0x397/0x490 net/socket.c:3034\n x64_sys_call+0xf6c/0x3b50 arch/x86/include/generated/asm/syscalls_64.h:300\n do_syscall_x64 arch/x86/entry/common.c:52 [inline]\n do_syscall_64+0xcf/0x1e0 arch/x86/entry/common.c:83\n entry_SYSCALL_64_after_hwframe+0x77/0x7f\n\nUninit was created at:\n slab_post_alloc_hook mm/slub.c:3804 [inline]\n slab_alloc_node mm/slub.c:3845 [inline]\n kmem_cache_alloc_node+0x613/0xc50 mm/slub.c:3888\n kmalloc_reserve+0x13d/0x4a0 net/core/skbuff.c:577\n __alloc_skb+0x35b/0x7a0 net/core/skbuff.c:668\n alloc_skb include/linux/skbuff.h:1313 [inline]\n alloc_skb_with_frags+0xc8/0xbf0 net/core/skbuff.c:6504\n sock_alloc_send_pskb+0xa81/0xbf0 net/core/sock.c:2795\n sock_alloc_send_skb include/net/sock.h:1842 [inline]\n j1939_sk_alloc_skb net/can/j1939/socket.c:878 [inline]\n j1939_sk_send_loop net/can/j1939/socket.c:1142 [inline]\n j1939_sk_sendmsg+0xc0a/0x2730 net/can/j1939/socket.c:1277\n sock_sendmsg_nosec net/socket.c:730 [inline]\n __sock_sendmsg+0x30f/0x380 net/socket.c:745\n ____sys_sendmsg+0x877/0xb60 net/socket.c:2584\n ___sys_sendmsg+0x28d/0x3c0 net/socket.c:2638\n __sys_sendmsg net/socket.c:2667 [inline]\n __do_sys_sendmsg net/socket.c:2676 [inline]\n __se_sys_sendmsg net/socket.c:2674 [inline]\n __x64_sys_sendmsg+0x307/0x4a0 net/socket.c:2674\n x64_sys_call+0xc4b/0x3b50 arch/x86/include/generated/asm/syscalls_64.h:47\n do_syscall_x64 arch/x86/entry/common.c:52 [inline]\n do_syscall_64+0xcf/0x1e0 arch/x86/entry/common.c:83\n entry_SYSCALL_64_after_hwframe+0x77/0x7f\n\nBytes 12-15 of 16 are uninitialized\nMemory access of size 16 starts at ffff888120969690\nData copied to user address 00000000200017c0\n\nCPU: 1 PID: 5050 Comm: syz-executor198 Not tainted 6.9.0-rc5-syzkaller-00031-g71b1543c83d6 #0\nHardware name: Google Google Compute Engine/Google Compute Engine, BIOS Google 03/27/2024\n\nPublication Date: Tue Nov 05 13:22:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "copy_to_iter+0x366/0x2520"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42076"
+            ]
+        },
+        {
+            "Message ID": 91950,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-42078\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42078\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnfsd: initialise nfsd_info.mutex early.\n\nnfsd_info.mutex can be dereferenced by svc_pool_stats_start()\nimmediately after the new netns is created.  Currently this can\ntrigger an oops.\n\nMove the initialisation earlier before it can possibly be dereferenced.\n\nPublication Date: Tue Nov 05 13:11:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42078"
+            ]
+        },
+        {
+            "Message ID": 91949,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-42079\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42079\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ngfs2: Fix NULL pointer dereference in gfs2_log_flush\n\nIn gfs2_jindex_free(), set sdp->sd_jdesc to NULL under the log flush\nlock to provide exclusion against gfs2_log_flush().\n\nIn gfs2_log_flush(), check if sdp->sd_jdesc is non-NULL before\ndereferencing it.  Otherwise, we could run into a NULL pointer\ndereference when outstanding glock work races with an unmount\n(glock_work_func -> run_queue -> do_xmote -> inode_go_sync ->\ngfs2_log_flush).\n\nPublication Date: Tue Nov 05 13:10:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42079"
+            ]
+        },
+        {
+            "Message ID": 91948,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-42080\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42080\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nRDMA/restrack: Fix potential invalid address access\n\nstruct rdma_restrack_entry's kern_name was set to KBUILD_MODNAME\nin ib_create_cq(), while if the module exited but forgot del this\nrdma_restrack_entry, it would cause a invalid address access in\nrdma_restrack_clean() when print the owner of this rdma_restrack_entry.\n\nThese code is used to help find one forgotten PD release in one of the\nULPs. But it is not needed anymore, so delete them.\n\nPublication Date: Tue Nov 05 13:10:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42080"
+            ]
+        },
+        {
+            "Message ID": 91947,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-42081\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42081\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/xe/xe_devcoredump: Check NULL before assignments\n\nAssign 'xe_devcoredump_snapshot *' and 'xe_device *' only if\n'coredump' is not NULL.\n\nv2\n- Fix commit messages.\n\nv3\n- Define variables before code.(Ashutosh/Jose)\n\nv4\n- Drop return check for coredump_to_xe. (Jose/Rodrigo)\n\nv5\n- Modify misleading commit message. (Matt)\n\nPublication Date: Tue Nov 05 13:10:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42081"
+            ]
+        },
+        {
+            "Message ID": 91946,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-42084\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42084\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nftruncate: pass a signed offset\n\nThe old ftruncate() syscall, using the 32-bit off_t misses a sign\nextension when called in compat mode on 64-bit architectures.  As a\nresult, passing a negative length accidentally succeeds in truncating\nto file size between 2GiB and 4GiB.\n\nChanging the type of the compat syscall to the signed compat_off_t\nchanges the behavior so it instead returns -EINVAL.\n\nThe native entry point, the truncate() syscall and the corresponding\nloff_t based variants are all correct already and do not suffer\nfrom this mistake.\n\nPublication Date: Tue Nov 05 13:10:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42084"
+            ]
+        },
+        {
+            "Message ID": 91945,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-42086\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42086\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\niio: chemical: bme680: Fix overflows in compensate() functions\n\nThere are cases in the compensate functions of the driver that\nthere could be overflows of variables due to bit shifting ops.\nThese implications were initially discussed here [1] and they\nwere mentioned in log message of Commit 1b3bd8592780 (\"iio:\nchemical: Add support for Bosch BME680 sensor\").\n\n[1]: https://lore.kernel.org/linux-iio/20180728114028.3c1bbe81@archlinux/\n\nPublication Date: Tue Nov 05 13:10:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42086",
+                "https://lore.kernel.org/linux-iio/20180728114028.3c1bbe81@archlinux/"
+            ]
+        },
+        {
+            "Message ID": 91944,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-42087\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42087\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/panel: ilitek-ili9881c: Fix warning with GPIO controllers that sleep\n\nThe ilitek-ili9881c controls the reset GPIO using the non-sleeping\ngpiod_set_value() function. This complains loudly when the GPIO\ncontroller needs to sleep. As the caller can sleep, use\ngpiod_set_value_cansleep() to fix the issue.\n\nPublication Date: Tue Nov 05 13:09:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42087"
+            ]
+        },
+        {
+            "Message ID": 91943,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-42088\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42088\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nASoC: mediatek: mt8195: Add platform entry for ETDM1_OUT_BE dai link\n\nCommit e70b8dd26711 (\"ASoC: mediatek: mt8195: Remove afe-dai component\nand rework codec link\") removed the codec entry for the ETDM1_OUT_BE\ndai link entirely instead of replacing it with COMP_EMPTY(). This worked\nby accident as the remaining COMP_EMPTY() platform entry became the codec\nentry, and the platform entry became completely empty, effectively the\nsame as COMP_DUMMY() since snd_soc_fill_dummy_dai() doesn't do anything\nfor platform entries.\n\nThis causes a KASAN out-of-bounds warning in mtk_soundcard_common_probe()\nin sound/soc/mediatek/common/mtk-soundcard-driver.c:\n\n for_each_card_prelinks(card, i, dai_link) {\n  if (adsp_node && !strncmp(dai_link->name, \"AFE_SOF\", strlen(\"AFE_SOF\")))\n   dai_link->platforms->of_node = adsp_node;\n  else if (!dai_link->platforms->name && !dai_link->platforms->of_node)\n   dai_link->platforms->of_node = platform_node;\n }\n\nwhere the code expects the platforms array to have space for at least one entry.\n\nAdd an COMP_EMPTY() entry so that dai_link->platforms has space.\n\nPublication Date: Tue Nov 05 13:09:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42088"
+            ]
+        },
+        {
+            "Message ID": 91942,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-42089\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42089\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nASoC: fsl-asoc-card: set priv->pdev before using it\n\npriv->pdev pointer was set after being used in\nfsl_asoc_card_audmux_init().\nMove this assignment at the start of the probe function, so\nsub-functions can correctly use pdev through priv.\n\nfsl_asoc_card_audmux_init() dereferences priv->pdev to get access to the\ndev struct, used with dev_err macros.\nAs priv is zero-initialised, there would be a NULL pointer dereference.\nNote that if priv->dev is dereferenced before assignment but never used,\nfor example if there is no error to be printed, the driver won't crash\nprobably due to compiler optimisations.\n\nPublication Date: Tue Nov 05 13:09:34 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42089"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
