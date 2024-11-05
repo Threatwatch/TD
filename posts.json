@@ -8143,6 +8143,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-the-dell-india-portal/\n\nA"
             ]
+        },
+        {
+            "Message ID": 6411,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇬🇧Fylde Coast Academy Trust Has Been Claimed a Victim to RHYSIDA Ransomware\n\nhttps://darkwebinformer.com/fylde-coast-academy-trust-has-been-claimed-a-victim-to-rhysida-ransomware/\n\nThe group alleges that they have acquired the organization's data and plans to release it publicly within 6-7 days unless a payment of 20 BTC is made.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/fylde-coast-academy-trust-has-been-claimed-a-victim-to-rhysida-ransomware/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -30407,6 +30419,26 @@
             "URLs": [
                 "https://t.co/EEPo62LIJR"
             ]
+        },
+        {
+            "Message ID": 3485,
+            "discovered": "2024-11-05",
+            "post_title": "Group: lynx\nApprox. Time: 18:38 05/11/24\nTitle: Model Die & Mold",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3484,
+            "discovered": "2024-11-05",
+            "post_title": "Group: bianlian\nApprox. Time: 18:38 05/11/24\nTitle: Falco Sult",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
@@ -34812,6 +34844,31 @@
             ],
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18396"
+            ]
+        },
+        {
+            "Message ID": 4071,
+            "discovered": "2024-11-05",
+            "post_title": "ID: 18399\n⚠ Tue, 05 Nov 2024 14:46:54 UTC\n🥷 incransom\n🎯 Webb Institute, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18399",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18399"
+            ]
+        },
+        {
+            "Message ID": 4070,
+            "discovered": "2024-11-05",
+            "post_title": "ID: 18398\n⚠ Tue, 05 Nov 2024 14:53:08 UTC\n🥷 ransomhub\n🎯 apoyoconsultoria.com, Peru\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18398",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Peru"
+            ],
+            "URLs": [
+                "oyoconsultoria.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18398"
             ]
         }
     ],
@@ -69156,6 +69213,63 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-52768"
+            ]
+        },
+        {
+            "Message ID": 92078,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-50089\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50089\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nunicode: Don't special case ignorable code points\n\nWe don't need to handle them separately. Instead, just let them\ndecompose/casefold to themselves.\n\nPublication Date: Tue Nov 05 21:40:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50089"
+            ]
+        },
+        {
+            "Message ID": 92077,
+            "discovered": "2024-11-05",
+            "post_title": "Target: https://archivonacional.gob.pa\n\nNotified: EagleCyberCrew\n\nDate: Tue, 05 Nov 2024 18:21:55 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41295191\n\n#Defacements #Panama",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Panama"
+            ],
+            "URLs": [
+                "https://archivonacional.gob.pa",
+                "http://www.zone-h.org/mirror/id/41295191"
+            ]
+        },
+        {
+            "Message ID": 92076,
+            "discovered": "2024-11-05",
+            "post_title": "Victim: Model Die & Mold\n\nDetection Date: Tue Nov 05 21:39:21 2024\n\nThreat Actor: lynx\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 92075,
+            "discovered": "2024-11-05",
+            "post_title": "Victim: Falco Sult\n\nDetection Date: Tue Nov 05 21:39:08 2024\n\nThreat Actor: bianlian\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 92074,
+            "discovered": "2024-11-05",
+            "post_title": "Victim: apoyoconsultoria.com\n\nDetection Date: Tue Nov 05 21:38:52 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "apoyoconsultoria.com"
             ]
         }
     ],
