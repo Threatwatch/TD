@@ -8067,6 +8067,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6405,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇮🇳IntelBroker and EnergryWeaponUser Have Allegedly LEaked the Data of SHARAN\n\nhttps://darkwebinformer.com/intelbroker-and-energryweaponuser-have-allegedly-leaked-the-data-of-sharan/\n\nThe threat actor alleges to have leaked a database belonging to SHARAN (Sanctuary for Health and Reconnection to Animals and Nature). According to reports, the compromised data includes information from 240,000 users, such as names, phone numbers, email addresses, and physical addresses.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/intelbroker-and-energryweaponuser-have-allegedly-leaked-the-data-of-sharan/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -14752,6 +14764,19 @@
             ],
             "URLs": [
                 "https://darkwebinformer.com/sylhet-gang-sg-defaced-the-website-of-saudi-journalists-association/"
+            ]
+        },
+        {
+            "Message ID": 5333,
+            "discovered": "2024-11-05",
+            "post_title": "We took down the website of a Indian backed Terrorist Organization named Iskon\n\nin response to it's attack on Local Stalls in Chattogram,\nWe warn that, People won't let you continue the crimes,\nLink:- https://iskconbd.org/\n\nhttps://check-host.net/check-report/1ffbb77bkf13\n\n#K3V1N_M1TN1CK",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Chattogram"
+            ],
+            "URLs": [
+                "https://iskconbd.org/",
+                "https://check-host.net/check-report/1ffbb77bkf13"
             ]
         }
     ],
@@ -68461,6 +68486,211 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/us-warns-of-last-minute-iranian-and-russian-election-influence-ops/"
+            ]
+        },
+        {
+            "Message ID": 92044,
+            "discovered": "2024-11-05",
+            "post_title": "Title: The Business Case for Customer Identity and Access Management in E-Commerce\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/resource/the-business-case-for-customer-identity-and-access-management-in-e-commerce\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/resource/the-business-case-for-customer-identity-and-access-management-in-e-commerce"
+            ]
+        },
+        {
+            "Message ID": 92043,
+            "discovered": "2024-11-05",
+            "post_title": "Title: CSA advances zero trust for critical infrastructure\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/brief/csa-advances-zero-trust-for-critical-infrastructure\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/csa-advances-zero-trust-for-critical-infrastructure"
+            ]
+        },
+        {
+            "Message ID": 92042,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Two Adjacent Markets Collide: Customer IAM and Master Data Management\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/resource/two-adjacent-markets-collide-customer-iam-and-master-data-management\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/resource/two-adjacent-markets-collide-customer-iam-and-master-data-management"
+            ]
+        },
+        {
+            "Message ID": 92041,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Machine learning platform vulnerabilities detailed\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/brief/machine-learning-platform-vulnerabilities-detailed\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/machine-learning-platform-vulnerabilities-detailed"
+            ]
+        },
+        {
+            "Message ID": 92040,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Malware attack compromises Van Wagner\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/brief/malware-attack-compromises-van-wagner\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/malware-attack-compromises-van-wagner"
+            ]
+        },
+        {
+            "Message ID": 92039,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Passkeys: The Key to a Passwordless Future Falls in the Hands of the Enterprise Chief Information Security Officer\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/resource/passkeys-the-key-to-a-passwordless-future-falls-in-the-hands-of-the-enterprise-chief-information-security-officer\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/resource/passkeys-the-key-to-a-passwordless-future-falls-in-the-hands-of-the-enterprise-chief-information-security-officer"
+            ]
+        },
+        {
+            "Message ID": 92038,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Saint Xavier University breach hits over 200K\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/brief/saint-xavier-university-breach-hits-over-200k\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/saint-xavier-university-breach-hits-over-200k"
+            ]
+        },
+        {
+            "Message ID": 92037,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Cisco downplays impact of DevHub portal hack\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/brief/cisco-downplays-impact-of-devhub-portal-hack\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Cisco"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/cisco-downplays-impact-of-devhub-portal-hack"
+            ]
+        },
+        {
+            "Message ID": 92036,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Nokia purportedly breached by IntelBroker\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/brief/nokia-purportedly-breached-by-intelbroker\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/nokia-purportedly-breached-by-intelbroker"
+            ]
+        },
+        {
+            "Message ID": 92035,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Cyberattack confirmed by Schneider Electric\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/brief/cyberattack-confirmed-by-schneider-electric\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/cyberattack-confirmed-by-schneider-electric"
+            ]
+        },
+        {
+            "Message ID": 92034,
+            "discovered": "2024-11-05",
+            "post_title": "Target: https://loterianacional.gob.do\n\nNotified: CaptainSmok3r\n\nDate: Tue, 05 Nov 2024 17:07:11 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41295158\n\n#Defacements #DominicanRepublic",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://loterianacional.gob.do",
+                "http://www.zone-h.org/mirror/id/41295158"
+            ]
+        },
+        {
+            "Message ID": 92033,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-9579\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9579\n\nDescription: A potential vulnerability was discovered in certain Poly video conferencing devices. The firmware flaw does not properly sanitize user input. The exploitation of this vulnerability is dependent on a layered attack and cannot be exploited by itself.\n\nPublication Date: Tue Nov 05 20:05:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9579"
+            ]
+        },
+        {
+            "Message ID": 92032,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-10842\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10842\n\nDescription: A vulnerability, which was classified as problematic, has been found in romadebrian WEB-Sekolah 1.0. Affected by this issue is some unknown functionality of the file /Admin/Proses_Edit_Akun.php of the component Backend. The manipulation of the argument Username_Baru/Password leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Tue Nov 05 20:04:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10842"
+            ]
+        },
+        {
+            "Message ID": 92031,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-33875\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-33875\n\nDescription: HDF5 Library through 1.14.3 has a heap-based buffer overflow in H5O__layout_encode in H5Olayout.c, resulting in the corruption of the instruction pointer.\n\nPublication Date: Tue Nov 05 20:04:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "H5Olayout.c"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-33875"
+            ]
+        },
+        {
+            "Message ID": 92030,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-38628\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38628\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nusb: gadget: u_audio: Fix race condition use of controls after free during gadget unbind.\n\nHang on to the control IDs instead of pointers since those are correctly\nhandled with locks.\n\nPublication Date: Tue Nov 05 20:04:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38628"
+            ]
+        },
+        {
+            "Message ID": 92029,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2024-21123\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21123\n\nDescription: Vulnerability in the Oracle Database Core component of Oracle Database Server.  Supported versions that are affected are 19.3-19.23. Easily exploitable vulnerability allows high privileged attacker having SYSDBA privilege with logon to the infrastructure where Oracle Database Core executes to compromise Oracle Database Core.  Successful attacks of this vulnerability can result in  unauthorized update, insert or delete access to some of Oracle Database Core accessible data. CVSS 3.1 Base Score 2.3 (Integrity impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:L/A:N).\n\nPublication Date: Tue Nov 05 20:04:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21123"
+            ]
+        },
+        {
+            "Message ID": 92028,
+            "discovered": "2024-11-05",
+            "post_title": "CVE-ID: CVE-2023-1893\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-1893\n\nDescription: The Login Configurator WordPress plugin through 2.1 does not properly escape a URL parameter before outputting it to the page, leading to a reflected cross-site scripting vulnerability targeting site administrators.\n\nPublication Date: Tue Nov 05 20:04:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-1893"
             ]
         }
     ],
