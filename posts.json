@@ -8261,6 +8261,30 @@
             "URLs": [
                 "https://krebsonsecurity.com/2024/11/canadian-man-arrested-in-snowflake-data-extortions/"
             ]
+        },
+        {
+            "Message ID": 6422,
+            "discovered": "2024-11-05",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6421,
+            "discovered": "2024-11-05",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-11-05 20:28:18\n🚨 Title: Alleged database leak of  NSAS Spy Schema\n🛡️ Victim Country: USA\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: national security agency\n🌐 Victim Site: nsa.gov\n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: kiberphant0m\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-DATABASE-NSA-NSAS-Spy-Schema-from-Snowflake-FREEWAIFU\n📝 Description: The threat actor claims to have leaked data from  NSAS Spy Schema. The leaked data reportedly contains more than 20 million citizens data.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "\n📜 Cate",
+                "achforums.st/Thread-DATABASE-NSA-NSAS-Spy-Schema-from-Snowflake-FREEWAIFU\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -27146,6 +27170,36 @@
             "Message ID": 111,
             "discovered": "2024-11-03",
             "post_title": "Erth \nCompany was hacked by our team and all the company's databases were accessed. We will offer it for sale. For those who want details, please contact us : @cybers_102bot\n\nاختراق شركه ارث من قبل فريقنا وتم الوصول إلى كافه قواعد البيانات الخاصه ب الشركه وسوف نقوم بعرضها للبيع لمن أراد التفاصيل برجاء التواصل\n\n\"إرث\" كانت تُعرف سابقًا بنادي ضباط القوات المسلحة، وقد تأسست لخدمة ضباط الجيش الإماراتي، ثم تحولت إلى وجهة ضيافة عامة تحتفظ بتراثها الإماراتي.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 118,
+            "discovered": "2024-11-05",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 116,
+            "discovered": "2024-11-05",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 115,
+            "discovered": "2024-11-05",
+            "post_title": "Our team hacked a website that claims to sell NFT and got its database containing user data\nقام فريقنا باختراق موقع يدعي انه يبيع nft وحصلنا علي قاعده البيانات الخاصه به تحتوي علي بيانات المستخدمين\n﻿\n\n@cybers102",
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
