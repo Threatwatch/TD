@@ -8297,6 +8297,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-116-us-cc-details/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6424,
+            "discovered": "2024-11-05",
+            "post_title": "🚨CVE-2024-45519 - Zimbra Postjournal Exploit Setup\n\nhttps://darkwebinformer.com/cve-2024-45519-zimbra-postjournal-exploit-setup/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/cve-2024-45519-zimbra-postjournal-exploit-setup/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -70103,6 +70115,28 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-30305"
             ]
+        },
+        {
+            "Message ID": 92130,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Harnessing the Power of Data and AI - Sivan Tehila - FS #1\n\nDate: November 5, 2024\n\nSource: https://www.scworld.com/podcast-segment/13235-harnessing-the-power-of-data-and-ai-sivan-tehila-fs-1\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/podcast-segment/13235-harnessing-the-power-of-data-and-ai-sivan-tehila-fs-1"
+            ]
+        },
+        {
+            "Message ID": 92129,
+            "discovered": "2024-11-05",
+            "post_title": "Victim: ebrso\n\nDetection Date: Wed Nov 06 00:12:19 2024\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": [
