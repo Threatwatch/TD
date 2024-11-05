@@ -30164,6 +30164,18 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3481,
+            "discovered": "2024-11-05",
+            "post_title": "Group: ransomhub\nApprox. Time: 14:36 05/11/24\nTitle: https://t.co/OQeJ8Wnw3B",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/OQeJ8Wnw3B"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -67931,6 +67943,30 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/google-fixes-two-android-zero-days-used-in-targeted-attacks/"
+            ]
+        },
+        {
+            "Message ID": 91997,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Warning: Hackers could take over your email account by stealing cookies, even if you have MFA\n\nDate: November 5, 2024\n\nSource: https://www.malwarebytes.com/blog/news/2024/11/warning-hackers-could-take-over-your-email-account-by-stealing-cookies-even-if-you-have-mfa\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/news/2024/11/warning-hackers-could-take-over-your-email-account-by-stealing-cookies-even-if-you-have-mfa"
+            ]
+        },
+        {
+            "Message ID": 91996,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Top Three Ways Organizations Were Unprepared for Cyberattacks in 2023\n\nDate: November 5, 2024\n\nSource: https://www.paloaltonetworks.com/blog/2024/11/top-three-ways-organizations-were-unprepared-for-cyberattacks-in-2023/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.paloaltonetworks.com/blog/2024/11/top-three-ways-organizations-were-unprepared-for-cyberattacks-in-2023/"
             ]
         }
     ],
