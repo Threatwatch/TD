@@ -30063,6 +30063,28 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3476,
+            "discovered": "2024-11-05",
+            "post_title": "Group: embargo\nApprox. Time: 08:35 05/11/24\nTitle: Memorial Hospital &amp; Manor",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3475,
+            "discovered": "2024-11-05",
+            "post_title": "Group: qilin\nApprox. Time: 08:35 05/11/24\nTitle: https://t.co/3HboZRLwdb",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/3HboZRLwdb"
+            ]
         }
     ],
     "RansomfeedNews": [
