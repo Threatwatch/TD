@@ -8227,6 +8227,28 @@
             "URLs": [
                 "ps://darkwebinformer.com/888-has-allegedly-leaked-data-of-appstle/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6419,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇧🇷A Threat Actor is Allegedly Selling 100 Brazil CC Information\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-100-brazil-cc-information/\n\nThe threat actor is offering 100 Brazilian credit card records for sale, claiming a validity rate of 80% or higher.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-100-brazil-cc-information/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6418,
+            "discovered": "2024-11-05",
+            "post_title": "4.5 hrs and im ending this poll",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -69558,6 +69580,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-50134"
+            ]
+        },
+        {
+            "Message ID": 92097,
+            "discovered": "2024-11-05",
+            "post_title": "Title: Google Chrome security advisory (AV24-633)\n\nDate: November 5, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av24-633"
             ]
         }
     ],
