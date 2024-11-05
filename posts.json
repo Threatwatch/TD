@@ -8357,6 +8357,28 @@
             "URLs": [
                 "s://darkwebinformer.com/northwest-health-has-been-claimed-a-victim-to-ransomhub-ransomware/\n\nTh"
             ]
+        },
+        {
+            "Message ID": 6430,
+            "discovered": "2024-11-05",
+            "post_title": "1.5hrs",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6429,
+            "discovered": "2024-11-05",
+            "post_title": "🚨🇺🇸🇬🇧🇦🇪🇨🇦A Threat Actor is Selling CMS WordPress Access to Four Unidentified Companies\n\nhttps://darkwebinformer.com/a-threat-actor-is-selling-cms-wordpress-access-to-four-unidentified-companies/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkwebinformer.com/a-threat-actor-is-selling-cms-wordpress-access-to-four-unidentified-companies/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -30686,6 +30708,40 @@
             "Message ID": 3486,
             "discovered": "2024-11-05",
             "post_title": "Group: qilin\nApprox. Time: 20:39 05/11/24\nTitle: ebrso",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3489,
+            "discovered": "2024-11-05",
+            "post_title": "Group: ransomhub\nApprox. Time: 22:38 05/11/24\nTitle: https://t.co/Z8WPXTcnkf",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/Z8WPXTcnkf"
+            ]
+        },
+        {
+            "Message ID": 3488,
+            "discovered": "2024-11-05",
+            "post_title": "Group: ransomhub\nApprox. Time: 22:38 05/11/24\nTitle: https://t.co/9GaqlO1LHI",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/9GaqlO1LHI"
+            ]
+        },
+        {
+            "Message ID": 3487,
+            "discovered": "2024-11-05",
+            "post_title": "Group: play\nApprox. Time: 22:38 05/11/24\nTitle: Dome Construction",
             "Attack Type": "Unknown",
             "Location": [
                 "Approx"
