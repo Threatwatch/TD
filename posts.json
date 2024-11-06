@@ -30867,6 +30867,30 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3496,
+            "discovered": "2024-11-06",
+            "post_title": "Group: ransomhub\nApprox. Time: 06:37 06/11/24\nTitle: https://t.co/w65IbY9tZT",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/w65IbY9tZT"
+            ]
+        },
+        {
+            "Message ID": 3495,
+            "discovered": "2024-11-06",
+            "post_title": "Group: ransomhub\nApprox. Time: 06:37 06/11/24\nTitle: https://t.co/yPbReOPJsV",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/yPbReOPJsV"
+            ]
         }
     ],
     "RansomfeedNews": [
