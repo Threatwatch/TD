@@ -8730,6 +8730,42 @@
             "URLs": [
                 "s://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-sucre-jewelry-design-limited-containing-over-2-million-lines-of-data/\n\nTh"
             ]
+        },
+        {
+            "Message ID": 6464,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇷🇺anonmoose Allegedly Leaked the Data of ROSSKO\n\nhttps://darkwebinformer.com/anonmoose-allegedly-leaked-the-data-of-rossko/\n\nThe threat actor claims to have leaked a database belonging to ROSSKO, reportedly containing 10 million records. The data includes information such as names, phone numbers, addresses, and order details.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/anonmoose-allegedly-leaked-the-data-of-rossko/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6463,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🚨🇩🇪A Threat Actor is Allegedly Selling Citrix Access to an Unidentified Company in Germany\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-citrix-access-to-an-unidentified-company-in-germany/\n\nThe threat actor offering to sell Citrix access with local admin and domain user rights of an unidentified German company. The company has an annual turnover of $2.4 billion.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Germany"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-is-allegedly-selling-citrix-access-to-an-unidentified-company-in-germany/\n\nTh"
+            ]
+        },
+        {
+            "Message ID": 6462,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇺🇸Lincoln University Has Been Claimed a Victim to MEOW Ransomware\n\nhttps://darkwebinformer.com/lincoln-university-has-been-claimed-a-victim-to-meow-ransomware/\n\nThe group claims to have acquired 21 GB of data from the organization, reportedly containing a wide range of sensitive information. The data includes employee personal details, insurance information, Social Security numbers, contracts and agreements with payment terms, financial documents such as supplier invoices, tax records, bank transactions, account balances, as well as personal data like names, dates of birth, and insurance details.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/lincoln-university-has-been-claimed-a-victim-to-meow-ransomware/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -73903,6 +73939,268 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/cisco-bug-lets-hackers-run-commands-as-root-on-uwrb-access-points/"
+            ]
+        },
+        {
+            "Message ID": 92371,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Drupal security advisory (AV24-636)\n\nDate: November 6, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-636\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av24-636"
+            ]
+        },
+        {
+            "Message ID": 92370,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-10501\n\nDescription: A vulnerability, which was classified as critical, was found in ESAFENET CDG 5. This affects the function findById of the file /com/esafenet/servlet/document/ExamCDGDocService.java. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10501\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://flowus.cn/share/95cc2cb9-7ab2-4eba-969f-f836fac1deb4?code=G8A6P3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "ExamCDGDocService.java",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10501",
+                "https://flowus.cn/share/95cc2cb9-7ab2-4eba-969f-f836fac1deb4?code=G8A6P3"
+            ]
+        },
+        {
+            "Message ID": 92369,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-10502\n\nDescription: A vulnerability has been found in ESAFENET CDG 5 and classified as critical. This vulnerability affects the function getOneFileDirectory of the file /com/esafenet/servlet/fileManagement/FileDirectoryService.java. The manipulation of the argument directoryId leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10502\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://flowus.cn/share/f1f8c6bd-057f-406b-9421-ab6cee169980?code=G8A6P3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "FileDirectoryService.java",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10502",
+                "https://flowus.cn/share/f1f8c6bd-057f-406b-9421-ab6cee169980?code=G8A6P3"
+            ]
+        },
+        {
+            "Message ID": 92368,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-9883\n\nDescription: The Pods  WordPress plugin before 3.2.7.1 does not sanitise and escape some of its settings, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-9883\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://wpscan.com/vulnerability/ea4b277e-ef47-4e38-bd82-c5a54a95372f/\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "3.2.7.1",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9883",
+                "https://wpscan.com/vulnerability/ea4b277e-ef47-4e38-bd82-c5a54a95372f/"
+            ]
+        },
+        {
+            "Message ID": 92367,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-10751\n\nDescription: A vulnerability was found in Codezips ISP Management System 1.0 and classified as critical. Affected by this issue is some unknown functionality of the file pay.php. The manipulation of the argument customer leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10751\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://github.com/JiangJiangCC/CVE/issues/1\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10751",
+                "https://github.com/JiangJiangCC/CVE/issues/1"
+            ]
+        },
+        {
+            "Message ID": 92366,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-10753\n\nDescription: A vulnerability was found in PHPGurukul Online Shopping Portal 2.0. It has been declared as problematic. This vulnerability affects unknown code of the file admin/assets/plugins/DataTables/media/unit_testing/templates/dom_data_two_headers.php. The manipulation of the argument scripts leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10753\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://github.com/secuserx/CVE/blob/main/%5BXSS%20vulnerability%5D%20found%20in%20Online%20Shopping%20Portal%202.0%20-%20(dom_data_two_headers.php).md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10753",
+                "https://github.com/secuserx/CVE/blob/main/%5BXSS%20vulnerability%5D%20found%20in%20Online%20Shopping%20Portal%202.0%20-%20(dom_data_two_headers.php).md"
+            ]
+        },
+        {
+            "Message ID": 92365,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-49368\n\nDescription: Nginx UI is a web user interface for the Nginx web server. Prior to version 2.0.0-beta.36, when Nginx UI configures logrotate, it does not verify the input and directly passes it to exec.Command, causing arbitrary command execution. Version 2.0.0-beta.36 fixes this issue.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-49368\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-66m6-27r9-77vm\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49368",
+                "https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-66m6-27r9-77vm"
+            ]
+        },
+        {
+            "Message ID": 92364,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-51755\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51755\n\nDescription: Twig is a template language for PHP. In a sandbox, and attacker can access attributes of Array-like objects as they were not checked by the security policy. They are now checked via the property policy and the `__isset()` method is now called after the security check. This is a BC break. This issue has been patched in versions 3.11.2 and 3.14.1. All users are advised to upgrade. There are no known workarounds for this issue.\n\nPublication Date: Wed Nov 06 23:03:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51755"
+            ]
+        },
+        {
+            "Message ID": 92363,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-34887\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34887\n\nDescription: Insufficiently protected credentials in AD/LDAP server settings in 1C-Bitrix Bitrix24 23.300.100 allows remote administrators to send AD/LDAP administrators account passwords to an arbitrary server via HTTP POST request.\n\nPublication Date: Wed Nov 06 23:03:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34887"
+            ]
+        },
+        {
+            "Message ID": 92362,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-51754\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51754\n\nDescription: Twig is a template language for PHP. In a sandbox, an attacker can call `__toString()` on an object even if the `__toString()` method is not allowed by the security policy when the object is part of an array or an argument list (arguments to a function or a filter for instance). This issue has been patched in versions 3.11.2 and 3.14.1. All users are advised to upgrade. There are no known workarounds for this issue.\n\nPublication Date: Wed Nov 06 23:03:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51754"
+            ]
+        },
+        {
+            "Message ID": 92361,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-34883\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34883\n\nDescription: Insufficiently protected credentials in DAV server settings in 1C-Bitrix Bitrix24 23.300.100 allow remote administrators to read proxy-server accounts passwords via HTTP GET request.\n\nPublication Date: Wed Nov 06 23:03:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34883"
+            ]
+        },
+        {
+            "Message ID": 92360,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-34882\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34882\n\nDescription: Insufficiently protected credentials in SMTP server settings in 1C-Bitrix Bitrix24 23.300.100 allows remote administrators to send SMTP account passwords to an arbitrary server via HTTP POST request.\n\nPublication Date: Wed Nov 06 23:02:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34882"
+            ]
+        },
+        {
+            "Message ID": 92359,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-37965\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37965\n\nDescription: A missing permission check in Jenkins ElasticBox CI Plugin 5.0.1 and earlier allows attackers with Overall/Read permission to connect to an attacker-specified URL using attacker-specified credentials IDs obtained through another method, capturing credentials stored in Jenkins.\n\nPublication Date: Wed Nov 06 23:02:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Jenkins"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37965"
+            ]
+        },
+        {
+            "Message ID": 92358,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-37964\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37964\n\nDescription: A cross-site request forgery (CSRF) vulnerability in Jenkins ElasticBox CI Plugin 5.0.1 and earlier allows attackers to connect to an attacker-specified URL using attacker-specified credentials IDs obtained through another method, capturing credentials stored in Jenkins.\n\nPublication Date: Wed Nov 06 23:02:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Jenkins"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37964"
+            ]
+        },
+        {
+            "Message ID": 92357,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2021-47477\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47477\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ncomedi: dt9812: fix DMA buffers on stack\n\nUSB transfer buffers are typically mapped for DMA and must not be\nallocated on the stack or transfers will fail.\n\nAllocate proper transfer buffers in the various command helpers and\nreturn an error on short transfers instead of acting on random stack\ndata.\n\nNote that this also fixes a stack info leak on systems where DMA is not\nused as 32 bytes are always sent to the device regardless of how short\nthe command is.\n\nPublication Date: Wed Nov 06 23:02:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47477"
+            ]
+        },
+        {
+            "Message ID": 92356,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2021-47297\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47297\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: fix uninit-value in caif_seqpkt_sendmsg\n\nWhen nr_segs equal to zero in iovec_from_user, the object\nmsg->msg_iter.iov is uninit stack memory in caif_seqpkt_sendmsg\nwhich is defined in ___sys_sendmsg. So we cann't just judge\nmsg->msg_iter.iov->base directlly. We can use nr_segs to judge\nmsg in caif_seqpkt_sendmsg whether has data buffers.\n\n=====================================================\nBUG: KMSAN: uninit-value in caif_seqpkt_sendmsg+0x693/0xf60 net/caif/caif_socket.c:542\nCall Trace:\n __dump_stack lib/dump_stack.c:77 [inline]\n dump_stack+0x1c9/0x220 lib/dump_stack.c:118\n kmsan_report+0xf7/0x1e0 mm/kmsan/kmsan_report.c:118\n __msan_warning+0x58/0xa0 mm/kmsan/kmsan_instr.c:215\n caif_seqpkt_sendmsg+0x693/0xf60 net/caif/caif_socket.c:542\n sock_sendmsg_nosec net/socket.c:652 [inline]\n sock_sendmsg net/socket.c:672 [inline]\n ____sys_sendmsg+0x12b6/0x1350 net/socket.c:2343\n ___sys_sendmsg net/socket.c:2397 [inline]\n __sys_sendmmsg+0x808/0xc90 net/socket.c:2480\n __compat_sys_sendmmsg net/compat.c:656 [inline]\n\nPublication Date: Wed Nov 06 23:02:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "iovec_from_user"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47297"
+            ]
+        },
+        {
+            "Message ID": 92355,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-49539\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-49539\n\nDescription: Book Store Management System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability in /bsms_ci/index.php/category. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the category parameter.\n\nPublication Date: Wed Nov 06 23:01:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS",
+                "/bsms_ci"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-49539"
+            ]
+        },
+        {
+            "Message ID": 92354,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-31191\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-31191\n\nDescription: DroneScout ds230 Remote ID receiver from BlueMark Innovations is affected by an information loss vulnerability through traffic injection.\n\nAn attacker can exploit this vulnerability by injecting, on carefully selected channels, high power spoofed Open Drone ID (ODID) messages which force the DroneScout ds230 Remote ID receiver to drop real Remote ID (RID) information and, instead, generate and transmit JSON encoded MQTT messages containing crafted RID information. Consequently, the MQTT broker, typically operated by a system integrator, will have no access to the drones’ real RID information.\n\nThis issue affects the adjacent channel suppression algorithm present in DroneScout ds230 firmware from version 20211210-1627 through 20230329-1042.\n\nPublication Date: Wed Nov 06 23:01:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "DroneScout ds230"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-31191"
+            ]
+        },
+        {
+            "Message ID": 92353,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-37963\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37963\n\nDescription: A missing permission check in Jenkins Benchmark Evaluator Plugin 1.0.1 and earlier allows attackers with Overall/Read permission to connect to an attacker-specified URL and to check for the existence of directories, `.csv`, and `.ycsb` files on the Jenkins controller file system.\n\nPublication Date: Wed Nov 06 23:01:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37963"
+            ]
+        },
+        {
+            "Message ID": 92352,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-29156\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-29156\n\nDescription: DroneScout ds230 Remote ID receiver from BlueMark Innovations is affected by an information loss vulnerability through traffic injection.\nAn attacker can exploit this vulnerability by injecting, at the right times, spoofed Open Drone ID (ODID) messages which force the DroneScout ds230 Remote ID receiver to drop real Remote ID (RID) information and, instead, generate and transmit JSON encoded MQTT messages containing crafted RID information. Consequently, the MQTT broker, typically operated by a system integrator, will have no access to the drones’ real RID information.\n\nThis issue affects DroneScout ds230 in default configuration from firmware version 20211210-1627 through 20230329-1042.\n\nPublication Date: Wed Nov 06 23:01:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-29156"
+            ]
+        },
+        {
+            "Message ID": 92351,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-37962\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37962\n\nDescription: A cross-site request forgery (CSRF) vulnerability in Jenkins Benchmark Evaluator Plugin 1.0.1 and earlier allows attackers to connect to an attacker-specified URL and to check for the existence of directories, `.csv`, and `.ycsb` files on the Jenkins controller file system.\n\nPublication Date: Wed Nov 06 23:01:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37962"
             ]
         }
     ],
