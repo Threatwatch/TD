@@ -8509,6 +8509,42 @@
             "URLs": [
                 "ps://darkwebinformer.com/cape-cod-regional-technical-high-school-has-been-claimed-a-victim-to-fog-ransomware/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6444,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇦🇺DXPLOIT Targeted the Website of Auswide Bank\n\nhttps://darkwebinformer.com/dxploit-targeted-the-website-of-auswide-bank/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/dxploit-targeted-the-website-of-auswide-bank/"
+            ]
+        },
+        {
+            "Message ID": 6443,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇮🇹A Threat Actor Has Allegedly Leaked the Data of BREVI\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-brevi/\n\nThe threat actor alleges they have obtained the database of BREVI.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-brevi/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6442,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇧🇷RedAtlas Defaced the Website of Cical Honda\n\nhttps://darkwebinformer.com/redatlas-defaced-the-website-of-cical-honda/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/redatlas-defaced-the-website-of-cical-honda/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -72735,6 +72771,154 @@
             ],
             "URLs": [
                 "https://www.scworld.com/resource/why-you-should-deploy-modern-multi-factor-authentication"
+            ]
+        },
+        {
+            "Message ID": 92288,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Singtel breach attributed to Volt Typhoon\n\nDate: November 6, 2024\n\nSource: https://www.scworld.com/brief/singtel-breach-attributed-to-volt-typhoon\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/singtel-breach-attributed-to-volt-typhoon"
+            ]
+        },
+        {
+            "Message ID": 92287,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Market and Buyer’s Guide for Customer Identity and Access Management 2024\n\nDate: November 6, 2024\n\nSource: https://www.scworld.com/resource/market-and-buyers-guide-for-customer-identity-and-access-management-2024\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/resource/market-and-buyers-guide-for-customer-identity-and-access-management-2024"
+            ]
+        },
+        {
+            "Message ID": 92286,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Ongoing npm malware campaign involves Ethereum smart contracts\n\nDate: November 6, 2024\n\nSource: https://www.scworld.com/brief/ongoing-npm-malware-campaign-involves-ethereum-smart-contracts\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/ongoing-npm-malware-campaign-involves-ethereum-smart-contracts"
+            ]
+        },
+        {
+            "Message ID": 92285,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Platform Tour: Threat Detection, Investigation, and Response Ransomware Campaign\n\nDate: November 6, 2024\n\nSource: https://adlumin.com/post/platform-tour-threat-detection-investigation-and-response-ransomware-campaign/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://adlumin.com/post/platform-tour-threat-detection-investigation-and-response-ransomware-campaign/"
+            ]
+        },
+        {
+            "Message ID": 92284,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Platform Tour: General Overview Ransomware Campaign\n\nDate: November 6, 2024\n\nSource: https://adlumin.com/post/platform-tour-general-overview-ransomware-campaign/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://adlumin.com/post/platform-tour-general-overview-ransomware-campaign/"
+            ]
+        },
+        {
+            "Message ID": 92283,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-10915\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10915\n\nDescription: A vulnerability was found in D-Link DNS-320, DNS-320LW, DNS-325 and DNS-340L up to 20241028. It has been rated as critical. Affected by this issue is the function cgi_user_add of the file /cgi-bin/account_mgr.cgi?cmd=cgi_user_add. The manipulation of the argument group leads to os command injection. The attack may be launched remotely. The complexity of an attack is rather high. The exploitation is known to be difficult. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Wed Nov 06 19:11:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "DNS-325"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10915"
+            ]
+        },
+        {
+            "Message ID": 92282,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-37562\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37562\n\nDescription: Cross-site request forgery (CSRF) vulnerability in exists in WTC-C1167GC-B v1.17 and earlier, and WTC-C1167GC-W v1.17 and earlier. If a user views a malicious page while logged in, unintended operations may be performed.\n\nPublication Date: Wed Nov 06 19:11:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37562"
+            ]
+        },
+        {
+            "Message ID": 92281,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-32926\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-32926\n\nDescription: there is a possible information disclosure due to side channel information disclosure. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Wed Nov 06 19:11:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-32926"
+            ]
+        },
+        {
+            "Message ID": 92280,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-10764\n\nDescription: A vulnerability classified as critical has been found in Codezips Online Institute Management System 1.0. This affects an unknown part of the file /pages/save_user.php. The manipulation of the argument image leads to unrestricted upload. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10764\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://github.com/xiaobsss/CVE/issues/1\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10764",
+                "https://github.com/xiaobsss/CVE/issues/1"
+            ]
+        },
+        {
+            "Message ID": 92279,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-10765\n\nDescription: A vulnerability classified as critical was found in Codezips Online Institute Management System up to 1.0. This vulnerability affects unknown code of the file /profile.php. The manipulation of the argument old_image leads to unrestricted upload. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10765\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://github.com/hbuzs/CVE/issues/1\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10765",
+                "https://github.com/hbuzs/CVE/issues/1"
+            ]
+        },
+        {
+            "Message ID": 92278,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-50348\n\nDescription: InstantCMS is a free and open source content management system. In photo upload function in the photo album page there is no input validation taking place. Due to this attackers are able to inject the XSS (Cross Site Scripting) payload and execute. This vulnerability is fixed in 2.16.3.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-50348\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://github.com/instantsoft/icms2/security/advisories/GHSA-f6cf-jg84-fw29\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50348",
+                "https://github.com/instantsoft/icms2/security/advisories/GHSA-f6cf-jg84-fw29"
+            ]
+        },
+        {
+            "Message ID": 92277,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-10766\n\nDescription: A vulnerability, which was classified as critical, has been found in Codezips Free Exam Hall Seating Management System 1.0. This issue affects some unknown processing of the file /pages/save_user.php. The manipulation of the argument image leads to unrestricted upload. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The initial researcher disclosure contains confusing vulnerability classes and file names.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10766\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://github.com/Charlotte008/cve/issues/3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10766",
+                "https://github.com/Charlotte008/cve/issues/3"
             ]
         }
     ],
