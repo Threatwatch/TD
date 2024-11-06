@@ -8788,6 +8788,28 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6468,
+            "discovered": "2024-11-06",
+            "post_title": "Telegram Notifications Testing",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6467,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇵🇾rufusdomando Allegedly Leaked 4 Million Records of Data from Paraguay\n\nhttps://darkwebinformer.com/rufusdomando-allegedly-leaked-4-million-records-of-data-from-paraguay/\n\nThe threat actor alleges they have leaked a database containing 4,097,461 records from Paraguay, which includes sensitive information such as identification numbers, phone numbers, and other personal details.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rufusdomando-allegedly-leaked-4-million-records-of-data-from-paraguay/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -74783,6 +74805,126 @@
             ],
             "URLs": [
                 "brandenburgerplumbing.com"
+            ]
+        },
+        {
+            "Message ID": 92422,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Google Cloud mandates MFA by end of 2025\n\nDate: November 6, 2024\n\nSource: https://www.scworld.com/news/google-cloud-mandates-mfa-by-end-of-2025\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/google-cloud-mandates-mfa-by-end-of-2025"
+            ]
+        },
+        {
+            "Message ID": 92421,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-3523\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3523\n\nDescription: Out-of-bounds Read in GitHub repository gpac/gpac prior to 2.2.2.\n\nPublication Date: Thu Nov 07 02:10:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3523"
+            ]
+        },
+        {
+            "Message ID": 92420,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-26273\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-26273\n\nDescription: IBM QRadar SIEM 7.5.0 could allow an authenticated user to perform unauthorized actions due to hazardous input validation.  IBM X-Force ID:  248134.\n\nPublication Date: Thu Nov 07 02:09:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-26273"
+            ]
+        },
+        {
+            "Message ID": 92419,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-51672\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51672\n\nDescription: Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WPDeveloper BetterLinks allows SQL Injection.This issue affects BetterLinks: from n/a through 2.1.7.\n\nPublication Date: Thu Nov 07 02:09:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51672"
+            ]
+        },
+        {
+            "Message ID": 92418,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-51677\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51677\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in WebberZone Knowledge Base allows Stored XSS.This issue affects Knowledge Base: from n/a through 2.2.0.\n\nPublication Date: Thu Nov 07 02:09:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51677"
+            ]
+        },
+        {
+            "Message ID": 92417,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-51678\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51678\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Marcel Pol Elo Rating Shortcode allows Stored XSS.This issue affects Elo Rating Shortcode: from n/a through 1.0.3.\n\nPublication Date: Thu Nov 07 02:09:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51678"
+            ]
+        },
+        {
+            "Message ID": 92416,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-51680\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51680\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in CrestaProject – Rizzo Andrea Cresta Addons for Elementor allows Stored XSS.This issue affects Cresta Addons for Elementor: from n/a through 1.0.9.\n\nPublication Date: Thu Nov 07 02:09:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51680"
+            ]
+        },
+        {
+            "Message ID": 92415,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-49675\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49675\n\nDescription: Authentication Bypass Using an Alternate Path or Channel vulnerability in Vitalii Bryl iBryl Switch User allows Authentication Bypass.This issue affects iBryl Switch User: from n/a through 1.0.1.\n\nPublication Date: Thu Nov 07 02:08:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49675"
+            ]
+        },
+        {
+            "Message ID": 92414,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-10927\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10927\n\nDescription: A vulnerability was found in MonoCMS up to 20240528. It has been classified as problematic. Affected is an unknown function of the file /monofiles/account.php of the component Account Information Page. The manipulation of the argument userid leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Thu Nov 07 02:08:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10927"
+            ]
+        },
+        {
+            "Message ID": 92413,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-10928\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10928\n\nDescription: A vulnerability was found in MonoCMS up to 20240528. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file /monofiles/opensaved.php of the component Posts Page. The manipulation of the argument filtcategory/filtstatus leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Thu Nov 07 02:08:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10928"
             ]
         }
     ],
