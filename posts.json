@@ -8766,6 +8766,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/lincoln-university-has-been-claimed-a-victim-to-meow-ransomware/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6465,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇩🇿EvilMorocco Hacktivism Allegedly Leaked Data of Ministry of Health of Algeria\n\nhttps://darkwebinformer.com/evilmorocco-hacktivism-allegedly-leaked-data-of-ministry-of-health-of-algeria/\n\nEvilMorocco Hacktivism, allegedly with support from Moroccan soldiers, claims to have accessed databases belonging to Algeria's Ministry of Health. The group reports having released extensive data pertaining to Algerian citizens.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Algeria"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/evilmorocco-hacktivism-allegedly-leaked-data-of-ministry-of-health-of-algeria/\n\nE"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -31406,6 +31418,16 @@
             "URLs": [
                 "https://t.co/6o1Gcgpll0"
             ]
+        },
+        {
+            "Message ID": 3500,
+            "discovered": "2024-11-06",
+            "post_title": "Group: meow\nApprox. Time: 20:36 06/11/24\nTitle: Lincoln University",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
         }
     ],
     "RansomfeedNews": [
