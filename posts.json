@@ -8485,6 +8485,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-zakat-tax-and-customs-authority-of-saudi-arabia/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6440,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇮🇳IntelBroker and EnergyWeaponUser Have Allegedly Leaked the Data of Platform Commons Foundation\n\nhttps://darkwebinformer.com/intelbroker-and-energyweaponuser-have-allegedly-leaked-the-data-of-platform-commons-foundation/\n\nThe threat actor claims to have leaked the database of Platform Commons Foundation, allegedly containing information on 181,000 users, including names, emails, employment details, and job roles.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/intelbroker-and-energyweaponuser-have-allegedly-leaked-the-data-of-platform-commons-foundation/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -72651,6 +72663,66 @@
             "URLs": [
                 "https://phomakkhaeng.go.th",
                 "http://www.zone-h.org/mirror/id/41295245"
+            ]
+        },
+        {
+            "Message ID": 92276,
+            "discovered": "2024-11-06",
+            "post_title": "Title: HPE security advisory (AV24-634)\n\nDate: November 6, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-634\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av24-634"
+            ]
+        },
+        {
+            "Message ID": 92275,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Navigating the Account Takeover Threat Landscape\n\nDate: November 6, 2024\n\nSource: https://www.scworld.com/resource/navigating-the-account-takeover-threat-landscape\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/resource/navigating-the-account-takeover-threat-landscape"
+            ]
+        },
+        {
+            "Message ID": 92274,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Link Index for Account Takeover Prevention in Banking\n\nDate: November 6, 2024\n\nSource: https://www.scworld.com/resource/link-index-for-account-takeover-prevention-in-banking\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/resource/link-index-for-account-takeover-prevention-in-banking"
+            ]
+        },
+        {
+            "Message ID": 92273,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Massive cybercrime crackdown disrupts over 22K malicious IPs\n\nDate: November 6, 2024\n\nSource: https://www.scworld.com/brief/massive-cybercrime-crackdown-disrupts-over-22k-malicious-ips\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/massive-cybercrime-crackdown-disrupts-over-22k-malicious-ips"
+            ]
+        },
+        {
+            "Message ID": 92272,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Why you should deploy modern multi-factor authentication\n\nDate: November 6, 2024\n\nSource: https://www.scworld.com/resource/why-you-should-deploy-modern-multi-factor-authentication\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/resource/why-you-should-deploy-modern-multi-factor-authentication"
             ]
         }
     ],
