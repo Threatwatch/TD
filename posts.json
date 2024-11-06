@@ -24781,6 +24781,19 @@
             "URLs": [
                 "https://x.com/FalconFeedsio/status/1853523810320060470?t=tNUZjvFI1uzxM7sMsjGu0Q&s=19"
             ]
+        },
+        {
+            "Message ID": 956,
+            "discovered": "2024-11-06",
+            "post_title": "Now we are in alliance with our friends.\nThe Url of our channels and our friends:\n\nhttps://t.me/Hunt3rkill3rs1\n\nhttps://t.me/AlAhadSecurity",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/Hunt3rkill3rs1",
+                "https://t.me/AlAhadSecurity"
+            ]
         }
     ],
     "Electronic Tigers Unit": [
@@ -71796,6 +71809,18 @@
             ],
             "URLs": [
                 "https://thehackernews.com/2024/11/interpols-operation-synergia-ii.html"
+            ]
+        },
+        {
+            "Message ID": 92227,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-9902\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9902\n\nDescription: A flaw was found in Ansible. The ansible-core `user` module can allow an unprivileged user to silently create or replace the contents of any file on any system path and take ownership of it when a privileged user executes the `user` module against the unprivileged user's home directory. If the unprivileged user has traversal permissions on the directory containing the exploited target file, they retain full control over the contents of the file as its owner.\n\nPublication Date: Wed Nov 06 14:07:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9902"
             ]
         }
     ],
