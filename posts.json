@@ -8706,6 +8706,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/liquid-blood-targeted-the-website-of-datagroup/"
             ]
+        },
+        {
+            "Message ID": 6459,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇺🇸A Threat Actor Allegedly Leaked Data of TransPerfect\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-transperfect/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-transperfect/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -73748,6 +73760,105 @@
             ],
             "URLs": [
                 "https://securityboulevard.com/2024/11/schneider-electric-hellcat-richixbw/"
+            ]
+        },
+        {
+            "Message ID": 92349,
+            "discovered": "2024-11-06",
+            "post_title": "Title: New Army Cyber Command AI tool shows promise in bolstering Pentagon network defenses\n\nDate: November 6, 2024\n\nSource: https://www.scworld.com/brief/new-army-cyber-command-ai-tool-shows-promise-in-bolstering-pentagon-network-defenses\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/new-army-cyber-command-ai-tool-shows-promise-in-bolstering-pentagon-network-defenses"
+            ]
+        },
+        {
+            "Message ID": 92348,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Updated Strela Stealer malware hits Germany, Spain\n\nDate: November 6, 2024\n\nSource: https://www.scworld.com/brief/updated-strela-stealer-malware-hits-germany-spain\n\n#News #Germany #Spain",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Germany",
+                "Spain",
+                "Spain"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/updated-strela-stealer-malware-hits-germany-spain"
+            ]
+        },
+        {
+            "Message ID": 92347,
+            "discovered": "2024-11-06",
+            "post_title": "Title: US jails real estate phisher\n\nDate: November 6, 2024\n\nSource: https://www.scworld.com/brief/us-jails-real-estate-phisher\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/us-jails-real-estate-phisher"
+            ]
+        },
+        {
+            "Message ID": 92346,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Dstat.cc DDoS platform disrupted in global crackdown\n\nDate: November 6, 2024\n\nSource: https://www.scworld.com/brief/dstat-cc-ddos-platform-disrupted-in-global-crackdown\n\n#News",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "Dstat.cc",
+                "https://www.scworld.com/brief/dstat-cc-ddos-platform-disrupted-in-global-crackdown"
+            ]
+        },
+        {
+            "Message ID": 92345,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Ransomware landscape dominated by RansomHub\n\nDate: November 6, 2024\n\nSource: https://www.scworld.com/brief/ransomware-landscape-dominated-by-ransomhub\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/ransomware-landscape-dominated-by-ransomhub"
+            ]
+        },
+        {
+            "Message ID": 92344,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-50335\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50335\n\nDescription: SuiteCRM is an open-source, enterprise-ready Customer Relationship Management (CRM) software application. The \"Publish Key\" field in SuiteCRM's Edit Profile page is vulnerable to Reflected Cross-Site Scripting (XSS), allowing an attacker to inject malicious JavaScript code. This can be exploited to steal CSRF tokens and perform unauthorized actions, such as creating new administrative users without proper authentication. The vulnerability arises due to insufficient input validation and sanitization of the Publish Key field within the SuiteCRM application. When an attacker injects a malicious script, it gets executed within the context of an authenticated user's session. The injected script (o.js) then leverages the captured CSRF token to forge requests that create new administrative users, effectively compromising the integrity and security of the CRM instance. This issue has been addressed in versions 7.14.6 and 8.7.1. Users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Wed Nov 06 22:08:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50335"
+            ]
+        },
+        {
+            "Message ID": 92343,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-6861\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-6861\n\nDescription: A disclosure of sensitive information flaw was found in foreman via the GraphQL API. If the introspection feature is enabled, it is possible for attackers to retrieve sensitive admin authentication keys which could result in a compromise of the entire product's API.\n\nPublication Date: Wed Nov 06 22:07:56 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-6861"
+            ]
+        },
+        {
+            "Message ID": 92342,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-37566\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37566\n\nDescription: Command injection vulnerability in ELECOM and LOGITEC wireless LAN routers allows a network-adjacent authenticated attacker to execute an arbitrary command by sending a specially crafted request to the web management page. Affected products and versions are as follows: WRC-1167GHBK3-A v1.24 and earlier, WRC-1167FEBK-A v1.18 and earlier, WRC-F1167ACF2 all versions, WRC-600GHBK-A all versions, WRC-733FEBK2-A all versions, WRC-1467GHBK-A all versions, WRC-1900GHBK-A all versions, and LAN-W301NR all versions.\n\nPublication Date: Wed Nov 06 22:07:45 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37566"
             ]
         }
     ],
