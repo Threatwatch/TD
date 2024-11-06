@@ -8694,6 +8694,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6458,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇺🇦Liquid Blood Targeted the Website of Datagroup\n\nhttps://darkwebinformer.com/liquid-blood-targeted-the-website-of-datagroup/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/liquid-blood-targeted-the-website-of-datagroup/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -36064,6 +36076,18 @@
             ],
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18411"
+            ]
+        },
+        {
+            "Message ID": 4099,
+            "discovered": "2024-11-06",
+            "post_title": "ID: 18434\n⚠ Wed, 06 Nov 2024 13:28:33 UTC\n🥷 play\n🎯 Smitty's Supply, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18434",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18434"
             ]
         }
     ],
