@@ -71423,6 +71423,18 @@
             "URLs": [
                 "https://isc.sans.edu/diary/rss/31408"
             ]
+        },
+        {
+            "Message ID": 92204,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Google Cloud to Enforce Multi-Factor Authentication by 2025 for All Users\n\nDate: Nov 06, 2024\n\nSource: https://thehackernews.com/2024/11/google-cloud-to-enforce-multi-factor.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/google-cloud-to-enforce-multi-factor.html"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
