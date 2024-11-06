@@ -8473,6 +8473,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-regional-government-of-ica/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6439,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇸🇦A Threat Actor Has Allegedly Leaked Data of Zakat,Tax and Customs Authority of Saudi Arabia\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-zakat-tax-and-customs-authority-of-saudi-arabia/\n\nThe threat actor alleges they have leaked access data of 2,774 users from Saudi Arabia's Zakat, Tax, and Customs Authority (ZATCA).",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Saudi Arabia's"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-zakat-tax-and-customs-authority-of-saudi-arabia/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -72454,6 +72466,191 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10914"
+            ]
+        },
+        {
+            "Message ID": 92271,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Germany drafts law to protect researchers who find security flaws\n\nDate: November 06, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/germany-drafts-law-to-protect-researchers-who-find-security-flaws/\n\n#News #Germany",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Germany",
+                "Germany"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/germany-drafts-law-to-protect-researchers-who-find-security-flaws/"
+            ]
+        },
+        {
+            "Message ID": 92270,
+            "discovered": "2024-11-06",
+            "post_title": "Victim: GSR Andrade Architects (gsr-andrade.com)\n\nDetection Date: Wed Nov 06 18:24:50 2024\n\nThreat Actor: fog\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "gsr-andrade.com"
+            ]
+        },
+        {
+            "Message ID": 92269,
+            "discovered": "2024-11-06",
+            "post_title": "Victim: Cape Cod Regional Technical High School (capetech.us)\n\nDetection Date: Wed Nov 06 18:24:37 2024\n\nThreat Actor: fog\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "capetech.us"
+            ]
+        },
+        {
+            "Message ID": 92268,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Practical usage of Sysdig OSS\n\nDate: November 6, 2024\n\nSource: https://sysdig.com/blog/practical-usage-of-sysdig-oss/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sysdig.com/blog/practical-usage-of-sysdig-oss/"
+            ]
+        },
+        {
+            "Message ID": 92267,
+            "discovered": "2024-11-06",
+            "post_title": "Title: [일본 애니메이션]とんでもスキルで異世界放浪メシ(터무니없는 스킬로 이세계 방랑 밥,2023)\n\nDate: November 6, 2024\n\nSource: https://wezard4u.tistory.com/429318\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "밥,2023"
+            ],
+            "URLs": [
+                "https://wezard4u.tistory.com/429318"
+            ]
+        },
+        {
+            "Message ID": 92266,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Shaking Up Security — The Power of AI-Native SOCs\n\nDate: November 6, 2024\n\nSource: https://www.paloaltonetworks.com/blog/2024/11/power-of-ai-native-socs/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.paloaltonetworks.com/blog/2024/11/power-of-ai-native-socs/"
+            ]
+        },
+        {
+            "Message ID": 92265,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2020-36780\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2020-36780\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ni2c: sprd: fix reference leak when pm_runtime_get_sync fails\n\nThe PM reference count is not expected to be incremented on\nreturn in sprd_i2c_master_xfer() and sprd_i2c_remove().\n\nHowever, pm_runtime_get_sync will increment the PM reference\ncount even failed. Forgetting to putting operation will result\nin a reference leak here.\n\nReplace it with pm_runtime_resume_and_get to keep usage\ncounter balanced.\n\nPublication Date: Wed Nov 06 18:02:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2020-36780"
+            ]
+        },
+        {
+            "Message ID": 92264,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-10081\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10081\n\nDescription: CodeChecker is an analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang Tidy. \nAuthentication bypass occurs when the API URL ends with Authentication. This bypass allows superuser access to all API endpoints other than Authentication. These endpoints include the ability to add, edit, and remove products, among others. All endpoints, apart from the /Authentication is affected by the vulnerability.\n\nThis issue affects CodeChecker: through 6.24.1.\n\nPublication Date: Wed Nov 06 18:02:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10081"
+            ]
+        },
+        {
+            "Message ID": 92263,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-42773\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-42773\n\nDescription: An Incorrect Access Control vulnerability was found in /admin/edit_room_controller.php in Kashipara Hotel Management System v1.0, which allows an unauthenticated attacker to edit the valid hotel room entries in the administrator section.\n\nPublication Date: Wed Nov 06 18:02:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-42773"
+            ]
+        },
+        {
+            "Message ID": 92262,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-10082\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10082\n\nDescription: CodeChecker is an analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang Tidy. \nAuthentication method confusion allows logging in as the built-in root user from an external service. The built-in root user up until 6.24.1 is generated in a weak manner, cannot be disabled, and has universal access.This vulnerability allows an attacker who can create an account on an enabled external authentication service, to log in as the root user, and access and control everything that can be controlled via the web interface. The attacker needs to acquire the username of the root user to be successful.\n\nThis issue affects CodeChecker: through 6.24.1.\n\nPublication Date: Wed Nov 06 18:01:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10082"
+            ]
+        },
+        {
+            "Message ID": 92261,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-40660\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-40660\n\nDescription: A flaw was found in OpenSC packages that allow a potential PIN bypass. When a token/card is authenticated by one process, it can perform cryptographic operations in other processes when an empty zero-length pin is passed. This issue poses a security risk, particularly for OS logon/screen unlock and for small, permanently connected tokens to computers. Additionally, the token can internally track login status. This flaw allows an attacker to gain unauthorized access, carry out malicious actions, or compromise the system without the user's awareness.\n\nPublication Date: Wed Nov 06 18:01:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-40660"
+            ]
+        },
+        {
+            "Message ID": 92260,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-40661\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-40661\n\nDescription: Several memory vulnerabilities were identified within the OpenSC packages, particularly in the card enrollment process using pkcs15-init when a user or administrator enrolls cards. To take advantage of these flaws, an attacker must have physical access to the computer system and employ a custom-crafted USB device or smart card to manipulate responses to APDUs. This manipulation can potentially allow \ncompromise key generation, certificate loading, and other card management operations during enrollment.\n\nPublication Date: Wed Nov 06 18:01:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-40661"
+            ]
+        },
+        {
+            "Message ID": 92259,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-21262\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-21262\n\nDescription: In startInput of AudioPolicyInterfaceImpl.cpp, there is a possible way of erroneously displaying the microphone privacy indicator due to a race condition. This could lead to false user expectations. User interaction is needed for exploitation.\n\nPublication Date: Wed Nov 06 18:01:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-21262"
+            ]
+        },
+        {
+            "Message ID": 92258,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-42670\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-42670\n\nDescription: A flaw was found in Samba. It is susceptible to a vulnerability where multiple incompatible RPC listeners can be initiated, causing disruptions in the AD DC service. When Samba's RPC server experiences a high load or unresponsiveness, servers intended for non-AD DC purposes (for example, NT4-emulation \"classic DCs\") can erroneously start and compete for the same unix domain sockets. This issue leads to partial query responses from the AD DC, causing issues such as \"The procedure number is out of range\" when using tools like Active Directory Users. This flaw allows an attacker to disrupt AD DC services.\n\nPublication Date: Wed Nov 06 18:01:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Samba",
+                "AD DC",
+                "the AD DC",
+                "AD DC"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-42670"
+            ]
+        },
+        {
+            "Message ID": 92257,
+            "discovered": "2024-11-06",
+            "post_title": "Target: https://phomakkhaeng.go.th\n\nNotified: 0xEv1lS0UL\n\nDate: Wed, 06 Nov 2024 14:55:29 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41295245\n\n#Defacements #Thailand",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://phomakkhaeng.go.th",
+                "http://www.zone-h.org/mirror/id/41295245"
             ]
         }
     ],
