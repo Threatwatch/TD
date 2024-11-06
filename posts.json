@@ -74504,6 +74504,43 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-32339"
             ]
+        },
+        {
+            "Message ID": 92394,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-21168\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21168\n\nDescription: Vulnerability in the JD Edwards EnterpriseOne Orchestrator product of Oracle JD Edwards (component: E1 IOT Orchestrator Security).  Supported versions that are affected are Prior to 9.2.8.3. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise JD Edwards EnterpriseOne Orchestrator.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all JD Edwards EnterpriseOne Orchestrator accessible data. CVSS 3.1 Base Score 6.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N).\n\nPublication Date: Thu Nov 07 00:37:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21168",
+                "9.2.8.3"
+            ]
+        },
+        {
+            "Message ID": 92393,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-26367\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-26367\n\nDescription: Cross Site Scripting vulnerability in Evertz microsystems MViP-II Firmware 8.6.5, XPS-EDGE-* Build 1467, evEDGE-EO-* Build 0029, MMA10G-* Build 0498, 570IPG-X19-10G Build 0691 allows a remote attacker to execute arbitrary code via a crafted payload to the login parameters.\n\nPublication Date: Thu Nov 07 00:37:02 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-26367"
+            ]
+        },
+        {
+            "Message ID": 92392,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-51751\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51751\n\nDescription: Gradio is an open-source Python package designed to enable quick builds of a demo or web application. If File or UploadButton components are used as a part of Gradio application to preview file content, an attacker with access to the application might abuse these components to read arbitrary files from the application server. This issue has been addressed in release version 5.5.0 and all users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Thu Nov 07 00:36:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51751"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
