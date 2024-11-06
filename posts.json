@@ -73880,6 +73880,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-37566"
             ]
+        },
+        {
+            "Message ID": 92350,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Cisco bug lets hackers run commands as root on UWRB access points\n\nDate: November 06, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/cisco-bug-lets-hackers-run-commands-as-root-on-uwrb-access-points/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/cisco-bug-lets-hackers-run-commands-as-root-on-uwrb-access-points/"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
