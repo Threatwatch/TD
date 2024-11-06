@@ -73353,6 +73353,18 @@
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/washington-courts-systems-offline-following-weekend-cyberattack/"
             ]
+        },
+        {
+            "Message ID": 92318,
+            "discovered": "2024-11-06",
+            "post_title": "Title: New SteelFox malware hijacks Windows PCs using vulnerable driver\n\nDate: November 06, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
