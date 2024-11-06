@@ -8449,6 +8449,30 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6438,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇸🇦A Threat Actor Has Allegedly Leaked the Data of Alrajhi Bank\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-alrajhi-bank/\n\nThe threat actor alleges they have leaked account access data of 17,342 users from Al Rajhi Bank in Saudi Arabia.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Saudi Arabia"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-alrajhi-bank/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6437,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇵🇪A Threat Actor Has Allegedly Leaked Data of Regional Government of Ica\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-regional-government-of-ica/\n\nThe threat actor claims to have leaked data from the Regional Government of Ica (Gobierno Regional de Ica), reportedly including administrative user credentials, payment records, and comprehensive information on all users.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-regional-government-of-ica/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
