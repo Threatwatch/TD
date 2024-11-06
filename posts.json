@@ -13226,6 +13226,24 @@
                 "способны"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 7180,
+            "discovered": "2024-11-06",
+            "post_title": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ  \n*\"فَقَاتِلْ فِي سَبِيلِ اللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ ۚ وَحَرِّضِ الْمُؤْمِنِينَ ۖ عَسَى اللَّهُ أَن يَكُفَّ بَأْسَ الَّذِينَ كَفَرُوا ۚ وَاللَّهُ أَشَدُّ بَأْسًا وَأَشَدُّ تَنكِيلًا\"*  \nصدق الله العظيم\n\nنعلن بعون الله انطلاق مجتمع المقاومة الإسلامية السيبرانية**، القلعة التي ستدمّر أركان \"دولة الوهم\" الإسرائيلية. سنُسطِّر على أيديكم البطولات، ونُعيد تعريف قوة الهجمات السيبرانية ضد هذا الكيان الباطل، حتى يكون درساً لا يُنسى لهم ولمن يساندهم.\n\n**DDOS Project - Cyber Islamic Resistance  \nمجتمعٌ خاصٌ، بُني ليكون نقطة انطلاق للهجمات الرقمية الموجهة بدقة ضد الاحتلال الإسرائيلي، ومركزاً لتعاونكم وجهودكم المباركة في سبيل الله.\n\n\n*رابط الانضمام:**  \n[https://t.me/+h98qUOV4xy04YmUy]\n\n#اننا_مدد_السماء\n\nIn the Name of Allah, the Most Merciful, the Most Compassionate  \n*\"Then fight in the cause of Allah; you are not held responsible except for yourself. And encourage the believers. It may be that Allah will restrain the might of those who disbelieve. And Allah is the strongest in might and severe in punishment.\"*  \n—The Holy Quran\n\nWe announce, by Allah’s grace, the launch of the Cyber Islamic Resistance Community**—a fortress poised to shatter the pillars of the so-called \"State of Illusion\" that is Israel. Together, we shall write the chronicles of heroism, redefining the impact of cyber warfare against this false entity, making it a lesson they and their supporters will not forget.\n\n**DDOS Project - Cyber Islamic Resistance  \nA special community established as a launchpad for precisely targeted digital attacks against the Israeli occupation. This center is a call to unite your blessed efforts in the cause of Allah.\n\nJoin Link:  \n[https://t.me/+h98qUOV4xy04YmUy]\n\n#WeAreHeavenlyAssistance\n\n---\n\nВо имя Аллаха, Милостивого и Милосердного  \n*\"Так сражайся на пути Аллаха; ты ответственен только за себя. И вдохновляй верующих. Возможно, Аллах удержит тех, кто не верует, и ослабит их силу. И поистине, Аллах силен и суров в наказании.\"*  \n—Священный Коран\n\nМы объявляем, с милости Аллаха, о запуске Киберсопротивления Исламской Резистенции**—крепости, которая разрушит колонны так называемого \"государства иллюзий\" Израиля. Вместе мы впишем страницы героизма и переосмыслим мощь кибератак против этой ложной сущности, преподнеся урок, который они и их сторонники запомнят навсегда.\n\n**DDOS Project - Cyber Islamic Resistance  \nСпециальное сообщество, созданное как платформа для точных цифровых атак против израильской оккупации, центр для объединения ваших благословенных усилий на пути Аллаха.\n\nСсылка на вступление:  \n[https://t.me/+h98qUOV4xy04YmUy]\n\n#Мы_помощь_с_небес",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Israel",
+                "Аллах",
+                "Аллах",
+                "Аллаха",
+                "платформа"
+            ],
+            "URLs": [
+                "https://t.me/+h98qUOV4xy04YmUy",
+                "https://t.me/+h98qUOV4xy04YmUy",
+                "https://t.me/+h98qUOV4xy04YmUy"
+            ]
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -71506,6 +71524,79 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9934"
+            ]
+        },
+        {
+            "Message ID": 92214,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-10020\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10020\n\nDescription: The Heateor Social Login WordPress plugin for WordPress is vulnerable to authentication bypass in all versions up to, and including, 1.1.35. This is due to insufficient verification on the user being returned by the social login token. This makes it possible for unauthenticated attackers to log in as any existing user on the site, if they have access to the email and the user does not have an already-existing account for the service returning the token. An attacker cannot authenticate as an administrator by default, but these accounts are also at risk if authentication for administrators has explicitly been allowed via the social login.\n\nPublication Date: Wed Nov 06 11:09:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10020"
+            ]
+        },
+        {
+            "Message ID": 92213,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-10535\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10535\n\nDescription: The Video Gallery for WooCommerce plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the remove_unused_thumbnails() function in all versions up to, and including, 1.31. This makes it possible for unauthenticated attackers to delete thumbnails in the video-wc-gallery-thumb directory.\n\nPublication Date: Wed Nov 06 11:09:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10535"
+            ]
+        },
+        {
+            "Message ID": 92212,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-10543\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10543\n\nDescription: The Tumult Hype Animations plugin for WordPress is vulnerable to unauthorized access of data due to a missing capability check on the hypeanimations_getcontent function in all versions up to, and including, 1.9.14. This makes it possible for authenticated attackers, with Subscriber-level access and above, to retrieve animation information.\n\nPublication Date: Wed Nov 06 11:09:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10543"
+            ]
+        },
+        {
+            "Message ID": 92211,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-6626\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-6626\n\nDescription: The EleForms – All In One Form Integration including DB for Elementor plugin for WordPress is vulnerable to unauthorized access of data due to a missing capability check on several functions in all versions up to, and including, 2.9.9.9. This makes it possible for unauthenticated attackers to view form submissions.\n\nPublication Date: Wed Nov 06 11:09:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-6626",
+                "2.9.9.9"
+            ]
+        },
+        {
+            "Message ID": 92210,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-9307\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9307\n\nDescription: The mFolio Lite plugin for WordPress is vulnerable to file uploads due to a missing capability check in all versions up to, and including, 1.2.1. This makes it possible for authenticated attackers, with Author-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file or upload arbitrary EXE files on the affected site's server which may make remote code execution possible if the attacker can also gain access to run the .exe file, or trick a site visitor into downloading and running the .exe file.\n\nPublication Date: Wed Nov 06 11:09:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9307"
+            ]
+        },
+        {
+            "Message ID": 92209,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-9946\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9946\n\nDescription: The Social Share, Social Login and Social Comments Plugin – Super Socializer plugin for WordPress is vulnerable to authentication bypass in all versions up to, and including, 7.13.68. This is due to insufficient verification on the user being returned by the social login token. This makes it possible for unauthenticated attackers to log in as any existing user on the site, if they have access to the email and the user does not have an already-existing account for the service returning the token. An attacker cannot authenticate as an administrator by default, but these accounts are also at risk if authentication for administrators has explicitly been allowed via the social login. The vulnerability was partially patched in version 7.13.68.\n\nPublication Date: Wed Nov 06 11:09:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9946"
             ]
         }
     ],
