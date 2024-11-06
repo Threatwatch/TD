@@ -74663,6 +74663,91 @@
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-48809",
                 "https://github.com/onosproject/sdran-in-a-box/issues/206"
             ]
+        },
+        {
+            "Message ID": 92410,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-50340\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50340\n\nDescription: symfony/runtime is a module for the Symphony PHP framework which enables decoupling PHP applications from global state. When the `register_argv_argc` php directive is set to `on` , and users call any URL with a special crafted query string, they are able to change the environment or debug mode used by the kernel when handling the request. As of versions 5.4.46, 6.4.14, and 7.1.7 the `SymfonyRuntime` now ignores the `argv` values for non-SAPI PHP runtimes. All users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Thu Nov 07 01:24:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50340"
+            ]
+        },
+        {
+            "Message ID": 92409,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-50341\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50341\n\nDescription: symfony/security-bundle is a module for the Symphony PHP framework which provides a tight integration of the Security component into the Symfony full-stack framework. The custom `user_checker` defined on a firewall is not called when Login Programmaticaly with the `Security::login` method, leading to  unwanted login. As of versions 6.4.10, 7.0.10 and 7.1.3 the `Security::login` method now ensure to call the configured `user_checker`. All users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Thu Nov 07 01:23:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50341"
+            ]
+        },
+        {
+            "Message ID": 92408,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-50342\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50342\n\nDescription: symfony/http-client is a module for the Symphony PHP framework which provides powerful methods to fetch HTTP resources synchronously or asynchronously. When using the `NoPrivateNetworkHttpClient`, some internal information is still leaking during host resolution, which leads to possible IP/port enumeration. As of versions 5.4.46, 6.4.14, and 7.1.7 the `NoPrivateNetworkHttpClient` now filters blocked IPs earlier to prevent such leaks. All users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Thu Nov 07 01:23:39 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50342"
+            ]
+        },
+        {
+            "Message ID": 92407,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-50343\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50343\n\nDescription: symfony/validator is a module for the Symphony PHP framework which provides tools to validate values. It is possible to trick a `Validator` configured with a regular expression using the `$` metacharacters, with an input ending with `\\n`. Symfony as of versions 5.4.43, 6.4.11, and 7.1.4 now uses the `D` regex modifier to match the entire input. Users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Thu Nov 07 01:23:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50343"
+            ]
+        },
+        {
+            "Message ID": 92406,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-50345\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50345\n\nDescription: symfony/http-foundation is a module for the Symphony PHP framework which defines an object-oriented layer for the HTTP specification. The `Request` class, does not parse URI with special characters the same way browsers do. As a result, an attacker can trick a validator relying on the `Request` class to redirect users to another domain. The `Request::create` methods now assert the URI does not contain invalid characters as defined by https://url.spec.whatwg.org/. This issue has been patched in versions 5.4.46, 6.4.14, and 7.1.7. Users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Thu Nov 07 01:23:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50345",
+                "https://url.spec.whatwg.org/"
+            ]
+        },
+        {
+            "Message ID": 92405,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-51736\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51736\n\nDescription: Symphony process is a module for the Symphony PHP framework which executes commands in sub-processes. On Windows, when an executable file named `cmd.exe` is located in the current working directory it will be called by the `Process` class when preparing command arguments, leading to possible hijacking. This issue has been addressed in release versions 5.4.46, 6.4.14, and 7.1.7. Users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Thu Nov 07 01:23:06 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51736"
+            ]
+        },
+        {
+            "Message ID": 92404,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-36002\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-36002\n\nDescription: A missing authorization check in multiple URL validation endpoints of the Insider Threat Management Server enables an anonymous attacker on an adjacent network to smuggle content via DNS lookups. All versions before 7.14.3 are affected.\n\nPublication Date: Thu Nov 07 01:22:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-36002"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
