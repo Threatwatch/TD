@@ -8618,6 +8618,42 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-tindi-network/"
             ]
+        },
+        {
+            "Message ID": 6453,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇦🇷A Threat Actor Has Allegedly Leaked Data of Argentina Citizens\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-argentina-citizens/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-argentina-citizens/"
+            ]
+        },
+        {
+            "Message ID": 6452,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🗺ANONYMOUS MUSLIMS Targeted Multiple Websites\n\nhttps://darkwebinformer.com/anonymous-muslims-targeted-multiple-websites/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://darkwebinformer.com/anonymous-muslims-targeted-multiple-websites/"
+            ]
+        },
+        {
+            "Message ID": 6451,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇱🇰888 Has Allegedly Leaked the Data of Abans Group\n\nhttps://darkwebinformer.com/888-has-allegedly-leaked-the-data-of-abans-group/\n\nThe threat actor alleges they have leaked a database from Abans Group, reportedly containing data on 110,000 users. The information includes names, emails, phone numbers, addresses, dates of birth, tax details, and more.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/888-has-allegedly-leaked-the-data-of-abans-group/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -73364,6 +73400,266 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/"
+            ]
+        },
+        {
+            "Message ID": 92339,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-45164\n\nDescription: Akamai SIA (Secure Internet Access Enterprise) ThreatAvert, in SPS (Security and Personalization Services) before the latest 19.2.0 patch and Apps Portal before 19.2.0.3 or 19.2.0.20240814, has incorrect authorization controls for the Admin functionality on the ThreatAvert Policy page. An authenticated user can navigate directly to the /#app/intelligence/threatAvertPolicies URI and disable policy enforcement.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-45164\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://notes.netbytesec.com/2024/11/cve-2024-45164-broken-access-control.html\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "19.2.0.3",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45164",
+                "https://notes.netbytesec.com/2024/11/cve-2024-45164-broken-access-control.html"
+            ]
+        },
+        {
+            "Message ID": 92338,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-10372\n\nDescription: A vulnerability classified as problematic was found in chidiwilliams buzz 1.1.0. This vulnerability affects the function download_model of the file buzz/model_loader.py. The manipulation leads to insecure temporary file. It is possible to launch the attack on the local host. The complexity of an attack is rather high. The exploitation appears to be difficult. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10372\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://github.com/Startr4ck/CVE_lists/blob/main/buzz/Insecure%20Temporary%20File%20in%20BUZZ.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10372",
+                "https://github.com/Startr4ck/CVE_lists/blob/main/buzz/Insecure%20Temporary%20File%20in%20BUZZ.md"
+            ]
+        },
+        {
+            "Message ID": 92337,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-10597\n\nDescription: A vulnerability classified as critical has been found in ESAFENET CDG 5. This affects the function delPolicyAction of the file /com/esafenet/servlet/system/PolicyActionService.java. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10597\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://flowus.cn/share/380bcc9d-95ae-4576-b3df-bf3b06f1c5cd?code=G8A6P3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "PolicyActionService.java",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10597",
+                "https://flowus.cn/share/380bcc9d-95ae-4576-b3df-bf3b06f1c5cd?code=G8A6P3"
+            ]
+        },
+        {
+            "Message ID": 92336,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-10505\n\nDescription: A vulnerability was found in wuzhicms 4.1.0. It has been classified as critical. Affected is the function add/edit of the file www/coreframe/app/content/admin/block.php. The manipulation leads to code injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. Initially two separate issues were created by the researcher for the different function calls. The vendor was contacted early about this disclosure but did not respond in any way.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10505\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://github.com/wuzhicms/wuzhicms/issues/209\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10505",
+                "https://github.com/wuzhicms/wuzhicms/issues/209"
+            ]
+        },
+        {
+            "Message ID": 92335,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Winos 4.0 Malware Infects Gamers Through Malicious Game Optimization Apps\n\nDate: Nov 06, 2024\n\nSource: https://thehackernews.com/2024/11/new-winos-40-malware-infects-gamers.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/new-winos-40-malware-infects-gamers.html"
+            ]
+        },
+        {
+            "Message ID": 92334,
+            "discovered": "2024-11-06",
+            "post_title": "Title: VEILDrive Attack Exploits Microsoft Services to Evade Detection and Distribute Malware\n\nDate: Nov 06, 2024\n\nSource: https://thehackernews.com/2024/11/veildrive-attack-exploits-microsoft.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Evade Detection"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/veildrive-attack-exploits-microsoft.html"
+            ]
+        },
+        {
+            "Message ID": 92333,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-50637\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50637\n\nDescription: UnoPim 0.1.3 and below is vulnerable to Cross Site Scripting (XSS) in the Create User function. ¶¶ The vulnerability allows attackers to perform XSS in SVG file extension, which can be used to stealing cookies.\n\nPublication Date: Wed Nov 06 21:11:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS",
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50637"
+            ]
+        },
+        {
+            "Message ID": 92332,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-36474\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-36474\n\nDescription: Interactsh is an open-source tool for detecting out-of-band interactions. Domains configured with interactsh server prior to version 1.0.0 were vulnerable to subdomain takeover for a specific subdomain, i.e `app.` Interactsh server used to create cname entries for `app` pointing to `projectdiscovery.github.io` as default, which intended to used for hosting interactsh web client using GitHub pages. This is a security issue with a self-hosted interactsh server in which the user may not have configured a web client but still have a CNAME entry pointing to GitHub pages, making them vulnerable to subdomain takeover. This allows a threat actor to host / run arbitrary client side code (cross-site scripting) in a user's browser when browsing the vulnerable subdomain. Version 1.0.0 fixes this issue by making CNAME optional, rather than default.\n\nPublication Date: Wed Nov 06 21:11:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-36474"
+            ]
+        },
+        {
+            "Message ID": 92331,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-20907\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20907\n\nDescription: Vulnerability in the Oracle Web Applications Desktop Integrator product of Oracle E-Business Suite (component: File download).  Supported versions that are affected are 12.2.3-12.2.13. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Web Applications Desktop Integrator.  Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Oracle Web Applications Desktop Integrator, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in  unauthorized update, insert or delete access to some of Oracle Web Applications Desktop Integrator accessible data as well as  unauthorized read access to a subset of Oracle Web Applications Desktop Integrator accessible data. CVSS 3.1 Base Score 6.1 (Confidentiality and Integrity impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N).\n\nPublication Date: Wed Nov 06 21:10:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20907"
+            ]
+        },
+        {
+            "Message ID": 92330,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-38593\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38593\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: micrel: Fix receiving the timestamp in the frame for lan8841\n\nThe blamed commit started to use the ptp workqueue to get the second\npart of the timestamp. And when the port was set down, then this\nworkqueue is stopped. But if the config option NETWORK_PHY_TIMESTAMPING\nis not enabled, then the ptp_clock is not initialized so then it would\ncrash when it would try to access the delayed work.\nSo then basically by setting up and then down the port, it would crash.\nThe fix consists in checking if the ptp_clock is initialized and only\nthen cancel the delayed work.\n\nPublication Date: Wed Nov 06 21:10:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38593"
+            ]
+        },
+        {
+            "Message ID": 92329,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-36467\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-36467\n\nDescription: AWS data.all is an open source development framework to help users build a data marketplace on Amazon Web Services. data.all versions 1.2.0 through 1.5.1 do not prevent remote code execution when a user injects Python commands into the ‘Template’ field when configuring a data pipeline. The issue can only be triggered by authenticated users. A fix for this issue is available in data.all version 1.5.2 and later. There is no recommended work around.\n\nPublication Date: Wed Nov 06 21:10:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-36467"
+            ]
+        },
+        {
+            "Message ID": 92328,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-20536\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20536\n\nDescription: A vulnerability in a REST API endpoint and web-based management interface of Cisco Nexus Dashboard Fabric Controller (NDFC) could allow an authenticated, remote attacker with read-only privileges to execute arbitrary SQL commands on an affected device.\n\nThis vulnerability is due to insufficient validation of user-supplied input. An attacker could exploit this vulnerability by sending a crafted request to a specific REST API endpoint or web-based management interface. A successful exploit could allow the attacker to read, modify, or delete arbitrary data on an internal database, which could affect the availability of the device.&nbsp;\n\nPublication Date: Wed Nov 06 21:10:26 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20536"
+            ]
+        },
+        {
+            "Message ID": 92327,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-50315\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50315\n\nDescription: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: The CNA or individual who requested this candidate did not associate it with any vulnerability during 2024. Notes: none.\n\nPublication Date: Wed Nov 06 21:10:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50315"
+            ]
+        },
+        {
+            "Message ID": 92326,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-35164\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35164\n\nDescription: DataEase is an open source data visualization analysis tool to analyze data and gain insight into business trends. In affected versions a missing authorization check allows unauthorized users to manipulate a dashboard created by the administrator. This vulnerability has been fixed in version 1.18.8. Users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Wed Nov 06 21:10:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35164"
+            ]
+        },
+        {
+            "Message ID": 92325,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-20484\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20484\n\nDescription: A vulnerability in the External Agent Assignment Service (EAAS) feature of Cisco Enterprise Chat and Email (ECE) could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition on an affected device.\n\nThis vulnerability is due to insufficient validation of Media Routing Peripheral Interface Manager (MR PIM) traffic that is received by an affected device. An attacker could exploit this vulnerability by sending crafted MR PIM traffic to an affected device. A successful exploit could allow the attacker to trigger a failure on the MR PIM connection between Cisco ECE and Cisco Unified Contact Center Enterprise (CCE), leading to a DoS condition on EAAS that would prevent customers from starting chat, callback, or delayed callback sessions. Note: When the attack traffic stops, the EAAS process must be manually restarted to restore normal operation. To restart the process in the System Console, choose Shared Resources > Services > Unified CCE > EAAS, then click Start.\n\nPublication Date: Wed Nov 06 21:09:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20484"
+            ]
+        },
+        {
+            "Message ID": 92324,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-20371\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20371\n\nDescription: A vulnerability in the access control list (ACL) programming of Cisco Nexus 3550-F Switches could allow an unauthenticated, remote attacker to send traffic that should be blocked to the management interface of an affected device.&nbsp;\n\nThis vulnerability exists because ACL deny rules are not properly enforced at the time of device reboot. An attacker could exploit this vulnerability by attempting to send traffic to the management interface of an affected device. A successful exploit could allow the attacker to send traffic to the management interface of the affected device.\n\nPublication Date: Wed Nov 06 21:09:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20371"
+            ]
+        },
+        {
+            "Message ID": 92323,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-34463\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34463\n\nDescription: DataEase is an open source data visualization analysis tool to analyze data and gain insight into business trends. In affected versions Unauthorized users can delete an application erroneously. This vulnerability has been fixed in version 1.18.8. Users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Wed Nov 06 21:09:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34463"
+            ]
+        },
+        {
+            "Message ID": 92322,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2021-0948\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-0948\n\nDescription: The PVRSRVBridgeGetMultiCoreInfo ioctl in the PowerVR kernel driver can return uninitialized kernel memory to user space. The contents of this memory could contain sensitive information.\n\nPublication Date: Wed Nov 06 21:09:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-0948"
+            ]
+        },
+        {
+            "Message ID": 92321,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-35168\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35168\n\nDescription: DataEase is an open source data visualization analysis tool to analyze data and gain insight into business trends. Affected versions of DataEase has a privilege bypass vulnerability where ordinary users can gain access to the user database. Exposed information includes md5 hashes of passwords, username, email, and phone number. The vulnerability has been fixed in v1.18.8. Users are advised to upgrade. There are no known workarounds for the vulnerability.\n\nPublication Date: Wed Nov 06 21:09:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35168"
+            ]
+        },
+        {
+            "Message ID": 92320,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-20445\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20445\n\nDescription: A vulnerability in the web UI of Cisco Desk Phone 9800 Series, Cisco IP Phone 7800 and 8800 Series, and Cisco Video Phone 8875 could allow an unauthenticated, remote attacker to access sensitive information on an affected device.\n\nThis vulnerability is due to improper storage of sensitive information within the web UI of Session Initiation Protocol (SIP)-based phone loads. An attacker could exploit this vulnerability by browsing to the IP address of a device that has Web Access enabled. A successful exploit could allow the attacker to access sensitive information, including incoming and outgoing call records.\nNote: Web Access is disabled by default.\n\nPublication Date: Wed Nov 06 21:08:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Cisco"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20445"
+            ]
+        },
+        {
+            "Message ID": 92319,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-21247\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-21247\n\nDescription: In getAvailabilityStatus of BluetoothScanningMainSwitchPreferenceController.java, there is a possible way to bypass a device policy restriction due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Wed Nov 06 21:08:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-21247",
+                "BluetoothScanningMainSwitchPreferenceController.java"
             ]
         }
     ],
