@@ -15223,6 +15223,19 @@
             "URLs": [
                 "tps://gillfoundation.org/  "
             ]
+        },
+        {
+            "Message ID": 5339,
+            "discovered": "2024-11-06",
+            "post_title": "Previous Fascist Government was overthrown by the effort and Blood of the students and civilians.\n\nThe Revolution brought the end of Fascist rule in Bangladesh, People have rejected it. It can't come into power until people believe it again.\n\nThe fate of Bangladesh cannot be decided depending on another countries election, Nor Trump nor Harris Kamala can decide what will happen in Bangladesh, What will Bangladesh do next.\n\nThe decision of Bangladeshi Internal and external affairs depend on it's own people",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Bangladesh",
+                "Bangladesh",
+                "Bangladesh",
+                "Bangladesh"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -72347,6 +72360,42 @@
             ],
             "URLs": [
                 "https://www.malwarebytes.com/blog/news/2024/11/update-your-android-google-patches-two-zero-day-vulnerabilities"
+            ]
+        },
+        {
+            "Message ID": 92256,
+            "discovered": "2024-11-06",
+            "post_title": "Title: New Winos 4.0 Malware Infects Gamers Through Malicious Game Optimization Apps\n\nDate: Nov 06, 2024\n\nSource: https://thehackernews.com/2024/11/new-winos-40-malware-infects-gamers.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/new-winos-40-malware-infects-gamers.html"
+            ]
+        },
+        {
+            "Message ID": 92255,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-10186\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10186\n\nDescription: The Event post plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's events_cal shortcode in all versions up to, and including, 5.9.6 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Wed Nov 06 17:10:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10186"
+            ]
+        },
+        {
+            "Message ID": 92254,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-10914\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10914\n\nDescription: A vulnerability was found in D-Link DNS-320, DNS-320LW, DNS-325 and DNS-340L up to 20241028. It has been declared as critical. Affected by this vulnerability is the function cgi_user_add of the file /cgi-bin/account_mgr.cgi?cmd=cgi_user_add. The manipulation of the argument name leads to os command injection. The attack can be launched remotely. The complexity of an attack is rather high. The exploitation appears to be difficult. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Wed Nov 06 17:10:11 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "DNS-325"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10914"
             ]
         }
     ],
