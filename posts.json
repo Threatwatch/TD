@@ -8654,6 +8654,46 @@
             "URLs": [
                 "ps://darkwebinformer.com/888-has-allegedly-leaked-the-data-of-abans-group/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6457,
+            "discovered": "2024-11-06",
+            "post_title": null,
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6456,
+            "discovered": "2024-11-06",
+            "post_title": "life is too short to be mad mate",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6455,
+            "discovered": "2024-11-06",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6454,
+            "discovered": "2024-11-06",
+            "post_title": "💡If you're a company, and want to roll your ad on my platform or even have a sponsored post. Reach out to me on my socials and we can discuss a $ figure.\n\nBelow is the last 30 days of stats on my platform and the all time stats of the platform. Keep in mind it launched July 25.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -73660,6 +73700,30 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-21247",
                 "BluetoothScanningMainSwitchPreferenceController.java"
+            ]
+        },
+        {
+            "Message ID": 92341,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Cisco security advisory (AV24-635)\n\nDate: November 6, 2024\n\nSource: https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-635\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av24-635"
+            ]
+        },
+        {
+            "Message ID": 92340,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Schneider Electric Confirms Ransom Hack — Hellcat Demands French Bread as ‘Joke’\n\nDate: November 6, 2024\n\nSource: https://securityboulevard.com/2024/11/schneider-electric-hellcat-richixbw/\n\n#News #France",
+            "Attack Type": "Hacking",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "https://securityboulevard.com/2024/11/schneider-electric-hellcat-richixbw/"
             ]
         }
     ],
