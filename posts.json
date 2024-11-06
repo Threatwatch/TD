@@ -15211,6 +15211,18 @@
                 "ttps://www.wattpad.com/\n",
                 "ttps://check-host.net/check-report/2000cd93k11d\n"
             ]
+        },
+        {
+            "Message ID": 5338,
+            "discovered": "2024-11-06",
+            "post_title": "We have successfully taken down the web server of a prominent LGBTQ+ advocacy organization. The website is currently unavailable due to a technical disruption. ⚠️💥  \n  \n🎯 Target Details:  \nServer: https://gillfoundation.org/  \nStatus: 🚫 502 Bad Gateway  \nReport: 💥 Check Report\n   \nGreatz: F07xD01xKVN \n\n  \nMagician of the madness : VulcanC2",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://gillfoundation.org/  "
+            ]
         }
     ],
     "Hackmanac Cyber News": [
@@ -71723,6 +71735,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-8615"
+            ]
+        },
+        {
+            "Message ID": 92223,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Release Notes: TI Lookup Notifications, Upgraded Linux Sandbox, STIX Reports, and More\n\nDate: November 6, 2024\n\nSource: https://any.run/cybersecurity-blog/release-notes-october-2024/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://any.run/cybersecurity-blog/release-notes-october-2024/"
             ]
         }
     ],
