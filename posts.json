@@ -8411,6 +8411,34 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6435,
+            "discovered": "2024-11-06",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6434,
+            "discovered": "2024-11-06",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-11-06 03:12:19\n🚨 Title: Database of Spotify Indonesia allegedly leaked\n🛡️ Victim Country: Sweden\n🏭 Victim Industry: Music\n🏢 Victim Organization: spotify\n🌐 Victim Site: spotify.com\n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: TIKUS_BERDASI\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-DATABASE-INDONESIAN-SPOTIFY-DATABASE-leaked-download\n📝 Description: The threat actor claims to have leaked database of Spotify Indonesia.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Spotify",
+                "Indonesia",
+                "Sweden",
+                "Spotify",
+                "Indonesia"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                ".com\n📜 Cate",
+                "achforums.st/Thread-DATABASE-INDONESIAN-SPOTIFY-DATABASE-leaked-download\n📝 Descript"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -70989,6 +71017,32 @@
             ],
             "URLs": [
                 "https://www.nextgov.com/cybersecurity/2024/11/cisa-has-no-data-supporting-claims-election-cheating-official-says/400856/"
+            ]
+        },
+        {
+            "Message ID": 92181,
+            "discovered": "2024-11-06",
+            "post_title": "Title: ISC Stormcast For Wednesday, November 6th, 2024 https://isc.sans.edu/podcastdetail/9210, (Wed, Nov 6th)\n\nDate: November 6, 2024\n\nSource: https://isc.sans.edu/diary/rss/31416\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/podcastdetail/9210",
+                "https://isc.sans.edu/diary/rss/31416"
+            ]
+        },
+        {
+            "Message ID": 92180,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Snowflake data theft suspect arrested in Canada\n\nDate: November 6, 2024\n\nSource: https://www.scworld.com/news/snowflake-data-theft-suspect-arrested-in-canada\n\n#News #Canada",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Canada",
+                "Canada"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/snowflake-data-theft-suspect-arrested-in-canada"
             ]
         }
     ],
