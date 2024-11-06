@@ -8391,6 +8391,26 @@
             "URLs": [
                 "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-november-5th-2024/"
             ]
+        },
+        {
+            "Message ID": 6433,
+            "discovered": "2024-11-06",
+            "post_title": "IntelBroker had 65 votes and pryx had 67 votes. pryx will be next and then if IB is cool with it he will be after pryx.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "IB"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 6432,
+            "discovered": "2024-11-06",
+            "post_title": "💡I have started adding the status column to the different categories in the subscribers area. The status will auto update when a site goes up or goes down. The Darknet Markets are done for right now. The mirrors will be added after ensuring no false positives (which there are currently some) and then everything else will be done in the subscribers area. The forums status light is currently wrong and will be fixed. Example screenshot of what I mean.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -30754,6 +30774,46 @@
             "Message ID": 3487,
             "discovered": "2024-11-05",
             "post_title": "Group: play\nApprox. Time: 22:38 05/11/24\nTitle: Dome Construction",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3493,
+            "discovered": "2024-11-06",
+            "post_title": "Group: play\nApprox. Time: 00:35 06/11/24\nTitle: Smitty's Supply",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3492,
+            "discovered": "2024-11-06",
+            "post_title": "Group: play\nApprox. Time: 00:35 06/11/24\nTitle: S & W Kitchens",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3491,
+            "discovered": "2024-11-06",
+            "post_title": "Group: play\nApprox. Time: 00:35 06/11/24\nTitle: Paragon Plastics",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3490,
+            "discovered": "2024-11-06",
+            "post_title": "Group: play\nApprox. Time: 00:35 06/11/24\nTitle: Delfin Design & Manufacturing",
             "Attack Type": "Unknown",
             "Location": [
                 "Approx"
@@ -70917,6 +70977,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10028"
+            ]
+        },
+        {
+            "Message ID": 92179,
+            "discovered": "2024-11-06",
+            "post_title": "Title: CISA has no data supporting claims of election cheating, official says\n\nDate: November 6, 2024\n\nSource: https://www.nextgov.com/cybersecurity/2024/11/cisa-has-no-data-supporting-claims-election-cheating-official-says/400856/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.nextgov.com/cybersecurity/2024/11/cisa-has-no-data-supporting-claims-election-cheating-official-says/400856/"
             ]
         }
     ],
