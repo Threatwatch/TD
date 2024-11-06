@@ -8439,6 +8439,16 @@
                 ".com\n📜 Cate",
                 "achforums.st/Thread-DATABASE-INDONESIAN-SPOTIFY-DATABASE-leaked-download\n📝 Descript"
             ]
+        },
+        {
+            "Message ID": 6436,
+            "discovered": "2024-11-06",
+            "post_title": "🚀🚀🚀 Bitcoin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -30842,6 +30852,16 @@
             "Message ID": 3490,
             "discovered": "2024-11-06",
             "post_title": "Group: play\nApprox. Time: 00:35 06/11/24\nTitle: Delfin Design & Manufacturing",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3494,
+            "discovered": "2024-11-06",
+            "post_title": "Group: lynx\nApprox. Time: 02:57 06/11/24\nTitle: LmayInteroute agency",
             "Attack Type": "Unknown",
             "Location": [
                 "Approx"
@@ -71043,6 +71063,255 @@
             ],
             "URLs": [
                 "https://www.scworld.com/news/snowflake-data-theft-suspect-arrested-in-canada"
+            ]
+        },
+        {
+            "Message ID": 92201,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-10647\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10647\n\nDescription: The WS Form LITE – Drag & Drop Contact Form Builder for WordPress plugin for WordPress is vulnerable to Reflected Cross-Site Scripting due to the use of remove_query_arg without appropriate escaping on the URL in all versions up to, and including, 1.9.244. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.\n\nPublication Date: Wed Nov 06 06:13:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10647"
+            ]
+        },
+        {
+            "Message ID": 92200,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-34673\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34673\n\nDescription: Improper Input Validation in IpcProtocol in Modem prior to SMR Nov-2024 Release 1 allows local attackers to cause Denial-of-Service.\n\nPublication Date: Wed Nov 06 06:13:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "IpcProtocol",
+                "Modem"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34673"
+            ]
+        },
+        {
+            "Message ID": 92199,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-34674\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34674\n\nDescription: Improper access control in Contacts prior to SMR Nov-2024 Release 1 allows physical attackers to access data across multiple user profiles.\n\nPublication Date: Wed Nov 06 06:13:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34674"
+            ]
+        },
+        {
+            "Message ID": 92198,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-34675\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34675\n\nDescription: Improper access control in Dex Mode prior to SMR Nov-2024 Release 1 allows physical attackers to temporarily access to unlocked screen.\n\nPublication Date: Wed Nov 06 06:13:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34675"
+            ]
+        },
+        {
+            "Message ID": 92197,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-34676\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34676\n\nDescription: Out-of-bounds write in parsing subtitle file in libsubextractor.so prior to SMR Nov-2024 Release 1 allows local attackers to cause memory corruption. User interaction is required for triggering this vulnerability.\n\nPublication Date: Wed Nov 06 06:13:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34676",
+                "libsubextractor.so"
+            ]
+        },
+        {
+            "Message ID": 92196,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-34677\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34677\n\nDescription: Exposure of sensitive information in System UI prior to SMR Nov-2024 Release 1 allow local attackers to make malicious apps appear as legitimate.\n\nPublication Date: Wed Nov 06 06:12:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34677"
+            ]
+        },
+        {
+            "Message ID": 92195,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-34678\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34678\n\nDescription: Out-of-bounds write in libsapeextractor.so prior to SMR Nov-2024 Release 1 allows local attackers to cause memory corruption.\n\nPublication Date: Wed Nov 06 06:12:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34678",
+                "libsapeextractor.so"
+            ]
+        },
+        {
+            "Message ID": 92194,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-34679\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34679\n\nDescription: Incorrect default permissions in Crane prior to SMR Nov-2024 Release 1 allows local attackers to access files with phone privilege.\n\nPublication Date: Wed Nov 06 06:12:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34679"
+            ]
+        },
+        {
+            "Message ID": 92193,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-34680\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34680\n\nDescription: Use of implicit intent for sensitive communication in WlanTest prior to SMR Nov-2024 Release 1 allows local attackers to get sensitive information.\n\nPublication Date: Wed Nov 06 06:12:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34680"
+            ]
+        },
+        {
+            "Message ID": 92192,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-34681\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34681\n\nDescription: Improper input validation in BluetoothAdapter prior to SMR Nov-2024 Release 1 allows local attackers to cause local permanent denial of service on Galaxy Watch.\n\nPublication Date: Wed Nov 06 06:12:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34681"
+            ]
+        },
+        {
+            "Message ID": 92191,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-34682\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34682\n\nDescription: Improper authorization in Settings prior to SMR Nov-2024 Release 1 allows physical attackers to access stored WiFi password in Maintenance Mode.\n\nPublication Date: Wed Nov 06 06:11:58 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34682"
+            ]
+        },
+        {
+            "Message ID": 92190,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-49401\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49401\n\nDescription: Improper input validation in Settings Suggestions prior to SMR Nov-2024 Release 1 allows local attackers to launch privileged activities.\n\nPublication Date: Wed Nov 06 06:11:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49401"
+            ]
+        },
+        {
+            "Message ID": 92189,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-49402\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49402\n\nDescription: Improper input validation in Dressroom prior to SMR Nov-2024 Release 1 allow physical attackers to access data across multiple user profiles.\n\nPublication Date: Wed Nov 06 06:11:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49402"
+            ]
+        },
+        {
+            "Message ID": 92188,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-49403\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49403\n\nDescription: Improper access control in Samsung Voice Recorder prior to version 21.5.40.37 allows physical attackers to access recording files on the lock screen.\n\nPublication Date: Wed Nov 06 06:11:25 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49403",
+                "21.5.40.37"
+            ]
+        },
+        {
+            "Message ID": 92187,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-49404\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49404\n\nDescription: Improper Access Control in Samsung Video Player prior to versions 7.3.29.1 in Android 12, 7.3.36.1 in Android 13, and 7.3.41.230 in Android 14 allows physical attackers to access video file of other users.\n\nPublication Date: Wed Nov 06 06:11:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Android",
+                "Android"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49404",
+                "7.3.29.1",
+                "7.3.36.1",
+                "7.3.41.230"
+            ]
+        },
+        {
+            "Message ID": 92186,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-49405\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49405\n\nDescription: Improper authentication in Private Info in Samsung Pass in prior to version 4.4.04.7 allows physical attackers to access sensitive information in a specific scenario.\n\nPublication Date: Wed Nov 06 06:11:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Samsung Pass"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49405"
+            ]
+        },
+        {
+            "Message ID": 92185,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-49406\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49406\n\nDescription: Improper validation of integrity check value in Blockchain Keystore prior to version 1.3.16 allows local attackers to modify transaction. Root privilege is required for triggering this vulnerability.\n\nPublication Date: Wed Nov 06 06:10:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Blockchain Keystore"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49406"
+            ]
+        },
+        {
+            "Message ID": 92184,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-49407\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49407\n\nDescription: Improper access control in Samsung Flow prior to version 4.9.15.7 allows physical attackers to access data across multiple user profiles.\n\nPublication Date: Wed Nov 06 06:10:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Samsung Flow"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49407",
+                "4.9.15.7"
+            ]
+        },
+        {
+            "Message ID": 92183,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-49408\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49408\n\nDescription: Out-of-bounds write in usb driver prior to Firmware update Sep-2024 Release on Galaxy S24 allows local attackers to write out-of-bounds memory. System privilege is required for triggering this vulnerability.\n\nPublication Date: Wed Nov 06 06:10:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49408"
+            ]
+        },
+        {
+            "Message ID": 92182,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-49409\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49409\n\nDescription: Out-of-bounds write in Battery Full Capacity node prior to Firmware update Sep-2024 Release on Galaxy S24 allows local attackers to write out-of-bounds memory. System privilege is required for triggering this vulnerability.\n\nPublication Date: Wed Nov 06 06:10:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49409"
             ]
         }
     ],
