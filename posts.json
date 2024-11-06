@@ -36169,6 +36169,32 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18434"
             ]
+        },
+        {
+            "Message ID": 4101,
+            "discovered": "2024-11-06",
+            "post_title": "ID: 18436\n⚠ Wed, 06 Nov 2024 15:16:16 UTC\n🥷 fog\n🎯 GSR Andrade Architects (gsr-andrade.com), USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18436",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "r-andrade.com),",
+                "somfeed.it/index.php?page=post_details&id_post=18436"
+            ]
+        },
+        {
+            "Message ID": 4100,
+            "discovered": "2024-11-06",
+            "post_title": "ID: 18435\n⚠ Wed, 06 Nov 2024 15:17:15 UTC\n🥷 fog\n🎯 Cape Cod Regional Technical High School (capetech.us), USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18435",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "petech.us),",
+                "somfeed.it/index.php?page=post_details&id_post=18435"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -74202,6 +74228,16 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-37962"
             ]
+        },
+        {
+            "Message ID": 92372,
+            "discovered": "2024-11-06",
+            "post_title": "Victim: Lincoln University\n\nDetection Date: Wed Nov 06 23:26:34 2024\n\nThreat Actor: meow\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": [
