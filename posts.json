@@ -71748,6 +71748,30 @@
             "URLs": [
                 "https://any.run/cybersecurity-blog/release-notes-october-2024/"
             ]
+        },
+        {
+            "Message ID": 92225,
+            "discovered": "2024-11-06",
+            "post_title": "Title: New SteelFox Trojan mimics software activators, stealing sensitive data and mining cryptocurrency\n\nDate: November 6, 2024\n\nSource: https://securelist.com/steelfox-trojan-drops-stealer-and-miner/114414/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://securelist.com/steelfox-trojan-drops-stealer-and-miner/114414/"
+            ]
+        },
+        {
+            "Message ID": 92224,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-40735\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-40735\n\nDescription: Exposure of Sensitive Information to an Unauthorized Actor vulnerability in BUTTERFLY BUTTON PROJECT - BUTTERFLY BUTTON (Architecture flaw) allows loss of plausible deniability and confidentiality.\nThis issue affects BUTTERFLY BUTTON: As of 2023-08-21.\n\nPublication Date: Wed Nov 06 13:01:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-40735"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
