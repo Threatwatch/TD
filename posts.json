@@ -74926,6 +74926,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10928"
             ]
+        },
+        {
+            "Message ID": 92423,
+            "discovered": "2024-11-06",
+            "post_title": "Victim: www.msdl.ca\n\nDetection Date: Thu Nov 07 02:42:44 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.msdl.ca"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
