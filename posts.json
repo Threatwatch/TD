@@ -74551,6 +74551,118 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-51751"
             ]
+        },
+        {
+            "Message ID": 92403,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-52634\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52634\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amd/display: Fix disable_otg_wa logic\n\n[Why]\nWhen switching to another HDMI mode, we are unnecesarilly\ndisabling/enabling FIFO causing both HPO and DIG registers to be set at\nthe same time when only HPO is supposed to be set.\n\nThis can lead to a system hang the next time we change refresh rates as\nthere are cases when we don't disable OTG/FIFO but FIFO is enabled when\nit isn't supposed to be.\n\n[How]\nRemoving the enable/disable FIFO entirely.\n\nPublication Date: Thu Nov 07 01:11:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52634"
+            ]
+        },
+        {
+            "Message ID": 92402,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-36000\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-36000\n\nDescription: A missing authorization check in the MacOS agent configuration endpoint of the Insider Threat Management Server enables an anonymous attacker on an adjacent network to obtain sensitive information. Successful exploitation requires an attacker to first obtain a valid agent authentication token. All versions before 7.14.3 are affected.\n\nPublication Date: Thu Nov 07 01:11:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-36000"
+            ]
+        },
+        {
+            "Message ID": 92401,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-36881\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-36881\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nmm/userfaultfd: reset ptes when close() for wr-protected ones\n\nUserfaultfd unregister includes a step to remove wr-protect bits from all\nthe relevant pgtable entries, but that only covered an explicit\nUFFDIO_UNREGISTER ioctl, not a close() on the userfaultfd itself.  Cover\nthat too.  This fixes a WARN trace.\n\nThe only user visible side effect is the user can observe leftover\nwr-protect bits even if the user close()ed on an userfaultfd when\nreleasing the last reference of it.  However hopefully that should be\nharmless, and nothing bad should happen even if so.\n\nThis change is now more important after the recent page-table-check\npatch we merged in mm-unstable (446dd9ad37d0 (\"mm/page_table_check:\nsupport userfault wr-protect entries\")), as we'll do sanity check on\nuffd-wp bits without vma context.  So it's better if we can 100%\nguarantee no uffd-wp bit leftovers, to make sure each report will be\nvalid.\n\nPublication Date: Thu Nov 07 01:11:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-36881"
+            ]
+        },
+        {
+            "Message ID": 92400,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-35998\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35998\n\nDescription: A missing authorization check in multiple SOAP endpoints of the Insider Threat Management Server enables an attacker on an adjacent network to read and write unauthorized objects. Successful exploitation requires an attacker to first obtain a valid agent authentication token. All versions before 7.14.3 are affected.\n\nPublication Date: Thu Nov 07 01:11:14 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35998"
+            ]
+        },
+        {
+            "Message ID": 92399,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2021-47075\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47075\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnvmet: fix memory leak in nvmet_alloc_ctrl()\n\nWhen creating ctrl in nvmet_alloc_ctrl(), if the cntlid_min is larger\nthan cntlid_max of the subsystem, and jumps to the\n\"out_free_changed_ns_list\" label, but the ctrl->sqs lack of be freed.\nFix this by jumping to the \"out_free_sqs\" label.\n\nPublication Date: Thu Nov 07 01:11:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47075"
+            ]
+        },
+        {
+            "Message ID": 92398,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-51329\n\nDescription: A Host header injection vulnerability in Agile-Board 1.0 allows attackers to obtain the password reset token via user interaction with a crafted password reset link.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-51329\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://github.com/redtrib3/CVEs/tree/main/CVE-2024-51329%20-%20Host%20Header%20Injection\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51329",
+                "https://github.com/redtrib3/CVEs/tree/main/CVE-2024-51329%20-%20Host%20Header%20Injection"
+            ]
+        },
+        {
+            "Message ID": 92397,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-51127\n\nDescription: An issue in the createTempFile method of hornetq v2.4.9 allows attackers to arbitrarily overwrite files or access sensitive information.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-51127\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://github.com/JAckLosingHeart/CWE-378/blob/main/CVE-2024-51127.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51127",
+                "https://github.com/JAckLosingHeart/CWE-378/blob/main/CVE-2024-51127.md"
+            ]
+        },
+        {
+            "Message ID": 92396,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-51136\n\nDescription: An XML External Entity (XXE) vulnerability in Dmoz2CSV in openimaj v1.3.10 allows attackers to access sensitive information or execute arbitrary code via supplying a crafted XML file.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-51136\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://github.com/openimaj/openimaj/issues/382\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Dmoz2CSV"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51136",
+                "https://github.com/openimaj/openimaj/issues/382"
+            ]
+        },
+        {
+            "Message ID": 92395,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-48809\n\nDescription: An issue in Open Networking Foundations sdran-in-a-box v.1.4.3 and onos-a1t v.0.2.3 allows a remote attacker to cause a denial of service via the onos-a1t component of the sdran-in-a-box, specifically the DeleteWatcher function.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-48809\n\nDate of Publishing: 2024/11/06\n\nLink to Exploit: https://github.com/onosproject/sdran-in-a-box/issues/206\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48809",
+                "https://github.com/onosproject/sdran-in-a-box/issues/206"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
