@@ -31035,6 +31035,30 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3499,
+            "discovered": "2024-11-06",
+            "post_title": "Group: FOG\nApprox. Time: 14:40 06/11/24\nTitle: Cape Cod Regional Technical High School (https://t.co/v3qCyHuf0A)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/v3qCyHuf0A"
+            ]
+        },
+        {
+            "Message ID": 3498,
+            "discovered": "2024-11-06",
+            "post_title": "Group: FOG\nApprox. Time: 14:39 06/11/24\nTitle: GSR Andrade Architects (https://t.co/6o1Gcgpll0)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/6o1Gcgpll0"
+            ]
         }
     ],
     "RansomfeedNews": [
