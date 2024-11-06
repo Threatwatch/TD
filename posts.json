@@ -71313,6 +71313,16 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-49409"
             ]
+        },
+        {
+            "Message ID": 92202,
+            "discovered": "2024-11-06",
+            "post_title": "Victim: LmayInteroute agency\n\nDetection Date: Wed Nov 06 07:08:18 2024\n\nThreat Actor: lynx\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": [
