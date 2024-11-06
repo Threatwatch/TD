@@ -17710,6 +17710,19 @@
             "URLs": [
                 "tps://toytown.com.sa/admin/index.php\n\n"
             ]
+        },
+        {
+            "Message ID": 1788,
+            "discovered": "2024-11-06",
+            "post_title": "Saudi Arabia \n\nWEBSITE  : https://alshehabgroup.com.sa/\n\nHACKED BY BEE\n\nREASON :  https://t.me/ANONSTU/1782",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Saudi Arabia"
+            ],
+            "URLs": [
+                "https://alshehabgroup.com.sa/",
+                "https://t.me/ANONSTU/1782"
+            ]
         }
     ],
     "Esteem Restoration Eagle": [
@@ -71771,6 +71784,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-40735"
+            ]
+        },
+        {
+            "Message ID": 92226,
+            "discovered": "2024-11-06",
+            "post_title": "Title: INTERPOL Disrupts Over 22,000 Malicious Servers in Global Crackdown on Cybercrime\n\nDate: Nov 06, 2024\n\nSource: https://thehackernews.com/2024/11/interpols-operation-synergia-ii.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/interpols-operation-synergia-ii.html"
             ]
         }
     ],
