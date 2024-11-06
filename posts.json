@@ -8718,6 +8718,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-transperfect/"
             ]
+        },
+        {
+            "Message ID": 6461,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🚨🇨🇳A Threat Actor is Allegedly Selling the Database of Sucre Jewelry Design Limited Containing Over 2 Million Lines of Data\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-sucre-jewelry-design-limited-containing-over-2-million-lines-of-data/\n\nThe threat actor is offering a database from Sucre Jewelry Design Limited for sale. The leaked data reportedly includes 2,079,223 records available in CSV/SQL format.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-database-of-sucre-jewelry-design-limited-containing-over-2-million-lines-of-data/\n\nTh"
+            ]
         }
     ],
     "RipperSec | 团队": [
