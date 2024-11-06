@@ -8557,6 +8557,18 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-the-data-of-erth/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6446,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇸🇦A Threat Actor Has Allegedly Leaked Data of Saudi Journalists Association\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-saudi-journalists-association/\n\nThe threat actor claims to have leaked the database of the Saudi Journalists Association, allegedly containing details such as names, emails, phone numbers, addresses, IP addresses, and bank information, among other sensitive data.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-saudi-journalists-association/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -73015,6 +73027,18 @@
             ],
             "URLs": [
                 "https://www.scworld.com/brief/novel-toxicpanda-android-banking-trojan-used-in-global-attacks"
+            ]
+        },
+        {
+            "Message ID": 92296,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Interpol Operation Shuts Down 22,000 Malicious Servers\n\nDate: November 6, 2024\n\nSource: https://securityboulevard.com/2024/11/interpol-operation-shuts-down-22000-malicious-servers/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://securityboulevard.com/2024/11/interpol-operation-shuts-down-22000-malicious-servers/"
             ]
         }
     ],
