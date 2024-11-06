@@ -8778,6 +8778,16 @@
             "URLs": [
                 "ps://darkwebinformer.com/evilmorocco-hacktivism-allegedly-leaked-data-of-ministry-of-health-of-algeria/\n\nE"
             ]
+        },
+        {
+            "Message ID": 6466,
+            "discovered": "2024-11-06",
+            "post_title": "💡EDR vs MDR vs XDR",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -74260,6 +74270,166 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 92385,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-37955\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37955\n\nDescription: A cross-site request forgery (CSRF) vulnerability in Jenkins Test Results Aggregator Plugin 1.2.13 and earlier allows attackers to connect to an attacker-specified URL using attacker-specified credentials.\n\nPublication Date: Thu Nov 07 00:02:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37955"
+            ]
+        },
+        {
+            "Message ID": 92384,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-37954\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37954\n\nDescription: A cross-site request forgery (CSRF) vulnerability in Jenkins Rebuilder Plugin 320.v5a_0933a_e7d61 and earlier allows attackers to rebuild a previous build.\n\nPublication Date: Thu Nov 07 00:02:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Jenkins"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37954"
+            ]
+        },
+        {
+            "Message ID": 92383,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-37950\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37950\n\nDescription: A missing permission check in Jenkins mabl Plugin 0.0.46 and earlier allows attackers with Overall/Read permission to enumerate credentials IDs of credentials stored in Jenkins.\n\nPublication Date: Thu Nov 07 00:02:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023",
+                "Jenkins",
+                "Jenkins"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37950"
+            ]
+        },
+        {
+            "Message ID": 92382,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2021-47231\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47231\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ncan: mcba_usb: fix memory leak in mcba_usb\n\nSyzbot reported memory leak in SocketCAN driver for Microchip CAN BUS\nAnalyzer Tool. The problem was in unfreed usb_coherent.\n\nIn mcba_usb_start() 20 coherent buffers are allocated and there is\nnothing, that frees them:\n\n1) In callback function the urb is resubmitted and that's all\n2) In disconnect function urbs are simply killed, but URB_FREE_BUFFER\n   is not set (see mcba_usb_start) and this flag cannot be used with\n   coherent buffers.\n\nFail log:\n| [ 1354.053291][ T8413] mcba_usb 1-1:0.0 can0: device disconnected\n| [ 1367.059384][ T8420] kmemleak: 20 new suspected memory leaks (see /sys/kernel/debug/kmem)\n\nSo, all allocated buffers should be freed with usb_free_coherent()\nexplicitly\n\nNOTE:\nThe same pattern for allocating and freeing coherent buffers\nis used in drivers/net/can/usb/kvaser_usb/kvaser_usb_core.c\n\nPublication Date: Thu Nov 07 00:01:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47231"
+            ]
+        },
+        {
+            "Message ID": 92381,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-37949\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37949\n\nDescription: A missing permission check in Jenkins Orka by MacStadium Plugin 1.33 and earlier allows attackers with Overall/Read permission to connect to an attacker-specified URL using attacker-specified credentials IDs obtained through another method, capturing credentials stored in Jenkins.\n\nPublication Date: Thu Nov 07 00:01:48 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Jenkins Orka",
+                "Jenkins"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37949"
+            ]
+        },
+        {
+            "Message ID": 92380,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-37948\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-37948\n\nDescription: Jenkins Oracle Cloud Infrastructure Compute Plugin 1.0.16 and earlier does not validate SSH host keys when connecting OCI clouds, enabling man-in-the-middle attacks.\n\nPublication Date: Thu Nov 07 00:01:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-37948"
+            ]
+        },
+        {
+            "Message ID": 92379,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-30310\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-30310\n\nDescription: An issue discovered in Comfast Comfast CF-616AC routers allows attackers to hijack TCP sessions which could lead to a denial of service.\n\nPublication Date: Thu Nov 07 00:01:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-30310"
+            ]
+        },
+        {
+            "Message ID": 92378,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-36807\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-36807\n\nDescription: pypdf is a pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files. In version 2.10.5 an attacker who uses this vulnerability can craft a PDF which leads to an infinite loop. This infinite loop blocks the current process and can utilize a single core of the CPU by 100%. It does not affect memory usage. That is, for example, the case if the user extracted metadata from such a malformed PDF. Versions prior to 2.10.5 throw an error, but do not hang forever. This issue was fixed with https://github.com/py-pdf/pypdf/pull/1331 which has been included in release 2.10.6. Users are advised to upgrade. Users unable to upgrade should modify `PyPDF2/generic/_data_structures.py::read_object` to an an error throwing case. See GHSA-hm9v-vj3r-r55m for details.\n\nPublication Date: Thu Nov 07 00:01:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-36807",
+                "https://github.com/py-pdf/pypdf/pull/1331"
+            ]
+        },
+        {
+            "Message ID": 92377,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-28808\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-28808\n\nDescription: An issue was discovered in Infinera hiT 7300 5.60.50. Hidden functionality in the web interface allows a remote authenticated attacker to access reserved information by accessing undocumented web applications.\n\nPublication Date: Thu Nov 07 00:01:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-28808"
+            ]
+        },
+        {
+            "Message ID": 92376,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-51757\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51757\n\nDescription: happy-dom is a JavaScript implementation of a web browser without its graphical user interface. Versions of happy-dom prior to 15.10.1 may execute code on the host via a script tag. This would execute code in the user context of happy-dom. Users are advised to upgrade to version 15.10.1. There are no known workarounds for this vulnerability.\n\nPublication Date: Thu Nov 07 00:00:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51757"
+            ]
+        },
+        {
+            "Message ID": 92375,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-51988\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51988\n\nDescription: RabbitMQ is a feature rich, multi-protocol messaging and streaming broker. In affected versions queue deletion via the HTTP API was not verifying the `configure` permission of the user. Users who had all of the following: 1. Valid credentials, 2. Some permissions for the target virtual host & 3. HTTP API access. could delete queues it had no (deletion) permissions for. This issue has been addressed in version 3.12.11 of the open source rabbitMQ release and in versions 1.5.2, 3.13.0, and 4.0.0 of the tanzu release. Users are advised to upgrade. Users unable to upgrade may disable management plugin and use, for example, Prometheus and Grafana for monitoring.\n\nPublication Date: Thu Nov 07 00:00:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51988"
+            ]
+        },
+        {
+            "Message ID": 92374,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-52522\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52522\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: fix possible store tearing in neigh_periodic_work()\n\nWhile looking at a related syzbot report involving neigh_periodic_work(),\nI found that I forgot to add an annotation when deleting an\nRCU protected item from a list.\n\nReaders use rcu_deference(*np), we need to use either\nrcu_assign_pointer() or WRITE_ONCE() on writer side\nto prevent store tearing.\n\nI use rcu_assign_pointer() to have lockdep support,\nthis was the choice made in neigh_flush_dev().\n\nPublication Date: Thu Nov 07 00:00:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52522"
+            ]
+        },
+        {
+            "Message ID": 92373,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-3479\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3479\n\nDescription: Cross-site Scripting (XSS) - Reflected in GitHub repository hestiacp/hestiacp prior to 1.7.8.\n\nPublication Date: Thu Nov 07 00:00:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3479"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
