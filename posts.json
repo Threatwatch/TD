@@ -8569,6 +8569,19 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-saudi-journalists-association/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6447,
+            "discovered": "2024-11-06",
+            "post_title": "💡I have removed the free tier from the platform. While it got a lot of signups, it only provided 3 features.. being able to comment (which is a rarity), curated notifications (I rarely send these unless its major), and the Daily Dose of Dark Web Informer posts which you can see from my socials or directly on the website without a notification.\n\nAll 3 of these features were moved to the Plus tier, so both Plus and Pro subscribers will get these.\n\nThe pricing remains the same. Subscriptions are available for the PLUS tier at $5 per month or $50 per year, and for the PRO tier at $10 per month or $100 per year.\n\nIf you are interested in signing up: https://darkwebinformer.com/#/portal/signup\n\nOr if you want to sign up via crypto: https://darkwebinformer.com/crypto-payments/\n\nJust staying transparent.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/#/portal/signup\n",
+                "ttps://darkwebinformer.com/crypto-payments/\n"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -73039,6 +73052,224 @@
             ],
             "URLs": [
                 "https://securityboulevard.com/2024/11/interpol-operation-shuts-down-22000-malicious-servers/"
+            ]
+        },
+        {
+            "Message ID": 92314,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2022-20637\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-20637\n\nDescription: Multiple vulnerabilities in the web-based management interface of Cisco Security Manager could allow an unauthenticated, remote attacker to conduct cross-site scripting attacks against a user of the interface. These vulnerabilities are due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit these vulnerabilities by persuading a user to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or access sensitive, browser-based information.\n\nPublication Date: Wed Nov 06 20:12:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-20637"
+            ]
+        },
+        {
+            "Message ID": 92313,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2022-20636\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-20636\n\nDescription: Multiple vulnerabilities in the web-based management interface of Cisco Security Manager could allow an unauthenticated, remote attacker to conduct cross-site scripting attacks against a user of the interface. These vulnerabilities are due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit these vulnerabilities by persuading a user to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or access sensitive, browser-based information.\n\nPublication Date: Wed Nov 06 20:12:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-20636"
+            ]
+        },
+        {
+            "Message ID": 92312,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2022-20635\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-20635\n\nDescription: Multiple vulnerabilities in the web-based management interface of Cisco Security Manager could allow an unauthenticated, remote attacker to conduct cross-site scripting attacks against a user of the interface. These vulnerabilities are due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit these vulnerabilities by persuading a user to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or access sensitive, browser-based information.\n\nPublication Date: Wed Nov 06 20:12:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-20635"
+            ]
+        },
+        {
+            "Message ID": 92311,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2022-20660\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-20660\n\nDescription: A vulnerability in the information storage architecture of several Cisco IP Phone models could allow an unauthenticated, physical attacker to obtain confidential information from an affected device. This vulnerability is due to unencrypted storage of confidential information on an affected device. An attacker could exploit this vulnerability by physically extracting and accessing one of the flash memory chips. A successful exploit could allow the attacker to obtain confidential information from the device, which could be used for subsequent attacks.\n\nPublication Date: Wed Nov 06 20:11:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-20660"
+            ]
+        },
+        {
+            "Message ID": 92310,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2022-20658\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-20658\n\nDescription: A vulnerability in the web-based management interface of Cisco Unified Contact Center Management Portal (Unified CCMP) and Cisco Unified Contact Center Domain Manager (Unified CCDM) could allow an authenticated, remote attacker to elevate their privileges to Administrator. This vulnerability is due to the lack of server-side validation of user permissions. An attacker could exploit this vulnerability by submitting a crafted HTTP request to a vulnerable system. A successful exploit could allow the attacker to create Administrator accounts. With these accounts, the attacker could access and modify telephony and user resources across all the Unified platforms that are associated to the vulnerable Cisco Unified CCMP. To successfully exploit this vulnerability, an attacker would need valid Advanced User credentials.\n\nPublication Date: Wed Nov 06 20:11:46 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Cisco"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-20658"
+            ]
+        },
+        {
+            "Message ID": 92309,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2022-20647\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-20647\n\nDescription: Multiple vulnerabilities in the web-based management interface of Cisco Security Manager could allow an unauthenticated, remote attacker to conduct cross-site scripting attacks against a user of the interface. These vulnerabilities are due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit these vulnerabilities by persuading a user to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or access sensitive, browser-based information.\n\nPublication Date: Wed Nov 06 20:11:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-20647"
+            ]
+        },
+        {
+            "Message ID": 92308,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2022-20646\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-20646\n\nDescription: Multiple vulnerabilities in the web-based management interface of Cisco Security Manager could allow an unauthenticated, remote attacker to conduct cross-site scripting attacks against a user of the interface. These vulnerabilities are due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit these vulnerabilities by persuading a user to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or access sensitive, browser-based information.\n\nPublication Date: Wed Nov 06 20:11:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-20646"
+            ]
+        },
+        {
+            "Message ID": 92307,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2022-20645\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-20645\n\nDescription: Multiple vulnerabilities in the web-based management interface of Cisco Security Manager could allow an unauthenticated, remote attacker to conduct cross-site scripting attacks against a user of the interface. These vulnerabilities are due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit these vulnerabilities by persuading a user to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or access sensitive, browser-based information.\n\nPublication Date: Wed Nov 06 20:11:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-20645"
+            ]
+        },
+        {
+            "Message ID": 92306,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2022-20644\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-20644\n\nDescription: Multiple vulnerabilities in the web-based management interface of Cisco Security Manager could allow an unauthenticated, remote attacker to conduct cross-site scripting attacks against a user of the interface. These vulnerabilities are due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit these vulnerabilities by persuading a user to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or access sensitive, browser-based information.\n\nPublication Date: Wed Nov 06 20:11:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-20644"
+            ]
+        },
+        {
+            "Message ID": 92305,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2022-20643\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-20643\n\nDescription: Multiple vulnerabilities in the web-based management interface of Cisco Security Manager could allow an unauthenticated, remote attacker to conduct cross-site scripting attacks against a user of the interface. These vulnerabilities are due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit these vulnerabilities by persuading a user to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or access sensitive, browser-based information.\n\nPublication Date: Wed Nov 06 20:10:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-20643"
+            ]
+        },
+        {
+            "Message ID": 92304,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2022-20642\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-20642\n\nDescription: Multiple vulnerabilities in the web-based management interface of Cisco Security Manager could allow an unauthenticated, remote attacker to conduct cross-site scripting attacks against a user of the interface. These vulnerabilities are due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit these vulnerabilities by persuading a user to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or access sensitive, browser-based information.\n\nPublication Date: Wed Nov 06 20:10:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-20642"
+            ]
+        },
+        {
+            "Message ID": 92303,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2022-20641\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-20641\n\nDescription: Multiple vulnerabilities in the web-based management interface of Cisco Security Manager could allow an unauthenticated, remote attacker to conduct cross-site scripting attacks against a user of the interface. These vulnerabilities are due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit these vulnerabilities by persuading a user to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or access sensitive, browser-based information.\n\nPublication Date: Wed Nov 06 20:10:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-20641"
+            ]
+        },
+        {
+            "Message ID": 92302,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-21243\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-21243\n\nDescription: In validateForCommonR1andR2 of PasspointConfiguration.java, there is a possible way to inflate the size of a config file with no limits due to a buffer overflow. This could lead to local denial of service with no additional execution privileges needed. User interaction is needed for exploitation.\n\nPublication Date: Wed Nov 06 20:10:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-21243",
+                "PasspointConfiguration.java"
+            ]
+        },
+        {
+            "Message ID": 92301,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-27435\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-27435\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnvme: fix reconnection fail due to reserved tag allocation\n\nWe found a issue on production environment while using NVMe over RDMA,\nadmin_q reconnect failed forever while remote target and network is ok.\nAfter dig into it, we found it may caused by a ABBA deadlock due to tag\nallocation. In my case, the tag was hold by a keep alive request\nwaiting inside admin_q, as we quiesced admin_q while reset ctrl, so the\nrequest maked as idle and will not process before reset success. As\nfabric_q shares tagset with admin_q, while reconnect remote target, we\nneed a tag for connect command, but the only one reserved tag was held\nby keep alive command which waiting inside admin_q. As a result, we\nfailed to reconnect admin_q forever. In order to fix this issue, I\nthink we should keep two reserved tags for admin queue.\n\nPublication Date: Wed Nov 06 20:10:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27435"
+            ]
+        },
+        {
+            "Message ID": 92300,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-28265\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-28265\n\nDescription: IBOS v4.5.5 has an arbitrary file deletion vulnerability via \\system\\modules\\dashboard\\controllers\\LoginController.php.\n\nPublication Date: Wed Nov 06 20:09:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-28265"
+            ]
+        },
+        {
+            "Message ID": 92299,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-21241\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-21241\n\nDescription: In rw_i93_send_to_upper of rw_i93.cc, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Wed Nov 06 20:09:47 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-21241"
+            ]
+        },
+        {
+            "Message ID": 92298,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2023-21240\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-21240\n\nDescription: In Policy of Policy.java, there is a possible boot loop due to resource exhaustion. This could lead to local denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Wed Nov 06 20:09:36 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-21240",
+                "Policy.java"
+            ]
+        },
+        {
+            "Message ID": 92297,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Downgrade attacks open fully patched Windows systems to malware\n\nDate: November 6, 2024\n\nSource: https://www.reversinglabs.com/blog/windows-downgrade-attacks-open-fully-patched-systems-to-malware\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.reversinglabs.com/blog/windows-downgrade-attacks-open-fully-patched-systems-to-malware"
             ]
         }
     ],
