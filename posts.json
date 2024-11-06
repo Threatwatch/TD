@@ -8594,6 +8594,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/engineer-is-allegedly-selling-api-access-of-batchskiptracing/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6450,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇮🇳IntelBroker and EnergyWeaponUser Have Allegedly Leaked the Data of uLektz Learning Solutions Private Limited\n\nhttps://darkwebinformer.com/intelbroker-and-energyweaponuser-have-allegedly-leaked-the-data-of-ulektz-learning-solutions-private-limited/\n\nThe threat actor claims to have leaked the database of uLektz Learning Solutions Private Limited, reportedly containing data on 700,000 users, including names, emails, phone numbers, and profile links.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/intelbroker-and-energyweaponuser-have-allegedly-leaked-the-data-of-ulektz-learning-solutions-private-limited/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6449,
+            "discovered": "2024-11-06",
+            "post_title": "🚨🇻🇳A Threat Actor is Allegedly Selling Data of Tindi Network\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-tindi-network/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-tindi-network/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -15389,6 +15413,16 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5341,
+            "discovered": "2024-11-06",
+            "post_title": "The revolution, That Changed the fate of Bangladesh\n\nThe Flags will remain high in the sky around the globe and subcontinent now",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Bangladesh"
             ],
             "URLs": []
         }
@@ -73282,6 +73316,42 @@
             ],
             "URLs": [
                 "https://www.reversinglabs.com/blog/windows-downgrade-attacks-open-fully-patched-systems-to-malware"
+            ]
+        },
+        {
+            "Message ID": 92317,
+            "discovered": "2024-11-06",
+            "post_title": "Title: BTS #41 - Pacific Rim\n\nDate: November 6, 2024\n\nSource: https://eclypsium.com/podcasts/bts-41-pacific-rim/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://eclypsium.com/podcasts/bts-41-pacific-rim/"
+            ]
+        },
+        {
+            "Message ID": 92316,
+            "discovered": "2024-11-06",
+            "post_title": "Title: How A Law Firm’s Network Secured Their Data And Enhanced Client Trust\n\nDate: November 6, 2024\n\nSource: https://blog.lumen.com/how-a-law-firms-network-secured-their-data-and-enhanced-client-trust/?utm_source=rss&utm_medium=rss&utm_campaign=how-a-law-firms-network-secured-their-data-and-enhanced-client-trust\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.lumen.com/how-a-law-firms-network-secured-their-data-and-enhanced-client-trust/?utm_source=rss&utm_medium=rss&utm_campaign=how-a-law-firms-network-secured-their-data-and-enhanced-client-trust"
+            ]
+        },
+        {
+            "Message ID": 92315,
+            "discovered": "2024-11-06",
+            "post_title": "Title: Washington courts' systems offline following weekend cyberattack\n\nDate: November 06, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/washington-courts-systems-offline-following-weekend-cyberattack/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Washington"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/washington-courts-systems-offline-following-weekend-cyberattack/"
             ]
         }
     ],
