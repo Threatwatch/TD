@@ -31448,6 +31448,18 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3501,
+            "discovered": "2024-11-06",
+            "post_title": "Group: ransomhub\nApprox. Time: 22:39 06/11/24\nTitle: https://t.co/jakD0Vhw51",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/jakD0Vhw51"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -74747,6 +74759,30 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-36002"
+            ]
+        },
+        {
+            "Message ID": 92412,
+            "discovered": "2024-11-06",
+            "post_title": "Victim: arcoexc.com\n\nDetection Date: Thu Nov 07 01:45:49 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arcoexc.com"
+            ]
+        },
+        {
+            "Message ID": 92411,
+            "discovered": "2024-11-06",
+            "post_title": "Victim: brandenburgerplumbing.com\n\nDetection Date: Thu Nov 07 01:45:34 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "brandenburgerplumbing.com"
             ]
         }
     ],
