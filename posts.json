@@ -8379,6 +8379,18 @@
             "URLs": [
                 "arkwebinformer.com/a-threat-actor-is-selling-cms-wordpress-access-to-four-unidentified-companies/"
             ]
+        },
+        {
+            "Message ID": 6431,
+            "discovered": "2024-11-05",
+            "post_title": "💡Daily Dose of Dark Web Informer - November 5th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-november-5th-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-november-5th-2024/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -70782,6 +70794,129 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-51358"
+            ]
+        },
+        {
+            "Message ID": 92178,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-10500\n\nDescription: A vulnerability, which was classified as critical, has been found in ESAFENET CDG 5. Affected by this issue is some unknown functionality of the file /com/esafenet/servlet/policy/HookWhiteListService.java. The manipulation of the argument policyId leads to sql injection. The attack may be launched remotely. The vendor was contacted early about this disclosure but did not respond in any way.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-10500\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://flowus.cn/share/a582f7be-7e33-41f1-bce9-a1eb3578229f?code=G8A6P3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "HookWhiteListService.java",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10500",
+                "https://flowus.cn/share/a582f7be-7e33-41f1-bce9-a1eb3578229f?code=G8A6P3"
+            ]
+        },
+        {
+            "Message ID": 92177,
+            "discovered": "2024-11-06",
+            "post_title": "Vulnerability ID: CVE-2024-51431\n\nDescription: LB-LINK BL-WR 1300H v.1.0.4 contains hardcoded credentials stored in /etc/shadow which are easily guessable.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-51431\n\nDate of Publishing: 2024/11/05\n\nLink to Exploit: https://github.com/MatJosephs/CVEs/tree/main/CVE-2024-51431\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51431",
+                "https://github.com/MatJosephs/CVEs/tree/main/CVE-2024-51431"
+            ]
+        },
+        {
+            "Message ID": 92176,
+            "discovered": "2024-11-06",
+            "post_title": "Victim: pacificglazing.com\n\nDetection Date: Wed Nov 06 03:12:46 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "pacificglazing.com"
+            ]
+        },
+        {
+            "Message ID": 92175,
+            "discovered": "2024-11-06",
+            "post_title": "Victim: nwhealthporter.com\n\nDetection Date: Wed Nov 06 03:12:29 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "nwhealthporter.com"
+            ]
+        },
+        {
+            "Message ID": 92174,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-47460\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47460\n\nDescription: Command injection vulnerability in the underlying CLI service could lead to unauthenticated remote code execution by sending specially crafted packets destined to the PAPI (Aruba's Access Point management protocol) UDP port (8211). Successful exploitation of this vulnerability results in the ability to execute arbitrary code as a privileged user on the underlying operating system.\n\nPublication Date: Wed Nov 06 03:01:53 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Aruba"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47460"
+            ]
+        },
+        {
+            "Message ID": 92173,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-47461\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47461\n\nDescription: An authenticated command injection vulnerability exists in the Instant AOS-8 and AOS-10 command line interface. A successful exploitation of this vulnerability results in the ability to execute arbitrary commands as a privileged user on the underlying operating system. This allows an attacker to fully compromise the underlying host operating system.\n\nPublication Date: Wed Nov 06 03:01:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47461"
+            ]
+        },
+        {
+            "Message ID": 92172,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-47462\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47462\n\nDescription: An arbitrary file creation vulnerability exists in the Instant AOS-8 and AOS-10 command line interface. Successful exploitation of this vulnerability could allow an authenticated remote attacker to create arbitrary files, which could lead to a remote command execution (RCE) on the underlying operating system.\n\nPublication Date: Wed Nov 06 03:01:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47462"
+            ]
+        },
+        {
+            "Message ID": 92171,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-47463\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47463\n\nDescription: An arbitrary file creation vulnerability exists in the Instant AOS-8 and AOS-10 command line interface. Successful exploitation of this vulnerability could allow an authenticated remote attacker to create arbitrary files, which could lead to a remote command execution (RCE) on the underlying operating system.\n\nPublication Date: Wed Nov 06 03:01:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47463"
+            ]
+        },
+        {
+            "Message ID": 92170,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-47464\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47464\n\nDescription: An authenticated Path Traversal vulnerability exists in Instant AOS-8 and AOS-10. Successful exploitation of this vulnerability allows an attacker to copy arbitrary files to a user readable location from the command line interface of the underlying operating system, which could lead to a remote unauthorized access to files.\n\nPublication Date: Wed Nov 06 03:01:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47464"
+            ]
+        },
+        {
+            "Message ID": 92169,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-10028\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10028\n\nDescription: The Everest Backup – WordPress Cloud Backup, Migration, Restore & Cloning Plugin plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 2.2.13 via the exposed process stats file during the backup process. This makes it possible for unauthenticated attackers to obtain an archive file name and download the site's backup.\n\nPublication Date: Wed Nov 06 03:00:59 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10028"
             ]
         }
     ],
