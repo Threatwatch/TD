@@ -71645,6 +71645,85 @@
             "URLs": [
                 "https://www.crowdstrike.com/en-us/blog/crowdstrike-acquires-adaptive-shield-and-integrates-saas-protection/"
             ]
+        },
+        {
+            "Message ID": 92222,
+            "discovered": "2024-11-06",
+            "post_title": "Victim: o******************v\n\nDetection Date: Wed Nov 06 12:16:43 2024\n\nThreat Actor: cloak\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 92221,
+            "discovered": "2024-11-06",
+            "post_title": "Victim: Glo**************.com\n\nDetection Date: Wed Nov 06 12:16:31 2024\n\nThreat Actor: cloak\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 92220,
+            "discovered": "2024-11-06",
+            "post_title": "Victim: SCAFF'HOLDING\n\nDetection Date: Wed Nov 06 12:16:19 2024\n\nThreat Actor: cloak\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 92219,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-52043\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-52043\n\nDescription: Observable Response Discrepancy vulnerability in HumHub GmbH & Co. KG - HumHub on Linux allows: Excavation (user enumeration).This issue affects all released HumHub versions: through 1.16.2.\n\nPublication Date: Wed Nov 06 12:05:43 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-52043"
+            ]
+        },
+        {
+            "Message ID": 92218,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-9681\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9681\n\nDescription: When curl is asked to use HSTS, the expiry time for a subdomain might\noverwrite a parent domain's cache entry, making it end sooner or later than\notherwise intended.\n\nThis affects curl using applications that enable HSTS and use URLs with the\ninsecure `HTTP://` scheme and perform transfers with hosts like\n`x.example.com` as well as `example.com` where the first host is a subdomain\nof the second host.\n\n(The HSTS cache either needs to have been populated manually or there needs to\nhave been previous HTTPS accesses done as the cache needs to have entries for\nthe domains involved to trigger this problem.)\n\nWhen `x.example.com` responds with `Strict-Transport-Security:` headers, this\nbug can make the subdomain's expiry timeout *bleed over* and get set for the\nparent domain `example.com` in curl's HSTS cache.\n\nThe result of a triggered bug is that HTTP accesses to `example.com` get\nconverted to HTTPS for a different period of time than what was asked for by\nthe origin server. If `example.com` for example stops supporting HTTPS at its\nexpiry time, curl might then fail to access `http://example.com` until the\n(wrongly set) timeout expires. This bug can also expire the parent's entry\n*earlier*, thus making curl inadvertently switch back to insecure HTTP earlier\nthan otherwise intended.\n\nPublication Date: Wed Nov 06 12:05:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9681",
+                "http://example.com`"
+            ]
+        },
+        {
+            "Message ID": 92217,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-8614\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8614\n\nDescription: The JobSearch WP Job Board plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the jobsearch_wp_handle_upload() function in all versions up to, and including, 2.6.7. This makes it possible for authenticated attackers, with subscriber-level access and above, to upload arbitrary files on the affected site's server which may make remote code execution possible.\n\nPublication Date: Wed Nov 06 12:05:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8614"
+            ]
+        },
+        {
+            "Message ID": 92216,
+            "discovered": "2024-11-06",
+            "post_title": "CVE-ID: CVE-2024-8615\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8615\n\nDescription: The JobSearch WP Job Board plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the jobsearch_location_load_excel_file_callback() function in all versions up to, and including, 2.6.7. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.\n\nPublication Date: Wed Nov 06 12:05:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8615"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
