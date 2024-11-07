@@ -9146,6 +9146,16 @@
             "URLs": [
                 "ps://darkwebinformer.com/0x0xba-e-allegedly-is-selling-data-of-hospital-universitario-clinica-san-rafael/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6497,
+            "discovered": "2024-11-07",
+            "post_title": "💡Saturday I will be migrating all of the feeds and integrations into the new server. There will be some downtime, I will provide updates when I start into completion. A majority of the move is already prepped.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -32008,6 +32018,28 @@
             "Message ID": 3509,
             "discovered": "2024-11-07",
             "post_title": "Group: meow\nApprox. Time: 16:36 07/11/24\nTitle: Equator Worldwide",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 3511,
+            "discovered": "2024-11-07",
+            "post_title": "Group: darkvault\nApprox. Time: 18:40 07/11/24\nTitle: https://t.co/NpqGiv5cKX",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/NpqGiv5cKX"
+            ]
+        },
+        {
+            "Message ID": 3510,
+            "discovered": "2024-11-07",
+            "post_title": "Group: meow\nApprox. Time: 18:39 07/11/24\nTitle: Lexco",
             "Attack Type": "Unknown",
             "Location": [
                 "Approx"
