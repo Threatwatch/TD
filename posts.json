@@ -75582,6 +75582,126 @@
             "URLs": [
                 "https://any.run/cybersecurity-blog/asyncrat-open-directories-infection-analysis/"
             ]
+        },
+        {
+            "Message ID": 92465,
+            "discovered": "2024-11-07",
+            "post_title": "Title: 5 Most Common Malware Techniques in 2024\n\nDate: Nov 07, 2024\n\nSource: https://thehackernews.com/2024/11/5-most-common-malware-techniques-in-2024.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/5-most-common-malware-techniques-in-2024.html"
+            ]
+        },
+        {
+            "Message ID": 92464,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-50166\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50166\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nfsl/fman: Fix refcount handling of fman-related devices\n\nIn mac_probe() there are multiple calls to of_find_device_by_node(),\nfman_bind() and fman_port_bind() which takes references to of_dev->dev.\nNot all references taken by these calls are released later on error path\nin mac_probe() and in mac_remove() which lead to reference leaks.\n\nAdd references release.\n\nPublication Date: Thu Nov 07 13:05:12 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50166"
+            ]
+        },
+        {
+            "Message ID": 92463,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-50167\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50167\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nbe2net: fix potential memory leak in be_xmit()\n\nThe be_xmit() returns NETDEV_TX_OK without freeing skb\nin case of be_xmit_enqueue() fails, add dev_kfree_skb_any() to fix it.\n\nPublication Date: Thu Nov 07 13:05:01 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50167"
+            ]
+        },
+        {
+            "Message ID": 92462,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-50168\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50168\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet/sun3_82586: fix potential memory leak in sun3_82586_send_packet()\n\nThe sun3_82586_send_packet() returns NETDEV_TX_OK without freeing skb\nin case of skb->len being too long, add dev_kfree_skb() to fix it.\n\nPublication Date: Thu Nov 07 13:04:50 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "dev_kfree_skb"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50168"
+            ]
+        },
+        {
+            "Message ID": 92461,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-50169\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50169\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nvsock: Update rx_bytes on read_skb()\n\nMake sure virtio_transport_inc_rx_pkt() and virtio_transport_dec_rx_pkt()\ncalls are balanced (i.e. virtio_vsock_sock::rx_bytes doesn't lie) after\nvsock_transport::read_skb().\n\nWhile here, also inform the peer that we've freed up space and it has more\ncredit.\n\nFailing to update rx_bytes after packet is dequeued leads to a warning on\nSOCK_STREAM recv():\n\n[  233.396654] rx_queue is empty, but rx_bytes is non-zero\n[  233.396702] WARNING: CPU: 11 PID: 40601 at net/vmw_vsock/virtio_transport_common.c:589\n\nPublication Date: Thu Nov 07 13:04:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50169"
+            ]
+        },
+        {
+            "Message ID": 92460,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-50170\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50170\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: bcmasp: fix potential memory leak in bcmasp_xmit()\n\nThe bcmasp_xmit() returns NETDEV_TX_OK without freeing skb\nin case of mapping fails, add dev_kfree_skb() to fix it.\n\nPublication Date: Thu Nov 07 13:04:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "dev_kfree_skb"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50170"
+            ]
+        },
+        {
+            "Message ID": 92459,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-50171\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50171\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: systemport: fix potential memory leak in bcm_sysport_xmit()\n\nThe bcm_sysport_xmit() returns NETDEV_TX_OK without freeing skb\nin case of dma_map_single() fails, add dev_kfree_skb() to fix it.\n\nPublication Date: Thu Nov 07 13:04:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "dev_kfree_skb"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50171"
+            ]
+        },
+        {
+            "Message ID": 92458,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-50172\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50172\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nRDMA/bnxt_re: Fix a possible memory leak\n\nIn bnxt_re_setup_chip_ctx() when bnxt_qplib_map_db_bar() fails\ndriver is not freeing the memory allocated for \"rdev->chip_ctx\".\n\nPublication Date: Thu Nov 07 13:04:07 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50172"
+            ]
+        },
+        {
+            "Message ID": 92457,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Fusion Fireside #5: The Art of Fusion with Jake Norwood\n\nDate: November 7, 2024\n\nSource: https://www.threatfabric.com/blogs/fusion-fireside-5-the-art-of-fusion-with-jake-norwood\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.threatfabric.com/blogs/fusion-fireside-5-the-art-of-fusion-with-jake-norwood"
+            ]
+        },
+        {
+            "Message ID": 92456,
+            "discovered": "2024-11-07",
+            "post_title": "Title: SteelFox and Rhadamanthys Malware Use Copyright Scams, Driver Exploits to Target Victims\n\nDate: Nov 07, 2024\n\nSource: https://thehackernews.com/2024/11/steelfox-and-rhadamanthys-malware-use.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/steelfox-and-rhadamanthys-malware-use.html"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
