@@ -9051,6 +9051,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-department-of-occupational-safety-and-health-dosh/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6490,
+            "discovered": "2024-11-07",
+            "post_title": "🚨🇧🇴r57 is Allegedly Selling the Database of Empower Program Bolivia\n\nhttps://darkwebinformer.com/r57-is-allegedly-selling-the-database-of-empower-program-bolivia/\n\nThe threat actor claims to be selling the database of the Empower Program Bolivia, which includes 10,000 private internal documents.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Bolivia"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/r57-is-allegedly-selling-the-database-of-empower-program-bolivia/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6489,
+            "discovered": "2024-11-07",
+            "post_title": "🚨🇺🇸A Threat Actor Allegedly Leaked Data of Flock Safety\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-flock-safety/\n\nThe threat actor claims to have leaked scraped data from Flock Safety, which includes details such as license plate numbers, hit IDs, capture timestamps, network IDs and names, camera IDs and names, locations, images, and more.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-flock-safety/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
