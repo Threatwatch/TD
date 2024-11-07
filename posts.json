@@ -9111,6 +9111,16 @@
             "URLs": [
                 "ps://darkwebinformer.com/sylhet-gang-sg-targeted-the-website-of-dkb/"
             ]
+        },
+        {
+            "Message ID": 6494,
+            "discovered": "2024-11-07",
+            "post_title": "💡Depending on how lucky you are.. Abacus Market and Vortex are completely down due to a DDoS attack. If you have a private mirror, it is working.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 团队": [
@@ -77054,6 +77064,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 92544,
+            "discovered": "2024-11-07",
+            "post_title": "Title: How to Overcome MFA Challenges for Stronger Security\n\nDate: November 7, 2024\n\nSource: https://adlumin.com/post/how-to-overcome-mfa-challenges-for-stronger-security/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://adlumin.com/post/how-to-overcome-mfa-challenges-for-stronger-security/"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
