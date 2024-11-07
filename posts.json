@@ -9075,6 +9075,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-flock-safety/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6492,
+            "discovered": "2024-11-07",
+            "post_title": "🚨🇬🇧🇬🇧🇲🇽🇺🇸🇮🇳🇦🇷🇳🇪🇪🇬🇮🇱🇸🇪Saiwer is Allegedly Selling WordPress Access to 10 Unidentified Different Shops\n\nhttps://darkwebinformer.com/saiwer-is-alelgedly-selling-wordpress-access-to-10-unidentified-different-shops/\n\nThere is 10 separate posts on this one link",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "er.com/saiwer-is-alelgedly-selling-wordpress-access-to-10-unidentified-different-shops/\n\nThere is 10 separat"
+            ]
+        },
+        {
+            "Message ID": 6491,
+            "discovered": "2024-11-07",
+            "post_title": "🚨🚨🇨🇼A Threat Actor Has Allegedly Leaked the Data of 1Win\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-1win/\n\nThe threat actor claims to have leaked the 1Win database, reportedly containing 96 million entries, including names, email addresses, phone numbers, account balances, partner data, and more.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-1win/\n\nTh"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -76792,6 +76816,138 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 92536,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Threat Intelligence Snapshot: Week 45, 2024\n\nDate: November 7, 2024\n\nSource: https://quointelligence.eu/2024/11/threat-intelligence-snapshot-week-45-2024/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://quointelligence.eu/2024/11/threat-intelligence-snapshot-week-45-2024/"
+            ]
+        },
+        {
+            "Message ID": 92535,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Air fryers are the latest surveillance threat you didn’t consider\n\nDate: November 7, 2024\n\nSource: https://www.malwarebytes.com/blog/news/2024/11/air-fryers-are-the-latest-surveillance-threat-you-didnt-consider\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/news/2024/11/air-fryers-are-the-latest-surveillance-threat-you-didnt-consider"
+            ]
+        },
+        {
+            "Message ID": 92534,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-8378\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8378\n\nDescription: The Safe SVG WordPress plugin before 2.2.6 has its sanitisation code is only running for paths that call wp_handle_upload, but not for example for code that uses wp_handle_sideload which is often used to upload attachments via raw POST data.\n\nPublication Date: Thu Nov 07 20:10:35 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8378"
+            ]
+        },
+        {
+            "Message ID": 92533,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-36908\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-36908\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nblk-iocost: do not WARN if iocg was already offlined\n\nIn iocg_pay_debt(), warn is triggered if 'active_list' is empty, which\nis intended to confirm iocg is active when it has debt. However, warn\ncan be triggered during a blkcg or disk removal, if iocg_waitq_timer_fn()\nis run at that time:\n\n  WARNING: CPU: 0 PID: 2344971 at block/blk-iocost.c:1402 iocg_pay_debt+0x14c/0x190\n  Call trace:\n  iocg_pay_debt+0x14c/0x190\n  iocg_kick_waitq+0x438/0x4c0\n  iocg_waitq_timer_fn+0xd8/0x130\n  __run_hrtimer+0x144/0x45c\n  __hrtimer_run_queues+0x16c/0x244\n  hrtimer_interrupt+0x2cc/0x7b0\n\nThe warn in this situation is meaningless. Since this iocg is being\nremoved, the state of the 'active_list' is irrelevant, and 'waitq_timer'\nis canceled after removing 'active_list' in ioc_pd_free(), which ensures\niocg is freed after iocg_waitq_timer_fn() returns.\n\nTherefore, add the check if iocg was already offlined to avoid warn\nwhen removing a blkcg or disk.\n\nPublication Date: Thu Nov 07 20:10:24 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-36908"
+            ]
+        },
+        {
+            "Message ID": 92532,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-27040\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-27040\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amd/display: Add 'replay' NULL check in 'edp_set_replay_allow_active()'\n\nIn the first if statement, we're checking if 'replay' is NULL. But in\nthe second if statement, we're not checking if 'replay' is NULL again\nbefore calling replay->funcs->replay_set_power_opt().\n\nif (replay == NULL && force_static)\n    return false;\n\n...\n\nif (link->replay_settings.replay_feature_enabled &&\n    replay->funcs->replay_set_power_opt) {\n replay->funcs->replay_set_power_opt(replay, *power_opts, panel_inst);\n link->replay_settings.replay_power_opt_active = *power_opts;\n}\n\nIf 'replay' is NULL, this will cause a null pointer dereference.\n\nFixes the below found by smatch:\ndrivers/gpu/drm/amd/amdgpu/../display/dc/link/protocols/link_edp_panel_control.c:895 edp_set_replay_allow_active() error: we previously assumed 'replay' could be null (see line 887)\n\nPublication Date: Thu Nov 07 20:10:13 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27040"
+            ]
+        },
+        {
+            "Message ID": 92531,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-38542\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38542\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nRDMA/mana_ib: boundary check before installing cq callbacks\n\nAdd a boundary check inside mana_ib_install_cq_cb to prevent index overflow.\n\nPublication Date: Thu Nov 07 20:10:03 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38542"
+            ]
+        },
+        {
+            "Message ID": 92530,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-3241\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-3241\n\nDescription: The Ultimate Blocks  WordPress plugin before 3.1.7 does not validate and escape some of its block options before outputting them back in a page/post where the block is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks\n\nPublication Date: Thu Nov 07 20:09:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-3241"
+            ]
+        },
+        {
+            "Message ID": 92529,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2023-20802\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20802\n\nDescription: In imgsys, there is a possible memory corruption due to improper input validation. This could lead to local escalation of privilege with System execution privileges needed. User interaction is needed for exploitation. Patch ID: ALPS07420968; Issue ID: ALPS07420976.\n\nPublication Date: Thu Nov 07 20:09:41 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20802"
+            ]
+        },
+        {
+            "Message ID": 92528,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2021-47257\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-47257\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nnet: ieee802154: fix null deref in parse dev addr\n\nFix a logic error that could result in a null deref if the user sets\nthe mode incorrectly for the given addr type.\n\nPublication Date: Thu Nov 07 20:09:30 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-47257"
+            ]
+        },
+        {
+            "Message ID": 92527,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-22719\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-22719\n\nDescription: SQL Injection vulnerability in Form Tools 3.1.1 allows attackers to run arbitrary SQL commands via the 'keyword' when searching for a client.\n\nPublication Date: Thu Nov 07 20:09:19 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-22719"
+            ]
+        },
+        {
+            "Message ID": 92526,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2023-20801\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-20801\n\nDescription: In imgsys, there is a possible use after free due to a race condition. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07420968; Issue ID: ALPS07420968.\n\nPublication Date: Thu Nov 07 20:09:08 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-20801"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
