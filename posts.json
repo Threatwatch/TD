@@ -76017,6 +76017,18 @@
             "URLs": [
                 "https://thehackernews.com/2024/11/north-korean-hackers-target-crypto.html"
             ]
+        },
+        {
+            "Message ID": 92487,
+            "discovered": "2024-11-07",
+            "post_title": "Title: AppSec vs. product security: Secure by Design demands a strategy shift\n\nDate: November 7, 2024\n\nSource: https://www.reversinglabs.com/blog/how-expanding-appsec-to-prodsec-supports-secure-by-design\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.reversinglabs.com/blog/how-expanding-appsec-to-prodsec-supports-secure-by-design"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
