@@ -36562,6 +36562,31 @@
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18437"
             ]
+        },
+        {
+            "Message ID": 4109,
+            "discovered": "2024-11-07",
+            "post_title": "ID: 18444\n⚠ Thu, 07 Nov 2024 08:14:23 UTC\n🥷 incransom\n🎯 ucv.es, Spain\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18444",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Spain"
+            ],
+            "URLs": [
+                "v.es, ",
+                "somfeed.it/index.php?page=post_details&id_post=18444"
+            ]
+        },
+        {
+            "Message ID": 4108,
+            "discovered": "2024-11-07",
+            "post_title": "ID: 18443\n⚠ Thu, 07 Nov 2024 08:58:51 UTC\n🥷 medusa\n🎯 Howell Electric Inc, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18443",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18443"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -75967,6 +75992,30 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-24914"
+            ]
+        },
+        {
+            "Message ID": 92486,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-8442\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8442\n\nDescription: The Prime Slider – Addons For Elementor (Revolution of a slider, Hero Slider, Ecommerce Slider) plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's Blog widget in all versions up to, and including, 3.15.18 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Thu Nov 07 16:04:52 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8442"
+            ]
+        },
+        {
+            "Message ID": 92485,
+            "discovered": "2024-11-07",
+            "post_title": "Title: North Korean Hackers Target Crypto Firms with Hidden Risk Malware on macOS\n\nDate: Nov 07, 2024\n\nSource: https://thehackernews.com/2024/11/north-korean-hackers-target-crypto.html\n\n#News #Korea",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Korea"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/north-korean-hackers-target-crypto.html"
             ]
         }
     ],
