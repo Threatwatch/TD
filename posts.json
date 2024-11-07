@@ -75876,5 +75876,1107 @@
             ]
         }
     ],
-    "RipperSec | 新闻频道 🗞️": []
+    "RipperSec | 新闻频道 🗞️": [],
+    "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
+        {
+            "Message ID": 26345,
+            "discovered": "2024-11-07",
+            "post_title": "⚡️Saudi International Petrochemical Company \nsipchem(.)com >>> offline \n\nhttp://check-host.net/check-report/200907f9k22e\n\n\n⚡️Farabi Petrochemicals Group Saudi Arabia \nfarabipc(.)com  >>> offline\n\nhttp://check-host.net/check-report/2008f587k854\n\nBy Anonymous \n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Saudi Arabia"
+            ],
+            "URLs": [
+                "http://check-host.net/check-report/200907f9k22e",
+                "http://check-host.net/check-report/2008f587k854"
+            ]
+        },
+        {
+            "Message ID": 26344,
+            "discovered": "2024-11-07",
+            "post_title": "⚡️Hacker has leaked the database of the Saudi Journalists Association, allegedly containing details such as names, emails, phone numbers, addresses, IP addresses, and bank information, among other sensitive data.\n\n#CyberBulletin #DarkWeb",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26343,
+            "discovered": "2024-11-07",
+            "post_title": "⚡️NoName have targeted multiple websites in Ukraine.\n\n- Vodafone Ukraine\n- UARNet\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Ukraine",
+                "Ukraine"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26342,
+            "discovered": "2024-11-07",
+            "post_title": "⚡️Cape Cod Regional Technical High School, an educational institution in the USA, has fallen victim to FOG ransomware. The group claims to have access to 6 GB of the organization's data.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26341,
+            "discovered": "2024-11-07",
+            "post_title": "⚡️Lincoln University, an educational institution in the USA, has fallen victim to MEOW ransomware. The group claims to have obtained 21 GB of sensitive data, including employee personal details, insurance information, Social Security details, contracts and agreements, payment terms, financial documents, supplier invoices, tax information, bank transactions, account balances, and other personal data such as names, dates of birth, and insurance details.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26340,
+            "discovered": "2024-11-06",
+            "post_title": "Indian Media - Hindu IT Cell website taken offline by Mysterious Team Bangladesh \n\n⚡️https://hinduitcell.org\nhttps://check-host.net/check-report/20016f70k1a7",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://hinduitcell.org",
+                "https://check-host.net/check-report/20016f70k1a7"
+            ]
+        },
+        {
+            "Message ID": 26339,
+            "discovered": "2024-11-06",
+            "post_title": "⚡️🇸🇦Nama Chemicals Company \nnama(.)com(.)sa >>>offline by Anonymous \n\nhttp://check-host.net/check-report/20007f60k316\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tp://check-host.net/check-report/20007f60k316\n\n"
+            ]
+        },
+        {
+            "Message ID": 26338,
+            "discovered": "2024-11-06",
+            "post_title": "⚡️Android Botnet 'ToxicPanda' Bashes Banks Across Europe, Latin America.\n\n#CyberBulletin",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26337,
+            "discovered": "2024-11-06",
+            "post_title": "⚡️South Korea Fines Meta About $15 Million Over Collection Of User Data.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26336,
+            "discovered": "2024-11-06",
+            "post_title": "⚡️Interpol disrupts cybercrime activity on 22,000 IP addresses, arrests 41.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26335,
+            "discovered": "2024-11-06",
+            "post_title": "⚡️Canada Arrests Suspected Hacker Linked to Snowflake Data Breaches.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26334,
+            "discovered": "2024-11-05",
+            "post_title": "Living Off The Land ESXi\n\nLOLESXi features a comprehensive list of binaries/scripts natively available in VMware ESXi that adversaries have utilised in their operations. The information on this site is compiled from open-source threat research.\n#lolesxi #ESXi #vmware\n\n@hackern0tes",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26333,
+            "discovered": "2024-11-05",
+            "post_title": "Onion Search Engine\n\nhttps://onionengine.com\n\n#grayhats",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://onionengine.com"
+            ]
+        },
+        {
+            "Message ID": 26332,
+            "discovered": "2024-11-05",
+            "post_title": "Mauritius Broadcast Corporation website taken offline by Mysterious Team Bangladesh \n\n⚡️https://mbcradio.tv\nhttps://check-host.net/check-report/1ff986b7k28e\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://mbcradio.tv",
+                "https://check-host.net/check-report/1ff986b7k28e"
+            ]
+        },
+        {
+            "Message ID": 26331,
+            "discovered": "2024-11-05",
+            "post_title": "Mauritius Network Service provider online portal taken offline by Mysterious Team Bangladesh \n\n⚡️https://portalmns.mu\nhttps://check-host.net/check-report/1ff9aa8ckfba\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://portalmns.mu",
+                "https://check-host.net/check-report/1ff9aa8ckfba"
+            ]
+        },
+        {
+            "Message ID": 26329,
+            "discovered": "2024-11-05",
+            "post_title": "Mauritius Passport office server fully down by Mysterious Team Bangladesh \n\n⚡️https://passport.govmu.org/passport/\nhttps://check-host.net/check-report/1ff9c136keb1\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://passport.govmu.org/passport/",
+                "https://check-host.net/check-report/1ff9c136keb1"
+            ]
+        },
+        {
+            "Message ID": 26328,
+            "discovered": "2024-11-05",
+            "post_title": "⚡️Bank of Mauritius >>> offline \nbom(.)mu by Anonymous \n\nhttp://check-host.net/check-report/1ff86bbdk14a\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://check-host.net/check-report/1ff86bbdk14a"
+            ]
+        },
+        {
+            "Message ID": 26327,
+            "discovered": "2024-11-05",
+            "post_title": "⚡️Columbus, Ohio, confirms 500K people affected by Rhysida ransomware attack.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Ohio",
+                "Rhysida"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26326,
+            "discovered": "2024-11-05",
+            "post_title": "⚡️Schneider Electric allegedly breached by HellCat Ransomware claiming access to their Atlassian Jira system.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26325,
+            "discovered": "2024-11-05",
+            "post_title": "⚡️Nokia investigates breach after hacker claims to steal source code.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26324,
+            "discovered": "2024-11-05",
+            "post_title": "⚡️Hackers Leak 300,000 MIT Technology Review Magazine User Records.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26323,
+            "discovered": "2024-11-05",
+            "post_title": "⚡️ToxicPanda: a new banking trojan from Asia hit Europe and LATAM | Cleafy Labs.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26322,
+            "discovered": "2024-11-05",
+            "post_title": "⚡️Schneider Electric confirms dev platform breach after hacker steals data.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26321,
+            "discovered": "2024-11-05",
+            "post_title": "⚡️Custom \"Pygmy Goat\" malware used in Sophos Firewall hack on govt network.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26320,
+            "discovered": "2024-11-04",
+            "post_title": "⚡️A new #Android malware, FakeCall, has emerged, utilizing sophisticated voice phishing (vishing) techniques to deceive users.\n\nThis malware can capture SMS, contacts, and stream live video, redirecting calls to fraudulent sources.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26319,
+            "discovered": "2024-11-04",
+            "post_title": "نحن أبطال",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26318,
+            "discovered": "2024-11-04",
+            "post_title": "Mauritius Post service taken offline by Mysterious Team Bangladesh \n\n⚡️https://mauritiuspost.mu\nhttps://check-host.net/check-report/1ff14664k1d7\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://mauritiuspost.mu",
+                "https://check-host.net/check-report/1ff14664k1d7"
+            ]
+        },
+        {
+            "Message ID": 26316,
+            "discovered": "2024-11-04",
+            "post_title": "⚡️The Central Electricity Board Mauritius (CEB) ceb(.)mu  >>>offline by Anonymous \n\nhttps://check-host.net/check-report/1ff15ab4k59d\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://check-host.net/check-report/1ff15ab4k59d"
+            ]
+        },
+        {
+            "Message ID": 26315,
+            "discovered": "2024-11-04",
+            "post_title": "Mauritius Media - lexpress website taken offline by Mysterious Team Bangladesh \n\n⚡️https://lexpress.mu\nhttps://check-host.net/check-report/1fefdcb7k52\nhttps://check-host.net/check-report/1fefdaffk633\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://lexpress.mu",
+                "https://check-host.net/check-report/1fefdcb7k52",
+                "https://check-host.net/check-report/1fefdaffk633"
+            ]
+        },
+        {
+            "Message ID": 26313,
+            "discovered": "2024-11-04",
+            "post_title": "Mauritius Network Service provider down by Mysterious Team Bangladesh \n\n⚡️https://mns.mu\nhttps://check-host.net/check-report/1ff09e1eke53\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://mns.mu",
+                "https://check-host.net/check-report/1ff09e1eke53"
+            ]
+        },
+        {
+            "Message ID": 26312,
+            "discovered": "2024-11-04",
+            "post_title": "⚡️Chinese hackers use Quad7 botnet in password-spray attacks.\n\n#CyberBulletin",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26311,
+            "discovered": "2024-11-04",
+            "post_title": "⚡️Half of Online Child Grooming Cases Now Happen on Snapchat, Reports UK Charity.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26310,
+            "discovered": "2024-11-04",
+            "post_title": "⚡️Meet Interlock — The new ransomware targeting FreeBSD servers. \n\nA relatively new ransomware operation named Interlock attacks organizations worldwide, taking the unusual approach of creating an encryptor to target FreeBSD servers.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26309,
+            "discovered": "2024-11-04",
+            "post_title": "Mauritius Computer Emergency Response Team website taken offline by Mysterious Team Bangladesh \n\n⚡️https://cert-mu.govmu.org/cert-mu/\nhttps://check-host.net/check-report/1fec5b6fkbf8\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cert-mu.govmu.org/cert-mu/",
+                "https://check-host.net/check-report/1fec5b6fkbf8"
+            ]
+        },
+        {
+            "Message ID": 26307,
+            "discovered": "2024-11-04",
+            "post_title": "Official Government of Mauritius websites burned by Mysterious Team Bangladesh \n\n⚡️https://govmu.org/EN/Pages/default.aspx\nhttps://check-host.net/check-report/1feb75c7kebf\n\n⚡️https://mygov.govmu.org/Pages/Home.aspx\nhttps://check-host.net/check-report/1feb929ekf0d\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://govmu.org/EN/Pages/default.aspx",
+                "https://check-host.net/check-report/1feb75c7kebf",
+                "https://mygov.govmu.org/Pages/Home.aspx",
+                "https://check-host.net/check-report/1feb929ekf0d"
+            ]
+        },
+        {
+            "Message ID": 26306,
+            "discovered": "2024-11-03",
+            "post_title": "⚡️Several Israeli Telegram hit by a cyber attack, with some completely hacked and taken over (attack source unknown) \n\nHacking Telegram belonging to Channel 12 correspondents and placing photos of Martyr Soleimani inside the channel.\n\n#CyberBulletin \n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26305,
+            "discovered": "2024-11-03",
+            "post_title": "⚡️Silent Attack Cripples Israel Economy For 3 Hours. Oct. 30 -- A cyber attack, reportedly linked to Iran, left Israelis unable to make credit card payments across the country on October 29. The outage caused disruptions from early morning until Automated Bank Services (Shva) identified the issue as Denial-of-Service attack. \n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Iran"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26304,
+            "discovered": "2024-11-03",
+            "post_title": "⚡️Handala attacked Elad Municipality and 3TB of confidential data has been dumped.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Elad Municipality"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26303,
+            "discovered": "2024-11-03",
+            "post_title": "⚡️ShadowDefenders, took down IsraelWelcome.com, is a website offering various airport services and transfers in Israel, particularly at Ben Gurion Airport.\n\nhttps://check-host.net/check-report/1fe2f5dfke95\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "IsraelWelcome.com",
+                "https://check-host.net/check-report/1fe2f5dfke95"
+            ]
+        },
+        {
+            "Message ID": 26302,
+            "discovered": "2024-11-03",
+            "post_title": "⚡️Moroccan Dragons took down website miu.gov.ua, the official site of the Ministry for Development of Communities Territories and Infrastructure of Ukraine \n\nhttps://check-host.net/check-http?host=miu.gov.ua .\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "miu.gov.ua",
+                "https://check-host.net/check-http?host=miu.gov.ua"
+            ]
+        },
+        {
+            "Message ID": 26301,
+            "discovered": "2024-11-03",
+            "post_title": "إذا كنت تعتقد أنك لا تتحمل أي عواقب على الشر الذي تفعله كما حدث في الماضي لمجرد أنه لم يحدث لك أي شيء على الإطلاق فأنت مخطئ مرة أخرى واعلم أن الأمر لم يعد كذلك بعد الآن. سنأتي إليك.\nالآن تغيرت القواعد.\n\nIf you think you have no consequences for the evil you do as happened in the past just because nothing has ever happened to you, you are wrong again know that it doesn't work like that anymore.\nWe'll Come Get You.\nNOW THE RULES HAVE CHANGED.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26300,
+            "discovered": "2024-11-03",
+            "post_title": "⚡️CrossBarking Vulnerability in Opera Browser Allows Malicious Extensions to Hijack User Accounts.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Opera"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26299,
+            "discovered": "2024-11-03",
+            "post_title": "⚡️SYS01 Infostealer Campaign Exploits Meta Ads to Target Millions Worldwide.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26298,
+            "discovered": "2024-11-03",
+            "post_title": "https://x.com/threadreaderapp/status/1853028025421451775?t=jioOU47yohxVijLmwRWbHA&s=35",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/threadreaderapp/status/1853028025421451775?t=jioOU47yohxVijLmwRWbHA&s=35"
+            ]
+        },
+        {
+            "Message ID": 26297,
+            "discovered": "2024-11-03",
+            "post_title": "data in JSON format",
+            "Attack Type": "Unknown",
+            "Location": [
+                "JSON"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26296,
+            "discovered": "2024-11-03",
+            "post_title": "Peep The Spy\n\nFor such a feared company, described as one of the most advanced, you'd think its employees were all geniuses. But life never ceases to amaze!\n\nTake a look to our investigation on employees from NSO Group, the Israeli firm that created Pegasus Spyware:\nhttps://rentry.co/nsogroup\n\nGhostSec Stand With Palestine 🇵🇸🇵🇸",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://rentry.co/nsogroup"
+            ]
+        },
+        {
+            "Message ID": 26295,
+            "discovered": "2024-11-03",
+            "post_title": "",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26294,
+            "discovered": "2024-11-02",
+            "post_title": "⚡️Microsoft credentials pilfered by APT Storm via botnet spray-and-pray router attack.\n\n#CyberBulletin",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26293,
+            "discovered": "2024-11-02",
+            "post_title": "⚡️Azure AI Vulnerabilities Allowed Attacks to Bypass Moderation Safeguards.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26292,
+            "discovered": "2024-11-02",
+            "post_title": "⚡️OpenAI's new ChatGPT Search Chrome extension feels like a search hijacker.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26291,
+            "discovered": "2024-11-02",
+            "post_title": "⚡️DDoS site http://Dstat.cc seized and two suspects arrested in Germany.\n\n#CyberBulletin",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Germany"
+            ],
+            "URLs": [
+                "http://Dstat.cc"
+            ]
+        },
+        {
+            "Message ID": 26290,
+            "discovered": "2024-11-01",
+            "post_title": "⚡️RedTiger-Tools is a free multi-tool with many features in the areas of Cybersecurity, Pentesting, OSINT, Network Scanning, Discord and Hacking\n\nhttps://github.com/loxy0dev/RedTiger-Tools\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Cybersecurity",
+                "Hacking"
+            ],
+            "URLs": [
+                "https://github.com/loxy0dev/RedTiger-Tools"
+            ]
+        },
+        {
+            "Message ID": 26289,
+            "discovered": "2024-11-01",
+            "post_title": "⚡️Hackers target critical zero-day vulnerability in PTZ cameras.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26288,
+            "discovered": "2024-11-01",
+            "post_title": "⚡️Microsoft: Chinese hackers use Quad7 botnet to steal credentials.\n\n#CyberBulletin",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26287,
+            "discovered": "2024-11-01",
+            "post_title": "⚡️CVE-2024-38094 Exploited: Attackers Gain Domain Access via Microsoft SharePoint Server.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26286,
+            "discovered": "2024-11-01",
+            "post_title": "⚡️CVE-2024-9632: 18-Year-Old Bug in http://X.Org Server Leaves Systems Vulnerable to Attack.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://X.Org"
+            ]
+        },
+        {
+            "Message ID": 26285,
+            "discovered": "2024-11-01",
+            "post_title": "⚡️EMERALDWHALE Operation Exposes Over 15,000 Cloud Credentials in Widespread Git Exploit.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26284,
+            "discovered": "2024-11-01",
+            "post_title": "⚡️Multiple Vulnerabilities found in Portainer using CodeQL.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Portainer"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26283,
+            "discovered": "2024-11-01",
+            "post_title": "⚡️New Phishing Kit Xiū gǒu Targets Users Across Five Countries With 2,000 Fake Sites.\n\n#CyberBulletin",
+            "Attack Type": "Phishing",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26282,
+            "discovered": "2024-10-31",
+            "post_title": "Dear friends,\n\nThis channel may not be visible in Europe. If you want to access this channel and pro-Palestine channels, please use a VPN located outside of Europe. Pro-Palestine channels are restricted in Europe, so to access them, you must use a VPN server outside the region. Many countries outside of Europe provide options for users seeking free VPN services.\n\nStay connected!\n\n#GhostsofPs 🍉",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26281,
+            "discovered": "2024-10-31",
+            "post_title": "⚡️North Korean Group Collaborates with Play Ransomware in Significant Cyber Attack.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26280,
+            "discovered": "2024-10-31",
+            "post_title": "⚡️New version of Android malware FakeCall redirects bank calls to scammers.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26279,
+            "discovered": "2024-10-31",
+            "post_title": "⚡️14-Year Vulnerability in qBittorrent Leaves Millions Exposed to RCE Attacks.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26278,
+            "discovered": "2024-10-31",
+            "post_title": "⚡️Researcher Exposes Critical Vulnerabilities in Google Cloud.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26277,
+            "discovered": "2024-10-31",
+            "post_title": "⚡️Fake Meta Ads Hijacking Facebook Accounts to Spread SYS01 Infostealer.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26276,
+            "discovered": "2024-10-31",
+            "post_title": "⚡️Chinese attackers accessed Canadian government networks – for five years.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26275,
+            "discovered": "2024-10-31",
+            "post_title": "⚡️Interbank confirms data breach following failed extortion, data leak.\n\n#CyberBulletin",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26274,
+            "discovered": "2024-10-30",
+            "post_title": "Feminism makes woman a corporate tax slave who will serve the globalist pedophile elites instead of raising her own family\n\nالنسوية تجعل المرأة عبدة ضريبية للشركات تخدم النخب العالمية المتحرشة بالأطفال بدلاً من تربية أسرتها",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26273,
+            "discovered": "2024-10-30",
+            "post_title": "⚡️Researchers have uncovered a malicious Python package posing as a #cryptocurrency trading tool. Downloaded over 1,300 times before removal, this #malware affects Windows and macOS systems.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26272,
+            "discovered": "2024-10-30",
+            "post_title": "⚡️DXPLOIT took down tulsi-incense website of Australia!\n\nhttps://check-host.net/check-report/1fc720cck123\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Australia"
+            ],
+            "URLs": [
+                "https://check-host.net/check-report/1fc720cck123"
+            ]
+        },
+        {
+            "Message ID": 26271,
+            "discovered": "2024-10-30",
+            "post_title": "⚡️4israel.co.il Down byRipperSec attacked the website.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "⚡️4israel.co.il"
+            ]
+        },
+        {
+            "Message ID": 26270,
+            "discovered": "2024-10-30",
+            "post_title": "⚡️Uncle Sam outs a Russian accused of developing Redline infostealing malware.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26269,
+            "discovered": "2024-10-30",
+            "post_title": "⚡️CVE-2024-45656: A 9.8 Severity Threat to IBM Power Systems Security.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26268,
+            "discovered": "2024-10-30",
+            "post_title": "⚡️Russian court fines Google $20,000,000,000,000,000,000,000,000,000,000,000.\n\nDon't hold your breath.\n\nA Russian court has ruled that Google owes Russian media stations around $20 decillion in fines for blocking their content, and the fines could get bigger.\n\nTo put that into perspective, the World Bank estimates global GDP as around $100 trillion, which is peanuts compared to the prospective fine. Google would therefore have to find more money than exists on Earth to pay Moscow - but on Tuesday fell a little short of that mark when it posted $88 billion quarterly revenue.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Moscow"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26267,
+            "discovered": "2024-10-30",
+            "post_title": "⚡️China's 'Evasive Panda' APT Debuts High-End Cloud Hijacking.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26266,
+            "discovered": "2024-10-30",
+            "post_title": "⚡️CVE-2024-32640: Automated SQL Injection Exploitation PoC\n\nA new exploit called \"Muraider\" has been developed to automate the detection and exploitation of CVE-2024-32640, a SQL injection vulnerability in Mura/Masa CMS. The tool uses Python and integrates with Ghauri for further exploitation.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Ghauri"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26265,
+            "discovered": "2024-10-30",
+            "post_title": "Israeli TSG IT Advanced System website taken offline by Mysterious Team Bangladesh\n\n⚡️https://tsgitsystems.com/heb/\nhttps://check-host.net/check-report/1fc6c87akc8a\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://tsgitsystems.com/heb/",
+                "https://check-host.net/check-report/1fc6c87akc8a"
+            ]
+        },
+        {
+            "Message ID": 26263,
+            "discovered": "2024-10-30",
+            "post_title": "⚡️Shadow Defenders, have successfully dumped the database of https://sgi.ac.in.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sgi.ac.in"
+            ]
+        },
+        {
+            "Message ID": 26262,
+            "discovered": "2024-10-30",
+            "post_title": "Israeli IMC Industry website taken offline by Mysterious Team Bangladesh \n\n⚡️https://imc-mw.com \nhttps://check-host.net/check-report/1fc32e25k10e\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://imc-mw.com",
+                "https://check-host.net/check-report/1fc32e25k10e"
+            ]
+        },
+        {
+            "Message ID": 26261,
+            "discovered": "2024-10-30",
+            "post_title": "Israeli Navigation Company website taken offline by Mysterious Team Bangladesh \n\n⚡️https://cielo-inertial.com\nhttps://check-host.net/check-report/1fc258cak88e\n\nIsraeli Bird Aero system\n\n⚡️https://birdaero.com\nhttps://check-host.net/check-report/1fc1e7eak5c0\n\nIsraeli Chemical Industry website taken offline\n\n⚡️https://shalon.co.il\nhttps://check-host.net/check-report/1fc2cd1ckd07\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "️https://shalon.co.il"
+            ],
+            "URLs": [
+                "https://cielo-inertial.com",
+                "https://check-host.net/check-report/1fc258cak88e",
+                "https://birdaero.com",
+                "https://check-host.net/check-report/1fc1e7eak5c0",
+                "https://shalon.co.il",
+                "https://check-host.net/check-report/1fc2cd1ckd07"
+            ]
+        },
+        {
+            "Message ID": 26260,
+            "discovered": "2024-10-29",
+            "post_title": "?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26259,
+            "discovered": "2024-10-29",
+            "post_title": "What thing about pc cuántico",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26258,
+            "discovered": "2024-10-29",
+            "post_title": "I need help",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26257,
+            "discovered": "2024-10-29",
+            "post_title": "⚡️New research reveals that AMD and Intel processors remain vulnerable to speculative execution attacks—more than six years after the Spectre flaw was identified, despite existing mitigations.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26256,
+            "discovered": "2024-10-29",
+            "post_title": "Israeli Orbit Communication System website burned by Mysterious Team Bangladesh \n\n⚡️https://orbit-cs.com\nhttps://check-host.net/check-report/1fc164d0k79d\n\nIsraeli Aerospace Heavy Industry website burned.\n\n⚡️https://pronatindustries.com\nhttps://check-host.net/check-report/1fc16d72kbe7\nhttps://check-host.net/check-report/1fc16f67ke5a\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://orbit-cs.com",
+                "https://check-host.net/check-report/1fc164d0k79d",
+                "https://pronatindustries.com",
+                "https://check-host.net/check-report/1fc16d72kbe7",
+                "https://check-host.net/check-report/1fc16f67ke5a"
+            ]
+        },
+        {
+            "Message ID": 26255,
+            "discovered": "2024-10-29",
+            "post_title": "How do we find out what these docs say?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26254,
+            "discovered": "2024-10-29",
+            "post_title": "⚡️Leaked Files Reveal U.K. Collaboration with Israeli Military on Psychological Warfare on Gaza. \n\nThe leaked documents detailing these encounters originated from a hack of the Israeli Occupying Forces (IOF) carried out by Anonymous. \n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Gaza"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26253,
+            "discovered": "2024-10-29",
+            "post_title": "Israeli Defence System charging company Epsilor website burned by Mysterious Team Bangladesh \n\n⚡️https://epsilor.com\nhttps://check-host.net/check-report/1fbf53edke13\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://epsilor.com",
+                "https://check-host.net/check-report/1fbf53edke13"
+            ]
+        },
+        {
+            "Message ID": 26252,
+            "discovered": "2024-10-29",
+            "post_title": "https://x.com/AnonTroyano303/status/1851176700056621125?t=vjJt2fHF9tGDq-zEApcC3g&s=35",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/AnonTroyano303/status/1851176700056621125?t=vjJt2fHF9tGDq-zEApcC3g&s=35"
+            ]
+        },
+        {
+            "Message ID": 26251,
+            "discovered": "2024-10-29",
+            "post_title": "Israeli Aerospace Manufacturing Company website burned.\n\n⚡️https://aerosol.co.il\nhttps://check-host.net/check-report/1fbea5b3k11f\n\nIsraeli Manufacturing Company website burned. \n\n⚡️https://bamicrowaves.co.il\nhttps://check-host.net/check-report/1fbec02fk531\n\nDown by Mysterious Team Bangladesh #OpIsrael \n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://aerosol.co.il",
+                "https://check-host.net/check-report/1fbea5b3k11f",
+                "https://bamicrowaves.co.il",
+                "https://check-host.net/check-report/1fbec02fk531"
+            ]
+        },
+        {
+            "Message ID": 26250,
+            "discovered": "2024-10-29",
+            "post_title": "⚡️Russia targets Ukrainian conscripts with Windows, Android malware.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26249,
+            "discovered": "2024-10-29",
+            "post_title": "⚡️CVE-2024-38821 (CVSS 9.1) Allows Authorization Bypass in Spring WebFlux Applications.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26248,
+            "discovered": "2024-10-29",
+            "post_title": "⚡️Sharp and Toshiba Tec MFPs Exposed: Multiple Vulnerabilities Put Businesses at Risk.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26247,
+            "discovered": "2024-10-29",
+            "post_title": "⚡️CVE-2024-46483 (CVSS 9.8): Xlight FTP Server Flaw Leaves Users Exposed to Remote Attacks, PoC Published.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26246,
+            "discovered": "2024-10-29",
+            "post_title": "⚡️Katz and Mouse Game: MaaS Infostealers Adapt to Patched Chrome Defenses.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26245,
+            "discovered": "2024-10-28",
+            "post_title": "Why are most hackers single?\n\nIs it the endless exploits or because love isn’t open source?",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26244,
+            "discovered": "2024-10-28",
+            "post_title": "⚡️A new attack technique bypasses #Microsoft's Driver Signature Enforcement on fully patched Windows systems, enabling attackers to load unsigned kernel drivers and compromising the integrity of OS security.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26243,
+            "discovered": "2024-10-28",
+            "post_title": "https://x.com/AnonTroyano303/status/1850797769092665665?t=1NhteZpJC2C9gzp0w6RtrA&s=35",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/AnonTroyano303/status/1850797769092665665?t=1NhteZpJC2C9gzp0w6RtrA&s=35"
+            ]
+        },
+        {
+            "Message ID": 26242,
+            "discovered": "2024-10-28",
+            "post_title": "⚡️Handala breached AGAS (http://agas.co.il), stating they accessed all 74 servers and main storage, compromising 18 TB of sensitive customer data.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://agas.co.il"
+            ]
+        },
+        {
+            "Message ID": 26241,
+            "discovered": "2024-10-28",
+            "post_title": "⚡️Israeli Ministry of Health Hacked, Doctors' Database Exposed\n\nA hacker breached the Israeli Ministry of Health, leaking personal information of doctors, including names, birth dates, workplaces, and contact details. The attacker has obtained full root access.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        }
+    ],
+    "INDOHAXSEC TEAM": []
 }
