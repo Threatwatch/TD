@@ -31698,6 +31698,18 @@
             "URLs": [
                 "https://t.co/23MZXHtGYh"
             ]
+        },
+        {
+            "Message ID": 3508,
+            "discovered": "2024-11-07",
+            "post_title": "Group: ransomhub\nApprox. Time: 14:34 07/11/24\nTitle: https://t.co/ugZreSGkU8",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/ugZreSGkU8"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -76248,6 +76260,18 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-43440"
+            ]
+        },
+        {
+            "Message ID": 92501,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Malwarebytes acquires AzireVPN to fuel additional VPN features and functionalities\n\nDate: November 7, 2024\n\nSource: https://www.malwarebytes.com/blog/personal/2024/11/malwarebytes-acquires-azirevpn-to-fuel-additional-vpn-features-and-functionalities\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/personal/2024/11/malwarebytes-acquires-azirevpn-to-fuel-additional-vpn-features-and-functionalities"
             ]
         }
     ],
