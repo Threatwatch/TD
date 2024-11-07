@@ -8967,6 +8967,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-police-department-captain-in-the-state-of-georgia-usa/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6483,
+            "discovered": "2024-11-07",
+            "post_title": "🚨🇩🇪RipperSec Targeted the Website of ICE- Israeli Community Europe\n\nhttps://darkwebinformer.com/rippersec-targeted-the-website-of-ice-israeli-community-europe/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rippersec-targeted-the-website-of-ice-israeli-community-europe/"
+            ]
+        },
+        {
+            "Message ID": 6482,
+            "discovered": "2024-11-07",
+            "post_title": "🚨🇷🇺Anonymous Italia Defaced Multiple Russian Websites\n\nhttps://darkwebinformer.com/anonymous-italia-defaced-multiple-russian-websites/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/anonymous-italia-defaced-multiple-russian-websites/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -15875,6 +15899,19 @@
             ],
             "URLs": [
                 "https://check-host.net/check-report/200aee93k57c"
+            ]
+        },
+        {
+            "Message ID": 5349,
+            "discovered": "2024-11-07",
+            "post_title": "❗ Turkish Ministry of Foreign Affairs website Downd by cyberattack from sylhet gang \n\n🎯target: \nhttps://www.mfa.gov.tr/\n\n💥check: \nhttps://check-host.net/check-report/200b0ad9k7bc\n\n\nThis comes within the framework of our response to the Turkish attack on innocent citizens\n\ncredz:-F07\n\n#SYLHETGANG_SG \n\n#team1915\n\n#op_turkey",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.mfa.gov.tr/\n",
+                "tps://check-host.net/check-report/200b0ad9k7bc\n\n"
             ]
         }
     ],
