@@ -8928,6 +8928,45 @@
             "URLs": [
                 "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-account-access-details-of-otp-bank-hungary/\n\nT"
             ]
+        },
+        {
+            "Message ID": 6481,
+            "discovered": "2024-11-07",
+            "post_title": "🚨🇸🇦A Threat Actor Has Allegedly Leaked Data of an Unidentified Saudi Arabia Shopping Site\n\nhttps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-an-unidentified-saudi-arabia-shopping-site/\n\nThe threat actor claims to have leaked data from an unidentified Saudi Arabian shopping site, reportedly including a mailing list of 92,000 email addresses and 80,000 credit card records containing names, card numbers, and expiration dates.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "an Unidentified Saudi Arabia Shopping Site"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-data-of-an-unidentified-saudi-arabia-shopping-site/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6480,
+            "discovered": "2024-11-07",
+            "post_title": "🚨🇬🇧A Threat Actor is Allegedly Selling Data of the UK Parliament\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-the-uk-parliament/\n\nThe threat actor claims to be offering for sale 156.7 MB of data purportedly leaked from the UK Parliament.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-data-of-the-uk-parliament/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6479,
+            "discovered": "2024-11-07",
+            "post_title": "🚨🇺🇸A Threat Actor Allegedly Leaked Data of Police Department Captain in the state of Georgia, USA\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-police-department-captain-in-the-state-of-georgia-usa/\n\nThe threat actor claims to be selling a trove of over 2.5GB of hacked emails belonging to a Police Department Captain in Georgia, USA. This compromised data reportedly includes highly sensitive information, such as inmate records, officer names and birthdates, confidential informant voicemails, identification documents, and case details. The emails are said to cover a period from 2012 through September 2024.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Georgia",
+                "USA",
+                "Georgia",
+                "USA"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-leaked-data-of-police-department-captain-in-the-state-of-georgia-usa/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -15825,6 +15864,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5348,
+            "discovered": "2024-11-07",
+            "post_title": "Das kann bank (dkb) is germany bank in berlin Downd by cyberattack from sylhet gang \n\nhttps://check-host.net/check-report/200aee93k57c\n\ncredz:-D01\n\nused:  vulcanC2\n#op_Germany \n\n#SYLHETGANG_SG",
+            "Attack Type": "Unknown",
+            "Location": [
+                "germany"
+            ],
+            "URLs": [
+                "https://check-host.net/check-report/200aee93k57c"
+            ]
         }
     ],
     "Hackmanac Cyber News": [
@@ -76452,6 +76503,30 @@
             ],
             "URLs": [
                 "https://demonforums.net/Thread-Aws-credits-accounts-5-100k--138446"
+            ]
+        },
+        {
+            "Message ID": 92514,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Strata Cloud Manager: One Interface, Complete Network Security Control\n\nDate: November 7, 2024\n\nSource: https://www.paloaltonetworks.com/blog/2024/11/strata-cloud-manager-one-interface-complete-network-security-control/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.paloaltonetworks.com/blog/2024/11/strata-cloud-manager-one-interface-complete-network-security-control/"
+            ]
+        },
+        {
+            "Message ID": 92513,
+            "discovered": "2024-11-07",
+            "post_title": "Title: 갤럭시 스마트폰 절전 모드 및 라이트 모드로 배터리 관리 방법\n\nDate: November 7, 2024\n\nSource: https://wezard4u.tistory.com/429319\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://wezard4u.tistory.com/429319"
             ]
         }
     ],
