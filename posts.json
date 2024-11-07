@@ -76976,6 +76976,76 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 26352,
+            "discovered": "2024-11-07",
+            "post_title": "⚡️Meta’s Instagram bans Journalist Anas Al-Sharif’s account —Anas is a journalist currently reporting from North Gaza.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "North Gaza"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26351,
+            "discovered": "2024-11-07",
+            "post_title": "⚡️INTERPOL has taken down over 22,000 malicious servers in its Operation Synergia II, targeting phishing, ransomware, and malware.\n\n#CyberBulletin",
+            "Attack Type": "Phishing",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26350,
+            "discovered": "2024-11-07",
+            "post_title": "⚡️A new attack exploits #Microsoft SaaS tools like Teams and OneDrive, enabling malware distribution through trusted channels.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26349,
+            "discovered": "2024-11-07",
+            "post_title": "⚡️Cisco has issued updates for CVE-2024-20418, a critical vulnerability in Ultra-Reliable Wireless Backhaul Access Points (CVSS: 10.0) that allows unauthorized root command execution.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26348,
+            "discovered": "2024-11-07",
+            "post_title": "⚡️MirrorFace, the China-aligned hacker group, has targeted a European diplomatic organization for the first time, using a phishing attack linked to the upcoming World Expo in 2025.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26347,
+            "discovered": "2024-11-07",
+            "post_title": "⚡️The CopyRh(ight)adamantys phishing campaign is leveraging copyright themes to spread the Rhadamanthys stealer, while Kaspersky reveals SteelFox #malware, exploiting vulnerable drivers for data theft.\n\n#CyberBulletin",
+            "Attack Type": "Phishing",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 26346,
+            "discovered": "2024-11-07",
+            "post_title": "⚡️Canada orders TikTok to shut down operations over national security concerns.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "INDOHAXSEC TEAM": []
