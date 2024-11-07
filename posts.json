@@ -75504,6 +75504,16 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-38286"
             ]
+        },
+        {
+            "Message ID": 92451,
+            "discovered": "2024-11-07",
+            "post_title": "Victim: Winnebago Public School Foundation\n\nDetection Date: Thu Nov 07 11:45:28 2024\n\nThreat Actor: interlock\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": [
