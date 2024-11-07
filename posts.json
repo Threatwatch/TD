@@ -13683,6 +13683,16 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 7194,
+            "discovered": "2024-11-07",
+            "post_title": "what can you do",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "SYLHET GANG-SG 🏴": [
@@ -36420,6 +36430,81 @@
             "URLs": [
                 "petech.us),",
                 "somfeed.it/index.php?page=post_details&id_post=18435"
+            ]
+        },
+        {
+            "Message ID": 4107,
+            "discovered": "2024-11-07",
+            "post_title": "ID: 18442\n⚠ Thu, 07 Nov 2024 03:19:53 UTC\n🥷 hunters\n🎯 New Law, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18442",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18442"
+            ]
+        },
+        {
+            "Message ID": 4106,
+            "discovered": "2024-11-07",
+            "post_title": "ID: 18441\n⚠ Wed, 06 Nov 2024 22:41:35 UTC\n🥷 ransomhub\n🎯 arcoexc.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18441",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "coexc.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18441"
+            ]
+        },
+        {
+            "Message ID": 4105,
+            "discovered": "2024-11-07",
+            "post_title": "ID: 18440\n⚠ Wed, 06 Nov 2024 22:44:40 UTC\n🥷 ransomhub\n🎯 brandenburgerplumbing.com, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18440",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "andenburgerplumbing.com, ",
+                "somfeed.it/index.php?page=post_details&id_post=18440"
+            ]
+        },
+        {
+            "Message ID": 4104,
+            "discovered": "2024-11-07",
+            "post_title": "ID: 18439\n⚠ Thu, 07 Nov 2024 01:41:19 UTC\n🥷 play\n🎯 Postcard Mania, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18439",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18439"
+            ]
+        },
+        {
+            "Message ID": 4103,
+            "discovered": "2024-11-07",
+            "post_title": "ID: 18438\n⚠ Wed, 06 Nov 2024 22:52:27 UTC\n🥷 ransomhub\n🎯 www.msdl.ca, Canada\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18438",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Canada"
+            ],
+            "URLs": [
+                "w.msdl.ca, ",
+                "somfeed.it/index.php?page=post_details&id_post=18438"
+            ]
+        },
+        {
+            "Message ID": 4102,
+            "discovered": "2024-11-07",
+            "post_title": "ID: 18437\n⚠ Wed, 06 Nov 2024 21:18:04 UTC\n🥷 meow\n🎯 Lincoln University, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18437",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18437"
             ]
         }
     ],
