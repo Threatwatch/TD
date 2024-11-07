@@ -15725,6 +15725,26 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 5347,
+            "discovered": "2024-11-07",
+            "post_title": "⏱️⏱️\n\n#SYLHETGANG_SG \n\n#op_Germany",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 5346,
+            "discovered": "2024-11-07",
+            "post_title": "German police assault Muslim women who support Palestine 💔⏱️\n\n#SYLHETGANG_SG",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "Hackmanac Cyber News": [
@@ -75349,6 +75369,19 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10947"
+            ]
+        },
+        {
+            "Message ID": 92447,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Canada Orders TikTok to Shut Down Canadian Operations Over Security Concerns\n\nDate: Nov 07, 2024\n\nSource: https://thehackernews.com/2024/11/canada-orders-tiktok-to-shut-down.html\n\n#News #Canada #Canada",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Canada",
+                "Canada"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/canada-orders-tiktok-to-shut-down.html"
             ]
         }
     ],
