@@ -77044,6 +77044,16 @@
             "URLs": [
                 "https://www.scworld.com/brief/attacks-with-novel-steelfox-trojan-hit-windows-machines"
             ]
+        },
+        {
+            "Message ID": 92543,
+            "discovered": "2024-11-07",
+            "post_title": "Victim: Lexco\n\nDetection Date: Thu Nov 07 20:44:40 2024\n\nThreat Actor: meow\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
         }
     ],
     "RipperSec | 新闻频道 📑": [
