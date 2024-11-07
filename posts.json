@@ -75726,6 +75726,68 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-50164"
             ]
+        },
+        {
+            "Message ID": 92472,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-50156\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50156\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/msm: Avoid NULL dereference in msm_disp_state_print_regs()\n\nIf the allocation in msm_disp_state_dump_regs() failed then\n`block->state` can be NULL. The msm_disp_state_print_regs() function\n_does_ have code to try to handle it with:\n\n  if (*reg)\n    dump_addr = *reg;\n\n...but since \"dump_addr\" is initialized to NULL the above is actually\na noop. The code then goes on to dereference `dump_addr`.\n\nMake the function print \"Registers not stored\" when it sees a NULL to\nsolve this. Since we're touching the code, fix\nmsm_disp_state_print_regs() not to pointlessly take a double-pointer\nand properly mark the pointer as `const`.\n\nPatchwork: https://patchwork.freedesktop.org/patch/619657/\n\nPublication Date: Thu Nov 07 13:39:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50156",
+                "https://patchwork.freedesktop.org/patch/619657/"
+            ]
+        },
+        {
+            "Message ID": 92471,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-50157\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50157\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nRDMA/bnxt_re: Avoid CPU lockups due fifo occupancy check loop\n\nDriver waits indefinitely for the fifo occupancy to go below a threshold\nas soon as the pacing interrupt is received. This can cause soft lockup on\none of the processors, if the rate of DB is very high.\n\nAdd a loop count for FPGA and exit the __wait_for_fifo_occupancy_below_th\nif the loop is taking more time. Pacing will be continuing until the\noccupancy is below the threshold. This is ensured by the checks in\nbnxt_re_pacing_timer_exp and further scheduling the work for pacing based\non the fifo occupancy.\n\nPublication Date: Thu Nov 07 13:39:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "DB"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50157"
+            ]
+        },
+        {
+            "Message ID": 92470,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-50158\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50158\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nRDMA/bnxt_re: Fix out of bound check\n\nDriver exports pacing stats only on GenP5 and P7 adapters. But while\nparsing the pacing stats, driver has a check for \"rdev->dbr_pacing\".  This\ncaused a trace when KASAN is enabled.\n\nBUG: KASAN: slab-out-of-bounds in bnxt_re_get_hw_stats+0x2b6a/0x2e00 [bnxt_re]\nWrite of size 8 at addr ffff8885942a6340 by task modprobe/4809\n\nPublication Date: Thu Nov 07 13:39:27 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50158"
+            ]
+        },
+        {
+            "Message ID": 92469,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-50159\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50159\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nfirmware: arm_scmi: Fix the double free in scmi_debugfs_common_setup()\n\nClang static checker(scan-build) throws below warning：\n  |  drivers/firmware/arm_scmi/driver.c:line 2915, column 2\n  |        Attempt to free released memory.\n\nWhen devm_add_action_or_reset() fails, scmi_debugfs_common_cleanup()\nwill run twice which causes double free of 'dbg->name'.\n\nRemove the redundant scmi_debugfs_common_cleanup() to fix this problem.\n\nPublication Date: Thu Nov 07 13:39:16 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Clang"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50159"
+            ]
+        },
+        {
+            "Message ID": 92468,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-50160\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50160\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nALSA: hda/cs8409: Fix possible NULL dereference\n\nIf snd_hda_gen_add_kctl fails to allocate memory and returns NULL, then\nNULL pointer dereference will occur in the next line.\n\nSince dolphin_fixups function is a hda_fixup function which is not supposed\nto return any errors, add simple check before dereference, ignore the fail.\n\nFound by Linux Verification Center (linuxtesting.org) with SVACE.\n\nPublication Date: Thu Nov 07 13:39:05 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "SVACE"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50160",
+                "linuxtesting.org"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
