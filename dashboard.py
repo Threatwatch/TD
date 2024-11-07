@@ -41,7 +41,9 @@ channel_urls = [
     "https://t.me/RansomwareNewsVX",
     "https://t.me/RansomFeedNews",
     "https://t.me/yildizthreatnews",
-    "https://t.me/cyberthint"
+    "https://t.me/cyberthint",
+    "https://t.me/GhostClanInt",
+    "https://t.me/INDOHAXSEC"
 ]
 
 
