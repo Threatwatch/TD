@@ -31662,6 +31662,42 @@
                 "Approx"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 3507,
+            "discovered": "2024-11-07",
+            "post_title": "Group: lynx\nApprox. Time: 12:37 07/11/24\nTitle: https://t.co/laYEZiZNGs",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/laYEZiZNGs"
+            ]
+        },
+        {
+            "Message ID": 3506,
+            "discovered": "2024-11-07",
+            "post_title": "Group: lynx\nApprox. Time: 12:37 07/11/24\nTitle: https://t.co/Sy4oFvXZks",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/Sy4oFvXZks"
+            ]
+        },
+        {
+            "Message ID": 3505,
+            "discovered": "2024-11-07",
+            "post_title": "Group: lynx\nApprox. Time: 12:37 07/11/24\nTitle: https://t.co/23MZXHtGYh",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/23MZXHtGYh"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -75859,6 +75895,78 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10526"
+            ]
+        },
+        {
+            "Message ID": 92484,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Hackers and AI – Should we be worried?\n\nDate: November 7, 2024\n\nSource: https://www.pandasecurity.com/en/mediacenter/hackers-and-ai-should-we-be-worried/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "AI"
+            ],
+            "URLs": [
+                "https://www.pandasecurity.com/en/mediacenter/hackers-and-ai-should-we-be-worried/"
+            ]
+        },
+        {
+            "Message ID": 92483,
+            "discovered": "2024-11-07",
+            "post_title": "Title: A Hacker's Guide to Password Cracking\n\nDate: Nov 07, 2024\n\nSource: https://thehackernews.com/2024/11/a-hackers-guide-to-password-cracking.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/a-hackers-guide-to-password-cracking.html"
+            ]
+        },
+        {
+            "Message ID": 92482,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Unwrapping the emerging Interlock ransomware attack\n\nDate: November 7, 2024\n\nSource: https://blog.talosintelligence.com/emerging-interlock-ransomware/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://blog.talosintelligence.com/emerging-interlock-ransomware/"
+            ]
+        },
+        {
+            "Message ID": 92481,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2023-31456\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-31456\n\nDescription: There is an SSRF vulnerability in the Fluid Topics platform that affects versions prior to 4.3, where the server can be forced to make arbitrary requests to internal and external resources by an authenticated user.\n\nPublication Date: Thu Nov 07 15:09:15 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-31456"
+            ]
+        },
+        {
+            "Message ID": 92480,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2023-30312\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-30312\n\nDescription: An issue discovered in OpenWrt 18.06, 19.07, 21.02, 22.03, and beyond allows off-path attackers to hijack TCP sessions, which could lead to a denial of service, impersonating the client to the server (e.g., for access to files over FTP), and impersonating the server to the client (e.g., to deliver false information from a finance website). This occurs because nf_conntrack_tcp_no_window_check is true by default.\n\nPublication Date: Thu Nov 07 15:09:04 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-30312"
+            ]
+        },
+        {
+            "Message ID": 92479,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-24914\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-24914\n\nDescription: Authenticated Gaia users can inject code or commands by global variables through special HTTP requests. A Security fix that mitigates this vulnerability is available.\n\nPublication Date: Thu Nov 07 15:08:54 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-24914"
             ]
         }
     ],
