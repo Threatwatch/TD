@@ -75492,6 +75492,18 @@
             "URLs": [
                 "https://thehackernews.com/2024/11/cisco-releases-patch-for-critical-urwb.html"
             ]
+        },
+        {
+            "Message ID": 92450,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-38286\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38286\n\nDescription: Allocation of Resources Without Limits or Throttling vulnerability in Apache Tomcat.\n\nThis issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.0-M20, from 10.1.0-M1 through 10.1.24, from 9.0.13 through 9.0.89. Older, unsupported versions may also be affected.\n\n\nUsers are recommended to upgrade to version 11.0.0-M21, 10.1.25, or 9.0.90, which fixes the issue.\n\n\n\nApache Tomcat, under certain configurations on any platform, allows an attacker to cause an OutOfMemoryError by abusing the TLS handshake process.\n\nPublication Date: Thu Nov 07 11:01:57 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Apache Tomcat"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38286"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
