@@ -75702,6 +75702,30 @@
             "URLs": [
                 "https://thehackernews.com/2024/11/steelfox-and-rhadamanthys-malware-use.html"
             ]
+        },
+        {
+            "Message ID": 92467,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-50163\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50163\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nbpf: Make sure internal and UAPI bpf_redirect flags don't overlap\n\nThe bpf_redirect_info is shared between the SKB and XDP redirect paths,\nand the two paths use the same numeric flag values in the ri->flags\nfield (specifically, BPF_F_BROADCAST == BPF_F_NEXTHOP). This means that\nif skb bpf_redirect_neigh() is used with a non-NULL params argument and,\nsubsequently, an XDP redirect is performed using the same\nbpf_redirect_info struct, the XDP path will get confused and end up\ncrashing, which syzbot managed to trigger.\n\nWith the stack-allocated bpf_redirect_info, the structure is no longer\nshared between the SKB and XDP paths, so the crash doesn't happen\nanymore. However, different code paths using identically-numbered flag\nvalues in the same struct field still seems like a bit of a mess, so\nthis patch cleans that up by moving the flag definitions together and\nredefining the three flags in BPF_F_REDIRECT_INTERNAL to not overlap\nwith the flags used for XDP. It also adds a BUILD_BUG_ON() check to make\nsure the overlap is not re-introduced by mistake.\n\nPublication Date: Thu Nov 07 13:16:38 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50163"
+            ]
+        },
+        {
+            "Message ID": 92466,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-50164\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50164\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nbpf: Fix overloading of MEM_UNINIT's meaning\n\nLonial reported an issue in the BPF verifier where check_mem_size_reg()\nhas the following code:\n\n    if (!tnum_is_const(reg->var_off))\n        /* For unprivileged variable accesses, disable raw\n         * mode so that the program is required to\n         * initialize all the memory that the helper could\n         * just partially fill up.\n         */\n         meta = NULL;\n\nThis means that writes are not checked when the register containing the\nsize of the passed buffer has not a fixed size. Through this bug, a BPF\nprogram can write to a map which is marked as read-only, for example,\n.rodata global maps.\n\nThe problem is that MEM_UNINIT's initial meaning that \"the passed buffer\nto the BPF helper does not need to be initialized\" which was added back\nin commit 435faee1aae9 (\"bpf, verifier: add ARG_PTR_TO_RAW_STACK type\")\ngot overloaded over time with \"the passed buffer is being written to\".\n\nThe problem however is that checks such as the above which were added later\nvia 06c1c049721a (\"bpf: allow helpers access to variable memory\") set meta\nto NULL in order force the user to always initialize the passed buffer to\nthe helper. Due to the current double meaning of MEM_UNINIT, this bypasses\nverifier write checks to the memory (not boundary checks though) and only\nassumes the latter memory is read instead.\n\nFix this by reverting MEM_UNINIT back to its original meaning, and having\nMEM_WRITE as an annotation to BPF helpers in order to then trigger the\nBPF verifier checks for writing to memory.\n\nSome notes: check_arg_pair_ok() ensures that for ARG_CONST_SIZE{,_OR_ZERO}\nwe can access fn->arg_type[arg - 1] since it must contain a preceding\nARG_PTR_TO_MEM. For check_mem_reg() the meta argument can be removed\naltogether since we do check both BPF_READ and BPF_WRITE. Same for the\nequivalent check_kfunc_mem_size_reg().\n\nPublication Date: Thu Nov 07 13:16:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "check_kfunc_mem_size_reg"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50164"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
