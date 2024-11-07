@@ -9121,6 +9121,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6495,
+            "discovered": "2024-11-07",
+            "post_title": "🚨🇦🇪Nejoum Al Jazeera Has Been Claimed a Victim to DARKVAULT Ransomware\n\nhttps://darkwebinformer.com/nejoum-al-jazeera-has-been-claimed-a-victim-to-darkvault-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/nejoum-al-jazeera-has-been-claimed-a-victim-to-darkvault-ransomware/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -36952,6 +36964,42 @@
             ],
             "URLs": [
                 "somfeed.it/index.php?page=post_details&id_post=18450"
+            ]
+        },
+        {
+            "Message ID": 4118,
+            "discovered": "2024-11-07",
+            "post_title": "ID: 18453\n⚠ Thu, 07 Nov 2024 13:16:01 UTC\n🥷 incransom\n🎯 europe-qualité, France\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18453",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18453"
+            ]
+        },
+        {
+            "Message ID": 4117,
+            "discovered": "2024-11-07",
+            "post_title": "ID: 18452\n⚠ Thu, 07 Nov 2024 17:39:28 UTC\n🥷 meow\n🎯 Equator Worldwide, UK\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18452",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18452"
+            ]
+        },
+        {
+            "Message ID": 4116,
+            "discovered": "2024-11-07",
+            "post_title": "ID: 18451\n⚠ Thu, 07 Nov 2024 18:40:23 UTC\n🥷 meow\n🎯 Lexco, Chile\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18451",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Chile"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18451"
             ]
         }
     ],
@@ -77075,6 +77123,164 @@
             ],
             "URLs": [
                 "https://adlumin.com/post/how-to-overcome-mfa-challenges-for-stronger-security/"
+            ]
+        },
+        {
+            "Message ID": 92557,
+            "discovered": "2024-11-07",
+            "post_title": "Vulnerability ID: CVE-2024-49366\n\nDescription: Nginx UI is a web user interface for the Nginx web server. Nginx UI v2.0.0-beta.35 and earlier gets the value from the json field without verification, and can construct a value value in the form of `../../`. Arbitrary files can be written to the server, which may result in loss of permissions. Version 2.0.0-beta.26 fixes the issue.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-49366\n\nDate of Publishing: 2024/11/07\n\nLink to Exploit: https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-prv4-rx44-f7jr\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49366",
+                "https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-prv4-rx44-f7jr"
+            ]
+        },
+        {
+            "Message ID": 92556,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-27037\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-27037\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nclk: zynq: Prevent null pointer dereference caused by kmalloc failure\n\nThe kmalloc() in zynq_clk_setup() will return null if the\nphysical memory has run out. As a result, if we use snprintf()\nto write data to the null address, the null pointer dereference\nbug will happen.\n\nThis patch uses a stack variable to replace the kmalloc().\n\nPublication Date: Thu Nov 07 21:09:42 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27037"
+            ]
+        },
+        {
+            "Message ID": 92555,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-36030\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-36030\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nocteontx2-af: fix the double free in rvu_npc_freemem()\n\nClang static checker(scan-build) warning：\ndrivers/net/ethernet/marvell/octeontx2/af/rvu_npc.c:line 2184, column 2\nAttempt to free released memory.\n\nnpc_mcam_rsrcs_deinit() has released 'mcam->counters.bmap'. Deleted this\nredundant kfree() to fix this double free problem.\n\nPublication Date: Thu Nov 07 21:09:31 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Clang"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-36030"
+            ]
+        },
+        {
+            "Message ID": 92554,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2023-52678\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-52678\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amdkfd: Confirm list is non-empty before utilizing list_first_entry in kfd_topology.c\n\nBefore using list_first_entry, make sure to check that list is not\nempty, if list is empty return -ENODATA.\n\nFixes the below:\ndrivers/gpu/drm/amd/amdgpu/../amdkfd/kfd_topology.c:1347 kfd_create_indirect_link_prop() warn: can 'gpu_link' even be NULL?\ndrivers/gpu/drm/amd/amdgpu/../amdkfd/kfd_topology.c:1428 kfd_add_peer_prop() warn: can 'iolink1' even be NULL?\ndrivers/gpu/drm/amd/amdgpu/../amdkfd/kfd_topology.c:1433 kfd_add_peer_prop() warn: can 'iolink2' even be NULL?\n\nPublication Date: Thu Nov 07 21:09:20 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-52678"
+            ]
+        },
+        {
+            "Message ID": 92553,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2023-2746\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-2746\n\nDescription: The Rockwell Automation Enhanced HIM software contains \n\nan API that the application uses that is not protected sufficiently and uses incorrect Cross-Origin Resource Sharing (CORS) settings and, as a result, is vulnerable to a Cross Site Request Forgery (CSRF) attack. To exploit this vulnerability, a malicious user would have to convince a user to click on an untrusted link through a social engineering attack or successfully perform a Cross Site Scripting Attack (XSS). Exploitation of a CSRF could potentially lead to sensitive information disclosure and full remote access to the affected products.\n\nPublication Date: Thu Nov 07 21:09:09 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-2746"
+            ]
+        },
+        {
+            "Message ID": 92552,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-49769\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49769\n\nDescription: Waitress is a Web Server Gateway Interface server for Python 2 and 3. When a remote client closes the connection before waitress has had the opportunity to call getpeername() waitress won't correctly clean up the connection leading to the main thread attempting to write to a socket that no longer exists, but not removing it from the list of sockets to attempt to process. This leads to a busy-loop calling the write function. A remote attacker could run waitress out of available sockets with very little resources required. Waitress 3.0.1 contains fixes that remove the race condition.\n\nPublication Date: Thu Nov 07 21:08:55 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49769"
+            ]
+        },
+        {
+            "Message ID": 92551,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2023-2072\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-2072\n\nDescription: The Rockwell Automation PowerMonitor 1000 contains stored cross-site scripting vulnerabilities within the web page of the product.  The vulnerable pages do not require privileges to access and can be injected with code by an attacker which could be used to leverage an attack on an authenticated user resulting in remote code execution and potentially the complete loss of confidentiality, integrity, and availability of the product.\n\nPublication Date: Thu Nov 07 21:08:44 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-2072"
+            ]
+        },
+        {
+            "Message ID": 92550,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-47073\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47073\n\nDescription: DataEase is an open source data visualization analysis tool that helps users quickly analyze data and gain insights into business trends. In affected versions a the lack of signature verification of jwt tokens allows attackers to forge jwts which then allow access to any interface. The vulnerability has been fixed in v2.10.2 and all users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Thu Nov 07 21:08:33 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47073"
+            ]
+        },
+        {
+            "Message ID": 92549,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2020-11916\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2020-11916\n\nDescription: An issue was discovered in Siime Eye 14.1.00000001.3.330.0.0.3.14. The password for the root user is hashed using an old and deprecated hashing technique. Because of this deprecated hashing, the success probability of an attacker in an offline cracking attack is greatly increased.\n\nPublication Date: Thu Nov 07 21:08:22 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2020-11916"
+            ]
+        },
+        {
+            "Message ID": 92548,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2021-4043\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-4043\n\nDescription: NULL Pointer Dereference in GitHub repository gpac/gpac prior to 1.1.0.\n\nPublication Date: Thu Nov 07 21:08:10 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-4043"
+            ]
+        },
+        {
+            "Message ID": 92547,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2020-11917\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2020-11917\n\nDescription: An issue was discovered in Siime Eye 14.1.00000001.3.330.0.0.3.14. It uses a default SSID value, which makes it easier for remote attackers to discover the physical locations of many Siime Eye devices, violating the privacy of users who do not wish to disclose their ownership of this type of device. (Various resources such as wigle.net can be use for mapping of SSIDs to physical locations.)\n\nPublication Date: Thu Nov 07 21:08:00 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2020-11917",
+                "wigle.net"
+            ]
+        },
+        {
+            "Message ID": 92546,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2020-11918\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2020-11918\n\nDescription: An issue was discovered in Siime Eye 14.1.00000001.3.330.0.0.3.14. When a backup file is created through the web interface, information on all users, including passwords, can be found in cleartext in the backup file. An attacker capable of accessing the web interface can create the backup file.\n\nPublication Date: Thu Nov 07 21:07:49 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2020-11918"
+            ]
+        },
+        {
+            "Message ID": 92545,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2020-11919\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2020-11919\n\nDescription: An issue was discovered in Siime Eye 14.1.00000001.3.330.0.0.3.14. There is no CSRF protection.\n\nPublication Date: Thu Nov 07 21:07:37 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2020-11919"
             ]
         }
     ],
