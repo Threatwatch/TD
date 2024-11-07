@@ -75514,6 +75514,42 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 92454,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Malicious PyPI Package 'Fabrice' Found Stealing AWS Keys from Thousands of Developers\n\nDate: Nov 07, 2024\n\nSource: https://thehackernews.com/2024/11/malicious-pypi-package-fabrice-found.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/malicious-pypi-package-fabrice-found.html"
+            ]
+        },
+        {
+            "Message ID": 92453,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-30140\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-30140\n\nDescription: HCL BigFix Compliance is affected by unvalidated redirects and forwards.  The HOST header can be manipulated by an attacker and as a result, it can poison the web cache and provide back to users being served the page.\n\nPublication Date: Thu Nov 07 12:08:28 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-30140"
+            ]
+        },
+        {
+            "Message ID": 92452,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-30141\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-30141\n\nDescription: HCL BigFix Compliance is vulnerable to the generation of error messages containing sensitive information.  Detailed error messages can provide enticement information or expose information about its environment, users, or associated data.\n\nPublication Date: Thu Nov 07 12:08:17 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-30141"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
