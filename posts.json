@@ -76273,6 +76273,28 @@
             "URLs": [
                 "https://www.malwarebytes.com/blog/personal/2024/11/malwarebytes-acquires-azirevpn-to-fuel-additional-vpn-features-and-functionalities"
             ]
+        },
+        {
+            "Message ID": 92503,
+            "discovered": "2024-11-07",
+            "post_title": "Victim: europe-qualité\n\nDetection Date: Thu Nov 07 17:46:43 2024\n\nThreat Actor: inc ransom\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": []
+        },
+        {
+            "Message ID": 92502,
+            "discovered": "2024-11-07",
+            "post_title": "Victim: ucv.es\n\nDetection Date: Thu Nov 07 17:46:29 2024\n\nThreat Actor: inc ransom\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ucv.es"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
