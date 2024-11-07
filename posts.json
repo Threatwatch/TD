@@ -75812,6 +75812,54 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-50154"
             ]
+        },
+        {
+            "Message ID": 92478,
+            "discovered": "2024-11-07",
+            "post_title": "Title: CrowdStrike Launches AI Red Team Services to Secure AI Innovation\n\nDate: November 7, 2024\n\nSource: https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-ai-red-team-services/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-ai-red-team-services/"
+            ]
+        },
+        {
+            "Message ID": 92477,
+            "discovered": "2024-11-07",
+            "post_title": "Title: BlueNoroff Hidden Risk | Threat Actor Targets Macs with Fake Crypto News and Novel Persistence\n\nDate: November 7, 2024\n\nSource: https://www.sentinelone.com/labs/bluenoroff-hidden-risk-threat-actor-targets-macs-with-fake-crypto-news-and-novel-persistence/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.sentinelone.com/labs/bluenoroff-hidden-risk-threat-actor-targets-macs-with-fake-crypto-news-and-novel-persistence/"
+            ]
+        },
+        {
+            "Message ID": 92476,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-51504\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51504\n\nDescription: When using IPAuthenticationProvider in ZooKeeper Admin Server there is a possibility of Authentication Bypass by Spoofing -- this only impacts IP based authentication implemented in ZooKeeper Admin Server. Default configuration of client's IP address detection in IPAuthenticationProvider, which uses HTTP request headers, is weak and allows an attacker to bypass authentication via spoofing client's IP address in request headers. Default configuration honors X-Forwarded-For HTTP header to read client's IP address. X-Forwarded-For request header is mainly used by proxy servers to identify the client and can be easily spoofed by an attacker pretending that the request comes from a different IP address. Admin Server commands, such as snapshot and restore arbitrarily can be executed on successful exploitation which could potentially lead to information leakage or service availability issues. Users are recommended to upgrade to version 3.9.3, which fixes this issue.\n\nPublication Date: Thu Nov 07 14:02:32 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51504"
+            ]
+        },
+        {
+            "Message ID": 92475,
+            "discovered": "2024-11-07",
+            "post_title": "CVE-ID: CVE-2024-10526\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10526\n\nDescription: Rapid7 Velociraptor MSI Installer versions below 0.73.3 suffer from a vulnerability whereby it creates the installation directory with WRITE_DACL permission to the BUILTIN\\\\Users group. This allows local users who are not administrators to grant themselves the Full Control permission on Velociraptor's files. By modifying Velociraptor's files, local users can subvert the binary and cause the Velociraptor service to execute arbitrary code as the SYSTEM user, or to replace the Velociraptor binary completely.  This issue is fixed in version 0.73.3.\n\nPublication Date: Thu Nov 07 14:02:21 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10526"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
