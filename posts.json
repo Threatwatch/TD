@@ -8856,6 +8856,18 @@
                 "N/A"
             ],
             "URLs": []
+        },
+        {
+            "Message ID": 6473,
+            "discovered": "2024-11-07",
+            "post_title": "https://thehackernews.com/2024/11/synology-urges-patch-for-critical-zero.html",
+            "Attack Type": "Hacking",
+            "Location": [
+                "https://thehackernews.com/2024/11/synology-urges-patch-for-critical-zero.html"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/synology-urges-patch-for-critical-zero.html"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -75248,6 +75260,19 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-33250"
+            ]
+        },
+        {
+            "Message ID": 92443,
+            "discovered": "2024-11-07",
+            "post_title": "Title: ISC Stormcast For Thursday, November 7th, 2024 https://isc.sans.edu/podcastdetail/9212, (Thu, Nov 7th)\n\nDate: November 7, 2024\n\nSource: https://isc.sans.edu/diary/rss/31418\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/podcastdetail/9212",
+                "https://isc.sans.edu/diary/rss/31418"
             ]
         }
     ],
