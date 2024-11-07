@@ -8991,6 +8991,30 @@
             "URLs": [
                 "ps://darkwebinformer.com/anonymous-italia-defaced-multiple-russian-websites/"
             ]
+        },
+        {
+            "Message ID": 6485,
+            "discovered": "2024-11-07",
+            "post_title": "🚨🇺🇸Winnebago Public Schools Has Been Claimed a Victim to INTERLOCK Ransomware\n\nhttps://darkwebinformer.com/winnebago-public-schools-has-been-claimed-a-victim-to-interlock-ransomware/\n\nThe group claims to have obtained 223GB of data from the organization, which reportedly includes personal information of employees and students, as well as SQL databases.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/winnebago-public-schools-has-been-claimed-a-victim-to-interlock-ransomware/\n\nT"
+            ]
+        },
+        {
+            "Message ID": 6484,
+            "discovered": "2024-11-07",
+            "post_title": "🚨🇺🇸🇺🇸MEDUSA Ransomware Has Named Multiple Victims\n\nhttps://darkwebinformer.com/medusa-ransomware-has-named-multiple-victims/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "://darkwebinformer.com/medusa-ransomware-has-named-multiple-victims/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -76564,6 +76588,30 @@
             ],
             "URLs": [
                 "https://wezard4u.tistory.com/429319"
+            ]
+        },
+        {
+            "Message ID": 92516,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Will cyber suffer under Trump’s goal to slash federal budgets?\n\nDate: November 7, 2024\n\nSource: https://www.nextgov.com/cybersecurity/2024/11/will-cyber-suffer-under-trumps-goal-slash-federal-budgets/400905/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.nextgov.com/cybersecurity/2024/11/will-cyber-suffer-under-trumps-goal-slash-federal-budgets/400905/"
+            ]
+        },
+        {
+            "Message ID": 92515,
+            "discovered": "2024-11-07",
+            "post_title": "Title: HPE warns of critical RCE flaws in Aruba Networking access points\n\nDate: November 07, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-rce-flaws-in-aruba-networking-access-points/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Aruba"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-rce-flaws-in-aruba-networking-access-points/"
             ]
         }
     ],
