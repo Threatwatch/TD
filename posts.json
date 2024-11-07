@@ -75480,6 +75480,18 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-10027"
             ]
+        },
+        {
+            "Message ID": 92449,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Cisco Releases Patch for Critical URWB Vulnerability in Industrial Wireless Systems\n\nDate: Nov 07, 2024\n\nSource: https://thehackernews.com/2024/11/cisco-releases-patch-for-critical-urwb.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/11/cisco-releases-patch-for-critical-urwb.html"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
