@@ -76029,6 +76029,54 @@
             "URLs": [
                 "https://www.reversinglabs.com/blog/how-expanding-appsec-to-prodsec-supports-secure-by-design"
             ]
+        },
+        {
+            "Message ID": 92491,
+            "discovered": "2024-11-07",
+            "post_title": "Victim: plowmancraven.co.uk\n\nDetection Date: Thu Nov 07 16:49:20 2024\n\nThreat Actor: lynx\n\n#Ransomware #UnitedKingdom",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "plowmancraven.co.uk"
+            ]
+        },
+        {
+            "Message ID": 92490,
+            "discovered": "2024-11-07",
+            "post_title": "Victim: futuremetals.com\n\nDetection Date: Thu Nov 07 16:49:06 2024\n\nThreat Actor: lynx\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "futuremetals.com"
+            ]
+        },
+        {
+            "Message ID": 92489,
+            "discovered": "2024-11-07",
+            "post_title": "Victim: dzsi.com\n\nDetection Date: Thu Nov 07 16:48:52 2024\n\nThreat Actor: lynx\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "dzsi.com"
+            ]
+        },
+        {
+            "Message ID": 92488,
+            "discovered": "2024-11-07",
+            "post_title": "Victim: geminiindustriesinc.com\n\nDetection Date: Thu Nov 07 16:48:35 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "geminiindustriesinc.com"
+            ]
         }
     ],
     "RipperSec | 新闻频道 📑": [
