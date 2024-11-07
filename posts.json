@@ -9133,6 +9133,19 @@
             "URLs": [
                 "ps://darkwebinformer.com/nejoum-al-jazeera-has-been-claimed-a-victim-to-darkvault-ransomware/"
             ]
+        },
+        {
+            "Message ID": 6496,
+            "discovered": "2024-11-07",
+            "post_title": "🚨🇨🇴0x0xba$e Allegedly is Selling Data of Hospital Universitario Cli­nica San Rafael\n\nhttps://darkwebinformer.com/0x0xba-e-allegedly-is-selling-data-of-hospital-universitario-clinica-san-rafael/\n\nThe group claims to be selling the database of Hospital Universitario Clínica San Rafael. The data reportedly exposes sensitive information of over 7 million individuals, including personal details such as ID numbers, document information, birth dates, gender, blood type, names, email addresses, phone numbers, home addresses, job titles, and location data, among other details.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "San Rafael",
+                "San Rafael"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/0x0xba-e-allegedly-is-selling-data-of-hospital-universitario-clinica-san-rafael/\n\nT"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -77281,6 +77294,30 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2020-11919"
+            ]
+        },
+        {
+            "Message ID": 92559,
+            "discovered": "2024-11-07",
+            "post_title": "Victim: naj.ae\n\nDetection Date: Thu Nov 07 21:42:38 2024\n\nThreat Actor: darkvault\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "naj.ae"
+            ]
+        },
+        {
+            "Message ID": 92558,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Nokia says hackers leaked third-party app source code\n\nDate: November 07, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/nokia-says-hackers-leaked-third-party-app-source-code/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/nokia-says-hackers-leaked-third-party-app-source-code/"
             ]
         }
     ],
