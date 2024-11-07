@@ -9099,6 +9099,18 @@
             "URLs": [
                 "s://darkwebinformer.com/a-threat-actor-has-allegedly-leaked-the-data-of-1win/\n\nTh"
             ]
+        },
+        {
+            "Message ID": 6493,
+            "discovered": "2024-11-07",
+            "post_title": "🚨🇩🇪SYLHET GANG-SG Targeted the Website of DKB\n\nhttps://darkwebinformer.com/sylhet-gang-sg-targeted-the-website-of-dkb/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/sylhet-gang-sg-targeted-the-website-of-dkb/"
+            ]
         }
     ],
     "RipperSec | 团队": [
@@ -36918,6 +36930,18 @@
             "URLs": [
                 "si.com, ",
                 "somfeed.it/index.php?page=post_details&id_post=18445"
+            ]
+        },
+        {
+            "Message ID": 4115,
+            "discovered": "2024-11-07",
+            "post_title": "ID: 18450\n⚠ Thu, 07 Nov 2024 11:14:06 UTC\n🥷 interlock\n🎯 Winnebago Public School Foundation, USA\n🔗 ransomfeed.it/index.php?page=post_details&id_post=18450",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "somfeed.it/index.php?page=post_details&id_post=18450"
             ]
         }
     ],
@@ -76947,6 +76971,78 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-20801"
+            ]
+        },
+        {
+            "Message ID": 92542,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Malware attack compromises over 200K SelectBlinds customers\n\nDate: November 7, 2024\n\nSource: https://www.scworld.com/brief/malware-attack-compromises-over-200k-selectblinds-customers\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/malware-attack-compromises-over-200k-selectblinds-customers"
+            ]
+        },
+        {
+            "Message ID": 92541,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Microlise staff data breached in cyberattack\n\nDate: November 7, 2024\n\nSource: https://www.scworld.com/brief/microlise-staff-data-breached-in-cyberattack\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/microlise-staff-data-breached-in-cyberattack"
+            ]
+        },
+        {
+            "Message ID": 92540,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Cyber intrusion prompts Washington court systems outage\n\nDate: November 7, 2024\n\nSource: https://www.scworld.com/brief/cyber-intrusion-prompts-washington-court-systems-outage\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Washington"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/cyber-intrusion-prompts-washington-court-systems-outage"
+            ]
+        },
+        {
+            "Message ID": 92539,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Bogus game-related apps leveraged for new Winos4.0 malware deployment\n\nDate: November 7, 2024\n\nSource: https://www.scworld.com/brief/bogus-game-related-apps-leveraged-for-new-winos4-0-malware-deployment\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/bogus-game-related-apps-leveraged-for-new-winos4-0-malware-deployment"
+            ]
+        },
+        {
+            "Message ID": 92538,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Microsoft services exploited for stealthy malware deployment\n\nDate: November 7, 2024\n\nSource: https://www.scworld.com/brief/microsoft-services-exploited-for-stealthy-malware-deployment\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/microsoft-services-exploited-for-stealthy-malware-deployment"
+            ]
+        },
+        {
+            "Message ID": 92537,
+            "discovered": "2024-11-07",
+            "post_title": "Title: Attacks with novel SteelFox trojan hit Windows machines\n\nDate: November 7, 2024\n\nSource: https://www.scworld.com/brief/attacks-with-novel-steelfox-trojan-hit-windows-machines\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/attacks-with-novel-steelfox-trojan-hit-windows-machines"
             ]
         }
     ],
