@@ -27,6 +27,8 @@ channel_urls = [
     "https://t.me/esteemrestorationeagle",
     "https://t.me/ServerKillers",
     # "https://t.me/teamcyber_mafia",
+    "https://t.me/vxunderground",
+    "https://t.me/BlackFirewalk",
     "https://t.me/team_1956",
     "https://t.me/DarkfeedNews",
     "https://t.me/Hunt3rkill3rs1",
