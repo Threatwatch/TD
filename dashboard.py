@@ -19,7 +19,6 @@ phone_number = '+966559166818'
 channel_urls = [
     "https://t.me/TheDarkWebInformer",
     "https://t.me/RipperSec",
-    # "https://t.me/realLulzSec",
     "https://t.me/YourAnonTl3xChatGroup",
     "https://t.me/SylhetGangSgOfficial",
     "https://t.me/hackmanac",
@@ -28,24 +27,23 @@ channel_urls = [
     "https://t.me/ServerKillers",
     "https://t.me/alixsecenglish",
     "https://t.me/vxunderground",
-    #"https://t.me/BlackFirewalk",
-    "https://t.me/team_1956",
     "https://t.me/DarkfeedNews",
     "https://t.me/Hunt3rkill3rs1",
     "https://t.me/TigerElectronicUnit",
-    # "https://t.me/DarkStormTeamd",
     "https://t.me/CyberVolk_K",
-    # "https://t.me/blackopsmrhamza",
     "https://t.me/Team_R70",
     "https://t.me/Arab_Hackers_Union",
-    # "https://t.me/AnonymousEgypt",
     "https://t.me/CyberS102",
     "https://t.me/RansomwareNewsVX",
     "https://t.me/RansomFeedNews",
     "https://t.me/yildizthreatnews",
     "https://t.me/cyberthint",
     "https://t.me/GhostClanInt",
-    "https://t.me/INDOHAXSEC"
+    "https://t.me/INDOHAXSEC",
+    "https://t.me/ransomlook",
+    "https://t.me/RedPacketSecurity",
+    "https://t.me/ransomwarelive",
+
 ]
 
 
