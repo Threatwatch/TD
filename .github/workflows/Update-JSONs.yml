@@ -2,7 +2,7 @@ name: Update News and Posts
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Runs every 10 minutes
+    - cron: '*/50 * * * *'  # Runs every 10 minutes
   workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
