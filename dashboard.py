@@ -30,7 +30,7 @@ channel_urls = [
     "https://t.me/alixsecenglish",
     "https://t.me/vxunderground",
     "https://t.me/DarkfeedNews",
-    "https://t.me/Hunt3rkill3rs1",
+    # "https://t.me/Hunt3rkill3rs1",
     "https://t.me/TigerElectronicUnit",
     "https://t.me/CyberVolk_K",
     "https://t.me/Team_R70",
