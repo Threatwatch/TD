@@ -106,28 +106,31 @@ def load_keywords_from_company(file_path):
 
 def match_keywords(text, keywords):
     """
-    Match keywords in the text, ensuring case-insensitive deduplication while preserving original formatting.
+    Match keywords in the text. If no match is found, return the word 'Other'.
 
     Args:
         text (str): The text to search.
         keywords (list): A list of keywords to match.
 
     Returns:
-        list: A deduplicated list of matched keywords, preserving original case.
+        list: A deduplicated list of matched keywords, or ['Other'] if no match is found.
     """
     text = re.sub(r'[^\w\s]', ' ', text.lower())  # Normalize text: remove special characters and convert to lowercase
     matches = set()  # Use a set to ensure no duplicates
     original_keyword_map = {}  # Map normalized keywords to their original form
 
     for keyword in keywords:
-            normalized_keyword = keyword.lower().strip()  # Normalize the keyword
-            original_keyword_map[normalized_keyword] = keyword  # Map normalized to original
-            # Match as a whole word
-            if re.search(rf'\b{re.escape(normalized_keyword)}\b', text):
-                matches.add(normalized_keyword)  # Add normalized keyword to the matches
+        normalized_keyword = keyword.lower().strip()  # Normalize the keyword
+        original_keyword_map[normalized_keyword] = keyword  # Map normalized to original
+        # Match as a whole word
+        if re.search(rf'\b{re.escape(normalized_keyword)}\b', text):
+            matches.add(normalized_keyword)  # Add normalized keyword to the matches
 
     # Convert matches back to their original formatting
-    return sorted([original_keyword_map[match] for match in matches])  # Sort for consistent output
+    matched_keywords = sorted([original_keyword_map[match] for match in matches])
+
+    # Return 'Other' if no matches found
+    return matched_keywords if matched_keywords else ["Other"]
 
 async def fetch_messages(channel_identifier, existing_messages_ids, failed_channels_file="failed_channels.json"):
     try:
