@@ -84,23 +84,19 @@ def extract_location(text):
 
 def load_keywords_from_company(file_path):
     """
-    Load keywords from a JSON file.
+    Load keywords from a JSON file and normalize them.
 
     Args:
         file_path (str): Path to the JSON file.
 
     Returns:
-        list: A list of keywords.
+        list: A list of normalized keywords.
     """
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             data = json.load(file)
-            # If it's a dictionary, get the 'keywords' key
-            if isinstance(data, dict):
-                return data.get("keywords", [])
-            # If it's already a list, return it directly
-            elif isinstance(data, list):
-                return data
+            if isinstance(data, list):
+                return [kw.strip() for kw in data]  # Remove any extra spaces
             else:
                 print(f"Unexpected structure in {file_path}: {type(data)}")
                 return []
@@ -110,21 +106,28 @@ def load_keywords_from_company(file_path):
 
 def match_keywords(text, keywords):
     """
-    Match full words in the given text against a list of keywords, ensuring no duplicates.
+    Match keywords in the text, ensuring case-insensitive deduplication while preserving original formatting.
 
     Args:
         text (str): The text to search.
         keywords (list): A list of keywords to match.
 
     Returns:
-        list: A deduplicated list of matched keywords (case-insensitive).
+        list: A deduplicated list of matched keywords, preserving original case.
     """
-    matches = set()  # Use a set to avoid duplicates
+    text = re.sub(r'[^\w\s]', ' ', text.lower())  # Normalize text: remove special characters and convert to lowercase
+    matches = set()  # Use a set to ensure no duplicates
+    original_keyword_map = {}  # Map normalized keywords to their original form
+
     for keyword in keywords:
-        # Use regex to match full words (case-insensitive)
-        if re.search(rf'\b{re.escape(keyword)}\b', text, re.IGNORECASE):
-            matches.add(keyword.lower())  # Normalize case for consistent results
-    return list(matches)  # Convert the set back to a list
+            normalized_keyword = keyword.lower().strip()  # Normalize the keyword
+            original_keyword_map[normalized_keyword] = keyword  # Map normalized to original
+            # Match as a whole word
+            if re.search(rf'\b{re.escape(normalized_keyword)}\b', text):
+                matches.add(normalized_keyword)  # Add normalized keyword to the matches
+
+    # Convert matches back to their original formatting
+    return sorted([original_keyword_map[match] for match in matches])  # Sort for consistent output
 
 async def fetch_messages(channel_identifier, existing_messages_ids, failed_channels_file="failed_channels.json"):
     try:
@@ -222,68 +225,6 @@ async def fetch_messages(channel_identifier, existing_messages_ids, failed_chann
 
     return channel.id, channel.title, new_messages
 
-# async def fetch_messages(channel_identifier, existing_messages_ids, failed_channels_file="failed_channels.json"):
-#     try:
-#         channel = await client.get_entity(channel_identifier)
-#     except Exception as e:
-#         print(f"Failed to fetch the channel {channel_identifier}: Update the URL for this channel")
-#         # Log the failed channel
-#         log_failed_channel(channel_identifier, failed_channels_file)
-#         # Return just an empty list of messages if fetching the channel failed
-#         return None, None, []
-
-#     limit = 100
-#     offset_id = 0
-#     new_messages = []
-
-    # history = await client(GetHistoryRequest(
-    #     peer=channel,
-    #     offset_id=offset_id,
-    #     offset_date=None,
-    #     add_offset=0,
-    #     limit=limit,
-    #     max_id=0,
-    #     min_id=0,
-    #     hash=0
-    # ))
-    # messages = history.messages
-
-#     for message in messages:
-#         if message.id not in existing_messages_ids:
-#             date = message.date.strftime('%Y-%m-%d')
-
-#             # Extract URLs if available
-#             urls = []
-#             if message.entities:
-#                 for entity in message.entities:
-#                     if isinstance(entity, MessageEntityUrl):
-#                         urls.append(message.message[entity.offset:entity.offset + entity.length])
-
-#             # Determine the attack type based on content
-#             attack_type = "Unknown"
-#             if message.message:
-#                 content_lower = message.message.lower()
-#                 for category, keywords in detailed_attack_keywords.items():
-#                     if any(keyword in content_lower for keyword in keywords):
-#                         attack_type = category
-#                         break
-
-#             # Extract location from the message content
-#             location = extract_location(message.message) if message.message else ["N/A"]
-            
-#             new_messages.append({
-#                 'Message ID': message.id,
-#                 'discovered': date,
-#                 'post_title': message.message,
-#                 'Attack Type': attack_type,
-#                 'Location': location,
-#                 'URLs': urls
-#             })
-#         offset_id = message.id
-
-#     return channel.id, channel.title, new_messages
-
-
 def log_failed_channel(channel_identifier, failed_channels_file):
     try:
         # Load the existing failed channels file if it exists
@@ -306,12 +247,37 @@ def log_failed_channel(channel_identifier, failed_channels_file):
     except Exception as e:
         print(f"Error handling {failed_channels_file}: {e}")
 
+def test_match_keywords():
+    # Sample text to test
+    sample_text = "The company SABIC announced a new petrochemical project in Saudi Arabia."
+
+    # Load keywords from your JSON file
+    keywords = load_keywords_from_company("Company.json")
+    
+    # Ensure keywords loaded correctly
+    if not keywords:
+        print("Keywords not loaded correctly.")
+        return
+    
+    # Test the matching logic
+    matched = match_keywords(sample_text, keywords)
+    
+    # Display the results
+    print("Sample Text:", sample_text)
+    print("Matched Keywords:", matched)
+
+if __name__ == "__main__":
+    test_match_keywords()
+
 async def main():
     json_file_path = 'newPosts.json'
     failed_channels_file = 'failed_channels.json'
     iteration_count = 0
     max_iterations = 1
     channel_id_map = {}  # Dictionary to store channel URL to ID mappings
+    
+    # Test keyword matching
+    # test_match_keywords()
 
     while True:
         all_channel_messages = load_existing_messages(json_file_path)
