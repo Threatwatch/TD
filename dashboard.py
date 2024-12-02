@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import time
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetHistoryRequest
@@ -81,32 +82,102 @@ def extract_location(text):
     locations = [ent.text for ent in doc.ents if ent.label_ == "GPE"]
     return locations if locations else ["N/A"]
 
+def load_keywords_from_company(file_path):
+    """
+    Load keywords from a JSON file.
+
+    Args:
+        file_path (str): Path to the JSON file.
+
+    Returns:
+        list: A list of keywords.
+    """
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+            # If it's a dictionary, get the 'keywords' key
+            if isinstance(data, dict):
+                return data.get("keywords", [])
+            # If it's already a list, return it directly
+            elif isinstance(data, list):
+                return data
+            else:
+                print(f"Unexpected structure in {file_path}: {type(data)}")
+                return []
+    except Exception as e:
+        print(f"Error loading keywords from {file_path}: {e}")
+        return []
+
+def match_keywords(text, keywords):
+    """
+    Match full words in the given text against a list of keywords, ensuring no duplicates.
+
+    Args:
+        text (str): The text to search.
+        keywords (list): A list of keywords to match.
+
+    Returns:
+        list: A deduplicated list of matched keywords (case-insensitive).
+    """
+    matches = set()  # Use a set to avoid duplicates
+    for keyword in keywords:
+        # Use regex to match full words (case-insensitive)
+        if re.search(rf'\b{re.escape(keyword)}\b', text, re.IGNORECASE):
+            matches.add(keyword.lower())  # Normalize case for consistent results
+    return list(matches)  # Convert the set back to a list
+
 async def fetch_messages(channel_identifier, existing_messages_ids, failed_channels_file="failed_channels.json"):
     try:
+        # Fetch the channel entity
         channel = await client.get_entity(channel_identifier)
     except Exception as e:
-        print(f"Failed to fetch the channel {channel_identifier}: Update the URL for this channel")
-        # Log the failed channel
+        print(f"Failed to fetch channel '{channel_identifier}': {e}")
         log_failed_channel(channel_identifier, failed_channels_file)
-        # Return just an empty list of messages if fetching the channel failed
         return None, None, []
 
+    # Initialize variables
     limit = 100
     offset_id = 0
     new_messages = []
 
-    history = await client(GetHistoryRequest(
-        peer=channel,
-        offset_id=offset_id,
-        offset_date=None,
-        add_offset=0,
-        limit=limit,
-        max_id=0,
-        min_id=0,
-        hash=0
-    ))
-    messages = history.messages
+    try:
+        # Fetch the channel entity
+        channel = await client.get_entity(channel_identifier)
+    except Exception as e:
+        print(f"Failed to fetch channel '{channel_identifier}': {e}")
+        log_failed_channel(channel_identifier, failed_channels_file)
+        return None, None, []
 
+    # Initialize variables
+    limit = 100
+    offset_id = 0
+    new_messages = []
+
+    try:
+        # Fetch the channel message history
+        history = await client(GetHistoryRequest(
+            peer=channel,
+            offset_id=offset_id,
+            offset_date=None,
+            add_offset=0,
+            limit=limit,
+            max_id=0,
+            min_id=0,
+            hash=0
+        ))
+        messages = history.messages
+    except Exception as e:
+        print(f"Error fetching messages for channel '{channel_identifier}': {e}")
+        return channel.id, channel.title, []
+
+    # Load keywords from company.json
+    try:
+        keywords = load_keywords_from_company('Company.json')
+    except Exception as e:
+        print(f"Error loading keywords: {e}")
+        keywords = []
+
+    # Process each message
     for message in messages:
         if message.id not in existing_messages_ids:
             date = message.date.strftime('%Y-%m-%d')
@@ -120,27 +191,97 @@ async def fetch_messages(channel_identifier, existing_messages_ids, failed_chann
 
             # Determine the attack type based on content
             attack_type = "Unknown"
-            if message.message:
+            if message.message:  # Check if message content is not None
                 content_lower = message.message.lower()
-                for category, keywords in detailed_attack_keywords.items():
-                    if any(keyword in content_lower for keyword in keywords):
+                for category, keywords_list in detailed_attack_keywords.items():
+                    if any(keyword in content_lower for keyword in keywords_list):
                         attack_type = category
                         break
+            else:
+                content_lower = None  # Handle the NoneType case
 
             # Extract location from the message content
             location = extract_location(message.message) if message.message else ["N/A"]
-            
+
+            # Match keywords from company.json
+            matched_keywords = match_keywords(message.message or "", keywords)
+
+            # Add the processed message to the list
             new_messages.append({
                 'Message ID': message.id,
                 'discovered': date,
-                'post_title': message.message,
+                'post_title': message.message or "No Text Content",  # Handle None message
                 'Attack Type': attack_type,
                 'Location': location,
-                'URLs': urls
+                'URLs': urls,
+                'Matched Keywords': matched_keywords  # Save matched keywords
             })
+
+        # Update the offset ID to continue fetching later messages
         offset_id = message.id
 
     return channel.id, channel.title, new_messages
+
+# async def fetch_messages(channel_identifier, existing_messages_ids, failed_channels_file="failed_channels.json"):
+#     try:
+#         channel = await client.get_entity(channel_identifier)
+#     except Exception as e:
+#         print(f"Failed to fetch the channel {channel_identifier}: Update the URL for this channel")
+#         # Log the failed channel
+#         log_failed_channel(channel_identifier, failed_channels_file)
+#         # Return just an empty list of messages if fetching the channel failed
+#         return None, None, []
+
+#     limit = 100
+#     offset_id = 0
+#     new_messages = []
+
+    # history = await client(GetHistoryRequest(
+    #     peer=channel,
+    #     offset_id=offset_id,
+    #     offset_date=None,
+    #     add_offset=0,
+    #     limit=limit,
+    #     max_id=0,
+    #     min_id=0,
+    #     hash=0
+    # ))
+    # messages = history.messages
+
+#     for message in messages:
+#         if message.id not in existing_messages_ids:
+#             date = message.date.strftime('%Y-%m-%d')
+
+#             # Extract URLs if available
+#             urls = []
+#             if message.entities:
+#                 for entity in message.entities:
+#                     if isinstance(entity, MessageEntityUrl):
+#                         urls.append(message.message[entity.offset:entity.offset + entity.length])
+
+#             # Determine the attack type based on content
+#             attack_type = "Unknown"
+#             if message.message:
+#                 content_lower = message.message.lower()
+#                 for category, keywords in detailed_attack_keywords.items():
+#                     if any(keyword in content_lower for keyword in keywords):
+#                         attack_type = category
+#                         break
+
+#             # Extract location from the message content
+#             location = extract_location(message.message) if message.message else ["N/A"]
+            
+#             new_messages.append({
+#                 'Message ID': message.id,
+#                 'discovered': date,
+#                 'post_title': message.message,
+#                 'Attack Type': attack_type,
+#                 'Location': location,
+#                 'URLs': urls
+#             })
+#         offset_id = message.id
+
+#     return channel.id, channel.title, new_messages
 
 
 def log_failed_channel(channel_identifier, failed_channels_file):
@@ -166,7 +307,7 @@ def log_failed_channel(channel_identifier, failed_channels_file):
         print(f"Error handling {failed_channels_file}: {e}")
 
 async def main():
-    json_file_path = 'posts.json'
+    json_file_path = 'newPosts.json'
     failed_channels_file = 'failed_channels.json'
     iteration_count = 0
     max_iterations = 1
