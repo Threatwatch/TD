@@ -95,8 +95,17 @@ def load_keywords_from_company(file_path):
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             data = json.load(file)
+<<<<<<< Updated upstream
             if isinstance(data, list):
                 return [kw.strip() for kw in data]  # Remove any extra spaces
+=======
+            # If it's a dictionary, get the 'keywords' key
+            if isinstance(data, dict):
+                return list(set(keyword.lower() for keyword in data.get("keywords", [])))
+            # If it's already a list, return it directly
+            elif isinstance(data, list):
+                return list(set(keyword.lower() for keyword in data))
+>>>>>>> Stashed changes
             else:
                 print(f"Unexpected structure in {file_path}: {type(data)}")
                 return []
@@ -105,6 +114,7 @@ def load_keywords_from_company(file_path):
         return []
 
 def match_keywords(text, keywords):
+<<<<<<< Updated upstream
     """
     Match keywords in the text. If no match is found, return the word 'Other'.
 
@@ -119,6 +129,9 @@ def match_keywords(text, keywords):
     matches = set()  # Use a set to ensure no duplicates
     original_keyword_map = {}  # Map normalized keywords to their original form
 
+=======
+    matches = set()  # Use a set to avoid duplicates
+>>>>>>> Stashed changes
     for keyword in keywords:
         normalized_keyword = keyword.lower().strip()  # Normalize the keyword
         original_keyword_map[normalized_keyword] = keyword  # Map normalized to original
@@ -175,7 +188,8 @@ async def fetch_messages(channel_identifier, existing_messages_ids, failed_chann
     except Exception as e:
         print(f"Error fetching messages for channel '{channel_identifier}': {e}")
         return channel.id, channel.title, []
-
+    
+    
     # Load keywords from company.json
     try:
         keywords = load_keywords_from_company('Company.json')
@@ -273,7 +287,7 @@ if __name__ == "__main__":
     test_match_keywords()
 
 async def main():
-    json_file_path = 'newPosts.json'
+    json_file_path = 'posts.json'
     failed_channels_file = 'failed_channels.json'
     iteration_count = 0
     max_iterations = 1

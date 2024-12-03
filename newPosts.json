@@ -4330,6 +4330,7 @@
     ],
     "SYLHET GANG-SG 🏴": [
         {
+<<<<<<< Updated upstream
             "Message ID": 5500,
             "discovered": "2024-12-02",
             "post_title": "Thousands of People took roads\n\naround Bangladesh in protest to the attack on Bangladeshi High Commission in Agartala",
@@ -4441,11 +4442,14 @@
             ]
         },
         {
+=======
+>>>>>>> Stashed changes
             "Message ID": 5489,
             "discovered": "2024-12-02",
             "post_title": "There are some secret intelligence agencies of Bangladesh, that are not under government nor Funded by Government, they secretly Runs  missions throughout Awami Online cells.\nleaks many things 😸",
             "Attack Type": "Unknown",
             "Location": [
+<<<<<<< Updated upstream
                 "Bangladesh",
                 "Awami"
             ],
@@ -4453,6 +4457,12 @@
             "Matched Keywords": [
                 "Other"
             ]
+=======
+                "Bangladesh"
+            ],
+            "URLs": [],
+            "Matched Keywords": []
+>>>>>>> Stashed changes
         },
         {
             "Message ID": 5488,
@@ -5703,12 +5713,102 @@
                 "N/A"
             ],
             "URLs": [],
+<<<<<<< Updated upstream
             "Matched Keywords": [
                 "Other"
             ]
         }
     ],
     "Hackmanac Cyber News": [
+=======
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 5381,
+            "discovered": "2024-11-10",
+            "post_title": "We are making a Thing Clear to the Interim Government of Bangladesh that, We along with Cyber Community Fought against the Fascist regime of Hasina,We never feared them we openly challenged them. Just Think what will happen with you guys if we start! \n\nNow make that clear to the people that how Farouqi and Bashir become Legitimate for the Advisor position?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "a Thing Clear"
+            ],
+            "URLs": [],
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 5380,
+            "discovered": "2024-11-10",
+            "post_title": "অন্তবর্তীকালীন সরকারকে একটা কথা মনে করিয়ে দিতে চাই \"সাইবার কমিউনিটি ও সিলেট গ‍্যাং \"  ফ্যাসিস্ট হাসিনার সিস্টেম কে ভয় পাইনি । জুলাই এর আন্দোলন ছাত্রদের পাশে থেকে ওপেন চ্যালেঞ্জ দিয়ে সাইবার যু\"দ্ধ করেছে। আমরা কিন্তু শুরু করলে আপনাদের কি হবে ভেবে দেখেন। ফারুকি ও বশির এর মতো ব্যাক্তিরা কোন যোগ্যতায় উপদেষ্টা হয় ক্লিয়ার করবেন জনগণের কাছে।",
+            "Attack Type": "Unknown",
+            "Location": [
+                "দিতে",
+                "চ্যালেঞ্জ",
+                "ক্লিয়ার"
+            ],
+            "URLs": [],
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 5379,
+            "discovered": "2024-11-10",
+            "post_title": "https://www.dhakatribune.com/bangladesh/364627/severe-winter-expected-temperatures-may-drop-to",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.dhakatribune.com/bangladesh/364627/severe-winter-expected-temperatures-may-drop-to"
+            ],
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 5378,
+            "discovered": "2024-11-10",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 5377,
+            "discovered": "2024-11-10",
+            "post_title": "Join our Backup Channel,\nIn case our Channel disappears\n\nhttps://t.me/SGofficial2",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/SGofficial2"
+            ],
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 5376,
+            "discovered": "2024-11-10",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": []
+        }
+    ],
+    "Hackmanac Cyber News": [
+        {
+            "Message ID": 1415,
+            "discovered": "2024-12-02",
+            "post_title": "Happy 53th Birthday UAE! 🇦🇪\n\n#UAENationalDay #UAENationalDay53 #UAENationalDay2024 #UAE",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": []
+        },
+>>>>>>> Stashed changes
         {
             "Message ID": 1416,
             "discovered": "2024-12-02",
@@ -7055,9 +7155,26 @@
                 "N/A"
             ],
             "URLs": [],
+<<<<<<< Updated upstream
             "Matched Keywords": [
                 "Other"
             ]
+=======
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 1315,
+            "discovered": "2024-11-13",
+            "post_title": "You can find more details in Troy Hunt's article: \nhttps://www.troyhunt.com/inside-the-demandscience-by-pure-incubation-data-breach/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Troy Hunt's"
+            ],
+            "URLs": [
+                "https://www.troyhunt.com/inside-the-demandscience-by-pure-incubation-data-breach/"
+            ],
+            "Matched Keywords": []
+>>>>>>> Stashed changes
         }
     ],
     "ANONYM∅US": [
@@ -13305,9 +13422,24 @@
                 "N/A"
             ],
             "URLs": [],
+<<<<<<< Updated upstream
             "Matched Keywords": [
                 "Other"
             ]
+=======
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 5490,
+            "discovered": "2024-11-28",
+            "post_title": "We'll be AFK for Ameriburger holiday stuff. Happy Ameriburger holidays to you and your families.\n\nNo one do anything crazy while we're gone.\n\nThanks,\n- smelly",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": []
+>>>>>>> Stashed changes
         },
         {
             "Message ID": 5476,
@@ -16536,7 +16668,12 @@
                 "https://mirror-h.org/zone/5754976/"
             ],
             "Matched Keywords": [
+<<<<<<< Updated upstream
                 "SAUDI"
+=======
+                "السعودية",
+                "saudi"
+>>>>>>> Stashed changes
             ]
         },
         {
@@ -18152,6 +18289,7 @@
     ],
     "Ransomware News (VX)": [
         {
+<<<<<<< Updated upstream
             "Message ID": 3824,
             "discovered": "2024-12-02",
             "post_title": "Group: FOG\nApprox. Time: 14:41 02/12/24\nTitle: Conlin&#39;s Pharmacy (https://t.co/g8ZGQyLh7P)",
@@ -18167,6 +18305,8 @@
             ]
         },
         {
+=======
+>>>>>>> Stashed changes
             "Message ID": 3823,
             "discovered": "2024-12-02",
             "post_title": "Group: lynx\nApprox. Time: 12:40 02/12/24\nTitle: Mmaynewagemicro",
@@ -18175,9 +18315,13 @@
                 "Approx"
             ],
             "URLs": [],
+<<<<<<< Updated upstream
             "Matched Keywords": [
                 "Other"
             ]
+=======
+            "Matched Keywords": []
+>>>>>>> Stashed changes
         },
         {
             "Message ID": 3822,
@@ -18188,9 +18332,13 @@
                 "Approx"
             ],
             "URLs": [],
+<<<<<<< Updated upstream
             "Matched Keywords": [
                 "Other"
             ]
+=======
+            "Matched Keywords": []
+>>>>>>> Stashed changes
         },
         {
             "Message ID": 3821,
@@ -19566,9 +19714,26 @@
                 "Approx"
             ],
             "URLs": [],
+<<<<<<< Updated upstream
             "Matched Keywords": [
                 "Other"
             ]
+=======
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 3724,
+            "discovered": "2024-11-25",
+            "post_title": "Group: incransom\nApprox. Time: 03:07 25/11/24\nTitle: https://t.co/WOxUouPHqh",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/WOxUouPHqh"
+            ],
+            "Matched Keywords": []
+>>>>>>> Stashed changes
         }
     ],
     "RansomfeedNews": [
@@ -22410,7 +22575,142 @@
     ],
     "Cyberthint's Dark Monitor": [
         {
+<<<<<<< Updated upstream
             "Message ID": 96605,
+=======
+            "Message ID": 96503,
+            "discovered": "2024-12-02",
+            "post_title": "Title: NTFS FILE Record Reuse\n\nDate: December 2, 2024\n\nSource: https://www.youtube.com/watch?v=6LpJVx7PrUI\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.youtube.com/watch?v=6LpJVx7PrUI"
+            ],
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 96502,
+            "discovered": "2024-12-02",
+            "post_title": "Title: Malaysia’s Fight Against Cybercrime: Two New Bills Tabled in Parliament\n\nDate: December 2, 2024\n\nSource: https://cyble.com/blog/malaysias-fight-against-cybercrime-two-new-bills-tabled/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Malaysia"
+            ],
+            "URLs": [
+                "https://cyble.com/blog/malaysias-fight-against-cybercrime-two-new-bills-tabled/"
+            ],
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 96501,
+            "discovered": "2024-12-02",
+            "post_title": "Title: CISA Releases New List of Known Exploited Vulnerabilities, Urges Immediate Actions\n\nDate: December 2, 2024\n\nSource: https://cyble.com/blog/cisa-known-exploited-vulnerabilities-updated/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyble.com/blog/cisa-known-exploited-vulnerabilities-updated/"
+            ],
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 96500,
+            "discovered": "2024-12-02",
+            "post_title": "Title: Campagna AgentTesla ritorna in azione dopo un attacco fallito: aggiornato loader e nuove tecniche di cifratura\n\nDate: December 2, 2024\n\nSource: https://cert-agid.gov.it/news/campagna-agenttesla-ritorna-in-azione-dopo-un-attacco-fallito-aggiornato-loader-e-nuove-tecniche-di-cifratura/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cert-agid.gov.it/news/campagna-agenttesla-ritorna-in-azione-dopo-un-attacco-fallito-aggiornato-loader-e-nuove-tecniche-di-cifratura/"
+            ],
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 96499,
+            "discovered": "2024-12-02",
+            "post_title": "Title: 2nd December – Threat Intelligence Report\n\nDate: December 2, 2024\n\nSource: https://research.checkpoint.com/2024/2nd-december-threat-intelligence-report/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://research.checkpoint.com/2024/2nd-december-threat-intelligence-report/"
+            ],
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 96498,
+            "discovered": "2024-12-02",
+            "post_title": "Title: A Guide to Securing AI App Development: Join This Cybersecurity Webinar\n\nDate: Dec 02, 2024\n\nSource: https://thehackernews.com/2024/12/a-guide-to-securing-ai-app-development.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/12/a-guide-to-securing-ai-app-development.html"
+            ],
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 96497,
+            "discovered": "2024-12-02",
+            "post_title": "CVE-ID: CVE-2024-53980\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53980\n\nDescription: RIOT is an open-source microcontroller operating system, designed to match the requirements of Internet of Things (IoT) devices and other embedded devices. A malicious actor can send a IEEE 802.15.4 packet with spoofed length byte and optionally spoofed FCS, which eventually results into an endless loop on a CC2538 as receiver. Before PR #20998, the receiver would check for the location of the CRC bit using the packet length byte by considering all 8 bits, instead of discarding bit 7, which is what the radio does. This then results into reading outside of the RX FIFO.  Although it prints an error when attempting to read outside of the RX FIFO, it will continue doing this. This may lead to a discrepancy in the CRC check according to the firmware and the radio. If the CPU judges the CRC as correct and the radio is set to `AUTO_ACK`, when the packet requests and acknowledgment the CPU will go into the state `CC2538_STATE_TX_ACK`. However, if the radio judged the CRC as incorrect, it will not send an acknowledgment, and thus the `TXACKDONE` event will not fire. It will then never return to the state `CC2538_STATE_READY` since the baseband processing is still disabled. Then the CPU will be in an endless loop. Since setting to idle is not forced, it won't do it if the radio's state is not `CC2538_STATE_READY`. A fix has not yet been made.\n\nPublication Date: Mon Dec 02 15:06:51 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53980"
+            ],
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 96496,
+            "discovered": "2024-12-02",
+            "post_title": "CVE-ID: CVE-2024-53864\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53864\n\nDescription: Ibexa Admin UI Bundle is all the necessary parts to run the Ibexa DXP Back Office interface. The Content name pattern is used to build Content names from one or more fields. An XSS vulnerability has been found in this mechanism. Content edit permission is required to exploit it. After the fix, any existing injected XSS will not run. This issue has been patched in version 4.6.14. All users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Mon Dec 02 15:06:40 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS",
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53864"
+            ],
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 96495,
+            "discovered": "2024-12-02",
+            "post_title": "CVE-ID: CVE-2024-53861\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53861\n\nDescription: pyjwt is a JSON Web Token implementation in Python. An incorrect string comparison is run for `iss` checking, resulting in `\"acb\"` being accepted for `\"_abc_\"`. This is a bug introduced in version 2.10.0: checking the \"iss\" claim changed from `isinstance(issuer, list)` to `isinstance(issuer, Sequence)`. Since str is a Sequnce, but not a list, `in` is also used for string comparison. This results in `if \"abc\" not in \"__abcd__\":` being checked instead of `if \"abc\" != \"__abc__\":`. Signature checks are still present so real world impact is likely limited to denial of service scenarios. This issue has been patched in version 2.10.1. All users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Mon Dec 02 15:06:29 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53861"
+            ],
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 96494,
+            "discovered": "2024-12-02",
+            "post_title": "CVE-ID: CVE-2024-52003\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-52003\n\nDescription: Traefik (pronounced traffic) is an HTTP reverse proxy and load balancer. There is a vulnerability in Traefik that allows the client to provide the X-Forwarded-Prefix header from an untrusted source. This issue has been addressed in versions 2.11.14 and 3.2.1. Users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nPublication Date: Mon Dec 02 15:06:18 2024\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-52003"
+            ],
+            "Matched Keywords": []
+        },
+        {
+            "Message ID": 96493,
+>>>>>>> Stashed changes
             "discovered": "2024-12-02",
             "post_title": "CVE-ID: CVE-2023-5797\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-5797\n\nDescription: An improper privilege management vulnerability in the debug CLI command of the Zyxel ATP series firmware versions 4.32 through 5.37, USG FLEX series firmware versions 4.50 through 5.37, USG FLEX 50(W) series firmware versions 4.16 through 5.37, USG20(W)-VPN series firmware versions 4.16 through 5.37, VPN series firmware versions 4.30 through 5.37, NWA50AX firmware version 6.29(ABYW.2), WAC500 firmware version 6.65(ABVS.1), WAX300H firmware version 6.60(ACHF.1), and WBE660S firmware version 6.65(ACGG.1), could allow an authenticated local attacker to access the administrator’s logs on an affected device.\n\nPublication Date: Mon Dec 02 23:04:00 2024\n\n#CVE #Vulnerability",
             "Attack Type": "Hacking",
@@ -23478,6 +23778,7 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-52483"
             ],
+<<<<<<< Updated upstream
             "Matched Keywords": [
                 "Other"
             ]
@@ -23918,6 +24219,9 @@
             "Matched Keywords": [
                 "Other"
             ]
+=======
+            "Matched Keywords": []
+>>>>>>> Stashed changes
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -24401,6 +24705,7 @@
             ],
             "URLs": [],
             "Matched Keywords": [
+<<<<<<< Updated upstream
                 "Dell",
                 "HP",
                 "Lenovo",
@@ -24408,6 +24713,14 @@
                 "Schneider Electric",
                 "Siemens",
                 "VMware"
+=======
+                "hp",
+                "sap",
+                "dell",
+                "siemens",
+                "lenovo",
+                "vmware"
+>>>>>>> Stashed changes
             ]
         },
         {
