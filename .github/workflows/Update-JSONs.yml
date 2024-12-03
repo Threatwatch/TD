@@ -35,7 +35,7 @@ jobs:
     # Step 5: Run script to update posts.json
     - name: Update Posts Data
       run: |
-        python dashboard.py  # Run the script for newPosts.json
+        python dashboard.py  # Run the script for posts.json
 
     # Step 6: Commit and push changes for news.json (similar to your previous setup)
     #- name: Commit and push changes for news.json
@@ -49,7 +49,7 @@ jobs:
      #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     # Step 7: Commit and push changes for posts.json (similar to your previous setup)
-    - name: Commit and push changes for newPosts.json
+    - name: Commit and push changes for posts.json
       run: |
         git config --local user.email "faisal.s.albargan@gmail.com"
         git config --local user.name "FSBARGAN"
