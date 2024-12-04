@@ -273,7 +273,7 @@ if __name__ == "__main__":
     test_match_keywords()
 
 async def main():
-    json_file_path = 'newPosts.json'
+    json_file_path = 'posts.json'
     failed_channels_file = 'failed_channels.json'
     iteration_count = 0
     max_iterations = 1
