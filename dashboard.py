@@ -67,7 +67,6 @@ def save_messages(file_path, messages):
     with open(file_path, 'w', encoding='utf-8') as json_file:
         json.dump(messages, json_file, ensure_ascii=False, indent=4)
 
-# Define the detailed attack keywords for categorization
 detailed_attack_keywords = {
     "DDoS Attacks": ["ddos", "denial of service", "flooding", "botnet", "amplification"],
     "Hacking": ["hack", "hacked", "hacking", "exploited", "vulnerability", "rce", "breached"],
@@ -147,19 +146,6 @@ async def fetch_messages(channel_identifier, existing_messages_ids, failed_chann
     new_messages = []
 
     try:
-        # Fetch the channel entity
-        channel = await client.get_entity(channel_identifier)
-    except Exception as e:
-        print(f"Failed to fetch channel '{channel_identifier}': {e}")
-        log_failed_channel(channel_identifier, failed_channels_file)
-        return None, None, []
-
-    # Initialize variables
-    limit = 100
-    offset_id = 0
-    new_messages = []
-
-    try:
         # Fetch the channel message history
         history = await client(GetHistoryRequest(
             peer=channel,
@@ -203,14 +189,16 @@ async def fetch_messages(channel_identifier, existing_messages_ids, failed_chann
                     if any(keyword in content_lower for keyword in keywords_list):
                         attack_type = category
                         break
-            else:
-                content_lower = None  # Handle the NoneType case
 
             # Extract location from the message content
             location = extract_location(message.message) if message.message else ["N/A"]
 
             # Match keywords from company.json
             matched_keywords = match_keywords(message.message or "", keywords)
+
+            # If no keywords matched, add 'Other'
+            if not matched_keywords:
+                matched_keywords = ["Other"]
 
             # Add the processed message to the list
             new_messages.append({
@@ -251,36 +239,52 @@ def log_failed_channel(channel_identifier, failed_channels_file):
         print(f"Error handling {failed_channels_file}: {e}")
 
 def test_match_keywords():
-    # Sample text to test
-    sample_text = "The company SABIC announced a new petrochemical project in Saudi Arabia."
+    """
+    Test the match_keywords function with various cases.
+    """
+    # Sample JSON file path (adjust to your actual file path)
+    json_file_path = "Company.json"
 
-    # Load keywords from your JSON file
-    keywords = load_keywords_from_company("Company.json")
-    
-    # Ensure keywords loaded correctly
-    if not keywords:
-        print("Keywords not loaded correctly.")
-        return
-    
-    # Test the matching logic
-    matched = match_keywords(sample_text, keywords)
-    
-    # Display the results
-    print("Sample Text:", sample_text)
-    print("Matched Keywords:", matched)
+    # Load keywords from JSON file
+    keywords = load_keywords_from_company(json_file_path)
 
+    # Test cases
+    test_cases = [
+        {
+            "text": "The company SABIC announced a new petrochemical project in Saudi Arabia.",
+            "keywords": keywords,
+            "expected": ['Petrochemical', 'SABIC', 'Saudi']
+        },
+        {
+            "text": "This text has no matching keywords.",
+            "keywords": keywords,
+            "expected": ['Other']
+        },
+        {
+            "text": "Completely irrelevant text.",
+            "keywords": [],
+            "expected": ['Other']
+        }
+    ]
+
+    for i, case in enumerate(test_cases, 1):
+        result = match_keywords(case["text"], case["keywords"])
+        print(f"Test Case {i}: {'PASS' if result == case['expected'] else 'FAIL'}")
+        print(f"  Expected: {case['expected']}\n  Got: {result}\n")
+
+# Run the test function
 if __name__ == "__main__":
     test_match_keywords()
 
 async def main():
-    json_file_path = 'posts.json'
+    json_file_path = 'NewPosts.json'
     failed_channels_file = 'failed_channels.json'
     iteration_count = 0
     max_iterations = 1
     channel_id_map = {}  # Dictionary to store channel URL to ID mappings
     
     # Test keyword matching
-    # test_match_keywords()
+    test_match_keywords()
 
     while True:
         all_channel_messages = load_existing_messages(json_file_path)
@@ -502,7 +506,7 @@ with client:
 #         print(f"Error handling {failed_channels_file}: {e}")
 
 # async def main():
-#     json_file_path = 'posts.json'
+#     json_file_path = 'Nposts.json'
 #     failed_channels_file = 'failed_channels.json'
 #     iteration_count = 0
 #     max_iterations = 1
