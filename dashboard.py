@@ -284,7 +284,7 @@ async def main():
     channel_id_map = {}  # Dictionary to store channel URL to ID mappings
     
     # Test keyword matching
-    test_match_keywords()
+    # test_match_keywords()
 
     while True:
         all_channel_messages = load_existing_messages(json_file_path)
