@@ -4111,6 +4111,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9752,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9751,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 11:12:11\n🚨 Title: UserSec claims to target French government structures\n🛡️ Victim Country: France\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Alert\n🕵️‍♂️ Threat Actor: UserSec\n🌍 Network: telegram\n🔗 Claim: https://t.me/usersecc/126\n📝 Description: The group claims that they will soon upload a leak related to French government structures.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Victim",
+                "France"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "e/usersecc/126\n📝 Descript"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -52241,6 +52271,732 @@
         {
             "Message ID": 269,
             "discovered": "2024-12-11",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        }
+    ],
+    "Hunt3rKill3rs | Охотники-убийцы": [
+        {
+            "Message ID": 67,
+            "discovered": "2024-12-26",
+            "post_title": "https://t.me/Hunt3rsLeak/4",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/Hunt3rsLeak/4"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 66,
+            "discovered": "2024-12-26",
+            "post_title": "https://t.me/Hunt3rsLeak/5",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/Hunt3rsLeak/5"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 64,
+            "discovered": "2024-12-26",
+            "post_title": "Присоединяйтесь к нам, чтобы увидеть нечто невероятно!\n\nJoin here, to see something incredible!\n\nhttps://t.me/Hunt3rsLeak",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Присоединяйтесь к нам",
+                "увидеть"
+            ],
+            "URLs": [
+                "https://t.me/Hunt3rsLeak"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 63,
+            "discovered": "2024-12-25",
+            "post_title": "О нас:\n\nAbout us:\n\nhttps://www.securitylab.ru/news/tags/Hunt3r+Kill3rs/\n\nhttps://www.rewterz.com/threat-advisory/hunt3r-kill3rs-group-claims-to-breach-german-schneider-electric-systems\n\nhttps://infosecportal.ru/agregator-runeta/agregator-novostej/hunt3r-kill3rs-vzlomal-nemeczkie-sistemy-schneider-electric/\n\nhttps://gbhackers.com/hunt3r-kill3rs-group-claims/\n\nhttps://www.zd-sec.com/news_xq/335.html\n\nhttps://www.itsec.ru/news/hunt3r-kill3rs-vzlomal-nemezkiye-sistemi-chneider-electric\n\nhttps://cncso.com/en/xfocus/13983-html\n\nhttps://socradar.io/dark-web-profile-hunt3r-kill3rs/\n\nhttps://www.instagram.com/tessaron_news_3/p/DCmAcTNpiSb/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.securitylab.ru/news/tags/Hunt3r+Kill3rs/",
+                "https://www.rewterz.com/threat-advisory/hunt3r-kill3rs-group-claims-to-breach-german-schneider-electric-systems",
+                "https://infosecportal.ru/agregator-runeta/agregator-novostej/hunt3r-kill3rs-vzlomal-nemeczkie-sistemy-schneider-electric/",
+                "https://gbhackers.com/hunt3r-kill3rs-group-claims/",
+                "https://www.zd-sec.com/news_xq/335.html",
+                "https://www.itsec.ru/news/hunt3r-kill3rs-vzlomal-nemezkiye-sistemi-chneider-electric",
+                "https://cncso.com/en/xfocus/13983-html",
+                "https://socradar.io/dark-web-profile-hunt3r-kill3rs/",
+                "https://www.instagram.com/tessaron_news_3/p/DCmAcTNpiSb/"
+            ],
+            "Matched Keywords": [
+                "Schneider Electric"
+            ]
+        },
+        {
+            "Message ID": 62,
+            "discovered": "2024-12-25",
+            "post_title": "Счастливого Рождества! 🥂🥂🧑‍💻",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 61,
+            "discovered": "2024-12-25",
+            "post_title": "Christmas gift for USA",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 60,
+            "discovered": "2024-12-25",
+            "post_title": "PoC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 59,
+            "discovered": "2024-12-25",
+            "post_title": "Телекоммуникационный центр Буффало-Ридж взломан!\nМы готовы продать данные и доступ к ним.\n\nBuffalo Ridge Telecommunications Center Hacked!\nWe're ready to sell data and access.\n\nhttps://t.me/R351574N7",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/R351574N7"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 58,
+            "discovered": "2024-12-25",
+            "post_title": "Ещё один успех: израильские ресурсы больше не работают😈\n\n❌Местный совет Эфрата (закрыт по гео) \ncheck-host.net/check-report/21bcd2e5k9ea\n\n❌Региональный совет Бустан-аль-Мардж \ncheck-host.net/check-report/21bcccc0k61c\n\n❌Региональный совет Мевоот-ха-Хермон (закрыт по гео) \ncheck-host.net/check-report/21bcd0fek2a6\n\n❌Муниципалитет Лод (закрыт по гео) \ncheck-host.net/check-report/21bccf65k6d3\n\n❌Город Рош-ха-Аин (закрыт по гео)\ncheck-host.net/check-report/21bcc2f9kfe9\n\n#OpIsrael\n#FreePalestine\n#Free_Gaza\n#ForRussia \n#Cyber_Islamic_resistance\n#Holy_legue\n\nПодпишись➡️NoName057(16)|DDoSia Project |Reserve|Eng version|ReserveDDoSia",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "OpIsrael"
+            ],
+            "URLs": [
+                "heck-host.net/check-report/21bcd2e5k9ea\n",
+                "heck-host.net/check-report/21bcccc0k61c\n",
+                "heck-host.net/check-report/21bcd0fek2a6\n",
+                "heck-host.net/check-report/21bccf65k6d3\n",
+                "heck-host.net/check-report/21bcc2f9kfe9\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 57,
+            "discovered": "2024-12-13",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 56,
+            "discovered": "2024-12-13",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 55,
+            "discovered": "2024-12-13",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 54,
+            "discovered": "2024-12-13",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 53,
+            "discovered": "2024-12-13",
+            "post_title": "Ожидание/реальность адекватных итальянцев🇮🇹\n\nОжидание: 11 декабря Премьер-министр Италии Джорджа Мелони возглавила список самых влиятельных политиков Европы. \n\nРеальность: 13 декабря в Италии объявлена всеобщая забастовка. Люди вышли на улицы со требованиями: \n\n✅«Правительство Мелони ведет нас к войне: оно продолжает тратить деньги на вооружение, одновременно сокращая услуги. Мы не хотим быть соучастниками войны». \n\n✅«Арендная плата становится все выше, а заработная плата все ниже, а государственное жилье больше не строится».\n \nА ведь когда-то партия Мелони «Братья Италии» заявляли, что «Италия превыше всего»… 🤦🏻‍♂️\n\nМы поддерживаем адекватных жителей Италии, которые вышли на забастовку против ущербной политики итальянских властей, которые тратят деньги налогоплательщиков на спонсирование террориста Зеленского и присоединяемся к их движению вместе с нашими союзниками!💪🏻\n\nP.S: цифры на плакатах бастующих говорят сами за себя:\n\n❌на 108% подорожала электроэнергия\n\n❌на 72% подорожал газ\n\n❌на 60% подорожала паста\n\n❌на 43% подорожал Латте\n\n#FUCKMELONI\n#OpItaly\n#ScioperoGenerale\n\nПодпишись➡️NoName057(16)|DDoSia Project |Reserve|Eng version|ReserveDDoSia",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Италии",
+                "вооружение",
+                "Италии",
+                "OpItaly"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 52,
+            "discovered": "2024-12-09",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 51,
+            "discovered": "2024-12-09",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 50,
+            "discovered": "2024-12-09",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 49,
+            "discovered": "2024-12-09",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 48,
+            "discovered": "2024-12-09",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 47,
+            "discovered": "2024-12-09",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 46,
+            "discovered": "2024-12-09",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 45,
+            "discovered": "2024-12-09",
+            "post_title": "Today we attacked the security and communications infrastructure in Denmark, disabling many of their systems and carving our group's name into them.😈\n\nСегодня мы атаковали инфраструктуру безопасности и связи в Дании, отключив многие из их систем и вырезав на них название нашей группы.😈",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Denmark",
+                "Дании"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 37,
+            "discovered": "2024-12-09",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 36,
+            "discovered": "2024-12-09",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 35,
+            "discovered": "2024-12-09",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 34,
+            "discovered": "2024-12-09",
+            "post_title": "❗️NATO war tensions arises we hit back with cyber attacks. target Input Output Flood LLC\n\nWe had gained access to server hosted in the network of Iof organization. This attack was a symbol of the capacity that we have our wide range weapons can target more infrastructures of Europe because of the regime and injustice orders they pass in favour of money for peoples lifes.\n\nWe for now as usual maintain a persistent access to the servers. If any tension that can lead to a multiple country's involved war had taken by USA or NATO we will encrypt all data and dismantle all connection to their networks.\n\n#StandwithKozSec \n#OpNato",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 33,
+            "discovered": "2024-12-09",
+            "post_title": "Украина получила вторую партию истребителей F-16 от Дании, о чем сообщил бандеровец Зеленский🤬\n\n\"Вторая партия F-16 от Дании уже в Украине\", — заявил он.\n\nРанее, в ноябре, премьер-министр Дании Метте Фредериксен сообщила о передаче первой партии из шести истребителей F-16, при этом оставшиеся 13 должны были быть переданы позже.\n\nПока Дания отправляет истребители, мы отправляем DDoS-ракеты на их сайты😈\n\n❌Министерство транспорта Дании (закрыт по гео) \ncheck-host.net/check-report/215a3357k77d\n\n❌Город Орхус \ncheck-host.net/check-report/215a33fak6f7\n\n❌Город Эсбьерг \ncheck-host.net/check-report/215a3470ka81\n\n❌Город Хельсингёр \ncheck-host.net/check-report/215a351ekcc4\n\n❌Город Вайле (мертв по пингу) \ncheck-host.net/check-report/215a3615ka43\n\n❌Город Хорсенс \ncheck-host.net/check-report/215a36c7k950\n\n❌MitID —  цифровое удостоверение Дании \ncheck-host.net/check-report/215a3718k606\n\n#OpDenmark\n\nПодпишись➡️NoName057(16)|DDoSia Project |Reserve|Eng version|ReserveDDoSia",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "eck-host.net/check-report/215a3357k77d\n\n",
+                "eck-host.net/check-report/215a33fak6f7\n\n",
+                "eck-host.net/check-report/215a3470ka81\n\n",
+                "eck-host.net/check-report/215a351ekcc4\n\n",
+                "eck-host.net/check-report/215a3615ka43\n\n",
+                "eck-host.net/check-report/215a36c7k950\n\n",
+                "eck-host.net/check-report/215a3718k606\n\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 32,
+            "discovered": "2024-12-08",
+            "post_title": "\"France! For a long time, we have awaited the moment to visit you.\n\n Tomorrow, you will witness the digital inferno of our cyber power. Prepare to kneel before us!\"\n\n\n\n\"Франция! Долгие годы мы ждали момента посетить тебя. Завтра ты увидишь цифровой ад нашей киберсилы. Готовься преклонить колени перед нами!\"\n\n#Holy_legue \n#Cyber_Islamic_resistance \n#ForRussia \n#Free_Gaza",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France",
+                "Free_Gaza"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 31,
+            "discovered": "2024-12-08",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 30,
+            "discovered": "2024-12-08",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 29,
+            "discovered": "2024-12-08",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 28,
+            "discovered": "2024-12-08",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27,
+            "discovered": "2024-12-08",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26,
+            "discovered": "2024-12-08",
+            "post_title": "We hacked into the CCTV systems in France and disabled them, this is just the first part of our attack against France.😱\n\nМы взломали системы видеонаблюдения во Франции и отключили их, это только первая часть нашей атаки на Францию.😱",
+            "Attack Type": "Hacking",
+            "Location": [
+                "France",
+                "France"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 25,
+            "discovered": "2024-12-06",
+            "post_title": "Tomorrow we will launch an attack on France because our common enemy Trump is coming there, where he will meet with the criminal Zelensky.😎\n\nЗавтра мы начнем атаку на Францию, потому что наш общий враг Трамп прибывает туда, где он встретится с преступником Зеленским.😎",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France",
+                "Зеленским"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 24,
+            "discovered": "2024-12-06",
+            "post_title": "Помните это...\n\nRemember this...",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 23,
+            "discovered": "2024-12-06",
+            "post_title": "Fuck NAFO!\nFuck NATO!\n\nhttps://check-host.net/check-report/1e914b1bk56b",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://check-host.net/check-report/1e914b1bk56b"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 22,
+            "discovered": "2024-12-06",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 21,
+            "discovered": "2024-12-06",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 20,
+            "discovered": "2024-12-06",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 19,
+            "discovered": "2024-12-06",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 18,
+            "discovered": "2024-12-06",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 17,
+            "discovered": "2024-12-06",
+            "post_title": "Как мы и обещали... 😱\n\nAs we promised... 😱\n\nFUCK ISRAEL!",
+            "Attack Type": "Unknown",
+            "Location": [
+                "ISRAEL"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 16,
+            "discovered": "2024-12-06",
+            "post_title": "And now, our new target... \nIsrael Aerospace Industries!\nSurprise Netanyahu 😂😂",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 15,
+            "discovered": "2024-12-06",
+            "post_title": "Hey Mossad, you are under our control...",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 14,
+            "discovered": "2024-12-06",
+            "post_title": "Fuck Ukraine!\n\nhttps://vdetali.com.ua/index.php",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://vdetali.com.ua/index.php"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 13,
+            "discovered": "2024-12-06",
+            "post_title": "очередная атака на Украину\n, организованная благодаря нашему партнеру по ddos-атакам: @ziyaettin753\n\nhttps://check-host.net/check-report/1f23a393k1ea",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://check-host.net/check-report/1f23a393k1ea"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 12,
+            "discovered": "2024-12-06",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 11,
+            "discovered": "2024-12-06",
+            "post_title": "Эй, Украина, мы идем за тобой...\n\nhttps://check-host.net/check-report/1f237e86k4a4",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Украина"
+            ],
+            "URLs": [
+                "https://check-host.net/check-report/1f237e86k4a4"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10,
+            "discovered": "2024-12-06",
+            "post_title": "⚠️ Товарищи, хочу объявить вам о том что допилил материалы по обучению.\n🟢Взлом RTSP (Камеры видеонаблюдения)\n🟢Перехват доступа к FTP/SMTP-серверу.\n🟢Взлом VNC серверов.\n🟢Deface - материал обновлён.\n🟢Выгрузка баз данных с целевых серверов.\n🆕 Работа с малварями/Трафф\n🆕 Осинт/Деанон\n🆕 Обучение работы с Unix системами\n\n= = =\nComrades, I want to announce to you that We've completed the training materials.\n🟢Hacking of RTSP (CCTV Cameras)\n🟢Interception of access to the FTP/SMTP server.\nHacking VNC servers.\n🟢Deface - the material has been updated.\n🆕 Malware/Traff\n🟢Unloading databases from target servers.\n🆕 Osint/Deanon\n🆕 Work with Unix systems",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Osint"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9,
+            "discovered": "2024-12-06",
+            "post_title": "Более 233 тысяч файлов, включая документы, электронные письма, фотографии офицеров, контракты, карты оборудования и вооружения, а также документы, удостоверяющие личность, - все это принадлежит Армии Обороны Израиля, и их приблизительный объем составляет 23 ГБ, - выставлены на продажу по невероятной цене!!!\n\n\nMore than 233 thousand files, including documents, e-mails, photos of officers, contracts, maps of equipment and weapons, and identification documents, all belonging to the IDF, with an approximate volume of 23 GB, are for sale at an incredible price!!!\n\n@R351574N7",
+            "Attack Type": "Unknown",
+            "Location": [
+                "GB"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8,
+            "discovered": "2024-12-06",
             "post_title": "No Text Content",
             "Attack Type": "Unknown",
             "Location": [
