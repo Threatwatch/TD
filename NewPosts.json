@@ -4734,6 +4734,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9795,
+            "discovered": "2024-12-26",
+            "post_title": "🚨🇺🇸A Threat Actor is Allegedly Selling Local Admin Access to a US Transportation Company\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-local-admin-access-to-a-us-transportation-company/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-local-admin-access-to-a-us-transportation-company/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9792,
+            "discovered": "2024-12-26",
+            "post_title": "🚨🇺🇸A Threat Actor is Allegedly Selling Access to an Unidentified US Architecture and Design Firm\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-us-architecture-and-design-firm/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-us-architecture-and-design-firm/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -28344,6 +28374,47 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4099,
+            "discovered": "2024-12-26",
+            "post_title": "Group: FOG\nApprox. Time: 16:36 26/12/24\nTitle: Ober Mountain (https://t.co/jAMDgXkCs6)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/jAMDgXkCs6"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4098,
+            "discovered": "2024-12-26",
+            "post_title": "Group: bianlian\nApprox. Time: 16:36 26/12/24\nTitle: Associates",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4097,
+            "discovered": "2024-12-26",
+            "post_title": "Group: bianlian\nApprox. Time: 16:36 26/12/24\nTitle: Caframo Limited.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -37440,6 +37511,50 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100016,
+            "discovered": "2024-12-26",
+            "post_title": "Victim: Ober Mountain (OberGatlinburg.com)\n\nDetection Date: Thu Dec 26 19:46:16 2024\n\nThreat Actor: fog\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "OberGatlinburg.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100015,
+            "discovered": "2024-12-26",
+            "post_title": "Victim: Caframo Limited.\n\nDetection Date: Thu Dec 26 19:46:02 2024\n\nThreat Actor: bianlian\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100014,
+            "discovered": "2024-12-26",
+            "post_title": "Vulnerability ID: CVE-2024-6777\n\nDescription: Use after free in Navigation in Google Chrome prior to 126.0.6478.182 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted Chrome Extension. (Chromium security severity: High)\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-6777\n\nDate of Publishing: 2024/12/26\n\nLink to Exploit: https://issues.chromium.org/issues/345640549\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-6777",
+                "https://issues.chromium.org/issues/345640549"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -42867,6 +42982,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 3607,
+            "discovered": "2024-12-26",
+            "post_title": "BASHE RANSOMWARE GROUP BECOMES JOKE IN INDONESIA\n\nTeguh Aprianto, cybersecurity consultant and Ethical Hacker Indonesia founder, deemed ransomware allegations against Bank BRI as unfounded.\n\n\"Bashe, a relatively new group, claimed Bank BRI was a ransomware victim, but supporting data lacked conviction,\" Teguh stated on Wednesday, December 25, 2024. \"Post-deadline, Bashe released allegedly incriminating data, which proved uncredible.\"\n\nThe data consisted of a single Excel file with 100 entries, matching publicly available documents on Scribd and PDFCoffee.\n\n\"This claim showcases Bashe's lack of seriousness. Let's applaud Bashe, the most laughable ransomware group ever,\" Teguh concluded.\n\nSource:\nhttps://www.suara.com/tekno/2024/12/25/144732/teguh-aprianto-klaim-ransomware-bank-bri-oleh-bashe-terkocak-sepanjang-masa\n\nNOTE:\nTo the Ransomware bashe group, don't be stupid in acting! You are just trash and a laughing stock for our country!\n\n#INDOHAXSEC",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Indonesia"
+            ],
+            "URLs": [
+                "https://www.suara.com/tekno/2024/12/25/144732/teguh-aprianto-klaim-ransomware-bank-bri-oleh-bashe-terkocak-sepanjang-masa"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomlook - Ransomware Alerts": [
@@ -46317,6 +46447,52 @@
             ],
             "URLs": [
                 "https://www.ransomlook.io//group/akira"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8569,
+            "discovered": "2024-12-26",
+            "post_title": "Caframo Limited. By bianlian\n\nhttps://www.ransomlook.io//group/bianlian\n\n Ransom post image 🖼️",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.ransomlook.io//group/bianlian"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8568,
+            "discovered": "2024-12-26",
+            "post_title": "E-Tank By akira\n\nhttps://www.ransomlook.io//group/akira",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.ransomlook.io//group/akira"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8567,
+            "discovered": "2024-12-26",
+            "post_title": "Ober Mountain (OberGatlinburg.com) By fog\n\nhttps://www.ransomlook.io//group/fog\n\n Ransom post image 🖼️",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "OberGatlinburg.com",
+                "https://www.ransomlook.io//group/fog"
             ],
             "Matched Keywords": [
                 "Other"
@@ -49862,6 +50038,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-12032/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80160,
+            "discovered": "2024-12-26",
+            "post_title": "[INTERLOCK] - Ransomware Victim: McCormick & Priore - https://www.redpacketsecurity.com/interlock-ransomware-victim-mccormick-priore/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/interlock-ransomware-victim-mccormick-priore/"
             ],
             "Matched Keywords": [
                 "Other"
