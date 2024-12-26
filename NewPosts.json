@@ -4508,6 +4508,158 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9786,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9785,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 14:41:55\n🚨 Title: STEMMER – Lawyers + Notaries falls victim to Ciphbit Ransomware\n🛡️ Victim Country: Switzerland\n🏭 Victim Industry: Law Practice & Law Firms\n🏢 Victim Organization: stemmer – lawyers + notaries\n🌐 Victim Site: advokatur-bl.ch\n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: Ciphbit\n🌍 Network: tor\n🔗 Claim: http://ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion/\n📝 Description: The group claims to publish the organization's data within 4 - 5 days.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Switzerland"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "ur-bl.ch\n📜 Cate",
+                "bitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion/\n📝 Descript"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9784,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9783,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 14:19:04\n🚨 Title: RipperSec targets the website of The Hebrew University of Jerusalem\n🛡️ Victim Country: Israel\n🏭 Victim Industry: Education\n🏢 Victim Organization: the hebrew university of jerusalem\n🌐 Victim Site: kudiyattam.huji.ac.il\n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: RipperSec\n🌍 Network: telegram\n🔗 Claim: https://t.me/RipperSecGroup/24808\n📝 Description: The group claims to have taken down the website of The Hebrew University of Jerusalem.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "tam.huji.ac.il\n📜 Cate",
+                "e/RipperSecGroup/24808\n📝 Descript"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9782,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9781,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 14:06:44\n🚨 Title: DXPLOIT targets the website of TELETASK\n🛡️ Victim Country: Belgium\n🏭 Victim Industry: Electrical & Electronic Manufacturing\n🏢 Victim Organization: teletask\n🌐 Victim Site: teletask.be\n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: DXPLOIT (OFFICIALS)\n🌍 Network: telegram\n🔗 Claim: https://t.me/c/2402878178/1870\n📝 Description: Proof of down time: https://check-host.net/check-report/21c465d4kf20",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Belgium"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "k.be\n📜 Cate",
+                "e/c/2402878178/1870\n📝 Descript",
+                "k-host.net/check-report/21c465d4kf20"
+            ],
+            "Matched Keywords": [
+                "manufacturing"
+            ]
+        },
+        {
+            "Message ID": 9780,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9779,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 14:03:40\n🚨 Title: Alleged sale of access to Jagoan Hosting Indonesia\n🛡️ Victim Country: Indonesia\n🏭 Victim Industry: Information Services\n🏢 Victim Organization: jagoan hosting indonesia\n🌐 Victim Site: jagoanhosting.com\n📜 Category: Initial Access\n🕵️‍♂️ Threat Actor: hacker_levup\n🌍 Network: openweb\n🔗 Claim: https://breachforums.st/Thread-jagoanhosting-com-User-Access-%E2%9C%85-FRESH-CHECKED-%E2%9C%85\n📝 Description: The threat actor claims to be selling user access to Jagoan Hosting Indonesia.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Indonesia",
+                "indonesia"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "osting.com\n📜 Cate",
+                "achforums.st/Thread-jagoanhosting-com-User-Access-%E2%9C%85-FRESH-CHECKED-%E2%9C%85\n📝 Descript"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9778,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9777,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 13:55:16\n🚨 Title: Ramos Law falls victim to Akira Ransomware\n🛡️ Victim Country: USA\n🏭 Victim Industry: Law Practice & Law Firms\n🏢 Victim Organization: ramos law\n🌐 Victim Site: ramoslaw.com\n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: akira\n🌍 Network: tor\n🔗 Claim: https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion/\n📝 Description: Group claims to have obtained 15 GB of the organization's data, including passports, driver licenses, internal financial documents, contact numbers and e-mail addresses of employees and customers, etc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "w.com\n📜 Cate",
+                "ral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion/\n📝 Descript"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -6548,6 +6700,22 @@
             ],
             "URLs": [
                 "https://www.facebook.com/share/p/1GP5r6Hd5d/?mibextid=K35XfP"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 788,
+            "discovered": "2024-12-26",
+            "post_title": "🔴 حمله دیداس به وب‌سایت اسرائیلی؛\nتوسط گروه RipperSec\n\nTARGET: https://fiber.walla.co.il\nIP: 34.149.148.101\nISP: Google LLC\nPorts : 80 | 443 |\n\n#FuckIsrael #FreePalestine\n#RipperSec #ddos #CyberAttack\n#ICA_NEWS\n\n🔘To see the news in English, go to the comments\n\nThe exclusive source of hacker news\n🚨 Official news channel of #ICA 🛰\n〔 @ICA_313 〕",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "وب‌سایت"
+            ],
+            "URLs": [
+                "ttps://fiber.walla.co.il\n",
+                "4.149.148.101\n"
             ],
             "Matched Keywords": [
                 "Other"
@@ -24192,6 +24360,31 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1275,
+            "discovered": "2024-12-26",
+            "post_title": "В понедельник итальянское правительство продлило поставки военной техники Киеву до конца 2025 года. Премьер-министр Джорджа Мелони заявила о готовности поддерживать Украину до завершения войны, несмотря на возможные изменения позиции США после инаугурации Дональда Трампа.\n\nГлава НАТО Марк Рютте призвал союзников усилить военную поддержку Украины для укрепления её позиций перед потенциальными мирными переговорами🤬\n\nПока русофобское правительство Италии продолжает поддержку преступного режима Зеленского, мы поддерживаем атаки на интернет-инфраструктуру этой страны😈\n\n❌Министерство инфраструктуры и транспорта Италии (мертв по пингу) \ncheck-host.net/check-report/21c2c12bk6c4\n\n❌Mинистерство экономического развития \ncheck-host.net/check-report/21c2c114k417\n\n❌Финансовая полиция Италии (закрыт по гео) \ncheck-host.net/check-report/21c2c15ck998\n\n❌Военные объединенные силы Италии (мертв по пингу) \ncheck-host.net/check-report/21c2ca8ekde\n\n❌Аэрокосмическая энергетика Италии \ncheck-host.net/check-report/21c2c7bdkd43\n\n❌Организация карабинеров Италии (мертв по пингу) \ncheck-host.net/check-report/21c2ceafkc00\n\n❌Военно-морской флот Италии (мертв по пингу) \ncheck-host.net/check-report/21c2ccfek9e6\n\n#OpItaly\n\nПодпишись➡️NoName057(16)|DDoSia Project |Reserve|Eng version|ReserveDDoSia",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Италии",
+                "Италии",
+                "Италии",
+                "Италии",
+                "Италии"
+            ],
+            "URLs": [
+                "eck-host.net/check-report/21c2c12bk6c4\n\n",
+                "eck-host.net/check-report/21c2c114k417\n\n",
+                "eck-host.net/check-report/21c2c15ck998\n\n",
+                "eck-host.net/check-report/21c2ca8ekde\n\n",
+                "eck-host.net/check-report/21c2c7bdkd43\n\n",
+                "eck-host.net/check-report/21c2ceafkc00\n\n",
+                "eck-host.net/check-report/21c2ccfek9e6\n\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "AHU Official": [
@@ -28059,6 +28252,21 @@
                 "Approx"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4096,
+            "discovered": "2024-12-26",
+            "post_title": "Group: ciphbit\nApprox. Time: 14:38 26/12/24\nTitle: https://t.co/h2hMDZhzhp",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/h2hMDZhzhp"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
@@ -37070,6 +37278,64 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100011,
+            "discovered": "2024-12-26",
+            "post_title": "Title: Securing Remote OT Operations:\n\nDate: December 26, 2024\n\nSource: https://www.paloaltonetworks.com/blog/2024/12/securing-remote-ot-operations/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.paloaltonetworks.com/blog/2024/12/securing-remote-ot-operations/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100010,
+            "discovered": "2024-12-26",
+            "post_title": "Title: Ruijie Networks' Cloud Platform Flaws Could've Exposed 50,000 Devices to Remote Attacks\n\nDate: Dec 25, 2024\n\nSource: https://thehackernews.com/2024/12/ruijie-networks-cloud-platform-flaws.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/12/ruijie-networks-cloud-platform-flaws.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100009,
+            "discovered": "2024-12-26",
+            "post_title": "Victim: McCormick & Priore\n\nDetection Date: Thu Dec 26 17:44:43 2024\n\nThreat Actor: interlock\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100008,
+            "discovered": "2024-12-26",
+            "post_title": "Title: NCSC Implements Key Improvements Following IPAC Review of Cyber Threats\n\nDate: December 26, 2024\n\nSource: https://cyble.com/blog/ncsc-implements-new-security-measures/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyble.com/blog/ncsc-implements-new-security-measures/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -42461,6 +42727,25 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 3603,
+            "discovered": "2024-12-26",
+            "post_title": "⭐️ DarkForums.st - Data Leak & Discussion Forums ⭐️\n\n💻  ClearNet service : https://darkforums.st or df.hn or df.kiwi\n📱 Telegram Channel: https://t.me/DarkForumsME\n🤍 We allow general black hat activities as long as it follows our rules \n🤍 We have a dedicated section for data leaks, coding and a few more fun ones.\n🤍 We will get many quality and private leak on DF.\n🤍 We have a marketplace, reputation\n🤍 Automatic Escrow(coming soon)\n🤍 To Maintain Users Privacy we don't logs ips.\n\n⭐ Join us if you want to be apart of a Great new Hacking forums and community, are interested in buy/selling on our marketplace or are there just for fun. (We also have a shoutbox) \n\nFor any account related issues or general issues do not hesitate to pm me on site (Administrator) or on telegram (@Knoxdf)\n\n\n- - ✅ Kind regards, the DarkForums Team (@DarkForumsME)\n\n✋🤏🫸🤞🤝🫡",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "DarkForums.st",
+                "ttps://darkforums.st ",
+                "f.hn ",
+                "f.kiwi\n",
+                "tps://t.me/DarkForumsME\n🤍"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomlook - Ransomware Alerts": [
@@ -45806,6 +46091,81 @@
             ],
             "URLs": [
                 "https://www.ransomlook.io//group/fsociety"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8564,
+            "discovered": "2024-12-26",
+            "post_title": "Ramos Law By akira\n\nhttps://www.ransomlook.io//group/akira",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.ransomlook.io//group/akira"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8563,
+            "discovered": "2024-12-26",
+            "post_title": "Rio Negro By akira\n\nhttps://www.ransomlook.io//group/akira",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.ransomlook.io//group/akira"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8562,
+            "discovered": "2024-12-26",
+            "post_title": "MLP Tax & Financial Services By akira\n\nhttps://www.ransomlook.io//group/akira",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.ransomlook.io//group/akira"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8561,
+            "discovered": "2024-12-26",
+            "post_title": "Pergher Notariat By ciphbit\n\nhttps://www.ransomlook.io//group/ciphbit",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.ransomlook.io//group/ciphbit"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8560,
+            "discovered": "2024-12-26",
+            "post_title": "McCormick & Priore By interlock\n\nhttps://www.ransomlook.io//group/interlock\n\n Ransom post image 🖼️",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.ransomlook.io//group/interlock"
             ],
             "Matched Keywords": [
                 "Other"
@@ -49280,6 +49640,51 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 80157,
+            "discovered": "2024-12-26",
+            "post_title": "[AKIRA] - Ransomware Victim: MLP Tax & Financial Services - https://www.redpacketsecurity.com/akira-ransomware-victim-mlp-tax-financial-services/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/akira-ransomware-victim-mlp-tax-financial-services/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80156,
+            "discovered": "2024-12-26",
+            "post_title": "[AKIRA] - Ransomware Victim: McFarlane - https://www.redpacketsecurity.com/akira-ransomware-victim-mcfarlane/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/akira-ransomware-victim-mcfarlane/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80155,
+            "discovered": "2024-12-26",
+            "post_title": "[AKIRA] - Ransomware Victim: Rio Negro - https://www.redpacketsecurity.com/akira-ransomware-victim-rio-negro/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/akira-ransomware-victim-rio-negro/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomware Live - Ransomware Alerts": [
@@ -52479,6 +52884,66 @@
             "URLs": [
                 "tcky.com\n",
                 "ttps://www.ransomware.live/id/cHRja3kuY29tQGNhY3R1cw=="
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8445,
+            "discovered": "2024-12-26",
+            "post_title": "🏴‍☠️ Interlock has just published a new victim: McCormick & Priore\n-----------------\nhttps://www.ransomware.live/id/TWNDb3JtaWNrICYgUHJpb3JlQGludGVybG9jaw==",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Interlock"
+            ],
+            "URLs": [
+                "ttps://www.ransomware.live/id/TWNDb3JtaWNrICYgUHJpb3JlQGludGVybG9jaw=="
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8444,
+            "discovered": "2024-12-26",
+            "post_title": "🏴‍☠️ Akira has just published a new victim: McFarlane\n-----------------\nhttps://www.ransomware.live/id/TWNGYXJsYW5lQGFraXJh",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.ransomware.live/id/TWNGYXJsYW5lQGFraXJh"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8443,
+            "discovered": "2024-12-26",
+            "post_title": "🏴‍☠️ Akira has just published a new victim: Rio Negro\n-----------------\nhttps://www.ransomware.live/id/UmlvIE5lZ3JvQGFraXJh",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Rio Negro"
+            ],
+            "URLs": [
+                "ttps://www.ransomware.live/id/UmlvIE5lZ3JvQGFraXJh"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8442,
+            "discovered": "2024-12-26",
+            "post_title": "🏴‍☠️ Akira has just published a new victim: MLP Tax & Financial Services\n-----------------\nhttps://www.ransomware.live/id/TUxQIFRheCAmIEZpbmFuY2lhbCBTZXJ2aWNlc0Bha2lyYQ==",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.ransomware.live/id/TUxQIFRheCAmIEZpbmFuY2lhbCBTZXJ2aWNlc0Bha2lyYQ=="
             ],
             "Matched Keywords": [
                 "Other"
