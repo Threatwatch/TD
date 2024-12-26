@@ -4846,6 +4846,35 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9803,
+            "discovered": "2024-12-26",
+            "post_title": "I mean I guess it's a \"discovery\" if no one has found it before, but no way this can be entirely new.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9802,
+            "discovered": "2024-12-26",
+            "post_title": "💡\"Dark Web Facial ID Farm Warning—Hackers Build Identity Fraud Database\"\n\nhttps://www.forbes.com/sites/daveywinder/2024/12/26/dark-web-face-id-farm-warning-as-hackers-build-identity-fraud-database/\n\nhttps://archive.ph/jaajH",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.forbes.com/sites/daveywinder/2024/12/26/dark-web-face-id-farm-warning-as-hackers-build-identity-fraud-database/\n",
+                "ttps://archive.ph/jaajH"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -53846,6 +53875,112 @@
             ],
             "URLs": [
                 "ttps://www.ransomware.live/id/TUxQIFRheCAmIEZpbmFuY2lhbCBTZXJ2aWNlc0Bha2lyYQ=="
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8452,
+            "discovered": "2024-12-26",
+            "post_title": "🏴‍☠️ Ciphbit has just published a new victim: Pergher Notariat\n-----------------\nhttps://www.ransomware.live/id/UGVyZ2hlciBOb3RhcmlhdEBjaXBoYml0",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.ransomware.live/id/UGVyZ2hlciBOb3RhcmlhdEBjaXBoYml0"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8451,
+            "discovered": "2024-12-26",
+            "post_title": "🏴‍☠️ Fog has just published a new victim: Ober Mountain (OberGatlinburg.com)\n-----------------\nhttps://www.ransomware.live/id/T2JlciBNb3VudGFpbiAoT2JlckdhdGxpbmJ1cmcuY29tKUBmb2c=",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "berGatlinburg.com)",
+                "ttps://www.ransomware.live/id/T2JlciBNb3VudGFpbiAoT2JlckdhdGxpbmJ1cmcuY29tKUBmb2c="
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8450,
+            "discovered": "2024-12-26",
+            "post_title": "🏴‍☠️ Akira has just published a new victim: E-Tank\n-----------------\nhttps://www.ransomware.live/id/RS1UYW5rQGFraXJh",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.ransomware.live/id/RS1UYW5rQGFraXJh"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8449,
+            "discovered": "2024-12-26",
+            "post_title": "🏴‍☠️ Akira has just published a new victim: Charlie’s Tax Service\n-----------------\nhttps://www.ransomware.live/id/Q2hhcmxpZeKAmXMgVGF4IFNlcnZpY2VAYWtpcmE=",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.ransomware.live/id/Q2hhcmxpZeKAmXMgVGF4IFNlcnZpY2VAYWtpcmE="
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8448,
+            "discovered": "2024-12-26",
+            "post_title": "🏴‍☠️ Akira has just published a new victim: Pinno Construction\n-----------------\nhttps://www.ransomware.live/id/UGlubm8gQ29uc3RydWN0aW9uQGFraXJh",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.ransomware.live/id/UGlubm8gQ29uc3RydWN0aW9uQGFraXJh"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8447,
+            "discovered": "2024-12-26",
+            "post_title": "🏴‍☠️ Akira has just published a new victim: Ramos Law\n-----------------\nhttps://www.ransomware.live/id/UmFtb3MgTGF3QGFraXJh",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.ransomware.live/id/UmFtb3MgTGF3QGFraXJh"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8446,
+            "discovered": "2024-12-26",
+            "post_title": "🏴‍☠️ Bianlian has just published a new victim: Caframo Limited.\n-----------------\nhttps://www.ransomware.live/id/Q2FmcmFtbyBMaW1pdGVkLkBiaWFubGlhbg==",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.ransomware.live/id/Q2FmcmFtbyBMaW1pdGVkLkBiaWFubGlhbg=="
             ],
             "Matched Keywords": [
                 "Other"
