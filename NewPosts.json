@@ -4890,6 +4890,45 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9807,
+            "discovered": "2024-12-26",
+            "post_title": "OK the boxes look a tiny bit better and there is a hover effect.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9806,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9805,
+            "discovered": "2024-12-26",
+            "post_title": "Looks a little better, graphics will change just didn't put much into that. Same negotiation as earlier. Also download button for .json export.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -20243,6 +20282,32 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5623,
+            "discovered": "2024-12-26",
+            "post_title": "Poopy posting nonstop until the new year",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5622,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "DARKFEED": [
@@ -32029,6 +32094,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5176,
+            "discovered": "2024-12-26",
+            "post_title": "ID: 19826\n⚠ 2024-12-26 20:47:06\n🥷 hunters\n🎯 Family Help  AND  Wellness, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19826",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19826"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -38142,6 +38222,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100032,
+            "discovered": "2024-12-26",
+            "post_title": "Title: 윈도우 11 kb5048685 업데이트로 인해 와이 파이 및 시작 메뉴 작동이 중지됨\n\nDate: December 26, 2024\n\nSource: https://wezard4u.tistory.com/429366\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://wezard4u.tistory.com/429366"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -40963,6 +41058,19 @@
             "URLs": [
                 "https://justpaste.it/ggxfn"
             ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26921,
+            "discovered": "2024-12-26",
+            "post_title": "Hi",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
             "Matched Keywords": [
                 "Other"
             ]
@@ -50655,6 +50763,111 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/interlock-ransomware-victim-mccormick-priore/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80167,
+            "discovered": "2024-12-26",
+            "post_title": "[BIANLIAN] - Ransomware Victim: Caframo Limited[.] - https://www.redpacketsecurity.com/bianlian-ransomware-victim-caframo-limited/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/bianlian-ransomware-victim-caframo-limited/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80166,
+            "discovered": "2024-12-26",
+            "post_title": "[FOG] - Ransomware Victim: Ober Mountain (OberGatlinburg[.]com) - https://www.redpacketsecurity.com/fog-ransomware-victim-ober-mountain-obergatlinburg-com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/fog-ransomware-victim-ober-mountain-obergatlinburg-com/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80165,
+            "discovered": "2024-12-26",
+            "post_title": "[AKIRA] - Ransomware Victim: Pinno Construction - https://www.redpacketsecurity.com/akira-ransomware-victim-pinno-construction/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/akira-ransomware-victim-pinno-construction/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80164,
+            "discovered": "2024-12-26",
+            "post_title": "[AKIRA] - Ransomware Victim: Ramos Law - https://www.redpacketsecurity.com/akira-ransomware-victim-ramos-law/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/akira-ransomware-victim-ramos-law/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80163,
+            "discovered": "2024-12-26",
+            "post_title": "[CIPHBIT] - Ransomware Victim: Pergher Notariat - https://www.redpacketsecurity.com/ciphbit-ransomware-victim-pergher-notariat/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/ciphbit-ransomware-victim-pergher-notariat/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80162,
+            "discovered": "2024-12-26",
+            "post_title": "[AKIRA] - Ransomware Victim: E-Tank - https://www.redpacketsecurity.com/akira-ransomware-victim-e-tank/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/akira-ransomware-victim-e-tank/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80161,
+            "discovered": "2024-12-26",
+            "post_title": "[AKIRA] - Ransomware Victim: Charlie’s Tax Service - https://www.redpacketsecurity.com/akira-ransomware-victim-charlie-s-tax-service/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/akira-ransomware-victim-charlie-s-tax-service/"
             ],
             "Matched Keywords": [
                 "Other"
