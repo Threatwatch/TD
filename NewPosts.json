@@ -4764,6 +4764,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9796,
+            "discovered": "2024-12-26",
+            "post_title": "💡Movie Fact: In Hackers (1995), Matthew Lillard's character, \"Cereal Killer,\" goes the entire movie without once touching a computer—except for exactly one second, just before he does his \"tension breaker\" at Grand Central Station.\n\nVideo URL is a couple seconds before this happens: https://youtu.be/5T_CqqjOPDc?t=5049",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://youtu.be/5T_CqqjOPDc?t=5049"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -37551,6 +37566,21 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-6777",
                 "https://issues.chromium.org/issues/345640549"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100017,
+            "discovered": "2024-12-26",
+            "post_title": "Title: New 'OtterCookie' malware used to backdoor devs in fake job offers\n\nDate: December 26, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/new-ottercookie-malware-used-to-backdoor-devs-in-fake-job-offers/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/new-ottercookie-malware-used-to-backdoor-devs-in-fake-job-offers/"
             ],
             "Matched Keywords": [
                 "Other"
