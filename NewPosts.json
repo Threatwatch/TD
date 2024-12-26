@@ -4200,6 +4200,254 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9772,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9771,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 13:00:16\n🚨 Title: MLP Tax & Financial Services, Inc falls victim to Akira Ransomware\n🛡️ Victim Country: USA\n🏭 Victim Industry: Financial Services\n🏢 Victim Organization: mlp tax & financial services, inc\n🌐 Victim Site: mlpfinancial.com\n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: akira\n🌍 Network: tor\n🔗 Claim: https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion/\n📝 Description: Group claims to have obtained the organization's data, including contact numbers, e-mail addresses of employees and customers, internal financial documents, unique tax identification codes, etc",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "ncial.com\n📜 Cate",
+                "ral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion/\n📝 Descript"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9770,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9769,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 12:38:51\n🚨 Title: NoName targets the website of VAK\n🛡️ Victim Country: Ukraine\n🏭 Victim Industry: Network & Telecommunications\n🏢 Victim Organization: vak\n🌐 Victim Site: vak.com.ua\n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/nnm057_16/6051\n📝 Description: Proof of downtime: https://check-host.net/check-report/21c3c3d1k752",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                ".ua\n📜 Cate",
+                "e/nnm057_16/6051\n📝 Descript",
+                "k-host.net/check-report/21c3c3d1k752"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9768,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9767,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 12:38:45\n🚨 Title: NoName targets the website of DisNet\n🛡️ Victim Country: Ukraine\n🏭 Victim Industry: Network & Telecommunications\n🏢 Victim Organization: disnet\n🌐 Victim Site: disnet.com.ua\n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/nnm057_16/6051\n📝 Description: Proof of downtime: https://check-host.net/check-report/21c3c31fk9ff",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "com.ua\n📜 Cate",
+                "e/nnm057_16/6051\n📝 Descript",
+                "k-host.net/check-report/21c3c31fk9ff"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9766,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9765,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 12:38:38\n🚨 Title: NoName targets the website of Poltava City Council\n🛡️ Victim Country: Ukraine\n🏭 Victim Industry: Government Administration\n🏢 Victim Organization: poltava city council\n🌐 Victim Site: rada-poltava.gov.ua\n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/nnm057_16/6051\n📝 Description: Proof of downtime: https://check-host.net/check-report/21c3c763k840",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "ltava.gov.ua\n📜 Cate",
+                "e/nnm057_16/6051\n📝 Descript",
+                "k-host.net/check-report/21c3c763k840"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9764,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9763,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 12:17:38\n🚨 Title: OverFlame targets the website of Croatian Agency for Agriculture and Food\n🛡️ Victim Country: Croatia\n🏭 Victim Industry: Agriculture & Farming\n🏢 Victim Organization: croatian agency for agriculture and food\n🌐 Victim Site: hapih.hr\n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: OverFlame\n🌍 Network: telegram\n🔗 Claim: https://t.me/privetOTof222/1107\n📝 Description: Proof of downtime: https://check-host.net/check-report/21c37b15k8bb",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "r\n📜 Cate",
+                "e/privetOTof222/1107\n📝 Descript",
+                "k-host.net/check-report/21c37b15k8bb"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9762,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9761,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 12:12:39\n🚨 Title: NoName targets the website of Zorya-Mashproekt\n🛡️ Victim Country: Ukraine\n🏭 Victim Industry: Mechanical or Industrial Engineering\n🏢 Victim Organization: zorya-mashproekt\n🌐 Victim Site: zmturbines.com\n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/nnm057_16/6051\n📝 Description: Proof of downtime: http://check-host.net/check-report/21c3c8eakc8a",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "nes.com\n📜 Cate",
+                "e/nnm057_16/6051\n📝 Descript",
+                "-host.net/check-report/21c3c8eakc8a"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9760,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9759,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 12:08:51\n🚨 Title: NoName targets the website of Transmission System Operator of Ukraine\n🛡️ Victim Country: Ukraine\n🏭 Victim Industry: Energy & Utilities\n🏢 Victim Organization: transmission system operator\n🌐 Victim Site: tsoua.com\n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/nnm057_16/6051\n📝 Description: Proof of downtime: http://check-host.net/check-report/21c3da44k34b",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine",
+                "Ukraine"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "om\n📜 Cate",
+                "e/nnm057_16/6051\n📝 Descript",
+                "-host.net/check-report/21c3da44k34b"
+            ],
+            "Matched Keywords": [
+                "energy"
+            ]
+        },
+        {
+            "Message ID": 9758,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9757,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 12:06:14\n🚨 Title: NoName targets the website of Tucha Cloud Solutions Provider\n🛡️ Victim Country: Ukraine\n🏭 Victim Industry: Information Technology (IT) Services\n🏢 Victim Organization: tucha cloud solutions provider\n🌐 Victim Site: tucha.ua\n📜 Category: DDoS Attack\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n🔗 Claim: https://t.me/nnm057_16/6051\n📝 Description: Proof of downtime: http://check-host.net/check-report/21c3d927k51",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "a\n📜 Cate",
+                "e/nnm057_16/6051\n📝 Descript",
+                "-host.net/check-report/21c3d927k51"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -36719,6 +36967,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100007,
+            "discovered": "2024-12-26",
+            "post_title": "Title: Brazilian Man Charged With Making Extortionate Threats To Publicize Stolen Data Obtained By Unlawful Computer Intrusion\n\nDate: December 26, 2024\n\nSource: https://databreaches.net/2024/12/26/brazilian-man-charged-with-making-extortionate-threats-to-publicize-stolen-data-obtained-by-unlawful-computer-intrusion/\n\n#News #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "https://databreaches.net/2024/12/26/brazilian-man-charged-with-making-extortionate-threats-to-publicize-stolen-data-obtained-by-unlawful-computer-intrusion/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100006,
+            "discovered": "2024-12-26",
+            "post_title": "Title: Japan Airlines recovers from cyberattack, confirms no customer data leaks\n\nDate: December 26, 2024\n\nSource: https://databreaches.net/2024/12/26/japan-airlines-recovers-from-cyberattack-confirms-no-customer-data-leaks/\n\n#News #Japan",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Japan"
+            ],
+            "URLs": [
+                "https://databreaches.net/2024/12/26/japan-airlines-recovers-from-cyberattack-confirms-no-customer-data-leaks/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -48824,6 +49102,111 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 80154,
+            "discovered": "2024-12-26",
+            "post_title": "Cobalt Strike Beacon Detected - 117[.]50[.]163[.]22:8080 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-117-50-163-22-port-8080/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-117-50-163-22-port-8080/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80153,
+            "discovered": "2024-12-26",
+            "post_title": "Cobalt Strike Beacon Detected - 93[.]179[.]101[.]17:80 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-93-179-101-17-port-80/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-93-179-101-17-port-80/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80152,
+            "discovered": "2024-12-26",
+            "post_title": "Cobalt Strike Beacon Detected - 123[.]57[.]230[.]183:443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-123-57-230-183-port-443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-123-57-230-183-port-443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80151,
+            "discovered": "2024-12-26",
+            "post_title": "Cobalt Strike Beacon Detected - 47[.]109[.]58[.]47:80 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-47-109-58-47-port-80/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-47-109-58-47-port-80/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80150,
+            "discovered": "2024-12-26",
+            "post_title": "Cobalt Strike Beacon Detected - 108[.]165[.]57[.]5:8889 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-108-165-57-5-port-8889/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-108-165-57-5-port-8889/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80149,
+            "discovered": "2024-12-26",
+            "post_title": "Cobalt Strike Beacon Detected - 101[.]133[.]224[.]88:443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-101-133-224-88-port-443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-101-133-224-88-port-443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80148,
+            "discovered": "2024-12-26",
+            "post_title": "Cobalt Strike Beacon Detected - 111[.]173[.]118[.]193:81 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-111-173-118-193-port-81/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-111-173-118-193-port-81/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomware Live - Ransomware Alerts": [
@@ -53077,6 +53460,21 @@
                 "N/A"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 68,
+            "discovered": "2024-12-26",
+            "post_title": "Просто небольшое доказательство\n\nJust a little proof\n\nIP: 159.65.245.165:13389\nUsername: brtc\\king.floyd\nPassword: Lp98Uhj45L5!",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "159.65.245.165:13389"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
