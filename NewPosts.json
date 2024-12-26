@@ -4929,6 +4929,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9808,
+            "discovered": "2024-12-26",
+            "post_title": "💡No Daily Dose article, things return to normal for Free Post Friday.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -20298,6 +20311,19 @@
         },
         {
             "Message ID": 5622,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5624,
             "discovered": "2024-12-26",
             "post_title": "No Text Content",
             "Attack Type": "Unknown",
@@ -41074,6 +41100,32 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 26923,
+            "discovered": "2024-12-26",
+            "post_title": "Opsec set up for a fee \nAnybody?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26922,
+            "discovered": "2024-12-26",
+            "post_title": "hi",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "INDOHAXSEC TEAM": [
@@ -43688,6 +43740,21 @@
             ],
             "URLs": [
                 "https://www.suara.com/tekno/2024/12/25/144732/teguh-aprianto-klaim-ransomware-bank-bri-oleh-bashe-terkocak-sepanjang-masa"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3608,
+            "discovered": "2024-12-26",
+            "post_title": "CREDIT CARD DECEMBER 2024\nhttps://link.adsafelink.com/twVTd3",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://link.adsafelink.com/twVTd3"
             ],
             "Matched Keywords": [
                 "Other"
@@ -54237,6 +54304,21 @@
             ],
             "URLs": [
                 "ttps://www.ransomware.live/id/Q2FmcmFtbyBMaW1pdGVkLkBiaWFubGlhbg=="
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8453,
+            "discovered": "2024-12-26",
+            "post_title": "🏴‍☠️ Hunters has just published a new victim: Family Help & Wellness\n-----------------\nhttps://www.ransomware.live/id/RmFtaWx5IEhlbHAgJiBXZWxsbmVzc0BodW50ZXJz",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.ransomware.live/id/RmFtaWx5IEhlbHAgJiBXZWxsbmVzc0BodW50ZXJz"
             ],
             "Matched Keywords": [
                 "Other"
