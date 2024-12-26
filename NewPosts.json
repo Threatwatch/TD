@@ -4660,6 +4660,80 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9791,
+            "discovered": "2024-12-26",
+            "post_title": "🚨🇺🇸A Threat Actor Claims to be Selling RDWeb Access to an Unidentified Oil and Gas Exploration and Services Company in the USA\n\nhttps://darkwebinformer.com/a-threat-actor-claims-to-be-selling-rdweb-access-to-an-unidentified-oil-and-gas-exploration-and-services-company-in-the-usa/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-claims-to-be-selling-rdweb-access-to-an-unidentified-oil-and-gas-exploration-and-services-company-in-the-usa/"
+            ],
+            "Matched Keywords": [
+                "gas",
+                "oil"
+            ]
+        },
+        {
+            "Message ID": 9790,
+            "discovered": "2024-12-26",
+            "post_title": "Feed is off",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9789,
+            "discovered": "2024-12-26",
+            "post_title": "🚨🇪🇬A Threat Actor Allegedly Has Leaked the Data of Cairo Governorate Educational Portal\n\nhttps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-the-data-of-cairo-governorate-educational-portal/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-allegedly-has-leaked-the-data-of-cairo-governorate-educational-portal/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9788,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9787,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 15:14:18\n🚨 Title: Alleged data sale of TUANTUAN\n🛡️ Victim Country: China\n🏭 Victim Industry: Retail Industry\n🏢 Victim Organization: tuantuan\n🌐 Victim Site: tuantuaneshop.com\n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: 0x0xba$e\n🌍 Network: telegram\n🔗 Claim: https://t.me/c/2200618021/2047\n📝 Description: Group claims to have leaked data from TUANTUAN. which includes order details, shipping addresses, phone numbers, and personal identifiers, etc.\nFormat: CSV",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "neshop.com\n📜 Cate",
+                "e/c/2200618021/2047\n📝 Descript"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -37336,6 +37410,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100013,
+            "discovered": "2024-12-26",
+            "post_title": "Title: Windows 11 installation media bug causes security update failures\n\nDate: December 26, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/windows-11-installation-media-bug-causes-security-update-failures/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/windows-11-installation-media-bug-causes-security-update-failures/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100012,
+            "discovered": "2024-12-26",
+            "post_title": "Title: Brazilian Hacker Charged for Extorting $3.2M in Bitcoin After Breaching 300,000 Accounts\n\nDate: Dec 26, 2024\n\nSource: https://thehackernews.com/2024/12/brazilian-hacker-charged-for-extorting.html\n\n#News #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/12/brazilian-hacker-charged-for-extorting.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -42746,6 +42850,23 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 3606,
+            "discovered": "2024-12-26",
+            "post_title": "4.10K THOUSAND LEAK ACCESS NESCAFE CORPORATE SITE\n\nDARKFORUMS LINK:\nhttps://darkforums.st/Thread-Source-Code-4-10K-THOUSAND-LEAK-ACCESS-NESTLE-CORPORATE-SITE\n\nWE INDOHAXSEC TEAM BOYCOTT PRODUCTS RELATING TO ISRAEL AND US!\n\nTHIS DATA IS IN THE FORM OF: USER ACCOUNT, EMPLOYEE ACCOUNT, EMAIL, USERNAME, PASSWORD, ETC.\n\n\n•DONWLOAD LEAK ACCESS:\nhttps://gofile.io/d/Kttz3U\n\n\n\n#INDOHAXSEC",
+            "Attack Type": "Hacking",
+            "Location": [
+                "ISRAEL",
+                "US"
+            ],
+            "URLs": [
+                "https://darkforums.st/Thread-Source-Code-4-10K-THOUSAND-LEAK-ACCESS-NESTLE-CORPORATE-SITE",
+                "https://gofile.io/d/Kttz3U"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomlook - Ransomware Alerts": [
@@ -46166,6 +46287,36 @@
             ],
             "URLs": [
                 "https://www.ransomlook.io//group/interlock"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8566,
+            "discovered": "2024-12-26",
+            "post_title": "Charlie’s Tax Service By akira\n\nhttps://www.ransomlook.io//group/akira",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.ransomlook.io//group/akira"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8565,
+            "discovered": "2024-12-26",
+            "post_title": "Pinno Construction By akira\n\nhttps://www.ransomlook.io//group/akira",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.ransomlook.io//group/akira"
             ],
             "Matched Keywords": [
                 "Other"
@@ -49681,6 +49832,36 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/akira-ransomware-victim-rio-negro/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80159,
+            "discovered": "2024-12-26",
+            "post_title": "CVE Alert: CVE-2024-12413 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12413/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12413/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80158,
+            "discovered": "2024-12-26",
+            "post_title": "CVE Alert: CVE-2024-12032 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12032/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12032/"
             ],
             "Matched Keywords": [
                 "Other"
