@@ -4141,6 +4141,65 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9756,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9755,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 11:50:42\n🚨 Title: Alleged access sale to  an unidentified US Architecture and Design Firm\n🛡️ Victim Country: USA\n🏭 Victim Industry: Architecture & Planning\n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Initial Access\n🕵️‍♂️ Threat Actor: kyla\n🌍 Network: openweb\n🔗 Claim: https://xss.is/threads/129702/\n📝 Description: The threat actor claims to be selling access to an unidentified Architecture, Engineering, and Design firm in the USA.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                ".is/threads/129702/\n📝 Descript"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9754,
+            "discovered": "2024-12-26",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9753,
+            "discovered": "2024-12-26",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-26 11:38:36\n🚨 Title: Alleged sale of LocalAdmin access to an unidentified US Company\n🛡️ Victim Country: USA\n🏭 Victim Industry: Transportation & Logistics\n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Initial Access\n🕵️‍♂️ Threat Actor: Devil.God\n🌍 Network: openweb\n🔗 Claim: https://forum.exploit.in/topic/251907/\n📝 Description: The threat actor is offering to sell LocalAdmin access to an unidentified US company in the Transportation industry.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "US",
+                "US"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "um.exploit.in/topic/251907/\n📝 Descript"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -36642,6 +36701,21 @@
                 "N/A"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100005,
+            "discovered": "2024-12-26",
+            "post_title": "Title: Must-Read Cyble Research Reports of 2024: Trends and Key Takeaways\n\nDate: December 26, 2024\n\nSource: https://cyble.com/blog/must-read-cyble-research-reports-of-2024-trends-and-key-takeaways/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyble.com/blog/must-read-cyble-research-reports-of-2024-trends-and-key-takeaways/"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
