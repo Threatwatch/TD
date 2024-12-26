@@ -4875,6 +4875,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9804,
+            "discovered": "2024-12-26",
+            "post_title": "Would be kind of funny if Joker's Stash came back. 😶\n\nhttps://www.secretservice.gov/investigations/mostwanted/shakhmametov",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.secretservice.gov/investigations/mostwanted/shakhmametov"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -20207,6 +20222,19 @@
             "Message ID": 5620,
             "discovered": "2024-12-26",
             "post_title": "Sometime in 2020 a guy named \"Shikata\" recommended we make the vx-underground slogan be: \"spread the infection.\"\n\nIt was such a god awful, abomination of a slogan, I never forgot about it. It's been almost 5 years.\n\n- smelly",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5621,
+            "discovered": "2024-12-26",
+            "post_title": "This sweater is super cool.\n\nIf we were younger, more attractive, had a sense of fashion, and capable of dressing ourselves — we'd purchase this.",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -38099,6 +38127,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100031,
+            "discovered": "2024-12-26",
+            "post_title": "Title: Data disclosures shaped compliance landscape in 2024\n\nDate: December 26, 2024\n\nSource: https://www.scworld.com/news/data-disclosures-shape-compliance-landscape-in-2024\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/data-disclosures-shape-compliance-landscape-in-2024"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -55049,6 +55092,21 @@
             ],
             "URLs": [
                 "159.65.245.165:13389"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 69,
+            "discovered": "2024-12-26",
+            "post_title": "https://t.me/Hunt3rsLeak/9",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/Hunt3rsLeak/9"
             ],
             "Matched Keywords": [
                 "Other"
