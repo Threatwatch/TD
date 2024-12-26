@@ -24623,6 +24623,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1279,
+            "discovered": "2024-12-26",
+            "post_title": "يمنييون عديدون بارعون في مجال الأختراق السيبراني، لكن لا يمكنني تقديم ترتيب أو تحديد \"أفضل\" هاكر يمني بسبب:\n\n1. عدم وجود قوائم رسمية.\n2. سرية أنشطة الهكر.\n3. تغيرات مستمرة في المجال.\n\nلكن يمكنني تقديم بعض الأسماء التي عُرفت في مجال الهكر:\n\n1. فريق R70: مجموعة يمنية مشهورة بأختراقاتها السيبرانية.\n2. ******* سوفت: اسم يرتبط بتطوير البرمجيات والهكر.\n3. محمد ******: يُعتبر من أبرز المخترقين اليمنيين.\n4. فريق Yemen Cyber Army (YCA): مجموعة هكر يمنية تستهدف المواقع الحكومية والشركات.\n\nمصادر:\n\n1. CyberScoop\n2. HackerMag\n3. تقارير الأمن السيبراني\n\nيرجى ملاحظة أن الهكر قد يكون غير قانوني ويمكن أن يسبب ضررًا كبيرًا.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Yemen"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "AHU Official": [
@@ -31914,6 +31927,51 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5175,
+            "discovered": "2024-12-26",
+            "post_title": "ID: 19823\n⚠ 2024-12-26 17:40:27\n🥷 akira\n🎯 E-Tank, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19823",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19823"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5174,
+            "discovered": "2024-12-26",
+            "post_title": "ID: 19825\n⚠ 2024-12-26 14:04:00\n🥷 interlock\n🎯 McCormick  AND  Priore, divUSA/div\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19825",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19825"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5173,
+            "discovered": "2024-12-26",
+            "post_title": "ID: 19824\n⚠ 2024-12-26 13:40:43\n🥷 akira\n🎯 McFarlane, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19824",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19824"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -37996,6 +38054,19 @@
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-5498",
                 "https://issues.chromium.org/issues/339588211"
             ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100030,
+            "discovered": "2024-12-26",
+            "post_title": "Victim: Family Help & Wellness\n\nDetection Date: Thu Dec 26 22:46:43 2024\n\nThreat Actor: hunters\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
             "Matched Keywords": [
                 "Other"
             ]
@@ -46937,6 +47008,21 @@
             "URLs": [
                 "OberGatlinburg.com",
                 "https://www.ransomlook.io//group/fog"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8570,
+            "discovered": "2024-12-26",
+            "post_title": "Family Help & Wellness By hunters\n\nhttps://www.ransomlook.io//group/hunters\n\n Ransom post image 🖼️",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.ransomlook.io//group/hunters"
             ],
             "Matched Keywords": [
                 "Other"
