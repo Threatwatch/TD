@@ -5451,6 +5451,92 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9853,
+            "discovered": "2024-12-27",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9851,
+            "discovered": "2024-12-27",
+            "post_title": "https://krebsonsecurity.com/wp-content/uploads/2024/06/38-111-228-x-1.csv",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://krebsonsecurity.com/wp-content/uploads/2024/06/38-111-228-x-1.csv"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9850,
+            "discovered": "2024-12-27",
+            "post_title": "https://krebsonsecurity.com/wp-content/uploads/2024/09/148-251-54-196-pdns.csv",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://krebsonsecurity.com/wp-content/uploads/2024/09/148-251-54-196-pdns.csv"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9849,
+            "discovered": "2024-12-27",
+            "post_title": "https://krebsonsecurity.com/wp-content/uploads/2024/12/fintrac-msbs.csv",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://krebsonsecurity.com/wp-content/uploads/2024/12/fintrac-msbs.csv"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9848,
+            "discovered": "2024-12-27",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9847,
+            "discovered": "2024-12-27",
+            "post_title": "💡Favihunter: Discover and Track Internet Assets Using Favicon Hashes via Search Engines #OSINT\n\nhttps://darkwebinformer.com/favihunter-discover-and-track-internet-assets-using-favicon-hashes-via-search-engines/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/favihunter-discover-and-track-internet-assets-using-favicon-hashes-via-search-engines/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -21100,6 +21186,19 @@
             "Location": [
                 "north korea",
                 "best korea"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5630,
+            "discovered": "2024-12-27",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": [],
             "Matched Keywords": [
@@ -40015,6 +40114,21 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/white-house-links-ninth-telecom-breach-to-chinese-hackers/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100081,
+            "discovered": "2024-12-27",
+            "post_title": "Title: Sinisterly - $2.5/K ✨ DISCORD MEMBERS & SERVICES ⚜️ QUALITY AND CHEAP ⚜️ FULLY AUTOMATIC\n\nDetection Date: Sat Dec 28 00:52:12 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-2-5-K-%E2%9C%A8-DISCORD-MEMBERS-SERVICES-%E2%9A%9C%EF%B8%8F-QUALITY-AND-CHEAP-%E2%9A%9C%EF%B8%8F-FULLY-AUTOMATIC\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-2-5-K-%E2%9C%A8-DISCORD-MEMBERS-SERVICES-%E2%9A%9C%EF%B8%8F-QUALITY-AND-CHEAP-%E2%9A%9C%EF%B8%8F-FULLY-AUTOMATIC"
             ],
             "Matched Keywords": [
                 "Other"
