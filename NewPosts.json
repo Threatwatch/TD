@@ -43953,6 +43953,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 3610,
+            "discovered": "2024-12-27",
+            "post_title": "PHPMYADMIN ACCESS FROM THE COMPANY \"SOLACE INFOTECH PVT. LTD.\" INDIA\n\nINFO:\nHost: https://solaceinfotech.co.in\nCountry: INDIA\nCompany: SOLACE INFOTECH PVT. LTD.\nPHPMYADNMIN VERSION: 5.2.1\n\nWE SELL THIS ACCESS AT A VERY CHEAP PRICE OF $5 \nPAYMENT USING USDT/CRYPTO\n\nFOR PURCHASE CONTACT:\n@INDOHAXSEC_SERVICE \n\n\n\n\n#INDOHAXSEC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://solaceinfotech.co.in"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomlook - Ransomware Alerts": [
