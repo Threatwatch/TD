@@ -12443,6 +12443,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1588,
+            "discovered": "2024-12-27",
+            "post_title": "🚨Cyberattack Update ‼️\n\n🇨🇱Chile - FALP (Fundación Arturo López Pérez)\n\nINC Ransom hacking group has claimed responsibility for the attack on FALP (Fundación Arturo López Pérez).\n\nAs previously reported by security researcher Germán Fernández 16 days ago, FALP was dealing with a ransomware attack that disrupted its website, client portal (Mi FALP), and appointment reservation services. \n\nGermán Fernández had also mentioned the possibility that the attack was carried out by the INC Ransom group.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -38903,6 +38916,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100052,
+            "discovered": "2024-12-27",
+            "post_title": "Victim: falp.org\n\nDetection Date: Fri Dec 27 16:44:25 2024\n\nThreat Actor: inc ransom\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "falp.org"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100051,
+            "discovered": "2024-12-27",
+            "post_title": "Title: 2024’s Data Breaches: Breaches Handled Badly\n\nDate: December 27, 2024\n\nSource: https://databreaches.net/2024/12/27/2024s-data-breaches-breaches-handled-badly/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://databreaches.net/2024/12/27/2024s-data-breaches-breaches-handled-badly/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -48143,6 +48186,37 @@
             "URLs": [
                 "diazfoodsolutions.es",
                 "https://www.ransomlook.io//group/ransomhub"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8578,
+            "discovered": "2024-12-27",
+            "post_title": "falp.org By inc ransom\n\nhttps://www.ransomlook.io//group/inc%20ransom\n\n Ransom post image 🖼️",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "falp.org",
+                "https://www.ransomlook.io//group/inc%20ransom"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8577,
+            "discovered": "2024-12-27",
+            "post_title": "VO Baker By akira\n\nhttps://www.ransomlook.io//group/akira",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.ransomlook.io//group/akira"
             ],
             "Matched Keywords": [
                 "Other"
