@@ -7043,6 +7043,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 791,
+            "discovered": "2024-12-27",
+            "post_title": "https://www.slideshare.net/slideshow/hall-of-hacks-q3-report-2024-july-august-september/274411681",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.slideshare.net/slideshow/hall-of-hacks-q3-report-2024-july-august-september/274411681"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -12368,6 +12383,19 @@
             "Message ID": 1584,
             "discovered": "2024-12-26",
             "post_title": "🚨Cyberattack Alert ‼️\n\n🇦🇷Argentina - Diario Río Negro\n\nAkira ransomware group claims to have breached Diario Río Negro. \n\nAllegedly, contact numbers, e-mail addresses of employees and customers, internal financial documents, unique tax identification codes, and other data were exfiltrated.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1585,
+            "discovered": "2024-12-27",
+            "post_title": "🚨Cyberattack Alert ‼️\n\n🇪🇸Spain - Díaz Food Solutions\n\nRansomHub ransomware group claims to have breached Díaz Food Solutions. \n\nAllegedly, 30 GB of data were exfiltrated. \nRansom deadline: 04th Jan 25.",
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
@@ -28935,6 +28963,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4106,
+            "discovered": "2024-12-27",
+            "post_title": "Group: ransomhub\nApprox. Time: 10:41 27/12/24\nTitle: https://t.co/e9I2mDkytN",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/e9I2mDkytN"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -38725,6 +38768,41 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100047,
+            "discovered": "2024-12-27",
+            "post_title": "Title: Russia, Ukraine, China, and More: The Nations at the Center of the Cybercrime Epidemic\n\nDate: December 27, 2024\n\nSource: https://cyble.com/blog/top-countries-facing-cybercrime-threats/\n\n#News #Russia #Ukraine #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Russia",
+                "Ukraine",
+                "China",
+                "Russia",
+                "Ukraine",
+                "China"
+            ],
+            "URLs": [
+                "https://cyble.com/blog/top-countries-facing-cybercrime-threats/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100046,
+            "discovered": "2024-12-27",
+            "post_title": "Victim: diazfoodsolutions.es\n\nDetection Date: Fri Dec 27 13:45:52 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "diazfoodsolutions.es"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -47953,6 +48031,22 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 8576,
+            "discovered": "2024-12-27",
+            "post_title": "diazfoodsolutions.es By ransomhub\n\nhttps://www.ransomlook.io//group/ransomhub\n\n Ransom post image 🖼️",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "diazfoodsolutions.es",
+                "https://www.ransomlook.io//group/ransomhub"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RedPacket Security": [
@@ -52205,6 +52299,156 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 80216,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-12964 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12964/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12964/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80215,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-12967 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12967/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12967/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80214,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-56510 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56510/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56510/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80213,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-12965 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12965/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12965/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80212,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-12966 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12966/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12966/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80211,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-12968 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12968/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12968/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80210,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-53850 - https://www.redpacketsecurity.com/cve_alert_cve-2024-53850/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-53850/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80209,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-45600 - https://www.redpacketsecurity.com/cve_alert_cve-2024-45600/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-45600/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80208,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-12969 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12969/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12969/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80207,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-45805 - https://www.redpacketsecurity.com/cve_alert_cve-2024-45805/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-45805/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomware Live - Ransomware Alerts": [
@@ -55600,6 +55844,21 @@
             ],
             "URLs": [
                 "ttps://www.ransomware.live/id/UHJpbWFyeSBIZWFsdGggU2VydmljZXMgQ2VudGVyQGluY3JhbnNvbQ=="
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8455,
+            "discovered": "2024-12-27",
+            "post_title": "🏴‍☠️ Incransom has just published a new victim: Inner City Family Health Team (ICFHT.local)\n-----------------\nhttps://www.ransomware.live/id/SW5uZXIgQ2l0eSBGYW1pbHkgSGVhbHRoIFRlYW0gKElDRkhULmxvY2FsKUBpbmNyYW5zb20=",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.ransomware.live/id/SW5uZXIgQ2l0eSBGYW1pbHkgSGVhbHRoIFRlYW0gKElDRkhULmxvY2FsKUBpbmNyYW5zb20="
             ],
             "Matched Keywords": [
                 "Other"
