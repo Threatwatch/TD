@@ -7015,6 +7015,34 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 790,
+            "discovered": "2024-12-27",
+            "post_title": "https://rotter.net/forum/scoops1/882570.shtml",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://rotter.net/forum/scoops1/882570.shtml"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 789,
+            "discovered": "2024-12-27",
+            "post_title": "Avast Email Hack Check Program\n\nProtect your personal information now! Check if your email has been compromised and take action before hackers do.\n\nHow it works:\n • Enter your email to instantly see if it’s been part of any data breaches.\n • Get tips to secure your account and avoid potential threats.\n\nStart your check here:\nwww.avast.com/hackcheck\n\nYour safety starts with awareness—don’t wait until it’s too late!\n\nFollow For More Updates 💡 :\n@RipperSec | @RipperSecIO | @RipperSecGroup | @PyRoxyForum",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -24866,6 +24894,43 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1281,
+            "discovered": "2024-12-27",
+            "post_title": "🙂",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1280,
+            "discovered": "2024-12-27",
+            "post_title": "Продолжаем атаки на сайты Италии😈\n\n❌Acqua Novara - услуги водоснабжения \ncheck-host.net/check-report/21c86b23ke32\n\n❌Acque Veronesi — компания по комплексному управлению водными ресурсами \ncheck-host.net/check-report/21c86b4dke33\n\n❌Приват - банкинг BANCA MPS \ncheck-host.net/check-report/21c86b83ke6e\n\n❌Кооперативная банковская группа Iccrea банк Relaxbanking \ncheck-host.net/check-report/21c86f65k819\n\n❌Авторизация на портале Iccrea банк Relaxbanking (мертв по пингу) \ncheck-host.net/check-report/21c86fc9kb3e\n\n❌Авторизация на портале Intesa Sanpaolo \ncheck-host.net/check-report/21c87532k2af\n\n❌Intesa Sanpaolo S.p.A. \ncheck-host.net/check-report/21c86fc1k7f5\n\n❌Intesa Sanpaolo S.p.A. \ncheck-host.net/check-report/21c8743ak3b9\n\n❌Intesa Sanpaolo S.p.A. \ncheck-host.net/check-report/21c87286kf1d\n\n#OpItaly\n\nПодпишись➡️NoName057(16)|DDoSia Project |Reserve|Eng version|ReserveDDoSia",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Италии",
+                "Кооперативная"
+            ],
+            "URLs": [
+                "heck-host.net/check-report/21c86b23ke32\n",
+                "heck-host.net/check-report/21c86b4dke33\n",
+                "heck-host.net/check-report/21c86b83ke6e\n",
+                "heck-host.net/check-report/21c86f65k819\n",
+                "heck-host.net/check-report/21c86fc9kb3e\n",
+                "heck-host.net/check-report/21c87532k2af\n",
+                "heck-host.net/check-report/21c86fc1k7f5\n",
+                "heck-host.net/check-report/21c8743ak3b9\n",
+                "heck-host.net/check-report/21c87286kf1d\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "AHU Official": [
@@ -38617,6 +38682,49 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100045,
+            "discovered": "2024-12-27",
+            "post_title": "Victim: [DISCLOSED] KuiperCompagnons\n\nDetection Date: Fri Dec 27 12:50:57 2024\n\nThreat Actor: ransomhouse\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100044,
+            "discovered": "2024-12-27",
+            "post_title": "Victim: [DISCLOSED] Lago Group Spa\n\nDetection Date: Fri Dec 27 12:50:39 2024\n\nThreat Actor: ransomhouse\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100043,
+            "discovered": "2024-12-27",
+            "post_title": "Title: China Accuses the U.S. of Hacking Back as Cyber Conflict Grows\n\nDate: December 27, 2024\n\nSource: https://cyble.com/blog/china-us-cyber-espionage/\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China",
+                "U.S.",
+                "China"
+            ],
+            "URLs": [
+                "https://cyble.com/blog/china-us-cyber-espionage/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -47811,6 +47919,36 @@
             ],
             "URLs": [
                 "https://www.ransomlook.io//group/inc%20ransom"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8575,
+            "discovered": "2024-12-27",
+            "post_title": "[DISCLOSED] Lago Group Spa By ransomhouse\n\nhttps://www.ransomlook.io//group/ransomhouse\n\n Ransom post image 🖼️",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.ransomlook.io//group/ransomhouse"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8574,
+            "discovered": "2024-12-27",
+            "post_title": "[DISCLOSED] KuiperCompagnons By ransomhouse\n\nhttps://www.ransomlook.io//group/ransomhouse\n\n Ransom post image 🖼️",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.ransomlook.io//group/ransomhouse"
             ],
             "Matched Keywords": [
                 "Other"
