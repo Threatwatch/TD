@@ -5328,6 +5328,32 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9839,
+            "discovered": "2024-12-27",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9838,
+            "discovered": "2024-12-27",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -14553,6 +14579,21 @@
             ],
             "URLs": [
                 "https://t.me/ruslan13324537_bot?start=_tgr_wuWngno2MGY1"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1984,
+            "discovered": "2024-12-27",
+            "post_title": "https://t.me/chatgpt_5_turbo_bot?start=_tgr_UZZTMTlhNjFl",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/chatgpt_5_turbo_bot?start=_tgr_UZZTMTlhNjFl"
             ],
             "Matched Keywords": [
                 "Other"
@@ -29461,6 +29502,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4108,
+            "discovered": "2024-12-27",
+            "post_title": "Group: lockbit3\nApprox. Time: 18:36 27/12/24\nTitle: vinati",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -39673,6 +39727,36 @@
             ],
             "URLs": [
                 "https://www.scworld.com/brief/major-nft-fraudsters-arrested-indicted"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100072,
+            "discovered": "2024-12-27",
+            "post_title": "Title: Prioritizing patching: A deep dive into frameworks and tools – Part 1: CVSS\n\nDate: December 27, 2024\n\nSource: https://news.sophos.com/en-us/2024/12/27/prioritizing-patching-a-deep-dive-into-frameworks-and-tools-part-1-cvss/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://news.sophos.com/en-us/2024/12/27/prioritizing-patching-a-deep-dive-into-frameworks-and-tools-part-1-cvss/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100071,
+            "discovered": "2024-12-27",
+            "post_title": "Title: North Korean Hackers Deploy OtterCookie Malware in Contagious Interview Campaign\n\nDate: Dec 27, 2024\n\nSource: https://thehackernews.com/2024/12/north-korean-hackers-deploy-ottercookie.html\n\n#News #Korea",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Korea"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/12/north-korean-hackers-deploy-ottercookie.html"
             ],
             "Matched Keywords": [
                 "Other"
