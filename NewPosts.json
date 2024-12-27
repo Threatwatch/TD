@@ -20373,6 +20373,32 @@
             "Matched Keywords": [
                 "Amazon"
             ]
+        },
+        {
+            "Message ID": 5628,
+            "discovered": "2024-12-27",
+            "post_title": "The targeted advanced attack they mention was phishing (someone somewhere said it). It wasn't like when APT29 hopped laterally across buildings via WiFi using a 0day exploit",
+            "Attack Type": "Phishing",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5627,
+            "discovered": "2024-12-27",
+            "post_title": "Cyberhaven, a thing we've never heard about before until about 2 minutes ago, that does something with cybersecurity and lists it's biggest customers on it's website, was compromised. It resulted in a web-browser-based supply chain attack.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "DARKFEED": [
@@ -43914,6 +43940,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 3609,
+            "discovered": "2024-12-27",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomlook - Ransomware Alerts": [
@@ -51677,6 +51716,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/infostealers-dominate-as-lumma-stealer-detections-soar-by-almost-400/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80206,
+            "discovered": "2024-12-27",
+            "post_title": "Guarding Against Shadows: Mastering Insider Threat Management - https://www.redpacketsecurity.com/guarding-against-shadows-mastering-insider-threat-management/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/guarding-against-shadows-mastering-insider-threat-management/"
             ],
             "Matched Keywords": [
                 "Other"
