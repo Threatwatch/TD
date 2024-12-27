@@ -29017,6 +29017,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4107,
+            "discovered": "2024-12-27",
+            "post_title": "Group: incransom\nApprox. Time: 12:38 27/12/24\nTitle: https://t.co/uUwuLOH51S",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/uUwuLOH51S"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -38869,6 +38884,21 @@
             ],
             "URLs": [
                 "https://isc.sans.edu/diary/rss/31548"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100050,
+            "discovered": "2024-12-27",
+            "post_title": "Title: Release Notes: New Search Operators in TI Lookup, MISP Integration, Multi-admin Support\n\nDate: December 27, 2024\n\nSource: https://any.run/cybersecurity-blog/release-notes-december-2024/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "TI Lookup"
+            ],
+            "URLs": [
+                "https://any.run/cybersecurity-blog/release-notes-december-2024/"
             ],
             "Matched Keywords": [
                 "Other"
@@ -55929,6 +55959,22 @@
             ],
             "URLs": [
                 "ttps://www.ransomware.live/id/SW5uZXIgQ2l0eSBGYW1pbHkgSGVhbHRoIFRlYW0gKElDRkhULmxvY2FsKUBpbmNyYW5zb20="
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8456,
+            "discovered": "2024-12-27",
+            "post_title": "🏴‍☠️ Ransomhub has just published a new victim: diazfoodsolutions.es\n-----------------\nhttps://www.ransomware.live/id/ZGlhemZvb2Rzb2x1dGlvbnMuZXNAcmFuc29taHVi",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "iazfoodsolutions.es\n",
+                "ttps://www.ransomware.live/id/ZGlhemZvb2Rzb2x1dGlvbnMuZXNAcmFuc29taHVi"
             ],
             "Matched Keywords": [
                 "Other"
