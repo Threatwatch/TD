@@ -5436,6 +5436,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9846,
+            "discovered": "2024-12-27",
+            "post_title": "🚨🇲🇦suicid Claims to Have Leaked the Data of Billy Stays\n\nhttps://darkwebinformer.com/suicid-claims-to-have-leaked-the-data-of-billy-stays/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/suicid-claims-to-have-leaked-the-data-of-billy-stays/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -12945,6 +12960,19 @@
             "Attack Type": "Hacking",
             "Location": [
                 "InfoCert"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1590,
+            "discovered": "2024-12-27",
+            "post_title": "🚨🇰🇷The X account of the Ministry of Environment of the Republic of Korea has been compromised by the threat actors IntelBroker & EnergyWeaponUser.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "the Republic of Korea"
             ],
             "URLs": [],
             "Matched Keywords": [
@@ -21058,6 +21086,20 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5629,
+            "discovered": "2024-12-27",
+            "post_title": "dudes steals a South Korean government Xitter profile and tweets \"north korea is best korea\". thats diabolical stuff",
+            "Attack Type": "Unknown",
+            "Location": [
+                "north korea",
+                "best korea"
             ],
             "URLs": [],
             "Matched Keywords": [
@@ -39919,6 +39961,64 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100080,
+            "discovered": "2024-12-27",
+            "post_title": "Victim: Sell Access to 60 Websites Worldwide importnat\n\nDetection Date: Fri Dec 27 23:46:10 2024\n\nThreat Actor: funksec\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100079,
+            "discovered": "2024-12-27",
+            "post_title": "Victim: shoppingcentropioneer.com\n\nDetection Date: Fri Dec 27 23:45:53 2024\n\nThreat Actor: funksec\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "shoppingcentropioneer.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100078,
+            "discovered": "2024-12-27",
+            "post_title": "Title: Palo Alto Networks patches DoS bug in PAN-OS software\n\nDate: December 27, 2024\n\nSource: https://www.scworld.com/news/palo-alto-networks-patches-dos-bug-in-pan-os-software\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/palo-alto-networks-patches-dos-bug-in-pan-os-software"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100077,
+            "discovered": "2024-12-27",
+            "post_title": "Title: White House links ninth telecom breach to Chinese hackers\n\nDate: December 27, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/white-house-links-ninth-telecom-breach-to-chinese-hackers/\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/white-house-links-ninth-telecom-breach-to-chinese-hackers/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -53833,6 +53933,156 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-a-potential-risk-in-the-aws-lambda-ecs-run-task-which-can-be-used-to-privilege-escalation-zolaer/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80240,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-12951 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12951/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12951/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80239,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-47154 - https://www.redpacketsecurity.com/cve_alert_cve-2024-47154/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-47154/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80238,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-47148 - https://www.redpacketsecurity.com/cve_alert_cve-2024-47148/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-47148/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80237,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-12952 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12952/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12952/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80236,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-47153 - https://www.redpacketsecurity.com/cve_alert_cve-2024-47153/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-47153/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80235,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-12954 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12954/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12954/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80234,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-12956 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12956/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12956/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80233,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-47150 - https://www.redpacketsecurity.com/cve_alert_cve-2024-47150/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-47150/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80232,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-47149 - https://www.redpacketsecurity.com/cve_alert_cve-2024-47149/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-47149/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80231,
+            "discovered": "2024-12-27",
+            "post_title": "CVE Alert: CVE-2024-12953 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12953/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12953/"
             ],
             "Matched Keywords": [
                 "Other"
