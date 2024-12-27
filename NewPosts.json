@@ -5354,6 +5354,88 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9845,
+            "discovered": "2024-12-27",
+            "post_title": "🚨🇨🇴LordVoldemort Claims to have Leaked the Data of VIP Pasajero\n\nhttps://darkwebinformer.com/lordvoldemort-claims-to-have-leaked-the-data-of-vip-pasajero/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/lordvoldemort-claims-to-have-leaked-the-data-of-vip-pasajero/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9844,
+            "discovered": "2024-12-27",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9843,
+            "discovered": "2024-12-27",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9842,
+            "discovered": "2024-12-27",
+            "post_title": "💡I'm still playing around with colors and things. This is a partial negotiation between a Victim and Trinity Ransomware.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9841,
+            "discovered": "2024-12-27",
+            "post_title": "Someone asked me why I don't quote repost this stuff and instead take a screenshot??? Literally because the post will eventually be deleted and this account is a goldmine for historical data.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9840,
+            "discovered": "2024-12-27",
+            "post_title": "https://x.com/DarkWebInformer/status/1872717458840404324",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1872717458840404324"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -33034,6 +33116,22 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5184,
+            "discovered": "2024-12-27",
+            "post_title": "ID: 19837\n⚠ 2024-12-27 13:46:42\n🥷 incransom\n🎯 falp.org, Chile\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19837",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Chile"
+            ],
+            "URLs": [
+                "lp.org, ",
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19837"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -39757,6 +39855,66 @@
             ],
             "URLs": [
                 "https://thehackernews.com/2024/12/north-korean-hackers-deploy-ottercookie.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100076,
+            "discovered": "2024-12-27",
+            "post_title": "Victim: nppvlxdthanhlong.com.vn\n\nDetection Date: Fri Dec 27 22:50:38 2024\n\nThreat Actor: funksec\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "nppvlxdthanhlong.com.vn"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100075,
+            "discovered": "2024-12-27",
+            "post_title": "Victim: asjp.cerist.dz\n\nDetection Date: Fri Dec 27 22:50:20 2024\n\nThreat Actor: funksec\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "asjp.cerist.dz"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100074,
+            "discovered": "2024-12-27",
+            "post_title": "Title: Massive VW Group Data Leak Exposed 800,000 EV Owners’ Movements, From Homes To Brothels\n\nDate: December 27, 2024\n\nSource: https://databreaches.net/2024/12/27/massive-vw-group-data-leak-exposed-800000-ev-owners-movements-from-homes-to-brothels/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://databreaches.net/2024/12/27/massive-vw-group-data-leak-exposed-800000-ev-owners-movements-from-homes-to-brothels/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100073,
+            "discovered": "2024-12-27",
+            "post_title": "Title: Disrupting cybercrime: InFocus with Fortinet's Derek Manky\n\nDate: December 27, 2024\n\nSource: https://www.scworld.com/resource/disrupting-cybercrime-infocus-with-fortinets-derek-manky\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/resource/disrupting-cybercrime-infocus-with-fortinets-derek-manky"
             ],
             "Matched Keywords": [
                 "Other"
@@ -49051,6 +49209,22 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 8580,
+            "discovered": "2024-12-27",
+            "post_title": "nppvlxdthanhlong.com.vn By funksec\n\nhttps://www.ransomlook.io//group/funksec\n\n Ransom post image 🖼️",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "nppvlxdthanhlong.com.vn",
+                "https://www.ransomlook.io//group/funksec"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RedPacket Security": [
@@ -53629,6 +53803,36 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-12960/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80230,
+            "discovered": "2024-12-27",
+            "post_title": "HackerOne Bug Bounty Disclosure: hackers-attack-curl-vulnerability-accessing-sensitive-information-scottarterbury - https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-hackers-attack-curl-vulnerability-accessing-sensitive-information-scottarterbury/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-hackers-attack-curl-vulnerability-accessing-sensitive-information-scottarterbury/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80229,
+            "discovered": "2024-12-27",
+            "post_title": "HackerOne Bug Bounty Disclosure: a-potential-risk-in-the-aws-lambda-ecs-run-task-which-can-be-used-to-privilege-escalation-zolaer - https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-a-potential-risk-in-the-aws-lambda-ecs-run-task-which-can-be-used-to-privilege-escalation-zolaer/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-a-potential-risk-in-the-aws-lambda-ecs-run-task-which-can-be-used-to-privilege-escalation-zolaer/"
             ],
             "Matched Keywords": [
                 "Other"
