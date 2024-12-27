@@ -38386,6 +38386,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100036,
+            "discovered": "2024-12-27",
+            "post_title": "Title: 2024 in Review: Helping InfoSec Professionals Achieve Their Goals\n\nDate: December 27, 2024\n\nSource: https://kostas-ts.medium.com/2024-in-review-helping-infosec-professionals-achieve-their-goals-6b8ab37c4d0b?source=rss-13421cb5a77c------2\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://kostas-ts.medium.com/2024-in-review-helping-infosec-professionals-achieve-their-goals-6b8ab37c4d0b?source=rss-13421cb5a77c------2"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -41303,6 +41318,47 @@
             ],
             "URLs": [
                 "https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26931,
+            "discovered": "2024-12-27",
+            "post_title": "⚡️CVE-2024-40896 (CVSS 9.1): Critical XXE Vulnerability Discovered in libxml2.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26930,
+            "discovered": "2024-12-27",
+            "post_title": "⚡️Apache Traffic Control users—an SQL injection flaw (CVE-2024-45387) has been found, enabling attackers to execute commands directly in your database.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26929,
+            "discovered": "2024-12-27",
+            "post_title": "⚡️The popular #RAT tool, NjRat 2.3D Professional Edition, has surfaced on a GitHub repository. \n\nRepo: https://github.com/SebDevAO/NjRat-2.3D-Rat\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/SebDevAO/NjRat-2.3D-Rat"
             ],
             "Matched Keywords": [
                 "Other"
