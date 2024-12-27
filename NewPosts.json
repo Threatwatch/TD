@@ -4942,6 +4942,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9809,
+            "discovered": "2024-12-27",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -20346,6 +20359,19 @@
             "URLs": [],
             "Matched Keywords": [
                 "Other"
+            ]
+        },
+        {
+            "Message ID": 5626,
+            "discovered": "2024-12-27",
+            "post_title": "Black Mass Volume III is coming soon. We aim to continue our malware book dominance on Amazon",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Amazon"
             ]
         }
     ],
@@ -41194,6 +41220,51 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 26928,
+            "discovered": "2024-12-27",
+            "post_title": "Web Attack Cheat Sheet\n\nhttps://github.com/riramar/Web-Attack-Cheat-Sheet\n\n#cybersecurity #infosec #hackersforum",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/riramar/Web-Attack-Cheat-Sheet"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26927,
+            "discovered": "2024-12-27",
+            "post_title": "RedTeam-Tools\n\nTools and Techniques for Red Team / Penetration Testing\n\nhttps://github.com/A-poc/RedTeam-Tools\n\n#cybersecurity #redteam #pentest #hackersforum",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/A-poc/RedTeam-Tools"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26926,
+            "discovered": "2024-12-27",
+            "post_title": "Awesome Cybersecurity Handbooks\n\nhttps://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks\n\n#cybersecurity #infosec #pentest #redteam #hackersforum",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "INDOHAXSEC TEAM": [
@@ -51575,6 +51646,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-77-92-145-190-port-8080/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80205,
+            "discovered": "2024-12-27",
+            "post_title": "Lumma Stealer Detections Surge 400%: Infostealers on the Rise - https://www.redpacketsecurity.com/infostealers-dominate-as-lumma-stealer-detections-soar-by-almost-400/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/infostealers-dominate-as-lumma-stealer-detections-soar-by-almost-400/"
             ],
             "Matched Keywords": [
                 "Other"
