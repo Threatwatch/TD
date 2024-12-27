@@ -5537,6 +5537,66 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9857,
+            "discovered": "2024-12-27",
+            "post_title": "💡Daily Dose of Dark Web Informer - December 27th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-december-27th-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-december-27th-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9856,
+            "discovered": "2024-12-27",
+            "post_title": "🚨🇹🇭Sorb is Allegedly Selling the Data of Department of Land Transport in Thailand\n\nhttps://darkwebinformer.com/sorb-is-allegedly-selling-the-data-of-department-of-land-transport-in-thailand/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Thailand"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/sorb-is-allegedly-selling-the-data-of-department-of-land-transport-in-thailand/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9855,
+            "discovered": "2024-12-27",
+            "post_title": "🚨🇮🇹A Threat Actor is Allegedly Selling the Data of InfoCert\n\n🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-27 22:48:14\n🚨 Title: Alleged data sale of InfoCert\n🛡 Victim Country: Italy\n🏭 Victim Industry: Information Technology (IT) Services\n🏢 Victim Organization: infocert\n🌐 Victim Site: infocert[.digital\n📜 Category: Data Breach\n🔗 Claim: Claim URLs are for paid subscribers only\n🕵️‍♂️ Threat Actor: PieWithNothing\n🌍 Network: openweb\n📝 Description: The threat actor claims to be selling a database allegedly belonging to InfoCert (infocert[.digital), containing 5.5 million records. The exposed information reportedly includes 1.1 million unique phone numbers and 2.5 million unique email addresses, extracted from various fields within the data.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Italy"
+            ],
+            "URLs": [
+                "WebInformer.com - C"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9854,
+            "discovered": "2024-12-27",
+            "post_title": "🚨🇻🇳888 Allegedly Leaked the Data of FoodMap\n\nhttps://darkwebinformer.com/888-allegedly-leaked-the-data-of-foodmap/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/888-allegedly-leaked-the-data-of-foodmap/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
