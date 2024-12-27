@@ -7058,6 +7058,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 792,
+            "discovered": "2024-12-27",
+            "post_title": "🔴 #رسمی | ارتش سایبری روسیه ابزار (MegaMedusa) را متوقف کرد؛\nبه مدت چند هفته یا یک ماه آینده\n\n❗️علت (به نقل از توسعه دهندگان) :\nمزدوران موساد با استفاده از ابزار ما به ایران حمله می‌کردند.\n\n\n🔘To see the news in English, go to the comments\n\nThe exclusive source of hacker news\n🚨 Official news channel of #ICA 🛰\n〔 @ICA_313 〕",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -12397,6 +12410,32 @@
             "discovered": "2024-12-27",
             "post_title": "🚨Cyberattack Alert ‼️\n\n🇪🇸Spain - Díaz Food Solutions\n\nRansomHub ransomware group claims to have breached Díaz Food Solutions. \n\nAllegedly, 30 GB of data were exfiltrated. \nRansom deadline: 04th Jan 25.",
             "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1587,
+            "discovered": "2024-12-27",
+            "post_title": "🚨Data Leak - Volkswagen\n\nVolkswagen has faced a major data leak involving sensitive information from 800,000 electric vehicles, including location data and owner contact details. \n\nA misconfiguration in the systems of Cariad, VW's software subsidiary, left data stored on Amazon Cloud publicly accessible for months. The exposed information included precise GPS data, enabling detailed movement profiles and linking vehicles to their owners. High-profile individuals such as politicians, business leaders, and law enforcement were among those affected.\n\nMore details:\nhttps://www.spiegel.de/netzwelt/web/volkswagen-konzern-datenleck-wir-wissen-wo-dein-auto-steht-a-e12d33d0-97bc-493c-96d1-aa5892861027",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Cariad"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Amazon"
+            ]
+        },
+        {
+            "Message ID": 1586,
+            "discovered": "2024-12-27",
+            "post_title": "🚨Cyberattack Alert - Cyberhaven\n\nOn December 24, 2024, Cyberhaven suffered a cyberattack in which an attacker compromised an employee's account to publish a malicious version of the Cyberhaven Chrome extension (version 24.10.4) on the Chrome Web Store. \n\nThe breach, detected on December 25, allowed the attacker to exfiltrate sensitive user data, including authenticated sessions and cookies, to a domain they controlled (cyberhavennext[.]pro).",
+            "Attack Type": "Data Breach",
             "Location": [
                 "N/A"
             ],
@@ -38799,6 +38838,37 @@
             ],
             "URLs": [
                 "diazfoodsolutions.es"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100049,
+            "discovered": "2024-12-27",
+            "post_title": "Title: Cloud Atlas Deploys VBCloud Malware: Over 80% of Targets Found in Russia\n\nDate: Dec 27, 2024\n\nSource: https://thehackernews.com/2024/12/cloud-atlas-deploys-vbcloud-malware.html\n\n#News #Russia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Russia",
+                "Russia"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/12/cloud-atlas-deploys-vbcloud-malware.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100048,
+            "discovered": "2024-12-27",
+            "post_title": "Title: Phishing for Banking Information, (Fri, Dec 27th)\n\nDate: December 27, 2024\n\nSource: https://isc.sans.edu/diary/rss/31548\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/diary/rss/31548"
             ],
             "Matched Keywords": [
                 "Other"
