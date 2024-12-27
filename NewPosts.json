@@ -7653,6 +7653,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 794,
+            "discovered": "2024-12-27",
+            "post_title": "https://x.com/FalconFeedsio/status/1872528439301025819?t=q84HQ9LaZ7ftAow1pfLJUA&s=35",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/FalconFeedsio/status/1872528439301025819?t=q84HQ9LaZ7ftAow1pfLJUA&s=35"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
