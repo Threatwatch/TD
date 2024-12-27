@@ -38344,6 +38344,22 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100035,
+            "discovered": "2024-12-27",
+            "post_title": "Target: https://comunacarrizales.gob.ar/back.txt\n\nNotified: Team_CC\n\nDate: Fri, 27 Dec 2024 03:16:34 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312132\n\n#Defacements #Argentina",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Argentina"
+            ],
+            "URLs": [
+                "https://comunacarrizales.gob.ar/back.txt",
+                "http://www.zone-h.org/mirror/id/41312132"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
