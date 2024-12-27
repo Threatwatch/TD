@@ -5094,6 +5094,89 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9826,
+            "discovered": "2024-12-27",
+            "post_title": "🚨🇷🇺X0Frankenstein Claims to have Leaked the Data of Ekonika\n\nhttps://darkwebinformer.com/x0frankenstein-claims-to-have-leaked-the-data-of-ekonika/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/x0frankenstein-claims-to-have-leaked-the-data-of-ekonika/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9825,
+            "discovered": "2024-12-27",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9824,
+            "discovered": "2024-12-27",
+            "post_title": "🚨🇮🇹NoName Targeted Multiple Websites in Italy\n\n🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-27 08:46:06\n🚨 Title: NoName targets the website of RelaxBanking\n🛡 Victim Country: Italy\n🏭 Victim Industry: Banking & Mortgage\n🏢 Victim Organization: relaxbanking\n🌐 Victim Site: relaxbanking[.it\n📜 Category: DDoS Attack\n🔗 Claim: Claim URLs are for paid subscribers only\n🕵️‍♂️ Threat Actor: NoName057(16)\n🌍 Network: telegram\n📝 Description: Proof of downtime: http://check-host[.net/check-report/21c86fc9kb3e",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Italy",
+                "Italy"
+            ],
+            "URLs": [
+                "WebInformer.com - C"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9821,
+            "discovered": "2024-12-27",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9820,
+            "discovered": "2024-12-27",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9819,
+            "discovered": "2024-12-27",
+            "post_title": "🚨Z-BL4CX-H4T Targeted Multiple Websites",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -32700,6 +32783,22 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5183,
+            "discovered": "2024-12-27",
+            "post_title": "ID: 19836\n⚠ 2024-12-27 11:51:39\n🥷 ransomhub\n🎯 diazfoodsolutions.es, Spain\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19836",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Spain"
+            ],
+            "URLs": [
+                "azfoodsolutions.es, ",
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19836"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -39212,6 +39311,126 @@
             ],
             "URLs": [
                 "https://cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av24-731"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100066,
+            "discovered": "2024-12-27",
+            "post_title": "Title: Hackers exploit DoS flaw to disable Palo Alto Networks firewalls\n\nDate: December 27, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/hackers-exploit-dos-flaw-to-disable-palo-alto-networks-firewalls/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Palo Alto Networks"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/hackers-exploit-dos-flaw-to-disable-palo-alto-networks-firewalls/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100065,
+            "discovered": "2024-12-27",
+            "post_title": "Title: Know Your Customer-evading dark web operation uncovered\n\nDate: December 27, 2024\n\nSource: https://www.scworld.com/brief/know-your-customer-evading-dark-web-operation-uncovered\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/know-your-customer-evading-dark-web-operation-uncovered"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100064,
+            "discovered": "2024-12-27",
+            "post_title": "Title: Impact of Japan Airlines cyberattack downplayed amid recovery\n\nDate: December 27, 2024\n\nSource: https://www.scworld.com/brief/impact-of-japan-airlines-cyberattack-downplayed-amid-recovery\n\n#News #Japan",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Japan"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/impact-of-japan-airlines-cyberattack-downplayed-amid-recovery"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100063,
+            "discovered": "2024-12-27",
+            "post_title": "Title: Phishing attack compromises General Dynamics employees\n\nDate: December 27, 2024\n\nSource: https://www.scworld.com/brief/phishing-attack-compromises-general-dynamics-employees\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/phishing-attack-compromises-general-dynamics-employees"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100062,
+            "discovered": "2024-12-27",
+            "post_title": "Title: Old D-Link flaws exploited in new botnet attacks\n\nDate: December 27, 2024\n\nSource: https://www.scworld.com/brief/old-d-link-flaws-exploited-in-new-botnet-attacks\n\n#News",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/old-d-link-flaws-exploited-in-new-botnet-attacks"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100061,
+            "discovered": "2024-12-27",
+            "post_title": "Title: Ukrainian state registers hit by suspected Russian hackers\n\nDate: December 27, 2024\n\nSource: https://www.scworld.com/brief/ukrainian-state-registers-hit-by-suspected-russian-hackers\n\n#News #Ukraine #Russia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Russia"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/ukrainian-state-registers-hit-by-suspected-russian-hackers"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100060,
+            "discovered": "2024-12-27",
+            "post_title": "Title: Novel OtterCookie malware added to Contagious Interview attack arsenal\n\nDate: December 27, 2024\n\nSource: https://www.scworld.com/brief/novel-ottercookie-malware-added-to-contagious-interview-attack-arsenal\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/novel-ottercookie-malware-added-to-contagious-interview-attack-arsenal"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100059,
+            "discovered": "2024-12-27",
+            "post_title": "Title: UN cybercrime treaty adopted amid pushback\n\nDate: December 27, 2024\n\nSource: https://www.scworld.com/brief/un-cybercrime-treaty-adopted-amid-pushback\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/un-cybercrime-treaty-adopted-amid-pushback"
             ],
             "Matched Keywords": [
                 "Other"
