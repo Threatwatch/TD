@@ -4955,6 +4955,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9810,
+            "discovered": "2024-12-27",
+            "post_title": "💡 Free Post Friday starts in about one hour or so.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -12451,6 +12464,19 @@
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1589,
+            "discovered": "2024-12-27",
+            "post_title": "🚨Data Breach Alert ‼️\n\n🇮🇹Italy - InfoCert\n\nA potential data breach at InfoCert has been detected on a hacking forum: 5.5 million customer records reportedly affected.\n\nAccording to the post, the threat actor known as \"PieWithNothing\" claims to have exfiltrated 5.5 million customer records updated to 2024. These data, the cybercriminal states, include \"1.1 million phones (from all phone fields) and 2.5 million emails (from all email fields).\"\n\nThe confirmation or denial of these claims has yet to be verified.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "InfoCert"
             ],
             "URLs": [],
             "Matched Keywords": [
@@ -38946,6 +38972,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100053,
+            "discovered": "2024-12-27",
+            "post_title": "Title: 2024 in AI: It’s changed the world, but it’s not all good\n\nDate: December 27, 2024\n\nSource: https://www.malwarebytes.com/blog/news/2024/12/2024-in-ai-its-changed-the-world-but-its-not-all-good\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "AI"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/news/2024/12/2024-in-ai-its-changed-the-world-but-its-not-all-good"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -52623,6 +52664,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 80218,
+            "discovered": "2024-12-27",
+            "post_title": "[RANSOMHUB] - Ransomware Victim: diazfoodsolutions[.]es - https://www.redpacketsecurity.com/ransomhub-ransomware-victim-diazfoodsolutions-es/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/ransomhub-ransomware-victim-diazfoodsolutions-es/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80217,
+            "discovered": "2024-12-27",
+            "post_title": "[AKIRA] - Ransomware Victim: VO Baker - https://www.redpacketsecurity.com/akira-ransomware-victim-vo-baker/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/akira-ransomware-victim-vo-baker/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomware Live - Ransomware Alerts": [
@@ -56049,6 +56120,37 @@
             "URLs": [
                 "iazfoodsolutions.es\n",
                 "ttps://www.ransomware.live/id/ZGlhemZvb2Rzb2x1dGlvbnMuZXNAcmFuc29taHVi"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8458,
+            "discovered": "2024-12-27",
+            "post_title": "🏴‍☠️ Incransom has just published a new victim: falp.org\n-----------------\nhttps://www.ransomware.live/id/ZmFscC5vcmdAaW5jcmFuc29t",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "alp.org\n",
+                "ttps://www.ransomware.live/id/ZmFscC5vcmdAaW5jcmFuc29t"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 8457,
+            "discovered": "2024-12-27",
+            "post_title": "🏴‍☠️ Akira has just published a new victim: VO Baker\n-----------------\nhttps://www.ransomware.live/id/Vk8gQmFrZXJAYWtpcmE=",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://www.ransomware.live/id/Vk8gQmFrZXJAYWtpcmE="
             ],
             "Matched Keywords": [
                 "Other"
