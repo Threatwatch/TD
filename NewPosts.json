@@ -5949,6 +5949,34 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9885,
+            "discovered": "2024-12-28",
+            "post_title": "If you love data you can save the files from Internet Archive: https://archive.org/download/dnmarchives",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://archive.org/download/dnmarchives"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9884,
+            "discovered": "2024-12-28",
+            "post_title": "💡Many don't know about Gwern, but it's a treasure!\n\nLink: https://gwern[.]net/dnm-archive\n\nThe author writes:\n\nFrom between 2013–2015, I scraped/mirrored on a weekly or daily basis all existing English-language DNMs as part of my research into their usage, lifetimes/characteristics, & legal riskiness; these scrapes covered vendor pages, feedback, images, etc. In addition, I made or obtained copies of as many other datasets & documents related to the DNMs as I could.\n\nThis uniquely comprehensive collection is now publicly released as a 50GB (~1.6TB uncompressed) collection covering 89 DNMs & 37+ related forums, representing <4,438 mirrors, and is available for any research.\n\nThis page documents the download, contents, interpretation, and technical methods behind the scrapes.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -41344,6 +41372,34 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100103,
+            "discovered": "2024-12-28",
+            "post_title": "Title: Philippine Commision on Audit notes dearth of data privacy officers despite law\n\nDate: December 28, 2024\n\nSource: https://databreaches.net/2024/12/28/philippine-commision-on-audit-notes-dearth-of-data-privacy-officers-despite-law/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://databreaches.net/2024/12/28/philippine-commision-on-audit-notes-dearth-of-data-privacy-officers-despite-law/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100102,
+            "discovered": "2024-12-28",
+            "post_title": "Victim: Update onion address\n\nDetection Date: Sun Dec 29 00:55:43 2024\n\nThreat Actor: funksec\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -56856,6 +56912,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/darkvault-ransomware-victim-timely-mn/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80327,
+            "discovered": "2024-12-28",
+            "post_title": "[FUNKSEC] - Ransomware Victim: Update onion address - https://www.redpacketsecurity.com/funksec-ransomware-victim-update-onion-address/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-update-onion-address/"
             ],
             "Matched Keywords": [
                 "Other"
