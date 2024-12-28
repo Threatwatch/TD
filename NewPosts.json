@@ -5860,6 +5860,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9878,
+            "discovered": "2024-12-28",
+            "post_title": "🚨🇬🇧Arikos is Allegedly Selling the Data of Affinity\n\nhttps://darkwebinformer.com/arikos-is-allegedly-selling-the-data-of-affinity/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/arikos-is-allegedly-selling-the-data-of-affinity/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -30396,6 +30411,21 @@
             ],
             "URLs": [
                 "https://t.co/QZCbi3XH1m"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4119,
+            "discovered": "2024-12-28",
+            "post_title": "Group: eldorado\nApprox. Time: 18:35 28/12/24\nTitle: https://t.co/ZAFV97t2E6",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/ZAFV97t2E6"
             ],
             "Matched Keywords": [
                 "Other"
