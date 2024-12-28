@@ -40541,6 +40541,58 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100091,
+            "discovered": "2024-12-28",
+            "post_title": "Victim: Ire-Omba SpA\n\nDetection Date: Sat Dec 28 14:45:40 2024\n\nThreat Actor: ra group\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100090,
+            "discovered": "2024-12-28",
+            "post_title": "Victim: STEG Stadtentwicklung\n\nDetection Date: Sat Dec 28 14:45:24 2024\n\nThreat Actor: ra group\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100089,
+            "discovered": "2024-12-28",
+            "post_title": "Victim: Watertown Public Schools\n\nDetection Date: Sat Dec 28 14:45:06 2024\n\nThreat Actor: ra group\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100088,
+            "discovered": "2024-12-28",
+            "post_title": "Victim: Compass Communications(Attack again)\n\nDetection Date: Sat Dec 28 14:44:50 2024\n\nThreat Actor: ra group\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -59053,6 +59105,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 8459,
+            "discovered": "2024-12-28",
+            "post_title": "🏴‍☠️ Spacebears has just published a new victim: Atos (Business Services · France)\n-----------------\nhttps://www.ransomware.live/id/QXRvcyAoQnVzaW5lc3MgU2VydmljZXMgwrcgRnJhbmNlKUBzcGFjZWJlYXJz",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "ttps://www.ransomware.live/id/QXRvcyAoQnVzaW5lc3MgU2VydmljZXMgwrcgRnJhbmNlKUBzcGFjZWJlYXJz"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Alixsec": [
@@ -59371,6 +59438,32 @@
         {
             "Message ID": 269,
             "discovered": "2024-12-11",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 354,
+            "discovered": "2024-12-28",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 353,
+            "discovered": "2024-12-28",
             "post_title": "No Text Content",
             "Attack Type": "Unknown",
             "Location": [
