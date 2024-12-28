@@ -29934,6 +29934,20 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4110,
+            "discovered": "2024-12-28",
+            "post_title": "Group: spacebears\nApprox. Time: 06:35 28/12/24\nTitle: Atos (Business Services · France)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx",
+                "France"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -40325,6 +40339,35 @@
             ],
             "URLs": [
                 "https://sinister.ly/Thread-2-5-K-%E2%9C%A8-DISCORD-MEMBERS-SERVICES-%E2%9A%9C%EF%B8%8F-QUALITY-AND-CHEAP-%E2%9A%9C%EF%B8%8F-FULLY-AUTOMATIC"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100083,
+            "discovered": "2024-12-28",
+            "post_title": "Victim: Atos (Business Services · France)\n\nDetection Date: Sat Dec 28 09:44:41 2024\n\nThreat Actor: space bears\n\n#Ransomware #France",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France",
+                "France"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100082,
+            "discovered": "2024-12-28",
+            "post_title": "Title: 15,000+ Four-Faith Routers Exposed to New Exploit Due to Default Credentials\n\nDate: Dec 28, 2024\n\nSource: https://thehackernews.com/2024/12/15000-four-faith-routers-exposed-to-new.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/12/15000-four-faith-routers-exposed-to-new.html"
             ],
             "Matched Keywords": [
                 "Other"
@@ -59814,6 +59857,35 @@
                 "https://darkforums.st/Thread-Source-Code-200-000-PHPMYADMIN-DATABASE-FROM-COMPANY-SOLACE-INFOTECH-PVT-LTD-INDIA",
                 "https://gofile.io/d/78dgjQ"
             ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3615,
+            "discovered": "2024-12-28",
+            "post_title": "Just try to attack us idiot! I assure you your country will become harimau Melayau meow meow 🤣 Stupid!\n\n\n#INDOHAXSEC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3614,
+            "discovered": "2024-12-28",
+            "post_title": "FOR RIPPERSEX SEX MALAYDOG MALAYDES\n\n\nIs it right that just because of your cheap, rotten DDOS tool you insult and gossip about our country Indonesia?\nDo you think you can destroy Indonesia with just a silly DDoS?\nIf what you say is true then prove it by attacking us, Indonesia, But remember there will be a massive database leak to your country's government and many sites will fall into your MALAYDOG cyberspace!\n\n\n#INDOHAXSEC",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Indonesia",
+                "Indonesia",
+                "us",
+                "Indonesia"
+            ],
+            "URLs": [],
             "Matched Keywords": [
                 "Other"
             ]
