@@ -5750,6 +5750,49 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9872,
+            "discovered": "2024-12-28",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9871,
+            "discovered": "2024-12-28",
+            "post_title": "💡The Onion Archive was finally updated to provide a historical copy of subreddits that were previously banned related to the Dark Web.\n\nhttp://x4ijfwy76n6jl7rs4qyhe6qi5rv6xyuos3kaczgjpjcajigjzk3k7wqd[.]onion",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9870,
+            "discovered": "2024-12-28",
+            "post_title": "🚨🇬🇧A Threat Actor is Allegedly Selling RDWebe Access to an Unidentified UK Organization\n\n🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-28 05:31:22\n🚨 Title: Alleged sale of RDWeb access to an unidentified UK company\n🛡 Victim Country: UK\n🏭 Victim Industry:\n🏢 Victim Organization:\n🌐 Victim Site:\n📜 Category: Initial Access\n🔗 Claim: Paid subscribers have access to claim URLs\n🕵️‍♂️ Threat Actor: Cat Scientist\n🌍 Network: openweb\n📝 Description: The threat actor claims to be selling RDWeb access to a United Kingdom-based company in the architecture, engineering, and design sector, with an annual revenue of $20 million. The access reportedly includes a domain user account and covers over 150 hosts, with systems protected by Windows Defender.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK",
+                "UK",
+                "United Kingdom"
+            ],
+            "URLs": [
+                "WebInformer.com - C"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -7942,6 +7985,22 @@
             ],
             "URLs": [
                 "https://x.com/FalconFeedsio/status/1872888075728371810?t=bnoPMrluGOGPRXKMaPhsdA&s=35"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 800,
+            "discovered": "2024-12-28",
+            "post_title": "Join RipperSec x PyRoxy Forum :\n- Full Guide About DDoS\nhttps://t.me/PyRoxyForum\n\nJoin RipperSec Community :\n- Talk and Discuss about Hacking and Target\nhttps://t.me/RipperSecGroup",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/PyRoxyForum",
+                "https://t.me/RipperSecGroup"
             ],
             "Matched Keywords": [
                 "Other"
@@ -30259,6 +30318,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4118,
+            "discovered": "2024-12-28",
+            "post_title": "Group: darkvault\nApprox. Time: 16:37 28/12/24\nTitle: https://t.co/QZCbi3XH1m",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/QZCbi3XH1m"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -33836,6 +33910,51 @@
             ],
             "URLs": [
                 "p://www.ransomfeed.it/index.php?page=post_details&id_post=19839"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5190,
+            "discovered": "2024-12-28",
+            "post_title": "ID: 19843\n⚠ 2024-12-28 11:49:06\n🥷 raworld\n🎯 Watertown Public Schools, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19843",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19843"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5189,
+            "discovered": "2024-12-28",
+            "post_title": "ID: 19842\n⚠ 2024-12-28 11:48:03\n🥷 raworld\n🎯 STEG Stadtentwicklung, Germany\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19842",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Germany"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19842"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5188,
+            "discovered": "2024-12-28",
+            "post_title": "ID: 19841\n⚠ 2024-12-28 11:47:00\n🥷 raworld\n🎯 Ire-Omba SpA, Italy\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19841",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Italy"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19841"
             ],
             "Matched Keywords": [
                 "Other"
@@ -40925,6 +41044,36 @@
             ],
             "URLs": [
                 "https://www.infostealers.com/article/north-korean-hackers-adopt-infostealer-spreading-tactics-in-latest-campaign/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100099,
+            "discovered": "2024-12-28",
+            "post_title": "Victim: timely.mn\n\nDetection Date: Sat Dec 28 19:45:22 2024\n\nThreat Actor: darkvault\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "timely.mn"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100098,
+            "discovered": "2024-12-28",
+            "post_title": "Title: Customer data from 800,000 electric cars and owners exposed online\n\nDate: December 28, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/customer-data-from-800-000-electric-cars-and-owners-exposed-online/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/customer-data-from-800-000-electric-cars-and-owners-exposed-online/"
             ],
             "Matched Keywords": [
                 "Other"
@@ -56220,6 +56369,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 80312,
+            "discovered": "2024-12-28",
+            "post_title": "[RANSOMHUB] - Ransomware Victim: nigico[.]gr - https://www.redpacketsecurity.com/ransomhub-ransomware-victim-nigico-gr/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/ransomhub-ransomware-victim-nigico-gr/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomware Live - Ransomware Alerts": [
@@ -60916,6 +61080,43 @@
             ],
             "URLs": [
                 "ieee.fisat.ac.in/phpmyadmin"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3620,
+            "discovered": "2024-12-28",
+            "post_title": "بسم الله الرحمن الرحيم \n\nTODAY WE INAUGURATED A NEW ALLIANCE BETWEEN\nINDOHAXSEC TEAM & MOROCCAN DRAGONS....\n\nWITH THE PURPOSE OF BILATERAL COOPERATION TO ACHIEVE THE SAME GOALS AND VISION AND MISSION IN BUILDING STRENGTH!...\n\n• INDOHAXSEC TEAM:\nhttps://t.me/INDOHAXSEC\n\n• MOROCCAN DRAGONS:\nhttps://t.me/Moroccan_Dragons_V2_2\n\n\n\n\n#INDOHAXSEC \n#MOROCCAN_DRAGONS",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/INDOHAXSEC",
+                "https://t.me/Moroccan_Dragons_V2_2"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3619,
+            "discovered": "2024-12-28",
+            "post_title": "DEFACED BY INDOHAXSEC TEAM\n\nDEFACED SITE:\n\nhttps://renewrite.in\nhttps://saew.in\nhttps://salemgovtitialumni.in\nhttps://sankarisurfactants.in\nhttps://srivarielevators.net\nhttps://ssfiindia.com\nhttps://thedentalpark.com\n\n\n#INDOHAXSEC",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://renewrite.in",
+                "https://saew.in",
+                "https://salemgovtitialumni.in",
+                "https://sankarisurfactants.in",
+                "https://srivarielevators.net",
+                "https://ssfiindia.com",
+                "https://thedentalpark.com"
             ],
             "Matched Keywords": [
                 "Other"
