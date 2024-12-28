@@ -18725,6 +18725,32 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 511,
+            "discovered": "2024-12-28",
+            "post_title": "🆘 We attacking Italy, because of they are supporting Ukraine with military aid\n\n🔴https://www.esteri.it/ | Italy Ministry of Foreign Affairs \nhttps://check-host.net/check-report/21cf7968k136\n\n🔴https://www.istat.it/ | Italian National Institute of Statistics\nhttps://check-host.net/check-report/21cf032bk25a\n\n🔴https://www.asi.it | Italy Space Agency\nhttps://check-host.net/check-report/21cf0b8ck8bc\n\n🔴https://www.enit.it/ | Italy National Agency of Tourism\nhttps://check-host.net/check-report/21cf7f39k62a\n\n🔴https://www.politicheagricole.it/ | Italy Ministry of Agroculture \nhttps://check-host.net/check-report/21cf93e3k31a\n\nNoName057(16) | SERVER KILLERS",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Italy",
+                "Ukraine",
+                "https://www.istat.it/"
+            ],
+            "URLs": [
+                "tps://www.esteri.it/ |",
+                "tps://check-host.net/check-report/21cf7968k136\n\n",
+                "ps://www.istat.it/ | ",
+                "ps://check-host.net/check-report/21cf032bk25a\n\n🔴",
+                "s://www.asi.it | I",
+                "s://check-host.net/check-report/21cf0b8ck8bc\n\n🔴h",
+                "://www.enit.it/ | It",
+                "://check-host.net/check-report/21cf7f39k62a\n\n🔴ht",
+                "//www.politicheagricole.it/ | Ita",
+                "//check-host.net/check-report/21cf93e3k31a\n\nNoNa"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Alixsec ( English Version)": [
@@ -30132,6 +30158,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4117,
+            "discovered": "2024-12-28",
+            "post_title": "Group: ransomhub\nApprox. Time: 14:37 28/12/24\nTitle: https://t.co/938fF5JGlu",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/938fF5JGlu"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -33679,6 +33720,36 @@
             ],
             "URLs": [
                 "p://www.ransomfeed.it/index.php?page=post_details&id_post=19838"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5187,
+            "discovered": "2024-12-28",
+            "post_title": "ID: 19840\n⚠ 2024-12-28 13:00:05\n🥷 ransomhouse\n🎯 Cell C, South Africa\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19840",
+            "Attack Type": "Unknown",
+            "Location": [
+                "South Africa"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19840"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5186,
+            "discovered": "2024-12-28",
+            "post_title": "ID: 19839\n⚠ 2024-12-28 10:47:55\n🥷 incransom\n🎯 Youth Eastside Services, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19839",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19839"
             ],
             "Matched Keywords": [
                 "Other"
@@ -40694,6 +40765,51 @@
                 "N/A"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100095,
+            "discovered": "2024-12-28",
+            "post_title": "Victim: nigico.gr\n\nDetection Date: Sat Dec 28 17:44:26 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "nigico.gr"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100094,
+            "discovered": "2024-12-28",
+            "post_title": "Title: White House Clears HIPAA Security Rule Update\n\nDate: December 28, 2024\n\nSource: https://databreaches.net/2024/12/28/white-house-clears-hipaa-security-rule-update/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://databreaches.net/2024/12/28/white-house-clears-hipaa-security-rule-update/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100093,
+            "discovered": "2024-12-28",
+            "post_title": "Title: Lumma 2024: Dominating the Info-Stealer Market\n\nDate: December 28, 2024\n\nSource: https://www.infostealers.com/article/lumma-2024-dominating-the-info-stealer-market/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.infostealers.com/article/lumma-2024-dominating-the-info-stealer-market/"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
@@ -55744,6 +55860,96 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-56507/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80301,
+            "discovered": "2024-12-28",
+            "post_title": "[FUNKSEC] - Ransomware Victim: shoppingcentropioneer[.]com - https://www.redpacketsecurity.com/funksec-ransomware-victim-shoppingcentropioneer-com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-shoppingcentropioneer-com/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80300,
+            "discovered": "2024-12-28",
+            "post_title": "[FUNKSEC] - Ransomware Victim: nppvlxdthanhlong[.]com[.]vn - https://www.redpacketsecurity.com/funksec-ransomware-victim-nppvlxdthanhlong-com-vn/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-nppvlxdthanhlong-com-vn/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80299,
+            "discovered": "2024-12-28",
+            "post_title": "[FUNKSEC] - Ransomware Victim: asjp[.]cerist[.]dz - https://www.redpacketsecurity.com/funksec-ransomware-victim-asjp-cerist-dz/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-asjp-cerist-dz/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80298,
+            "discovered": "2024-12-28",
+            "post_title": "[RAWORLD] - Ransomware Victim: Watertown Public Schools - https://www.redpacketsecurity.com/raworld-ransomware-victim-watertown-public-schools/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/raworld-ransomware-victim-watertown-public-schools/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80297,
+            "discovered": "2024-12-28",
+            "post_title": "[RAWORLD] - Ransomware Victim: STEG Stadtentwicklung - https://www.redpacketsecurity.com/raworld-ransomware-victim-steg-stadtentwicklung/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/raworld-ransomware-victim-steg-stadtentwicklung/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80296,
+            "discovered": "2024-12-28",
+            "post_title": "[RAWORLD] - Ransomware Victim: Ire-Omba SpA - https://www.redpacketsecurity.com/raworld-ransomware-victim-ire-omba-spa/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/raworld-ransomware-victim-ire-omba-spa/"
             ],
             "Matched Keywords": [
                 "Other"
