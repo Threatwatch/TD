@@ -13271,6 +13271,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1591,
+            "discovered": "2024-12-28",
+            "post_title": "🚨🚨🚨Cyberattack Alert ‼️\n\n🇫🇷France - Atos\n\nSpace Bears ransomware group claims to have breached Atos. \n\nRansom deadline: 07th Jan 25.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "France"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -15013,6 +15026,19 @@
             "URLs": [
                 "tps://t.me/Free_NetflixAndYoutube_bot?start=Bot25989600"
             ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1989,
+            "discovered": "2024-12-28",
+            "post_title": "Another Member Join Our Vip \n\nNOW ONLY 200 TAKA = 2$\n \nWant to join : @hackerbee_bot",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
             "Matched Keywords": [
                 "Other"
             ]
@@ -30041,6 +30067,71 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4116,
+            "discovered": "2024-12-28",
+            "post_title": "Group: ragroup\nApprox. Time: 12:40 28/12/24\nTitle: Compass Communications(Attack again)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4115,
+            "discovered": "2024-12-28",
+            "post_title": "Group: ragroup\nApprox. Time: 12:40 28/12/24\nTitle: Watertown Public Schools",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4114,
+            "discovered": "2024-12-28",
+            "post_title": "Group: ragroup\nApprox. Time: 12:40 28/12/24\nTitle: STEG Stadtentwicklung",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4113,
+            "discovered": "2024-12-28",
+            "post_title": "Group: ragroup\nApprox. Time: 12:40 28/12/24\nTitle: Ire-Omba SpA",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4112,
+            "discovered": "2024-12-28",
+            "post_title": "Group: ransomhouse\nApprox. Time: 12:39 28/12/24\nTitle: Cell C",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -40585,6 +40676,19 @@
             "Message ID": 100088,
             "discovered": "2024-12-28",
             "post_title": "Victim: Compass Communications(Attack again)\n\nDetection Date: Sat Dec 28 14:44:50 2024\n\nThreat Actor: ra group\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100092,
+            "discovered": "2024-12-28",
+            "post_title": "Victim: Cell C\n\nDetection Date: Sat Dec 28 15:51:30 2024\n\nThreat Actor: ransomhouse\n\n#Ransomware",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
