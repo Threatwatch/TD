@@ -5875,6 +5875,49 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9881,
+            "discovered": "2024-12-28",
+            "post_title": "🚨🇪🇸DNI Claims to be Selling the Data from a Private Healthcare Provider in Spain\n\nhttps://darkwebinformer.com/dni-claims-to-be-selling-the-data-from-a-private-healthcare-provider-in-spain/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Spain"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/dni-claims-to-be-selling-the-data-from-a-private-healthcare-provider-in-spain/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9880,
+            "discovered": "2024-12-28",
+            "post_title": "What a reason",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9879,
+            "discovered": "2024-12-28",
+            "post_title": "🚨🇪🇬A Threat Actor Has Allegedly Leaked the Data fo Gammal Tech\n\n🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-28 17:47:20\n🚨 Title: Alleged data leak of Gammal Tech\n🛡 Victim Country: Egypt\n🏭 Victim Industry: Higher Education/Acadamia\n🏢 Victim Organization: gammal tech\n🌐 Victim Site: gammal[.tech\n📜 Category: Data Breach\n🔗 Claim: Paid subscribers get access to claim urls\n🕵️‍♂️ Threat Actor: libyan-test\n🌍 Network: openweb\n📝 Description: The threat actor claims to have leaked data from Gammal Tech, including PDF files of lessons from its courses.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Egypt"
+            ],
+            "URLs": [
+                "WebInformer.com - C"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -17194,6 +17237,23 @@
             ],
             "URLs": [
                 "https://www.detik.com/sumut/berita/d-7705897/hsni-sebut-nelayan-batam-diintimidasi-kapal-patroli-singapura-di-perbatasan"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 2153,
+            "discovered": "2024-12-28",
+            "post_title": "☠ HACKED BY ESTEEM RESTORATION EAGLE ☠\n\n🚨 URL : https://oladimejijoel.org.ng/\n\n💠 POC : https://ownzyou.com/zone/259016\n\nCHANNEL : https://t.me/esteemrestorationeagle\n\n#EsteemRestorationEagle\n#IslamicCyberTeam\n#TheAnonymous71BD\n#NoName057(16)",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://oladimejijoel.org.ng/\n",
+                "tps://ownzyou.com/zone/259016\n\n",
+                "tps://t.me/esteemrestorationeagle\n\n"
             ],
             "Matched Keywords": [
                 "Other"
@@ -56496,6 +56556,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 80314,
+            "discovered": "2024-12-28",
+            "post_title": "HackerOne Bug Bounty Disclosure: lack-of-url-validation-in-avatarurl-at-v-profile-marcotuliocnd - https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-lack-of-url-validation-in-avatarurl-at-v-profile-marcotuliocnd/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-lack-of-url-validation-in-avatarurl-at-v-profile-marcotuliocnd/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80313,
+            "discovered": "2024-12-28",
+            "post_title": "HackerOne Bug Bounty Disclosure: -oem-acronis-com-reflected-cross-site-scripting-darkdream - https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-oem-acronis-com-reflected-cross-site-scripting-darkdream/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-oem-acronis-com-reflected-cross-site-scripting-darkdream/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomware Live - Ransomware Alerts": [
@@ -61257,6 +61347,35 @@
             ],
             "URLs": [
                 "tps://4thtv.com\n\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3624,
+            "discovered": "2024-12-28",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3623,
+            "discovered": "2024-12-28",
+            "post_title": "This is just a warning, if you don't accept it we are open \n\nhttps://itmarket.my\n\nhttps://mesramasloan.my/index.html\n\n\n#INDOHAXSEC_TEAM",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://itmarket.my",
+                "https://mesramasloan.my/index.html"
             ],
             "Matched Keywords": [
                 "Other"
