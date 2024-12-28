@@ -7795,6 +7795,26 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 795,
+            "discovered": "2024-12-28",
+            "post_title": "ANNOUNCEMENT ABOUT MEGAMEDUSA ISSUES/ MOSSAD ISSUE & INDONESIAN ISSUES.\n\nWe Will Explain This Notice With Indonesian Language.\n\nKepada Kepada Keseluruh Tim Indonesian. Kami ingin menceritakan kenapa ini terjadi. Ada beberapa Developer indo yang Dekripsi tool kami iaitu MegaMedusa dan mempublikasinya ke publik sehigga code ini jatuh ke tangan Mossad dan ada jual yang menjual dan recode MegaMedusa untuk keuntungan sendiri. Mossad menggunakan tool kami untuk menyerang negara Islam. Kami marah dan memberi warning kenapa Indonesia kerna kami juga punya had kesabaran kerna kami juga turut dihina orang Warga Indo berbulan-bulan lamanya dan kami udah Capek. Kami melabel Indonesian (Warga Indo) sebagai SKIBIDI kerna kelakuan Warga indo yang suka menghina dan mensabotage kami dan kami Minta Maaf kerna sudah memukul rata dan memanggil warga Indo sebagai SKIBI.\n\nKami amat terkesan dengan kelakuan warga Indo kerna sudah mensabotage tool kami dan kami amat kecewa apabila kami mengetahui warga indo menyebabkan Mossad mendapat tool MegaMedusa kami.\n\nKami tidak ingin memperpanjangkan isu ini. Biarlah warga Indo menghina kami tetapi kami tidak boleh membalas kembali. Notis ini tidak bermaksud memburukkkan Indonesia atau sebagainya. Kamu pilih laluan damai.\n\nTerima Kasih kepada Z-BLACK-HAT, Anti-Hacking, KEYLI & LEXYS kerna sudah mendamaikan situasi ini.\n\nSalam Hormat Daripada \nLeader RipperSec (KMS)",
+            "Attack Type": "Hacking",
+            "Location": [
+                "kami",
+                "kami",
+                "Indonesia",
+                "kami",
+                "Kami",
+                "kami",
+                "kami",
+                "Indonesia"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -40368,6 +40388,22 @@
             ],
             "URLs": [
                 "https://thehackernews.com/2024/12/15000-four-faith-routers-exposed-to-new.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100084,
+            "discovered": "2024-12-28",
+            "post_title": "Target: https://tourism.bohol.gov.ph/0x.txt\n\nNotified: chinafans\n\nDate: Sat, 28 Dec 2024 07:22:45 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312312\n\n#Defacements #Philippines",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Philippines"
+            ],
+            "URLs": [
+                "https://tourism.bohol.gov.ph/0x.txt",
+                "http://www.zone-h.org/mirror/id/41312312"
             ],
             "Matched Keywords": [
                 "Other"
