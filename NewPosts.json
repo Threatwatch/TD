@@ -14956,6 +14956,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1987,
+            "discovered": "2024-12-28",
+            "post_title": "Free Premium Subscription Bot 🔥\n\nএই বট এর মাধ্যমে আপনারা আপনাদের পছন্দ মতো Telegram Premium , Netflix Premium , Disney Premium অথবা YouTube Premium ফ্রিতে নিতে পারবেন। আপনাদের কাজ হলো রেফার করে Points কালেক্ট করা পরে সেই Points দিয়ে প্রিমিয়াম নেওয়া 🥸\n\nBot Link : https://t.me/Free_NetflixAndYoutube_bot?start=Bot25989600",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://t.me/Free_NetflixAndYoutube_bot?start=Bot25989600"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Esteem Restoration Eagle": [
@@ -33503,6 +33518,22 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5185,
+            "discovered": "2024-12-28",
+            "post_title": "ID: 19838\n⚠ 2024-12-28 06:53:50\n🥷 spacebears\n🎯 Atos (Business Services · France), France\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19838",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France",
+                "France"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19838"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -40436,6 +40467,19 @@
                 "ANY.RUN",
                 "https://any.run/cybersecurity-blog/annual-report-2024/"
             ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100087,
+            "discovered": "2024-12-28",
+            "post_title": "Victim: Youth Eastside Services\n\nDetection Date: Sat Dec 28 12:44:26 2024\n\nThreat Actor: inc ransom\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
             "Matched Keywords": [
                 "Other"
             ]
