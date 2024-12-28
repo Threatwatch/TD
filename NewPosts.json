@@ -60418,6 +60418,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 3617,
+            "discovered": "2024-12-28",
+            "post_title": "INDIA PHPMYADMIN ACCESS\n\n\nhttp://server.logixtree.in/phpmyadmin/index.php\n\n\nUSERNAME: ggunjan_buxr\nPASSWORD: T2xNIHpA9z\n\n\n\n#INDOHAXSEC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://server.logixtree.in/phpmyadmin/index.php"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ]
 }
