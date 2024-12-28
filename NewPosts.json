@@ -5918,6 +5918,24 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9882,
+            "discovered": "2024-12-28",
+            "post_title": "🚨A Threat Actor is Allegedly Selling CRM leads from German and English Speaking Countries\n\n🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-28 18:13:53\n🚨 Title: Alleged sale of CRM leads from German and English Speaking Countries\n🛡 Victim Country:\n🏭 Victim Industry: Financial Services\n🏢 Victim Organization:\n🌐 Victim Site:\n📜 Category: Data Breach\n🔗 Claim: Paid subscribers have access to claim urls\n🕵️‍♂️ Threat Actor: mzurdb\n🌍 Network: openweb\n📝 Description: The threat actor is offering to sell Qoin Capital Forex recovery (CRM) leads from various countries like German, Switzerland, Sweden, Canada Italy, Poland etc. The leads data includes IDs, full name, email, country, broker, balance, ip address etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Switzerland",
+                "Sweden",
+                "Canada Italy",
+                "Poland"
+            ],
+            "URLs": [
+                "rkWebInformer.com -"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -17258,6 +17276,23 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 2155,
+            "discovered": "2024-12-28",
+            "post_title": "☠ HACKED BY ESTEEM RESTORATION EAGLE ☠\n\n🚨 URL : https://snowballcleaning.com.ng/index.html\n\n💠 POC : https://ownzyou.com/zone/259029\n\nCHANNEL : https://t.me/esteemrestorationeagle\n\n#EsteemRestorationEagle\n#IslamicCyberTeam\n#TheAnonymous71BD\n#NoName057(16)",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://snowballcleaning.com.ng/index.html\n",
+                "tps://ownzyou.com/zone/259029\n\n",
+                "tps://t.me/esteemrestorationeagle\n\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "SERVER KILLERS": [
@@ -23486,6 +23521,21 @@
             "URLs": [],
             "Matched Keywords": [
                 "Other"
+            ]
+        },
+        {
+            "Message ID": 4519,
+            "discovered": "2024-12-28",
+            "post_title": "🚨 New Event Detected!\n\nGroup Name: DragonForce\nCompany: Ikav Global Energy\nDomain: http://www.ikav.com\nCountry: Luxembourg\nSector: Energy",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Luxembourg"
+            ],
+            "URLs": [
+                "ttp://www.ikav.com\n"
+            ],
+            "Matched Keywords": [
+                "energy"
             ]
         }
     ],
@@ -34116,6 +34166,22 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5191,
+            "discovered": "2024-12-28",
+            "post_title": "ID: 19844\n⚠ 2024-12-28 15:01:00\n🥷 ransomhub\n🎯 nigico.gr, Greece\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19844",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Greece"
+            ],
+            "URLs": [
+                "gico.gr, ",
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19844"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -41240,6 +41306,21 @@
             "Message ID": 100100,
             "discovered": "2024-12-28",
             "post_title": "Title: Hackers steal ZAGG customer’s credit cards in third-party breach\n\nDate: December 28, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/hackers-steal-zagg-customers-credit-cards-in-third-party-breach/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/hackers-steal-zagg-customers-credit-cards-in-third-party-breach/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100101,
+            "discovered": "2024-12-28",
+            "post_title": "Title: Hackers steal ZAGG customers' credit cards in third-party breach\n\nDate: December 28, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/hackers-steal-zagg-customers-credit-cards-in-third-party-breach/\n\n#News",
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
@@ -56582,6 +56663,186 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/hackerone-bugbounty-disclosure-oem-acronis-com-reflected-cross-site-scripting-darkdream/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80326,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2024-12983 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12983/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12983/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80325,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2024-11645 - https://www.redpacketsecurity.com/cve_alert_cve-2024-11645/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-11645/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80324,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2024-11842 - https://www.redpacketsecurity.com/cve_alert_cve-2024-11842/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-11842/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80323,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2024-11921 - https://www.redpacketsecurity.com/cve_alert_cve-2024-11921/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-11921/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80322,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2024-11644 - https://www.redpacketsecurity.com/cve_alert_cve-2024-11644/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-11644/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80321,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2020-9080 - https://www.redpacketsecurity.com/cve_alert_cve-2020-9080/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2020-9080/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80320,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2020-1819 - https://www.redpacketsecurity.com/cve_alert_cve-2020-1819/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2020-1819/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80319,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2020-1818 - https://www.redpacketsecurity.com/cve_alert_cve-2020-1818/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2020-1818/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80318,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2020-9082 - https://www.redpacketsecurity.com/cve_alert_cve-2020-9082/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2020-9082/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80317,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2020-9081 - https://www.redpacketsecurity.com/cve_alert_cve-2020-9081/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2020-9081/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80316,
+            "discovered": "2024-12-28",
+            "post_title": "[ELDORADO] - Ransomware Victim: D&G Enviro-Group - https://www.redpacketsecurity.com/eldorado-ransomware-victim-d-g-enviro-group/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/eldorado-ransomware-victim-d-g-enviro-group/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80315,
+            "discovered": "2024-12-28",
+            "post_title": "[DARKVAULT] - Ransomware Victim: timely[.]mn - https://www.redpacketsecurity.com/darkvault-ransomware-victim-timely-mn/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/darkvault-ransomware-victim-timely-mn/"
             ],
             "Matched Keywords": [
                 "Other"
