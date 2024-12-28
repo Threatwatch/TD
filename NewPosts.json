@@ -7815,6 +7815,51 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 798,
+            "discovered": "2024-12-28",
+            "post_title": "https://x.com/PPHM_1/status/1872938426745667930?t=IntdqeDmBJ_cv50N9QVStw&s=35",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/PPHM_1/status/1872938426745667930?t=IntdqeDmBJ_cv50N9QVStw&s=35"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 797,
+            "discovered": "2024-12-28",
+            "post_title": "https://x.com/YourAnonGaza/status/1872894513745936891?t=TCQc7NO-Ue7c-c1ljCHSCw&s=35",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/YourAnonGaza/status/1872894513745936891?t=TCQc7NO-Ue7c-c1ljCHSCw&s=35"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 796,
+            "discovered": "2024-12-28",
+            "post_title": "https://x.com/FalconFeedsio/status/1872888075728371810?t=bnoPMrluGOGPRXKMaPhsdA&s=35",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/FalconFeedsio/status/1872888075728371810?t=bnoPMrluGOGPRXKMaPhsdA&s=35"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -29978,6 +30023,19 @@
             "Location": [
                 "Approx",
                 "France"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4111,
+            "discovered": "2024-12-28",
+            "post_title": "Group: incransom\nApprox. Time: 10:38 28/12/24\nTitle: Youth Eastside Services",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
             ],
             "URLs": [],
             "Matched Keywords": [
@@ -55384,6 +55442,156 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 80295,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2024-12987 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12987/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12987/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80294,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2024-56508 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56508/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56508/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80293,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2024-12986 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12986/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12986/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80292,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2024-12856 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12856/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12856/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80291,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2024-56509 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56509/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56509/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80290,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2024-12988 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12988/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12988/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80289,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2024-12990 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12990/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12990/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80288,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2024-12991 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12991/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12991/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80287,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2024-12989 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12989/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12989/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80286,
+            "discovered": "2024-12-28",
+            "post_title": "CVE Alert: CVE-2024-56507 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56507/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56507/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomware Live - Ransomware Alerts": [
@@ -59995,6 +60203,19 @@
                 "Indonesia",
                 "us",
                 "Indonesia"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3616,
+            "discovered": "2024-12-28",
+            "post_title": "FOR INDONESIAN PEOPLE:\n\nWE THINK THIS SMALL PROBLEM IS CLEAR AND SOLVED ENOUGH\n\n\n#INDOHAXSEC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": [],
             "Matched Keywords": [
