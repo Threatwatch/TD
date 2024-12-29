@@ -8315,6 +8315,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 802,
+            "discovered": "2024-12-29",
+            "post_title": " MegaMedusa, Highly Scalable Web DDoS Attack Tool Used By Hacker Groups\n\nhttps://gbhackers.com/megamedusa-ddos-attack-tool/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://gbhackers.com/megamedusa-ddos-attack-tool/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -57789,6 +57804,96 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-12995/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80374,
+            "discovered": "2024-12-29",
+            "post_title": "CVE Alert: CVE-2024-43705 - https://www.redpacketsecurity.com/cve_alert_cve-2024-43705/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-43705/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80373,
+            "discovered": "2024-12-29",
+            "post_title": "CVE Alert: CVE-2020-1820 - https://www.redpacketsecurity.com/cve_alert_cve-2020-1820/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2020-1820/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80372,
+            "discovered": "2024-12-29",
+            "post_title": "CVE Alert: CVE-2024-46973 - https://www.redpacketsecurity.com/cve_alert_cve-2024-46973/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-46973/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80371,
+            "discovered": "2024-12-29",
+            "post_title": "CVE Alert: CVE-2021-22484 - https://www.redpacketsecurity.com/cve_alert_cve-2021-22484/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2021-22484/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80370,
+            "discovered": "2024-12-29",
+            "post_title": "CVE Alert: CVE-2021-37000 - https://www.redpacketsecurity.com/cve_alert_cve-2021-37000/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2021-37000/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80369,
+            "discovered": "2024-12-29",
+            "post_title": "CVE Alert: CVE-2020-1821 - https://www.redpacketsecurity.com/cve_alert_cve-2020-1821/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2020-1821/"
             ],
             "Matched Keywords": [
                 "Other"
