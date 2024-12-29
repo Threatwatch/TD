@@ -8345,6 +8345,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 804,
+            "discovered": "2024-12-29",
+            "post_title": "https://www.facebook.com/share/p/1BCbMiMnyQ/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.facebook.com/share/p/1BCbMiMnyQ/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -41672,6 +41687,21 @@
             ],
             "URLs": [
                 "deportesapalategui.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100108,
+            "discovered": "2024-12-29",
+            "post_title": "Title: AttackRuleMap: Bridging Open-Source Detections and Atomic Tests\n\nDate: December 29, 2024\n\nSource: https://detect.fyi/attackrulemap-bridging-open-source-detections-and-atomic-tests-93420708a70f?source=rss----d5fd8f494f6a---4\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://detect.fyi/attackrulemap-bridging-open-source-detections-and-atomic-tests-93420708a70f?source=rss----d5fd8f494f6a---4"
             ],
             "Matched Keywords": [
                 "Other"
