@@ -6282,6 +6282,19 @@
             "Matched Keywords": [
                 "Css"
             ]
+        },
+        {
+            "Message ID": 9908,
+            "discovered": "2024-12-29",
+            "post_title": "💡This will likely be the new style for all links in the subscribers area, most likely what everyone will see once I make that area public & free.\n\nThe colors and icons will change, there will be a tool tip, & some other things I'm working on & completely JS free. Only HTML/CSS",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Css"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -42356,6 +42369,21 @@
             ],
             "URLs": [
                 "asesoriacamen.es"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100125,
+            "discovered": "2024-12-29",
+            "post_title": "Title: Linux Process Running with Hidden Binary Name Attack\n\nDate: December 29, 2024\n\nSource: https://sandflysecurity.com/blog/linux-process-running-with-hidden-binary-name-attack/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sandflysecurity.com/blog/linux-process-running-with-hidden-binary-name-attack/"
             ],
             "Matched Keywords": [
                 "Other"
