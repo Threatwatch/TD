@@ -34334,6 +34334,37 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5193,
+            "discovered": "2024-12-29",
+            "post_title": "ID: 19846\n⚠ 2024-12-28 18:54:05\n🥷 eldorado\n🎯 D AND G Enviro-Group, Canada\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19846",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Canada"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19846"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5192,
+            "discovered": "2024-12-29",
+            "post_title": "ID: 19845\n⚠ 2024-12-28 17:01:52\n🥷 darkvault\n🎯 timely.mn, Mongolia\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19845",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Mongolia"
+            ],
+            "URLs": [
+                "mely.mn, ",
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19845"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -41522,6 +41553,22 @@
             ],
             "URLs": [
                 "https://demonforums.net/Thread-10-000-000-log-pass-link"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100105,
+            "discovered": "2024-12-29",
+            "post_title": "Target: http://www.drmc.gov.et/12.html\n\nNotified: fitwilliamx12\n\nDate: Sun, 29 Dec 2024 04:13:45 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312489\n\n#Defacements #Ethiopia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Ethiopia"
+            ],
+            "URLs": [
+                "http://www.drmc.gov.et/12.html",
+                "http://www.zone-h.org/mirror/id/41312489"
             ],
             "Matched Keywords": [
                 "Other"
