@@ -19240,6 +19240,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 513,
+            "discovered": "2024-12-29",
+            "post_title": "Who have 0.00029 ETH\nI really need it now\n\nContact: @britaniqque",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Alixsec ( English Version)": [
@@ -44718,6 +44731,21 @@
                 "N/A"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26946,
+            "discovered": "2024-12-29",
+            "post_title": "#Anonymous #GhostClan #OpDeathEaters #OpPedoHunt #RexMondhi #W1nterstorm https://justpaste.it/h3753",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://justpaste.it/h3753"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
