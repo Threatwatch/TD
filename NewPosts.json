@@ -6088,6 +6088,51 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9896,
+            "discovered": "2024-12-29",
+            "post_title": "🚨🇧🇪RipperSec Targeted the Website of Moto House\n\nhttps://darkwebinformer.com/rippersec-targeted-the-website-of-moto-house/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rippersec-targeted-the-website-of-moto-house/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9895,
+            "discovered": "2024-12-29",
+            "post_title": "🚨🇵🇪A Threat Actor Claims to have Leaked the Data of National Library of Peru on Behalf of DefacePeru\n\nhttps://darkwebinformer.com/a-threat-actor-claims-to-have-leaked-the-data-of-national-library-of-peru-on-behalf-of-defaceperu/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-claims-to-have-leaked-the-data-of-national-library-of-peru-on-behalf-of-defaceperu/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9894,
+            "discovered": "2024-12-29",
+            "post_title": "🚨🇺🇸miyako is Allegedly Selling Root-level Access to a Server Hosting the Firewall of a  Large US Bank\n\nhttps://darkwebinformer.com/miyako-is-allegedly-selling-root-level-access-to-a-server-hosting-the-firewall-of-a-large-us-bank/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/miyako-is-allegedly-selling-root-level-access-to-a-server-hosting-the-firewall-of-a-large-us-bank/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -8356,6 +8401,36 @@
             ],
             "URLs": [
                 "https://www.facebook.com/share/p/1BCbMiMnyQ/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 806,
+            "discovered": "2024-12-29",
+            "post_title": "https://thearabianpost.com/pro-russian-hackers-target-major-french-websites/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thearabianpost.com/pro-russian-hackers-target-major-french-websites/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 805,
+            "discovered": "2024-12-29",
+            "post_title": "https://www.ice.co.il/digital-140/news/article/1027448",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.ice.co.il/digital-140/news/article/1027448"
             ],
             "Matched Keywords": [
                 "Other"
@@ -41702,6 +41777,36 @@
             ],
             "URLs": [
                 "https://detect.fyi/attackrulemap-bridging-open-source-detections-and-atomic-tests-93420708a70f?source=rss----d5fd8f494f6a---4"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100110,
+            "discovered": "2024-12-29",
+            "post_title": "Title: Malware botnets exploit outdated D-Link routers in recent attacks\n\nDate: December 29, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/malware-botnets-exploit-outdated-d-link-routers-in-recent-attacks/\n\n#News",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/malware-botnets-exploit-outdated-d-link-routers-in-recent-attacks/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100109,
+            "discovered": "2024-12-29",
+            "post_title": "Title: ValiDrive 프로그램 을 사용 가짜 USB 메모리확인 하는 방법\n\nDate: December 29, 2024\n\nSource: http://wezard4u.tistory.com/429367\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://wezard4u.tistory.com/429367"
             ],
             "Matched Keywords": [
                 "Other"
