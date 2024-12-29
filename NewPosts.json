@@ -6059,6 +6059,35 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9893,
+            "discovered": "2024-12-29",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9892,
+            "discovered": "2024-12-29",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-29 03:37:49\n🚨 Title: Alleged data sale of 80K credit application forms\n🛡️ Victim Country: \n🏭 Victim Industry: \n🏢 Victim Organization: \n🌐 Victim Site: \n📜 Category: Data Leak\n🕵️‍♂️ Threat Actor: xcxcxc\n🌍 Network: openweb\n🔗 Claim: https://xss.is/threads/129855/\n📝 Description: The threat actor claims to be selling a dataset containing 80,000 full credit application forms, which reportedly include FICO scores and credit reports sourced from TransUnion.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                ".is/threads/129855/\n📝 Descript"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -62300,6 +62329,22 @@
             ],
             "URLs": [
                 "https://cubixtechnologies.in/phpmyadmin/index.php"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3626,
+            "discovered": "2024-12-29",
+            "post_title": "1.4 MILLION PHPMYADMIN DATABASE UPGRADE COMPANY INFOTECH INDIA\n\nDARKFORUMS LINK:\nhttps://darkforums.st/Thread-Source-Code-1-4-MILLION-PHPMYADMIN-DATABASE-UPGRADE-COMPANY-INFOTECH-INDIA\n\n\n•DONWLOAD:\nhttps://gofile.io/d/MggB7L\n\n\n\n#INDOHAXSEC",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkforums.st/Thread-Source-Code-1-4-MILLION-PHPMYADMIN-DATABASE-UPGRADE-COMPANY-INFOTECH-INDIA",
+                "https://gofile.io/d/MggB7L"
             ],
             "Matched Keywords": [
                 "Other"
