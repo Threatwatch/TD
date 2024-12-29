@@ -57571,6 +57571,156 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 80368,
+            "discovered": "2024-12-29",
+            "post_title": "CVE Alert: CVE-2023-7266 - https://www.redpacketsecurity.com/cve_alert_cve-2023-7266/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2023-7266/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80367,
+            "discovered": "2024-12-29",
+            "post_title": "CVE Alert: CVE-2023-7263 - https://www.redpacketsecurity.com/cve_alert_cve-2023-7263/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2023-7263/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80366,
+            "discovered": "2024-12-29",
+            "post_title": "CVE Alert: CVE-2020-1822 - https://www.redpacketsecurity.com/cve_alert_cve-2020-1822/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2020-1822/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80365,
+            "discovered": "2024-12-29",
+            "post_title": "CVE Alert: CVE-2020-1823 - https://www.redpacketsecurity.com/cve_alert_cve-2020-1823/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2020-1823/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80364,
+            "discovered": "2024-12-29",
+            "post_title": "CVE Alert: CVE-2020-1824 - https://www.redpacketsecurity.com/cve_alert_cve-2020-1824/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2020-1824/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80363,
+            "discovered": "2024-12-29",
+            "post_title": "CVE Alert: CVE-2023-52718 - https://www.redpacketsecurity.com/cve_alert_cve-2023-52718/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2023-52718/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80362,
+            "discovered": "2024-12-29",
+            "post_title": "CVE Alert: CVE-2024-12998 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12998/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12998/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80361,
+            "discovered": "2024-12-29",
+            "post_title": "CVE Alert: CVE-2024-12994 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12994/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12994/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80360,
+            "discovered": "2024-12-29",
+            "post_title": "CVE Alert: CVE-2022-48470 - https://www.redpacketsecurity.com/cve_alert_cve-2022-48470/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2022-48470/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80359,
+            "discovered": "2024-12-29",
+            "post_title": "CVE Alert: CVE-2024-12995 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12995/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12995/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomware Live - Ransomware Alerts": [
