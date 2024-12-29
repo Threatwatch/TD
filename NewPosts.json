@@ -6254,6 +6254,34 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9907,
+            "discovered": "2024-12-29",
+            "post_title": "Added 6* Links to Everything Else... not 3.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9906,
+            "discovered": "2024-12-29",
+            "post_title": "💡Changelog updated! All changes can be found: https://darkwebinformer.com/changelog\n\n🌟 Version 3.5 - December 29th, 2024\n\n🎉 New Features:\n\n* \n\n⚙️ Improvements:\n\n* Added an Everything Else category in the Subscribers area (will be growing)\n* Added 1 New Darknet Market\n* Added 3 Links to Everything Else\n\n🐛 Bug Fixes:\n\n* \n\n🐛 Open Bugs:\n\n* Mobile: The tables in the different subscribers area does not move fully to the left, only to the right. The CSS is being redone in all catefories in the subscribers area.\n* Mobile: Threat Feeds only look proper when changing to desktop site.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Changelog"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog\n"
+            ],
+            "Matched Keywords": [
+                "Css"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -34799,6 +34827,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5197,
+            "discovered": "2024-12-29",
+            "post_title": "ID: 19851\n⚠ 2024-12-29 16:50:13\n🥷 arcusmedia\n🎯 Engenet Informatica, Brazil\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19851",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19851"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -42201,6 +42244,47 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100122,
+            "discovered": "2024-12-29",
+            "post_title": "Victim: Asheville Eye Associates\n\nDetection Date: Sun Dec 29 22:36:03 2024\n\nThreat Actor: dragonforce\n\n#Ransomware",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100121,
+            "discovered": "2024-12-29",
+            "post_title": "Victim: Ikav Global Energy\n\nDetection Date: Sun Dec 29 22:35:49 2024\n\nThreat Actor: dragonforce\n\n#Ransomware",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "energy"
+            ]
+        },
+        {
+            "Message ID": 100120,
+            "discovered": "2024-12-29",
+            "post_title": "Title: [영화]핫코다산(八甲田山,1977)\n\nDate: December 29, 2024\n\nSource: https://wezard4u.tistory.com/429368\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://wezard4u.tistory.com/429368"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -45375,6 +45459,19 @@
             "URLs": [
                 "https://justpaste.it/c5j5q"
             ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26949,
+            "discovered": "2024-12-29",
+            "post_title": "NY Correctional Officers beat Robert Brooks to his death. Investigations lead to uncovering Sergeant Glenn Trombly of the correctional facility has victims of such conduct going back decades.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
             "Matched Keywords": [
                 "Other"
             ]
@@ -63395,6 +63492,22 @@
             "URLs": [
                 "https://darkforums.st/Thread-PHPMYADMIN-DATABASE-OF-CORPORETION-INDINET-SERVICE-PRIVATE-LIMITED-INDIA",
                 "https://gofile.io/d/qch4lt"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3630,
+            "discovered": "2024-12-29",
+            "post_title": "COMPLETE DATABASE OF truCSR INDIA PLATFOM\n\nDARKFORUMS:\nhttps://darkforums.st/Thread-COMPLETE-DATABASE-OF-truCSR-INDIA-PLATFOM\n\nruCSR is a CSR platform providing support to both Implementers and Contributors to achieve their social development goals. We provide digital solutions to drive social impact change. The “truCSR” platform is owned and developed by an incorporated private limited company headquartered in Mumbai. The company was founded by like-minded professionals having cumulative experience of more than 100 years in field of CSR, finance, taxation, corporate and allied laws, corporate governance, strategic management, etc.\n\n• DOWNLOAD:\nhttps://gofile.io/d/E8Wn8d\n\n\n#INDOHAXSEC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Mumbai"
+            ],
+            "URLs": [
+                "https://darkforums.st/Thread-COMPLETE-DATABASE-OF-truCSR-INDIA-PLATFOM",
+                "https://gofile.io/d/E8Wn8d"
             ],
             "Matched Keywords": [
                 "Other"
