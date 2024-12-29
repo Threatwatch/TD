@@ -8300,6 +8300,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 801,
+            "discovered": "2024-12-29",
+            "post_title": "Private Channel :\nhttps://t.me/+QGWa2VzGZJc1ZDY1",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/+QGWa2VzGZJc1ZDY1"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
