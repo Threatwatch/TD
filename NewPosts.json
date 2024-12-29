@@ -6189,6 +6189,71 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9905,
+            "discovered": "2024-12-29",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9904,
+            "discovered": "2024-12-29",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9903,
+            "discovered": "2024-12-29",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9902,
+            "discovered": "2024-12-29",
+            "post_title": "Forum: OGU aka OGUsers\nLink: https://oguser[.]com\n\nOGUsers is an online forum focused on the discussion and trade of social media accounts and online usernames. Founded in 2017, the platform specializes in the buying and selling of \"rare\" or \"OG\" accounts, prized for their unique names or historical significance.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9901,
+            "discovered": "2024-12-29",
+            "post_title": "Not all history is lost.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -34700,6 +34765,36 @@
             ],
             "URLs": [
                 "p://www.ransomfeed.it/index.php?page=post_details&id_post=19848"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5196,
+            "discovered": "2024-12-29",
+            "post_title": "ID: 19849\n⚠ 2024-12-29 10:07:30\n🥷 dragonforce\n🎯 Ikav Global Energy, Germany\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19849",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Germany"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19849"
+            ],
+            "Matched Keywords": [
+                "energy"
+            ]
+        },
+        {
+            "Message ID": 5195,
+            "discovered": "2024-12-29",
+            "post_title": "ID: 19850\n⚠ 2024-12-29 10:05:29\n🥷 dragonforce\n🎯 Asheville Eye Associates, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19850",
+            "Attack Type": "Hacking",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19850"
             ],
             "Matched Keywords": [
                 "Other"
@@ -63254,6 +63349,21 @@
             ],
             "URLs": [
                 "https://videocare.co.in"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3628,
+            "discovered": "2024-12-29",
+            "post_title": "FidzXploit DECLARES YOUR AGREEMENT TO JOIN OUR INDOHAXSEC TEAM\n\nhttps://darkforums.st/Thread-AGREEMENT-TO-JOIN-INDOHAXSEC-TEAM\n\n\n#INDOHAXSEC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkforums.st/Thread-AGREEMENT-TO-JOIN-INDOHAXSEC-TEAM"
             ],
             "Matched Keywords": [
                 "Other"
