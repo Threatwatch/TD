@@ -6046,6 +6046,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9891,
+            "discovered": "2024-12-29",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -57467,6 +57480,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 80358,
+            "discovered": "2024-12-29",
+            "post_title": "CISA's 2024 Year in Review: Major Advances in Cybersecurity Collaboration - https://www.redpacketsecurity.com/cisa-s-2024-review-highlights-major-efforts-in-cybersecurity-industry-collaboration/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-s-2024-review-highlights-major-efforts-in-cybersecurity-industry-collaboration/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomware Live - Ransomware Alerts": [
@@ -62257,6 +62285,21 @@
             "URLs": [
                 "https://itmarket.my",
                 "https://mesramasloan.my/index.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3625,
+            "discovered": "2024-12-29",
+            "post_title": "PHPMYADMIN ACCESS FOR COMPANY \"CUBIX TECHNOLOGIES\" INDIA!\n\n\nAddress: https://cubixtechnologies.in/phpmyadmin/index.php\n\nUsername: root\nPassword: lsjn42jdgbjvnldenkl\n\n\n\n#INDOHAXSEC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cubixtechnologies.in/phpmyadmin/index.php"
             ],
             "Matched Keywords": [
                 "Other"
