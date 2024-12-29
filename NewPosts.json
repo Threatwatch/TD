@@ -57988,6 +57988,51 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 80377,
+            "discovered": "2024-12-29",
+            "post_title": "[DRAGONFORCE] - Ransomware Victim: Ikav Global Energy - https://www.redpacketsecurity.com/dragonforce-ransomware-victim-ikav-global-energy/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/dragonforce-ransomware-victim-ikav-global-energy/"
+            ],
+            "Matched Keywords": [
+                "energy"
+            ]
+        },
+        {
+            "Message ID": 80376,
+            "discovered": "2024-12-29",
+            "post_title": "[FUNKSEC] - Ransomware Victim: deportesapalategui[.]com - https://www.redpacketsecurity.com/funksec-ransomware-victim-deportesapalategui-com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-deportesapalategui-com/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80375,
+            "discovered": "2024-12-29",
+            "post_title": "[DRAGONFORCE] - Ransomware Victim: Asheville Eye Associates - https://www.redpacketsecurity.com/dragonforce-ransomware-victim-asheville-eye-associates/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/dragonforce-ransomware-victim-asheville-eye-associates/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomware Live - Ransomware Alerts": [
