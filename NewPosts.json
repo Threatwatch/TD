@@ -6321,6 +6321,49 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9914,
+            "discovered": "2024-12-29",
+            "post_title": "💡Daily Dose of Dark Web Informer - December 29th, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-december-29th-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-december-29th-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9913,
+            "discovered": "2024-12-29",
+            "post_title": "🚨A Threat Actor is Selling a Malicious tool called Brutter, designed to brute-force attacks on Fortinet VPN systems under Windows",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9912,
+            "discovered": "2024-12-29",
+            "post_title": "🚨🇧🇷Ddarknotevil Claims to have Leaked the Data of DUX Human Health\n\nhttps://darkwebinformer.com/ddarknotevil-claims-to-have-leaked-the-data-of-dux-human-health/?v=1",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/ddarknotevil-claims-to-have-leaked-the-data-of-dux-human-health/?v=1"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -22337,6 +22380,19 @@
             "Message ID": 5631,
             "discovered": "2024-12-28",
             "post_title": "Administrative update:\n\ntl;dr bradley is out, i'm back. reorganizing papers. were collecting cats. no more goofing around.\n\n0. Bradley is out-of-office. He was supposed to man-the-ship. He has experienced a family medical emergency. I am now steering the ship again.\n\n1. Currently the Windows malware paper collection is not organized. We have been dumping them into a giant pool. We have received feedback from users regarding their dissatisfaction with this decision. Hence, we are re-organizing the Windows malware paper collection and introducing new sections to make navigation easier.\n\nNew sections:\n- AMSI\n- Evasion\n- GPU Abuse\n- Hooking\n- Infection\n- Initial Access\n- Internals and Analysis\n- Kernel Mode\n- Keylogging\n- LSASS\n- Networking\n- Persistence\n- Process Injection\n- Shellcode Execution\n- Syscalls\n- System Components and Abuse\n- Windows COM\n\n2. We have begun processing our massive backlog of malware samples. Our current backlog dates back to November, 29th. The current ingestion estimate is 600,000 new malwares.\n\n3. As many have you seen — we have made a pseudo-pseudo-fork of vx-underground. We now have an entire 'side project' dedicated to collecting images of cats. We have received and reviewed your feedback — all images received will be pHashed (perpetually hashed?) to ensure no duplicate photos of cats exist. We have purchased a domain for the side project, we are actively developing something to display and distribute photos of cats. The current cats-related Twitter profiles do not suffice. They fail to categorize them in a structured database and do not actively distribute the cat image data to their userbase. It is disgusting and we hate it.\n\nThis is only partially a joke. But, we're wondering if we can use our nerd-mindset to defeat large cat-centric social media profiles.\n\n4. Beside the stupid idea of collecting cat photos, we are returning to business as usual. All giveaways are done, poop posting will be minimal(ish)(depends on mood), our focus will be shifted back to malware-related material aggregation and being cybercrime TMZ.\n\nThanks,\n- smelly smellington",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5633,
+            "discovered": "2024-12-29",
+            "post_title": "\"why are you guys collecting cats?\"\n\nThe truth is: from discussing, reviewing, reversing, and writing about malware every single day for 6 years, we are deep fried.\n\nIt is either we collect cats, alongside malware, or alternatively we fall into a malware induced psychosis",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
