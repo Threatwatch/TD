@@ -34393,6 +34393,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5194,
+            "discovered": "2024-12-29",
+            "post_title": "ID: 19848\n⚠ 2024-11-08 09:12:57\n🥷 bianlian\n🎯 Marzzacco Niven  AND  Associates, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19848",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19848"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -44746,6 +44761,20 @@
             "URLs": [
                 "https://justpaste.it/h3753"
             ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26947,
+            "discovered": "2024-12-29",
+            "post_title": "⚡️Noname057(16) targeted around ten official websites in Italy on Saturday, including the websites of the Foreign Ministry and Milan’s two airports, putting them out of action temporarily.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Italy",
+                "Milan"
+            ],
+            "URLs": [],
             "Matched Keywords": [
                 "Other"
             ]
