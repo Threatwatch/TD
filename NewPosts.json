@@ -8330,6 +8330,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 803,
+            "discovered": "2024-12-29",
+            "post_title": "https://www.facebook.com/share/p/1BCbMiMnyQ/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.facebook.com/share/p/1BCbMiMnyQ/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -41631,6 +41646,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100107,
+            "discovered": "2024-12-29",
+            "post_title": "Title: If you’ve ever worked within security engineering or as an analyst producing any kind of output in…\n\nDate: December 29, 2024\n\nSource: https://detect.fyi/if-youve-ever-worked-within-security-engineering-or-as-an-analyst-producing-any-kind-of-output-in-746b48cb9c8d?source=rss----d5fd8f494f6a---4\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://detect.fyi/if-youve-ever-worked-within-security-engineering-or-as-an-analyst-producing-any-kind-of-output-in-746b48cb9c8d?source=rss----d5fd8f494f6a---4"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100106,
+            "discovered": "2024-12-29",
+            "post_title": "Victim: deportesapalategui.com Ransom\n\nDetection Date: Sun Dec 29 14:49:59 2024\n\nThreat Actor: funksec\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "deportesapalategui.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -44790,6 +44835,21 @@
                 "Milan"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26948,
+            "discovered": "2024-12-29",
+            "post_title": "#Anonymous #GhostClan #OpDeathEaters #OpPedoHunt #RexMondhi #W1nterstorm\nhttps://justpaste.it/c5j5q",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://justpaste.it/c5j5q"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
