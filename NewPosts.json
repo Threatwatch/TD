@@ -31109,6 +31109,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4129,
+            "discovered": "2024-12-29",
+            "post_title": "Group: ransomhub\nApprox. Time: 20:40 29/12/24\nTitle: https://t.co/xqlYWMQdjY",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/xqlYWMQdjY"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4128,
+            "discovered": "2024-12-29",
+            "post_title": "Group: ransomhub\nApprox. Time: 20:40 29/12/24\nTitle: https://t.co/dxg5kCROvR",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/dxg5kCROvR"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -34838,6 +34868,21 @@
             ],
             "URLs": [
                 "p://www.ransomfeed.it/index.php?page=post_details&id_post=19851"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5198,
+            "discovered": "2024-12-29",
+            "post_title": "ID: 19852\n⚠ 2024-12-29 18:53:50\n🥷 arcusmedia\n🎯 IEC + EMCO, Pakistan\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19852",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Pakistan"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19852"
             ],
             "Matched Keywords": [
                 "Other"
@@ -42281,6 +42326,36 @@
             ],
             "URLs": [
                 "https://wezard4u.tistory.com/429368"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100124,
+            "discovered": "2024-12-29",
+            "post_title": "Victim: www.psccorporation.com\n\nDetection Date: Sun Dec 29 23:44:45 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.psccorporation.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100123,
+            "discovered": "2024-12-29",
+            "post_title": "Victim: asesoriacamen.es\n\nDetection Date: Sun Dec 29 23:44:29 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "asesoriacamen.es"
             ],
             "Matched Keywords": [
                 "Other"
@@ -58621,6 +58696,126 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/dragonforce-ransomware-victim-asheville-eye-associates/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80385,
+            "discovered": "2024-12-29",
+            "post_title": "[ARCUSMEDIA] - Ransomware Victim: Megaexit - https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-megaexit/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-megaexit/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80384,
+            "discovered": "2024-12-29",
+            "post_title": "[ARCUSMEDIA] - Ransomware Victim: Hi-Raise Constructions Holding - https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-hi-raise-constructions-holding/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-hi-raise-constructions-holding/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80383,
+            "discovered": "2024-12-29",
+            "post_title": "[ARCUSMEDIA] - Ransomware Victim: Enge Ilha Construção - https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-enge-ilha-constru-o/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-enge-ilha-constru-o/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80382,
+            "discovered": "2024-12-29",
+            "post_title": "[ARCUSMEDIA] - Ransomware Victim: Wosac - https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-wosac/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-wosac/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80381,
+            "discovered": "2024-12-29",
+            "post_title": "[ARCUSMEDIA] - Ransomware Victim: Meerapfel Family - https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-meerapfel-family/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-meerapfel-family/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80380,
+            "discovered": "2024-12-29",
+            "post_title": "[ARCUSMEDIA] - Ransomware Victim: Engenet Informatica - https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-engenet-informatica/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-engenet-informatica/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80379,
+            "discovered": "2024-12-29",
+            "post_title": "[ARCUSMEDIA] - Ransomware Victim: Innois - https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-innois/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-innois/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80378,
+            "discovered": "2024-12-29",
+            "post_title": "[ARCUSMEDIA] - Ransomware Victim: IEC + EMCO - https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-iec-emco/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-iec-emco/"
             ],
             "Matched Keywords": [
                 "Other"
