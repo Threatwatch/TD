@@ -6133,6 +6133,62 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9900,
+            "discovered": "2024-12-29",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9899,
+            "discovered": "2024-12-29",
+            "post_title": "Dream Market.\n\nOwner: SpeedStepper\n\nFirst image: January 2014\nLast image: July 2015",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9898,
+            "discovered": "2024-12-29",
+            "post_title": "🚨🇨🇳Counter is Allegedly Selling Data of OneTigris\n\nhttps://darkwebinformer.com/counter-is-allegedly-selling-data-of-onetigris/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/counter-is-allegedly-selling-data-of-onetigris/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9897,
+            "discovered": "2024-12-29",
+            "post_title": "🚨🇪🇬A Threat Actor Claims to have Leaked the Data of Gammal Tech\n\nhttps://darkwebinformer.com/a-threat-actor-claims-to-have-leaked-the-data-of-gammal-tech/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-claims-to-have-leaked-the-data-of-gammal-tech/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -8431,6 +8487,22 @@
             ],
             "URLs": [
                 "https://www.ice.co.il/digital-140/news/article/1027448"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 807,
+            "discovered": "2024-12-29",
+            "post_title": "⚠️ SCAM / GAMBLING WEBSITE DROP SECTION ⚠️ \n\n• What is Site Drop Section ❓:\nℹ️ This section special to everyone that want takedown scam or gambling site but they does’t have enough power.\n\n• What We Gonna Do ❓:\nℹ️ After Gambling/Scam site drop in this Section. We will check the link and publish the link into our Main Channel @RipperSecIO\n\n• What The Function ❓:\nℹ️ Every DDoSer and Citizen wil takedown these links and We will attack it until Suspend.\n\nForum Drop Section 📝 :\n🔗 https://t.me/PyRoxyForum/8282",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "does’t",
+                "https://t.me/PyRoxyForum/8282"
+            ],
+            "URLs": [
+                "tps://t.me/PyRoxyForum/8282"
             ],
             "Matched Keywords": [
                 "Other"
@@ -30840,6 +30912,110 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4127,
+            "discovered": "2024-12-29",
+            "post_title": "Group: arcusmedia\nApprox. Time: 16:36 29/12/24\nTitle: Enge Ilha Construção",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4126,
+            "discovered": "2024-12-29",
+            "post_title": "Group: arcusmedia\nApprox. Time: 16:36 29/12/24\nTitle: Hi-Raise Constructions Holding",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4125,
+            "discovered": "2024-12-29",
+            "post_title": "Group: arcusmedia\nApprox. Time: 16:36 29/12/24\nTitle: Megaexit",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4124,
+            "discovered": "2024-12-29",
+            "post_title": "Group: arcusmedia\nApprox. Time: 16:36 29/12/24\nTitle: Wosac",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4123,
+            "discovered": "2024-12-29",
+            "post_title": "Group: arcusmedia\nApprox. Time: 16:36 29/12/24\nTitle: Innois",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4122,
+            "discovered": "2024-12-29",
+            "post_title": "Group: arcusmedia\nApprox. Time: 16:36 29/12/24\nTitle: Meerapfel Family",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4121,
+            "discovered": "2024-12-29",
+            "post_title": "Group: arcusmedia\nApprox. Time: 16:36 29/12/24\nTitle: IEC + EMCO",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4120,
+            "discovered": "2024-12-29",
+            "post_title": "Group: arcusmedia\nApprox. Time: 16:35 29/12/24\nTitle: Engenet Informatica",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -41808,6 +41984,110 @@
             "URLs": [
                 "http://wezard4u.tistory.com/429367"
             ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100118,
+            "discovered": "2024-12-29",
+            "post_title": "Victim: Engenet Informatica\n\nDetection Date: Sun Dec 29 19:51:27 2024\n\nThreat Actor: arcus media\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100117,
+            "discovered": "2024-12-29",
+            "post_title": "Victim: IEC + EMCO\n\nDetection Date: Sun Dec 29 19:51:15 2024\n\nThreat Actor: arcus media\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100116,
+            "discovered": "2024-12-29",
+            "post_title": "Victim: Meerapfel Family\n\nDetection Date: Sun Dec 29 19:51:02 2024\n\nThreat Actor: arcus media\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100115,
+            "discovered": "2024-12-29",
+            "post_title": "Victim: Innois\n\nDetection Date: Sun Dec 29 19:50:50 2024\n\nThreat Actor: arcus media\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100114,
+            "discovered": "2024-12-29",
+            "post_title": "Victim: Wosac\n\nDetection Date: Sun Dec 29 19:50:37 2024\n\nThreat Actor: arcus media\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100113,
+            "discovered": "2024-12-29",
+            "post_title": "Victim: Megaexit\n\nDetection Date: Sun Dec 29 19:50:25 2024\n\nThreat Actor: arcus media\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100112,
+            "discovered": "2024-12-29",
+            "post_title": "Victim: Hi-Raise Constructions Holding\n\nDetection Date: Sun Dec 29 19:50:12 2024\n\nThreat Actor: arcus media\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100111,
+            "discovered": "2024-12-29",
+            "post_title": "Victim: Enge Ilha Construção\n\nDetection Date: Sun Dec 29 19:49:59 2024\n\nThreat Actor: arcus media\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
             "Matched Keywords": [
                 "Other"
             ]
@@ -62959,6 +63239,21 @@
             "URLs": [
                 "https://darkforums.st/Thread-Source-Code-1-4-MILLION-PHPMYADMIN-DATABASE-UPGRADE-COMPANY-INFOTECH-INDIA",
                 "https://gofile.io/d/MggB7L"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3627,
+            "discovered": "2024-12-29",
+            "post_title": "FidzXploit is Back!\n\nToday I FidzXploit Declare officially becoming part of the IndoHaxSec Team\n\nDEFACED:\n\nhttps://videocare.co.in\n\n\n#INDOHAXSEC",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://videocare.co.in"
             ],
             "Matched Keywords": [
                 "Other"
