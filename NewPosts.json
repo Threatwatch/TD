@@ -6295,6 +6295,32 @@
             "Matched Keywords": [
                 "Css"
             ]
+        },
+        {
+            "Message ID": 9910,
+            "discovered": "2024-12-29",
+            "post_title": "Ok last update for today.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9909,
+            "discovered": "2024-12-29",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -58844,6 +58870,36 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/arcusmedia-ransomware-victim-iec-emco/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80387,
+            "discovered": "2024-12-29",
+            "post_title": "[RANSOMHUB] - Ransomware Victim: www[.]psccorporation[.]com - https://www.redpacketsecurity.com/ransomhub-ransomware-victim-www-psccorporation-com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/ransomhub-ransomware-victim-www-psccorporation-com/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80386,
+            "discovered": "2024-12-29",
+            "post_title": "[RANSOMHUB] - Ransomware Victim: asesoriacamen[.]es - https://www.redpacketsecurity.com/ransomhub-ransomware-victim-asesoriacamen-es/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/ransomhub-ransomware-victim-asesoriacamen-es/"
             ],
             "Matched Keywords": [
                 "Other"
