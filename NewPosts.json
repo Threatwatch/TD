@@ -5990,6 +5990,62 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9890,
+            "discovered": "2024-12-29",
+            "post_title": "💡Another unverified IP belonging to BianLian Ransomware.\n\n184[.94[.215[.147:8080",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9889,
+            "discovered": "2024-12-29",
+            "post_title": ".",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9888,
+            "discovered": "2024-12-29",
+            "post_title": "💡No Daily Dose article for the 28th. You can find all the latest posts on the website: darkwebinformer.com/latest. Paid subscribers can find all of the alerts on the Threat Feeds.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkwebinformer.com/latest."
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9887,
+            "discovered": "2024-12-29",
+            "post_title": "💡The real life of Jimmy \"Bitcoin Bandit\" Zhong and his patient 50,000 bitcoin heist\n\nCredit: KiraTV YT; Original Video: youtube.com/watch?v=A0NqN1Ogwnk\nVideo Date: September 2024\n\nMy Rating: 9/10",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "outube.com/watch?v=A0NqN1Ogwnk\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -41413,6 +41469,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100104,
+            "discovered": "2024-12-29",
+            "post_title": "Title: DemonForums - 10 000 000 log pass link\n\nDetection Date: Sun Dec 29 04:17:24 2024\n\nSource: demonforums\n\nURL: https://demonforums.net/Thread-10-000-000-log-pass-link\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://demonforums.net/Thread-10-000-000-log-pass-link"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -56940,6 +57011,458 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/funksec-ransomware-victim-update-onion-address/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80357,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Releases Six Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-six-industrial-control-systems-advisories-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-six-industrial-control-systems-advisories-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80356,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA and Partners Release Joint Guidance on PRC-Affiliated Threat Actor Compromising Networks of Global Telecommunications Providers - https://www.redpacketsecurity.com/cisa-cisa-and-partners-release-joint-guidance-on-prc-affiliated-threat-actor-compromising-networks-of-global-telecommunications-providers-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA",
+                "PRC"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-and-partners-release-joint-guidance-on-prc-affiliated-threat-actor-compromising-networks-of-global-telecommunications-providers-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80355,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Releases Eight Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-29-12-2024-2/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-29-12-2024-2/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80354,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Adds Three Known Exploited Vulnerabilities to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-three-known-exploited-vulnerabilities-to-catalog-29-12-2024/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-three-known-exploited-vulnerabilities-to-catalog-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80353,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-29-12-2024-6/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-29-12-2024-6/"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-29-12-2024-6/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80352,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Releases New Public Version of CDM Data Model Document - https://www.redpacketsecurity.com/cisa-cisa-releases-new-public-version-of-cdm-data-model-document-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-new-public-version-of-cdm-data-model-document-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80351,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Releases Two Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-two-industrial-control-systems-advisories-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-two-industrial-control-systems-advisories-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80350,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: Ivanti Releases Security Updates for Multiple Products - https://www.redpacketsecurity.com/cisa-ivanti-releases-security-updates-for-multiple-products-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-ivanti-releases-security-updates-for-multiple-products-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80349,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: ASD’s ACSC, CISA, and US and International Partners Release Guidance on Choosing Secure and Verifiable Technologies - https://www.redpacketsecurity.com/cisa-asd-s-acsc-cisa-and-us-and-international-partners-release-guidance-on-choosing-secure-and-verifiable-technologies-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA",
+                "US"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-asd-s-acsc-cisa-and-us-and-international-partners-release-guidance-on-choosing-secure-and-verifiable-technologies-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80348,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: Cisco Releases Security Updates for NX-OS Software - https://www.redpacketsecurity.com/cisa-cisco-releases-security-updates-for-nx-os-software-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisco-releases-security-updates-for-nx-os-software-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80347,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: Adobe Releases Security Updates for Multiple Products - https://www.redpacketsecurity.com/cisa-adobe-releases-security-updates-for-multiple-products-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-adobe-releases-security-updates-for-multiple-products-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80346,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-29-12-2024-5/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-29-12-2024-5/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80345,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: Apple Releases Security Updates for Multiple Products - https://www.redpacketsecurity.com/cisa-apple-releases-security-updates-for-multiple-products-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-apple-releases-security-updates-for-multiple-products-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80344,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: Microsoft Releases December 2024 Security Updates - https://www.redpacketsecurity.com/cisa-microsoft-releases-december-2024-security-updates-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-microsoft-releases-december-2024-security-updates-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80343,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Releases Seven Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-seven-industrial-control-systems-advisories-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-seven-industrial-control-systems-advisories-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80342,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-29-12-2024-4/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-29-12-2024-4/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80341,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA and EPA Release Joint Fact Sheet Detailing Risks Internet-Exposed HMIs Pose to WWS Sector - https://www.redpacketsecurity.com/cisa-cisa-and-epa-release-joint-fact-sheet-detailing-risks-internet-exposed-hmis-pose-to-wws-sector-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-and-epa-release-joint-fact-sheet-detailing-risks-internet-exposed-hmis-pose-to-wws-sector-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80340,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Adds Two Known Exploited Vulnerabilities to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-two-known-exploited-vulnerabilities-to-catalog-29-12-2024/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-two-known-exploited-vulnerabilities-to-catalog-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80339,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Requests Public Comment for Draft National Cyber Incident Response Plan Update - https://www.redpacketsecurity.com/cisa-cisa-requests-public-comment-for-draft-national-cyber-incident-response-plan-update-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-requests-public-comment-for-draft-national-cyber-incident-response-plan-update-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80338,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Releases Ten Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-ten-industrial-control-systems-advisories-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-ten-industrial-control-systems-advisories-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80337,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA and ONCD Release Playbook for Strengthening Cybersecurity in Federal Grant Programs for Critical Infrastructure - https://www.redpacketsecurity.com/cisa-cisa-and-oncd-release-playbook-for-strengthening-cybersecurity-in-federal-grant-programs-for-critical-infrastructure-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-and-oncd-release-playbook-for-strengthening-cybersecurity-in-federal-grant-programs-for-critical-infrastructure-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80336,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-29-12-2024-3/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-29-12-2024-3/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80335,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Issues BOD 25-01, Implementing Secure Practices for Cloud Services - https://www.redpacketsecurity.com/cisa-cisa-issues-bod-25-01-implementing-secure-practices-for-cloud-services-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-issues-bod-25-01-implementing-secure-practices-for-cloud-services-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80334,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Releases Five Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-five-industrial-control-systems-advisories-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-five-industrial-control-systems-advisories-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80333,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Adds Four Known Exploited Vulnerabilities to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-four-known-exploited-vulnerabilities-to-catalog-29-12-2024/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-four-known-exploited-vulnerabilities-to-catalog-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80332,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: Fortinet Releases Security Updates for FortiManager - https://www.redpacketsecurity.com/cisa-fortinet-releases-security-updates-for-fortimanager-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-fortinet-releases-security-updates-for-fortimanager-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80331,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Releases Best Practice Guidance for Mobile Communications - https://www.redpacketsecurity.com/cisa-cisa-releases-best-practice-guidance-for-mobile-communications-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-best-practice-guidance-for-mobile-communications-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80330,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-29-12-2024-2/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-29-12-2024-2/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80329,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Releases Eight Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-29-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-29-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80328,
+            "discovered": "2024-12-29",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-29-12-2024/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-29-12-2024/"
             ],
             "Matched Keywords": [
                 "Other"
