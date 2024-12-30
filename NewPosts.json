@@ -6467,6 +6467,51 @@
             "Matched Keywords": [
                 "manufacturing"
             ]
+        },
+        {
+            "Message ID": 9924,
+            "discovered": "2024-12-30",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9923,
+            "discovered": "2024-12-30",
+            "post_title": "💡Questions I've been asked regarding making all the Onions on the platform public. Excuse any spelling/grammar issues. This is a little long, sorry.\n\n1. Will there be a p*rnographic category?\nA. No. If you want p*rn, there is plenty of free content available on the Clearnet.\n\n2. Will there be a doxxing category?\nA. No. Everyone knows where to go for that.\n\n3. How do you control linking to possible CSAM?\nA. This primarily applies to onion search engines or onion indexes. When you see this category, it doesn’t have many links. I routinely review these links for such content.\n\n4. Will there be a way to report possible links to CSAM or other prohibited content? What about submitting new links?\nA. Yes, there will be a way to submit proof without providing any personal identity, like an email, to me. If a reported link is down at the time of review, it will be declined. If you want to submit a new link, there will be a simple process for doing so. All links are manually verified.\n\n5. What is considered \"banned\" from your website?\nA. The following are prohibited: b*stiality, CSAM, g*re, p*rn, r*pe, red rooms (they’re all fake), scam sites, t*rture, weapon-buying onion sites, and things like any of these.\n\n6. How many links are on the platform?\nA. There are 413 links as of this post. Of these, 261 are onion links, while the rest are Clearnet links. These are categorized in the subscribers' area, where you can view a page with all categories, just not the content if you arent a current paid subscriber (https://darkwebinformer.com/tag/subscribers/).\n\n7. Why are you changing from paid access to free access for these links?\nA. Many people get scammed daily by websites that appear professional, but carry phishing links. The platform receives significant traffic, so making legitimate links freely available helps protect users. Also, most of the traffic on this platform from paid subscribers comes from  the blog posts that are made daily and not the subscribers area that contains the Onions. I've reviewed the traffic to confirm this.\n\n8. Will there be ads like I see on other sites?\nA. No. The only ad you’ll see is from legitimate companies, like WhiteIntel, that have paid for a spot on the platform. If I openly accepted ads for markets or similar content, it would attract unwanted attention from law enforcement. If you are a registered company and want your ad displayed, feel free to reach out.\n\n9. Will there be any referral links?\nA. No. Links will be placed within a stylized card with no referral links. You can hover over the link or copy and paste it elsewhere for verification. See the 1st screenshot for an early example.\n\n10. How do you check for new links or updates, specifically for onions?\nA. I have multiple methods for tracking updates, including monitoring ransomware groups, newly discovered links, Darknet Market updates, and new markets. Among other things.\n\n11. How does the status page work?\nA. The status page displays the status of every link being tracked on the platform. The status bar shows the last hour's activity, and the uptime percentage reflects the past 24 hours. Updates occur every 5 minutes and there is no need to refresh the page. There are roughly 800-1,100 alerts daily based on Telegram notifications. If you want access to this Telegram channel, I will make it public, but keep in mind that updates happen in real-time and you will get many alerts if notifications are not muted. You will not receive notifications on the status page when something is up or down. See the 2nd screenshot as an example to the status page.\n\n12. How can I help?\nA. You can donate or subscribe to the platform. This is a full-time job, and despite what many may think, it’s my source of income.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/tag/subscribers/)"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9922,
+            "discovered": "2024-12-30",
+            "post_title": "The Dark History of Doxbin\n\nCredit: youtube.com/@ironic\nVideo Date: November 2023\n\nMy Video Rating: 8/10\n\nVideo Mention: \"So, you want to be a darknet drug lord...\" https://gist.github.com/WonderSwan/72deb6c85de2be8e4922\n\nThe History of Doxbin: https://doxbin.com/history",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "youtube.com/@ironic",
+                "https://gist.github.com/WonderSwan/72deb6c85de2be8e4922",
+                "https://doxbin.com/history"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -43424,6 +43469,21 @@
             ],
             "URLs": [
                 "https://news.sophos.com/en-us/2024/12/30/prioritizing-patching-a-deep-dive-into-frameworks-and-tools-part-2-alternative-frameworks/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100151,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Gnc 멀티비타민 앤 미네랄(60일분)+밀크씨슬 원데일리(30일분) 선물세트 90정 1개 간단 리뷰\n\nDate: December 30, 2024\n\nSource: https://wezard4u.tistory.com/429369\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://wezard4u.tistory.com/429369"
             ],
             "Matched Keywords": [
                 "Other"
