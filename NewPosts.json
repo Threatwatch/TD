@@ -24136,6 +24136,19 @@
             "Matched Keywords": [
                 "energy"
             ]
+        },
+        {
+            "Message ID": 4520,
+            "discovered": "2024-12-30",
+            "post_title": "🚨 New Event Detected!\n\nCategory: Cyber Threat Intelligence\nName: Iranian Hacking Group Handala Claims Breach of Allen Carrs Easyway in Supply Chain Attack\nTag: Data Breach",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Supply"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Electronic Tigers Unit": [
@@ -42813,6 +42826,50 @@
             ],
             "URLs": [
                 "https://sinister.ly/Thread-%E2%9A%9C%EF%B8%8F-UPGRADE-YOUR-SPOTYFI-ACCOUNT-100-PRIVATE-UPGRADE-LIFETIME-33-99-%E2%9A%9C%EF%B8%8F"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100132,
+            "discovered": "2024-12-30",
+            "post_title": "Victim: dprinvestments.com\n\nDetection Date: Mon Dec 30 10:50:25 2024\n\nThreat Actor: safepay\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "dprinvestments.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100131,
+            "discovered": "2024-12-30",
+            "post_title": "Victim: Allen Carr’s Easyway Hacked\n\nDetection Date: Mon Dec 30 10:50:11 2024\n\nThreat Actor: handala\n\n#Ransomware",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100130,
+            "discovered": "2024-12-30",
+            "post_title": "Vulnerability ID: CVE-2024-21182\n\nDescription: Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core).  Supported versions that are affected are 12.2.1.4.0 and  14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-21182\n\nDate of Publishing: 2024/12/29\n\nLink to Exploit: https://github.com/k4it0k1d/CVE-2024-21182\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21182",
+                "https://github.com/k4it0k1d/CVE-2024-21182"
             ],
             "Matched Keywords": [
                 "Other"
