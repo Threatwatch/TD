@@ -6637,6 +6637,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9934,
+            "discovered": "2024-12-30",
+            "post_title": "Last update on this for today. Added a clearnet icon and a hacking icon (skull and crossbones)",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -8966,6 +8979,36 @@
             ],
             "URLs": [
                 "https://socradar.io/exploring-telegram-ddos-groups-threats-tools/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 811,
+            "discovered": "2024-12-30",
+            "post_title": "https://x.com/DarkWebInformer/status/1873394244167307327?t=HMBi6amMKhUoAQc2PoZfaA&s=35",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1873394244167307327?t=HMBi6amMKhUoAQc2PoZfaA&s=35"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 810,
+            "discovered": "2024-12-30",
+            "post_title": "https://x.com/FalconFeedsio/status/1873249636062044311?t=EMXxFsBN3UstW4slWFlEuA&s=35",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/FalconFeedsio/status/1873249636062044311?t=EMXxFsBN3UstW4slWFlEuA&s=35"
             ],
             "Matched Keywords": [
                 "Other"
@@ -44585,6 +44628,21 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/us-treasury-department-breached-through-remote-support-platform/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100206,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Chinese-sponsored hackers accessed Treasury documents in ‘major incident’\n\nDate: December 30, 2024\n\nSource: https://www.nextgov.com/cybersecurity/2024/12/chinese-sponsored-hackers-accessed-treasury-documents-major-incident/401899/\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://www.nextgov.com/cybersecurity/2024/12/chinese-sponsored-hackers-accessed-treasury-documents-major-incident/401899/"
             ],
             "Matched Keywords": [
                 "Other"
