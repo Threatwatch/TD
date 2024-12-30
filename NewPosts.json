@@ -14119,6 +14119,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1592,
+            "discovered": "2024-12-30",
+            "post_title": "🚨Cyberattack Alert ‼️\n\n🇿🇦South Africa - Cell C\n\nRansomHouse ransomware group claims to have breached Cell C. \n\nAllegedly, 2 TB of data were exfiltrated.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "South Africa"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -42870,6 +42883,36 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-21182",
                 "https://github.com/k4it0k1d/CVE-2024-21182"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100134,
+            "discovered": "2024-12-30",
+            "post_title": "Title: A Look at CISA Known Exploited Vulnerabilities in 2024\n\nDate: December 30, 2024\n\nSource: https://cyble.com/blog/cisa-known-exploited-vulnerabilities-catalog-update/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyble.com/blog/cisa-known-exploited-vulnerabilities-catalog-update/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100133,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Malware and cryptography 38 - Encrypt/decrypt payload via Camellia cipher. S-box analyses examples. Simple C example\n\nDate: December 30, 2024\n\nSource: https://cocomelonc.github.io/malware/2024/12/29/malware-cryptography-38.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Camellia"
+            ],
+            "URLs": [
+                "https://cocomelonc.github.io/malware/2024/12/29/malware-cryptography-38.html"
             ],
             "Matched Keywords": [
                 "Other"
