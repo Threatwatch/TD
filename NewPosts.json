@@ -22414,6 +22414,32 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5635,
+            "discovered": "2024-12-30",
+            "post_title": "We've updated the malware family collection.\n\nUpdates:\n- Xworm\n- AkiraRansomware\n- Android.AndroRAT\n- Android.Joker\n- Azorult\n- BruteRatel\n- BumbleBeeLoader\n- CrytoxRansomware\n- Prometei\n- PureStealer\n- Rekoobe\n- Remcos\n- RhadamanthysLoader\n- StampadoRansomware\n- StealC\n- SunSpinner\n- DarkComet\n- DCRat\n- Emotet\n- Furtim\n- GhostPulse\n- LummaStealer\n- MacOS.Keydnap\n- Mirai\n- Multigrain\n- Orcus\n- PetyaRansomware\n- PLAYRansomware\n- PoisonIvy",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Orcus"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5634,
+            "discovered": "2024-12-30",
+            "post_title": "Good morning, afternoon, or evening,\n\nWe have completed our re-organization of the Windows malware papers (per the request of many). We have introduced more precise sections. \n\nIn the future these sections may expand or contract — papers may move. ¯\\_(ツ)_/¯",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "DARKFEED": [
@@ -45806,6 +45832,45 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26953,
+            "discovered": "2024-12-30",
+            "post_title": "⚡️600,000+ users impacted! A widespread campaign compromised 16+ extensions, including tools for AI and VPNs, using phishing and malicious code injection. \n\n#CyberBulletin",
+            "Attack Type": "Phishing",
+            "Location": [
+                "AI"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26952,
+            "discovered": "2024-12-30",
+            "post_title": "⚡️2012 Email to Clinton: al-Qaeda Is on Our Side in Syria.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Syria"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26951,
+            "discovered": "2024-12-30",
+            "post_title": "⚡️2012 Email to Clinton: al-Qaeda Is on Our Side in Syria.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Syria"
             ],
             "URLs": [],
             "Matched Keywords": [
