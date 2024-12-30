@@ -64620,6 +64620,35 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 3632,
+            "discovered": "2024-12-30",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3631,
+            "discovered": "2024-12-30",
+            "post_title": "Hello good afternoon friends , SLX_94 Here !\n\nhttps://www.cyberguruworld.com\n\nhttps://www.cyberguru.services\n\n\n#INDOHAXSEC_TEAM",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.cyberguruworld.com",
+                "https://www.cyberguru.services"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ]
 }
