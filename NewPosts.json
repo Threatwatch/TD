@@ -6564,6 +6564,53 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9931,
+            "discovered": "2024-12-30",
+            "post_title": "🚨🇰🇷EnergyWeaponUser and IntelBroker Claimed to have Leaked Data of IBookPark\n\nhttps://darkwebinformer.com/energyweaponuser-and-intelbroker-claimed-to-have-leaked-data-of-ibookpark/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/energyweaponuser-and-intelbroker-claimed-to-have-leaked-data-of-ibookpark/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9930,
+            "discovered": "2024-12-30",
+            "post_title": "💡Changelog updated! All updates: https://darkwebinformer.com/changelog\n\n🌟 Version 3.51 - December 30th, 2024\n\n🎉 New Features:\n\n* \n\n⚙️ Improvements:\n\n* Added 3 Sites to Everything else with a total of 6 links today only\n* Added 1 Vendor to Vendor Shops\n* Removed 1 Darknet Market URL no longer in use\n* Added a Security Category in Subscribers\n* Added 1 link/onion in Security, more being added.\n\n🐛 Bug Fixes:\n\n* No longer looking into due to CSS changes. Mobile: The tables in the different subscribers area does not move fully to the left, only to the right. The CSS is being redone in all catefories in the subscribers area.\n\n🐛 Open Bugs:\n\n* Mobile: Threat Feeds only look proper when changing to desktop site.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Changelog",
+                "https://darkwebinformer.com/changelog",
+                "Security"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog\n"
+            ],
+            "Matched Keywords": [
+                "Css"
+            ]
+        },
+        {
+            "Message ID": 9929,
+            "discovered": "2024-12-30",
+            "post_title": "💡Dark Forest - Offers a reliable chat experience for users accessing Tor without requiring JavaScript\n\nhttp://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid[.]onion/\n\nOpen Source: https://github.com/meetkool/dkforest",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://github.com/meetkool/dkforest"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -35742,6 +35789,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5215,
+            "discovered": "2024-12-30",
+            "post_title": "ID: 19870\n⚠ 2024-12-30 18:52:20\n🥷 play\n🎯 Bettisworth North, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19870",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19870"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -44374,6 +44436,54 @@
             ],
             "URLs": [
                 "https://www.malwarebytes.com/blog/podcast/2024/12/is-nowhere-safe-from-ai-slop-lock-and-code-s05e27"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100203,
+            "discovered": "2024-12-30",
+            "post_title": "Target: http://dop.maf.gov.la/heked.php\n\nNotified: Ramil Feyziyev\n\nDate: Mon, 30 Dec 2024 21:01:37 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312749\n\n#Defacements #Laos",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://dop.maf.gov.la/heked.php",
+                "http://www.zone-h.org/mirror/id/41312749"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100202,
+            "discovered": "2024-12-30",
+            "post_title": "Target: http://mis-maf.gov.la/heked.php\n\nNotified: Ramil Feyziyev\n\nDate: Mon, 30 Dec 2024 21:01:46 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312755\n\n#Defacements #Laos",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://mis-maf.gov.la/heked.php",
+                "http://www.zone-h.org/mirror/id/41312755"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100201,
+            "discovered": "2024-12-30",
+            "post_title": "Target: https://pdfbanke.gov.np/ynr.php\n\nNotified: ynR !\n\nDate: Mon, 30 Dec 2024 20:50:18 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312741\n\n#Defacements #Nepal",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://pdfbanke.gov.np/ynr.php",
+                "http://www.zone-h.org/mirror/id/41312741"
             ],
             "Matched Keywords": [
                 "Other"
