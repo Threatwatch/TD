@@ -6551,6 +6551,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9928,
+            "discovered": "2024-12-30",
+            "post_title": "Only 6% of you are right so far.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -44347,6 +44360,21 @@
                 "N/A"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100200,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Is nowhere safe from AI slop? (Lock and Code S05E27)\n\nDate: December 30, 2024\n\nSource: https://www.malwarebytes.com/blog/podcast/2024/12/is-nowhere-safe-from-ai-slop-lock-and-code-s05e27\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "AI"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/podcast/2024/12/is-nowhere-safe-from-ai-slop-lock-and-code-s05e27"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
