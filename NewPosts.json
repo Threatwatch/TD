@@ -14132,6 +14132,45 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1595,
+            "discovered": "2024-12-30",
+            "post_title": "🚨Cisco Confirms Authenticity of Data After Second Leak\nhttps://www.securityweek.com/cisco-confirms-authenticity-of-data-after-second-leak/\n\nCisco admitted the data came from a public-facing DevHub instance, not its core systems. While much of the data was publicly available, some files were not meant to be exposed.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Cisco"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1594,
+            "discovered": "2024-12-30",
+            "post_title": "🚨Cyberattack Alert ‼️\n\n🇻🇪Venezuela - Laboratorios Vargas\n\nRansomEXX ransomware group claims to have breached Laboratorios Vargas. \n\nAllegedly, 37.6 GB of data were exfiltrated and leaked.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "🇻"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1593,
+            "discovered": "2024-12-30",
+            "post_title": "🚨Ransomware Alert ‼️\n\n🇯🇵Japan - Zippo\n\nZippo-Japan’s official online shop and repair services were targeted by a cyberattack, resulting in ransomware encryption of their servers. \n\nAs a result, the affected systems, including the online shop and repair services, became unusable, causing significant inconvenience to customers. \n\nAt present, the company is unable to receive emails due to the attack.\n\nSource:\nhttps://www.zippo-japan.com/pdf/Zippo.pdf",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Japan"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -43038,6 +43077,51 @@
             ],
             "URLs": [
                 "https://research.checkpoint.com/2024/30th-december-threat-intelligence-report/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100143,
+            "discovered": "2024-12-30",
+            "post_title": "Title: “Vishing,” “Quishing,” and AI Scams: The New Cybercrime Techniques You Need to Know About\n\nDate: December 30, 2024\n\nSource: https://www.pandasecurity.com/en/mediacenter/vishing-quishing-ai-scams-new-cybercrime-techniques/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.pandasecurity.com/en/mediacenter/vishing-quishing-ai-scams-new-cybercrime-techniques/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100142,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Vulnerability in Infinix Mobile Weather application\n\nDate: December 30, 2024\n\nSource: https://cert.pl/en/posts/2024/12/CVE-2024-12993/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cert.pl/en/posts/2024/12/CVE-2024-12993/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100141,
+            "discovered": "2024-12-30",
+            "post_title": "Title: 7-Zip Zero-Day Exploit Released by Hacker: A New Playground for Infostealer & Supply Chain Attacks\n\nDate: December 30, 2024\n\nSource: https://www.infostealers.com/article/7-zip-zero-day-exploit-released-by-hacker-a-new-playground-for-infostealer-supply-chain-attacks/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.infostealers.com/article/7-zip-zero-day-exploit-released-by-hacker-a-new-playground-for-infostealer-supply-chain-attacks/"
             ],
             "Matched Keywords": [
                 "Other"
