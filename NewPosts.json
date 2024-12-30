@@ -6512,6 +6512,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9925,
+            "discovered": "2024-12-30",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -43484,6 +43497,198 @@
             ],
             "URLs": [
                 "https://wezard4u.tistory.com/429369"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100164,
+            "discovered": "2024-12-30",
+            "post_title": "Victim: Zeifmans\n\nDetection Date: Mon Dec 30 20:52:30 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100163,
+            "discovered": "2024-12-30",
+            "post_title": "Victim: McCray Lumber\n\nDetection Date: Mon Dec 30 20:52:08 2024\n\nThreat Actor: play\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100162,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Sinisterly - ✅$50 LIFETIME | KRAKEN REAL-TIME PHISHING PANEL | HACK BɅNKS, CRYPTOS, SOCIAL MEDIA ✅\n\nDetection Date: Mon Dec 30 20:41:13 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-%E2%9C%85-50-LIFETIME-KRAKEN-REAL-TIME-PHISHING-PANEL-HACK-B%C9%85NKS-CRYPTOS-SOCIAL-MEDIA-%E2%9C%85\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-%E2%9C%85-50-LIFETIME-KRAKEN-REAL-TIME-PHISHING-PANEL-HACK-B%C9%85NKS-CRYPTOS-SOCIAL-MEDIA-%E2%9C%85"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100161,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Major cyber news drops under the buzzer for 2024\n\nDate: December 30, 2024\n\nSource: https://www.nextgov.com/cybersecurity/2024/12/major-cyber-news-drops-under-buzzer-2024/401889/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.nextgov.com/cybersecurity/2024/12/major-cyber-news-drops-under-buzzer-2024/401889/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100160,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Thousands of vulnerable Four-Faith routers threatened by ongoing intrusions\n\nDate: December 30, 2024\n\nSource: https://www.scworld.com/brief/thousands-of-vulnerable-four-faith-routers-threatened-by-ongoing-intrusions\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/thousands-of-vulnerable-four-faith-routers-threatened-by-ongoing-intrusions"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100159,
+            "discovered": "2024-12-30",
+            "post_title": "Title: IntelBroker continues leak of stolen Cisco data\n\nDate: December 30, 2024\n\nSource: https://www.scworld.com/brief/intelbroker-continues-leak-of-stolen-cisco-data\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Cisco"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/intelbroker-continues-leak-of-stolen-cisco-data"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100158,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Italian websites subjected to pro-Russian DDoS attack campaign\n\nDate: December 30, 2024\n\nSource: https://www.scworld.com/brief/italian-websites-subjected-to-pro-russian-ddos-attack-campaign\n\n#News #Italy #Russia",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Italy",
+                "Russia"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/italian-websites-subjected-to-pro-russian-ddos-attack-campaign"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100157,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Third-party breach compromises ZAGG customers' credit card info\n\nDate: December 30, 2024\n\nSource: https://www.scworld.com/brief/third-party-breach-compromises-zagg-customers-credit-card-info\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/third-party-breach-compromises-zagg-customers-credit-card-info"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100156,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Almost 800K electric cars' data exposed by Cariad\n\nDate: December 30, 2024\n\nSource: https://www.scworld.com/brief/almost-800k-electric-cars-data-exposed-by-cariad\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/almost-800k-electric-cars-data-exposed-by-cariad"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100155,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Novel malware leveraged in Cloud Atlas attacks\n\nDate: December 30, 2024\n\nSource: https://www.scworld.com/brief/novel-malware-leveraged-in-cloud-atlas-attacks\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/novel-malware-leveraged-in-cloud-atlas-attacks"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100154,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Another US telco breached by Salt Typhoon as AT&T, Verizon acknowledge compromise\n\nDate: December 30, 2024\n\nSource: https://www.scworld.com/brief/another-us-telco-breached-by-salt-typhoon-as-att-verizon-acknowledge-compromise\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/another-us-telco-breached-by-salt-typhoon-as-att-verizon-acknowledge-compromise"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100153,
+            "discovered": "2024-12-30",
+            "post_title": "Title: US prohibits data sales to adversarial nations\n\nDate: December 30, 2024\n\nSource: https://www.scworld.com/brief/us-prohibits-data-sales-to-adversarial-nations\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/us-prohibits-data-sales-to-adversarial-nations"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100152,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Neuberger: Additional cybersecurity rules in HIPAA mulled\n\nDate: December 30, 2024\n\nSource: https://www.scworld.com/brief/neuberger-additional-cybersecurity-rules-in-hipaa-mulled\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/neuberger-additional-cybersecurity-rules-in-hipaa-mulled"
             ],
             "Matched Keywords": [
                 "Other"
