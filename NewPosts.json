@@ -31273,6 +31273,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4130,
+            "discovered": "2024-12-30",
+            "post_title": "Group: handala\nApprox. Time: 06:36 30/12/24\nTitle: Allen Carr’s Easyway Hacked",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -42785,6 +42798,21 @@
             ],
             "URLs": [
                 "https://sinister.ly/Thread-%E2%9A%9C%EF%B8%8F-UPGRADE-YOUR-CANVA-ACCOUNT-100-PRIVATE-UPGRADE-LIFETIME-JUST-9-99-%E2%9A%9C%EF%B8%8F"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100129,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Sinisterly - ⚜️ UPGRADE YOUR SPOTYFI ACCOUNT | 100% PRIVATE UPGRADE | LIFETIME 33.99$⚜️\n\nDetection Date: Mon Dec 30 08:56:16 2024\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-%E2%9A%9C%EF%B8%8F-UPGRADE-YOUR-SPOTYFI-ACCOUNT-100-PRIVATE-UPGRADE-LIFETIME-33-99-%E2%9A%9C%EF%B8%8F\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-%E2%9A%9C%EF%B8%8F-UPGRADE-YOUR-SPOTYFI-ACCOUNT-100-PRIVATE-UPGRADE-LIFETIME-33-99-%E2%9A%9C%EF%B8%8F"
             ],
             "Matched Keywords": [
                 "Other"
@@ -60079,6 +60107,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-13024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80436,
+            "discovered": "2024-12-30",
+            "post_title": "Palo Alto PAN-OS Denial Of Service Vulnerability - https://www.redpacketsecurity.com/palo-alto-pan-os-denial-of-service-vulnerability-30-12-2024/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Palo Alto"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/palo-alto-pan-os-denial-of-service-vulnerability-30-12-2024/"
             ],
             "Matched Keywords": [
                 "Other"
