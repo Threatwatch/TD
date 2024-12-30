@@ -6611,6 +6611,32 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9933,
+            "discovered": "2024-12-30",
+            "post_title": "💡These changes will be made in January once the subscriber links and real time status page are made public.\n\nUpdates to Plus Subscription:\n\n- Telegram Channels: Channels in the subscribers' area will remain exclusive to Plus and Pro subscribers. The section will expand to include a variety of Telegram channels, covering more topics beyond DDoS and Hacktivism.\n\n- DDoS and Defacement Posts: These posts are now included for Plus subscribers. The threat feed for this tier will also feature DDoS and Defacement posts, complete with claim URLs. However, ransomware-related content is exclusive to the Pro subscription.\n\n- Keyword Notifications: When launched (anticipated in January or February), keyword notifications will be available to both Plus and Pro subscribers.\n\n- New types of different feeds are coming\n\nUpdates to Pro Subscription:\n\n- DDoS and Defacement Posts: These posts will continue to be a feature for Pro subscribers.\n- Keyword Notifications: Pro subscribers will also have access to keyword notifications when they are released.\n- Ransomware Feed: Starting in January, an unredacted ransomware feed will be added for Pro subscribers, while the existing feed will remain available.\n\n- New types of different feeds exclusively for Pro tier is coming",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9932,
+            "discovered": "2024-12-30",
+            "post_title": "This is an example of the Telegram channel I mentioned.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -35804,6 +35830,51 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5218,
+            "discovered": "2024-12-30",
+            "post_title": "ID: 19872\n⚠ 2024-12-30 20:53:03\n🥷 play\n🎯 Luxury Yacht Group, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19872",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19872"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5217,
+            "discovered": "2024-12-30",
+            "post_title": "ID: 19874\n⚠ 2024-12-30 18:18:15\n🥷 play\n🎯 McCray Lumber, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19874",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19874"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5216,
+            "discovered": "2024-12-30",
+            "post_title": "ID: 19873\n⚠ 2024-12-30 18:16:15\n🥷 play\n🎯 Zeifmans, Canada\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19873",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Canada"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19873"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -44484,6 +44555,36 @@
             "URLs": [
                 "https://pdfbanke.gov.np/ynr.php",
                 "http://www.zone-h.org/mirror/id/41312741"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100205,
+            "discovered": "2024-12-30",
+            "post_title": "Title: More details emerge about RIBridges data breach; Deloitte tells state threat actors have leaked data\n\nDate: December 30, 2024\n\nSource: https://databreaches.net/2024/12/30/more-details-emerge-about-ribridges-data-breach-deloitte-tells-state-threat-actors-have-leaked-data/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://databreaches.net/2024/12/30/more-details-emerge-about-ribridges-data-breach-deloitte-tells-state-threat-actors-have-leaked-data/"
+            ],
+            "Matched Keywords": [
+                "Deloitte"
+            ]
+        },
+        {
+            "Message ID": 100204,
+            "discovered": "2024-12-30",
+            "post_title": "Title: US Treasury Department breached through remote support platform\n\nDate: December 30, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/us-treasury-department-breached-through-remote-support-platform/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/us-treasury-department-breached-through-remote-support-platform/"
             ],
             "Matched Keywords": [
                 "Other"
