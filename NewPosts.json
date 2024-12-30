@@ -14171,6 +14171,34 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1597,
+            "discovered": "2024-12-30",
+            "post_title": "🚨Cyberattack Alert ‼️\n\n🇯🇵Japan - International Peace Center Hiroshima (国際平和拠点ひろしま)\n\nThe website for International Peace Center Hiroshima has been compromised through unauthorized access, resulting in altered pages. \n\nAs a precautionary measure, the website has been taken offline for recovery work. \n\nUsers are advised not to visit the site and to avoid opening any suspicious emails or clicking on links in such emails.\n\nSource:\nhttps://www.pref.hiroshima.lg.jp/soshiki/232/juyofusei.html",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Japan"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1596,
+            "discovered": "2024-12-30",
+            "post_title": "🚨Data Breach Update:\n\n🇮🇹Italy - InfoCert Confirms Data Breach\n\nInfoCert, a major provider of digital identity services (SPID) in Italy, has confirmed a data breach involving 5.5 million user records, including 1.1 million phone numbers and 2.5 million email addresses. \n\nThe data was found for sale on a deep web forum for $1,500 on December 27, 2024. \n\nInfoCert attributed the breach to an attack on a third-party supplier, not compromising its own systems or user credentials for access to its services.\n\nMore details:\nhttps://www.wired.it/article/infocert-spid-furto-dati/?utm_source=facebook&utm_medium=social&utm_campaign=dhfacebook&utm_content=null",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Italy"
+            ],
+            "URLs": [
+                "ps://www.wired.it/article/infocert-spid-furto-dati/?utm_source=facebook&utm_medium=social&utm_campaign=dhfacebook&utm_content=null"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -35369,6 +35397,22 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5214,
+            "discovered": "2024-12-30",
+            "post_title": "ID: 19868\n⚠ 2024-12-30 08:09:32\n🥷 handala\n🎯 Allen Carr’s Easyway, Israel\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19868",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Easyway",
+                "Israel"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19868"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -43126,6 +43170,51 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100146,
+            "discovered": "2024-12-30",
+            "post_title": "Title: New HIPAA Rules Mandate 72-Hour Data Restoration and Annual Compliance Audits\n\nDate: Dec 30, 2025\n\nSource: https://thehackernews.com/2024/12/new-hipaa-rules-mandate-72-hour-data.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/12/new-hipaa-rules-mandate-72-hour-data.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100145,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Threat Intelligence Snapshot: Week 52, 2024\n\nDate: December 30, 2024\n\nSource: https://quointelligence.eu/2024/12/threat-intelligence-snapshot-week-52-2024/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://quointelligence.eu/2024/12/threat-intelligence-snapshot-week-52-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100144,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Changes in SSL and TLS support in 2024, (Mon, Dec 30th)\n\nDate: December 30, 2024\n\nSource: https://isc.sans.edu/diary/rss/31550\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/diary/rss/31550"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -46391,6 +46480,123 @@
             "discovered": "2024-12-30",
             "post_title": "⚡️15,000+ Four-Faith routers are exposed, with attackers actively exploiting a command injection flaw (CVE-2024-12856).\n\n#CyberBulletin",
             "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26965,
+            "discovered": "2024-12-30",
+            "post_title": "⚡️Linux Kernel Vulnerability CVE-2023-4147: PoC Exploit Published for Privilege Escalation Flaw.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26964,
+            "discovered": "2024-12-30",
+            "post_title": "⚡️CVE-2024-45387: PoC Published for Critical SQL Injection in Apache Traffic Control.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26963,
+            "discovered": "2024-12-30",
+            "post_title": "⚡️Four-Faith Industrial Routers Under Attack: CVE-2024-12856 Exploited in the Wild.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26962,
+            "discovered": "2024-12-30",
+            "post_title": "⚡️CVE-2024-55950: Tabby Terminal Emulator Vulnerability Exposes macOS Users to Privacy and Security Risks.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26961,
+            "discovered": "2024-12-30",
+            "post_title": "⚡️Russia bans crypto mining in multiple regions.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26960,
+            "discovered": "2024-12-30",
+            "post_title": "⚡️Linux Systems at Risk: GStreamer Vulnerabilities Threaten Millions.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26959,
+            "discovered": "2024-12-30",
+            "post_title": "⚡️16 Chrome Extensions Hacked, Exposing Over 600,000 Users to Data Theft.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26958,
+            "discovered": "2024-12-30",
+            "post_title": "⚡️China-linked APT Salt Typhoon breached a ninth U.S. telecommunications firm.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "U.S."
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26957,
+            "discovered": "2024-12-30",
+            "post_title": "⚡️Malware botnets exploit outdated D-Link routers in recent attacks.\n\n#CyberBulletin",
+            "Attack Type": "DDoS Attacks",
             "Location": [
                 "N/A"
             ],
