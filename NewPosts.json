@@ -42647,6 +42647,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100127,
+            "discovered": "2024-12-30",
+            "post_title": "Victim: spiro.k12.ok.us\n\nDetection Date: Mon Dec 30 07:50:09 2024\n\nThreat Actor: safepay\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "spiro.k12.ok.us"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -45871,6 +45886,49 @@
             "Attack Type": "Unknown",
             "Location": [
                 "Syria"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26956,
+            "discovered": "2024-12-30",
+            "post_title": "⚡️Bnei Akiva is the largest religious Zionist youth movement in the world, with over 125,000 members in 42 countries. It was first established in Mandatory Palestine in 1929, advocating the values of Torah and labor.\n\nhttp://bpay.bneiakiva.org.il\nhttps://api.bneiakiva.org.il\nhttps://crm.bneiakiva.org.il\n\nBreached by AnonGhost\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Mandatory Palestine"
+            ],
+            "URLs": [
+                "http://bpay.bneiakiva.org.il",
+                "https://api.bneiakiva.org.il",
+                "https://crm.bneiakiva.org.il"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26955,
+            "discovered": "2024-12-30",
+            "post_title": "⚡️North Korean hackers are targeting job seekers with a deceptive campaign, deploying a new malware called OtterCookie through fake interview tools.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26954,
+            "discovered": "2024-12-30",
+            "post_title": "⚡️15,000+ Four-Faith routers are exposed, with attackers actively exploiting a command injection flaw (CVE-2024-12856).\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": [],
             "Matched Keywords": [
@@ -59729,6 +59787,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/safepay-ransomware-victim-upr-sg/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80425,
+            "discovered": "2024-12-30",
+            "post_title": "Unlocking Firewall Technology for a Safer Online Experience - https://www.redpacketsecurity.com/unlocking-firewall-technology-for-a-safer-online-experience/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/unlocking-firewall-technology-for-a-safer-online-experience/"
             ],
             "Matched Keywords": [
                 "Other"
