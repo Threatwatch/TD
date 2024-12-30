@@ -22770,6 +22770,20 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5638,
+            "discovered": "2024-12-30",
+            "post_title": "Every single time a Threat Actor compromises a large Twitter account they drop the ball.\n\nBest usage we've seen thus far has been \"North Korea is Best Korea\" (a silly message), followed by goofy crypto-drainers.\n\ntl;dr 1 shot, 1 opportunity, doesn't seize the moment, slips",
+            "Attack Type": "Unknown",
+            "Location": [
+                "North Korea",
+                "Best Korea"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "DARKFEED": [
