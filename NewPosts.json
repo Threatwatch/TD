@@ -24184,6 +24184,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4521,
+            "discovered": "2024-12-30",
+            "post_title": "🚨 New Event Detected!\n\nCategory: Cyber Threat Intelligence\nName: Clop Ransomware Group Set to Reveal Full List of Cleo Breach Victims Today\nTag: Ransomware Intelligence",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Electronic Tigers Unit": [
@@ -42980,6 +42993,51 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/atandt-and-verizon-say-networks-secure-after-salt-typhoon-breach/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100140,
+            "discovered": "2024-12-30",
+            "post_title": "Title: When Good Extensions Go Bad: Takeaways from the Campaign Targeting Browser Extensions\n\nDate: Dec 30, 2025\n\nSource: https://thehackernews.com/2024/12/when-good-extensions-go-bad-takeaways.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/12/when-good-extensions-go-bad-takeaways.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100139,
+            "discovered": "2024-12-30",
+            "post_title": "Victim: starkvillesd.com\n\nDetection Date: Mon Dec 30 13:46:37 2024\n\nThreat Actor: safepay\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "starkvillesd.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100138,
+            "discovered": "2024-12-30",
+            "post_title": "Title: 30th December – Threat Intelligence Report\n\nDate: December 30, 2024\n\nSource: https://research.checkpoint.com/2024/30th-december-threat-intelligence-report/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://research.checkpoint.com/2024/30th-december-threat-intelligence-report/"
             ],
             "Matched Keywords": [
                 "Other"
