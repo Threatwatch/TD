@@ -19646,6 +19646,28 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 514,
+            "discovered": "2024-12-30",
+            "post_title": "Итальянские ресурсы под атакой – их политика не останется без ответа😈\n\n❌Министерство инфраструктуры и транспорта Италии \ncheck-host.net/check-report/21db8ff4k730\n\n❌Mинистерство экономического развития (мертв по пингу) \ncheck-host.net/check-report/21db9133k633\n\n❌Организация карабинеров Италии (мертв оп пингу) \ncheck-host.net/check-report/21db9333kd99\n\n❌Intesa Sanpaolo S.p.A. \ncheck-host.net/check-report/21db94b7ka4d\n\n❌Acqua Novara - услуги водоснабжения \ncheck-host.net/check-report/21db9706k59\n\n❌Acque Veronesi, Компания по комплексному управлению водными ресурсами \ncheck-host.net/check-report/21db9862k8f0\n\n#OpItaly\n\nПодпишись➡️NoName057(16)|DDoSia Project |Reserve|Eng version|ReserveDDoSia",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Итальянские",
+                "Италии",
+                "Италии"
+            ],
+            "URLs": [
+                "heck-host.net/check-report/21db8ff4k730\n",
+                "heck-host.net/check-report/21db9133k633\n",
+                "heck-host.net/check-report/21db9333kd99\n",
+                "heck-host.net/check-report/21db94b7ka4d\n",
+                "heck-host.net/check-report/21db9706k59\n",
+                "heck-host.net/check-report/21db9862k8f0\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Alixsec ( English Version)": [
@@ -42913,6 +42935,51 @@
             ],
             "URLs": [
                 "https://cocomelonc.github.io/malware/2024/12/29/malware-cryptography-38.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100137,
+            "discovered": "2024-12-30",
+            "post_title": "Victim: royalinsignia.com\n\nDetection Date: Mon Dec 30 12:51:34 2024\n\nThreat Actor: safepay\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "royalinsignia.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100136,
+            "discovered": "2024-12-30",
+            "post_title": "Title: Attack Surface Management (ASM) in 2025: Key Trends to Watch\n\nDate: December 30, 2024\n\nSource: https://cyble.com/blog/attack-surface-management-in-2025/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyble.com/blog/attack-surface-management-in-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100135,
+            "discovered": "2024-12-30",
+            "post_title": "Title: AT&T and Verizon say networks secure after Salt Typhoon breach\n\nDate: December 30, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/atandt-and-verizon-say-networks-secure-after-salt-typhoon-breach/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Verizon"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/atandt-and-verizon-say-networks-secure-after-salt-typhoon-breach/"
             ],
             "Matched Keywords": [
                 "Other"
