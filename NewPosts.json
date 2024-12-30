@@ -43215,6 +43215,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100147,
+            "discovered": "2024-12-30",
+            "post_title": "Victim: multicoasia.com\n\nDetection Date: Mon Dec 30 16:45:10 2024\n\nThreat Actor: safepay\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "multicoasia.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
