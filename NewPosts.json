@@ -45097,6 +45097,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100219,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Connected contraptions cause conniption for 2024\n\nDate: December 31, 2024\n\nSource: https://www.malwarebytes.com/blog/news/2024/12/connected-contraptions-cause-conniption-for-2024\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/news/2024/12/connected-contraptions-cause-conniption-for-2024"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100218,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Data breaches in 2024: Could it get any worse?\n\nDate: December 31, 2024\n\nSource: https://www.malwarebytes.com/blog/privacy/2024/12/data-breaches-in-2024-could-it-get-any-worse\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/privacy/2024/12/data-breaches-in-2024-could-it-get-any-worse"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -63839,6 +63869,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cisa-fortinet-releases-security-updates-for-fortimanager-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80517,
+            "discovered": "2024-12-31",
+            "post_title": "[DRAGONFORCE] - Ransomware Victim: Cogitis - https://www.redpacketsecurity.com/dragonforce-ransomware-victim-cogitis/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/dragonforce-ransomware-victim-cogitis/"
             ],
             "Matched Keywords": [
                 "Other"
