@@ -6805,6 +6805,51 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9948,
+            "discovered": "2024-12-31",
+            "post_title": "https://www.justice.gov/usao-ndca/pr/russian-hacker-sentenced-over-7-years-prison-hacking-three-bay-area-tech-companies",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.justice.gov/usao-ndca/pr/russian-hacker-sentenced-over-7-years-prison-hacking-three-bay-area-tech-companies"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9947,
+            "discovered": "2024-12-31",
+            "post_title": "💡October 2016: Yevgeniy Nikulin is Arrested with Connection to the 2012 Hacking and Data Theft of LinkedIn, Dropbox and Formspring\n\nOperation Archive has been updated with this video. https://github.com/DarkWebInformer/OperationArchive",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Dropbox"
+            ],
+            "URLs": [
+                "ttps://github.com/DarkWebInformer/OperationArchive"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9946,
+            "discovered": "2024-12-31",
+            "post_title": "💡Scilla: A Comprehensive Information Gathering Tool\n\nhttps://darkwebinformer.com/scilla-a-comprehensive-information-gathering-tool/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/scilla-a-comprehensive-information-gathering-tool/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -23309,6 +23354,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5643,
+            "discovered": "2024-12-31",
+            "post_title": "Happy New Year\n\nIn celebration of the 2025, you will all be given one (1) limited edition kitty cat.\n\nCheers,",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "DARKFEED": [
@@ -36356,6 +36414,22 @@
             "URLs": [
                 "w.metlife.com, ",
                 "p://www.ransomfeed.it/index.php?page=post_details&id_post=19875"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5221,
+            "discovered": "2024-12-31",
+            "post_title": "ID: 19876\n⚠ 2024-12-31 12:51:48\n🥷 dragonforce\n🎯 Cogitis, France\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19876",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Cogitis",
+                "France"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19876"
             ],
             "Matched Keywords": [
                 "Other"
@@ -69357,6 +69431,21 @@
             "URLs": [
                 "https://darkforums.st/Thread-INDIAN-SUBDELIVER-FULL-DATABASE-LEAK",
                 "https://gofile.io/d/z7MkNK"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3635,
+            "discovered": "2024-12-31",
+            "post_title": "THERE IS INFORMATION FROM OUR OBSERVATION TEAM IN THE FIELD\n\nTHAT THERE ARE STUPID PERSONS WHO HAVE TAKEN AND CLONED US, PLEASE BE CAREFUL \n\nPLEASE REMEMBER, THE INDOHAXSEC TEAM ONLY ACCEPT SERVICES THROUGH THE OFFICIAL INDOHAXSEC SERVICE ACCOUNT:\n\n@INDOHAXSEC_SERVICE\nhttps://t.me/INDOHAXSEC_SERVICE\n\n\n#INDOHAXSEC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "US"
+            ],
+            "URLs": [
+                "https://t.me/INDOHAXSEC_SERVICE"
             ],
             "Matched Keywords": [
                 "Other"
