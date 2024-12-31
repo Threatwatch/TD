@@ -44893,6 +44893,37 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100212,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Massive healthcare breaches prompt US cybersecurity rules overhaul\n\nDate: December 31, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/massive-healthcare-breaches-prompt-us-cybersecurity-rules-overhaul/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/massive-healthcare-breaches-prompt-us-cybersecurity-rules-overhaul/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100211,
+            "discovered": "2024-12-31",
+            "post_title": "Vulnerability ID: CVE-2024-54152\n\nDescription: Angular Expressions provides expressions for the Angular.JS web framework as a standalone module. Prior to version 1.4.3, an attacker can write a malicious expression that escapes the sandbox to execute arbitrary code on the system. With a more complex (undisclosed) payload, one can get full access to Arbitrary code execution on the system. The problem has been patched in version 1.4.3 of Angular Expressions. Two possible workarounds are available. One may either disable access to `__proto__` globally or make sure that one uses the function with just one argument.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-54152\n\nDate of Publishing: 2024/12/30\n\nLink to Exploit: https://github.com/math-x-io/CVE-2024-54152-poc\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-54152",
+                "https://github.com/math-x-io/CVE-2024-54152-poc"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -67387,6 +67418,22 @@
             "URLs": [
                 "go.id",
                 "https://sirkuit.bandung.go.id/admin/auth/login"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3634,
+            "discovered": "2024-12-31",
+            "post_title": "INDIAN SUBDELIVER FULL DATABASE LEAK\n\nDARKFORUMS LINK:\nhttps://darkforums.st/Thread-INDIAN-SUBDELIVER-FULL-DATABASE-LEAK\n\nQuote:\nDatabase size:....................Full\nLeak date:................................December 30, 2024\nFormat:.................................sql\nData compromised:.........All phpmyadmin data\nCountry:...............India\nCompany/institution/service:...............SUBDELIVER\nShare files:.............gofile\n\n• DOWNLOAD:\nhttps://gofile.io/d/z7MkNK\n\n\n\n#INDOHAXSEC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkforums.st/Thread-INDIAN-SUBDELIVER-FULL-DATABASE-LEAK",
+                "https://gofile.io/d/z7MkNK"
             ],
             "Matched Keywords": [
                 "Other"
