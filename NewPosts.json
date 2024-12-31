@@ -6667,6 +6667,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9937,
+            "discovered": "2024-12-31",
+            "post_title": "💡 Atos has stated in a security statement that they weren't breached by Space Bears Ransomware.\n\nhttps://atos.net/en/2024/news_2024_12_29/security-statement-2\n\n\"On December 28, 2024, the Space Bears ransomware group claimed to have compromised an Atos database. At this stage, the initial analysis shows no evidence of any compromise or ransomware affecting any Atos/Eviden systems in any country, and no ransom demand has been received to-date.\n\nNevertheless, Atos takes such allegations very seriously. Its cybersecurity team is actively investigating the situation and updates will be provided if there is any change to the information above.\"",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://atos.net/en/2024/news_2024_12_29/security-statement-2\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -44686,6 +44701,21 @@
             ],
             "URLs": [
                 "https://www.nextgov.com/cybersecurity/2024/12/chinese-sponsored-hackers-accessed-treasury-documents-major-incident/401899/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100207,
+            "discovered": "2024-12-31",
+            "post_title": "Title: U.S. Army Soldier Arrested in AT&T, Verizon Extortions\n\nDate: December 31, 2024\n\nSource: https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/"
             ],
             "Matched Keywords": [
                 "Other"
