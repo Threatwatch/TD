@@ -6742,6 +6742,69 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9945,
+            "discovered": "2024-12-31",
+            "post_title": "🚨🇫🇷A Threat Actor Claims to be Selling the Data of an Unidentified Education Platform in France\n\n🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-31 03:11:44\n🚨 Title: Alleged database sale from an unidentified online education platform in France\n🛡 Victim Country: France\n🏭 Victim Industry:\n🏢 Victim Organization:\n🌐 Victim Site:\n📜 Category: Data Leak\n🔗 Claim: Paid subscribers get access to all claim URLs\n🕵️‍♂️ Threat Actor: Angel_Batista\n🌍 Network: openweb\n📝 Description: The threat actor claims to be selling database containing full records from a online education platform in France. The database comprises 54k rows with information such as Full name, Email, Phone, Postal code, Date of birth, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "France",
+                "France",
+                "France",
+                "France"
+            ],
+            "URLs": [
+                "WebInformer.com - C"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9944,
+            "discovered": "2024-12-31",
+            "post_title": "🚨🇺🇦OverFlame Targeted the Website of National Guard of Ukraine\n\nhttps://darkwebinformer.com/overflame-targeted-the-website-of-national-guard-of-ukraine-2/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/overflame-targeted-the-website-of-national-guard-of-ukraine-2/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9943,
+            "discovered": "2024-12-31",
+            "post_title": "🚨🇺🇦DXPLOIT Defaced the Website of IFF Fund\n\nhttps://darkwebinformer.com/dxploit-defaced-the-website-of-iff-fund/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/dxploit-defaced-the-website-of-iff-fund/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9942,
+            "discovered": "2024-12-31",
+            "post_title": "🚨🇮🇳Z-BL4CX-H4T Defaced the Website of World Lotto\n\nhttps://darkwebinformer.com/z-bl4cx-h4t-defaced-the-website-of-world-lotto/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/z-bl4cx-h4t-defaced-the-website-of-world-lotto/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -45387,6 +45450,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100231,
+            "discovered": "2024-12-31",
+            "post_title": "Title: BeyondTrust breach hits US Treasury Department\n\nDate: December 31, 2024\n\nSource: https://www.scworld.com/brief/beyondtrust-breach-hits-us-treasury-department\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/beyondtrust-breach-hits-us-treasury-department"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -64294,6 +64372,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-13043/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80528,
+            "discovered": "2024-12-31",
+            "post_title": "[FUNKSEC] - Ransomware Victim: RaaS Open - https://www.redpacketsecurity.com/funksec-ransomware-victim-raas-open/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-raas-open/"
             ],
             "Matched Keywords": [
                 "Other"
