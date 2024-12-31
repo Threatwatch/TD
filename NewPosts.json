@@ -14646,6 +14646,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1603,
+            "discovered": "2024-12-31",
+            "post_title": "🚨Cyberattack Alert ‼️\n\n🇫🇷France - Cogitis\n\nDragonForce ransomware group claims to have breached Cogitis. \n\nAllegedly, 81.49 GB of data were exfiltrated. \nRansom deadline: 05th Jan 25.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "France"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -62510,6 +62523,456 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/palo-alto-pan-os-denial-of-service-vulnerability-30-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80466,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-13042 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13042/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13042/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80465,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-12752 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12752/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12752/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80464,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-12751 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12751/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12751/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80463,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-12753 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12753/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12753/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80462,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-13051 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13051/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13051/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80461,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-13049 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13049/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13049/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80460,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-13047 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13047/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13047/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80459,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-13048 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13048/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13048/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80458,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-13050 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13050/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13050/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80457,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-13046 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13046/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13046/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80456,
+            "discovered": "2024-12-31",
+            "post_title": "[FUNKSEC] - Ransomware Victim: dcd[.]gov[.]ae - https://www.redpacketsecurity.com/funksec-ransomware-victim-dcd-gov-ae/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-dcd-gov-ae/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80455,
+            "discovered": "2024-12-31",
+            "post_title": "[FUNKSEC] - Ransomware Victim: bitnato[.]one - https://www.redpacketsecurity.com/funksec-ransomware-victim-bitnato-one/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-bitnato-one/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80454,
+            "discovered": "2024-12-31",
+            "post_title": "[HANDALA] - Ransomware Victim: Allen Carr’s Easyway - https://www.redpacketsecurity.com/handala-ransomware-victim-allen-carr-s-easyway/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/handala-ransomware-victim-allen-carr-s-easyway/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80453,
+            "discovered": "2024-12-31",
+            "post_title": "[RANSOMHUB] - Ransomware Victim: www[.]metlife[.]com - https://www.redpacketsecurity.com/ransomhub-ransomware-victim-www-metlife-com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/ransomhub-ransomware-victim-www-metlife-com/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80452,
+            "discovered": "2024-12-31",
+            "post_title": "[FUNKSEC] - Ransomware Victim: equitiesnagain[.]com - https://www.redpacketsecurity.com/funksec-ransomware-victim-equitiesnagain-com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-equitiesnagain-com/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80451,
+            "discovered": "2024-12-31",
+            "post_title": "[FUNKSEC] - Ransomware Victim: apexfootwearltd[.]com - https://www.redpacketsecurity.com/funksec-ransomware-victim-apexfootwearltd-com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-apexfootwearltd-com/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80450,
+            "discovered": "2024-12-31",
+            "post_title": "[FUNKSEC] - Ransomware Victim: moph[.]gov[.]lb - https://www.redpacketsecurity.com/funksec-ransomware-victim-moph-gov-lb/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-moph-gov-lb/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80449,
+            "discovered": "2024-12-31",
+            "post_title": "[FUNKSEC] - Ransomware Victim: mof[.]gov[.]la - https://www.redpacketsecurity.com/funksec-ransomware-victim-mof-gov-la/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-mof-gov-la/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80448,
+            "discovered": "2024-12-31",
+            "post_title": "[PLAY] - Ransomware Victim: McCray Lumber - https://www.redpacketsecurity.com/play-ransomware-victim-mccray-lumber/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/play-ransomware-victim-mccray-lumber/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80447,
+            "discovered": "2024-12-31",
+            "post_title": "[FUNKSEC] - Ransomware Victim: mofaga[.]gov[.]np - https://www.redpacketsecurity.com/funksec-ransomware-victim-mofaga-gov-np/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-mofaga-gov-np/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80446,
+            "discovered": "2024-12-31",
+            "post_title": "[PLAY] - Ransomware Victim: Bettisworth North - https://www.redpacketsecurity.com/play-ransomware-victim-bettisworth-north/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/play-ransomware-victim-bettisworth-north/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80445,
+            "discovered": "2024-12-31",
+            "post_title": "[FUNKSEC] - Ransomware Victim: maim[.]gov[.]my - https://www.redpacketsecurity.com/funksec-ransomware-victim-maim-gov-my/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-maim-gov-my/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80444,
+            "discovered": "2024-12-31",
+            "post_title": "[FUNKSEC] - Ransomware Victim: tsag-agaar[.]gov[.]mn - https://www.redpacketsecurity.com/funksec-ransomware-victim-tsag-agaar-gov-mn/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-tsag-agaar-gov-mn/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80443,
+            "discovered": "2024-12-31",
+            "post_title": "[PLAY] - Ransomware Victim: Zeifmans - https://www.redpacketsecurity.com/play-ransomware-victim-zeifmans/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/play-ransomware-victim-zeifmans/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80442,
+            "discovered": "2024-12-31",
+            "post_title": "[PLAY] - Ransomware Victim: Luxury Yacht Group - https://www.redpacketsecurity.com/play-ransomware-victim-luxury-yacht-group/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/play-ransomware-victim-luxury-yacht-group/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80441,
+            "discovered": "2024-12-31",
+            "post_title": "[CLOAK] - Ransomware Victim: bac***********[.]com[.]au - https://www.redpacketsecurity.com/cloak-ransomware-victim-bac-com-au/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cloak-ransomware-victim-bac-com-au/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80440,
+            "discovered": "2024-12-31",
+            "post_title": "[FUNKSEC] - Ransomware Victim: banksulutgo - https://www.redpacketsecurity.com/funksec-ransomware-victim-banksulutgo/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-banksulutgo/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80439,
+            "discovered": "2024-12-31",
+            "post_title": "[CLOAK] - Ransomware Victim: Town of Ponoka - https://www.redpacketsecurity.com/cloak-ransomware-victim-town-of-ponoka/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cloak-ransomware-victim-town-of-ponoka/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80438,
+            "discovered": "2024-12-31",
+            "post_title": "[CLOAK] - Ransomware Victim: Mai***********[.]de - https://www.redpacketsecurity.com/cloak-ransomware-victim-mai-de/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cloak-ransomware-victim-mai-de/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80437,
+            "discovered": "2024-12-31",
+            "post_title": "[FUNKSEC] - Ransomware Victim: moh[.]gov[.]vn - https://www.redpacketsecurity.com/funksec-ransomware-victim-moh-gov-vn/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-moh-gov-vn/"
             ],
             "Matched Keywords": [
                 "Other"
