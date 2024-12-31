@@ -14659,6 +14659,45 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1606,
+            "discovered": "2024-12-31",
+            "post_title": "🚨🚨‘Major incident’: China-backed hackers breached US Treasury workstations\nhttps://edition.cnn.com/2024/12/30/investing/china-hackers-treasury-workstations/index.html",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1605,
+            "discovered": "2024-12-31",
+            "post_title": "🚨Cyberattack Alert ‼️\n\n🇮🇳India - Thomas Cook India was impacted by a cyberattack that disrupted its IT systems, leading the company to shut down the affected infrastructure. \n\nThe disruption affected operations, but further details on the scope of the attack have not yet been disclosed.\n\nhttps://www.business-standard.com/companies/news/thomas-cook-shut-down-cyber-attack-it-infrastructure-bse-124123100576_1.html",
+            "Attack Type": "Unknown",
+            "Location": [
+                "India"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1604,
+            "discovered": "2024-12-31",
+            "post_title": "🚨DDoS Alert ‼️\n\n🇯🇵Japan - Mizuho Bank and Resona Bank may have been targeted by distributed denial of service (DDoS) attacks, which overwhelmed their online systems with massive traffic.\n\nMizuho Bank experienced disruptions starting around 7 a.m. on Tuesday, affecting both individual and corporate customer sites, but restored access by 10 a.m. Resona Bank faced similar issues on Saturday night, making it difficult for retail customers to connect to its online services.\n\nhttps://www.japantimes.co.jp/business/2024/12/31/companies/resona-bank-cyberattack/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Japan"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -16414,6 +16453,21 @@
                 "N/A"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1992,
+            "discovered": "2024-12-31",
+            "post_title": "Join GRAY hat community \n\nhttps://t.me/zerodayGC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/zerodayGC"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
@@ -44998,6 +45052,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100216,
+            "discovered": "2024-12-31",
+            "post_title": "Title: VibeBP WordPress Plugin Security Flaws Expose Sites to RCE and Privilege Escalation\n\nDate: December 31, 2024\n\nSource: https://cyble.com/blog/cert-in-warns-of-vibebp-vulnerabilities/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyble.com/blog/cert-in-warns-of-vibebp-vulnerabilities/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100215,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Chinese hackers breached Treasury Department workstations, documents in ‘major cybersecurity incident’\n\nDate: December 31, 2024\n\nSource: https://databreaches.net/2024/12/31/chinese-hackers-breached-treasury-department-workstations-documents-in-major-cybersecurity-incident/\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://databreaches.net/2024/12/31/chinese-hackers-breached-treasury-department-workstations-documents-in-major-cybersecurity-incident/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -62988,6 +63072,758 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/funksec-ransomware-victim-moh-gov-vn/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80516,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 152[.]32[.]201[.]202:443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-152-32-201-202-port-443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-152-32-201-202-port-443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80515,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 154[.]37[.]219[.]91:443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-154-37-219-91-port-443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-154-37-219-91-port-443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80514,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 47[.]90[.]142[.]15:80 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-47-90-142-15-port-80/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-47-90-142-15-port-80/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80513,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 47[.]121[.]137[.]189:8443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-47-121-137-189-port-8443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-47-121-137-189-port-8443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80512,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 111[.]119[.]234[.]149:80 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-111-119-234-149-port-80/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-111-119-234-149-port-80/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80511,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 103[.]192[.]179[.]97:443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-103-192-179-97-port-443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-103-192-179-97-port-443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80510,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 43[.]139[.]216[.]112:4321 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-43-139-216-112-port-4321/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-43-139-216-112-port-4321/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80509,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 15[.]235[.]198[.]100:443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-15-235-198-100-port-443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-15-235-198-100-port-443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80508,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 120[.]53[.]236[.]231:8080 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-120-53-236-231-port-8080/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-120-53-236-231-port-8080/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80507,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 39[.]98[.]48[.]153:6443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-39-98-48-153-port-6443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-39-98-48-153-port-6443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80506,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 101[.]201[.]54[.]74:2222 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-101-201-54-74-port-2222/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-101-201-54-74-port-2222/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80505,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 113[.]44[.]67[.]52:9443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-113-44-67-52-port-9443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-113-44-67-52-port-9443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80504,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 160[.]22[.]121[.]92:80 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-160-22-121-92-port-80/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-160-22-121-92-port-80/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80503,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 83[.]229[.]122[.]83:443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-83-229-122-83-port-443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-83-229-122-83-port-443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80502,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 38[.]181[.]47[.]247:9008 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-38-181-47-247-port-9008/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-38-181-47-247-port-9008/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80501,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 113[.]44[.]153[.]158:8888 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-113-44-153-158-port-8888/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-113-44-153-158-port-8888/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80500,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 192[.]3[.]160[.]167:80 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-192-3-160-167-port-80/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-192-3-160-167-port-80/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80499,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 159[.]75[.]148[.]143:80 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-159-75-148-143-port-80/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-159-75-148-143-port-80/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80498,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 156[.]238[.]243[.]161:8443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-156-238-243-161-port-8443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-156-238-243-161-port-8443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80497,
+            "discovered": "2024-12-31",
+            "post_title": "Cobalt Strike Beacon Detected - 43[.]134[.]58[.]195:80 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-43-134-58-195-port-80/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-43-134-58-195-port-80/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80496,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA and Partners Release Joint Guidance on PRC-Affiliated Threat Actor Compromising Networks of Global Telecommunications Providers - https://www.redpacketsecurity.com/cisa-cisa-and-partners-release-joint-guidance-on-prc-affiliated-threat-actor-compromising-networks-of-global-telecommunications-providers-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA",
+                "PRC"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-and-partners-release-joint-guidance-on-prc-affiliated-threat-actor-compromising-networks-of-global-telecommunications-providers-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80495,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Releases New Public Version of CDM Data Model Document - https://www.redpacketsecurity.com/cisa-cisa-releases-new-public-version-of-cdm-data-model-document-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-new-public-version-of-cdm-data-model-document-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80494,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-31-12-2024-7/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-31-12-2024-7/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80493,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Releases Eight Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-31-12-2024-2/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-31-12-2024-2/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80492,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Adds Three Known Exploited Vulnerabilities to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-three-known-exploited-vulnerabilities-to-catalog-31-12-2024/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-three-known-exploited-vulnerabilities-to-catalog-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80491,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: Microsoft Releases December 2024 Security Updates - https://www.redpacketsecurity.com/cisa-microsoft-releases-december-2024-security-updates-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-microsoft-releases-december-2024-security-updates-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80490,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: ASD’s ACSC, CISA, and US and International Partners Release Guidance on Choosing Secure and Verifiable Technologies - https://www.redpacketsecurity.com/cisa-asd-s-acsc-cisa-and-us-and-international-partners-release-guidance-on-choosing-secure-and-verifiable-technologies-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA",
+                "US"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-asd-s-acsc-cisa-and-us-and-international-partners-release-guidance-on-choosing-secure-and-verifiable-technologies-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80489,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: Adobe Releases Security Updates for Multiple Products - https://www.redpacketsecurity.com/cisa-adobe-releases-security-updates-for-multiple-products-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-adobe-releases-security-updates-for-multiple-products-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80488,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: Cisco Releases Security Updates for NX-OS Software - https://www.redpacketsecurity.com/cisa-cisco-releases-security-updates-for-nx-os-software-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisco-releases-security-updates-for-nx-os-software-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80487,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Releases Two Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-two-industrial-control-systems-advisories-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-two-industrial-control-systems-advisories-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80486,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-31-12-2024-6/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-31-12-2024-6/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80485,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Releases Ten Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-ten-industrial-control-systems-advisories-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-ten-industrial-control-systems-advisories-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80484,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: Ivanti Releases Security Updates for Multiple Products - https://www.redpacketsecurity.com/cisa-ivanti-releases-security-updates-for-multiple-products-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-ivanti-releases-security-updates-for-multiple-products-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80483,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: Apple Releases Security Updates for Multiple Products - https://www.redpacketsecurity.com/cisa-apple-releases-security-updates-for-multiple-products-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-apple-releases-security-updates-for-multiple-products-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80482,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Releases Seven Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-seven-industrial-control-systems-advisories-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-seven-industrial-control-systems-advisories-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80481,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Requests Public Comment for Draft National Cyber Incident Response Plan Update - https://www.redpacketsecurity.com/cisa-cisa-requests-public-comment-for-draft-national-cyber-incident-response-plan-update-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-requests-public-comment-for-draft-national-cyber-incident-response-plan-update-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80480,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-31-12-2024-4/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-31-12-2024-4/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80479,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA and EPA Release Joint Fact Sheet Detailing Risks Internet-Exposed HMIs Pose to WWS Sector - https://www.redpacketsecurity.com/cisa-cisa-and-epa-release-joint-fact-sheet-detailing-risks-internet-exposed-hmis-pose-to-wws-sector-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-and-epa-release-joint-fact-sheet-detailing-risks-internet-exposed-hmis-pose-to-wws-sector-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80478,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Adds Two Known Exploited Vulnerabilities to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-two-known-exploited-vulnerabilities-to-catalog-31-12-2024/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-two-known-exploited-vulnerabilities-to-catalog-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80477,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-31-12-2024-5/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-31-12-2024-5/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80476,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Adds Four Known Exploited Vulnerabilities to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-four-known-exploited-vulnerabilities-to-catalog-31-12-2024/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-four-known-exploited-vulnerabilities-to-catalog-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80475,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Releases Best Practice Guidance for Mobile Communications - https://www.redpacketsecurity.com/cisa-cisa-releases-best-practice-guidance-for-mobile-communications-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-best-practice-guidance-for-mobile-communications-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80474,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Releases Five Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-five-industrial-control-systems-advisories-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-five-industrial-control-systems-advisories-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80473,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA and ONCD Release Playbook for Strengthening Cybersecurity in Federal Grant Programs for Critical Infrastructure - https://www.redpacketsecurity.com/cisa-cisa-and-oncd-release-playbook-for-strengthening-cybersecurity-in-federal-grant-programs-for-critical-infrastructure-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-and-oncd-release-playbook-for-strengthening-cybersecurity-in-federal-grant-programs-for-critical-infrastructure-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80472,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Issues BOD 25-01, Implementing Secure Practices for Cloud Services - https://www.redpacketsecurity.com/cisa-cisa-issues-bod-25-01-implementing-secure-practices-for-cloud-services-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-issues-bod-25-01-implementing-secure-practices-for-cloud-services-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80471,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-31-12-2024/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80470,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-31-12-2024-3/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-31-12-2024-3/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80469,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-31-12-2024-2/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-31-12-2024-2/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80468,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: CISA Releases Eight Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-31-12-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80467,
+            "discovered": "2024-12-31",
+            "post_title": "CISA: Fortinet Releases Security Updates for FortiManager - https://www.redpacketsecurity.com/cisa-fortinet-releases-security-updates-for-fortimanager-31-12-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-fortinet-releases-security-updates-for-fortimanager-31-12-2024/"
             ],
             "Matched Keywords": [
                 "Other"
