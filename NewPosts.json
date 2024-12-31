@@ -45539,6 +45539,37 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100233,
+            "discovered": "2024-12-31",
+            "post_title": "Vulnerability ID: CVE-2024-1749\n\nDescription: A vulnerability, which was classified as problematic, has been found in Bdtask Bhojon Best Restaurant Management Software 2.9. This issue affects some unknown processing of the file /dashboard/message of the component Message Page. The manipulation of the argument Title leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-254531. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-1749\n\nDate of Publishing: 2024/12/31\n\nLink to Exploit: https://drive.google.com/file/d/1oM1h3E9G17lgkbSnhq7FQjfAtEojDNFo/view?usp=sharing\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-1749",
+                "https://drive.google.com/file/d/1oM1h3E9G17lgkbSnhq7FQjfAtEojDNFo/view?usp=sharing"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100232,
+            "discovered": "2024-12-31",
+            "post_title": "Title: \"Out-of-the-Box\" Detection Coverage: A Critical Metric for Endpoint Security\n\nDate: December 31, 2024\n\nSource: https://www.cybereason.com/blog/2024-mitre-critical-metrics\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.cybereason.com/blog/2024-mitre-critical-metrics"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
