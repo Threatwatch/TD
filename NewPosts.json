@@ -23448,6 +23448,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5644,
+            "discovered": "2024-12-31",
+            "post_title": "2025",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "DARKFEED": [
@@ -45681,6 +45694,53 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100238,
+            "discovered": "2024-12-31",
+            "post_title": "Title: 2024 in Review: Key Advancements in Intezer’s AI SOC Solution\n\nDate: December 31, 2024\n\nSource: https://intezer.com/blog/alert-triage/2024-ai-soc-review-for-security-operations/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://intezer.com/blog/alert-triage/2024-ai-soc-review-for-security-operations/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100237,
+            "discovered": "2024-12-31",
+            "post_title": "Vulnerability ID: CVE-2024-0403\n\nDescription: Recipes version 1.5.10 allows arbitrary HTTP requests to be made\n\nthrough the server. This is possible because the application is\n\nvulnerable to SSRF.\n\n\n\n\n\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-0403\n\nDate of Publishing: 2024/12/31\n\nLink to Exploit: https://fluidattacks.com/advisories/harris/\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-0403",
+                "https://fluidattacks.com/advisories/harris/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100236,
+            "discovered": "2024-12-31",
+            "post_title": "Vulnerability ID: CVE-2024-2071\n\nDescription: A vulnerability, which was classified as problematic, has been found in SourceCodester FAQ Management System 1.0. Affected by this issue is some unknown functionality of the component Update FAQ. The manipulation of the argument Frequently Asked Question leads to cross site scripting. The attack may be launched remotely. VDB-255386 is the identifier assigned to this vulnerability.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-2071\n\nDate of Publishing: 2024/12/31\n\nLink to Exploit: https://github.com/will121351/wenqin.webray.com.cn/blob/main/CVE-project/faq-management-system.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-2071",
+                "https://github.com/will121351/wenqin.webray.com.cn/blob/main/CVE-project/faq-management-system.md"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -64630,6 +64690,156 @@
                 "N/A"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80540,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-50703 - https://www.redpacketsecurity.com/cve_alert_cve-2024-50703/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-50703/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80539,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-10044 - https://www.redpacketsecurity.com/cve_alert_cve-2024-10044/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-10044/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80538,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-50702 - https://www.redpacketsecurity.com/cve_alert_cve-2024-50702/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-50702/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80537,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-50701 - https://www.redpacketsecurity.com/cve_alert_cve-2024-50701/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-50701/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80536,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-54181 - https://www.redpacketsecurity.com/cve_alert_cve-2024-54181/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-54181/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80535,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-12835 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12835/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12835/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80534,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-12828 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12828/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12828/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80533,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-12754 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12754/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12754/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80532,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-12834 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12834/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12834/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80531,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-12836 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12836/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12836/"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
