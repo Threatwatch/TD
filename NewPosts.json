@@ -6650,6 +6650,23 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9935,
+            "discovered": "2024-12-31",
+            "post_title": "🚨🇺🇸888 Has Allegedly Leaked the Data of Harley-Davidson\n\n🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-31 02:38:55\n🚨 Title: Database of Harley-Davidson allegedly leaked\n🛡️ Victim Country: USA\n🏭 Victim Industry: Automotive\n🏢 Victim Organization: harley-davidson\n🌐 Victim Site: harley-davidson.com\n📜 Category: Data Breach\n🕵️‍♂️ Threat Actor: 888\n🌍 Network: openweb\n🔗 Claim: Paid subscribers get access to claim URLs\n📝 Description: The threat actor claims to have leaked database of Harley-Davidson. The leaked data reportedly contains 66.7k rows of users data, which includes First Name, Last Name, Full Name, Address, City, State, Zip Code, Email Address, Mobile Phone, etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Last Name",
+                "Address"
+            ],
+            "URLs": [
+                "WebInformer.com - C",
+                "idson.com\n📜 Categor"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -22908,6 +22925,32 @@
             "Location": [
                 "North Korea",
                 "Best Korea"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5640,
+            "discovered": "2024-12-31",
+            "post_title": "Threat Actor using advanced evasion techniques (if he can't see you, you can't see him).",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5639,
+            "discovered": "2024-12-31",
+            "post_title": "We are in the process of deploying 150,000 new malware samples.\n\nThis should have occurred earlier. However, a Threat Actor conducted a sophisticated cyberattack and compromised our infrastructure (my puppy decided to chew on the cables connecting to my local backup NAS).",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": [],
             "Matched Keywords": [
@@ -48029,6 +48072,19 @@
             "discovered": "2024-12-30",
             "post_title": "⚡️Malware botnets exploit outdated D-Link routers in recent attacks.\n\n#CyberBulletin",
             "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26966,
+            "discovered": "2024-12-31",
+            "post_title": "⚡️Allen Carr’s Easyway Hacked\n\nHandala Hack Breaches Allen Carr's Easyway Company in Supply Chain Attack, Dump Customer Database and Targets Zionists with WhatsApp Messages.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
             "Location": [
                 "N/A"
             ],
