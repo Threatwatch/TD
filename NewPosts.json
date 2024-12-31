@@ -6918,6 +6918,58 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9957,
+            "discovered": "2024-12-31",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9956,
+            "discovered": "2024-12-31",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9955,
+            "discovered": "2024-12-31",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9954,
+            "discovered": "2024-12-31",
+            "post_title": "😈\"Offshore[.]CAT is a curated compilation of genuine and reliable offshore services we have personally used or had experience with, alongside a categorized listing of less reputable or substandard options\"",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -20533,6 +20585,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 516,
+            "discovered": "2024-12-31",
+            "post_title": "🎉✨Happy New Year 2025! ✨🎉\n\nWishing you a year filled with joy, success, and countless blessings. Let’s make this year unforgettable! 🥂💫\n\n~ void & Pilot",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Alixsec ( English Version)": [
@@ -23453,6 +23518,19 @@
             "Message ID": 5644,
             "discovered": "2024-12-31",
             "post_title": "2025",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5645,
+            "discovered": "2024-12-31",
+            "post_title": "She a 18,446,744,073,709,551,615 but she 32bit",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -45737,6 +45815,341 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-2071",
                 "https://github.com/will121351/wenqin.webray.com.cn/blob/main/CVE-project/faq-management-system.md"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100259,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://rltcnepalgunj.gov.np/ynr.php\n\nNotified: ynR !\n\nDate: Mon, 30 Dec 2024 20:32:52 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312735\n\n#Defacements #Nepal",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://rltcnepalgunj.gov.np/ynr.php",
+                "http://www.zone-h.org/mirror/id/41312735"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100258,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://shuklaphantanationalpark.gov.np/ynr.php\n\nNotified: ynR !\n\nDate: Mon, 30 Dec 2024 20:35:49 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312737\n\n#Defacements #Nepal",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://shuklaphantanationalpark.gov.np/ynr.php",
+                "http://www.zone-h.org/mirror/id/41312737"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100257,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://nwfpchetauda.gov.np/ynr.php\n\nNotified: ynR !\n\nDate: Mon, 30 Dec 2024 20:42:36 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312739\n\n#Defacements #Nepal",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nwfpchetauda.gov.np/ynr.php",
+                "http://www.zone-h.org/mirror/id/41312739"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100256,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://nepalgunj.doc.gov.np/ynr.php\n\nNotified: ynR !\n\nDate: Mon, 30 Dec 2024 20:45:27 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312740\n\n#Defacements #Nepal",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nepalgunj.doc.gov.np/ynr.php",
+                "http://www.zone-h.org/mirror/id/41312740"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100255,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://mdvip.gov.np/ynr.php\n\nNotified: ynR !\n\nDate: Mon, 30 Dec 2024 20:53:31 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312742\n\n#Defacements #Nepal",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://mdvip.gov.np/ynr.php",
+                "http://www.zone-h.org/mirror/id/41312742"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100254,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://pfd.karnali.gov.np/ynr.php\n\nNotified: ynR !\n\nDate: Mon, 30 Dec 2024 20:55:52 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312743\n\n#Defacements #Nepal",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://pfd.karnali.gov.np/ynr.php",
+                "http://www.zone-h.org/mirror/id/41312743"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100253,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://plfbcprc.gov.np/ynr.php\n\nNotified: ynR !\n\nDate: Mon, 30 Dec 2024 21:00:12 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312744\n\n#Defacements #Nepal",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://plfbcprc.gov.np/ynr.php",
+                "http://www.zone-h.org/mirror/id/41312744"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100252,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://piumugu.pmamp.gov.np/ynr.php\n\nNotified: ynR !\n\nDate: Mon, 30 Dec 2024 21:03:20 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312762\n\n#Defacements #Nepal",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://piumugu.pmamp.gov.np/ynr.php",
+                "http://www.zone-h.org/mirror/id/41312762"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100251,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://sdokalikot.karnali.gov.np/ynr.php\n\nNotified: ynR !\n\nDate: Mon, 30 Dec 2024 21:06:09 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312763\n\n#Defacements #Nepal",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sdokalikot.karnali.gov.np/ynr.php",
+                "http://www.zone-h.org/mirror/id/41312763"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100250,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://swmojumla.karnali.gov.np/ynr.php\n\nNotified: ynR !\n\nDate: Mon, 30 Dec 2024 21:10:15 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312764\n\n#Defacements #Nepal",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://swmojumla.karnali.gov.np/ynr.php",
+                "http://www.zone-h.org/mirror/id/41312764"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100249,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://appointment.mols.gov.et\n\nNotified: Fat4lErr0r\n\nDate: Mon, 23 Dec 2024 01:07:36 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41311417\n\n#Defacements #Ethiopia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Ethiopia"
+            ],
+            "URLs": [
+                "https://appointment.mols.gov.et",
+                "http://www.zone-h.org/mirror/id/41311417"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100248,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://support.most.gov.bd/storage/index.html\n\nNotified: Fat4lErr0r\n\nDate: Sat, 28 Dec 2024 16:19:47 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312430\n\n#Defacements #Bangladesh",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://support.most.gov.bd/storage/index.html",
+                "http://www.zone-h.org/mirror/id/41312430"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100247,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://cng.naddc.gov.ng\n\nNotified: Fat4lErr0r\n\nDate: Sat, 28 Dec 2024 17:06:33 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312433\n\n#Defacements #Nigeria",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cng.naddc.gov.ng",
+                "http://www.zone-h.org/mirror/id/41312433"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100246,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://hnd.nbte.gov.ng/storage/\n\nNotified: Fat4lErr0r\n\nDate: Sat, 28 Dec 2024 17:24:24 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312434\n\n#Defacements #Nigeria",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://hnd.nbte.gov.ng/storage/",
+                "http://www.zone-h.org/mirror/id/41312434"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100245,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://topup.nbte.gov.ng\n\nNotified: Fat4lErr0r\n\nDate: Sat, 28 Dec 2024 17:35:37 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312437\n\n#Defacements #Nigeria",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://topup.nbte.gov.ng",
+                "http://www.zone-h.org/mirror/id/41312437"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100244,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://admission.topup.nbte.gov.ng/storage/\n\nNotified: Fat4lErr0r\n\nDate: Sat, 28 Dec 2024 17:37:24 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312439\n\n#Defacements #Nigeria",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://admission.topup.nbte.gov.ng/storage/",
+                "http://www.zone-h.org/mirror/id/41312439"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100243,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://www.jtiuganda.go.ug/images/qlq.jpg\n\nNotified: MR.QLQ\n\nDate: Mon, 23 Dec 2024 20:31:43 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41311664\n\n#Defacements #Uganda",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.jtiuganda.go.ug/images/qlq.jpg",
+                "http://www.zone-h.org/mirror/id/41311664"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100242,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://www3.io.usp.br/images/mr.jpg\n\nNotified: MR.QLQ\n\nDate: Tue, 10 Dec 2024 19:34:23 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41309907\n\n#Defacements #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "https://www3.io.usp.br/images/mr.jpg",
+                "http://www.zone-h.org/mirror/id/41309907"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100241,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://www.conselhodesaude.rj.gov.br/images/mr.jpg\n\nNotified: MR.QLQ\n\nDate: Wed, 25 Dec 2024 20:12:43 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41311986\n\n#Defacements #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "https://www.conselhodesaude.rj.gov.br/images/mr.jpg",
+                "http://www.zone-h.org/mirror/id/41311986"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100240,
+            "discovered": "2024-12-31",
+            "post_title": "Target: https://fpxv2.mais.gov.my\n\nNotified: omgsmok\n\nDate: Mon, 23 Sep 2024 03:32:40 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41284425\n\n#Defacements #Malaysia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Malaysia"
+            ],
+            "URLs": [
+                "https://fpxv2.mais.gov.my",
+                "http://www.zone-h.org/mirror/id/41284425"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100239,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Ransomware 2024: A year of tricks, traps, wins and losses\n\nDate: December 31, 2024\n\nSource: https://www.scworld.com/feature/ransomware-2024-a-year-of-tricks-traps-wins-and-losses\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/feature/ransomware-2024-a-year-of-tricks-traps-wins-and-losses"
             ],
             "Matched Keywords": [
                 "Other"
