@@ -6850,6 +6850,74 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9953,
+            "discovered": "2024-12-31",
+            "post_title": "💡10 of my Cybercrime predictions for 2025\n\n1. None of the Darknet Markets currently on the superlist on Dread will be standing by year end.\n\n2. One Darknet Market on the superlist will leave honorably (very rare)\n\n3. LockBit will make a come back in 2025, but RansomHub will remain king\n\n4. Many threat actor arrests will happen\n\n5. An unknown forum will contest BreachForums at the top.\n\n6. XSS and Exploit will still remain standing\n\n7. Stresser sites will continue to get seized by LEA\n\n8. Companies will continue to lie about being breached and then admit they f'd up\n\n9. Bulletproof Hosting will continue to rise\n\n10. We will continue to see original Onion sites with data we thought was once lost",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS",
+                "Exploit"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9952,
+            "discovered": "2024-12-31",
+            "post_title": "RIP the extra screenshot",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9951,
+            "discovered": "2024-12-31",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9950,
+            "discovered": "2024-12-31",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9949,
+            "discovered": "2024-12-31",
+            "post_title": "💡Ransomware Visuals have been updated through a couple minutes ago. Screenshots are the heatmaps. Pretty incredible to see the change through the years.\n\nhttps://darkwebinformer.com/ransomware-visuals/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/ransomware-visuals/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -20449,6 +20517,19 @@
                 "heck-host.net/check-report/21db9706k59\n",
                 "heck-host.net/check-report/21db9862k8f0\n"
             ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 515,
+            "discovered": "2024-12-31",
+            "post_title": "Всех с наступающим, кстати 🐸\n\nНовогоднее настроение имеется или как всегда?",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
             "Matched Keywords": [
                 "Other"
             ]
@@ -45570,6 +45651,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100235,
+            "discovered": "2024-12-31",
+            "post_title": "Title: US Treasury hacked by state-sponsored Chinese APT group\n\nDate: December 31, 2024\n\nSource: https://www.scworld.com/news/us-treasury-hacked-by-state-sponsored-chinese-apt-group\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/us-treasury-hacked-by-state-sponsored-chinese-apt-group"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100234,
+            "discovered": "2024-12-31",
+            "post_title": "Title: New details reveal how hackers hijacked 35 Google Chrome extensions\n\nDate: December 31, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/new-details-reveal-how-hackers-hijacked-35-google-chrome-extensions/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/new-details-reveal-how-hackers-hijacked-35-google-chrome-extensions/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -64493,6 +64604,32 @@
             "URLs": [
                 "https://www.redpacketsecurity.com/funksec-ransomware-victim-raas-open/"
             ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80530,
+            "discovered": "2024-12-31",
+            "post_title": "Happy new year all 🎊",
+            "Attack Type": "Unknown",
+            "Location": [
+                "🎊"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80529,
+            "discovered": "2024-12-31",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
             "Matched Keywords": [
                 "Other"
             ]
