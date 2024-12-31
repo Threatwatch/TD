@@ -24806,6 +24806,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4522,
+            "discovered": "2024-12-31",
+            "post_title": "🚨 New Event Detected!\n\nGroup Name: DragonForce\nCompany: Cogitis\nDomain: http://www.cogitis.fr\nCountry: France\nSector: BusinessServices",
+            "Attack Type": "Hacking",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "ttp://www.cogitis.fr\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Electronic Tigers Unit": [
@@ -36104,6 +36119,22 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5220,
+            "discovered": "2024-12-31",
+            "post_title": "ID: 19875\n⚠ 2024-12-31 06:50:28\n🥷 ransomhub\n🎯 www.metlife.com, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19875",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "w.metlife.com, ",
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19875"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -44920,6 +44951,21 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-54152",
                 "https://github.com/math-x-io/CVE-2024-54152-poc"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100213,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Cyber Security Agency of Singapore Warns of Exploited Apache Vulnerabilities in 2024\n\nDate: December 31, 2024\n\nSource: https://cyble.com/blog/csa-alerts-users-of-cve-2024-43441-and-more/\n\n#News #Singapore",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Singapore"
+            ],
+            "URLs": [
+                "https://cyble.com/blog/csa-alerts-users-of-cve-2024-43441-and-more/"
             ],
             "Matched Keywords": [
                 "Other"
