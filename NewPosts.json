@@ -6970,6 +6970,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9958,
+            "discovered": "2024-12-31",
+            "post_title": "💡Daily Dose of Dark Web Informer - December 31st, 2024\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-december-31st-2024/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-december-31st-2024/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -65252,6 +65267,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-12836/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80541,
+            "discovered": "2024-12-31",
+            "post_title": "US-CERT Vulnerability Summary for the Week of December 23, 2024 - https://www.redpacketsecurity.com/cisa-vulnerability-summary-for-the-week-of-december-23-2024/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-vulnerability-summary-for-the-week-of-december-23-2024/"
             ],
             "Matched Keywords": [
                 "Other"
