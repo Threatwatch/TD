@@ -6712,6 +6712,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9941,
+            "discovered": "2024-12-31",
+            "post_title": "🚨🇧🇾Rey Allegedly Leaked the Data of an Unidentified E-commerce and Energy Sector Company in Belarus\n\nhttps://darkwebinformer.com/rey-allegedly-leaked-the-data-of-an-unidentified-e-commerce-and-energy-sector-company-in-belarus/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Belarus"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rey-allegedly-leaked-the-data-of-an-unidentified-e-commerce-and-energy-sector-company-in-belarus/"
+            ],
+            "Matched Keywords": [
+                "energy"
+            ]
+        },
+        {
+            "Message ID": 9940,
+            "discovered": "2024-12-31",
+            "post_title": "🚨🚨🇺🇸MetLife Has Been Claimed a Victim to RansomHub Ransomware\n\nhttps://darkwebinformer.com/metlife-has-been-claimed-a-victim-to-ransomhub-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/metlife-has-been-claimed-a-victim-to-ransomhub-ransomware/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -14693,6 +14723,71 @@
             "Attack Type": "DDoS Attacks",
             "Location": [
                 "Japan"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1611,
+            "discovered": "2024-12-31",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1610,
+            "discovered": "2024-12-31",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1609,
+            "discovered": "2024-12-31",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1608,
+            "discovered": "2024-12-31",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1607,
+            "discovered": "2024-12-31",
+            "post_title": "🟧 #HackTuesday 🟧\n\nHack Tuesday: Week 25 - 31 December 2024\n\n⚠️268 cyberattacks across 41 countries ⚠️\n\n➡️The most active threat actor this week is NoName057(16) claiming responsibility for 94 cyberattacks.\n\n➡️The USA is the most affected country, accounting for 17.9% of the victims, with 48 cyberattacks.\n\n➡️The Gov / Mil / LE sector is the most impacted, representing 22.4% of the claimed targets with 60 cyberattacks.\n\n➡️The estimated Critical cyberattacks account to 23 (8.6% of the total).\n\n➡️Overall, the claimed compromised data amounts to approximately 15 TB.\n\n☣️The average ESIX® (Estimated Severity Index) is 3.73, a -16,74% drop from last week.\n\nFollow the link for list of attacks (claims or disclosures):\nhttps://hackmanac.com/news/hack-tuesday-week-25-31-december-2024\n\n#Hackmanac #HT #Cybersecurity",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
             ],
             "URLs": [],
             "Matched Keywords": [
@@ -45127,6 +45222,171 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100230,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Microsoft: Immediate .NET installer link update needed\n\nDate: December 31, 2024\n\nSource: https://www.scworld.com/brief/microsoft-immediate-net-installer-link-update-needed\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/microsoft-immediate-net-installer-link-update-needed"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100229,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Upcoming security updates inhibited by Windows 11 24H2 issue\n\nDate: December 31, 2024\n\nSource: https://www.scworld.com/brief/upcoming-security-updates-inhibited-by-windows-11-24h2-issue\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/upcoming-security-updates-inhibited-by-windows-11-24h2-issue"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100228,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Newly added flaws in CISA vulnerabilities catalog slightly declines\n\nDate: December 31, 2024\n\nSource: https://www.scworld.com/brief/newly-added-flaws-in-cisa-vulnerabilities-catalog-slightly-declines\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CISA"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/newly-added-flaws-in-cisa-vulnerabilities-catalog-slightly-declines"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100227,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Purported 7-ZIP zero-day vulnerability dismissed\n\nDate: December 31, 2024\n\nSource: https://www.scworld.com/brief/purported-7-zip-zero-day-vulnerability-dismissed\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/purported-7-zip-zero-day-vulnerability-dismissed"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100226,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Unregistered data brokers flagged by Texas\n\nDate: December 31, 2024\n\nSource: https://www.scworld.com/brief/unregistered-data-brokers-flagged-by-texas\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Texas"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/unregistered-data-brokers-flagged-by-texas"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100225,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Deferral of TikTok ban sought by Trump\n\nDate: December 31, 2024\n\nSource: https://www.scworld.com/brief/deferral-of-tiktok-ban-sought-by-trump\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/deferral-of-tiktok-ban-sought-by-trump"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100224,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Post-ALPHV, LockBit takedown surge of RansomHub examined\n\nDate: December 31, 2024\n\nSource: https://www.scworld.com/brief/post-alphv-lockbit-takedown-surge-of-ransomhub-examined\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/post-alphv-lockbit-takedown-surge-of-ransomhub-examined"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100223,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Crypto stealing malware spread via bogus recruitment messages\n\nDate: December 31, 2024\n\nSource: https://www.scworld.com/brief/crypto-stealing-malware-spread-via-bogus-recruitment-messages\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/crypto-stealing-malware-spread-via-bogus-recruitment-messages"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100222,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Stolen Rhode Island public benefits data exposed\n\nDate: December 31, 2024\n\nSource: https://www.scworld.com/brief/stolen-rhode-island-public-benefits-data-exposed\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Rhode Island"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/stolen-rhode-island-public-benefits-data-exposed"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100221,
+            "discovered": "2024-12-31",
+            "post_title": "Title: 북한 APT 리퍼(Reaper)에서 만든 악성코드-동북공정(미국의회조사국(CRS Report).pdf.lnk(2024.4.3)\n\nDate: December 31, 2024\n\nSource: https://wezard4u.tistory.com/429370\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://wezard4u.tistory.com/429370"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100220,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Over 3.1 million fake \"stars\" on GitHub projects used to boost rankings\n\nDate: December 31, 2024\n\nSource: https://www.bleepingcomputer.com/news/security/over-31-million-fake-stars-on-github-projects-used-to-boost-rankings/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/over-31-million-fake-stars-on-github-projects-used-to-boost-rankings/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -63884,6 +64144,156 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/dragonforce-ransomware-victim-cogitis/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80527,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-52294 - https://www.redpacketsecurity.com/cve_alert_cve-2024-52294/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-52294/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80526,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-56799 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56799/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56799/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80525,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-56733 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56733/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56733/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80524,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-46542 - https://www.redpacketsecurity.com/cve_alert_cve-2024-46542/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-46542/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80523,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-56800 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56800/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56800/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80522,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-13044 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13044/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13044/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80521,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-11944 - https://www.redpacketsecurity.com/cve_alert_cve-2024-11944/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-11944/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80520,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-11946 - https://www.redpacketsecurity.com/cve_alert_cve-2024-11946/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-11946/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80519,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-13045 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13045/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13045/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80518,
+            "discovered": "2024-12-31",
+            "post_title": "CVE Alert: CVE-2024-13043 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13043/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13043/"
             ],
             "Matched Keywords": [
                 "Other"
