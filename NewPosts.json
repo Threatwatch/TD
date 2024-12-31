@@ -6682,6 +6682,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9939,
+            "discovered": "2024-12-31",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9938,
+            "discovered": "2024-12-31",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2024-12-31 05:58:41\n🚨 Title: MetLife falls victim to RansomHub Ransomware\n🛡️ Victim Country: USA\n🏭 Victim Industry: Insurance\n🏢 Victim Organization: metlife\n🌐 Victim Site: metlife.com\n📜 Category: Ransomware\n🕵️‍♂️ Threat Actor: RansomHub\n🌍 Network: tor\n🔗 Claim: http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion/47754ccf-3e5c-4d92-97b9-e9ffb4133e59/\n📝 Description: Group claims to have access to 1 TB of organization's data and plans to publish it within 12-13 days.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                ".com\n📜 Cate",
+                "omxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion/47754ccf-3e5c-4d92-97b9-e9ffb4133e59/\n📝 Descript"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -14570,6 +14600,47 @@
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1602,
+            "discovered": "2024-12-31",
+            "post_title": "🚨Data Breach Alert ‼️\n\n🇪🇬Egypt - Misr Pharmacies\n\nThe threat actor known as \"Satanic\" claims to have breached Misr Pharmacies, an online pharmacy providing a broad range of pharmaceutical, health products, and services in Egypt.\n\nAllegedly, the data covers orders (shipment, customer, and payment details) and e-prescriptions (customer, address, and prescription info with timestamps). The data has been fully leaked.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "🇪",
+                "Egypt",
+                "Egypt"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1601,
+            "discovered": "2024-12-31",
+            "post_title": "🚨🚨🚨Cyberattack Alert ‼️\n\n🇺🇸USA - MetLife\n\nRansomHub ransomware group claims to have breached MetLife. \n\nAllegedly, 1 TB of data were exfiltrated. \nRansom deadline: 12th Jan 2025.\n\nThe samples provided by the cybercriminal group show documents belonging to ProVida AFP, Chile’s largest private pension fund administrator, acquired by MetLife in 2013.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Chile"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1600,
+            "discovered": "2024-12-31",
+            "post_title": "🚨Cyberattack Update - Ford\n\nFord Motor Company's X account was briefly hacked, posting unauthorized messages like \"Israel is a terrorist state\" and \"Free Palestine.\" \n\nThe posts were swiftly removed, and Ford clarified they don't reflect the company's views. \n\nAn investigation is underway with platform administrators.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Israel"
             ],
             "URLs": [],
             "Matched Keywords": [
@@ -22981,6 +23052,35 @@
                 "N/A"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5642,
+            "discovered": "2024-12-31",
+            "post_title": "We've never personally encountered an active United States military personnel doing something like this.\n\nIt is difficult to assess if they'll go to trial as a civilian or as a soldier (United States military court) or both (which is possible, a rare double whammy)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "United States",
+                "United States"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5641,
+            "discovered": "2024-12-31",
+            "post_title": "A 20 year old United States soldier worked with Threat Actors and, following the arrest of his associates, threatened to leak telephone logs from Kamala Harris and Donald Trump.\n\nThis was a very, very, very bad decision.\n\nhttps://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "United States"
+            ],
+            "URLs": [
+                "https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
@@ -31927,6 +32027,21 @@
                 "Approx"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4135,
+            "discovered": "2024-12-31",
+            "post_title": "Group: ransomhub\nApprox. Time: 06:34 31/12/24\nTitle: https://t.co/JkNEujQv87",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/JkNEujQv87"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
@@ -44763,6 +44878,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100210,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Chinese APT Exploits BeyondTrust API Key to Access U.S. Treasury Systems and Documents\n\nDate: Dec 31, 2025\n\nSource: https://thehackernews.com/2024/12/chinese-apt-exploits-beyondtrust-api.html\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/12/chinese-apt-exploits-beyondtrust-api.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -48249,6 +48379,19 @@
             "Message ID": 26967,
             "discovered": "2024-12-31",
             "post_title": "⚡️Handala executed a sophisticated supply chain attack on Reutone, a third-party vendor that provides services to the company, gaining access to Allen Carr's customer database. (79GB DB Size)\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26974,
+            "discovered": "2024-12-31",
+            "post_title": "No Text Content",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
