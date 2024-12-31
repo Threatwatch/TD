@@ -14562,6 +14562,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1599,
+            "discovered": "2024-12-31",
+            "post_title": "🚨Data Breach Alert ‼️\n\n🇺🇸USA - Harley-Davidson\n\nThe threat actor known as \"888\" claims to have breached Harley-Davidson. \n\nAllegedly, 66.7k rows of customer data were exfiltrated, including first name, last name, full name, address, city, state, zip code, email address, mobile phone, home phone, email preference, SMS preference, VIN, vehicle make, vehicle model, vehicle year, sale date, warranty exp date, last service date, etc.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -44716,6 +44729,36 @@
             ],
             "URLs": [
                 "https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100209,
+            "discovered": "2024-12-31",
+            "post_title": "Victim: www.metlife.com\n\nDetection Date: Tue Dec 31 08:50:31 2024\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.metlife.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100208,
+            "discovered": "2024-12-31",
+            "post_title": "Title: Misconfigured Kubernetes RBAC in Azure Airflow Could Expose Entire Cluster to Exploitation\n\nDate: Dec 31, 2025\n\nSource: https://thehackernews.com/2024/12/misconfigured-kubernetes-rbac-in-azure.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2024/12/misconfigured-kubernetes-rbac-in-azure.html"
             ],
             "Matched Keywords": [
                 "Other"
