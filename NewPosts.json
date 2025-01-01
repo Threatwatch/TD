@@ -46354,6 +46354,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100263,
+            "discovered": "2025-01-01",
+            "post_title": "Title: Iranian and Russian Entities Sanctioned for Election Interference Using AI and Cyber Tactics\n\nDate: Jan 01, 2025\n\nSource: https://thehackernews.com/2025/01/iranian-and-russian-entities-sanctioned.html\n\n#News #Iran #Russia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Russia"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2025/01/iranian-and-russian-entities-sanctioned.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -66215,6 +66230,156 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-56062/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80596,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-55631 - https://www.redpacketsecurity.com/cve_alert_cve-2024-55631/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-55631/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80595,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-13074 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13074/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13074/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80594,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-52048 - https://www.redpacketsecurity.com/cve_alert_cve-2024-52048/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-52048/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80593,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-52049 - https://www.redpacketsecurity.com/cve_alert_cve-2024-52049/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-52049/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80592,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-55955 - https://www.redpacketsecurity.com/cve_alert_cve-2024-55955/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-55955/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80591,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-13076 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13076/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13076/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80590,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-55632 - https://www.redpacketsecurity.com/cve_alert_cve-2024-55632/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-55632/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80589,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-55917 - https://www.redpacketsecurity.com/cve_alert_cve-2024-55917/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-55917/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80588,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-13075 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13075/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13075/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80587,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-13077 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13077/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13077/"
             ],
             "Matched Keywords": [
                 "Other"
