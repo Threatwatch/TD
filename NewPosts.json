@@ -7271,6 +7271,37 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9981,
+            "discovered": "2025-01-01",
+            "post_title": "🚨🇵🇪A Threat Actor Claims to have Leaked the Data of Uayki\n\n🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2025-01-01 23:00:28\n🚨 Title: Allegedly leaked CSV database of Uayki\n🛡 Victim Country: Peru\n🏭 Victim Industry: Information Technology (IT) Services\n🏢 Victim Organization: uayki - everyone connected: innovations to connect the world\n🌐 Victim Site: guatemala.ucloud.pe\n📜 Category: Data Leak\n🔗 Claim: Paid subscribers get access to claim URLs\n🕵️‍♂️ Threat Actor: velnor\n🌍 Network: openweb\n📝 Description: The threat actor has reportedly leaked a database from the Uayki - Everyone Connected: Innovations to connect the world in Peru, containing 990 lines of user information. The compromised data includes usernames, full names, gender, email addresses, dates of birth, uploaded resources, etc. The database is being distributed in CSV format.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Uayki",
+                "Peru",
+                "Peru"
+            ],
+            "URLs": [
+                "WebInformer.com - C",
+                "ucloud.pe\n📜 Categor"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9980,
+            "discovered": "2025-01-01",
+            "post_title": "Thanks for the shoutout!  😂",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -37146,6 +37177,21 @@
             "URLs": [
                 "tp://www.kitevuc.com, ",
                 "p://www.ransomfeed.it/index.php?page=post_details&id_post=19878"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5224,
+            "discovered": "2025-01-01",
+            "post_title": "ID: 19879\n⚠ 2025-01-01 15:16:36\n🥷 ciphbit\n🎯 Kitevuc - Equipamentos E Veiculos Utilitários E Comerciais, Portugal\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19879",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Portugal"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19879"
             ],
             "Matched Keywords": [
                 "Other"
