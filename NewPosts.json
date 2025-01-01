@@ -49963,6 +49963,71 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 26986,
+            "discovered": "2025-01-01",
+            "post_title": "Happy New Year, Team!\n\nGhostClan",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26985,
+            "discovered": "2025-01-01",
+            "post_title": "✨ Cheers to the New Year! 🥳\n\nCyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26984,
+            "discovered": "2025-01-01",
+            "post_title": "⚡️Crypto stealing malware spread via bogus recruitment messages.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26983,
+            "discovered": "2025-01-01",
+            "post_title": "⚡️Over 3.1 million fake \"stars\" on GitHub projects used to boost rankings.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26982,
+            "discovered": "2025-01-01",
+            "post_title": "⚡️US Army soldier who allegedly stole Trump's AT&T call logs arrested.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "INDOHAXSEC TEAM": [
@@ -66396,6 +66461,66 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-13077/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80600,
+            "discovered": "2025-01-01",
+            "post_title": "Cobalt Strike Beacon Detected - 117[.]50[.]190[.]56:80 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-117-50-190-56-port-80/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-117-50-190-56-port-80/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80599,
+            "discovered": "2025-01-01",
+            "post_title": "Cobalt Strike Beacon Detected - 42[.]193[.]230[.]26:6666 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-42-193-230-26-port-6666/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-42-193-230-26-port-6666/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80598,
+            "discovered": "2025-01-01",
+            "post_title": "Cobalt Strike Beacon Detected - 42[.]192[.]3[.]170:443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-42-192-3-170-port-443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-42-192-3-170-port-443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80597,
+            "discovered": "2025-01-01",
+            "post_title": "Cobalt Strike Beacon Detected - 36[.]140[.]28[.]13:7777 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-36-140-28-13-port-7777/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-36-140-28-13-port-7777/"
             ],
             "Matched Keywords": [
                 "Other"
