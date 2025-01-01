@@ -7000,6 +7000,66 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9963,
+            "discovered": "2025-01-01",
+            "post_title": "🚨🇺🇸A Threat Actor Claims to have Leaked the Data of an Unidentified Maritime Industry Company in the US\n\nhttps://darkwebinformer.com/a-threat-actor-claims-to-have-leaked-the-data-of-an-unidentified-maritime-industry-company-in-the-us/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "US"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-claims-to-have-leaked-the-data-of-an-unidentified-maritime-industry-company-in-the-us/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9962,
+            "discovered": "2025-01-01",
+            "post_title": "🚨🇺🇸A Threat Actor Claims to be Selling the Data of Carruth Compliance Consulting, Inc\n\nhttps://darkwebinformer.com/a-threat-actor-claims-to-be-selling-the-data-of-carruth-compliance-consulting-inc/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-claims-to-be-selling-the-data-of-carruth-compliance-consulting-inc/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9961,
+            "discovered": "2025-01-01",
+            "post_title": "🚨🇨🇦A Threat Actor is Allegedly Selling Access to an Unidentified Canadian Retail Corp\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-canadian-retail-corp/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-access-to-an-unidentified-canadian-retail-corp/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9960,
+            "discovered": "2025-01-01",
+            "post_title": "🚨🇰🇷IntelBroker and EnergyWeaponUser Allegedly Leaked the Source Code of Ministry of Environment\n\nhttps://darkwebinformer.com/intelbroker-and-energyweaponuser-allegedly-leaked-the-source-code-of-ministry-of-environment/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/intelbroker-and-energyweaponuser-allegedly-leaked-the-source-code-of-ministry-of-environment/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -46458,6 +46518,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100265,
+            "discovered": "2025-01-01",
+            "post_title": "Title: TP-Link 공유기 CVE-2024-53375 취약점 간단 분석\n\nDate: January 1, 2025\n\nSource: https://wezard4u.tistory.com/429372\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://wezard4u.tistory.com/429372"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -50094,6 +50169,19 @@
             "discovered": "2025-01-01",
             "post_title": "⚡️US Army soldier who allegedly stole Trump's AT&T call logs arrested.\n\n#CyberBulletin",
             "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26987,
+            "discovered": "2025-01-01",
+            "post_title": "⚡️FortiGuard Labs Links New EC2 Grouper Hackers to AWS Credential Exploits.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
             "Location": [
                 "N/A"
             ],
@@ -66609,6 +66697,156 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/ransomhub-ransomware-victim-lianbeng-sg/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80611,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-56070 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56070/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56070/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80610,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-13070 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13070/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13070/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80609,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-56066 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56066/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56066/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80608,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2023-6603 - https://www.redpacketsecurity.com/cve_alert_cve-2023-6603/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2023-6603/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80607,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2023-6602 - https://www.redpacketsecurity.com/cve_alert_cve-2023-6602/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2023-6602/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80606,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-53647 - https://www.redpacketsecurity.com/cve_alert_cve-2024-53647/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-53647/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80605,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-52047 - https://www.redpacketsecurity.com/cve_alert_cve-2024-52047/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-52047/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80604,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-25133 - https://www.redpacketsecurity.com/cve_alert_cve-2024-25133/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-25133/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80603,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-52050 - https://www.redpacketsecurity.com/cve_alert_cve-2024-52050/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-52050/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80602,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-13072 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13072/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13072/"
             ],
             "Matched Keywords": [
                 "Other"
