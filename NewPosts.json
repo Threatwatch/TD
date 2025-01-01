@@ -9434,6 +9434,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 817,
+            "discovered": "2025-01-01",
+            "post_title": "🥳سیستم Netvision SCADA اسرائیل توسط گروه هکری RipperSec مورد حمله سایبری قرار گرفت\n\n🔺هکر نیوز: NetVision Israel یک ارائه دهنده خدمات مخابراتی و اینترنتی است که اکنون بخشی از Cellcom است.\n\n🚨 @HackerNewscyber",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -15119,6 +15132,21 @@
                 "N/A"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1612,
+            "discovered": "2025-01-01",
+            "post_title": "🎄🎁 Stay Safe This Festive Season: Avoid Holiday Scams! 🛡💻\n\nThe holiday season is all about joy and giving, but it’s also prime time for cybercriminals! \nFrom phishing emails to fake deals, scammers are more active than ever. \nDon't let them ruin your festive cheer!\n\n🔍 Here’s what to watch out for:\n\n1️⃣ Phishing emails and fake texts.\n2️⃣ Fake online stores with too-good-to-be-true deals.\n3️⃣ Gift card scams and emotional manipulation.\n4️⃣ Charity fraud exploiting your generosity.\n5️⃣ Package delivery scams via SMS or email.\n6️⃣ Social media marketplace fraud.\n\n🎅 Let’s celebrate safely and scam-free! 🛍✨\n\n👉 Full Article & Tips here⤵️\nhttps://hackmanac.com/news/how-to-stay-safe-from-scams-during-the-festive-season\n\n#CyberSecurity #CyberSecurityAwareness #FestiveSeason #ExpertInsights #StayCyberSafe #Hackmanac",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "hackmanac.com/news/how-to-stay-safe-from-scams-during-the-festive-season\n\n#Cyber"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
@@ -32681,6 +32709,21 @@
             ],
             "URLs": [
                 "https://t.co/33D2xhvNMV"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4138,
+            "discovered": "2025-01-01",
+            "post_title": "Group: ciphbit\nApprox. Time: 14:33 01/01/25\nTitle: https://t.co/RNqRtgHiuB",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/RNqRtgHiuB"
             ],
             "Matched Keywords": [
                 "Other"
@@ -66551,6 +66594,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-36-140-28-13-port-7777/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80601,
+            "discovered": "2025-01-01",
+            "post_title": "[RANSOMHUB] - Ransomware Victim: lianbeng[.]sg - https://www.redpacketsecurity.com/ransomhub-ransomware-victim-lianbeng-sg/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/ransomhub-ransomware-victim-lianbeng-sg/"
             ],
             "Matched Keywords": [
                 "Other"
