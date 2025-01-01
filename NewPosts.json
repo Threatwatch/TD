@@ -9404,6 +9404,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 816,
+            "discovered": "2025-01-01",
+            "post_title": "https://x.com/StoatSnow/status/1874034695325065655?t=Ey-SUTCu9JKmYQ4QSk6KeA&s=35",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/StoatSnow/status/1874034695325065655?t=Ey-SUTCu9JKmYQ4QSk6KeA&s=35"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 815,
+            "discovered": "2025-01-01",
+            "post_title": "https://x.com/Cyber_O51NT/status/1874033654797615470?t=AIxh-hR53JtlUZ5w0MQhYg&s=35",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/Cyber_O51NT/status/1874033654797615470?t=AIxh-hR53JtlUZ5w0MQhYg&s=35"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -46305,6 +46335,21 @@
             ],
             "URLs": [
                 "https://www.crowdstrike.com/en-us/blog/unify-security-posture-protection-for-faster-cdr/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100262,
+            "discovered": "2025-01-01",
+            "post_title": "Victim: lianbeng.sg\n\nDetection Date: Wed Jan 01 11:55:29 2025\n\nThreat Actor: ransomhub\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "lianbeng.sg"
             ],
             "Matched Keywords": [
                 "Other"
