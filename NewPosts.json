@@ -7163,6 +7163,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9972,
+            "discovered": "2025-01-01",
+            "post_title": "💡I updated the dnmbible repo to include the DNM Vendor Bible, which is in PDF format\n\nhttps://github.com/DarkWebInformer/dnmbible",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://github.com/DarkWebInformer/dnmbible"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9971,
+            "discovered": "2025-01-01",
+            "post_title": "💡GoSearch: A Powerful OSINT Tool for Tracking Digital Footprints and Leaked Passwords Across Social Networks\n\nhttps://darkwebinformer.com/gosearch-a-powerful-osint-tool-for-tracking-digital-footprints-and-leaked-passwords-across-social-networks/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/gosearch-a-powerful-osint-tool-for-tracking-digital-footprints-and-leaked-passwords-across-social-networks/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -46697,6 +46727,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100269,
+            "discovered": "2025-01-01",
+            "post_title": "Title: Hacked on Christmas, DEPhoto starts notifying customers, only to be attacked again\n\nDate: January 1, 2025\n\nSource: https://databreaches.net/2025/01/01/hacked-on-christmas-dephoto-starts-notifying-customers-only-to-be-attacked-again/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://databreaches.net/2025/01/01/hacked-on-christmas-dephoto-starts-notifying-customers-only-to-be-attacked-again/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -67026,6 +67071,36 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/ciphbit-ransomware-victim-kitevuc-equipamentos-e-veiculos-utilit-rios-e-comerciais/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80614,
+            "discovered": "2025-01-01",
+            "post_title": "[THREEAM] - Ransomware Victim: sacredheart[.]southwark[.]sch[.]uk - https://www.redpacketsecurity.com/threeam-ransomware-victim-sacredheart-southwark-sch-uk/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/threeam-ransomware-victim-sacredheart-southwark-sch-uk/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80613,
+            "discovered": "2025-01-01",
+            "post_title": "[THREEAM] - Ransomware Victim: oklahomasleepinstitute[.]com - https://www.redpacketsecurity.com/threeam-ransomware-victim-oklahomasleepinstitute-com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/threeam-ransomware-victim-oklahomasleepinstitute-com/"
             ],
             "Matched Keywords": [
                 "Other"
