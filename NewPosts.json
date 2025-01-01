@@ -7245,6 +7245,32 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9979,
+            "discovered": "2025-01-01",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9978,
+            "discovered": "2025-01-01",
+            "post_title": "🚨🇷🇺X0Frankenstein Claims to have Leaked Data from KCT and Farline",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -46837,6 +46863,187 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100282,
+            "discovered": "2025-01-01",
+            "post_title": "CVE-ID: CVE-2023-21751\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-21751\n\nDescription: Azure DevOps Server Spoofing Vulnerability\n\nPublication Date: Thu Jan 02 01:47:37 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-21751"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100281,
+            "discovered": "2025-01-01",
+            "post_title": "CVE-ID: CVE-2023-36878\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-36878\n\nDescription: Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability\n\nPublication Date: Thu Jan 02 01:47:26 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-36878"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100280,
+            "discovered": "2025-01-01",
+            "post_title": "CVE-ID: CVE-2023-35644\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35644\n\nDescription: Windows Sysmain Service Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 01:47:15 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35644"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100279,
+            "discovered": "2025-01-01",
+            "post_title": "CVE-ID: CVE-2023-36403\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-36403\n\nDescription: Windows Kernel Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 01:47:04 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-36403"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100278,
+            "discovered": "2025-01-01",
+            "post_title": "CVE-ID: CVE-2023-36404\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-36404\n\nDescription: Windows Kernel Information Disclosure Vulnerability\n\nPublication Date: Thu Jan 02 01:46:53 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-36404"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100277,
+            "discovered": "2025-01-01",
+            "post_title": "CVE-ID: CVE-2023-36558\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-36558\n\nDescription: ASP.NET Core Security Feature Bypass Vulnerability\n\nPublication Date: Thu Jan 02 01:46:43 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-36558",
+                "ASP.NET"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100276,
+            "discovered": "2025-01-01",
+            "post_title": "CVE-ID: CVE-2024-12753\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12753\n\nDescription: Foxit PDF Reader Link Following Local Privilege Escalation Vulnerability. This vulnerability allows local attackers to escalate privileges on affected installations of Foxit PDF Reader. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.\n\nThe specific flaw exists within the product installer. By creating a junction, an attacker can abuse the installer process to create an arbitrary file. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of SYSTEM. Was ZDI-CAN-25408.\n\nPublication Date: Thu Jan 02 01:46:32 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12753"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100275,
+            "discovered": "2025-01-01",
+            "post_title": "CVE-ID: CVE-2024-12752\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12752\n\nDescription: Foxit PDF Reader AcroForm Memory Corruption Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the handling of AcroForms. The issue results from the lack of proper validation of user-supplied data, which can result in a memory corruption condition. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-25345.\n\nPublication Date: Thu Jan 02 01:46:21 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12752"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100274,
+            "discovered": "2025-01-01",
+            "post_title": "CVE-ID: CVE-2024-12751\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12751\n\nDescription: Foxit PDF Reader AcroForm Out-Of-Bounds Read Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the handling of AcroForms. The issue results from the lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-25344.\n\nPublication Date: Thu Jan 02 01:46:10 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12751"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100273,
+            "discovered": "2025-01-01",
+            "post_title": "CVE-ID: CVE-2024-56337\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56337\n\nDescription: Time-of-check Time-of-use (TOCTOU) Race Condition vulnerability in Apache Tomcat.\n\nThis issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.1, from 10.1.0-M1 through 10.1.33, from 9.0.0.M1 through 9.0.97.\n\nThe mitigation for CVE-2024-50379 was incomplete.\n\nUsers running Tomcat on a case insensitive file system with the default servlet write enabled (readonly initialisation \nparameter set to the non-default value of false) may need additional configuration to fully mitigate CVE-2024-50379 depending on which version of Java they are using with Tomcat:\n- running on Java 8 or Java 11: the system property sun.io.useCanonCaches must be explicitly set to false (it defaults to true)\n- running on Java 17: the system property sun.io.useCanonCaches, if set, must be set to false (it defaults to false)\n- running on Java 21 onwards: no further configuration is required (the system property and the problematic cache have been removed)\n\nTomcat 11.0.3, 10.1.35 and 9.0.99 onwards will include checks that sun.io.useCanonCaches is set appropriately before allowing the default servlet to be write enabled on a case insensitive file system. Tomcat will also set sun.io.useCanonCaches to false by default where it can.\n\nPublication Date: Thu Jan 02 01:45:59 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Apache Tomcat"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56337"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100272,
+            "discovered": "2025-01-01",
+            "post_title": "CVE-ID: CVE-2024-11846\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-11846\n\nDescription: The  does not sanitise and escape a parameter before outputting it back in the page, leading to a Reflected Cross-Site Scripting which could be used against high privilege users such as admin\n\nPublication Date: Thu Jan 02 01:45:49 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-11846"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100271,
+            "discovered": "2025-01-01",
+            "post_title": "CVE-ID: CVE-2025-0168\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0168\n\nDescription: A vulnerability classified as critical has been found in code-projects Job Recruitment 1.0. This affects an unknown part of the file /_parse/_feedback_system.php. The manipulation of the argument person leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Jan 02 01:45:38 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0168"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -67372,6 +67579,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-56206/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80625,
+            "discovered": "2025-01-01",
+            "post_title": "[FUNKSEC] - Ransomware Victim: scps[.]mp[.]gov[.]in - https://www.redpacketsecurity.com/funksec-ransomware-victim-scps-mp-gov-in/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-scps-mp-gov-in/"
             ],
             "Matched Keywords": [
                 "Other"
