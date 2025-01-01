@@ -36761,6 +36761,22 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5222,
+            "discovered": "2025-01-01",
+            "post_title": "ID: 19877\n⚠ 2025-01-01 08:53:36\n🥷 ransomhub\n🎯 lianbeng.sg, Singapore\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19877",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Singapore"
+            ],
+            "URLs": [
+                "anbeng.sg, ",
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19877"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
