@@ -7105,6 +7105,64 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9970,
+            "discovered": "2025-01-01",
+            "post_title": "🚨🇷🇺HIMARS DDOS Targeted the Website of GTO\n\nhttps://darkwebinformer.com/himars-ddos-targeted-the-website-of-gto/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/himars-ddos-targeted-the-website-of-gto/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9969,
+            "discovered": "2025-01-01",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9968,
+            "discovered": "2025-01-01",
+            "post_title": "💡Changelog updated. All changes: https://darkwebinformer.com/changelog\n\n🌟 Version 3.52 - January 1st, 2025\n\n🎉 New Features:\n\n* \n\n⚙️ Improvements:\n\n* Added 1 Fraud Shop\n* Added 1 to Everything Else\n* Added 6 Sites to Hosting that includes 2 onions for a total of 8 links\n* Removed 1 Darknet Market for being inactive for more than a month, this was a newer market, nothing big\n* Removed 3 Ransomware Gangs\n* Now tracking 430 links\n\n🐛 Bug Fixes:\n\n* \n\n🐛 Open Bugs:\n\n* Mobile: Threat Feeds only look proper when changing to desktop site.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Changelog"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9967,
+            "discovered": "2025-01-01",
+            "post_title": "🚨🇨🇴Ddarknotevil Claims to have Leaked the Data of Huila Chamber of Commerce\n\nhttps://darkwebinformer.com/ddarknotevil-claims-to-have-leaked-the-data-of-huila-chamber-of-commerce/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/ddarknotevil-claims-to-have-leaked-the-data-of-huila-chamber-of-commerce/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
