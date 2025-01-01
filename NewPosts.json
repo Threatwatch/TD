@@ -65826,6 +65826,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 80575,
+            "discovered": "2025-01-01",
+            "post_title": "Cybersecurity Policy Crisis: Majority of UK SMEs Unprepared for Threats - https://www.redpacketsecurity.com/majority-of-uk-smes-lack-cybersecurity-policy/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "UK"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/majority-of-uk-smes-lack-cybersecurity-policy/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomware Live - Ransomware Alerts": [
