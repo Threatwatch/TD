@@ -28467,6 +28467,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1283,
+            "discovered": "2025-01-01",
+            "post_title": "https://t.me/+rf1n2gxSPRM0NjE0",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/+rf1n2gxSPRM0NjE0"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "AHU Official": [
@@ -46738,6 +46753,21 @@
             ],
             "URLs": [
                 "https://databreaches.net/2025/01/01/hacked-on-christmas-dephoto-starts-notifying-customers-only-to-be-attacked-again/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100270,
+            "discovered": "2025-01-01",
+            "post_title": "Title: 2025 Forecast: AI to supercharge attacks, quantum threats grow, SaaS security woes\n\nDate: January 1, 2025\n\nSource: https://www.scworld.com/feature/cybersecurity-threats-continue-to-evolve-in-2025-driven-by-ai\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/feature/cybersecurity-threats-continue-to-evolve-in-2025-driven-by-ai"
             ],
             "Matched Keywords": [
                 "Other"
