@@ -16895,6 +16895,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1996,
+            "discovered": "2025-01-01",
+            "post_title": "https://t.me/B2K_00_B2k?livestream",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/B2K_00_B2k?livestream"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Esteem Restoration Eagle": [
@@ -46381,6 +46396,21 @@
             ],
             "URLs": [
                 "https://thehackernews.com/2025/01/iranian-and-russian-entities-sanctioned.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100264,
+            "discovered": "2025-01-01",
+            "post_title": "Title: New \"DoubleClickjacking\" Exploit Bypasses Clickjacking Protections on Major Websites\n\nDate: Jan 01, 2025\n\nSource: https://thehackernews.com/2025/01/new-doubleclickjacking-exploit-bypasses.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2025/01/new-doubleclickjacking-exploit-bypasses.html"
             ],
             "Matched Keywords": [
                 "Other"
