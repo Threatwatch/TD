@@ -9363,6 +9363,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 812,
+            "discovered": "2025-01-01",
+            "post_title": "TOP 10 CYBER THREAT ACTORS OF THE WEEK\n\nhttps://hackmanac.com/news/hack-tuesday-week-25-31-december-2024",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://hackmanac.com/news/hack-tuesday-week-25-31-december-2024"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -49734,6 +49749,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 26976,
+            "discovered": "2025-01-01",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "INDOHAXSEC TEAM": [
@@ -65871,6 +65899,156 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 80586,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-13079 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13079/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13079/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80585,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-13080 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13080/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13080/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80584,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-13082 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13082/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13082/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80583,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-13078 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13078/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13078/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80582,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-13081 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13081/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13081/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80581,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-13083 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13083/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13083/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80580,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-56063 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56063/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56063/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80579,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-13084 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13084/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13084/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80578,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-13085 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13085/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13085/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80577,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-56062 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56062/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56062/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomware Live - Ransomware Alerts": [
@@ -70852,6 +71030,28 @@
             ],
             "URLs": [
                 "https://t.me/INDOHAXSEC_SERVICE"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3636,
+            "discovered": "2025-01-01",
+            "post_title": "FidzXploit was here.....\n\nSay hello to india...\n\nDEFACED:\nhttps://createmystore.shop\nhttps://www.miezu.in\nhttps://ecom-site.com\nhttps://telangana-host.objectsquare.in\nhttps://www.createmystore.online\nhttps://createmystore.in\nhttps://tistabarta.xyz\nhttps://nepalikhelkud.com\n\n\n\n#INDOHAXSEC",
+            "Attack Type": "Defacement",
+            "Location": [
+                "india"
+            ],
+            "URLs": [
+                "https://createmystore.shop",
+                "https://www.miezu.in",
+                "https://ecom-site.com",
+                "https://telangana-host.objectsquare.in",
+                "https://www.createmystore.online",
+                "https://createmystore.in",
+                "https://tistabarta.xyz",
+                "https://nepalikhelkud.com"
             ],
             "Matched Keywords": [
                 "Other"
