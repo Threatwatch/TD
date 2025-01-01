@@ -7193,6 +7193,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9973,
+            "discovered": "2025-01-01",
+            "post_title": "💡More. Now tracking 443 links\n\n- Added 1 Forum (2 links)\n- Added 2 Security Tool to Security (4 links)\n- Added 5 Wallets to Crypto Services (7 links)",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -32936,6 +32949,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4139,
+            "discovered": "2025-01-01",
+            "post_title": "Group: lockbit3\nApprox. Time: 20:36 01/01/25\nTitle: regencymedia",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -50428,6 +50454,32 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 26989,
+            "discovered": "2025-01-01",
+            "post_title": "hola",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26988,
+            "discovered": "2025-01-01",
+            "post_title": "Hola",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "INDOHAXSEC TEAM": [
@@ -67131,6 +67183,156 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/threeam-ransomware-victim-oklahomasleepinstitute-com/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80624,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-56061 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56061/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56061/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80623,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-56040 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56040/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56040/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80622,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-56043 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56043/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56043/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80621,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-56045 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56045/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56045/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80620,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-56044 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56044/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56044/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80619,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-56204 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56204/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56204/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80618,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-56203 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56203/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56203/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80617,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-56002 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56002/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56002/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80616,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-56207 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56207/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56207/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80615,
+            "discovered": "2025-01-01",
+            "post_title": "CVE Alert: CVE-2024-56206 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56206/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56206/"
             ],
             "Matched Keywords": [
                 "Other"
