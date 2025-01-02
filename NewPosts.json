@@ -7489,6 +7489,34 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9996,
+            "discovered": "2025-01-02",
+            "post_title": "https://www.extensiontotal.com/cyberhaven-incident-live",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.extensiontotal.com/cyberhaven-incident-live"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9995,
+            "discovered": "2025-01-02",
+            "post_title": "🚨🇮🇳A Threat Actor Claims to have Leaked an Unidentified Indian Real Estate Company",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -9947,6 +9975,21 @@
             ],
             "URLs": [
                 "https://x.com/monthreat/status/1874739783471346176?s="
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 820,
+            "discovered": "2025-01-02",
+            "post_title": "https://x.com/MonThreat/status/1874739783471346176?t=B-kuxhtBanKPhhkeOU_2mg&s=19",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/MonThreat/status/1874739783471346176?t=B-kuxhtBanKPhhkeOU_2mg&s=19"
             ],
             "Matched Keywords": [
                 "Other"
@@ -26066,6 +26109,19 @@
             "URLs": [
                 "ttp://www.cogitis.fr\n"
             ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4523,
+            "discovered": "2025-01-02",
+            "post_title": "🚨 New Event Detected!\n\nCategory: Cyber Threat Intelligence\nName: FunkSec Group Continues Expanding Its Footprint in the Cybercrime Scene\nTag: Data Breach",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
             "Matched Keywords": [
                 "Other"
             ]
@@ -50392,6 +50448,336 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2022-26899"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100496,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Sinisterly - nord vpn account best quality\n\nDetection Date: Thu Jan 02 23:43:19 2025\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-nord-vpn-account-best-quality\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-nord-vpn-account-best-quality"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100495,
+            "discovered": "2025-01-02",
+            "post_title": "Title: NPM package poses as legit Ethereum smart contract, injects Quasar RAT\n\nDate: January 2, 2025\n\nSource: https://www.scworld.com/news/npm-package-poses-as-legit-ethereum-smart-contract-injects-quasar-rat\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/npm-package-poses-as-legit-ethereum-smart-contract-injects-quasar-rat"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100494,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Breaking Encryption: How To Prepare For Tomorrow's Quantum Risk Today\n\nDate: January 2, 2025\n\nSource: https://www.paloaltonetworks.com/blog/2025/01/breaking-encryption-how-to-prepare-for-tomorrows-quantum-risk-today/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.paloaltonetworks.com/blog/2025/01/breaking-encryption-how-to-prepare-for-tomorrows-quantum-risk-today/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100493,
+            "discovered": "2025-01-02",
+            "post_title": "Title: New DoubleClickjacking attack exploits double-clicks to hijack accounts\n\nDate: January 02, 2025\n\nSource: https://www.bleepingcomputer.com/news/security/new-doubleclickjacking-attack-exploits-double-clicks-to-hijack-accounts/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/new-doubleclickjacking-attack-exploits-double-clicks-to-hijack-accounts/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100492,
+            "discovered": "2025-01-02",
+            "post_title": "Title: [일본 드라마]ドラゴン桜 2(드래곤 사쿠라 2,2021)\n\nDate: January 2, 2025\n\nSource: https://wezard4u.tistory.com/429373\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://wezard4u.tistory.com/429373"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100491,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-35788\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35788\n\nDescription: Azure Site Recovery Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 23:09:57 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35788"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100490,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-35814\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35814\n\nDescription: Azure Site Recovery Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 23:09:46 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35814"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100489,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-35789\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35789\n\nDescription: Azure Site Recovery Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 23:09:35 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35789"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100488,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-35790\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35790\n\nDescription: Azure Site Recovery Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 23:09:24 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35790"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100487,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-35817\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35817\n\nDescription: Azure Site Recovery Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 23:09:13 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35817"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100486,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2023-35143\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35143\n\nDescription: Jenkins Maven Repository Server Plugin 1.10 and earlier does not escape the versions of build artifacts on the Build Artifacts As Maven Repository page, resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers able to control maven project versions in `pom.xml`.\n\nPublication Date: Thu Jan 02 23:09:02 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35143"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100485,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-35818\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35818\n\nDescription: Azure Site Recovery Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 23:08:51 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35818"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100484,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-35819\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35819\n\nDescription: Azure Site Recovery Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 23:08:40 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35819"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100483,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-35821\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35821\n\nDescription: Azure Sphere Information Disclosure Vulnerability\n\nPublication Date: Thu Jan 02 23:08:29 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35821"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100482,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-35824\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35824\n\nDescription: Azure Site Recovery Remote Code Execution Vulnerability\n\nPublication Date: Thu Jan 02 23:08:18 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35824"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100481,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-35825\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35825\n\nDescription: Visual Studio Remote Code Execution Vulnerability\n\nPublication Date: Thu Jan 02 23:08:08 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35825"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100480,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-35826\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35826\n\nDescription: Visual Studio Remote Code Execution Vulnerability\n\nPublication Date: Thu Jan 02 23:07:57 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35826"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100479,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-35827\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35827\n\nDescription: Visual Studio Remote Code Execution Vulnerability\n\nPublication Date: Thu Jan 02 23:07:46 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35827"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100478,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-35777\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35777\n\nDescription: Visual Studio Remote Code Execution Vulnerability\n\nPublication Date: Thu Jan 02 23:07:34 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35777"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100477,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-35820\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35820\n\nDescription: Windows Bluetooth Driver Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 23:07:23 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35820"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100476,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-34711\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-34711\n\nDescription: Windows Defender Credential Guard Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 23:07:13 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-34711"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100475,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-35822\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-35822\n\nDescription: Windows Defender Credential Guard Security Feature Bypass Vulnerability\n\nPublication Date: Thu Jan 02 23:07:02 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-35822"
             ],
             "Matched Keywords": [
                 "Other"
