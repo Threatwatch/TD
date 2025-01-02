@@ -47234,6 +47234,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100289,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2002-20002\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2002-20002\n\nDescription: The Net::EasyTCP package before 0.15 for Perl always uses Perl's builtin rand(), which is not a strong random number generator, for cryptographic keys.\n\nPublication Date: Thu Jan 02 09:02:09 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2002-20002"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100288,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-56830\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56830\n\nDescription: The Net::EasyTCP package 0.15 through 0.26 for Perl uses Perl's builtin rand() if no strong randomization module is present.\n\nPublication Date: Thu Jan 02 09:01:58 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56830"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
