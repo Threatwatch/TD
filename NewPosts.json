@@ -7416,6 +7416,49 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9992,
+            "discovered": "2025-01-02",
+            "post_title": "🚨🇺🇸Alleged Data Leak of U.S. Citizen Driver’s Licenses\n\nhttps://darkwebinformer.com/alleged-data-leak-of-u-s-citizen-drivers-licenses/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "U.S."
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/alleged-data-leak-of-u-s-citizen-drivers-licenses/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9991,
+            "discovered": "2025-01-02",
+            "post_title": "🚨🇮🇱Alleged Access Sale to a Leading Data Platform in Israel for $60,000 USD\n\nhttps://darkwebinformer.com/alleged-access-sale-to-a-leading-data-platform-in-israel-for-60-000-usd/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/alleged-access-sale-to-a-leading-data-platform-in-israel-for-60-000-usd/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9990,
+            "discovered": "2025-01-02",
+            "post_title": "The \"Plus/Pro Feed\" now has DDoS and defacement posts. You will need to refresh the page once in order to  see the updated JSON and the 200 or so pages that have been added.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -37490,6 +37533,22 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5226,
+            "discovered": "2025-01-02",
+            "post_title": "ID: 19881\n⚠ 2025-01-02 16:51:44\n🥷 darkvault\n🎯 confluxhr.com, India\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19881",
+            "Attack Type": "Unknown",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "nfluxhr.com, ",
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19881"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -49602,6 +49661,396 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100453,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Chinese hackers targeted sanctions office in Treasury attack\n\nDate: January 02, 2025\n\nSource: https://www.bleepingcomputer.com/news/security/chinese-hackers-targeted-sanctions-office-in-treasury-attack/\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/chinese-hackers-targeted-sanctions-office-in-treasury-attack/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100452,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-0896\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-0896\n\nDescription: The Beaver Builder – WordPress Page Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the button link parameter in all versions up to, and including, 2.7.4.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers with contributor access or higher to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Thu Jan 02 21:15:17 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-0896",
+                "2.7.4.2"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100451,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-0871\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-0871\n\nDescription: The Beaver Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the Icon Widget 'fl_builder_data[node_preview][link]' and 'fl_builder_data[settings][link_target]' parameters in all versions up to, and including, 2.7.4.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Thu Jan 02 21:15:06 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-0871",
+                "2.7.4.2"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100450,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2023-46611\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-46611\n\nDescription: Authentication Bypass by Primary Weakness vulnerability in yourownprogrammer YOP Poll allows Authentication Bypass.This issue affects YOP Poll: from n/a through 6.5.28.\n\nPublication Date: Thu Jan 02 21:14:55 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-46611"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100449,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-13107\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-13107\n\nDescription: A vulnerability was found in D-Link DIR-816 A2 1.10CNB05_R1B011D88210. It has been classified as critical. This affects an unknown part of the file /goform/form2LocalAclEditcfg.cgi of the component ACL Handler. The manipulation leads to improper access controls. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Jan 02 21:14:44 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13107"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100448,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2023-29200\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-29200\n\nDescription: Contao is an open source content management system. Prior to versions 4.9.40, 4.13.21, and 5.1.4, logged in users can list arbitrary system files in the file manager by manipulating the Ajax request. However, it is not possible to read the contents of these files. Users should update to Contao 4.9.40, 4.13.21 or 5.1.4 to receive a patch. There are no known workarounds.\n\nPublication Date: Thu Jan 02 21:14:34 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-29200"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100447,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-43926\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43926\n\nDescription: Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in The Beaver Builder Team Beaver Builder allows Reflected XSS.This issue affects Beaver Builder: from n/a through 2.8.3.2.\n\nPublication Date: Thu Jan 02 21:14:23 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43926",
+                "2.8.3.2"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100446,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2021-38023\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-38023\n\nDescription: Use after free in Extensions in Google Chrome prior to 92.0.4515.107 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)\n\nPublication Date: Thu Jan 02 21:14:12 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-38023"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100445,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-11717\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-11717\n\nDescription: Tokens in CTFd used for account activation and password resetting can be used interchangeably for these operations. When used, they are sent to the server as a GET parameter and they are not single use, which means, that during token expiration time an on-path attacker might reuse such a token to change user's password and take over the account. Moreover, the tokens also include base64 encoded user email.\n\nThis issue impacts releases up to 3.7.4 and was addressed by  pull request 2679 https://github.com/CTFd/CTFd/pull/2679  included in 3.7.5 release.\n\nPublication Date: Thu Jan 02 21:14:01 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-11717",
+                "https://github.com/CTFd/CTFd/pull/2679"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100444,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-11716\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-11716\n\nDescription: While assignment of a user to a team (bracket) in CTFd  should be possible only once, at the registration, a flaw in logic implementation allows an authenticated user to reset it's bracket and then pick a new one, joining another team while a competition is already ongoing.\nThis issue impacts releases from 3.7.0 up to 3.7.4 and was addressed by  pull request 2636 https://github.com/CTFd/CTFd/pull/2636  included in 3.7.5 release.\n\nPublication Date: Thu Jan 02 21:13:50 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-11716",
+                "https://github.com/CTFd/CTFd/pull/2636"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100443,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-12907\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12907\n\nDescription: Kentico CMS in version 7 is vulnerable to a Reflected XSS attacks through manipulation of  a specific GET request parameter sent to /CMSMessages/AccessDenied.aspx endpoint.\nNotably, support for this version of Kentico ended in 2016. Version 8 was tested as well and does not contain this vulnerability.\n\nPublication Date: Thu Jan 02 21:13:39 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Kentico"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12907"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100442,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-9950\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9950\n\nDescription: A vulnerability in Forescout SecureConnector v11.3.07.0109 on Windows allows \n\nunauthenticated user to modify compliance scripts due to insecure temporary directory.\n\nPublication Date: Thu Jan 02 21:13:28 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9950"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100441,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-13079\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-13079\n\nDescription: A vulnerability was found in PHPGurukul Land Record System 1.0 and classified as critical. Affected by this issue is some unknown functionality of the file /admin/property-details.php. The manipulation of the argument editid leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Jan 02 21:13:18 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13079"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100440,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2025-0173\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0173\n\nDescription: A vulnerability was found in SourceCodester Online Eyewear Shop 1.0 and classified as critical. Affected by this issue is some unknown functionality of the file /orders/view_order.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Jan 02 21:13:07 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0173"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100439,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-56199\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56199\n\nDescription: phpMyFAQ is an open source FAQ web application. Starting no later than version 3.2.10 and prior to version 4.0.2, an attacker can inject malicious HTML content into the FAQ editor at `http[:]//localhost/admin/index[.]php?action=editentry`, resulting in a complete disruption of the FAQ page's user interface. By injecting malformed HTML elements styled to cover the entire screen, an attacker can render the page unusable. This injection manipulates the page structure by introducing overlapping buttons, images, and iframes, breaking the intended layout and functionality. Exploiting this issue can lead to Denial of Service for legitimate users, damage to the user experience, and potential abuse in phishing or defacement attacks. Version 4.0.2 contains a patch for the vulnerability.\n\nPublication Date: Thu Jan 02 21:12:56 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56199"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100438,
+            "discovered": "2025-01-02",
+            "post_title": "Vulnerability ID: CVE-2024-9957\n\nDescription: Use after free in UI in Google Chrome on iOS prior to 130.0.6723.58 allowed a remote attacker who convinced a user to engage in specific UI gestures to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Medium)\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-9957\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://issues.chromium.org/issues/358151317\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9957",
+                "https://issues.chromium.org/issues/358151317"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100437,
+            "discovered": "2025-01-02",
+            "post_title": "Vulnerability ID: CVE-2024-9121\n\nDescription: Inappropriate implementation in V8 in Google Chrome prior to 129.0.6668.70 allowed a remote attacker to potentially perform out of bounds memory access via a crafted HTML page. (Chromium security severity: High)\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-9121\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://issues.chromium.org/issues/363538434\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9121",
+                "https://issues.chromium.org/issues/363538434"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100436,
+            "discovered": "2025-01-02",
+            "post_title": "Vulnerability ID: CVE-2024-9122\n\nDescription: Type Confusion in V8 in Google Chrome prior to 129.0.6668.70 allowed a remote attacker to perform out of bounds memory access via a crafted HTML page. (Chromium security severity: High)\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-9122\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://issues.chromium.org/issues/365802567\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9122",
+                "https://issues.chromium.org/issues/365802567"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100435,
+            "discovered": "2025-01-02",
+            "post_title": "Vulnerability ID: CVE-2024-27930\n\nDescription: GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing. An authenticated user can access sensitive fields data from items on which he has read access. This issue has been patched in version 10.0.13.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-27930\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://borelenzo.github.io/stuff/2024/02/29/glpi-pwned.html\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27930",
+                "https://borelenzo.github.io/stuff/2024/02/29/glpi-pwned.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100434,
+            "discovered": "2025-01-02",
+            "post_title": "Vulnerability ID: CVE-2024-27937\n\nDescription: GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing. An authenticated user can obtain the email address of all GLPI users. This issue has been patched in version 10.0.13.\n\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-27937\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://borelenzo.github.io/stuff/2024/02/29/glpi-pwned.html\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27937",
+                "https://borelenzo.github.io/stuff/2024/02/29/glpi-pwned.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100433,
+            "discovered": "2025-01-02",
+            "post_title": "Vulnerability ID: CVE-2024-9602\n\nDescription: Type Confusion in V8 in Google Chrome prior to 129.0.6668.100 allowed a remote attacker to perform an out of bounds memory write via a crafted HTML page. (Chromium security severity: High)\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-9602\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://issues.chromium.org/issues/368241697\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9602",
+                "https://issues.chromium.org/issues/368241697"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100432,
+            "discovered": "2025-01-02",
+            "post_title": "Vulnerability ID: CVE-2024-7020\n\nDescription: Inappropriate implementation in Autofill in Google Chrome prior to 124.0.6367.60 allowed a remote attacker to perform UI spoofing via a crafted HTML page. (Chromium security severity: Low)\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-7020\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://issues.chromium.org/issues/40076065\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7020",
+                "https://issues.chromium.org/issues/40076065"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100431,
+            "discovered": "2025-01-02",
+            "post_title": "Vulnerability ID: CVE-2024-7023\n\nDescription: Insufficient data validation in Updater in Google Chrome prior to 128.0.6537.0 allowed a remote attacker to perform privilege escalation via a malicious file. (Chromium security severity: Medium)\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-7023\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://issues.chromium.org/issues/341803763\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7023",
+                "https://issues.chromium.org/issues/341803763"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100430,
+            "discovered": "2025-01-02",
+            "post_title": "Vulnerability ID: CVE-2024-7024\n\nDescription: Inappropriate implementation in V8 in Google Chrome prior to 126.0.6478.54 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page. (Chromium security severity: Low)\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-7024\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://issues.chromium.org/issues/334120897\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-7024",
+                "https://issues.chromium.org/issues/334120897"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100429,
+            "discovered": "2025-01-02",
+            "post_title": "Vulnerability ID: CVE-2024-9120\n\nDescription: Use after free in Dawn in Google Chrome on Windows prior to 129.0.6668.70 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-9120\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://issues.chromium.org/issues/365254285\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9120",
+                "https://issues.chromium.org/issues/365254285"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -53595,6 +54044,20 @@
             "Attack Type": "Data Breach",
             "Location": [
                 "Israel"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27020,
+            "discovered": "2025-01-02",
+            "post_title": "Keffiyeh tight, fist high, no retreat.\nCourage carved in the Holy Land.\nHackers are flooding in from all sides.\nWorld is ours, we're coming for your crime.\nExpect us, Israel.\nWe Are the Children of Gaza.\n\nكوفية مشدودة، قبضة عالية، دون تراجع.  \nالشجاعة المنحوتة في الأرض المقدسة.  \nالمخترقون يتدفقون من كل جانب.  \nالعالم لنا، نحن قادمون من أجل جريمتك.  \nتوقعنا، يا إسرائيل.  \nنحن أبناء غزة.\n\n#OpIsrael2025 #Cyberwar",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Israel",
+                "Gaza"
             ],
             "URLs": [],
             "Matched Keywords": [
@@ -76108,6 +76571,86 @@
             "URLs": [
                 "https://kvkbarwani.org",
                 "https://myinfoline.in"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3643,
+            "discovered": "2025-01-02",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3642,
+            "discovered": "2025-01-02",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3641,
+            "discovered": "2025-01-02",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3640,
+            "discovered": "2025-01-02",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3639,
+            "discovered": "2025-01-02",
+            "post_title": "SAMPLE DOCUMENT!\n\n\n\n#INDOHAXSEC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3638,
+            "discovered": "2025-01-02",
+            "post_title": "FULL DATABASE Foundation of AICPE (All India Council for Professional Excellence)\n\nDARKFORUMS:\nhttps://darkforums.st/Thread-FULL-DATABASE-Foundation-of-AICPE-All-India-Council-for-Professional-Excellence\n\nThe database contains personal data of users such as serial number, full name, telephone number, full address, email, username, password, registration date and several documents...\n\nFOR PURCHASE CONTACT:\nCONTACT:\nBLOCKCHAT \n❖ Code: VFG2SAL1\n\n\n#INDOHAXSEC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkforums.st/Thread-FULL-DATABASE-Foundation-of-AICPE-All-India-Council-for-Professional-Excellence"
             ],
             "Matched Keywords": [
                 "Other"
