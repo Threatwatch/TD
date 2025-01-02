@@ -51640,6 +51640,261 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100566,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-41034\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-41034\n\nDescription: Visual Studio Code Remote Code Execution Vulnerability\n\nPublication Date: Fri Jan 03 02:41:21 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-41034"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100565,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-41035\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-41035\n\nDescription: Microsoft Edge (Chromium-based) Spoofing Vulnerability\n\nPublication Date: Fri Jan 03 02:41:10 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-41035"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100564,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-41036\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-41036\n\nDescription: Microsoft SharePoint Server Remote Code Execution Vulnerability\n\nPublication Date: Fri Jan 03 02:41:00 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-41036"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100563,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-41037\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-41037\n\nDescription: Microsoft SharePoint Server Remote Code Execution Vulnerability\n\nPublication Date: Fri Jan 03 02:40:49 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-41037"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100562,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-41038\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-41038\n\nDescription: Microsoft SharePoint Server Remote Code Execution Vulnerability\n\nPublication Date: Fri Jan 03 02:40:38 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-41038"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100561,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-41042\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-41042\n\nDescription: Visual Studio Code Information Disclosure Vulnerability\n\nPublication Date: Fri Jan 03 02:40:27 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-41042"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100560,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-41043\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-41043\n\nDescription: Microsoft Office Information Disclosure Vulnerability\n\nPublication Date: Fri Jan 03 02:40:16 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-41043"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100559,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-41064\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-41064\n\nDescription: .NET Framework Information Disclosure Vulnerability\n\nPublication Date: Fri Jan 03 02:40:05 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-41064"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100558,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-41073\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-41073\n\nDescription: Windows Print Spooler Elevation of Privilege Vulnerability\n\nPublication Date: Fri Jan 03 02:39:54 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-41073"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100557,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-41081\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-41081\n\nDescription: Windows Point-to-Point Tunneling Protocol Remote Code Execution Vulnerability\n\nPublication Date: Fri Jan 03 02:39:44 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-41081"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100556,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-41083\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-41083\n\nDescription: Visual Studio Code Elevation of Privilege Vulnerability\n\nPublication Date: Fri Jan 03 02:39:33 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-41083"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100555,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-44688\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-44688\n\nDescription: Microsoft Edge (Chromium-based) Spoofing Vulnerability\n\nPublication Date: Fri Jan 03 02:39:22 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-44688"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100554,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-44702\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-44702\n\nDescription: Windows Terminal Remote Code Execution Vulnerability\n\nPublication Date: Fri Jan 03 02:39:11 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-44702"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100553,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-44704\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-44704\n\nDescription: Microsoft Windows System Monitor (Sysmon) Elevation of Privilege Vulnerability\n\nPublication Date: Fri Jan 03 02:39:00 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-44704"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100552,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-44708\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-44708\n\nDescription: Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability\n\nPublication Date: Fri Jan 03 02:38:50 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-44708"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100551,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Silent Threats, Strategic Insights: Harnessing Info Stealer Data for Better Decisions\n\nDate: January 2, 2025\n\nSource: https://www.infostealers.com/article/silent-threats-strategic-insights-harnessing-info-stealer-data-for-better-decisions/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.infostealers.com/article/silent-threats-strategic-insights-harnessing-info-stealer-data-for-better-decisions/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100550,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Ransomware gang leaks data stolen in Rhode Island's RIBridges Breach\n\nDate: January 02, 2025\n\nSource: https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-stolen-in-rhode-islands-ribridges-breach/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Rhode Island's"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-stolen-in-rhode-islands-ribridges-breach/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
