@@ -15480,6 +15480,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1613,
+            "discovered": "2025-01-02",
+            "post_title": "🚨DDoS Alert ‼️\n\n🇯🇵Japan - NTT Docomo has been experiencing ongoing disruptions in its search site \"goo\" and smartphone payment service \"d払い\" due to a cyber attack that started on January 2, 2025.\n\nThe attack, identified as a Distributed Denial of Service (DDoS) attack, has caused severe network congestion, making it difficult for users to access various services, including web mail service \"OCN.\" \n\nDespite efforts to resolve the issue, no timeline for recovery has been provided. While \"d払い\" faced temporary issues earlier in the day, it has since been restored.\n\nhttps://www3.nhk.or.jp/news/html/20250102/k10014684251000.html",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Japan"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Ocn"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -47353,6 +47366,21 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-12595"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100296,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Green with Evil: Analyzing the new Lockbit 4 Green\n\nDate: January 2, 2025\n\nSource: https://elis531989.medium.com/green-with-evil-analyzing-the-new-lockbit-4-green-7f5783c4414c?source=rss-f375cbce3f63------2\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://elis531989.medium.com/green-with-evil-analyzing-the-new-lockbit-4-green-7f5783c4414c?source=rss-f375cbce3f63------2"
             ],
             "Matched Keywords": [
                 "Other"
