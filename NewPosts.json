@@ -7375,6 +7375,34 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9988,
+            "discovered": "2025-01-02",
+            "post_title": "All the categories have been moved over to the Onions link. The Threat Feed link at the top has been removed and the feeds were moved under Subscribers. All future feeds will also show here.\n\nThe Real time status page monitoring all links will be moved under Onions sometime on  Saturday/Sunday. I have some changes that need  to be done first.\n\nI'm in the process of doing a code change so the Plus threat feed shows all future ddos and defacement posts.\n\nTelegram channels (now plus and pro subscribers) and VIP PGPs (both plus and pro subscribers) remain in the subscribers section. I have roughly 100 PGPs to add and another 100 Telegram channels to add.\n\nDDoS and Defacement blog style posts are now for both Plus and Pro subscribers\n\nI will provide updates on all new features coming for subscribers as I make changes.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9987,
+            "discovered": "2025-01-02",
+            "post_title": "💡I'm currently moving version 1 of all the links to the Onions category at the header of the website or at the following link: https://darkwebinformer.com/tag/onions/. Everything should be there in the next hour.\n\nVersion 2 with the card style I've been teasing will be updated on a slow roll out starting on Saturday.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/tag/onions/."
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -17372,6 +17400,19 @@
             "Message ID": 1997,
             "discovered": "2025-01-02",
             "post_title": "67 kill br rank 😂\nFUCKUN GARENA 😂",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1999,
+            "discovered": "2025-01-02",
+            "post_title": "🙂",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -33267,6 +33308,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4141,
+            "discovered": "2025-01-02",
+            "post_title": "Group: darkvault\nApprox. Time: 16:37 02/01/25\nTitle: https://t.co/CFPPYssehf",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/CFPPYssehf"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -48748,6 +48804,323 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2022-49035"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100398,
+            "discovered": "2025-01-02",
+            "post_title": "Victim: confluxhr.com\n\nDetection Date: Thu Jan 02 19:49:25 2025\n\nThreat Actor: darkvault\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "confluxhr.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100397,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Eating Your Own Dog Food\n\nDate: January 2, 2025\n\nSource: https://www.team-cymru.com/post/eating-your-own-dog-food\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.team-cymru.com/post/eating-your-own-dog-food"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100396,
+            "discovered": "2025-01-02",
+            "post_title": "Title: DORA Regulation (Digital Operational Resilience Act): A Threat Intelligence Perspective\n\nDate: January 2, 2025\n\nSource: https://www.team-cymru.com/post/dora-regulation-digital-operational-resilience-act-a-threat-intelligence-perspective\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.team-cymru.com/post/dora-regulation-digital-operational-resilience-act-a-threat-intelligence-perspective"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100395,
+            "discovered": "2025-01-02",
+            "post_title": "Vulnerability ID: CVE-2024-26134\n\nDescription: cbor2 provides encoding and decoding for the Concise Binary Object Representation (CBOR) (RFC 8949) serialization format. Starting in version 5.5.1 and prior to version 5.6.2, an attacker can crash a service using cbor2 to parse a CBOR binary by sending a long enough object. Version 5.6.2 contains a patch for this issue.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-26134\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://github.com/agronholm/cbor2/security/advisories/GHSA-375g-39jq-vq7m\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-26134",
+                "https://github.com/agronholm/cbor2/security/advisories/GHSA-375g-39jq-vq7m"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100394,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Over 3 million mail servers without encryption exposed to sniffing attacks\n\nDate: January 02, 2025\n\nSource: https://www.bleepingcomputer.com/news/security/over-3-million-mail-servers-without-encryption-exposed-to-sniffing-attacks/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/over-3-million-mail-servers-without-encryption-exposed-to-sniffing-attacks/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100393,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2023-45633\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-45633\n\nDescription: Missing Authorization vulnerability in IDX IMPress Listings allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects IMPress Listings: from n/a through 2.6.2.\n\nPublication Date: Thu Jan 02 19:05:18 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-45633"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100392,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2023-47778\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-47778\n\nDescription: Missing Authorization vulnerability in LuckyWP LuckyWP Scripts Control allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects LuckyWP Scripts Control: from n/a through 1.2.1.\n\nPublication Date: Thu Jan 02 19:05:07 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "LuckyWP",
+                "LuckyWP"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-47778"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100391,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2023-47807\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-47807\n\nDescription: Missing Authorization vulnerability in 10Web 10WebAnalytics allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects 10WebAnalytics: from n/a through 1.2.12.\n\nPublication Date: Thu Jan 02 19:04:56 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-47807"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100390,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2023-48739\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-48739\n\nDescription: Missing Authorization vulnerability in Porto Theme Porto Theme - Functionality allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Porto Theme - Functionality: from n/a before 2.12.1.\n\nPublication Date: Thu Jan 02 19:04:45 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Porto Theme"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-48739"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100389,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2023-48758\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-48758\n\nDescription: Missing Authorization vulnerability in Crocoblock JetEngine allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects JetEngine: from n/a through 3.2.4.\n\nPublication Date: Thu Jan 02 19:04:34 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-48758"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100388,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-49385\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49385\n\nDescription: Sensitive information disclosure due to insecure folder permissions. The following products are affected: Acronis True Image (Windows) before build 41736.\n\nPublication Date: Thu Jan 02 19:04:23 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49385"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100387,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-55538\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-55538\n\nDescription: Sensitive information disclosure due to missing authentication. The following products are affected: Acronis True Image (macOS) before build 41725, Acronis True Image (Windows) before build 41736.\n\nPublication Date: Thu Jan 02 19:04:12 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-55538"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100386,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2025-0171\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0171\n\nDescription: A vulnerability, which was classified as critical, was found in code-projects Chat System 1.0. Affected is an unknown function of the file /admin/deleteuser.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Jan 02 19:04:02 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0171"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100385,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-55543\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-55543\n\nDescription: Local privilege escalation due to DLL hijacking vulnerability. The following products are affected: Acronis Cyber Protect 16 (Windows) before build 39169.\n\nPublication Date: Thu Jan 02 19:03:51 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-55543"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100384,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-8766\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8766\n\nDescription: Local privilege escalation due to DLL hijacking vulnerability. The following products are affected: Acronis Cyber Protect Cloud Agent (Windows) before build 38235, Acronis Cyber Protect 16 (Windows) before build 39169.\n\nPublication Date: Thu Jan 02 19:03:40 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8766"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100383,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-55540\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-55540\n\nDescription: Local privilege escalation due to DLL hijacking vulnerability. The following products are affected: Acronis Cyber Protect 16 (Windows) before build 39169.\n\nPublication Date: Thu Jan 02 19:03:29 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-55540"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100382,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-56413\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56413\n\nDescription: Missing session invalidation after user deletion. The following products are affected: Acronis Cyber Protect 16 (Windows) before build 39169.\n\nPublication Date: Thu Jan 02 19:03:18 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56413"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100381,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-56414\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56414\n\nDescription: Web installer integrity check used weak hash algorithm. The following products are affected: Acronis Cyber Protect 16 (Windows) before build 39169.\n\nPublication Date: Thu Jan 02 19:03:07 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56414"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100380,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-55542\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-55542\n\nDescription: Local privilege escalation due to excessive permissions assigned to Tray Monitor service. The following products are affected: Acronis Cyber Protect 16 (Linux, macOS, Windows) before build 39169, Acronis Cyber Protect Cloud Agent (Linux, macOS, Windows) before build 35895.\n\nPublication Date: Thu Jan 02 19:02:56 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-55542"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100379,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-55541\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-55541\n\nDescription: Stored cross-site scripting (XSS) vulnerability due to missing origin validation in postMessage. The following products are affected: Acronis Cyber Protect 16 (Linux, Windows) before build 39169.\n\nPublication Date: Thu Jan 02 19:02:46 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-55541"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100378,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2025-0172\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0172\n\nDescription: A vulnerability has been found in code-projects Chat System 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /admin/deleteroom.php. The manipulation of the argument id leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Jan 02 19:02:35 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0172"
             ],
             "Matched Keywords": [
                 "Other"
@@ -75216,6 +75589,22 @@
                 "https://createmystore.in",
                 "https://tistabarta.xyz",
                 "https://nepalikhelkud.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3637,
+            "discovered": "2025-01-02",
+            "post_title": "Say hello...\nSITE DEFACED!...OUR SECURITY IS BREAKED \n\nSITE DEFACED:\n\nhttps://kvkbarwani.org\nhttps://myinfoline.in\n\n\n#INDOHAXSEC",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://kvkbarwani.org",
+                "https://myinfoline.in"
             ],
             "Matched Keywords": [
                 "Other"
