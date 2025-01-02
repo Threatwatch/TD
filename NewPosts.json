@@ -7459,6 +7459,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9994,
+            "discovered": "2025-01-02",
+            "post_title": "I added 23 Telegram channels, all are Hacktivist groups and all are verified to be working.\n\nCurrently in queue that need to be verified and integrated:\n\n- 70 Telegram channels\n- 25 Links for the Onions section and also need to be added to the Status page\n- 100 VIP PGPs",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9993,
+            "discovered": "2025-01-02",
+            "post_title": "🚨🇳🇱A Threat Actor Claims to be Selling Netherlands Leads\n\n🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2025-01-02 17:09:53\n🚨 Title: Alleged sale of Netherlands leads data\n🛡 Victim Country: Netherlands\n🏭 Victim Industry:\n🏢 Victim Organization:\n🌐 Victim Site:\n📜 Category: Data Leak\n🔗 Claim: Paid subscribers get access to all claim URLs\n🕵️‍♂️ Threat Actor: icywinds\n🌍 Network: openweb\n📝 Description: The threat actor claims to be selling 800K leads data of Netherlands. The leaked data contains email, first name, last name, street, street code, address, post code, phone, dob etc.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Netherlands",
+                "Netherlands",
+                "Netherlands"
+            ],
+            "URLs": [
+                "WebInformer.com - C"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -50047,6 +50077,321 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9120",
                 "https://issues.chromium.org/issues/365254285"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100474,
+            "discovered": "2025-01-02",
+            "post_title": "Title: 09 - Preventing Debugging by using SystemFunction40 (RtlEncryptMemory) on DbgUIRemoteBreakIn\n\nDate: January 2, 2025\n\nSource: https://www.youtube.com/watch?v=j-pbT1xKBU8\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.youtube.com/watch?v=j-pbT1xKBU8"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100473,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-23283\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-23283\n\nDescription: Windows ALPC Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 22:13:44 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-23283"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100472,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-23284\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-23284\n\nDescription: Windows Print Spooler Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 22:13:33 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-23284"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100471,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-23285\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-23285\n\nDescription: Remote Desktop Client Remote Code Execution Vulnerability\n\nPublication Date: Thu Jan 02 22:13:22 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-23285"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100470,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-23297\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-23297\n\nDescription: Windows NT Lan Manager Datagram Receiver Driver Information Disclosure Vulnerability\n\nPublication Date: Thu Jan 02 22:13:11 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-23297"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100469,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-24509\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-24509\n\nDescription: Microsoft Office Visio Remote Code Execution Vulnerability\n\nPublication Date: Thu Jan 02 22:13:00 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-24509"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100468,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-24461\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-24461\n\nDescription: Microsoft Office Visio Remote Code Execution Vulnerability\n\nPublication Date: Thu Jan 02 22:12:49 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-24461"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100467,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-24510\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-24510\n\nDescription: Microsoft Office Visio Remote Code Execution Vulnerability\n\nPublication Date: Thu Jan 02 22:12:38 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-24510"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100466,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-24462\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-24462\n\nDescription: Microsoft Word Security Feature Bypass Vulnerability\n\nPublication Date: Thu Jan 02 22:12:27 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-24462"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100465,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-24511\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-24511\n\nDescription: Microsoft Office Word Tampering Vulnerability\n\nPublication Date: Thu Jan 02 22:12:17 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-24511"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100464,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-24468\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-24468\n\nDescription: Azure Site Recovery Remote Code Execution Vulnerability\n\nPublication Date: Thu Jan 02 22:12:06 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-24468"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100463,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-24469\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-24469\n\nDescription: Azure Site Recovery Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 22:11:55 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-24469"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100462,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-24517\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-24517\n\nDescription: Azure Site Recovery Remote Code Execution Vulnerability\n\nPublication Date: Thu Jan 02 22:11:44 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-24517"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100461,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-24470\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-24470\n\nDescription: Azure Site Recovery Remote Code Execution Vulnerability\n\nPublication Date: Thu Jan 02 22:11:33 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-24470"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100460,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-24518\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-24518\n\nDescription: Azure Site Recovery Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 22:11:22 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-24518"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100459,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-24519\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-24519\n\nDescription: Azure Site Recovery Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 22:11:11 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-24519"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100458,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-24471\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-24471\n\nDescription: Azure Site Recovery Remote Code Execution Vulnerability\n\nPublication Date: Thu Jan 02 22:11:00 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-24471"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100457,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-24520\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-24520\n\nDescription: Azure Site Recovery Remote Code Execution Vulnerability\n\nPublication Date: Thu Jan 02 22:10:49 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-24520"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100456,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-24525\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-24525\n\nDescription: Windows Update Stack Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 22:10:39 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-24525"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100455,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-24526\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-24526\n\nDescription: Visual Studio Code Spoofing Vulnerability\n\nPublication Date: Thu Jan 02 22:10:28 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-24526"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100454,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-26899\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-26899\n\nDescription: Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability\n\nPublication Date: Thu Jan 02 22:10:17 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-26899"
             ],
             "Matched Keywords": [
                 "Other"
