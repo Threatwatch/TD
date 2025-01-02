@@ -15521,6 +15521,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1615,
+            "discovered": "2025-01-02",
+            "post_title": "🚨Cyberattack Alert‼️\n\n🇸🇳Senegal - Banque de l'Habitat du Sénégal (BHS) has been facing a significant cyberattack since December 24, 2024, which has paralyzed its information system and made several services unavailable.\nhttps://senego.com/banque-de-lhabitat-du-senegal-une-attaque-informatique-paralyse-ses-services_1787744.html\n\nThese disruptions include email services, the Bank to Wallet option, and ATM networks. Customers have been unable to access their accounts or withdraw funds, forcing some to visit branches for basic transactions. Although the bank has not made an official statement yet, internal sources have confirmed the ongoing issues.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -37321,6 +37334,22 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5225,
+            "discovered": "2025-01-02",
+            "post_title": "ID: 19880\n⚠ 2025-01-02 10:44:45\n🥷 ransomhub\n🎯 groupegm.com, France\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19880",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "oupegm.com, ",
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19880"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -47784,6 +47813,51 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-13104"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100323,
+            "discovered": "2025-01-02",
+            "post_title": "Title: CISA Adds CVE-2024-3393 to Vulnerabilities Catalog: Palo Alto Networks PAN-OS DNS Packet Flaw Threatens Firewalls\n\nDate: January 2, 2025\n\nSource: https://cyble.com/blog/cisa-adds-cve-2024-3393-to-kev-catalog/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyble.com/blog/cisa-adds-cve-2024-3393-to-kev-catalog/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100322,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-13105\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-13105\n\nDescription: A vulnerability has been found in D-Link DIR-816 A2 1.10CNB05_R1B011D88210 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /goform/form2Dhcpd.cgi of the component DHCPD Setting Handler. The manipulation leads to improper access controls. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Jan 02 15:00:43 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13105"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100321,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-13106\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-13106\n\nDescription: A vulnerability was found in D-Link DIR-816 A2 1.10CNB05_R1B011D88210 and classified as critical. Affected by this issue is some unknown functionality of the file /goform/form2IPQoSTcAdd of the component IP QoS Handler. The manipulation leads to improper access controls. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Jan 02 15:00:32 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13106"
             ],
             "Matched Keywords": [
                 "Other"
@@ -68959,6 +69033,81 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-56020/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80666,
+            "discovered": "2025-01-02",
+            "post_title": "Cobalt Strike Beacon Detected - 113[.]44[.]79[.]187:8803 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-113-44-79-187-port-8803/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-113-44-79-187-port-8803/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80665,
+            "discovered": "2025-01-02",
+            "post_title": "Cobalt Strike Beacon Detected - 47[.]121[.]183[.]19:80 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-47-121-183-19-port-80/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-47-121-183-19-port-80/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80664,
+            "discovered": "2025-01-02",
+            "post_title": "Cobalt Strike Beacon Detected - 1[.]94[.]195[.]62:8888 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-1-94-195-62-port-8888/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-1-94-195-62-port-8888/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80663,
+            "discovered": "2025-01-02",
+            "post_title": "Cobalt Strike Beacon Detected - 142[.]171[.]234[.]248:8443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-142-171-234-248-port-8443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-142-171-234-248-port-8443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80662,
+            "discovered": "2025-01-02",
+            "post_title": "[RANSOMHUB] - Ransomware Victim: groupegm[.]com - https://www.redpacketsecurity.com/ransomhub-ransomware-victim-groupegm-com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/ransomhub-ransomware-victim-groupegm-com/"
             ],
             "Matched Keywords": [
                 "Other"
