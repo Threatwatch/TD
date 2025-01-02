@@ -24065,6 +24065,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5649,
+            "discovered": "2025-01-02",
+            "post_title": "One thing noobie scoobies don't seem to understand is that malware is literally just software. Understandably, that seems kind of obvious, it's in the name — 'malicious software'. But it seems less obvious to some that, in order to write malware, you apply the exact same principles, techniques, and structures that legitimate software uses.\n\nMalware is regular ol' programming with some sprinkles of weird stuff. These weird things are documented and shared. Some try to find new weird things.\n\nWhen people ask what language is best for malware... it's kind of like asking 'what's the best ice cream flavor?'. It's entirely subjective. Everyone will tell you something different. You'll notice a lot of people will prefer Chocolate or Vanilla, you may encounter some who like Raspberry Banana Sprinkle Jam-Blam Blast, or Minty Schminty SpongeBob Sticks Bombs, but at the end of the day it's all still ice cream.\n\nIn it's most simple form, all malware techniques are things legitimate software may do.\n\nRansomware?\n- Step 1. Enumerate files in a directory\n- Step 2. Lock and encrypt files\n\nInformation Stealers?\n- Step 1. Enumerate files in a directory\n- Step 2. Upload files somewhere\n\nRATs?\n- Step 1. Make program run at start\n- Step 2. Execute commands (cmd, powershell, other programs)\n- Step 3. Upload files somewhere\n\nLoaders?\n- Step 1. Download file from somewhere\n- Step 2. Run file\n\nEverything the malware does is just an expansion of what is explained above.\n\nWant to find new malware techniques? Find new ways to execute a process, find new ways to enumerate files in a directory, file new ways to upload files somewhere, find new ways to download files from somewhere, find new ways to write to files or delete files, etc.\n\nHow do you do this? Read. Read everything. Blogs, Windows documentation, StackOverflow, Wikipedia, our website. Look at every DLL you find on your computer in Ida or Ghidra, just open stuff and look around. Look at other peoples work and see if you can expand on it and find something new.\n\ntl;dr learn to code, then learn weird stuff",
+            "Attack Type": "Unknown",
+            "Location": [
+                "noobie",
+                "Malware",
+                "Ghidra"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "DARKFEED": [
@@ -47170,6 +47185,21 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-13061"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100285,
+            "discovered": "2025-01-02",
+            "post_title": "Title: New Year, New Surprise\n\nDate: January 2, 2025\n\nSource: https://binary.ninja/2025/01/01/new-year-new-surprise.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://binary.ninja/2025/01/01/new-year-new-surprise.html"
             ],
             "Matched Keywords": [
                 "Other"
