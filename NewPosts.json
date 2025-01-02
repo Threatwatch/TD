@@ -47204,6 +47204,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100287,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-56829\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56829\n\nDescription: Huang Yaoshi Pharmaceutical Management Software through 16.0 allows arbitrary file upload via a .asp filename in the fileName element of the UploadFile element in a SOAP request to /XSDService.asmx.\n\nPublication Date: Thu Jan 02 08:07:09 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56829"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100286,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2025-22214\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-22214\n\nDescription: Landray EIS 2001 through 2006 allows Message/fi_message_receiver.aspx?replyid= SQL injection.\n\nPublication Date: Thu Jan 02 08:06:58 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-22214"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -68277,6 +68307,51 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cisa-fortinet-releases-security-updates-for-fortimanager-02-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80661,
+            "discovered": "2025-01-02",
+            "post_title": "CVE Alert: CVE-2024-56021 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56021/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56021/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80660,
+            "discovered": "2025-01-02",
+            "post_title": "CVE Alert: CVE-2025-0168 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0168/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0168/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80659,
+            "discovered": "2025-01-02",
+            "post_title": "CVE Alert: CVE-2024-56020 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56020/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56020/"
             ],
             "Matched Keywords": [
                 "Other"
