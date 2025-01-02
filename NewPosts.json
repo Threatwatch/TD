@@ -47159,6 +47159,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100284,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-13061\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-13061\n\nDescription: The Electronic Official Document Management System from 2100 Technology has an Authentication Bypass vulnerability. Although the product enforces an IP whitelist for the API used to query user tokens, unauthenticated remote attackers can still deceive the server to obtain tokens of arbitrary users, which can then be used to log into the system.\n\nPublication Date: Thu Jan 02 05:07:21 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13061"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -50833,6 +50848,32 @@
             "Message ID": 26988,
             "discovered": "2025-01-01",
             "post_title": "Hola",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26991,
+            "discovered": "2025-01-02",
+            "post_title": "On the occasion of the launch of the Palestinian revolution:\n\nAl-Aqsa Martyrs Brigades presents exclusive footage documenting part of the struggle, through qualitative operations carried out by the 65th Military Unit, known for its prominent role in strengthening the resistance’s capabilities.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26990,
+            "discovered": "2025-01-02",
+            "post_title": "S3nsi",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
