@@ -7403,6 +7403,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9989,
+            "discovered": "2025-01-02",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -49125,6 +49138,470 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100428,
+            "discovered": "2025-01-02",
+            "post_title": "Target: https://pydo.bohol.gov.ph/ynr.html\n\nNotified: ynR !\n\nDate: Thu, 02 Jan 2025 17:36:12 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313058\n\n#Defacements #Philippines",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Philippines"
+            ],
+            "URLs": [
+                "https://pydo.bohol.gov.ph/ynr.html",
+                "http://www.zone-h.org/mirror/id/41313058"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100427,
+            "discovered": "2025-01-02",
+            "post_title": "Target: https://bohol.gov.ph/ynr.html\n\nNotified: ynR !\n\nDate: Thu, 02 Jan 2025 17:24:31 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313042\n\n#Defacements #Philippines",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Philippines"
+            ],
+            "URLs": [
+                "https://bohol.gov.ph/ynr.html",
+                "http://www.zone-h.org/mirror/id/41313042"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100426,
+            "discovered": "2025-01-02",
+            "post_title": "Target: https://geopark.bohol.gov.ph/ynr.html\n\nNotified: ynR !\n\nDate: Thu, 02 Jan 2025 17:31:34 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313046\n\n#Defacements #Philippines",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Philippines"
+            ],
+            "URLs": [
+                "https://geopark.bohol.gov.ph/ynr.html",
+                "http://www.zone-h.org/mirror/id/41313046"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100425,
+            "discovered": "2025-01-02",
+            "post_title": "Target: https://opa.bohol.gov.ph/ynr.html\n\nNotified: ynR !\n\nDate: Thu, 02 Jan 2025 17:32:39 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313048\n\n#Defacements #Philippines",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Philippines"
+            ],
+            "URLs": [
+                "https://opa.bohol.gov.ph/ynr.html",
+                "http://www.zone-h.org/mirror/id/41313048"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100424,
+            "discovered": "2025-01-02",
+            "post_title": "Target: http://honda.com.gh\n\nNotified: Mamad Warning\n\nDate: Thu, 02 Jan 2025 11:11:51 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313024\n\n#Defacements #Ghana",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://honda.com.gh",
+                "http://www.zone-h.org/mirror/id/41313024"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100423,
+            "discovered": "2025-01-02",
+            "post_title": "Target: http://honda.com.qa\n\nNotified: Mamad Warning\n\nDate: Thu, 02 Jan 2025 11:15:12 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313026\n\n#Defacements #Qatar",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Qatar"
+            ],
+            "URLs": [
+                "http://honda.com.qa",
+                "http://www.zone-h.org/mirror/id/41313026"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100422,
+            "discovered": "2025-01-02",
+            "post_title": "Target: http://honda.jo\n\nNotified: Mamad Warning\n\nDate: Thu, 02 Jan 2025 11:15:27 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313027\n\n#Defacements #Jordan",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://honda.jo",
+                "http://www.zone-h.org/mirror/id/41313027"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100421,
+            "discovered": "2025-01-02",
+            "post_title": "Target: http://honda.ma\n\nNotified: Mamad Warning\n\nDate: Thu, 02 Jan 2025 11:16:00 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313028\n\n#Defacements #Morocco",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://honda.ma",
+                "http://www.zone-h.org/mirror/id/41313028"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100420,
+            "discovered": "2025-01-02",
+            "post_title": "Target: http://honda.tn\n\nNotified: Mamad Warning\n\nDate: Thu, 02 Jan 2025 11:17:06 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313029\n\n#Defacements #Tunisia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://honda.tn",
+                "http://www.zone-h.org/mirror/id/41313029"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100419,
+            "discovered": "2025-01-02",
+            "post_title": "Target: http://honda-saudiarabia.com\n\nNotified: Mamad Warning\n\nDate: Thu, 02 Jan 2025 11:17:34 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313030\n\n#Defacements",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://honda-saudiarabia.com",
+                "http://www.zone-h.org/mirror/id/41313030"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100418,
+            "discovered": "2025-01-02",
+            "post_title": "Target: http://honda.bh\n\nNotified: Mamad Warning\n\nDate: Thu, 02 Jan 2025 11:18:56 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313031\n\n#Defacements #Bahrain",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://honda.bh",
+                "http://www.zone-h.org/mirror/id/41313031"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100417,
+            "discovered": "2025-01-02",
+            "post_title": "Target: http://honda-kuwait.com\n\nNotified: Mamad Warning\n\nDate: Thu, 02 Jan 2025 11:28:44 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313033\n\n#Defacements",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://honda-kuwait.com",
+                "http://www.zone-h.org/mirror/id/41313033"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100416,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-38763\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38763\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Themes4WP Popularis Verse allows Cross Site Request Forgery.This issue affects Popularis Verse: from n/a through 1.1.1.\n\nPublication Date: Thu Jan 02 20:04:11 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38763"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100415,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-38762\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38762\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in The Events Calendar Event Tickets allows Cross Site Request Forgery.This issue affects Event Tickets: from n/a through 5.11.0.4.\n\nPublication Date: Thu Jan 02 20:04:01 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38762",
+                "5.11.0.4"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100414,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-38754\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38754\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Tagbox Taggbox allows Cross Site Request Forgery.This issue affects Taggbox: from n/a through 3.3.\n\nPublication Date: Thu Jan 02 20:03:50 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38754"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100413,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-38753\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38753\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Labib Ahmed Animated Rotating Words allows Cross Site Request Forgery.This issue affects Animated Rotating Words: from n/a through 5.6.\n\nPublication Date: Thu Jan 02 20:03:39 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38753"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100412,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-38751\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38751\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Magazine3 Google Adsense & Banner Ads by AdsforWP allows Cross Site Request Forgery.This issue affects Google Adsense & Banner Ads by AdsforWP: from n/a through 1.9.28.\n\nPublication Date: Thu Jan 02 20:03:28 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38751"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100411,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-38729\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38729\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in MBE Worldwide S.p.A. MBE eShip allows Cross Site Request Forgery.This issue affects MBE eShip: from n/a through 2.1.2.\n\nPublication Date: Thu Jan 02 20:03:17 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38729"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100410,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-13085\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-13085\n\nDescription: A vulnerability, which was classified as critical, has been found in PHPGurukul Land Record System 1.0. Affected by this issue is some unknown functionality of the file /admin/login.php. The manipulation of the argument username leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Jan 02 20:03:06 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13085"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100409,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-38691\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38691\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Metorik Metorik – Reports & Email Automation for WooCommerce allows Cross Site Request Forgery.This issue affects Metorik – Reports & Email Automation for WooCommerce: from n/a through 1.7.1.\n\nPublication Date: Thu Jan 02 20:02:55 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38691"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100408,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-37937\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37937\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Rara Theme Rara Business allows Cross Site Request Forgery.This issue affects Rara Business: from n/a through 1.2.5.\n\nPublication Date: Thu Jan 02 20:02:45 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Rara Theme Rara Business"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37937"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100407,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-37543\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37543\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Nitesh Singh Ultimate Auction  allows Cross Site Request Forgery.This issue affects Ultimate Auction : from n/a through 4.2.5.\n\nPublication Date: Thu Jan 02 20:02:34 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37543"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100406,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-37469\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37469\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in CreativeThemes Blocksy allows Cross Site Request Forgery.This issue affects Blocksy: from n/a through 2.0.22.\n\nPublication Date: Thu Jan 02 20:02:23 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37469"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100405,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-37448\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37448\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in FameThemes OnePress allows Cross Site Request Forgery.This issue affects OnePress: from n/a through 2.3.6.\n\nPublication Date: Thu Jan 02 20:02:12 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37448"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100404,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-37441\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37441\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in DesertThemes NewsMash allows Cross Site Request Forgery.This issue affects NewsMash: from n/a through 1.0.34.\n\nPublication Date: Thu Jan 02 20:02:01 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "NewsMash"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37441"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100403,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-37435\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37435\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Rara Theme Perfect Portfolio allows Cross Site Request Forgery.This issue affects Perfect Portfolio: from n/a through 1.2.0.\n\nPublication Date: Thu Jan 02 20:01:50 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37435"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100402,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-37431\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37431\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Horea Radu Mesmerize allows Cross Site Request Forgery.This issue affects Mesmerize: from n/a through 1.6.120.\n\nPublication Date: Thu Jan 02 20:01:40 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37431"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100401,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-37426\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37426\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Rara Theme Elegant Pink allows Cross Site Request Forgery.This issue affects Elegant Pink: from n/a through 1.3.0.\n\nPublication Date: Thu Jan 02 20:01:29 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37426"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100400,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-37236\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37236\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Tim Whitlock Loco Translate allows Cross Site Request Forgery.This issue affects Loco Translate: from n/a through 2.6.9.\n\nPublication Date: Thu Jan 02 20:01:18 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Tim"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37236"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100399,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-37235\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37235\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Groundhogg Inc. Groundhogg allows Cross Site Request Forgery.This issue affects Groundhogg: from n/a through 3.4.2.3.\n\nPublication Date: Thu Jan 02 20:01:07 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37235",
+                "3.4.2.3"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -53092,6 +53569,32 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27019,
+            "discovered": "2025-01-02",
+            "post_title": "⚡️Mossad Database Breach.\n\n#CyberBulletin",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27018,
+            "discovered": "2025-01-02",
+            "post_title": "⚡️Mossad Database Leaked \n\nData breach expose sensitive information from the Mossad database in Israel. \n\n#CyberBulletin #DarkWeb",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Israel"
             ],
             "URLs": [],
             "Matched Keywords": [
