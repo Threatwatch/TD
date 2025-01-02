@@ -7330,6 +7330,51 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 9986,
+            "discovered": "2025-01-02",
+            "post_title": "🚨🇧🇸Alleged Data Leak of Kroll Export to FTX Crypto\n\nhttps://darkwebinformer.com/alleged-data-leak-of-kroll-export-to-ftx-crypto/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/alleged-data-leak-of-kroll-export-to-ftx-crypto/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9985,
+            "discovered": "2025-01-02",
+            "post_title": "🚨🇮🇹Alleged VPN Access Sale to an Unidentified Italian Automotive Retail Industry\n\nhttps://darkwebinformer.com/alleged-vpn-access-sale-to-an-unidentified-italian-automotive-retail-industry/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/alleged-vpn-access-sale-to-an-unidentified-italian-automotive-retail-industry/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 9984,
+            "discovered": "2025-01-02",
+            "post_title": "🚨🇺🇸Alleged Data Leak Targeting 1.1M USA Citizen Records\n\nhttps://darkwebinformer.com/alleged-data-leak-targeting-1-1m-usa-citizen-records/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/alleged-data-leak-targeting-1-1m-usa-citizen-records/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -24129,6 +24174,32 @@
                 "noobie",
                 "Malware",
                 "Ghidra"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5651,
+            "discovered": "2025-01-02",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5650,
+            "discovered": "2025-01-02",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
             ],
             "URLs": [],
             "Matched Keywords": [
@@ -48606,6 +48677,81 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100377,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Cybersecurity regulations in 2025: Key insights from top industry experts\n\nDate: January 2, 2025\n\nSource: https://www.scworld.com/feature/how-will-rules-and-regulations-affect-cybersecurity-and-ai-in-2025\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/feature/how-will-rules-and-regulations-affect-cybersecurity-and-ai-in-2025"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100376,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-11217\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-11217\n\nDescription: A vulnerability was found in the OAuth-server. OAuth-server logs the OAuth2 client secret when the logLevel is Debug higher for OIDC/GitHub/GitLab/Google IDPs login options.\n\nPublication Date: Thu Jan 02 18:07:32 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-11217"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100375,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-43476\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-43476\n\nDescription: Missing Authorization vulnerability in Daniel Söderström / Sidney van de Stouwe Subscribe to Category allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Subscribe to Category: from n/a through 2.7.4.\n\nPublication Date: Thu Jan 02 18:07:22 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-43476"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100374,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-56137\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56137\n\nDescription: MaxKB, which stands for Max Knowledge Base, is an open source knowledge base question-answering system based on a large language model and retrieval-augmented generation (RAG). Prior to version 1.9.0, a remote command execution vulnerability exists in the module of function library. The vulnerability allow privileged‌ users to execute OS command in custom scripts. The vulnerability has been fixed in v1.9.0.\n\nPublication Date: Thu Jan 02 18:07:11 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56137"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100373,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2022-49035\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-49035\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nmedia: s5p_cec: limit msg.len to CEC_MAX_MSG_SIZE\n\nI expect that the hardware will have limited this to 16, but just in\ncase it hasn't, check for this corner case.\n\nPublication Date: Thu Jan 02 18:07:00 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-49035"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -52359,6 +52505,217 @@
             "Message ID": 26992,
             "discovered": "2025-01-02",
             "post_title": "⚡️DoubleClickjacking: A new clickjacking variant that stealthily exploits timing gaps between clicks to hijack accounts.\n\nThis attack bypasses protections like X-Frame-Options and SameSite cookies.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27017,
+            "discovered": "2025-01-02",
+            "post_title": "#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27016,
+            "discovered": "2025-01-02",
+            "post_title": "#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27015,
+            "discovered": "2025-01-02",
+            "post_title": "#CyberBulletin #Handala",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27014,
+            "discovered": "2025-01-02",
+            "post_title": "#CyberBulletin #Handala",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27009,
+            "discovered": "2025-01-02",
+            "post_title": "⚡️Commwell Medical\n\nCommwell Medical (http://commwellmedical.com) appears to be a company specializing in medical technology and healthcare solutions.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://commwellmedical.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27008,
+            "discovered": "2025-01-02",
+            "post_title": "⚡️Serve Hotels\n\nServe hotel (https://servehotel.co.il) is an Israeli company that provides its services to the hotel and tourism industry since 2008 in Israel and in the Europian Union countries.\n\n#CyberBulletin #Handala",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "https://servehotel.co.il"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27006,
+            "discovered": "2025-01-02",
+            "post_title": "⚡️Kohl Group \n\nKohl Group is a top-tier, leading, diversified business group. Kohl Group strategy is to hold and possess corporations in every key business sector.\n\n#CyberBulletin #Handala",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27005,
+            "discovered": "2025-01-02",
+            "post_title": "⚡️Sigma Clarity Group\n\nSigma Clarity (https://sigmaclarity.com) is Israel’s premier global investment firm. The group offers a wide range of financial services and products, including private wealth management, investment portfolio management both domestically and internationally.\n\n⚡️Supply Chain Attack\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "https://sigmaclarity.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27004,
+            "discovered": "2025-01-02",
+            "post_title": "IGA - Israel Gastroenterology Association\nIGA is the national society of gastroenterologists and hepatologists in Israel. IGA incorporates a number of interest groups that cover sub-specialties of major clinical interest.\n\n⚡️Supply Chain Attack\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27003,
+            "discovered": "2025-01-02",
+            "post_title": "United Tours (https://unitedtours.co.il) is a well-known travel agency and tour operator in Israel\n\n⚡️Supply Chain Attack\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "https://unitedtours.co.il"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27002,
+            "discovered": "2025-01-02",
+            "post_title": "Rimon Tours (https://rimon-tours.co.il) is a well-known travel agency and tour operator in Israel. They specialize in organizing various types of tours for individuals, groups, and businesses.\n\n⚡️Supply Chain Attack\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "https://rimon-tours.co.il"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27000,
+            "discovered": "2025-01-02",
+            "post_title": "⚡️Ofakim Travel & Tours\n\nOfakim Group (https://ofakim.co.il) is a longstanding and leading Travel Management Company with over 40 years of experience, who is ranked among the top five most influential companies in the industry.\n\n⚡️Supply Chain Attack\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://ofakim.co.il"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26998,
+            "discovered": "2025-01-02",
+            "post_title": "⚡️Effective Solutions Ltd This (https://esg.co.il) is a company based in Israel that primarily focuses on providing business and technology consulting services.\n\n⚡️Supply Chain Attack\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [
+                "https://esg.co.il"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26997,
+            "discovered": "2025-01-02",
+            "post_title": "⚡️They provide a range of services or products related to medical devices, health technologies, and healthcare solutions. 500K text messages (https://tech.walla.co.il/item/3714852) were sent a few days ago from this company's system!\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://tech.walla.co.il/item/3714852"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 26996,
+            "discovered": "2025-01-02",
+            "post_title": "⚡️Handala was able to access the database of hundreds of reputable Zionist companies! In total, the size of the company's DB files is more than 700 GB and the information of more than 1.9 million Zionist citizens has been dumped!\n\n#CyberBulletin",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
