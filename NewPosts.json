@@ -48242,6 +48242,370 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100372,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Ukraine Takes Steps to Strengthen its Cybersecurity Framework with Policy Advancements and Strategic Initiatives\n\nDate: January 2, 2025\n\nSource: https://cyble.com/blog/ukraine-strengthens-cybersecurity-framework/\n\n#News #Ukraine",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Ukraine"
+            ],
+            "URLs": [
+                "https://cyble.com/blog/ukraine-strengthens-cybersecurity-framework/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100371,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Chinese cyberattacks escalated in 2024\n\nDate: January 2, 2025\n\nSource: https://www.scworld.com/brief/chinese-cyberattacks-escalated-in-2024\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/chinese-cyberattacks-escalated-in-2024"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100370,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Ford confirms X account hack\n\nDate: January 2, 2025\n\nSource: https://www.scworld.com/brief/ford-confirms-x-account-hack\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/ford-confirms-x-account-hack"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100369,
+            "discovered": "2025-01-02",
+            "post_title": "Title: MetLife purportedly breached by RansomHub\n\nDate: January 2, 2025\n\nSource: https://www.scworld.com/brief/metlife-purportedly-breached-by-ransomhub\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/metlife-purportedly-breached-by-ransomhub"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100368,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Fraudulent rating-boosting stars prevalent in GitHub\n\nDate: January 2, 2025\n\nSource: https://www.scworld.com/brief/fraudulent-rating-boosting-stars-prevalent-in-github\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/fraudulent-rating-boosting-stars-prevalent-in-github"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100367,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Azure compromise possible with Apache Airflow vulnerabilities\n\nDate: January 2, 2025\n\nSource: https://www.scworld.com/brief/azure-compromise-possible-with-apache-airflow-vulnerabilities\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/azure-compromise-possible-with-apache-airflow-vulnerabilities"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100366,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Clickjacking protections evaded by novel exploit\n\nDate: January 2, 2025\n\nSource: https://www.scworld.com/brief/clickjacking-protections-evaded-by-novel-exploit\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/clickjacking-protections-evaded-by-novel-exploit"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100365,
+            "discovered": "2025-01-02",
+            "post_title": "Title: AWS leveraged in EC2 Grouper attacks\n\nDate: January 2, 2025\n\nSource: https://www.scworld.com/brief/aws-leveraged-in-ec2-grouper-attacks\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/aws-leveraged-in-ec2-grouper-attacks"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100364,
+            "discovered": "2025-01-02",
+            "post_title": "Title: More details on widespread Chrome extension compromise emerge\n\nDate: January 2, 2025\n\nSource: https://www.scworld.com/brief/more-details-on-widespread-chrome-extension-compromise-emerge\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/more-details-on-widespread-chrome-extension-compromise-emerge"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100363,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Suspected AT&T, Verizon data leaker arrested, indicted\n\nDate: January 2, 2025\n\nSource: https://www.scworld.com/brief/suspected-att-verizon-data-leaker-arrested-indicted\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/suspected-att-verizon-data-leaker-arrested-indicted"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100362,
+            "discovered": "2025-01-02",
+            "post_title": "Title: Iranian, Russian entities face US sanctions over election interference\n\nDate: January 2, 2025\n\nSource: https://www.scworld.com/brief/iranian-russian-entities-face-us-sanctions-over-election-interference\n\n#News #Iran #Russia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US",
+                "Iran",
+                "Russia"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/iranian-russian-entities-face-us-sanctions-over-election-interference"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100361,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-13109\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-13109\n\nDescription: A vulnerability was found in Beijing Yunfan Internet Technology Yunfan Learning Examination System 1.9.2. It has been rated as critical. This issue affects some unknown processing of the file /doc.html. The manipulation leads to improper authorization. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Jan 02 17:08:02 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Beijing"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13109"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100360,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-38764\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38764\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Marsian allows Cross Site Request Forgery.This issue affects i-transform: from n/a through 3.0.9.\n\nPublication Date: Thu Jan 02 17:07:51 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38764"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100359,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-38778\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38778\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Epsiloncool WP Fast Total Search.This issue affects WP Fast Total Search: from n/a through 1.69.234.\n\nPublication Date: Thu Jan 02 17:07:41 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38778"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100358,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-39623\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-39623\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in CridioStudio ListingPro allows Authentication Bypass.This issue affects ListingPro: from n/a through 2.9.4.\n\nPublication Date: Thu Jan 02 17:07:30 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-39623"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100357,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-38732\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38732\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in VolThemes Patricia Blog allows Cross Site Request Forgery.This issue affects Patricia Blog: from n/a through 1.2.\n\nPublication Date: Thu Jan 02 17:07:19 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38732"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100356,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-38731\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-38731\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Marsian i-amaze allows Cross Site Request Forgery.This issue affects i-amaze: from n/a through 1.3.7.\n\nPublication Date: Thu Jan 02 17:07:08 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Marsian"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-38731"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100355,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-37931\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37931\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Creativthemes Point allows Cross Site Request Forgery.This issue affects Point: from n/a through 1.1.\n\nPublication Date: Thu Jan 02 17:06:57 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37931"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100354,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-37925\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37925\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in BUDDYBOSS LLC BuddyBoss Theme allows Cross Site Request Forgery.This issue affects BuddyBoss Theme: from n/a through 2.4.61.\n\nPublication Date: Thu Jan 02 17:06:46 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37925"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100353,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-37452\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37452\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in MyThemeShop Schema Lite allows Cross Site Request Forgery.This issue affects Schema Lite: from n/a through 1.2.2.\n\nPublication Date: Thu Jan 02 17:06:35 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37452"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100352,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-13110\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-13110\n\nDescription: A vulnerability classified as problematic has been found in Beijing Yunfan Internet Technology Yunfan Learning Examination System 1.9.2. Affected is an unknown function of the file src/main/java/com/yf/exam/modules/paper/controller/PaperController.java， of the component Exam Answer Handler. The manipulation leads to information disclosure. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Thu Jan 02 17:06:24 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Beijing"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13110"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100351,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-37438\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37438\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Uncanny Owl Uncanny Toolkit Pro for LearnDash allows Cross Site Request Forgery.This issue affects Uncanny Toolkit Pro for LearnDash: from n/a before 4.1.4.1.\n\nPublication Date: Thu Jan 02 17:06:13 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37438",
+                "4.1.4.1"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100350,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-37241\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37241\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in Automattic WP Job Manager - Resume Manager allows Cross Site Request Forgery.This issue affects WP Job Manager - Resume Manager: from n/a through 2.1.0.\n\nPublication Date: Thu Jan 02 17:06:02 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Automattic",
+                "WP"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37241"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100349,
+            "discovered": "2025-01-02",
+            "post_title": "CVE-ID: CVE-2024-37237\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-37237\n\nDescription: Cross-Site Request Forgery (CSRF) vulnerability in FS-code FS Poster allows Cross Site Request Forgery.This issue affects FS Poster: from n/a through 6.5.8.\n\nPublication Date: Thu Jan 02 17:05:51 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-37237"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
