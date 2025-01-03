@@ -56529,6 +56529,96 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100814,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Bad Tenable plugin updates take down Nessus agents worldwide\n\nDate: January 03, 2025\n\nSource: https://www.bleepingcomputer.com/news/security/bad-tenable-plugin-updates-take-down-nessus-agents-worldwide/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Nessus"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/bad-tenable-plugin-updates-take-down-nessus-agents-worldwide/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100813,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-12237\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12237\n\nDescription: The Photo Gallery Slideshow & Masonry Tiled Gallery plugin for WordPress is vulnerable to Server-Side Request Forgery in all versions up to, and including, 1.0.15 via the rjg_get_youtube_info_justified_gallery_callback function. This makes it possible for authenticated attackers, with Subscriber-level access and above, to make web requests to arbitrary locations originating from the web application and can be used to retrieve limited information from internal services.\n\nPublication Date: Sat Jan 04 02:02:45 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12237"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100812,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-11733\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-11733\n\nDescription: The The WordPress Popular Posts plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to, and including, 7.1.0. This is due to the software allowing users to execute an action that does not properly validate a value before running do_shortcode. This makes it possible for unauthenticated attackers to execute arbitrary shortcodes.\n\nPublication Date: Sat Jan 04 02:02:34 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-11733"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100811,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-55896\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-55896\n\nDescription: IBM PowerHA SystemMirror for i 7.4 and 7.5 contains improper restrictions when rendering content via iFrames.  This vulnerability could allow an attacker to gain improper access and perform unauthorized actions on the system.\n\nPublication Date: Sat Jan 04 02:02:23 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-55896"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100810,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-55897\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-55897\n\nDescription: IBM PowerHA SystemMirror for i 7.4 and 7.5 \n\ndoes not set the secure attribute on authorization tokens or session cookies. Attackers may be able to get the cookie values by sending a http:// link to a user or by planting this link in a site the user goes to. The cookie will be sent to the insecure link and the attacker can then obtain the cookie value by snooping the traffic.\n\nPublication Date: Sat Jan 04 02:02:12 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-55897"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100809,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2025-0199\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0199\n\nDescription: A vulnerability, which was classified as critical, was found in code-projects Point of Sales and Inventory Management System 1.0. Affected is an unknown function of the file /user/minus_cart.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sat Jan 04 02:02:02 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0199"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
