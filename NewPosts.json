@@ -7590,6 +7590,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10003,
+            "discovered": "2025-01-03",
+            "post_title": "🚨🇮🇱Anonymous Guys Targets the Website of Israel Police\n\nhttps://darkwebinformer.com/anonymous-guys-targets-the-website-of-israel-police/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/anonymous-guys-targets-the-website-of-israel-police/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10002,
+            "discovered": "2025-01-03",
+            "post_title": "🚨🇺🇸Alleged Database Sale of Omnicom Media Group\n\nhttps://darkwebinformer.com/alleged-database-sale-of-omnicom-media-group/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/alleged-database-sale-of-omnicom-media-group/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -21708,6 +21738,61 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 521,
+            "discovered": "2025-01-03",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 520,
+            "discovered": "2025-01-03",
+            "post_title": "🔴Already two websites have been blocked by geo",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 519,
+            "discovered": "2025-01-03",
+            "post_title": "🆘 Infrastructure: Hospitals - The Italy health sector has been dropped due to the supporting Ukraine with military aid\n\n\n🔴https://upmc.it/\nhttps://check-host.net/check-report/21dc5905k40f\n\n🔴https://www.ifo.it\nhttps://check-host.net/check-report/21db0dbakac\n\n🔴https://www.ieo.it\nhttps://check-host.net/check-report/21db110ck805\n\n🔴https://www.policlinicogemelli.it\nhttps://check-host.net/check-report/21daff24k8b7\n\n🔴https://www.salvatormundi.it\nhttps://check-host.net/check-report/21db0c4ck552\n\n🔴https://www.ptvonline.it/\nhttps://check-host.net/check-report/21dd0aaak694\n\n\n#ServerKillers",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Italy",
+                "Ukraine",
+                "https://upmc.it/\nhttps://check-host.net/check-report/21dc5905k40f",
+                "https://www.policlinicogemelli.it"
+            ],
+            "URLs": [
+                "tps://upmc.it/\nh",
+                "tps://check-host.net/check-report/21dc5905k40f\n\n",
+                "ps://www.ifo.it\nht",
+                "ps://check-host.net/check-report/21db0dbakac\n\n🔴",
+                "s://www.ieo.it\nhtt",
+                "s://check-host.net/check-report/21db110ck805\n\n🔴h",
+                "://www.policlinicogemelli.it\nhttp",
+                "://check-host.net/check-report/21daff24k8b7\n\n🔴ht",
+                "//www.salvatormundi.it\nhttps",
+                "//check-host.net/check-report/21db0c4ck552\n\n🔴htt",
+                "/www.ptvonline.it/\nhttps:",
+                "/check-host.net/check-report/21dd0aaak694\n\n\n#Ser"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Alixsec ( English Version)": [
@@ -24789,6 +24874,19 @@
             "Message ID": 5656,
             "discovered": "2025-01-03",
             "post_title": "New papers added:\n\n- 2024-11-21 - New AMSI Bypss Technique Modifying CLRDLL in Memory\n- 2024-11-22 - How To Use MSSQL CLR Assembly To Bypass EDR\n- 2008-08-06 - Branchless Equivalents of Simple Functions\n- 2024-06-28 - An unexpected journey into Microsoft Defender's signature world\n- 2024-11-14 - ETW Forensics - Why use Event Tracing for Windows over EventLog\n- 2024-12-19 - The Windows Registry Adventure 5 - The regf file format\n- 2024-12-24 - Constructing a Win32 Control Handler in MASM\n- 2024-12-19 - Process Injection Mapped Sections\n- 2024-12-13 - Disabling EDRs by File Rename Junctions\n- 2024-12-20 - Weaponizing WDAC Killing the Dreams of EDR",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5657,
+            "discovered": "2025-01-03",
+            "post_title": "Mikko Hyppönen, Chief Research Officer of FSecure, confirms his first known siting of the password being 'infected' was March 1st, 2001.\n\nPlease note the other password was 'hot4u'. In an alternate universe the password to malware is hot4u.",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -38274,6 +38372,37 @@
             ],
             "URLs": [
                 "p://www.ransomfeed.it/index.php?page=post_details&id_post=19892"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5238,
+            "discovered": "2025-01-03",
+            "post_title": "ID: 19893\n⚠ 2025-01-03 15:41:39\n🥷 cicada3301\n🎯 ISOR, France\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19893",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19893"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5237,
+            "discovered": "2025-01-03",
+            "post_title": "ID: 19894\n⚠ 2025-01-03 14:49:15\n🥷 ransomhub\n🎯 www.alliancemat.com, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19894",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "w.alliancemat.com, ",
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19894"
             ],
             "Matched Keywords": [
                 "Other"
@@ -54356,6 +54485,338 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-41780"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100711,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Sinisterly - ⭐SPOTIFY PREMIUM UPGRADE | DEEZER UPGRADE | APPLE MUSIC UPGRADE | APPLE TV ⭐\n\nDetection Date: Fri Jan 03 19:32:21 2025\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-%E2%AD%90SPOTIFY-PREMIUM-UPGRADE-DEEZER-UPGRADE-APPLE-MUSIC-UPGRADE-APPLE-TV-%E2%AD%90\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-%E2%AD%90SPOTIFY-PREMIUM-UPGRADE-DEEZER-UPGRADE-APPLE-MUSIC-UPGRADE-APPLE-TV-%E2%AD%90"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100710,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Sinisterly - ✨ CANVA PRO EDU | 1 MONTH | 3 MONTHS | 6 MONTHS | 12 MONTHS | WITH UR EMAIL ✨\n\nDetection Date: Fri Jan 03 19:32:09 2025\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-%E2%9C%A8-CANVA-PRO-EDU-1-MONTH-3-MONTHS-6-MONTHS-12-MONTHS-WITH-UR-EMAIL-%E2%9C%A8\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-%E2%9C%A8-CANVA-PRO-EDU-1-MONTH-3-MONTHS-6-MONTHS-12-MONTHS-WITH-UR-EMAIL-%E2%9C%A8"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100709,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Sinisterly - ⚡ PRIME VIDEO UPGRADE | APPLE MUSIC + TV UPGRADE | CRUNCHYROLL FAN / MEGA FAN UPGRADE\n\nDetection Date: Fri Jan 03 19:31:57 2025\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-%E2%9A%A1-PRIME-VIDEO-UPGRADE-APPLE-MUSIC-TV-UPGRADE-CRUNCHYROLL-FAN-MEGA-FAN-UPGRADE\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-%E2%9A%A1-PRIME-VIDEO-UPGRADE-APPLE-MUSIC-TV-UPGRADE-CRUNCHYROLL-FAN-MEGA-FAN-UPGRADE"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100708,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Sinisterly - ⚡CHEAP PRICES ⚡ VPN | NORDVPN | SURFSHARK | IPVANISH | CYBERGHOST | WINDSCRIBE | PRIV\n\nDetection Date: Fri Jan 03 19:31:46 2025\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-%E2%9A%A1CHEAP-PRICES-%E2%9A%A1-VPN-NORDVPN-SURFSHARK-IPVANISH-CYBERGHOST-WINDSCRIBE-PRIV\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-%E2%9A%A1CHEAP-PRICES-%E2%9A%A1-VPN-NORDVPN-SURFSHARK-IPVANISH-CYBERGHOST-WINDSCRIBE-PRIV"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100707,
+            "discovered": "2025-01-03",
+            "post_title": "Title: US sanctions Chinese company linked to Flax Typhoon hackers\n\nDate: January 03, 2025\n\nSource: https://www.bleepingcomputer.com/news/security/us-sanctions-chinese-company-linked-to-flax-typhoon-hackers/\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US",
+                "China"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/us-sanctions-chinese-company-linked-to-flax-typhoon-hackers/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100706,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-1323\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-1323\n\nDescription: The Easy Forms for Mailchimp WordPress plugin before 6.8.9 does not sanitise and escape some of its from parameters, which could allow high privilege users such as admin to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)\n\nPublication Date: Fri Jan 03 19:09:52 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-1323"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100705,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-34824\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34824\n\nDescription: fdkaac before 1.0.5 was discovered to contain a heap buffer overflow in caf_info function in caf_reader.c.\n\nPublication Date: Fri Jan 03 19:09:42 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34824"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100704,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-34865\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34865\n\nDescription: Directory traversal vulnerability in ujcms 6.0.2 allows attackers to move files via the rename feature.\n\nPublication Date: Fri Jan 03 19:09:31 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34865"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100703,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-34867\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34867\n\nDescription: Jerryscript 3.0 (commit 05dbbd1) was discovered to contain an Assertion Failure via the ecma_property_hashmap_create at jerry-core/ecma/base/ecma-property-hashmap.c.\n\nPublication Date: Fri Jan 03 19:09:20 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34867"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100702,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-48814\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48814\n\nDescription: SQL Injection vulnerability in Silverpeas 6.4.1 allows a remote attacker to obtain sensitive information via the ViewType parameter of the findbywhereclause function\n\nPublication Date: Fri Jan 03 19:09:09 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Silverpeas"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48814"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100701,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-34755\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34755\n\nDescription: bloofox v0.5.2.1 was discovered to contain a SQL injection vulnerability via the userid parameter at admin/index.php?mode=user&action=edit.\n\nPublication Date: Fri Jan 03 19:08:58 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34755"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100700,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-3049\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3049\n\nDescription: Unrestricted Upload of File with Dangerous Type vulnerability in TMT Lockcell allows Command Injection.This issue affects Lockcell: before 15.\n\nPublication Date: Fri Jan 03 19:08:47 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Lockcell"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3049"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100699,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-34623\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34623\n\nDescription: An issue was discovered jtidy thru r938 allows attackers to cause a denial of service or other unspecified impacts via crafted object that uses cyclic dependencies.\n\nPublication Date: Fri Jan 03 19:08:36 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34623"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100698,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-3048\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3048\n\nDescription: Authorization Bypass Through User-Controlled Key vulnerability in TMT Lockcell allows Authentication Abuse, Authentication Bypass.This issue affects Lockcell: before 15.\n\nPublication Date: Fri Jan 03 19:08:25 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Lockcell"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3048"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100697,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-3047\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3047\n\nDescription: Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in TMT Lockcell allows SQL Injection.This issue affects Lockcell: before 15.\n\nPublication Date: Fri Jan 03 19:08:14 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Lockcell"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3047"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100696,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-34620\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34620\n\nDescription: An issue was discovered hjson thru 3.0.0 allows attackers to cause a denial of service or other unspecified impacts via crafted object that uses cyclic dependencies.\n\nPublication Date: Fri Jan 03 19:08:03 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34620"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100695,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-2807\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-2807\n\nDescription: Authentication Bypass by Spoofing vulnerability in the password reset process of Pandora FMS allows an unauthenticated attacker to initiate a password reset process for any user account without proper authentication. This issue affects PandoraFMS v771 and prior versions on all platforms.\n\nPublication Date: Fri Jan 03 19:07:52 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-2807"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100694,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-2729\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-2729\n\nDescription: Use of insufficiently random values vulnerability in User Management Functionality in Synology DiskStation Manager (DSM) before 7.2-64561 allows remote attackers to obtain user credential via unspecified vectors.\n\nPublication Date: Fri Jan 03 19:07:42 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-2729"
+            ],
+            "Matched Keywords": [
+                "DSM"
+            ]
+        },
+        {
+            "Message ID": 100693,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-56320\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56320\n\nDescription: GoCD is a continuous deliver server. GoCD versions prior to 24.5.0 are vulnerable to admin privilege escalation due to improper authorization of access to the admin \"Configuration XML\" UI feature, and its associated API. A malicious insider/existing authenticated GoCD user with an existing GoCD user account could abuse this vulnerability to access information intended only for GoCD admins, or to escalate their privileges to that of a GoCD admin in a persistent manner. it is not possible for this vulnerability to be abused prior to authentication/login. The issue is fixed in GoCD 24.5.0. GoCD users who are not able to immediate upgrade can mitigate this issue by using a reverse proxy, WAF or similar to externally block access paths with a `/go/rails/` prefix. Blocking this route causes no loss of functionality. If it is not possible to upgrade or block the above route, consider reducing the GoCD user base to more trusted set of users, including temporarily disabling use of plugins such as the guest-login-plugin, which allow limited anonymous access as a regular user account.\n\nPublication Date: Fri Jan 03 19:07:31 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56320"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100692,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-34617\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34617\n\nDescription: An issue was discovered genson thru 1.6 allows attackers to cause a denial of service or other unspecified impacts via crafted object that uses cyclic dependencies.\n\nPublication Date: Fri Jan 03 19:07:20 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34617"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100691,
+            "discovered": "2025-01-03",
+            "post_title": "Target: https://rhme.gov.cv/ynr.html\n\nNotified: ynR !\n\nDate: Fri, 03 Jan 2025 15:54:04 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313190\n\n#Defacements #CapeVerde",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://rhme.gov.cv/ynr.html",
+                "http://www.zone-h.org/mirror/id/41313190"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100690,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Malicious npm packages target Ethereum developers' private keys\n\nDate: January 03, 2025\n\nSource: https://www.bleepingcomputer.com/news/security/malicious-npm-packages-target-ethereum-developers-private-keys/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-target-ethereum-developers-private-keys/"
             ],
             "Matched Keywords": [
                 "Other"
@@ -77379,6 +77840,36 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2023-48758/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80754,
+            "discovered": "2025-01-03",
+            "post_title": "[CICADA3301] - Ransomware Victim: ISOR - https://www.redpacketsecurity.com/cicada3301-ransomware-victim-isor/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cicada3301-ransomware-victim-isor/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80753,
+            "discovered": "2025-01-03",
+            "post_title": "[HUNTERS] - Ransomware Victim: Nikki-Universal Co Ltd - https://www.redpacketsecurity.com/hunters-ransomware-victim-nikki-universal-co-ltd/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/hunters-ransomware-victim-nikki-universal-co-ltd/"
             ],
             "Matched Keywords": [
                 "Other"
