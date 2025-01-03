@@ -7560,6 +7560,21 @@
             "Matched Keywords": [
                 "Css"
             ]
+        },
+        {
+            "Message ID": 10000,
+            "discovered": "2025-01-02",
+            "post_title": "💡Daily Dose of Dark Web Informer - January 2nd, 2025\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-january-2nd-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-january-2nd-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -51895,6 +51910,670 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100609,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Weekly Detection Rule (YARA and Snort) Information – Week 1, January 2025\n\nDate: January 3, 2025\n\nSource: https://asec.ahnlab.com/en/85457/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://asec.ahnlab.com/en/85457/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100608,
+            "discovered": "2025-01-03",
+            "post_title": "Title: No need to hack when it’s leaking: Roomster edition\n\nDate: January 3, 2025\n\nSource: https://databreaches.net/2025/01/02/no-need-to-hack-when-its-leaking-roomster-edition/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://databreaches.net/2025/01/02/no-need-to-hack-when-its-leaking-roomster-edition/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100607,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-28119\n\nDescription: Grav is an open-source, flat-file content management system. Prior to version 1.7.45, due to the unrestricted access to twig extension class from grav context, an attacker can redefine the escape function and execute arbitrary commands. Twig processing of static pages can be enabled in the front matter by any administrative user allowed to create or edit pages. As the Twig processor runs unsandboxed, this behavior can be used to gain arbitrary code execution and elevate privileges on the instance. Version 1.7.45 contains a patch for this issue.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-28119\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://github.com/getgrav/grav/security/advisories/GHSA-2m7x-c7px-hp58\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-28119",
+                "https://github.com/getgrav/grav/security/advisories/GHSA-2m7x-c7px-hp58"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100606,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-27923\n\nDescription: Grav is a content management system (CMS). Prior to version 1.7.43, users who may write a page may use the `frontmatter` feature due to insufficient permission validation and inadequate file name validation. This may lead to remote code execution. Version 1.7.43 fixes this issue.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-27923\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://github.com/getgrav/grav/security/advisories/GHSA-f6g2-h7qv-3m5v\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27923",
+                "https://github.com/getgrav/grav/security/advisories/GHSA-f6g2-h7qv-3m5v"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100605,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-34082\n\nDescription: Grav is a file-based Web platform. Prior to version 1.7.46, a low privilege user account with page edit privilege can read any server files using Twig Syntax. This includes Grav user account files - `/grav/user/accounts/*.yaml`. This file stores hashed user password, 2FA secret, and the password reset token. This can allow an adversary to compromise any registered account and read any file in the web server by resetting a password for a user to get access to the password reset token from the file or by cracking the hashed password. A low privileged user may also perform a full account takeover of other registered users including Administrators. Version 1.7.46 contains a patch.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-34082\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://github.com/getgrav/grav/security/advisories/GHSA-f8v5-jmfh-pr69\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34082",
+                "https://github.com/getgrav/grav/security/advisories/GHSA-f8v5-jmfh-pr69"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100604,
+            "discovered": "2025-01-03",
+            "post_title": "Title: NULLED.TO - 2 United Nations Delegates Databases\n\nDetection Date: Fri Jan 03 04:32:34 2025\n\nSource: nulledto\n\nURL: https://www.nulled.to/topic/1666293-2-united-nations-delegates-databases/\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "NULLED.TO",
+                "https://www.nulled.to/topic/1666293-2-united-nations-delegates-databases/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100603,
+            "discovered": "2025-01-03",
+            "post_title": "Title: NULLED.TO - [[ XLSX 2020 LEAK ]] UNITED ARAB EMIRATES STARTUP-DUBAI PREMIUM DATABASE + BONUS\n\nDetection Date: Fri Jan 03 04:32:22 2025\n\nSource: nulledto\n\nURL: https://www.nulled.to/topic/1338757-xlsx-2020-leak-united-arab-emirates-startup-dubai-premium-database-bonus/\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "NULLED.TO",
+                "https://www.nulled.to/topic/1338757-xlsx-2020-leak-united-arab-emirates-startup-dubai-premium-database-bonus/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100602,
+            "discovered": "2025-01-03",
+            "post_title": "Title: NULLED.TO - the Harley-Davidson Data Breach ‎ ‌‌‎\n\nDetection Date: Fri Jan 03 04:32:10 2025\n\nSource: nulledto\n\nURL: https://www.nulled.to/topic/1668845-the-harley-davidson-data-breach-‎-‌‌‎/\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "NULLED.TO",
+                "https://www.nulled.to/topic/1668845-the-harley-davidson-data-breach-"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100601,
+            "discovered": "2025-01-03",
+            "post_title": "Title: NULLED.TO - [13.7K] OLD ROBLOX USER:PASS\n\nDetection Date: Fri Jan 03 04:31:58 2025\n\nSource: nulledto\n\nURL: https://www.nulled.to/topic/1662080-137k-old-roblox-userpass/\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "NULLED.TO",
+                "https://www.nulled.to/topic/1662080-137k-old-roblox-userpass/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100600,
+            "discovered": "2025-01-03",
+            "post_title": "Title: NULLED.TO - [1GB] Shein Database Leak | 45% With Balance | Updated |\n\nDetection Date: Fri Jan 03 04:31:45 2025\n\nSource: nulledto\n\nURL: https://www.nulled.to/topic/1060240-1gb-shein-database-leak-45-with-balance-updated/\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "NULLED.TO",
+                "https://www.nulled.to/topic/1060240-1gb-shein-database-leak-45-with-balance-updated/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100599,
+            "discovered": "2025-01-03",
+            "post_title": "Title: NULLED.TO - 150k USA PERSONAL INFO  SSN, DOB, drivers_license\n\nDetection Date: Fri Jan 03 04:31:33 2025\n\nSource: nulledto\n\nURL: https://www.nulled.to/topic/1523654-150k-usa-personal-info-ssn-dob-drivers-license/\n\n#darkforums #leak #UnitedStates",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "NULLED.TO",
+                "https://www.nulled.to/topic/1523654-150k-usa-personal-info-ssn-dob-drivers-license/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100598,
+            "discovered": "2025-01-03",
+            "post_title": "Title: NULLED.TO - SSN.zip\n\nDetection Date: Fri Jan 03 04:31:21 2025\n\nSource: nulledto\n\nURL: https://www.nulled.to/topic/1582215-ssnzip/\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "NULLED.TO",
+                "SSN.zip",
+                "https://www.nulled.to/topic/1582215-ssnzip/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100597,
+            "discovered": "2025-01-03",
+            "post_title": "Title: NULLED.TO - US+SSN 19 Gb   80M rows\n\nDetection Date: Fri Jan 03 04:31:09 2025\n\nSource: nulledto\n\nURL: https://www.nulled.to/topic/1603766-usssn-19-gb-80m-rows/\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "NULLED.TO",
+                "https://www.nulled.to/topic/1603766-usssn-19-gb-80m-rows/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100596,
+            "discovered": "2025-01-03",
+            "post_title": "Title: NULLED.TO - [Datapack] 25 Dumps 2024 December\n\nDetection Date: Fri Jan 03 04:30:57 2025\n\nSource: nulledto\n\nURL: https://www.nulled.to/topic/1663477-datapack-25-dumps-2024-december/\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "NULLED.TO",
+                "https://www.nulled.to/topic/1663477-datapack-25-dumps-2024-december/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100595,
+            "discovered": "2025-01-03",
+            "post_title": "Title: NULLED.TO - [armorgames.com] email:pass dump (DOMAIN SORTED)\n\nDetection Date: Fri Jan 03 04:30:45 2025\n\nSource: nulledto\n\nURL: https://www.nulled.to/topic/1668498-armorgamescom-emailpass-dump-domain-sorted/\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "NULLED.TO",
+                "armorgames.com",
+                "https://www.nulled.to/topic/1668498-armorgamescom-emailpass-dump-domain-sorted/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100594,
+            "discovered": "2025-01-03",
+            "post_title": "Title: NULLED.TO - CoinMarketCap Database\n\nDetection Date: Fri Jan 03 04:30:33 2025\n\nSource: nulledto\n\nURL: https://www.nulled.to/topic/1507570-coinmarketcap-database/\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "NULLED.TO",
+                "https://www.nulled.to/topic/1507570-coinmarketcap-database/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100593,
+            "discovered": "2025-01-03",
+            "post_title": "Title: NULLED.TO - www.patkarvardecollege.edu.in Database Leak\n\nDetection Date: Fri Jan 03 04:30:21 2025\n\nSource: nulledto\n\nURL: https://www.nulled.to/topic/1668876-wwwpatkarvardecollegeeduin-database-leak/\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "NULLED.TO",
+                "www.patkarvardecollege.edu.in",
+                "https://www.nulled.to/topic/1668876-wwwpatkarvardecollegeeduin-database-leak/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100592,
+            "discovered": "2025-01-03",
+            "post_title": "Title: NULLED.TO - DUTCH ID TEMPLATE FOR ADOBE PHOTOSHOP .PSD\n\nDetection Date: Fri Jan 03 04:30:09 2025\n\nSource: nulledto\n\nURL: https://www.nulled.to/topic/1460365-dutch-id-template-for-adobe-photoshop-psd/\n\n#darkforums #leak #Netherlands",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Netherlands"
+            ],
+            "URLs": [
+                "NULLED.TO",
+                "https://www.nulled.to/topic/1460365-dutch-id-template-for-adobe-photoshop-psd/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100591,
+            "discovered": "2025-01-03",
+            "post_title": "Title: NULLED.TO - Mega Leak ~ 10 GB Passwords and Cookies (Paypal,Amazon,Blockchain,Netflix,Etc..)Part2\n\nDetection Date: Fri Jan 03 04:29:57 2025\n\nSource: nulledto\n\nURL: https://www.nulled.to/topic/1381159-mega-leak-10-gb-passwords-and-cookies-paypalamazonblockchainnetflixetcpart2/\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Blockchain",
+                "Netflix"
+            ],
+            "URLs": [
+                "NULLED.TO",
+                "https://www.nulled.to/topic/1381159-mega-leak-10-gb-passwords-and-cookies-paypalamazonblockchainnetflixetcpart2/"
+            ],
+            "Matched Keywords": [
+                "Amazon"
+            ]
+        },
+        {
+            "Message ID": 100590,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-43077\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43077\n\nDescription: In DevmemValidateFlags of devicemem_server.c , there is a possible out of bounds write due to memory corruption. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 04:08:16 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43077"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100589,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-43097\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43097\n\nDescription: In resizeToAtLeast of SkRegion.cpp, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 04:08:06 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43097"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100588,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-43762\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43762\n\nDescription: In multiple locations, there is a possible way to avoid unbinding of a service from the system due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 04:07:55 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43762"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100587,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-43764\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43764\n\nDescription: In onPrimaryClipChanged of ClipboardListener.java, there is a possible way to partially bypass lock screen. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 04:07:44 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43764",
+                "ClipboardListener.java"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100586,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-43767\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43767\n\nDescription: In prepare_to_draw_into_mask of SkBlurMaskFilterImpl.cpp, there is a possible heap overflow due to improper input validation. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 04:07:33 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43767"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100585,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-43768\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43768\n\nDescription: In skia_alloc_func of SkDeflate.cpp, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 04:07:22 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43768"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100584,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-43769\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43769\n\nDescription: In isPackageDeviceAdmin of PackageManagerService.java, there is a possible edge case which could prevent the uninstallation of CloudDpc due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 04:07:12 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43769",
+                "PackageManagerService.java"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100583,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2025-0174\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0174\n\nDescription: A vulnerability was found in code-projects Point of Sales and Inventory Management System 1.0. It has been classified as critical. This affects an unknown part of the file /user/search_result2.php of the component Parameter Handler. The manipulation of the argument search leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Jan 03 04:07:01 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0174"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100582,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Apple to settle claims Siri collected user data without permission\n\nDate: January 3, 2025\n\nSource: https://www.scworld.com/news/apple-to-settle-claims-siri-collected-user-data-without-permission\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/apple-to-settle-claims-siri-collected-user-data-without-permission"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100581,
+            "discovered": "2025-01-03",
+            "post_title": "Title: GenAI cybersecurity ROI outlook shared by business leaders\n\nDate: January 3, 2025\n\nSource: https://www.scworld.com/news/genai-cybersecurity-roi-outlook-shared-by-business-leaders\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/genai-cybersecurity-roi-outlook-shared-by-business-leaders"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100580,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-32461\n\nDescription: LibreNMS is an open-source, PHP/MySQL/SNMP-based network monitoring system. A SQL injection vulnerability in POST /search/search=packages in LibreNMS prior to version 24.4.0 allows a user with global read privileges to execute SQL commands via the package parameter. With this vulnerability, an attacker can exploit a SQL injection time based vulnerability to extract all data from the database, such as administrator credentials. Version 24.4.0 contains a patch for the vulnerability.\n\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-32461\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://doc.clickup.com/9013166444/p/h/8ckm0bc-53/16811991bb5fff6\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-32461",
+                "https://doc.clickup.com/9013166444/p/h/8ckm0bc-53/16811991bb5fff6"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100579,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-32479\n\nDescription: LibreNMS is an open-source, PHP/MySQL/SNMP-based network monitoring system. Prior to version 24.4.0, there is improper sanitization on the `Service` template name, which can lead to stored Cross-site Scripting. Version 24.4.0 fixes this vulnerability.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-32479\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://github.com/librenms/librenms/security/advisories/GHSA-72m9-7c8x-pmmw\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-32479",
+                "https://github.com/librenms/librenms/security/advisories/GHSA-72m9-7c8x-pmmw"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100578,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-32480\n\nDescription: LibreNMS is an open-source, PHP/MySQL/SNMP-based network monitoring system. Versions prior to 24.4.0 are vulnerable to SQL injection. The `order` parameter is obtained from `$request`. After performing a string check, the value is directly incorporated into an SQL statement and concatenated, resulting in a SQL injection vulnerability. An attacker may extract a whole database this way. Version 24.4.0 fixes the issue.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-32480\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://github.com/librenms/librenms/security/advisories/GHSA-jh57-j3vq-h438\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-32480",
+                "https://github.com/librenms/librenms/security/advisories/GHSA-jh57-j3vq-h438"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100577,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-27921\n\nDescription: Grav is an open-source, flat-file content management system. A file upload path traversal vulnerability has been identified in the application prior to version 1.7.45, enabling attackers to replace or create files with extensions like .json, .zip, .css, .gif, etc. This critical security flaw poses severe risks, that can allow attackers to inject arbitrary code on the server, undermine integrity of backup files by overwriting existing files or creating new ones, and exfiltrate sensitive data using CSS exfiltration techniques. Upgrading to patched version 1.7.45 can mitigate the issue.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-27921\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://github.com/getgrav/grav/security/advisories/GHSA-m7hx-hw6h-mqmc\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit",
+                "https://github.com/getgrav/grav/security/advisories/GHSA-m7hx-hw6h-mqmc"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27921",
+                "https://github.com/getgrav/grav/security/advisories/GHSA-m7hx-hw6h-mqmc"
+            ],
+            "Matched Keywords": [
+                "Css"
+            ]
+        },
+        {
+            "Message ID": 100576,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-28116\n\nDescription: Grav is an open-source, flat-file content management system. Grav CMS prior to version 1.7.45 is vulnerable to a Server-Side Template Injection (SSTI), which allows any authenticated user (editor permissions are sufficient) to execute arbitrary code on the remote server bypassing the existing security sandbox. Version 1.7.45 contains a patch for this issue.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-28116\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://github.com/getgrav/grav/security/advisories/GHSA-c9gp-64c4-2rrh\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-28116",
+                "https://github.com/getgrav/grav/security/advisories/GHSA-c9gp-64c4-2rrh"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100575,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-28117\n\nDescription: Grav is an open-source, flat-file content management system. Prior to version 1.7.45, Grav validates accessible functions through the Utils::isDangerousFunction function, but does not impose restrictions on twig functions like twig_array_map, allowing attackers to bypass the validation and execute arbitrary commands. Twig processing of static pages can be enabled in the front matter by any administrative user allowed to create or edit pages. As the Twig processor runs unsandboxed, this behavior can be used to gain arbitrary code execution and elevate privileges on the instance. Upgrading to patched version 1.7.45 can mitigate this issue.\n\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-28117\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://github.com/getgrav/grav/security/advisories/GHSA-qfv4-q44r-g7rv\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-28117",
+                "https://github.com/getgrav/grav/security/advisories/GHSA-qfv4-q44r-g7rv"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100574,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-28118\n\nDescription: Grav is an open-source, flat-file content management system. Prior to version 1.7.45, due to the unrestricted access to twig extension class from Grav context, an attacker can redefine config variable. As a result, attacker can bypass a previous SSTI mitigation. Twig processing of static pages can be enabled in the front matter by any administrative user allowed to create or edit pages. As the Twig processor runs unsandboxed, this behavior can be used to gain arbitrary code execution and elevate privileges on the instance. Version 1.7.45 contains a fix for this issue.\n\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-28118\n\nDate of Publishing: 2025/01/02\n\nLink to Exploit: https://github.com/getgrav/grav/security/advisories/GHSA-r6vw-8v8r-pmp4\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-28118",
+                "https://github.com/getgrav/grav/security/advisories/GHSA-r6vw-8v8r-pmp4"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100573,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-27923\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-27923\n\nDescription: Grav is a content management system (CMS). Prior to version 1.7.43, users who may write a page may use the `frontmatter` feature due to insufficient permission validation and inadequate file name validation. This may lead to remote code execution. Version 1.7.43 fixes this issue.\n\nPublication Date: Fri Jan 03 03:05:43 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27923"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100572,
+            "discovered": "2025-01-03",
+            "post_title": "Victim: Carrollton Orthopaedic Clinic\n\nDetection Date: Fri Jan 03 03:04:24 2025\n\nThreat Actor: 8base\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100571,
+            "discovered": "2025-01-03",
+            "post_title": "Victim: Tarnaise des Panneaux SAS\n\nDetection Date: Fri Jan 03 03:03:36 2025\n\nThreat Actor: 8base\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "SAS"
+            ]
+        },
+        {
+            "Message ID": 100570,
+            "discovered": "2025-01-03",
+            "post_title": "Victim: Jay Enn Corporation\n\nDetection Date: Fri Jan 03 03:02:48 2025\n\nThreat Actor: 8base\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100569,
+            "discovered": "2025-01-03",
+            "post_title": "Victim: VOLTAIRE AVOCATS\n\nDetection Date: Fri Jan 03 02:57:13 2025\n\nThreat Actor: 8base\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100568,
+            "discovered": "2025-01-02",
+            "post_title": "Victim: Grupo Buddemeyer\n\nDetection Date: Fri Jan 03 02:56:32 2025\n\nThreat Actor: 8base\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100567,
+            "discovered": "2025-01-02",
+            "post_title": "Victim: SolGeo AG Baugelogie and Geotechnik\n\nDetection Date: Fri Jan 03 02:51:55 2025\n\nThreat Actor: 8base\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -73411,6 +74090,503 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 80700,
+            "discovered": "2025-01-03",
+            "post_title": "Cobalt Strike Beacon Detected - 150[.]158[.]41[.]153:443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-150-158-41-153-port-443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-150-158-41-153-port-443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80699,
+            "discovered": "2025-01-03",
+            "post_title": "Cobalt Strike Beacon Detected - 124[.]221[.]35[.]96:8080 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-124-221-35-96-port-8080/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-124-221-35-96-port-8080/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80698,
+            "discovered": "2025-01-03",
+            "post_title": "Cobalt Strike Beacon Detected - 154[.]64[.]254[.]113:8443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-154-64-254-113-port-8443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-154-64-254-113-port-8443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80697,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Releases Eight Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-03-01-2025-2/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-03-01-2025-2/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80696,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Adds Three Known Exploited Vulnerabilities to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-three-known-exploited-vulnerabilities-to-catalog-03-01-2025/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-three-known-exploited-vulnerabilities-to-catalog-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80695,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA and Partners Release Joint Guidance on PRC-Affiliated Threat Actor Compromising Networks of Global Telecommunications Providers - https://www.redpacketsecurity.com/cisa-cisa-and-partners-release-joint-guidance-on-prc-affiliated-threat-actor-compromising-networks-of-global-telecommunications-providers-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA",
+                "PRC"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-and-partners-release-joint-guidance-on-prc-affiliated-threat-actor-compromising-networks-of-global-telecommunications-providers-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80694,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-03-01-2025-7/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-03-01-2025-7/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80693,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Releases New Public Version of CDM Data Model Document - https://www.redpacketsecurity.com/cisa-cisa-releases-new-public-version-of-cdm-data-model-document-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-new-public-version-of-cdm-data-model-document-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80692,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: ASD’s ACSC, CISA, and US and International Partners Release Guidance on Choosing Secure and Verifiable Technologies - https://www.redpacketsecurity.com/cisa-asd-s-acsc-cisa-and-us-and-international-partners-release-guidance-on-choosing-secure-and-verifiable-technologies-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA",
+                "US"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-asd-s-acsc-cisa-and-us-and-international-partners-release-guidance-on-choosing-secure-and-verifiable-technologies-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80691,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Releases Two Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-two-industrial-control-systems-advisories-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-two-industrial-control-systems-advisories-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80690,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: Adobe Releases Security Updates for Multiple Products - https://www.redpacketsecurity.com/cisa-adobe-releases-security-updates-for-multiple-products-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-adobe-releases-security-updates-for-multiple-products-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80689,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: Microsoft Releases December 2024 Security Updates - https://www.redpacketsecurity.com/cisa-microsoft-releases-december-2024-security-updates-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-microsoft-releases-december-2024-security-updates-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80688,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: Cisco Releases Security Updates for NX-OS Software - https://www.redpacketsecurity.com/cisa-cisco-releases-security-updates-for-nx-os-software-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisco-releases-security-updates-for-nx-os-software-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80687,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-03-01-2025-6/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-03-01-2025-6/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80686,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Releases Seven Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-seven-industrial-control-systems-advisories-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-seven-industrial-control-systems-advisories-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80685,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Releases Ten Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-ten-industrial-control-systems-advisories-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-ten-industrial-control-systems-advisories-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80684,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: Ivanti Releases Security Updates for Multiple Products - https://www.redpacketsecurity.com/cisa-ivanti-releases-security-updates-for-multiple-products-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-ivanti-releases-security-updates-for-multiple-products-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80683,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: Apple Releases Security Updates for Multiple Products - https://www.redpacketsecurity.com/cisa-apple-releases-security-updates-for-multiple-products-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-apple-releases-security-updates-for-multiple-products-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80682,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-03-01-2025-4/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-03-01-2025-4/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80681,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Requests Public Comment for Draft National Cyber Incident Response Plan Update - https://www.redpacketsecurity.com/cisa-cisa-requests-public-comment-for-draft-national-cyber-incident-response-plan-update-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-requests-public-comment-for-draft-national-cyber-incident-response-plan-update-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80680,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA and EPA Release Joint Fact Sheet Detailing Risks Internet-Exposed HMIs Pose to WWS Sector - https://www.redpacketsecurity.com/cisa-cisa-and-epa-release-joint-fact-sheet-detailing-risks-internet-exposed-hmis-pose-to-wws-sector-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-and-epa-release-joint-fact-sheet-detailing-risks-internet-exposed-hmis-pose-to-wws-sector-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80679,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-03-01-2025-5/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-03-01-2025-5/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80678,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Adds Two Known Exploited Vulnerabilities to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-two-known-exploited-vulnerabilities-to-catalog-03-01-2025/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-two-known-exploited-vulnerabilities-to-catalog-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80677,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA and ONCD Release Playbook for Strengthening Cybersecurity in Federal Grant Programs for Critical Infrastructure - https://www.redpacketsecurity.com/cisa-cisa-and-oncd-release-playbook-for-strengthening-cybersecurity-in-federal-grant-programs-for-critical-infrastructure-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-and-oncd-release-playbook-for-strengthening-cybersecurity-in-federal-grant-programs-for-critical-infrastructure-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80676,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Adds Four Known Exploited Vulnerabilities to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-four-known-exploited-vulnerabilities-to-catalog-03-01-2025/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-four-known-exploited-vulnerabilities-to-catalog-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80675,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Issues BOD 25-01, Implementing Secure Practices for Cloud Services - https://www.redpacketsecurity.com/cisa-cisa-issues-bod-25-01-implementing-secure-practices-for-cloud-services-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-issues-bod-25-01-implementing-secure-practices-for-cloud-services-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80674,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Releases Best Practice Guidance for Mobile Communications - https://www.redpacketsecurity.com/cisa-cisa-releases-best-practice-guidance-for-mobile-communications-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-best-practice-guidance-for-mobile-communications-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80673,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Releases Five Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-five-industrial-control-systems-advisories-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-five-industrial-control-systems-advisories-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80672,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-03-01-2025/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80671,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Releases Eight Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80670,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: Fortinet Releases Security Updates for FortiManager - https://www.redpacketsecurity.com/cisa-fortinet-releases-security-updates-for-fortimanager-03-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-fortinet-releases-security-updates-for-fortimanager-03-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80669,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-03-01-2025-3/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-03-01-2025-3/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80668,
+            "discovered": "2025-01-03",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-03-01-2025-2/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-03-01-2025-2/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomware Live - Ransomware Alerts": [
@@ -78038,6 +79214,32 @@
                 "heck-host.net/check-report/21db94b7ka4d\n",
                 "heck-host.net/check-report/21db9706k59\n",
                 "heck-host.net/check-report/21db9862k8f0\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 72,
+            "discovered": "2025-01-03",
+            "post_title": "Наш новогодний тур по русофобским странам продолжается! На этот раз наш медведь-Мороз привёз DDoS-подарки на сайты Тайваня😈\n\n❌Город Хуалянь \ncheck-host.net/check-report/21eea001k38c\n\n❌Город Тоуфэнь \ncheck-host.net/check-report/21eea1cck60\n\n❌Город Наньтоу \ncheck-host.net/check-report/21eea249kd96\n\n❌Город Мяоли \ncheck-host.net/check-report/21eea2afkec0\n\n❌Таоюаньский метрополитен (мертв по пингу) \ncheck-host.net/check-report/21eea331kd78\n\n❌Аэропорт Суншань \ncheck-host.net/check-report/21eea3e9kbac\n\n❌Налоговый портал Министерства финансов Тайваня \ncheck-host.net/check-report/21eea46ek466\n\n❌Управление бухгалтерского учета и учета Исполнительного Юаня \ncheck-host.net/check-report/21eea56akc46\n\n❌Taipei Exchange (TPEx) - Тайбэйская биржа (мертв по пингу) \ncheck-host.net/check-report/21eea6b5k7bc\n\n❌Chicony Electronics Co., Ltd. — тайваньский многонациональный производитель электроники \ncheck-host.net/check-report/21eea73dk2fb\n\nПодпишись➡️NoName057(16)|DDoSia Project |Reserve|Eng version|ReserveDDoSia",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "check-host.net/check-report/21eea001k38c",
+                "Министерства",
+                "check-host.net/check-report/21eea73dk2fb"
+            ],
+            "URLs": [
+                "heck-host.net/check-report/21eea001k38c\n",
+                "heck-host.net/check-report/21eea1cck60\n",
+                "heck-host.net/check-report/21eea249kd96\n",
+                "heck-host.net/check-report/21eea2afkec0\n",
+                "heck-host.net/check-report/21eea331kd78\n",
+                "heck-host.net/check-report/21eea3e9kbac\n",
+                "heck-host.net/check-report/21eea46ek466\n",
+                "heck-host.net/check-report/21eea56akc46\n",
+                "heck-host.net/check-report/21eea6b5k7bc\n",
+                "heck-host.net/check-report/21eea73dk2fb\n"
             ],
             "Matched Keywords": [
                 "Other"
