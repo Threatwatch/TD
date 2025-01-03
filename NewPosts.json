@@ -24449,6 +24449,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5653,
+            "discovered": "2025-01-03",
+            "post_title": "The malware oopsie-doopsie paradox\n\nThe more evasive techniques introduced into your payload, the more likely it be detected\n\nThe less evasive techniques introduced into your payload, the more likely it be detected",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "DARKFEED": [
@@ -52847,6 +52860,51 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100629,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-33991\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33991\n\nDescription: SAP UI5 Variant Management - versions SAP_UI 750, SAP_UI 754, SAP_UI 755, SAP_UI 756, SAP_UI 757, UI_700 200, does not sufficiently encode user-controlled inputs on reading data from the server, resulting in Stored Cross-Site Scripting (Stored XSS) vulnerability. After successful exploitation, an attacker with user level access can cause high impact on confidentiality, modify some information and can cause unavailability of the application at user level.\n\nPublication Date: Fri Jan 03 06:04:57 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33991"
+            ],
+            "Matched Keywords": [
+                "SAP"
+            ]
+        },
+        {
+            "Message ID": 100628,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-33986\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33986\n\nDescription: SAP CRM ABAP (Grantor Management) - versions 700, 701, 702, 712, 713, 714, does not sufficiently encode user-controlled inputs, resulting in Cross-Site Scripting (XSS) vulnerability. After successful exploitation, an attacker can cause limited impact on confidentiality and integrity of the application.\n\nPublication Date: Fri Jan 03 06:04:46 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33986"
+            ],
+            "Matched Keywords": [
+                "SAP"
+            ]
+        },
+        {
+            "Message ID": 100627,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-33985\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33985\n\nDescription: SAP NetWeaver Enterprise Portal - version 7.50, does not sufficiently encode user-controlled inputs over the network, resulting in reflected Cross-Site Scripting (XSS) vulnerability, therefore changing the scope of the attack. On successful exploitation, an attacker can view or modify information causing a limited impact on confidentiality and integrity of the application.\n\nPublication Date: Fri Jan 03 06:04:36 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33985"
+            ],
+            "Matched Keywords": [
+                "SAP"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -56908,6 +56966,102 @@
                 "Poland",
                 "France",
                 "Italy"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27029,
+            "discovered": "2025-01-03",
+            "post_title": "2. The 2024 Telecom attacks\n\nA Chinese state-sponsored hacking group known as \"Salt Typhoon\" is linked to a series of cyberattacks targeting telecommunications firms globally.\n\nThese breaches compromised at least nine major telecom providers, including AT&T, Verizon, and T-Mobile.\n\nThe group reportedly focused on infiltrating telecom infrastructure to steal text messages, phone call information, and voicemails from targeted people. The threat actors also targeted the wiretapping platforms used by the US government, raising serious national security concerns. \n\nA White House briefing revealed that Salt Typhoon's operations also impacted telecommunications providers in dozens of countries.\n\nIn the US, these attacks prompted concerns about weaknesses in telecom infrastructure and the security of government surveillance platforms. \n\nUS lawmakers, including Senator Ron Wyden, have proposed legislation to address vulnerabilities in the nation's telecom infrastructure. The proposed bill aims to establish stricter cybersecurity standards and oversight for telecom providers to prevent similar attacks in the future.\n\nThe US government reportedly plans to ban China Telecom's last active US operations in response toh the telecom hacks.\n\n1. The rise of Infostealers\n\nInformation-stealing malware campaigns are running rampant this year, used in many different campaigns to steal infected users' browser information, cookies, saved credentials, credit cards, and cryptocurrency wallets.\n\nWhile infostealers have been around for many years, they have been particularly prominent with threat actors using them in a wide range of campaigns.\n\nThese stolen credentials are then used to breach corporate networks, bank accounts, cryptocurrency exchanges, and email accounts.\n\n#CyberBulletin 5",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Verizon",
+                "US",
+                "US",
+                "US",
+                "US",
+                "US"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27028,
+            "discovered": "2025-01-03",
+            "post_title": "5. The UnitedHealth Change HealthCare ransomware attack\n\nIn February, UnitedHealth subsidiary Change Healthcare suffered a massive ransomware attack that caused massive disruption to the US healthcare industry.\n\nThe outages prevented doctors and pharmacies from filing claims and prevented pharmacies from accepting discount prescription cards, causing patients to pay full price for medications.\n\nThe attack was ultimately linked to the BlackCat ransomware gang, aka ALPHV, who used stolen credentials to breach the company's Citrix remote access service, which did not have multi-factor authentication enabled\n\nDuring the attack, the threat actors stole 6 TB of data and ultimately encrypted computers on the network, causing the company to shut down IT systems to prevent the spread of the attack.\n\nThe UnitedHealth Group admitted to paying a ransom demand to receive a decryptor and for the threat actors to delete the stolen data. The ransom payment was allegedly $22 million, according to the BlackCat ransomware affiliate who conducted the attack.\n\nThe BlackCat ransomware operation was under immense pressure from law enforcement after the Change Healthcare attacks, causing them to shut down.\n\nAfter UnitedHealth paid an alleged $20 million ransom, the ransomware operation performed an exit scam, stealing all of the money and not sharing any with the affiliate who conducted the attack.\n\nUnfortunately, the affiliate claimed to still have Change Healthcare's data, which they used to extort the healthcare company again, this time using RansomHub's extortion site.\n\nUltimately, the data disappeared from the extortion, likely indicating that another ransom was paid.\n\nIn October, UnitedHealth confirmed that over 100 million people had their personal and healthcare data stolen, marking this as the largest healthcare data breach in recent years.\n\n4. LockBit disrupted\n\nOn February 19, authorities took down LockBit's infrastructure, which included 34 servers hosting the data leak website and its mirrors, data stolen from the victims, cryptocurrency addresses, decryption keys, and the affiliate panel.\n\nThis disruption was part of an international law enforcement operation called Operation Cronos.\n\nLaw enforcement seizure message on LockBit's servers. Five days later, LockBit relaunched with new infrastructure and threatened to focus more of its attacks on the government sector.\n\nHowever, the ransomware gang was never able to return to its previous prominence, with its affiliates moving to other ransomware operations.\n\nOver the past year, law enforcement has continued to target LockBit, identifying and charging seven LockBit ransomware members.\n\nAmong those charged, is the primary operator of the ransomware operation, who the Department of Justice claims is a Russian national named Dmitry Yuryevich Khoroshev, aka 'LockBitSupp' and 'putinkrab'.\n\nLockBit recently began testing a new encryptor called LockBit 4, which does not appear to be much different than its previous version.\n\n3. Windows 11 Recall: A privacy nightmare?\n\nMicrosoft's new AI-powered Windows 11 Recall feature has sparked a lot of concern among the cybersecurity community, with many thinking that it is a massive privacy risk and a new attack vector that threat actors can exploit to steal data.\n\nAfter receiving tremendous backlash, Microsoft delayed the release of the software to increase its security by requiring users to opt-in to enable Recall on their computers and that they'll have to confirm they're in front of their PC via Windows Hello to be able to use it.\n\nMicrosoft continued to delay its release while adding additional features, such as automatically filtering sensitive content, allowing users to exclude specific apps, websites, or in-private browsing sessions, and it can be removed if needed.\n\nHowever, after releasing the software to Windows Insiders for testing, it was discovered that Windows 11 Recall did not properly filter sensitive information, like credit cards.\n\n#CyberBulletin 4",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US",
+                "BlackCat",
+                "Citrix",
+                "BlackCat",
+                "AI"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27027,
+            "discovered": "2025-01-03",
+            "post_title": "9. Attacks on edge networking devices run rampant\n\nWe continued to see attacks targeting edge networking devices from various manufacturers, including Fortinet, TP-Link, Ivanti, and Cisco. \n\nThese types of devices are valuable targets as they are meant to be exposed to the Internet, and once breached, allow threat actors to pivot into the internal network.\n\nChinese hackers breached 20,000 FortiGate systems worldwide\n\nCISA cautions against using hacked Ivanti VPN gateways even after factory resets\n\nThe Pacific Rim attacks: US sanctions Chinese firm for hacking firewalls in ransomware attacks\nChinese hackers use Quad7 botnet to steal credentials\n\nCisco warns of NX-OS zero-day exploitation to deploy custom malware. \n\nIt has gotten so bad that the US is considering banning China-made TP-Link routers over cybersecurity concerns.\n\n8. CDK Global ransomware attacks takes down the car dealership industry\n\nCar dealership software-as-a-service provider CDK Global suffered a Black Suit ransomware attack, causing the company to shut down its systems and leaving clients unable to operate their business normally.\n\nCDK Global provides clients in the auto industry with a SaaS platform that handles all aspects of a car dealership's operation, including CRM, financing, payroll, support and service, inventory, and back-office operations.\n\nAs many of the car dealerships in the US utilize the platform, the outage led to widespread disruption, preventing dealers from tracking and ordering car parts, conducting new sales, and offering financing.\n\n7. The SnowFlake data theft attacks\n\nIn May, threat actors began selling data that they claimed was stolen from customers of the Snowflake cloud data platform.\n\nAfter the attacks were investigated, it was determined that the threat actors didn't breach Snowflake but rather used compromised credentials to log in to customer's SnowFlake accounts.\n\nThese credentials are believed to have been stolen through information-stealing malware.\n\nOnce they logged into the account, they were able to export the databases and use them to extort companies into paying a ransom for the data not to be publicly released.\n\nAT&T disclosed in July that call logs of 109 million customers were exposed during the incident and that the data was accessed from an online database on the company's Snowflake account.\n\nTicketMaster was also impacted, with the threat actors claiming to steal the data of 560 million customers.\n\nData breaches linked to these attacks, which started in April 2024, have affected hundreds of millions of individuals using the services of AT&T, Ticketmaster, Santander, Pure Storage, Advance Auto Parts, Los Angeles Unified, QuoteWizard/LendingTree, and Neiman Marcus.\n\nIn November, the US Department of Justice unsealed an indictment against two people, Connor Riley Moucka and John Erin Binns, who are accused of being behind the attacks.\n\nThe threat actors allegedly extorted $2.5 million as part of these attacks, with Wired reporting that AT&T paid $370,000 for the hackers to delete stolen call records.\n\n6.  The North Korean IT Worker scheme\n\nNorth Korean IT workers trying to get jobs in the US and other countries to perform cyberespionage and generate revenue for their country's operations.\n\nIn May, the Department of Justice charged five individuals, a US Citizen woman, a Ukrainian man, and three foreign nationals, for their involvement in helping North Korean IT works infiltrate US job markets to generate revenue for North Korea's nuclear weapons program.\n\nIn July, email security firm KnowBe4 mistakenly hired a North Korean hacker as their Principal Software Engineer, who attempted to install information-stealing malware on the network.\n\nIn August, the Justice Department arrested a Nashville man charged with helping North Korean IT workers obtain remote work at companies across the United States and operating a laptop farm they used to pose as U.S.-based individuals.\n\n#CyberBulletin 3",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Cisco",
+                "US",
+                "Cisco",
+                "NX",
+                "US",
+                "China",
+                "US",
+                "Los Angeles Unified",
+                "US",
+                "US",
+                "US",
+                "North Korea's",
+                "Nashville",
+                "the United States"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27026,
+            "discovered": "2025-01-03",
+            "post_title": "12. Kaspersky banned in the US—software automatically replaced with UltraAV\n\nIn June, the Biden administration announced an upcoming ban of Kaspersky antivirus software, giving customers until September 29, 2024, to find alternative security software.\n\nThe ban not only involved the sale of Kaspersky software in the US, but also prevented the company from delivering antivirus and security updates to customers.\n\nA month later, Kaspersky began shutting down its operations in the US, telling BleepingComputer that the Biden administration's decisions have made operations \"no longer viable.\"\n\nKaspersky decided to sell its US customer base to Pango and emailed customers in early September that they would receive a free upgrade to the UltraAV software.\n\nHowever, the company didn't make it clear to customers that it would uninstall its software, and on September 19, Kaspersky users suddenly found their Kaspersky products removed and UltraAV force-installed on their computersù whether they wanted it or not.\n\nThis made many Kaspersky customers furious that software was installed on their devices without permission or clear notification that it would happen.\n\n11. Russian state-sponsored hackers breached Microsoft's corporate email\n\nIn January, Microsoft disclosed that Russian state-sponsored threat actors breached their corporate email servers in November 2023 to steal email from their leadership, cybersecurity, and legal teams.\n\nSome of these emails contained information about the hacking group itself, allowing the threat actors to learn what Microsoft knew about them.\n\nThe hacking group, known as Midnight Blizzard (aka Nobelium, or APT29) is believed to be a state-backed cyberespionage group tied to the Russian Foreign Intelligence Service (SVR).\n\nMicrosoft later disclosed that the threat actors conducted a password-spray attack that allowed access to a legacy non-production test tenant account.\n\nThis test tenant account also had access to an OAuth application with elevated privileges in Microsoft's corporate environment, allowing the hackers to steal data from corporate mailboxes.\n\nThe hackers breached Microsoft again in March 2024 using information found in the stolen emails, allowing them to steal source code repositories.\n\nIt kept getting worse, with CISA confirming in April that emails between US federal agencies and Microsoft were also stolen in the attack. These emails contained information that let the hackers gain access to some customer's systems.\n\n10.  National Public data breach exposed your Social Security Number\n\nIn August, almost 2.7 billion records of personal information for people in the United States were leaked on a hacking forum, exposing names, social security numbers, all known physical addresses, and possible aliases.\n\nThe data was stolen from National Public Data, a company that collects and sells access to personal data for use in background checks, to obtain criminal records, and for private investigators.\n\nHave I Been Pwned's Troy Hunt analyzed the breach and determined it contained 134 million unique email addresses, making this a monstrous data breach.\n\nThe threat actors behind the breach attempted to sell it for $3.5 million, but it was eventually leaked for free on a hacking forum.\n\n#CyberBulletin 2",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US",
+                "US",
+                "US",
+                "US",
+                "Pango",
+                "US",
+                "the United States"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27025,
+            "discovered": "2025-01-03",
+            "post_title": "The biggest cybersecurity and cyberattack stories of 2024 By Cyber Bulletin January 3, 2025 \n\n2024 was a big year for cybersecurity, with significant cyberattacks, data breaches, new threat groups emerging, and, of course, zero-day vulnerabilities.\n\nThe continuation of violence in Israel has become a target for hackers across the globe, as many view it as a violation of UN international humanitarian laws and international law regarding warfare. The conflict has resulted in the deaths of children, women, and the elderly, as well as bombings of hospitals, schools, universities, and journalists. Despite efforts to secure Israeli infrastructure with the help of its allies, cybersecurity measures may prove insufficient. Israeli infrastructure is likely to remain vulnerable for many years. Critics label Israel a rogue or terrorist state, and it has experienced the highest number of cyberattacks in 2024.\n\nBelow are fourteen of what  believes are the some impactful cybersecurity stories of 2024, with a summary of each. These stories are in no particular order.\n\n14. Internet Archive hacked\n\nOn October 9, the Internet Archive was hit by two different attacks at once—a data breach where the site's user data for 33 million users was stolen and a DDoS attack by an alleged pro-Palestinian group named SN_BlackMeta.\n\nWhile both attacks occurred over the same period, they were conducted by different hackers.\n\nThis source code contained additional credentials and authentication tokens, including the credentials to Internet Archive's database management system. This allowed the hacker to download the organization's user database, further source code, and modify the site.\n\nCyberattacks against Israel in 2024 will be published in the next article by Cyber Bulletin.\n\n13. Bad CrowdStrike updates crashed 8.5 million Wndows devices On July 19th, 2024, a faulty CrowdStrike Falcon update was pushed out to Windows PCs in the early morning, causing the cybersecurity software's kernel driver to crash the operating system. \n\nThis bug caused significant global disruptions, impacting approximately 8.5 million Windows systems, who now found that their devices had crashed with no easy way back into the operating system to remove the faulty update other than booting into safe mode.\n\nThe bug stemmed from a flaw in CrowdStrike's content validation process, which failed to detect a defective update. This faulty update triggered a series of system crashes, including endless reboot loops that affected both Windows devices and Windows 365 Cloud PCs.\n\nAs CrowdStrike is used by many organizations, it quickly caused widespread disruption, impacting financial firms, airlines, and hospitals worldwide, who suddenly found their Windows devices and applications unavailable.\n\nMicrosoft released a Windows repair tool to help remove the problematic CrowdStrike driver and restore affected systems. Despite this tool, many organizations faced a lengthy recovery process as each device would need to be manually fixed.\n\nCybercriminals distributed fake CrowdStrike repair tools and manuals that pushed malware, including the new Daolpu infostealer. These phishing campaigns targeted orgs attempting to recover from the outage, further delaying outages.\n\nInvestors soon filed a lawsuit against CrowdStrike, accusing it of negligence in its quality assurance processes and failing to prevent the release of the defective update.\n\nMicrosoft also announced that they would be looking into changing their kernel driver handling policies in response to the incident and encouraged antivirus vendors to limit their use of Kernel drivers to prevent these types of crashes.\n\n#CyberBulletin 1",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Israel",
+                "Israel",
+                "Cyberattacks",
+                "Israel"
             ],
             "URLs": [],
             "Matched Keywords": [
@@ -74910,6 +75064,96 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-03-01-2025-2/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80706,
+            "discovered": "2025-01-03",
+            "post_title": "China-Backed Hackers Breach US Treasury Computers in Supply Chain Attack - https://www.redpacketsecurity.com/us-treasury-computers-accessed-by-china-in-supply-chain-attack/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/us-treasury-computers-accessed-by-china-in-supply-chain-attack/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80705,
+            "discovered": "2025-01-03",
+            "post_title": "Chrome Extensions at Risk: Data Theft Campaign Exposes Millions of Users - https://www.redpacketsecurity.com/dozens-of-chrome-browser-extensions-hijacked-by-data-thieves/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/dozens-of-chrome-browser-extensions-hijacked-by-data-thieves/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80704,
+            "discovered": "2025-01-03",
+            "post_title": "Dark Web Breach: Rhode Island Citizens' Data Leaked by Hackers - https://www.redpacketsecurity.com/hackers-leak-rhode-island-citizens-data-on-dark-web/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/hackers-leak-rhode-island-citizens-data-on-dark-web/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80703,
+            "discovered": "2025-01-03",
+            "post_title": "DoubleClickjacking Vulnerability: A New Threat to Online Security - https://www.redpacketsecurity.com/new-doubleclickjacking-attack-bypasses-protections/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/new-doubleclickjacking-attack-bypasses-protections/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80702,
+            "discovered": "2025-01-03",
+            "post_title": "HIPAA Rules Update: Strengthening Security to Address Healthcare Data Breaches - https://www.redpacketsecurity.com/hipaa-rules-update-proposed-to-combat-healthcare-data-breaches/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/hipaa-rules-update-proposed-to-combat-healthcare-data-breaches/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80701,
+            "discovered": "2025-01-03",
+            "post_title": "Innovative Portal Launches Global Campaign Against PlugX Malware - https://www.redpacketsecurity.com/global-campaign-targets-plugx-malware-with-innovative-portal/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/global-campaign-targets-plugx-malware-with-innovative-portal/"
             ],
             "Matched Keywords": [
                 "Other"
