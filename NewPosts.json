@@ -53382,6 +53382,34 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100652,
+            "discovered": "2025-01-03",
+            "post_title": "Victim: Lyons Specialty Co.\n\nDetection Date: Fri Jan 03 11:51:53 2025\n\nThreat Actor: 8base\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100651,
+            "discovered": "2025-01-03",
+            "post_title": "Title: LDAPNightmare PoC Exploit Crashes LSASS and Reboots Windows Domain Controllers\n\nDate: Jan 03, 2025\n\nSource: https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
