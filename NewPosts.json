@@ -52905,6 +52905,186 @@
             "Matched Keywords": [
                 "SAP"
             ]
+        },
+        {
+            "Message ID": 100641,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-11624\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-11624\n\nDescription: there is a possible to add apps to bypass VPN due to Undeclared Permission . This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 07:12:42 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-11624"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100640,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-47032\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-47032\n\nDescription: In construct_transaction_from_cmd of lwis_ioctl.c, there is a possible out of bounds write due to a heap buffer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 07:12:32 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47032"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100639,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-53833\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53833\n\nDescription: In prepare_response_locked of  lwis_transaction.c, there is a possible out of bounds write due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 07:12:21 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53833"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100638,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-53834\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53834\n\nDescription: In sms_DisplayHexDumpOfPrivacyBuffer of sms_Utilities.c, there is a possible out of bounds read due to an incorrect bounds check. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 07:12:10 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53834"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100637,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-53835\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53835\n\nDescription: there is a possible biometric bypass due to an unusual root cause. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 07:11:59 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53835"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100636,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-53836\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53836\n\nDescription: In wbrc_bt_dev_write of wb_regon_coordinator.c, there is a possible out of bounds write due to a buffer overflow. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 07:11:48 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53836"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100635,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-53837\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53837\n\nDescription: In prepare_response of lwis_periodic_io.c, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 07:11:38 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53837"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100634,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-53838\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53838\n\nDescription: In Exynos_parsing_user_data_registered_itu_t_t35 of VendorVideoAPI.cpp, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 07:11:27 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53838"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100633,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-53839\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53839\n\nDescription: In GetCellInfoList() of protocolnetadapter.cpp, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with baseband firmware compromise required. User Interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 07:11:16 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53839"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100632,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-53840\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53840\n\nDescription: there is a possible biometric bypass due to an unusual root cause. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 07:11:05 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53840"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100631,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-53841\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53841\n\nDescription: In startListeningForDeviceStateChanges, there is a possible Permission Bypass due to a confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 07:10:54 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53841"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100630,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-53842\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53842\n\nDescription: In cc_SendCcImsInfoIndMsg of cc_MmConManagement.c, there is a possible out of bounds write due to a missing bounds check. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.\n\nPublication Date: Fri Jan 03 07:10:44 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53842"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -75154,6 +75334,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/global-campaign-targets-plugx-malware-with-innovative-portal/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80707,
+            "discovered": "2025-01-03",
+            "post_title": "Navigating Cybersecurity Compliance and Regulations - https://www.redpacketsecurity.com/navigating-cybersecurity-compliance-and-regulations/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/navigating-cybersecurity-compliance-and-regulations/"
             ],
             "Matched Keywords": [
                 "Other"
