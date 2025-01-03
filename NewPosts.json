@@ -10052,6 +10052,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 822,
+            "discovered": "2025-01-03",
+            "post_title": "http://yes-news.com/yespick/1895164/昨三波攻擊-證交所主計總處入列-世芯大眾電腦受害",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://yes-news.com/yespick/1895164/昨三波攻擊-證交所主計總處入列-世芯大眾電腦受害"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 821,
+            "discovered": "2025-01-03",
+            "post_title": "https://money.udn.com/money/story/5613/8466370",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://money.udn.com/money/story/5613/8466370"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -15786,6 +15816,19 @@
             "Message ID": 1615,
             "discovered": "2025-01-02",
             "post_title": "🚨Cyberattack Alert‼️\n\n🇸🇳Senegal - Banque de l'Habitat du Sénégal (BHS) has been facing a significant cyberattack since December 24, 2024, which has paralyzed its information system and made several services unavailable.\nhttps://senego.com/banque-de-lhabitat-du-senegal-une-attaque-informatique-paralyse-ses-services_1787744.html\n\nThese disruptions include email services, the Bank to Wallet option, and ATM networks. Customers have been unable to access their accounts or withdraw funds, forcing some to visit branches for basic transactions. Although the bank has not made an official statement yet, internal sources have confirmed the ongoing issues.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1616,
+            "discovered": "2025-01-03",
+            "post_title": "🚨Cyberattacks Alert ‼️\n\n8Base ransomware group claims to have breached 6 new companies:\n\n🇫🇷 Voltaire Avocats\n🇫🇷 Tarnaise des Panneaux\n🇨🇭 SolGeo AG\n🇧🇷 Grupo Buddemeyer\n🇺🇸 Jay Enn Corporation\n🇺🇸 Carrollton Orthopaedic Clinic\n\nAll ransom deadlines for the mentioned victims are set for 13th January 2025.",
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
@@ -53109,6 +53152,81 @@
             ],
             "URLs": [
                 "https://www.youtube.com/watch?v=4DolQTKGT9U"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100647,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-27076\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-27076\n\nDescription: Command injection vulnerability found in Tenda G103 v.1.0.0.5 allows attacker to execute arbitrary code via a the language parameter.\n\nPublication Date: Fri Jan 03 09:07:39 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Tenda"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-27076"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100646,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-26802\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-26802\n\nDescription: An issue in the component /network_config/nsg_masq.cgi of DCN (Digital China Networks) DCBI-Netlog-LAB v1.0 allows attackers to bypass authentication and execute arbitrary commands via a crafted request.\n\nPublication Date: Fri Jan 03 09:07:29 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-26802"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100645,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-26801\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-26801\n\nDescription: LB-LINK BL-AC1900_2.0 v1.0.1, LB-LINK BL-WR9000 v2.4.9, LB-LINK BL-X26 v1.2.5, and LB-LINK BL-LTE300 v1.0.8 were discovered to contain a command injection vulnerability via the mac, time1, and time2 parameters at /goform/set_LimitClient_cfg.\n\nPublication Date: Fri Jan 03 09:07:18 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-26801"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100644,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2025-22275\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-22275\n\nDescription: iTerm2 3.5.6 through 3.5.10 before 3.5.11 sometimes allows remote attackers to obtain sensitive information from terminal commands by reading the /tmp/framer.txt file. This can occur for certain it2ssh and SSH Integration configurations, during remote logins to hosts that have a common Python installation.\n\nPublication Date: Fri Jan 03 09:07:07 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-22275"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100643,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Apple to Pay Siri Users $20 Per Device in Settlement Over Accidental Siri Privacy Violations\n\nDate: Jan 03, 2025\n\nSource: https://thehackernews.com/2025/01/apple-to-pay-siri-users-20-per-device.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2025/01/apple-to-pay-siri-users-20-per-device.html"
             ],
             "Matched Keywords": [
                 "Other"
