@@ -7575,6 +7575,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10001,
+            "discovered": "2025-01-03",
+            "post_title": "🚨Alleged Sale of 7zip Exploit CVE-2024-11477\n\nhttps://darkwebinformer.com/alleged-sale-of-7zip-exploit-cve-2024-11477/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/alleged-sale-of-7zip-exploit-cve-2024-11477/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -10235,6 +10250,21 @@
             ],
             "URLs": [
                 "https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx?NewsDate=20250103&CSeqNO=E8466370"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 834,
+            "discovered": "2025-01-03",
+            "post_title": "https://www.wellnewss.com/post/756151.html",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.wellnewss.com/post/756151.html"
             ],
             "Matched Keywords": [
                 "Other"
@@ -21664,6 +21694,20 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 517,
+            "discovered": "2025-01-03",
+            "post_title": "❗️Our travel to italy is not over yet. In less than an hour we blow to infrastructure of Italy hospitals.\n\n\n\n\n#ServerKillers",
+            "Attack Type": "Unknown",
+            "Location": [
+                "italy",
+                "Italy"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Alixsec ( English Version)": [
@@ -24732,6 +24776,19 @@
             "Message ID": 5654,
             "discovered": "2025-01-03",
             "post_title": "We've had a few people contact us with something along the lines of, \"CISA uses your website! They did a training course and the password to the malware was infected!\"\n\nWe did not set the standard of the 'infected' password. We made it more mainstream due to our follower base, but we didn't set that standard or have anything to do with it's creation.\n\nIt's been the standard for malware related stuff for over 100 years (made up number, no idea). We don't even remember how we learned the password. It's just been like that for as long as we remember.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5656,
+            "discovered": "2025-01-03",
+            "post_title": "New papers added:\n\n- 2024-11-21 - New AMSI Bypss Technique Modifying CLRDLL in Memory\n- 2024-11-22 - How To Use MSSQL CLR Assembly To Bypass EDR\n- 2008-08-06 - Branchless Equivalents of Simple Functions\n- 2024-06-28 - An unexpected journey into Microsoft Defender's signature world\n- 2024-11-14 - ETW Forensics - Why use Event Tracing for Windows over EventLog\n- 2024-12-19 - The Windows Registry Adventure 5 - The regf file format\n- 2024-12-24 - Constructing a Win32 Control Handler in MASM\n- 2024-12-19 - Process Injection Mapped Sections\n- 2024-12-13 - Disabling EDRs by File Rename Junctions\n- 2024-12-20 - Weaponizing WDAC Killing the Dreams of EDR",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -38187,6 +38244,36 @@
             "URLs": [
                 "w.geedingconstruction.com, ",
                 "p://www.ransomfeed.it/index.php?page=post_details&id_post=19890"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5236,
+            "discovered": "2025-01-03",
+            "post_title": "ID: 19891\n⚠ 2025-01-03 13:39:04\n🥷 lynx\n🎯 Amourgis  AND  Associates, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19891",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19891"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5235,
+            "discovered": "2025-01-03",
+            "post_title": "ID: 19892\n⚠ 2025-01-03 13:03:35\n🥷 hunters\n🎯 Nikki-Universal Co Ltd, Japan\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19892",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Japan"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19892"
             ],
             "Matched Keywords": [
                 "Other"
@@ -54146,6 +54233,129 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-12798",
                 "QOS.CH"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100689,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Suspected Russian spies indicted by Germany\n\nDate: January 3, 2025\n\nSource: https://www.scworld.com/brief/suspected-russian-spies-indicted-by-germany\n\n#News #Russia #Germany",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Germany",
+                "Russia",
+                "Germany"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/suspected-russian-spies-indicted-by-germany"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100688,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Sintesi riepilogativa delle campagne malevole nella settimana del 28 dicembre – 3 gennaio\n\nDate: January 3, 2025\n\nSource: https://cert-agid.gov.it/news/sintesi-riepilogativa-delle-campagne-malevole-nella-settimana-del-28-dicembre-3-gennaio/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cert-agid.gov.it/news/sintesi-riepilogativa-delle-campagne-malevole-nella-settimana-del-28-dicembre-3-gennaio/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100687,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-12694\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12694\n\nDescription: Use after free in Compositing in Google Chrome prior to 131.0.6778.204 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)\n\nPublication Date: Fri Jan 03 18:03:16 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Compositing"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12694"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100686,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-12801\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12801\n\nDescription: Server-Side Request Forgery (SSRF) in SaxEventRecorder by QOS.CH logback version 0.1 to 1.3.14 and 1.4.0 to 1.5.12  on the Java platform, allows an attacker to \nforge requests by compromising logback configuration files in XML.\n\n\n\nThe attacks involves the modification of DOCTYPE declaration in  XML configuration files.\n\nPublication Date: Fri Jan 03 18:03:05 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12801",
+                "QOS.CH"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100685,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-5591\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-5591\n\nDescription: IBM Jazz Foundation 7.0.2, 7.0.3, and 7.1.0 could allow a remote attacker to obtain sensitive information when a detailed technical error message is returned in the browser. This information could be used in further attacks against the system.\n\nPublication Date: Fri Jan 03 18:02:54 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-5591"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100684,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-55078\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-55078\n\nDescription: An arbitrary file upload vulnerability in the component /adminUser/updateImg of WukongCRM-11.0-JAVA v11.3.3 allows attackers to execute arbitrary code via uploading a crafted file.\n\nPublication Date: Fri Jan 03 18:02:43 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-55078"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100683,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2022-31636\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-31636\n\nDescription: Potential time-of-check to time-of-use (TOCTOU) vulnerabilities have been identified in the BIOS for certain HP PC products, which might allow arbitrary code execution, escalation of privilege, denial of service, and information disclosure.\n\nPublication Date: Fri Jan 03 18:02:32 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-31636"
+            ],
+            "Matched Keywords": [
+                "HP"
+            ]
+        },
+        {
+            "Message ID": 100682,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-41780\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-41780\n\nDescription: IBM Jazz Foundation 7.0.2, 7.0.3, and 7.1.0 could \n\ncould allow a physical user to obtain sensitive information due to not masking passwords during entry.\n\nPublication Date: Fri Jan 03 18:02:21 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-41780"
             ],
             "Matched Keywords": [
                 "Other"
@@ -77019,6 +77229,156 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/tryhackme-walkthrough-dodge/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80752,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2022-41995 - https://www.redpacketsecurity.com/cve_alert_cve-2022-41995/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2022-41995/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80751,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2022-45830 - https://www.redpacketsecurity.com/cve_alert_cve-2022-45830/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2022-45830/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80750,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2023-45633 - https://www.redpacketsecurity.com/cve_alert_cve-2023-45633/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2023-45633/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80749,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2022-43476 - https://www.redpacketsecurity.com/cve_alert_cve-2022-43476/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2022-43476/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80748,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2023-32240 - https://www.redpacketsecurity.com/cve_alert_cve-2023-32240/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2023-32240/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80747,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2023-48739 - https://www.redpacketsecurity.com/cve_alert_cve-2023-48739/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2023-48739/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80746,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2023-39994 - https://www.redpacketsecurity.com/cve_alert_cve-2023-39994/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2023-39994/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80745,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2023-45272 - https://www.redpacketsecurity.com/cve_alert_cve-2023-45272/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2023-45272/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80744,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2023-40327 - https://www.redpacketsecurity.com/cve_alert_cve-2023-40327/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2023-40327/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80743,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2023-48758 - https://www.redpacketsecurity.com/cve_alert_cve-2023-48758/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2023-48758/"
             ],
             "Matched Keywords": [
                 "Other"
