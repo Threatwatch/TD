@@ -24433,6 +24433,22 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5652,
+            "discovered": "2025-01-03",
+            "post_title": "per 404media — most of the southern part of the United States has been banned by PornHub (and associated companies e.g. Brazzers, RedTube, YouPorn, Reality Kings, etc) due to new legislation which requires age verification.\n\nPornHub and associates assert it will be difficult to comply with new legislation and, to avoid legal liability, have opted to simply ban and/or block some portions of the United States from their websites.\n\nAs a result of these new age verification laws, what will happen?\n\nA. People say, \"wow, pornography is not cool anyway\" and stop watching pornography\n\nB. People begin purchasing VPNs (if they can afford it) to bypass geographical bans OR if unable to afford a VPN, people begin going to more shady and less-safe websites to watch pornography\n\nC. Law makers in the southern part of the United States have a sudden change of heart and reverse recent legislation\n\nD. Pornography vendors have a change of heart and decide to review thousands, possibly hundreds of thousands, of United States citizens PII (and pinky promise to not sell it), and put a target on their back from Threat Actors",
+            "Attack Type": "Unknown",
+            "Location": [
+                "the United States",
+                "the United States",
+                "the United States",
+                "United States"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "DARKFEED": [
@@ -52574,6 +52590,263 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100626,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-33984\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33984\n\nDescription: SAP NetWeaver (Design Time Repository) - version 7.50, returns an unfavorable content type for some versioned files, which could allow an authorized attacker to create a file with a malicious content and send a link to a victim in an email or instant message. Under certain circumstances, this could lead to Cross-Site Scripting vulnerability.\n\nPublication Date: Fri Jan 03 06:04:25 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33984"
+            ],
+            "Matched Keywords": [
+                "SAP"
+            ]
+        },
+        {
+            "Message ID": 100625,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-32115\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-32115\n\nDescription: An attacker can exploit MDS COMPARE TOOL and use specially crafted inputs to read and modify database commands, resulting in the retrieval of additional information persisted by the system.\n\nPublication Date: Fri Jan 03 06:04:14 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-32115"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100624,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-32114\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-32114\n\nDescription: SAP NetWeaver (Change and Transport System) - versions 702, 731, 740, 750, 751, 752, 753, 754, 755, 756, 757, allows an authenticated user with admin privileges to maliciously run a benchmark program repeatedly in intent to slowdown or make the server unavailable which may lead to a limited impact on Availability with No impact on Confidentiality and Integrity of the application.\n\nPublication Date: Fri Jan 03 06:04:03 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-32114"
+            ],
+            "Matched Keywords": [
+                "SAP"
+            ]
+        },
+        {
+            "Message ID": 100623,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-2827\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-2827\n\nDescription: SAP Plant Connectivity - version 15.5 (PCo) or the Production Connector for SAP Digital Manufacturing - version 1.0, do not validate the signature of the JSON Web Token (JWT) in the HTTP request sent from SAP Digital Manufacturing. Therefore, unauthorized callers from the internal network could send service requests to PCo or the Production Connector, which could have an impact on the integrity of the integration with SAP Digital Manufacturing.\n\nPublication Date: Fri Jan 03 06:03:52 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-2827"
+            ],
+            "Matched Keywords": [
+                "SAP",
+                "manufacturing"
+            ]
+        },
+        {
+            "Message ID": 100622,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-3218\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-3218\n\nDescription: Race Condition within a Thread in GitHub repository it-novum/openitcockpit prior to 4.6.5.\n\nPublication Date: Fri Jan 03 06:03:42 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-3218"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100621,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-34965\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34965\n\nDescription: SSPanel-Uim 2023.3 does not restrict access to the /link/ interface which can lead to a leak of user information.\n\nPublication Date: Fri Jan 03 06:03:31 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34965"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100620,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2025-0176\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0176\n\nDescription: A vulnerability was found in code-projects Point of Sales and Inventory Management System 1.0. It has been rated as critical. This issue affects some unknown processing of the file /user/add_cart.php. The manipulation of the argument id/qty leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Jan 03 06:03:20 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0176"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100619,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-34944\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34944\n\nDescription: An arbitrary file upload vulnerability in the /fileUpload.lib.php component of Chamilo 1.11.* up to v1.11.18 allows attackers to execute arbitrary code via uploading a crafted SVG file.\n\nPublication Date: Fri Jan 03 06:03:09 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34944"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100618,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-34537\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34537\n\nDescription: A Reflected XSS was discovered in HotelDruid version 3.0.5, an attacker can issue malicious code/command on affected webpage's parameter to trick user on browser and/or exfiltrate data.\n\nPublication Date: Fri Jan 03 06:02:59 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34537"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100617,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-33817\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33817\n\nDescription: hoteldruid v3.0.5 was discovered to contain a SQL injection vulnerability.\n\nPublication Date: Fri Jan 03 06:02:48 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33817"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100616,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-33695\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33695\n\nDescription: Hutool v5.8.17 and below was discovered to contain an information disclosure vulnerability via the File.createTempFile() function at /core/io/FileUtil.java.\n\nPublication Date: Fri Jan 03 06:02:37 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33695",
+                "FileUtil.java"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100615,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-33621\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33621\n\nDescription: GL.iNET GL-AR750S-Ext firmware v3.215 inserts the admin authentication token into a GET request when the OpenVPN Server config file is downloaded. The token is then left in the browser history or access logs, potentially allowing attackers to bypass authentication via session replay.\n\nPublication Date: Fri Jan 03 06:02:26 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33621"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100614,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-33620\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33620\n\nDescription: GL.iNET GL-AR750S-Ext firmware v3.215 uses an insecure protocol in its communications which allows attackers to eavesdrop via a man-in-the-middle attack.\n\nPublication Date: Fri Jan 03 06:02:15 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33620"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100613,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-33568\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33568\n\nDescription: An issue in Dolibarr 16 before 16.0.5 allows unauthenticated attackers to perform a database dump and access a company's entire customer file, prospects, suppliers, and employee information if a contact file exists.\n\nPublication Date: Fri Jan 03 06:02:05 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33568"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100612,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Sinisterly - Sell Telegram Aged Groups\n\nDetection Date: Fri Jan 03 05:39:40 2025\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-Leak-Sell-Telegram-Aged-Groups\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-Leak-Sell-Telegram-Aged-Groups"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100611,
+            "discovered": "2025-01-03",
+            "post_title": "Title: DemonForums - good smtp\n\nDetection Date: Fri Jan 03 05:39:29 2025\n\nSource: demonforums\n\nURL: https://demonforums.net/Thread-good-smtp\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://demonforums.net/Thread-good-smtp"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100610,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2025-0175\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0175\n\nDescription: A vulnerability was found in code-projects Online Shop 1.0. It has been declared as problematic. This vulnerability affects unknown code of the file /view.php. The manipulation of the argument name/details leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Jan 03 05:17:48 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0175"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -56581,6 +56854,60 @@
             "Location": [
                 "Israel",
                 "Gaza"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27024,
+            "discovered": "2025-01-03",
+            "post_title": "⚡️Ford confirms X account hack.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27023,
+            "discovered": "2025-01-03",
+            "post_title": "⚡️Ford Motor Company has disclosed having its account on X, formerly Twitter, breached following posts expressing pro-Palestine and anti-Israel sentiment on Monday.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27022,
+            "discovered": "2025-01-03",
+            "post_title": "⚡️MetLife purportedly breached by RansomHub.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27021,
+            "discovered": "2025-01-03",
+            "post_title": "⚡️Telegram restricted access to Russian state-owned news channels in several European countries, including Poland, France, and Italy.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Poland",
+                "France",
+                "Italy"
             ],
             "URLs": [],
             "Matched Keywords": [
