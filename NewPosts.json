@@ -7702,6 +7702,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10011,
+            "discovered": "2025-01-03",
+            "post_title": "https://x.com/DarkWebInformer/status/1875260847578345877",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1875260847578345877"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10010,
+            "discovered": "2025-01-03",
+            "post_title": "🚨🇺🇸Alleged Data Leak of Port of Seattle\n\nhttps://darkwebinformer.com/alleged-data-leak-of-port-of-seattle/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Seattle"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/alleged-data-leak-of-port-of-seattle/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -55481,6 +55511,187 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-56411"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100760,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Identity-security predictions for 2025\n\nDate: January 3, 2025\n\nSource: https://www.scworld.com/resource/identity-security-predictions-for-2025\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/resource/identity-security-predictions-for-2025"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100759,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Stacked Defense from the Hardware Up\n\nDate: January 3, 2025\n\nSource: https://medium.com/mitre-engenuity/stacked-defense-from-the-hardware-up-cfc83038552a?source=rss----788dfb314899---4\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://medium.com/mitre-engenuity/stacked-defense-from-the-hardware-up-cfc83038552a?source=rss----788dfb314899---4"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100758,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2022-47376\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-47376\n\nDescription: The Alaris Infusion Central software, versions 1.1 to 1.3.2, may contain a recoverable password after the installation. No patient health data is stored in the database, although some site installations may choose to store personal data.\n\nPublication Date: Fri Jan 03 22:03:24 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-47376"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100757,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-1707\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-1707\n\nDescription: Certain HP Enterprise LaserJet and HP LaserJet Managed Printers are potentially vulnerable to information disclosure when IPsec is enabled with FutureSmart version 5.6.\n\nPublication Date: Fri Jan 03 22:03:13 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-1707"
+            ],
+            "Matched Keywords": [
+                "HP"
+            ]
+        },
+        {
+            "Message ID": 100756,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-30762\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-30762\n\nDescription: Improper authentication vulnerability exists in KB-AHR series and KB-IRIP series. If this vulnerability is exploited, an arbitrary OS command may be executed on the product or the device settings may be altered. Affected products and versions are as follows: KB-AHR04D versions prior to 91110.1.101106.78, KB-AHR08D versions prior to 91210.1.101106.78, KB-AHR16D versions prior to 91310.1.101106.78, KB-IRIP04A versions prior to 95110.1.100290.78A, KB-IRIP08A versions prior to 95210.1.100290.78A, and KB-IRIP16A versions prior to 95310.1.100290.78A.\n\nPublication Date: Fri Jan 03 22:03:02 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-30762"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100755,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-30764\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-30764\n\nDescription: OS command injection vulnerability exists in KB-AHR series and KB-IRIP series. If this vulnerability is exploited, an arbitrary OS command may be executed on the product or the device settings may be altered. Affected products and versions are as follows: KB-AHR04D versions prior to 91110.1.101106.78, KB-AHR08D versions prior to 91210.1.101106.78, KB-AHR16D versions prior to 91310.1.101106.78, KB-IRIP04A versions prior to 95110.1.100290.78A, KB-IRIP08A versions prior to 95210.1.100290.78A, and KB-IRIP16A versions prior to 95310.1.100290.78A.\n\nPublication Date: Fri Jan 03 22:02:51 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-30764"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100754,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-35365\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-35365\n\nDescription: FFmpeg version n6.1.1 has a double-free vulnerability in the fftools/ffmpeg_mux_init.c component of FFmpeg, specifically within the new_stream_audio function.\n\nPublication Date: Fri Jan 03 22:02:40 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-35365"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100753,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-36613\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-36613\n\nDescription: FFmpeg n6.1.1 has a vulnerability in the DXA demuxer of the libavformat library allowing for an integer overflow, potentially resulting in a denial-of-service (DoS) condition or other undefined behavior.\n\nPublication Date: Fri Jan 03 22:02:29 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-36613"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100752,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2021-38150\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-38150\n\nDescription: When an attacker manages to get access to the local memory, or the memory dump of a victim, for example by a social engineering attack, SAP Business Client versions - 7.0, 7.70, will allow him to read extremely sensitive data, such as credentials. This would allow the attacker to compromise the corresponding backend for which the credentials are valid.\n\nPublication Date: Fri Jan 03 22:02:18 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-38150"
+            ],
+            "Matched Keywords": [
+                "SAP",
+                "Valid"
+            ]
+        },
+        {
+            "Message ID": 100751,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2016-10062\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2016-10062\n\nDescription: The ReadGROUP4Image function in coders/tiff.c in ImageMagick does not check the return value of the fwrite function, which allows remote attackers to cause a denial of service (application crash) via a crafted file.\n\nPublication Date: Fri Jan 03 22:02:07 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2016-10062"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100750,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2006-1547\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2006-1547\n\nDescription: ActionForm in Apache Software Foundation (ASF) Struts before 1.2.9 with BeanUtils 1.7 allows remote attackers to cause a denial of service via a multipart/form-data encoded form with a parameter name that references the public getMultipartRequestHandler method, which provides further access to elements in the CommonsMultipartRequestHandler implementation and BeanUtils.\n\nPublication Date: Fri Jan 03 22:01:57 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2006-1547"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100749,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2025-0195\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0195\n\nDescription: A vulnerability was found in code-projects Point of Sales and Inventory Management System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file /user/del_product.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Fri Jan 03 22:01:46 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0195"
             ],
             "Matched Keywords": [
                 "Other"
