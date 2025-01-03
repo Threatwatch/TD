@@ -10439,6 +10439,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 836,
+            "discovered": "2025-01-03",
+            "post_title": "https://x.com/rst_cloud/status/1875141428352827509?t=sgKBtT8AG889bZBfCwfsKw&s=35",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/rst_cloud/status/1875141428352827509?t=sgKBtT8AG889bZBfCwfsKw&s=35"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -55982,6 +55997,202 @@
             ],
             "URLs": [
                 "https://sinister.ly/Thread-Xbox-Game-Pass-for-PC-Steam-Accounts-Epic-Games-Accounts-Steam-Keys-and-more"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100790,
+            "discovered": "2025-01-03",
+            "post_title": "Title: FireScam malware poses as Telegram app to steal sensitive Android data\n\nDate: January 3, 2025\n\nSource: https://www.scworld.com/news/firescam-android-malware-poses-as-telegram-app-to-steal-sensitive-data\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/firescam-android-malware-poses-as-telegram-app-to-steal-sensitive-data"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100789,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-29498\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-29498\n\nDescription: Improper restriction of XML external entity reference (XXE) vulnerability exists in FRENIC RHC Loader v1.1.0.3 and earlier. If a user opens a specially crafted project file, sensitive information on the system where the affected product is installed may be disclosed.\n\nPublication Date: Sat Jan 04 00:09:03 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-29498"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100788,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-51647\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-51647\n\nDescription: Allegra saveInlineEdit Directory Traversal Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Allegra. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed.\n\nThe specific flaw exists within the saveInlineEdit method. The issue results from the lack of proper validation of a user-supplied path prior to using it in file operations. An attacker can leverage this vulnerability to execute code in the context of LOCAL SERVICE. Was ZDI-CAN-22528.\n\nPublication Date: Sat Jan 04 00:08:52 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-51647"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100787,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-56332\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56332\n\nDescription: Next.js is a React framework for building full-stack web applications. Starting in version 13.0.0 and prior to versions 13.5.8, 14.2.21, and 15.1.2, Next.js is vulnerable to a Denial of Service (DoS) attack that allows attackers to construct requests that leaves requests to Server Actions hanging until the hosting provider cancels the function execution. This vulnerability can also be used as a Denial of Wallet (DoW) attack when deployed in providers billing by response times. (Note: Next.js server is idle during that time and only keeps the connection open. CPU and memory footprint are low during that time.). Deployments without any protection against long running Server Action invocations are especially vulnerable. Hosting providers like Vercel or Netlify set a default maximum duration on function execution to reduce the risk of excessive billing. This is the same issue as if the incoming HTTP request has an invalid `Content-Length` header or never closes. If the host has no other mitigations to those then this vulnerability is novel. This vulnerability affects only Next.js deployments using Server Actions. The issue was resolved in Next.js 13.5.8, 14.2.21, and 15.1.2. We recommend that users upgrade to a safe version. There are no official workarounds.\n\nPublication Date: Sat Jan 04 00:08:41 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "React",
+                "Next.js"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56332"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100786,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-51638\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-51638\n\nDescription: Allegra Hard-coded Credentials Authentication Bypass Vulnerability. This vulnerability allows remote attackers to bypass authentication on affected installations of Allegra. Authentication is not required to exploit this vulnerability. \n\nThe specific flaw exists within the configuration of a database. The issue results from the use of a hardcoded password. An attacker can leverage this vulnerability to bypass authentication on the system. Was ZDI-CAN-22360.\n\nPublication Date: Sat Jan 04 00:08:30 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-51638"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100785,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-29167\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-29167\n\nDescription: Out-of-bound reads vulnerability exists in FRENIC RHC Loader v1.1.0.3. If a user opens a specially crafted FNE file, sensitive information on the system where the affected product is installed may be disclosed or arbitrary code may be executed.\n\nPublication Date: Sat Jan 04 00:08:19 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-29167"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100784,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-51639\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-51639\n\nDescription: Allegra downloadExportedChart Directory Traversal Authentication Bypass Vulnerability. This vulnerability allows remote attackers to bypass authentication on affected installations of Allegra. Authentication is not required to exploit this vulnerability. \n\nThe specific flaw exists within the downloadExportedChart action. The issue results from the lack of proper validation of a user-supplied path prior to using it in file operations. An attacker can leverage this vulnerability to bypass authentication on the system. Was ZDI-CAN-22361.\n\nPublication Date: Sat Jan 04 00:08:08 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-51639"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100783,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-51640\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-51640\n\nDescription: Allegra extarctZippedFile Directory Traversal Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Allegra. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed.\n\nThe specific flaw exists within the extarctZippedFile [sic] method. The issue results from the lack of proper validation of a user-supplied path prior to using it in file operations. An attacker can leverage this vulnerability to execute code in the context of LOCAL SERVICE. Was ZDI-CAN-22504.\n\nPublication Date: Sat Jan 04 00:07:58 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-51640"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100782,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-51641\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-51641\n\nDescription: Allegra renderFieldMatch Deserialization of Unstrusted Data Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Allegra. Although authentication is required to exploit this vulnerability, product implements a registration mechanism that can be used to create a user with a sufficient privilege level.\n\nThe specific flaw exists within the renderFieldMatch method. The issue results from the lack of proper validation of user-supplied data, which can result in deserialization of untrusted data. An attacker can leverage this vulnerability to execute code in the context of LOCAL SERVICE. Was ZDI-CAN-22505.\n\nPublication Date: Sat Jan 04 00:07:46 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-51641"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100781,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-29160\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-29160\n\nDescription: Stack-based buffer overflow vulnerability exists in FRENIC RHC Loader v1.1.0.3. If a user opens a specially crafted FNE file, sensitive information on the system where the affected product is installed may be disclosed or arbitrary code may be executed.\n\nPublication Date: Sat Jan 04 00:07:35 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-29160"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100780,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-51642\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-51642\n\nDescription: Allegra loadFieldMatch Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Allegra. Although authentication is required to exploit this vulnerability, product implements a registration mechanism that can be used to create a user with a sufficient privilege level.\n\nThe specific flaw exists within the loadFieldMatch method. The issue results from the lack of proper validation of user-supplied data, which can result in deserialization of untrusted data. An attacker can leverage this vulnerability to execute code in the context of LOCAL SERVICE. Was ZDI-CAN-22506.\n\nPublication Date: Sat Jan 04 00:07:25 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-51642"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100779,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-27837\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-27837\n\nDescription: TP-Link TL-WPA8630P (US)_ V2_ Version 171011 was discovered to contain a command injection vulnerability via the key parameter in the function sub_ 40A774.\n\nPublication Date: Sat Jan 04 00:07:14 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-27837"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100778,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2025-0198\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0198\n\nDescription: A vulnerability, which was classified as critical, has been found in code-projects Point of Sales and Inventory Management System 1.0. This issue affects some unknown processing of the file /user/search_result.php. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sat Jan 04 00:07:03 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0198"
             ],
             "Matched Keywords": [
                 "Other"
