@@ -10224,6 +10224,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 833,
+            "discovered": "2025-01-03",
+            "post_title": "https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx?NewsDate=20250103&CSeqNO=E8466370",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx?NewsDate=20250103&CSeqNO=E8466370"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -15987,6 +16002,32 @@
             "Attack Type": "Hacking",
             "Location": [
                 "Japan"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1619,
+            "discovered": "2025-01-03",
+            "post_title": "🚨🚨A newly discovered cyberattack methodology, double clickjacking, poses a threat to users of virtually all web browsers, including Chrome, Edge, and Safari.\nhttps://www.forbes.com/sites/daveywinder/2025/01/03/dont-click-twice-new-chrome-edge-safari-hack-attack-warning/\n\nThe attack, revealed by application security researcher Paulos Yibelo, exploits user double-click timing to bypass traditional browser clickjacking protections. \n\nBy tricking users into double-clicking on a prompt, such as a CAPTCHA, hackers can rapidly switch the context to a different window, leading to unauthorized actions like account logins or credential theft.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1618,
+            "discovered": "2025-01-03",
+            "post_title": "🚨🚨🇮🇳India - Cyberattack on Multi Commodity Exchange Servers Disrupts Critical Trading Operations for Over 16 Brokerages\n\nOn December 9, a cyberattack targeted the servers of the Multi Commodity Exchange (MCX), disrupting critical trading operations for more than 16 brokerages.\n\nThe ransomware attackers reportedly demanded a ransom of ₹60 crore (approximately $7.2 million) via a note displayed on an infected terminal, which included a Telegram handle and email address for contact. \n\nWhile brokerages and exchange officials publicly denied the incidents, confidential sources confirmed the breaches.\n\nMore details:\nhttps://www.fortuneindia.com/investing/exclusive-indian-brokerages-hit-by-ransomware-amid-rising-cybersecurity-threats/119818",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
             ],
             "URLs": [],
             "Matched Keywords": [
@@ -53811,6 +53852,97 @@
             ],
             "URLs": [
                 "https://www.stratosphereips.org/blog/2025/1/3/new-slips-version-v115-is-here"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100670,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Which ports to monitor for ransomware attacks\n\nDate: January 3, 2025\n\nSource: https://www.threatdown.com/blog/which-ports-to-monitor-for-ransomware-attacks/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.threatdown.com/blog/which-ports-to-monitor-for-ransomware-attacks/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100669,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2016-10229\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2016-10229\n\nDescription: udp.c in the Linux kernel before 4.5 allows remote attackers to execute arbitrary code via UDP traffic that triggers an unsafe second checksum calculation during execution of a recv system call with the MSG_PEEK flag.\n\nPublication Date: Fri Jan 03 16:10:30 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2016-10229"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100668,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-38429\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-38429\n\nDescription: An issue was discovered in the Linux kernel before 6.3.4. fs/ksmbd/connection.c in ksmbd has an off-by-one error in memory allocation (because of ksmbd_smb2_check_message) that may lead to out-of-bounds access.\n\nPublication Date: Fri Jan 03 16:10:19 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-38429"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100667,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-43398\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43398\n\nDescription: REXML is an XML toolkit for Ruby. The REXML gem before 3.3.6 has a DoS vulnerability when it parses an XML that has many deep elements that have same local name attributes. If you need to parse untrusted XMLs with tree parser API like REXML::Document.new, you may be impacted to this vulnerability. If you use other parser APIs such as stream parser API and SAX2 parser API, this vulnerability is not affected. The REXML gem 3.3.6 or later include the patch to fix the vulnerability.\n\nPublication Date: Fri Jan 03 16:10:08 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43398",
+                "Document.new"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100666,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-50379\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-50379\n\nDescription: Time-of-check Time-of-use (TOCTOU) Race Condition vulnerability during JSP compilation in Apache Tomcat permits an RCE on case insensitive file systems when the default servlet is enabled for write (non-default configuration).\n\nThis issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.1, from 10.1.0-M1 through 10.1.33, from 9.0.0.M1 through 9.0.97.\n\nUsers are recommended to upgrade to version 11.0.2, 10.1.34 or 9.0.98, which fixes the issue.\n\nPublication Date: Fri Jan 03 16:09:58 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-50379"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100665,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-52046\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-52046\n\nDescription: The ObjectSerializationDecoder in Apache MINA uses Java’s native deserialization protocol to process\nincoming serialized data but lacks the necessary security checks and defenses. This vulnerability allows\nattackers to exploit the deserialization process by sending specially crafted malicious serialized data,\npotentially leading to remote code execution (RCE) attacks.\n\n\n\n     \n\n\n    \n\n\n   \n\n\n  \n\n\n \nThis issue affects MINA core versions 2.0.X, 2.1.X and 2.2.X, and will be fixed by the releases 2.0.27, 2.1.10 and 2.2.4.\n\n\n\n\n\nIt's also important to note that an application using MINA core library will only be affected if the IoBuffer#getObject() method is called, and this specific method is potentially called when adding a ProtocolCodecFilter instance using the ObjectSerializationCodecFactory class in the filter chain. If your application is specifically using those classes, you have to upgrade to the latest version of MINA core library.\n\n\n\n\nUpgrading will  not be enough: you also need to explicitly allow the classes the decoder will accept in the ObjectSerializationDecoder instance, using one of the three new methods:\n\n\n\n\n    /**\n\n     * Accept class names where the supplied ClassNameMatcher matches for\n\n     * deserialization, unless they are otherwise rejected.\n\n     *\n\n     * @param classNameMatcher the matcher to use\n\n     */\n\n    public void accept(ClassNameMatcher classNameMatcher)\n\n\n\n\n    /**\n\n     * Accept class names that match the supplied pattern for\n\n     * deserialization, unless they are otherwise rejected.\n\n     *\n\n     * @param pattern standard Java regexp\n\n     */\n\n    public void accept(Pattern pattern) \n\n\n\n\n\n    /**\n\n     * Accept the wildcard specified classes for deserialization,\n\n     * unless they are otherwise rejected.\n\n     *\n\n     * @param patterns Wildcard file name patterns as defined by\n\n     *                  {@link org.apache.commons.io.FilenameUtils#wildcardMatch(String, String) FilenameUtils.wildcardMatch}\n\n     */\n\n    public void accept(String... patterns)\n\n\n\n\n\n\n\nBy default, the decoder will reject *all* classes that will be present in the incoming data.\n\n\n\n\n\n\n\nNote: The FtpServer, SSHd and Vysper sub-project are not affected by this issue.\n\nPublication Date: Fri Jan 03 16:09:47 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-52046"
             ],
             "Matched Keywords": [
                 "Other"
