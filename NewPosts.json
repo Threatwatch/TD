@@ -7760,6 +7760,60 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10017,
+            "discovered": "2025-01-03",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10016,
+            "discovered": "2025-01-03",
+            "post_title": "Slight change, the stats are now collapsible for domains with a lot of leaks.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10015,
+            "discovered": "2025-01-03",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10014,
+            "discovered": "2025-01-03",
+            "post_title": "💡WhiteIntel.io leak data will be integrated back into the relevant blog posts on Monday for Plus and Pro subscribers. It will only focus on breaches, leaks, and ransomware posts that have a victim site on the post.\n\nCSS may change a little bit and same with the graph, but it's near final.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "💡WhiteIntel.io "
+            ],
+            "Matched Keywords": [
+                "Css"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -56193,6 +56247,284 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2025-0198"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100808,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Die Rolle des Pretexting bei Cyberangriffen\n\nDate: January 3, 2025\n\nSource: https://arcticwolf.com/resources/blog-de/die-rolle-des-pretexting-bei-cyberangriffen/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://arcticwolf.com/resources/blog-de/die-rolle-des-pretexting-bei-cyberangriffen/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100807,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Informationen zu Drive-by-Download-Angriffen\n\nDate: January 3, 2025\n\nSource: https://arcticwolf.com/resources/blog-de/informationen-zu-drive-by-download-angriffen/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://arcticwolf.com/resources/blog-de/informationen-zu-drive-by-download-angriffen/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100806,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Das anhaltende Risiko der Remote-Code-Ausführung\n\nDate: January 3, 2025\n\nSource: https://arcticwolf.com/resources/blog-de/das-anhaltende-risiko-der-remote-code-ausfuehrung/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://arcticwolf.com/resources/blog-de/das-anhaltende-risiko-der-remote-code-ausfuehrung/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100805,
+            "discovered": "2025-01-03",
+            "post_title": "Title: How to Use Managed Security Awareness On-demand Reporting\n\nDate: January 3, 2025\n\nSource: https://arcticwolf.com/resources/technical-videos/how-to-use-managed-security-awareness-on-demand-reporting/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://arcticwolf.com/resources/technical-videos/how-to-use-managed-security-awareness-on-demand-reporting/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100804,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-27932\n\nDescription: Deno is a JavaScript, TypeScript, and WebAssembly runtime. Starting in version 1.8.0 and prior to version 1.40.4, Deno improperly checks that an import specifier's hostname is equal to or a child of a token's hostname, which can cause tokens to be sent to servers they shouldn't be sent to. An auth token intended for `example[.]com` may be sent to `notexample[.]com`. Anyone who uses DENO_AUTH_TOKENS and imports potentially untrusted code is affected. Version 1.40.0 contains a patch for this issue\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-27932\n\nDate of Publishing: 2025/01/03\n\nLink to Exploit: https://github.com/denoland/deno/security/advisories/GHSA-5frw-4rwq-xhcr\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27932",
+                "https://github.com/denoland/deno/security/advisories/GHSA-5frw-4rwq-xhcr"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100803,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-27933\n\nDescription: Deno is a JavaScript, TypeScript, and WebAssembly runtime. In version 1.39.0, use of raw file descriptors in `op_node_ipc_pipe()` leads to premature close of arbitrary file descriptors, allowing standard input to be re-opened as a different resource resulting in permission prompt bypass. Node child_process IPC relies on the JS side to pass the raw IPC file descriptor to `op_node_ipc_pipe()`, which returns a `IpcJsonStreamResource` ID associated with the file descriptor. On closing the resource, the raw file descriptor is closed together.\n\nUse of raw file descriptors in `op_node_ipc_pipe()` leads to premature close of arbitrary file descriptors. This allow standard input (fd 0) to be closed and re-opened for a different resource, which allows a silent permission prompt bypass. This is exploitable by an attacker controlling the code executed inside a Deno runtime to obtain arbitrary code execution on the host machine regardless of permissions.\n\nThis bug is known to be exploitable. There is a working exploit that achieves arbitrary code execution by bypassing prompts from zero permissions, additionally abusing the fact that Cache API lacks filesystem permission checks. The attack can be conducted silently as stderr can also be closed, suppressing all prompt outputs.\n\nVersion 1.39.1 fixes the bug.\n\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-27933\n\nDate of Publishing: 2025/01/03\n\nLink to Exploit: https://github.com/denoland/deno/security/advisories/GHSA-6q4w-9x56-rmwq\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27933",
+                "https://github.com/denoland/deno/security/advisories/GHSA-6q4w-9x56-rmwq"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100802,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-27934\n\nDescription: Deno is a JavaScript, TypeScript, and WebAssembly runtime. Starting in version 1.36.2 and prior to version 1.40.3, use of inherently unsafe `*const c_void` and `ExternalPointer` leads to use-after-free access of the underlying structure, resulting in arbitrary code execution. Use of inherently unsafe `*const c_void` and `ExternalPointer` leads to use-after-free access of the underlying structure, which is exploitable by an attacker controlling the code executed inside a Deno runtime to obtain arbitrary code execution on the host machine regardless of permissions. This bug is known to be exploitable for both `*const c_void` and `ExternalPointer` implementations. Version 1.40.3 fixes this issue.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-27934\n\nDate of Publishing: 2025/01/03\n\nLink to Exploit: https://github.com/denoland/deno/security/advisories/GHSA-3j27-563v-28wf\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27934",
+                "https://github.com/denoland/deno/security/advisories/GHSA-3j27-563v-28wf"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100801,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-27935\n\nDescription: Deno is a JavaScript, TypeScript, and WebAssembly runtime. Starting in version 1.35.1 and prior to version 1.36.3, a vulnerability in Deno's Node.js compatibility runtime allows for cross-session data contamination during simultaneous asynchronous reads from Node.js streams sourced from sockets or files. The issue arises from the re-use of a global buffer (BUF) in stream_wrap.ts used as a performance optimization to limit allocations during these asynchronous read operations. This can lead to data intended for one session being received by another session, potentially resulting in data corruption and unexpected behavior. This affects all users of Deno that use the node.js compatibility layer for network communication or other streams, including packages that may require node.js libraries indirectly. Version 1.36.3 contains a patch for this issue.\n\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-27935\n\nDate of Publishing: 2025/01/03\n\nLink to Exploit: https://github.com/denoland/deno/issues/20188\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Deno"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27935",
+                "https://github.com/denoland/deno/issues/20188"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100800,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-27936\n\nDescription: Deno is a JavaScript, TypeScript, and WebAssembly runtime with secure defaults. Starting in version 1.32.1 and prior to version 1.41.0 of the deno library, maliciously crafted permission request can show the spoofed permission prompt by inserting a broken ANSI escape sequence into the request contents. Deno is stripping any ANSI escape sequences from the permission prompt, but permissions given to the program are based on the contents that contain the ANSI escape sequences. Any Deno program can spoof the content of the interactive permission prompt by inserting a broken ANSI code, which allows a malicious Deno program to display the wrong file path or program name to the user. Version 1.41.0 of the deno library contains a patch for the issue.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-27936\n\nDate of Publishing: 2025/01/03\n\nLink to Exploit: https://github.com/denoland/deno/security/advisories/GHSA-m4pq-fv2w-6hrw\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27936",
+                "https://github.com/denoland/deno/security/advisories/GHSA-m4pq-fv2w-6hrw"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100799,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-27931\n\nDescription: Deno is a JavaScript, TypeScript, and WebAssembly runtime with secure defaults. Insufficient validation of parameters in `Deno.makeTemp*` APIs would allow for creation of files outside of the allowed directories. This may allow the user to overwrite important files on the system that may affect other systems. A user may provide a prefix or suffix to a `Deno.makeTemp*` API containing path traversal characters. This is fixed in Deno 1.41.1.\n\n\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-27931\n\nDate of Publishing: 2025/01/03\n\nLink to Exploit: https://github.com/denoland/deno/security/advisories/GHSA-hrqr-jv8w-v9jh\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "suffix"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27931",
+                "https://github.com/denoland/deno/security/advisories/GHSA-hrqr-jv8w-v9jh"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100798,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2023-38944\n\nDescription: An issue in Multilaser RE160V firmware v12.03.01.09_pt and Multilaser RE163V firmware v12.03.01.10_pt allows attackers to bypass the access control and gain complete access to the application via modifying a HTTP header.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2023-38944\n\nDate of Publishing: 2025/01/03\n\nLink to Exploit: https://seclists.org/fulldisclosure/2024/Mar/0\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-38944",
+                "https://seclists.org/fulldisclosure/2024/Mar/0"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100797,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2025-22376\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-22376\n\nDescription: In Net::OAuth::Client in the Net::OAuth package before 0.29 for Perl, the default nonce is a 32-bit integer generated from the built-in rand() function, which is not cryptographically strong.\n\nPublication Date: Sat Jan 04 01:05:10 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-22376"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100796,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-35054\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35054\n\nDescription: In JetBrains YouTrack before 2023.1.10518 stored XSS in a Markdown-rendering engine was possible\n\nPublication Date: Sat Jan 04 01:05:00 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35054"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100795,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2022-27539\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-27539\n\nDescription: Potential Time-of-Check to Time-of Use (TOCTOU) vulnerabilities have been identified in the HP BIOS for certain HP PC products which may allow arbitrary code execution, denial of service, and information disclosure.\n\nPublication Date: Sat Jan 04 01:04:49 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-27539"
+            ],
+            "Matched Keywords": [
+                "HP"
+            ]
+        },
+        {
+            "Message ID": 100794,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2022-27541\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-27541\n\nDescription: Potential Time-of-Check to Time-of Use (TOCTOU) vulnerabilities have been identified in the HP BIOS for certain HP PC products which may allow arbitrary code execution, denial of service, and information disclosure.\n\nPublication Date: Sat Jan 04 01:04:38 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-27541"
+            ],
+            "Matched Keywords": [
+                "HP"
+            ]
+        },
+        {
+            "Message ID": 100793,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-29562\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-29562\n\nDescription: TP-Link TL-WPA7510 (EU)_V2_190125 was discovered to contain a stack overflow via the operation parameter at /admin/locale.\n\nPublication Date: Sat Jan 04 01:04:27 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-29562"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100792,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-35053\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35053\n\nDescription: In JetBrains YouTrack before 2023.1.10518 a DoS attack was possible via Helpdesk forms\n\nPublication Date: Sat Jan 04 01:04:16 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35053"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100791,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-13129\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-13129\n\nDescription: A vulnerability was found in Roxy-WI up to 8.1.3. It has been declared as critical. Affected by this vulnerability is the function action_service of the file app/modules/roxywi/roxy.py. The manipulation of the argument action/service leads to os command injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 8.1.4 is able to address this issue. The identifier of the patch is 32313928eb9ce906887b8a30bf7b9a3d5c0de1be. It is recommended to upgrade the affected component.\n\nPublication Date: Sat Jan 04 01:04:05 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13129",
+                "roxy.py"
             ],
             "Matched Keywords": [
                 "Other"
