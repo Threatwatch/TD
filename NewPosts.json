@@ -7620,6 +7620,75 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10008,
+            "discovered": "2025-01-03",
+            "post_title": "🚨Apos Security Ransomware has been added to the platform. https://darkwebinformer.com/ransomware-gangs/\n\nhttp://yrz6bayqwhleymbeviter7ejccxm64sv2ppgqgderzgdhutozcbbhpqd[.]onion/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/ransomware-gangs/\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10007,
+            "discovered": "2025-01-03",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10006,
+            "discovered": "2025-01-03",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10005,
+            "discovered": "2025-01-03",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10004,
+            "discovered": "2025-01-03",
+            "post_title": "💡Omnisci3nt: Unveiling the Hidden Layers of the Web – A Comprehensive Web Reconnaissance Tool\n\nhttps://darkwebinformer.com/omnisci3nt-unveiling-the-hidden-layers-of-the-web-a-comprehensive-web-reconnaissance-tool/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/omnisci3nt-unveiling-the-hidden-layers-of-the-web-a-comprehensive-web-reconnaissance-tool/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -54817,6 +54886,216 @@
             ],
             "URLs": [
                 "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-target-ethereum-developers-private-keys/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100725,
+            "discovered": "2025-01-03",
+            "post_title": "Title: “Can you try a game I made?” Fake game sites lead to information stealers\n\nDate: January 3, 2025\n\nSource: https://www.malwarebytes.com/blog/news/2025/01/can-you-try-a-game-i-made-fake-game-sites-lead-to-information-stealers\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/news/2025/01/can-you-try-a-game-i-made-fake-game-sites-lead-to-information-stealers"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100724,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-34756\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34756\n\nDescription: bloofox v0.5.2.1 was discovered to contain a SQL injection vulnerability via the cid parameter at admin/index.php?mode=settings&page=charset&action=edit.\n\nPublication Date: Fri Jan 03 20:07:52 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34756"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100723,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-34823\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34823\n\nDescription: fdkaac before 1.0.5 was discovered to contain a stack overflow in read_callback function in src/main.c.\n\nPublication Date: Fri Jan 03 20:07:42 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34823"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100722,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-55507\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-55507\n\nDescription: An issue in CodeAstro Complaint Management System v.1.0 allows a remote attacker to escalate privileges via the delete_e.php component.\n\nPublication Date: Fri Jan 03 20:07:31 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-55507"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100721,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-56321\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56321\n\nDescription: GoCD is a continuous deliver server. GoCD versions 18.9.0 through 24.4.0 (inclusive) can allow GoCD admins to abuse the backup configuration \"post-backup script\" feature to potentially execute arbitrary scripts on the hosting server or container as GoCD's user, rather than pre-configured scripts. In practice the impact of this vulnerability is limited, as in most configurations a user who can log into the GoCD UI as an admin also has host administration permissions for the host/container that GoCD runs on, in order to manage artifact storage and other service-level configuration options. Additionally, since a GoCD admin has ability to configure and schedule pipelines tasks on all GoCD agents available to the server, the fundamental functionality of GoCD allows co-ordinated task execution similar to that of post-backup-scripts. However in restricted environments where the host administration is separated from the role of a GoCD admin, this may be unexpected. The issue is fixed in GoCD 24.5.0. Post-backup scripts can no longer be executed from within certain sensitive locations on the GoCD server. No known workarounds are available.\n\nPublication Date: Fri Jan 03 20:07:20 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56321"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100720,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-56322\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56322\n\nDescription: GoCD is a continuous deliver server. GoCD versions 16.7.0 through 24.4.0 (inclusive) can allow GoCD admins to abuse a hidden/unused configuration repository (pipelines as code) feature to allow XML External Entity (XXE) injection on the GoCD Server which will be executed when GoCD periodically scans configuration repositories for pipeline updates, or is triggered by an administrator or config repo admin. In practice the impact of this vulnerability is limited, in most cases without combining with another vulnerability, as only GoCD (super) admins have the ability to abuse this vulnerability. Typically a malicious GoCD admin can cause much larger damage than that they can do with XXE injection. The issue is fixed in GoCD 24.5.0. As a workaround, prevent external access from the GoCD server to arbitrary locations using some kind of environment egress control.\n\nPublication Date: Fri Jan 03 20:07:09 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56322"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100719,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-56324\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56324\n\nDescription: GoCD is a continuous deliver server. GoCD versions prior to 24.4.0 can allow GoCD \"group admins\" to abuse ability to edit the raw XML configuration for groups they administer to trigger XML External Entity (XXE) injection on the GoCD server. Theoretically, the XXE vulnerability can result in additional attacks such as SSRF, information disclosure from the GoCD server, and directory traversal, although these additional attacks have not been explicitly demonstrated as exploitable. This issue is fixed in GoCD 24.5.0. Some workarounds are available. One may temporarily block access to  `/go/*/pipelines/snippet` routes from an external reverse proxy or WAF if one's \"group admin\" users do not need the functionality to edit the XML of pipelines directly (rather than using the UI, or using a configuration repository). One may also prevent external access from one's GoCD server to arbitrary locations using some kind of environment egress control.\n\nPublication Date: Fri Jan 03 20:06:58 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56324"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100718,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-56408\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56408\n\nDescription: PhpSpreadsheet is a PHP library for reading and writing spreadsheet files. Versions prior to 3.7.0, 2.3.5, 2.1.6, and 1.29.7 have is no sanitization in the `/vendor/phpoffice/phpspreadsheet/samples/Engineering/Convert-Online.php` file, which leads to the possibility of a cross-site scripting attack. Versions 3.7.0, 2.3.5, 2.1.6, and 1.29.7 contain a patch for the issue.\n\nPublication Date: Fri Jan 03 20:06:47 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56408"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100717,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-56514\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56514\n\nDescription: Karmada is a Kubernetes management system that allows users to run cloud-native applications across multiple Kubernetes clusters and clouds. Prior to version 1.12.0, both in karmadactl and karmada-operator, it is possible to supply a filesystem path, or an HTTP(s) URL to retrieve the custom resource definitions(CRDs) needed by Karmada. The CRDs are downloaded as a gzipped tarfile and are vulnerable to a TarSlip vulnerability. An attacker able to supply a malicious CRD file into a Karmada initialization could write arbitrary files in arbitrary paths of the filesystem. From Karmada version 1.12.0, when processing custom CRDs files, CRDs archive verification is utilized to enhance file system robustness. A workaround is available. Someone who needs to set flag `--crd` to customize the CRD files required for Karmada initialization when using `karmadactl init` to set up Karmada can manually inspect the CRD files to check whether they contain sequences such as `../` that would alter file paths, to determine if they potentially include malicious files. When using karmada-operator to set up Karmada, one must upgrade one's karmada-operator to one of the fixed versions.\n\nPublication Date: Fri Jan 03 20:06:36 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56514"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100716,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-34708\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34708\n\nDescription: Directus is a real-time API and App dashboard for managing SQL database content. A user with permission to view any collection using redacted hashed fields can get access the raw stored version using the `alias` functionality on the API. Normally, these redacted fields will return `**********` however  if we change the request to `?alias[workaround]=redacted` we can instead retrieve the plain text value for the field. This can be avoided by removing permission to view the sensitive fields entirely from users or roles that should not be able to see them. This vulnerability is fixed in 10.11.0.\n\nPublication Date: Fri Jan 03 20:06:25 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34708"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100715,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-34709\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-34709\n\nDescription: Directus is a real-time API and App dashboard for managing SQL database content. Prior to 10.11.0, session tokens function like the other JWT tokens where they are not actually invalidated when logging out. The `directus_session` gets destroyed and the cookie gets deleted but if the cookie value is captured, it will still work for the entire expiry time which is set to 1 day by default. Making it effectively a long lived unrevokable stateless token instead of the stateful session token it was meant to be. This vulnerability is fixed in 10.11.0.\n\nPublication Date: Fri Jan 03 20:06:14 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34709"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100714,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-36128\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-36128\n\nDescription: Directus is a real-time API and App dashboard for managing SQL database content. Prior to 10.11.2, providing a non-numeric length value to the random string generation utility will create a memory issue breaking the capability to generate random strings platform wide. This creates a denial of service situation where logged in sessions can no longer be refreshed as sessions depend on the capability to generate a random session ID. This vulnerability is fixed in 10.11.2.\n\nPublication Date: Fri Jan 03 20:06:04 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-36128"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100713,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2025-21609\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-21609\n\nDescription: SiYuan is self-hosted, open source personal knowledge management software. SiYuan Note version 3.1.18 has an arbitrary file deletion vulnerability. The vulnerability exists in the `POST /api/history/getDocHistoryContent` endpoint. An attacker can craft a payload to exploit this vulnerability, resulting in the deletion of arbitrary files on the server. Commit d9887aeec1b27073bec66299a9a4181dc42969f3 fixes this vulnerability and is expected to be available in version 3.1.19.\n\nPublication Date: Fri Jan 03 20:05:53 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-21609"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100712,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2025-21610\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-21610\n\nDescription: Trix is a what-you-see-is-what-you-get rich text editor for everyday writing. Versions prior to 2.1.12 are vulnerable to cross-site scripting when pasting malicious code in the link field. An attacker could trick the user to copy&paste a malicious `javascript:` URL as a link that would execute arbitrary JavaScript code within the context of the user's session, potentially leading to unauthorized actions being performed or sensitive information being disclosed. Users should upgrade to Trix editor version 2.1.12 or later to receive a patch. In addition to upgrading, affected users can disallow browsers that don't support a Content Security Policy (CSP) as a workaround for this and other cross-site scripting vulnerabilities. Set CSP policies such as script-src 'self' to ensure that only scripts hosted on the same origin are executed, and explicitly prohibit inline scripts using script-src-elem.\n\nPublication Date: Fri Jan 03 20:05:42 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-21610"
             ],
             "Matched Keywords": [
                 "Other"
