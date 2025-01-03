@@ -10164,6 +10164,66 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 832,
+            "discovered": "2025-01-03",
+            "post_title": "https://www-ccinfo-nl.translate.goog/menu-onderwijs-ontwikkeling/cybercrime/cyberoorlog/2239368_cyberoorlog-nieuws-2024-december?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www-ccinfo-nl.translate.goog/menu-onderwijs-ontwikkeling/cybercrime/cyberoorlog/2239368_cyberoorlog-nieuws-2024-december?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=wapp"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 831,
+            "discovered": "2025-01-03",
+            "post_title": "https://tw.news.yahoo.com/獨-駭客又來-昨三波攻擊-證交所-主計總處入列-053133424.html",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://tw.news.yahoo.com/獨-駭客又來-昨三波攻擊-證交所-主計總處入列-053133424.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 830,
+            "discovered": "2025-01-03",
+            "post_title": "https://x.com/monthreat/status/1875116536618193275?s=4",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/monthreat/status/1875116536618193275?s=4"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 829,
+            "discovered": "2025-01-03",
+            "post_title": "https://x.com/cybernetic_cy/status/1875104428136771599?s=4",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/cybernetic_cy/status/1875104428136771599?s=4"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -37951,6 +38011,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5233,
+            "discovered": "2025-01-03",
+            "post_title": "ID: 19889\n⚠ 2025-01-03 09:42:12\n🥷 8base\n🎯 Lyons Specialty Co., USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19889",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19889"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -53518,6 +53593,21 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-9140"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100656,
+            "discovered": "2025-01-03",
+            "post_title": "Title: CERT-In Issues Alert on WPForms Vulnerability That Can Disrupt Payment and Subscription Services\n\nDate: January 3, 2025\n\nSource: https://cyble.com/blog/cert-in-warns-of-cve-2024-11205-vulnerability/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyble.com/blog/cert-in-warns-of-cve-2024-11205-vulnerability/"
             ],
             "Matched Keywords": [
                 "Other"
@@ -76003,6 +76093,156 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2025-0173/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80727,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2024-49385 - https://www.redpacketsecurity.com/cve_alert_cve-2024-49385/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-49385/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80726,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2024-55538 - https://www.redpacketsecurity.com/cve_alert_cve-2024-55538/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-55538/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80725,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2023-47778 - https://www.redpacketsecurity.com/cve_alert_cve-2023-47778/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2023-47778/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80724,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2024-56137 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56137/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56137/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80723,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2023-47807 - https://www.redpacketsecurity.com/cve_alert_cve-2023-47807/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2023-47807/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80722,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2025-0171 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0171/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0171/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80721,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2022-47601 - https://www.redpacketsecurity.com/cve_alert_cve-2022-47601/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2022-47601/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80720,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2024-55540 - https://www.redpacketsecurity.com/cve_alert_cve-2024-55540/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-55540/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80719,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2024-55541 - https://www.redpacketsecurity.com/cve_alert_cve-2024-55541/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-55541/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80718,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2022-45811 - https://www.redpacketsecurity.com/cve_alert_cve-2022-45811/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2022-45811/"
             ],
             "Matched Keywords": [
                 "Other"
