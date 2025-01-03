@@ -29055,6 +29055,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1284,
+            "discovered": "2025-01-03",
+            "post_title": "01001101 01100001 01111001 00100000 00110010 00110000 00110010 00110101 00100000 01100010 01110010 01101001 01101110 01100111 00100000 01111001 01101111 01110101 00100000 01101100 01101111 01110100 01110011 00100000 01101111 01100110 00100000 01100010 01101111 01110101 01101110 01110100 01101001 01100101 01110011 00100001 00100000 00111011 00101001",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "AHU Official": [
@@ -53085,6 +53098,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100642,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Antivirus myths and how AVs actually work\n\nDate: January 3, 2025\n\nSource: https://www.youtube.com/watch?v=4DolQTKGT9U\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.youtube.com/watch?v=4DolQTKGT9U"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -57244,6 +57272,73 @@
                 "Israel"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27034,
+            "discovered": "2025-01-03",
+            "post_title": "⚡️CVE-2024-12912 & CVE-2024-13062: ASUS Routers at Risk.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27033,
+            "discovered": "2025-01-03",
+            "post_title": "⚡️Unmasking Fraudulent Popularity: Study Exposes 4.5 Million Fake Stars on GitHub.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27032,
+            "discovered": "2025-01-03",
+            "post_title": "⚡️Ransomware gang leaks data stolen in Rhode Island's RIBridges Breach.\n\n#CyberBulletin",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "Rhode Island's"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27031,
+            "discovered": "2025-01-03",
+            "post_title": "⚡️Fake 7-Zip Exploit Code Traced to AI-Generated Misinterpretation.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27030,
+            "discovered": "2025-01-03",
+            "post_title": "⚡️CVE-2024-21182 : Allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server\n\nPoC : https://github.com/k4it0k1d/CVE-2024-21182\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://github.com/k4it0k1d/CVE-2024-21182"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
@@ -75349,6 +75444,156 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/navigating-cybersecurity-compliance-and-regulations/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80717,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2024-56413 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56413/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56413/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80716,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2024-56414 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56414/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56414/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80715,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2024-55543 - https://www.redpacketsecurity.com/cve_alert_cve-2024-55543/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-55543/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80714,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2023-23672 - https://www.redpacketsecurity.com/cve_alert_cve-2023-23672/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2023-23672/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80713,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2024-55542 - https://www.redpacketsecurity.com/cve_alert_cve-2024-55542/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-55542/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80712,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2024-48197 - https://www.redpacketsecurity.com/cve_alert_cve-2024-48197/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-48197/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80711,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2025-0172 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0172/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0172/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80710,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2024-56199 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56199/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56199/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80709,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2024-8447 - https://www.redpacketsecurity.com/cve_alert_cve-2024-8447/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-8447/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80708,
+            "discovered": "2025-01-03",
+            "post_title": "CVE Alert: CVE-2025-0173 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0173/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0173/"
             ],
             "Matched Keywords": [
                 "Other"
