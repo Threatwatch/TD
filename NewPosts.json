@@ -10097,6 +10097,73 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 828,
+            "discovered": "2025-01-03",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 827,
+            "discovered": "2025-01-03",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 826,
+            "discovered": "2025-01-03",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 825,
+            "discovered": "2025-01-03",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 824,
+            "discovered": "2025-01-03",
+            "post_title": "🔴 نفوذ به سیستم پنل TV-Plus Pty Ltd در استرالیا؛\nتوسط گروه هکری RipperSec\n\nTarget: https://tvplus.tv/\n\n#Australia #OpAustralia #CyberAttack #Hack #FreePalestine #RipperSec #ICA_NEWS\n\n🔘To see the news in English, go to the comments\n\nThe exclusive source of hacker news\n🚨 Official news channel of #ICA 🛰\n〔 @ICA_313 〕",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Australia"
+            ],
+            "URLs": [
+                "ttps://tvplus.tv/\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -53406,6 +53473,51 @@
             ],
             "URLs": [
                 "https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100655,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-9138\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9138\n\nDescription: Moxa’s cellular routers, secure routers, and network security appliances are affected by a high-severity vulnerability, CVE-2024-9138. This vulnerability involves hard-coded credentials, enabling an authenticated user to escalate privileges and gain root-level access to the system, posing a significant security risk.\n\nPublication Date: Fri Jan 03 12:04:25 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9138"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100654,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-12132\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12132\n\nDescription: The WP Job Portal – A Complete Recruitment System for Company or Job Board website plugin for WordPress is vulnerable to Insecure Direct Object Reference in all versions up to, and including, 2.2.4 due to missing validation on a user controlled key. This makes it possible for authenticated attackers, with Subscriber-level access and above, to create jobs for companies that are unaffiliated with the attacker.\n\nPublication Date: Fri Jan 03 12:04:14 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12132"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100653,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-9140\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-9140\n\nDescription: Moxa’s cellular routers, secure routers, and network security appliances are affected by a critical vulnerability, CVE-2024-9140. This vulnerability allows OS command injection due to improperly restricted commands, potentially enabling attackers to execute arbitrary code. This poses a significant risk to the system’s security and functionality.\n\nPublication Date: Fri Jan 03 12:04:04 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-9140"
             ],
             "Matched Keywords": [
                 "Other"
