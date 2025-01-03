@@ -7689,6 +7689,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10009,
+            "discovered": "2025-01-03",
+            "post_title": "💡Everspy RAT\n\nCredit: @Mr_Maddyking",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -24956,6 +24969,19 @@
             "Message ID": 5657,
             "discovered": "2025-01-03",
             "post_title": "Mikko Hyppönen, Chief Research Officer of FSecure, confirms his first known siting of the password being 'infected' was March 1st, 2001.\n\nPlease note the other password was 'hot4u'. In an alternate universe the password to malware is hot4u.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5658,
+            "discovered": "2025-01-03",
+            "post_title": "> go to computer store\n> computer store guy recommends norton antivirus\n> tell him no thank you\n> says viruses and malware is dangerous\n> tell him i want the malware\n\nhis reaction",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -55096,6 +55122,365 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2025-21610"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100748,
+            "discovered": "2025-01-03",
+            "post_title": "Title: US sanctions Chinese company that helped facilitate espionage hacks\n\nDate: January 3, 2025\n\nSource: https://www.nextgov.com/cybersecurity/2025/01/us-sanctions-chinese-company-helped-facilitate-espionage-hacks/401939/\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US",
+                "China"
+            ],
+            "URLs": [
+                "https://www.nextgov.com/cybersecurity/2025/01/us-sanctions-chinese-company-helped-facilitate-espionage-hacks/401939/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100747,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-27295\n\nDescription: Directus is a real-time API and App dashboard for managing SQL database content. The password reset mechanism of the Directus backend allows attackers to receive a password reset email of a victim user, specifically having it arrive at a similar email address as the victim with a one or more characters changed to use accents. This is due to the fact that by default MySQL/MariaDB are configured for accent-insensitive and case-insensitive comparisons. This vulnerability is fixed in version 10.8.3.\n\n\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-27295\n\nDate of Publishing: 2025/01/03\n\nLink to Exploit: https://github.com/directus/directus/security/advisories/GHSA-qw9g-7549-7wg5\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-27295",
+                "https://github.com/directus/directus/security/advisories/GHSA-qw9g-7549-7wg5"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100746,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-28239\n\nDescription: Directus is a real-time API and App dashboard for managing SQL database content. The authentication API has a `redirect` parameter that can be exploited as an open redirect vulnerability as the user tries to log in via the API URL. There's a redirect that is done after successful login via the Auth API GET request to `directus/auth/login/google?redirect=http://malicious-fishing-site.com`. While credentials don't seem to be passed to the attacker site, the user can be phished into clicking a legitimate directus site and be taken to a malicious site made to look like a an error message \"Your password needs to be updated\" to phish out the current password. Users who login via OAuth2 into Directus may be at risk. This issue has been addressed in version 10.10.0. Users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-28239\n\nDate of Publishing: 2025/01/03\n\nLink to Exploit: https://github.com/directus/directus/security/advisories/GHSA-fr3w-2p22-6w7p\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "http://malicious-fishing-site.com`",
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-28239",
+                "https://github.com/directus/directus/security/advisories/GHSA-fr3w-2p22-6w7p"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100745,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-34708\n\nDescription: Directus is a real-time API and App dashboard for managing SQL database content. A user with permission to view any collection using redacted hashed fields can get access the raw stored version using the `alias` functionality on the API. Normally, these redacted fields will return `**********` however  if we change the request to `?alias[workaround]=redacted` we can instead retrieve the plain text value for the field. This can be avoided by removing permission to view the sensitive fields entirely from users or roles that should not be able to see them. This vulnerability is fixed in 10.11.0.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-34708\n\nDate of Publishing: 2025/01/03\n\nLink to Exploit: https://github.com/directus/directus/security/advisories/GHSA-p8v3-m643-4xqx\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34708",
+                "https://github.com/directus/directus/security/advisories/GHSA-p8v3-m643-4xqx"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100744,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-34709\n\nDescription: Directus is a real-time API and App dashboard for managing SQL database content. Prior to 10.11.0, session tokens function like the other JWT tokens where they are not actually invalidated when logging out. The `directus_session` gets destroyed and the cookie gets deleted but if the cookie value is captured, it will still work for the entire expiry time which is set to 1 day by default. Making it effectively a long lived unrevokable stateless token instead of the stateful session token it was meant to be. This vulnerability is fixed in 10.11.0.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-34709\n\nDate of Publishing: 2025/01/03\n\nLink to Exploit: https://github.com/directus/directus/security/advisories/GHSA-g65h-35f3-x2w3\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-34709",
+                "https://github.com/directus/directus/security/advisories/GHSA-g65h-35f3-x2w3"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100743,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-36128\n\nDescription: Directus is a real-time API and App dashboard for managing SQL database content. Prior to 10.11.2, providing a non-numeric length value to the random string generation utility will create a memory issue breaking the capability to generate random strings platform wide. This creates a denial of service situation where logged in sessions can no longer be refreshed as sessions depend on the capability to generate a random session ID. This vulnerability is fixed in 10.11.2.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-36128\n\nDate of Publishing: 2025/01/03\n\nLink to Exploit: https://github.com/directus/directus/security/advisories/GHSA-632p-p495-25m5\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-36128",
+                "https://github.com/directus/directus/security/advisories/GHSA-632p-p495-25m5"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100742,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-39895\n\nDescription: Directus is a real-time API and App dashboard for managing SQL database content. A denial of service (DoS) attack by field duplication in GraphQL is a type of attack where an attacker exploits the flexibility of GraphQL to overwhelm a server by requesting the same field multiple times in a single query. This can cause the server to perform redundant computations and consume excessive resources, leading to a denial of service for legitimate users. Request to the endpoint /graphql are sent when visualizing graphs generated at a dashboard. By modifying the data sent and duplicating many times the fields a DoS attack is possible. This vulnerability is fixed in 10.12.0.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-39895\n\nDate of Publishing: 2025/01/03\n\nLink to Exploit: https://github.com/directus/directus/security/advisories/GHSA-7hmh-pfrp-vcx4\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "GraphQL",
+                "GraphQL"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-39895",
+                "https://github.com/directus/directus/security/advisories/GHSA-7hmh-pfrp-vcx4"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100741,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-39896\n\nDescription: Directus is a real-time API and App dashboard for managing SQL database content. When relying on SSO providers in combination with local authentication it can be possible to enumerate existing SSO users in the instance. This is possible because if an email address exists in Directus and belongs to a known SSO provider then it will throw a \"helpful\" error that the user belongs to another provider. This vulnerability is fixed in 10.13.0.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-39896\n\nDate of Publishing: 2025/01/03\n\nLink to Exploit: https://github.com/directus/directus/security/advisories/GHSA-jgf4-vwc3-r46v\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-39896",
+                "https://github.com/directus/directus/security/advisories/GHSA-jgf4-vwc3-r46v"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100740,
+            "discovered": "2025-01-03",
+            "post_title": "Vulnerability ID: CVE-2024-47822\n\nDescription: Directus is a real-time API and App dashboard for managing SQL database content. Access tokens from query strings are not redacted and are potentially exposed in system logs which may be persisted. The access token in `req.query` is not redacted when the `LOG_STYLE` is set to `raw`. If these logs are not properly sanitized or protected, an attacker with access to it can potentially gain administrative control, leading to unauthorized data access and manipulation. This impacts systems where the `LOG_STYLE` is set to `raw`. The `access_token` in the query could potentially be a long-lived static token. Users with impacted systems should rotate their static tokens if they were provided using query string. This vulnerability has been patched in release version 10.13.2 and subsequent releases as well. Users are advised to upgrade. There are no known workarounds for this vulnerability.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-47822\n\nDate of Publishing: 2025/01/03\n\nLink to Exploit: https://github.com/directus/directus/security/advisories/GHSA-vw58-ph65-6rxp\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-47822",
+                "https://github.com/directus/directus/security/advisories/GHSA-vw58-ph65-6rxp"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100739,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-25369\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-25369\n\nDescription: Siglent SDS 1104X-E SDS1xx4X-E_V6.1.37R9.ADS is vulnerable to Denial of Service on the user interface triggered by malformed SCPI command.\n\nPublication Date: Fri Jan 03 21:05:15 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-25369",
+                "SDS1xx4X-E_V6.1.37R9.ADS"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100738,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-25368\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-25368\n\nDescription: Siglent SDS 1104X-E SDS1xx4X-E_V6.1.37R9.ADS is vulnerable to Incorrect Access Control. An unauthenticated attacker can overwrite firmnware.\n\nPublication Date: Fri Jan 03 21:05:05 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-25368",
+                "SDS1xx4X-E_V6.1.37R9.ADS"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100737,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-25367\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-25367\n\nDescription: Siglent SDS 1104X-E SDS1xx4X-E_V6.1.37R9.ADS allows unfiltered user input resulting in Remote Code Execution (RCE) with SCPI interface or web server.\n\nPublication Date: Fri Jan 03 21:04:54 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-25367",
+                "SDS1xx4X-E_V6.1.37R9.ADS"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100736,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2020-22402\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2020-22402\n\nDescription: Cross Site Scripting (XSS) vulnerability in SOGo Web Mail before 4.3.1 allows attackers to obtain user sensitive information when a user reads an email containing malicious code.\n\nPublication Date: Fri Jan 03 21:04:42 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2020-22402"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100735,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2021-31280\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2021-31280\n\nDescription: An issue was discovered in tp5cms through 2017-05-25. admin.php/system/set.html has XSS via the keywords parameter.\n\nPublication Date: Fri Jan 03 21:04:32 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2021-31280"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100734,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-56365\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56365\n\nDescription: PhpSpreadsheet is a PHP library for reading and writing spreadsheet files. Versions prior to 3.7.0, 2.3.5, 2.1.6, and 1.29.7 are vulnerable to unauthorized reflected cross-site scripting in the constructor of the `Downloader` class. Using the `/vendor/phpoffice/phpspreadsheet/samples/download.php` script, an attacker can perform a cross-site scripting attack. Versions  3.7.0, 2.3.5, 2.1.6, and 1.29.7 contain a patch for the issue.\n\nPublication Date: Fri Jan 03 21:04:21 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56365"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100733,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-56366\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56366\n\nDescription: PhpSpreadsheet is a PHP library for reading and writing spreadsheet files. Versions prior to 3.7.0, 2.3.5, 2.1.6, and 1.29.7 are vulnerable to unauthorized reflected cross-site scripting in the `Accounting.php` file. Using the `/vendor/phpoffice/phpspreadsheet/samples/Wizards/NumberFormat/Accounting.php` script, an attacker can perform a cross-site scripting attack. Versions  3.7.0, 2.3.5, 2.1.6, and 1.29.7 contain a patch for the issue.\n\nPublication Date: Fri Jan 03 21:04:10 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56366"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100732,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-56409\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56409\n\nDescription: PhpSpreadsheet is a PHP library for reading and writing spreadsheet files. Versions prior to 3.7.0, 2.3.5, 2.1.6, and 1.29.7 are vulnerable to unauthorized reflected cross-site scripting in the `Currency.php` file. Using the `/vendor/phpoffice/phpspreadsheet/samples/Wizards/NumberFormat/Currency.php` script, an attacker can perform a cross-site scripting attack. Versions  3.7.0, 2.3.5, 2.1.6, and 1.29.7 contain a patch for the issue.\n\nPublication Date: Fri Jan 03 21:03:59 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56409"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100731,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-27356\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-27356\n\nDescription: NETGEAR RAX30 logCtrl Command Injection Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of NETGEAR RAX30 routers. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed.\n\nThe specific flaw exists within the logCtrl action. The issue results from the lack of proper validation of a user-supplied string before using it to execute a system call. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-19825.\n\nPublication Date: Fri Jan 03 21:03:48 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-27356"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100730,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-56513\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56513\n\nDescription: Karmada is a Kubernetes management system that allows users to run cloud-native applications across multiple Kubernetes clusters and clouds. Prior to version 1.12.0, the PULL mode clusters registered with the `karmadactl register` command have excessive privileges to access control plane resources. By abusing these permissions, an attacker able to authenticate as the karmada-agent to a karmada cluster would be able to obtain administrative privileges over the entire federation system including all registered member clusters. Since Karmada v1.12.0, command `karmadactl register` restricts the access permissions of pull mode member clusters to control plane resources. This way, an attacker able to authenticate as the karmada-agent cannot control other member clusters in Karmada. As a workaround, one may restrict the access permissions of pull mode member clusters to control plane resources according to Karmada Component Permissions Docs.\n\nPublication Date: Fri Jan 03 21:03:37 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Karmada"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56513"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100729,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-56410\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56410\n\nDescription: PhpSpreadsheet is a PHP library for reading and writing spreadsheet files. Versions prior to 3.7.0, 2.3.5, 2.1.6, and 1.29.7 have a cross-site scripting (XSS) vulnerability in custom properties. The HTML page is generated without clearing custom properties. Versions 3.7.0, 2.3.5, 2.1.6, and 1.29.7 contain a patch for the issue.\n\nPublication Date: Fri Jan 03 21:03:26 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56410"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100728,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2023-27357\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-27357\n\nDescription: NETGEAR RAX30 GetInfo Missing Authentication Information Disclosure Vulnerability. This vulnerability allows network-adjacent attackers to disclose sensitive information on affected installations of NETGEAR RAX30 routers. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the handling of SOAP requests. The issue results from the lack of authentication prior to allowing access to functionality. An attacker can leverage this vulnerability to disclose sensitive information, leading to further compromise. Was ZDI-CAN-19608.\n\nPublication Date: Fri Jan 03 21:03:15 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-27357"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100727,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-56412\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56412\n\nDescription: PhpSpreadsheet is a PHP library for reading and writing spreadsheet files. Versions prior to 3.7.0, 2.3.5, 2.1.6, and 1.29.7 are vulnerable to bypass of the cross-site scripting sanitizer using the javascript protocol and special characters. An attacker can use special characters, so that the library processes the javascript protocol with special characters and generates an HTML link. Versions 3.7.0, 2.3.5, 2.1.6, and 1.29.7 contain a patch for the issue.\n\nPublication Date: Fri Jan 03 21:03:04 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56412"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100726,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-56411\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56411\n\nDescription: PhpSpreadsheet is a PHP library for reading and writing spreadsheet files. Versions prior to 3.7.0, 2.3.5, 2.1.6, and 1.29.7 have a cross-site scripting (XSS) vulnerability of the hyperlink base in the HTML page header. The HTML page is formed without sanitizing the hyperlink base. Versions 3.7.0, 2.3.5, 2.1.6, and 1.29.7 contain a patch for the issue.\n\nPublication Date: Fri Jan 03 21:02:54 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56411"
             ],
             "Matched Keywords": [
                 "Other"
