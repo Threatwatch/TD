@@ -16033,6 +16033,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1620,
+            "discovered": "2025-01-03",
+            "post_title": "🚨Cyberattack Alert ‼️\n\n🇫🇷France - ISOR\n\nCicada3301 ransomware group claims to have breached ISOR. \n\nAllegedly, 1.6 TB of data were exfiltrated. \nRansom deadline: 02nd Feb 2025.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "France"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -24693,6 +24706,32 @@
             "Message ID": 5653,
             "discovered": "2025-01-03",
             "post_title": "The malware oopsie-doopsie paradox\n\nThe more evasive techniques introduced into your payload, the more likely it be detected\n\nThe less evasive techniques introduced into your payload, the more likely it be detected",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5655,
+            "discovered": "2025-01-03",
+            "post_title": "Uploading 23,023 malwares.\n\nUnfortunately, the malware was supposed to go live yesterday but someone pushed the malware to the wrong place in prod. The issue is being corrected.\n\nNew papers going live once this issue is resolved.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5654,
+            "discovered": "2025-01-03",
+            "post_title": "We've had a few people contact us with something along the lines of, \"CISA uses your website! They did a training course and the password to the malware was infected!\"\n\nWe did not set the standard of the 'infected' password. We made it more mainstream due to our follower base, but we didn't set that standard or have anything to do with it's creation.\n\nIt's been the standard for malware related stuff for over 100 years (made up number, no idea). We don't even remember how we learned the password. It's just been like that for as long as we remember.",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -53947,6 +53986,170 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100681,
+            "discovered": "2025-01-03",
+            "post_title": "Victim: ISOR\n\nDetection Date: Fri Jan 03 17:50:37 2025\n\nThreat Actor: cicada3301\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100680,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Not guilty plea entered by Terraform Labs co-founder over alleged crypto fraud\n\nDate: January 3, 2025\n\nSource: https://www.scworld.com/brief/not-guilty-plea-entered-by-terraform-labs-co-founder-over-alleged-crypto-fraud\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/not-guilty-plea-entered-by-terraform-labs-co-founder-over-alleged-crypto-fraud"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100679,
+            "discovered": "2025-01-03",
+            "post_title": "Title: More stringent drone regulations proposed\n\nDate: January 3, 2025\n\nSource: https://www.scworld.com/brief/more-stringent-drone-regulations-proposed\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/more-stringent-drone-regulations-proposed"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100678,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Visionworks hit with lawsuit over data breach\n\nDate: January 3, 2025\n\nSource: https://www.scworld.com/brief/visionworks-hit-with-lawsuit-over-data-breach\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/visionworks-hit-with-lawsuit-over-data-breach"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100677,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Patched data exposing Microsoft Dynamics 365, Power Apps Web API bugs detailed\n\nDate: January 3, 2025\n\nSource: https://www.scworld.com/brief/patched-data-exposing-microsoft-dynamics-365-power-apps-web-api-bugs-detailed\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/patched-data-exposing-microsoft-dynamics-365-power-apps-web-api-bugs-detailed"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100676,
+            "discovered": "2025-01-03",
+            "post_title": "Title: DDoS attack impacts NTT Docomo operations\n\nDate: January 3, 2025\n\nSource: https://www.scworld.com/brief/ddos-attack-impacts-ntt-docomo-operations\n\n#News",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/ddos-attack-impacts-ntt-docomo-operations"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100675,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Network sniffing attacks threaten millions of unencrypted mail servers\n\nDate: January 3, 2025\n\nSource: https://www.scworld.com/brief/network-sniffing-attacks-threaten-millions-of-unencrypted-mail-servers\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/network-sniffing-attacks-threaten-millions-of-unencrypted-mail-servers"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100674,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Treasury's sanctions office reportedly subjected to Chinese hack\n\nDate: January 3, 2025\n\nSource: https://www.scworld.com/brief/treasurys-sanctions-office-reportedly-subjected-to-chinese-hack\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/treasurys-sanctions-office-reportedly-subjected-to-chinese-hack"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100673,
+            "discovered": "2025-01-03",
+            "post_title": "Title: Apple offers $95 million in Siri privacy violation settlement\n\nDate: January 03, 2025\n\nSource: https://www.bleepingcomputer.com/news/security/apple-offers-95-million-in-siri-privacy-violation-settlement/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Siri"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/apple-offers-95-million-in-siri-privacy-violation-settlement/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100672,
+            "discovered": "2025-01-03",
+            "post_title": "Title: French govt contractor Atos denies Space Bears ransomware attack claims\n\nDate: January 03, 2025\n\nSource: https://www.bleepingcomputer.com/news/security/french-govt-contractor-atos-denies-space-bears-ransomware-attack-claims/\n\n#News #France",
+            "Attack Type": "Hacking",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/french-govt-contractor-atos-denies-space-bears-ransomware-attack-claims/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100671,
+            "discovered": "2025-01-03",
+            "post_title": "CVE-ID: CVE-2024-12798\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12798\n\nDescription: ACE vulnerability in JaninoEventEvaluator  by QOS.CH logback-core\n      upto including version 0.1 to 1.3.14 and 1.4.0 to 1.5.12 in Java applications allows\n      attacker to execute arbitrary code by compromising an existing\n      logback configuration file or by injecting an environment variable\n      before program execution.\n\n\n\n\n\nMalicious logback configuration files can allow the attacker to execute \narbitrary code using the JaninoEventEvaluator extension.\n\n\n\nA successful attack requires the user to have write access to a \nconfiguration file. Alternatively, the attacker could inject a malicious \nenvironment variable pointing to a malicious configuration file. In both \ncases, the attack requires existing privilege.\n\nPublication Date: Fri Jan 03 17:05:32 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12798",
+                "QOS.CH"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -58173,6 +58376,19 @@
             "URLs": [
                 "https://github.com/k4it0k1d/CVE-2024-21182"
             ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27035,
+            "discovered": "2025-01-03",
+            "post_title": "⚡️3 billion cyber attacks against Israel since October 7th 2023.\n\nJanuary 3rd, 2025 #CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel"
+            ],
+            "URLs": [],
             "Matched Keywords": [
                 "Other"
             ]
@@ -76788,6 +77004,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/8base-ransomware-victim-voltaire-avocats/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80742,
+            "discovered": "2025-01-03",
+            "post_title": "https://www.redpacketsecurity.com/tryhackme-walkthrough-dodge/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/tryhackme-walkthrough-dodge/"
             ],
             "Matched Keywords": [
                 "Other"
