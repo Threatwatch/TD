@@ -7814,6 +7814,36 @@
             "Matched Keywords": [
                 "Css"
             ]
+        },
+        {
+            "Message ID": 10019,
+            "discovered": "2025-01-04",
+            "post_title": "💡Added 0ut3r Space Dark Web link to everything else; https://darkwebinformer.com/everything-else/\n\nhttps://reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd[.]onion/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/everything-else/\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10018,
+            "discovered": "2025-01-04",
+            "post_title": "💡Changelog updated. All changes: https://darkwebinformer.com/changelog\n\n🌟 Version 3.53 - January 4th, 2025\n\n🎉 New Features:\n\n* \n\n⚙️ Improvements:\n\n* Onions/Clearnet links all made public\n* Added 28 Telegram Channels (all Hacktivist)\n* DDoS and defacement posts are now plus and pro tier\n* Moved Threat Feeds to paid subscribers area\n* Added some more onions/clearnet links to \"Onions\" throughout the week\n* Moved Real Time Status Page to Public view\n* Released Telegram Channel for Live Alerts coming from the Status page\n* Added 1 Ransomware group\n* Added new unredacted and watermark free Ransomware feed\n\n🐛 Bug Fixes:\n\n* \n\n🐛 Open Bugs:\n\n* Mobile: Threat Feeds only look proper when changing to desktop site.",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Changelog"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -56619,6 +56649,248 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100830,
+            "discovered": "2025-01-04",
+            "post_title": "Title: Feds claims just 7% of available funds from OPM breach settlement, remainder returns to Treasury\n\nDate: January 4, 2025\n\nSource: https://databreaches.net/2025/01/03/feds-claims-just-7-of-available-funds-from-opm-breach-settlement-remainder-returns-to-treasury/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://databreaches.net/2025/01/03/feds-claims-just-7-of-available-funds-from-opm-breach-settlement-remainder-returns-to-treasury/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100829,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2023-33492\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33492\n\nDescription: EyouCMS 1.6.2 is vulnerable to Cross Site Scripting (XSS).\n\nPublication Date: Sat Jan 04 04:05:52 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33492"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100828,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2023-33290\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33290\n\nDescription: The git-url-parse crate through 0.4.4 for Rust allows Regular Expression Denial of Service (ReDos) via a crafted URL to normalize_url in lib.rs, a similar issue to CVE-2023-32758 (Python).\n\nPublication Date: Sat Jan 04 04:05:42 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33290",
+                "lib.rs"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100827,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2023-33253\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33253\n\nDescription: LabCollector 6.0 though 6.15 allows remote code execution. An authenticated remote low-privileged user can upload an executable PHP file and execute system commands. The vulnerability is in the message function, and is due to insufficient validation of the file (such as shell.jpg.php.shell) being sent.\n\nPublication Date: Sat Jan 04 04:05:31 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33253",
+                "shell.jpg.php.shell"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100826,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2022-38156\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-38156\n\nDescription: A remote command injection issues exists in the web server of the Kratos SpectralNet device with SpectralNet Narrowband (NB) before 1.7.5. As an admin user, an attacker can send a crafted password in order to execute Linux commands as the root user.\n\nPublication Date: Sat Jan 04 04:05:20 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-38156"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100825,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2023-32221\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-32221\n\nDescription: EaseUS Todo Backup version 20220111.390 - An omission during installation may allow a local attacker to perform privilege escalation.\n\nPublication Date: Sat Jan 04 04:05:09 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-32221"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100824,
+            "discovered": "2025-01-04",
+            "post_title": "Title: New LLM jailbreak uses models’ evaluation skills against them\n\nDate: January 4, 2025\n\nSource: https://www.scworld.com/news/new-llm-jailbreak-uses-models-evaluation-skills-against-them\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/new-llm-jailbreak-uses-models-evaluation-skills-against-them"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100823,
+            "discovered": "2025-01-04",
+            "post_title": "Title: Microsoft pushes identity management feature for Azure via Entra\n\nDate: January 4, 2025\n\nSource: https://www.scworld.com/news/microsoft-pushes-identity-management-feature-for-azure-via-entra\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/news/microsoft-pushes-identity-management-feature-for-azure-via-entra"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100822,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2023-34105\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34105\n\nDescription: SRS is a real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181. Prior to versions 5.0.157, 5.0-b1, and 6.0.48, SRS's `api-server` server is vulnerable to a drive-by command injection. An attacker may send a request to the `/api/v1/snapshots` endpoint containing any commands to be executed as part of the body of the POST request. This issue may lead to Remote Code Execution (RCE). Versions 5.0.157, 5.0-b1, and 6.0.48 contain a fix.\n\nPublication Date: Sat Jan 04 03:09:57 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34105"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100821,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2023-35035\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35035\n\nDescription: Atos Unify OpenScape 4000 Assistant V10 R1 before V10 R1.42.0 and V10 R1.34.8, Assistant V10 R0, Manager V10 R1 before V10 R1.42.0 and V10 R1.34.8, and Manager V10 R0 allow command injection by authenticated users, aka OSFOURK-23557.\n\nPublication Date: Sat Jan 04 03:09:46 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35035"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100820,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2023-34855\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34855\n\nDescription: A Cross Site Scripting (XSS) vulnerability in Youxun Electronic Equipment (Shanghai) Co., Ltd AC Centralized Management Platform v1.02.040 allows attackers to execute arbitrary code via uploading a crafted HTML file to the interface /upfile.cgi.\n\nPublication Date: Sat Jan 04 03:09:36 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34855"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100819,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2023-34581\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34581\n\nDescription: Sourcecodester Service Provider Management System v1.0 is vulnerable to SQL Injection via the ID parameter in /php-spms/?page=services/view&id=2\n\nPublication Date: Sat Jan 04 03:09:25 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34581"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100818,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2023-34494\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34494\n\nDescription: NanoMQ 0.16.5 is vulnerable to heap-use-after-free in the nano_ctx_send function of nmq_mqtt.c.\n\nPublication Date: Sat Jan 04 03:09:14 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34494"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100817,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2023-34488\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34488\n\nDescription: NanoMQ 0.17.5 is vulnerable to heap-buffer-overflow in the conn_handler function of mqtt_parser.c when it processes malformed messages.\n\nPublication Date: Sat Jan 04 03:09:03 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34488"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100816,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2023-33626\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33626\n\nDescription: D-Link DIR-600 Hardware Version B5, Firmware Version 2.18 was discovered to contain a stack overflow via the gena.cgi binary.\n\nPublication Date: Sat Jan 04 03:08:52 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33626"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100815,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2023-33625\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33625\n\nDescription: D-Link DIR-600 Hardware Version B5, Firmware Version 2.18 was discovered to contain a command injection vulnerability via the ST parameter in the lxmldbc_system() function.\n\nPublication Date: Sat Jan 04 03:08:42 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "ST"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33625"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -79818,6 +80090,533 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-38732/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80799,
+            "discovered": "2025-01-04",
+            "post_title": "Cobalt Strike Beacon Detected - 212[.]192[.]13[.]123:8443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-212-192-13-123-port-8443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-212-192-13-123-port-8443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80798,
+            "discovered": "2025-01-04",
+            "post_title": "Cobalt Strike Beacon Detected - 106[.]75[.]76[.]252:443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-106-75-76-252-port-443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-106-75-76-252-port-443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80797,
+            "discovered": "2025-01-04",
+            "post_title": "Cobalt Strike Beacon Detected - 47[.]92[.]83[.]128:443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-47-92-83-128-port-443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-47-92-83-128-port-443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80796,
+            "discovered": "2025-01-04",
+            "post_title": "Cobalt Strike Beacon Detected - 47[.]95[.]197[.]166:80 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-47-95-197-166-port-80/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-47-95-197-166-port-80/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80795,
+            "discovered": "2025-01-04",
+            "post_title": "Cobalt Strike Beacon Detected - 47[.]96[.]143[.]115:8443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-47-96-143-115-port-8443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-47-96-143-115-port-8443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80794,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-04-01-2025-7/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-04-01-2025-7/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80793,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Releases Eight Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-04-01-2025-2/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-04-01-2025-2/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80792,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Releases New Public Version of CDM Data Model Document - https://www.redpacketsecurity.com/cisa-cisa-releases-new-public-version-of-cdm-data-model-document-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-new-public-version-of-cdm-data-model-document-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80791,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Adds Three Known Exploited Vulnerabilities to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-three-known-exploited-vulnerabilities-to-catalog-04-01-2025/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-three-known-exploited-vulnerabilities-to-catalog-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80790,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA and Partners Release Joint Guidance on PRC-Affiliated Threat Actor Compromising Networks of Global Telecommunications Providers - https://www.redpacketsecurity.com/cisa-cisa-and-partners-release-joint-guidance-on-prc-affiliated-threat-actor-compromising-networks-of-global-telecommunications-providers-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA",
+                "PRC"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-and-partners-release-joint-guidance-on-prc-affiliated-threat-actor-compromising-networks-of-global-telecommunications-providers-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80789,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: Microsoft Releases December 2024 Security Updates - https://www.redpacketsecurity.com/cisa-microsoft-releases-december-2024-security-updates-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-microsoft-releases-december-2024-security-updates-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80788,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: Cisco Releases Security Updates for NX-OS Software - https://www.redpacketsecurity.com/cisa-cisco-releases-security-updates-for-nx-os-software-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisco-releases-security-updates-for-nx-os-software-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80787,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: ASD’s ACSC, CISA, and US and International Partners Release Guidance on Choosing Secure and Verifiable Technologies - https://www.redpacketsecurity.com/cisa-asd-s-acsc-cisa-and-us-and-international-partners-release-guidance-on-choosing-secure-and-verifiable-technologies-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA",
+                "US"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-asd-s-acsc-cisa-and-us-and-international-partners-release-guidance-on-choosing-secure-and-verifiable-technologies-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80786,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: Adobe Releases Security Updates for Multiple Products - https://www.redpacketsecurity.com/cisa-adobe-releases-security-updates-for-multiple-products-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-adobe-releases-security-updates-for-multiple-products-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80785,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Releases Two Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-two-industrial-control-systems-advisories-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-two-industrial-control-systems-advisories-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80784,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: Ivanti Releases Security Updates for Multiple Products - https://www.redpacketsecurity.com/cisa-ivanti-releases-security-updates-for-multiple-products-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-ivanti-releases-security-updates-for-multiple-products-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80783,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Releases Ten Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-ten-industrial-control-systems-advisories-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-ten-industrial-control-systems-advisories-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80782,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Releases Seven Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-seven-industrial-control-systems-advisories-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-seven-industrial-control-systems-advisories-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80781,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: Apple Releases Security Updates for Multiple Products - https://www.redpacketsecurity.com/cisa-apple-releases-security-updates-for-multiple-products-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-apple-releases-security-updates-for-multiple-products-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80780,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-04-01-2025-6/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-04-01-2025-6/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80779,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA and EPA Release Joint Fact Sheet Detailing Risks Internet-Exposed HMIs Pose to WWS Sector - https://www.redpacketsecurity.com/cisa-cisa-and-epa-release-joint-fact-sheet-detailing-risks-internet-exposed-hmis-pose-to-wws-sector-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-and-epa-release-joint-fact-sheet-detailing-risks-internet-exposed-hmis-pose-to-wws-sector-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80778,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-04-01-2025-5/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-04-01-2025-5/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80777,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Requests Public Comment for Draft National Cyber Incident Response Plan Update - https://www.redpacketsecurity.com/cisa-cisa-requests-public-comment-for-draft-national-cyber-incident-response-plan-update-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-requests-public-comment-for-draft-national-cyber-incident-response-plan-update-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80776,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-04-01-2025-4/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-04-01-2025-4/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80775,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Adds Two Known Exploited Vulnerabilities to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-two-known-exploited-vulnerabilities-to-catalog-04-01-2025/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-two-known-exploited-vulnerabilities-to-catalog-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80774,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA and ONCD Release Playbook for Strengthening Cybersecurity in Federal Grant Programs for Critical Infrastructure - https://www.redpacketsecurity.com/cisa-cisa-and-oncd-release-playbook-for-strengthening-cybersecurity-in-federal-grant-programs-for-critical-infrastructure-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "CISA"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-and-oncd-release-playbook-for-strengthening-cybersecurity-in-federal-grant-programs-for-critical-infrastructure-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80773,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Adds Four Known Exploited Vulnerabilities to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-four-known-exploited-vulnerabilities-to-catalog-04-01-2025/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-four-known-exploited-vulnerabilities-to-catalog-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80772,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Releases Five Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-five-industrial-control-systems-advisories-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-five-industrial-control-systems-advisories-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80771,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Releases Best Practice Guidance for Mobile Communications - https://www.redpacketsecurity.com/cisa-cisa-releases-best-practice-guidance-for-mobile-communications-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-best-practice-guidance-for-mobile-communications-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80770,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Issues BOD 25-01, Implementing Secure Practices for Cloud Services - https://www.redpacketsecurity.com/cisa-cisa-issues-bod-25-01-implementing-secure-practices-for-cloud-services-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-issues-bod-25-01-implementing-secure-practices-for-cloud-services-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80769,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-04-01-2025-3/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-04-01-2025-3/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80768,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Releases Eight Industrial Control Systems Advisories - https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80767,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-04-01-2025-2/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-04-01-2025-2/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80766,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: CISA Adds One Known Exploited Vulnerability to Catalog - https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-04-01-2025/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80765,
+            "discovered": "2025-01-04",
+            "post_title": "CISA: Fortinet Releases Security Updates for FortiManager - https://www.redpacketsecurity.com/cisa-fortinet-releases-security-updates-for-fortimanager-04-01-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-fortinet-releases-security-updates-for-fortimanager-04-01-2025/"
             ],
             "Matched Keywords": [
                 "Other"
