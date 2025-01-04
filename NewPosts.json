@@ -34610,6 +34610,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4159,
+            "discovered": "2025-01-04",
+            "post_title": "Group: eldorado\nApprox. Time: 12:37 04/01/25\nTitle: https://t.co/1sBhD1IGaJ",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/1sBhD1IGaJ"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -58162,6 +58177,81 @@
             ],
             "URLs": [
                 "maxvaluecredits.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100898,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2025-0206\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0206\n\nDescription: A vulnerability classified as critical was found in code-projects Online Shoe Store 1.0. Affected by this vulnerability is an unknown functionality of the file /admin/index.php. The manipulation leads to improper access controls. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sat Jan 04 16:02:27 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0206"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100897,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2024-13042\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-13042\n\nDescription: A vulnerability was found in Tsinghua Unigroup Electronic Archives Management System 3.2.210802(62532). It has been classified as problematic. Affected is the function download of the file /Searchnew/Subject/download.html. The manipulation of the argument path leads to information disclosure. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sat Jan 04 16:02:16 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13042"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100896,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2024-12475\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12475\n\nDescription: The WP Multi Store Locator plugin for WordPress is vulnerable to Stored Cross-Site Scripting in all versions up to, and including, 2.4.1 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Sat Jan 04 15:07:25 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12475"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100895,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2024-12279\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12279\n\nDescription: The WP Social AutoConnect plugin for WordPress is vulnerable to Cross-Site Request Forgery in all versions up to, and including, 4.6.2. This is due to missing or incorrect nonce validation on a function. This makes it possible for unauthenticated attackers to inject malicious web scripts via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.\n\nPublication Date: Sat Jan 04 15:07:15 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12279"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100894,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2024-12195\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12195\n\nDescription: The WP Project Manager – Task, team, and project management plugin featuring kanban board and gantt charts plugin for WordPress is vulnerable to SQL Injection via the 'project_id' parameter of the /wp-json/pm/v2/projects/2/task-lists REST API endpoint in all versions up to, and including, 2.6.16 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for authenticated attackers, who have been granted access to a project, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\nPublication Date: Sat Jan 04 15:07:04 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12195"
             ],
             "Matched Keywords": [
                 "Other"
@@ -82392,6 +82482,141 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/apt73-ransomware-victim-prixet-com/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80834,
+            "discovered": "2025-01-04",
+            "post_title": "Cobalt Strike Beacon Detected - 43[.]133[.]36[.]25:8088 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-43-133-36-25-port-8088/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-43-133-36-25-port-8088/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80833,
+            "discovered": "2025-01-04",
+            "post_title": "Cobalt Strike Beacon Detected - 47[.]115[.]230[.]159:8088 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-47-115-230-159-port-8088/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-47-115-230-159-port-8088/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80832,
+            "discovered": "2025-01-04",
+            "post_title": "Cobalt Strike Beacon Detected - 123[.]60[.]183[.]172:8088 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-123-60-183-172-port-8088/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-123-60-183-172-port-8088/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80831,
+            "discovered": "2025-01-04",
+            "post_title": "Cobalt Strike Beacon Detected - 38[.]207[.]177[.]216:8443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-38-207-177-216-port-8443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-38-207-177-216-port-8443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80830,
+            "discovered": "2025-01-04",
+            "post_title": "Cobalt Strike Beacon Detected - 18[.]175[.]223[.]129:443 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-18-175-223-129-port-443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-18-175-223-129-port-443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80829,
+            "discovered": "2025-01-04",
+            "post_title": "Cobalt Strike Beacon Detected - 103[.]243[.]25[.]70:6666 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-103-243-25-70-port-6666/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-103-243-25-70-port-6666/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80828,
+            "discovered": "2025-01-04",
+            "post_title": "Cobalt Strike Beacon Detected - 123[.]57[.]230[.]183:8891 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-123-57-230-183-port-8891/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-123-57-230-183-port-8891/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80827,
+            "discovered": "2025-01-04",
+            "post_title": "[RHYSIDA] - Ransomware Victim: Montreal North - https://www.redpacketsecurity.com/rhysida-ransomware-victim-montreal-north/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/rhysida-ransomware-victim-montreal-north/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80826,
+            "discovered": "2025-01-04",
+            "post_title": "[APOS] - Ransomware Victim: Auxis - https://www.redpacketsecurity.com/apos-ransomware-victim-auxis/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/apos-ransomware-victim-auxis/"
             ],
             "Matched Keywords": [
                 "Other"
