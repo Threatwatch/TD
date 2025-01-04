@@ -8197,6 +8197,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10045,
+            "discovered": "2025-01-04",
+            "post_title": "🚨Alleged Sale of Malware Toolkit (LNK + Fileless RAT/Loader)\n\nhttps://darkwebinformer.com/alleged-sale-of-malware-toolkit-lnk-fileless-rat-loader/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/alleged-sale-of-malware-toolkit-lnk-fileless-rat-loader/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -59164,6 +59179,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100923,
+            "discovered": "2025-01-04",
+            "post_title": "Title: Sinisterly - E-BOOKING ASSISTANCE\n\nDetection Date: Sun Jan 05 00:55:48 2025\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-E-BOOKING-ASSISTANCE\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-E-BOOKING-ASSISTANCE"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -83885,6 +83915,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-53838/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80859,
+            "discovered": "2025-01-04",
+            "post_title": "[FUNKSEC] - Ransomware Victim: gsw[.]co[.]in - https://www.redpacketsecurity.com/funksec-ransomware-victim-gsw-co-in/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-gsw-co-in/"
             ],
             "Matched Keywords": [
                 "Other"
