@@ -8078,6 +8078,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10036,
+            "discovered": "2025-01-04",
+            "post_title": "🚨Alleged Sale of the Phrasix Tool\n\nhttps://darkwebinformer.com/alleged-sale-of-the-phrasix-tool/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/alleged-sale-of-the-phrasix-tool/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -25485,6 +25500,19 @@
             "Message ID": 5658,
             "discovered": "2025-01-03",
             "post_title": "> go to computer store\n> computer store guy recommends norton antivirus\n> tell him no thank you\n> says viruses and malware is dangerous\n> tell him i want the malware\n\nhis reaction",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5659,
+            "discovered": "2025-01-04",
+            "post_title": "New paper additions:\n\n- 2024-07-31 - LayeredSyscall - Abusing VEH to Bypass EDRs\n- 2024-03-31 - Syscalls via Vectored Exception Handling\n- 2022-02-03 - RecycledGate - Indirect Syscalls\n- 2016-11-04 - Windows 10 Hooking Nirvana explained",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -83556,6 +83584,156 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/funksec-ransomware-victim-technotouch-co/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80858,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2025-0174 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0174/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0174/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80857,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2025-0175 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0175/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0175/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80856,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-43769 - https://www.redpacketsecurity.com/cve_alert_cve-2024-43769/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-43769/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80855,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-53842 - https://www.redpacketsecurity.com/cve_alert_cve-2024-53842/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-53842/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80854,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2025-0176 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0176/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0176/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80853,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-53837 - https://www.redpacketsecurity.com/cve_alert_cve-2024-53837/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-53837/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80852,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-53841 - https://www.redpacketsecurity.com/cve_alert_cve-2024-53841/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-53841/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80851,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-53839 - https://www.redpacketsecurity.com/cve_alert_cve-2024-53839/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-53839/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80850,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-53840 - https://www.redpacketsecurity.com/cve_alert_cve-2024-53840/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-53840/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80849,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-53838 - https://www.redpacketsecurity.com/cve_alert_cve-2024-53838/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-53838/"
             ],
             "Matched Keywords": [
                 "Other"
