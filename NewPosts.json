@@ -10581,6 +10581,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 838,
+            "discovered": "2025-01-04",
+            "post_title": "Join Our Private Channel :\n\nhttps://t.me/+UvBlMCiU0KszNGRl",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://t.me/+UvBlMCiU0KszNGRl"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -57404,6 +57419,244 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2025-0204"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100874,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: Montreal North\n\nDetection Date: Sat Jan 04 12:47:03 2025\n\nThreat Actor: rhysida\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100873,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: prixet.com\n\nDetection Date: Sat Jan 04 12:46:46 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "prixet.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100872,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: minerasancristobal.com\n\nDetection Date: Sat Jan 04 12:46:28 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "minerasancristobal.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100871,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: aliorbank.pl\n\nDetection Date: Sat Jan 04 12:46:10 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "aliorbank.pl"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100870,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: certifiedinfosec.com\n\nDetection Date: Sat Jan 04 12:45:53 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "certifiedinfosec.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100869,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: fpj.com.py  PART2\n\nDetection Date: Sat Jan 04 12:45:35 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "fpj.com.py"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100868,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: fpj.com.py PART1\n\nDetection Date: Sat Jan 04 12:45:18 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "fpj.com.py"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100867,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: polleninformation.at\n\nDetection Date: Sat Jan 04 12:45:01 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "polleninformation.at"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100866,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: protectasecurity.pe\n\nDetection Date: Sat Jan 04 12:44:44 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "protectasecurity.pe"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100865,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: lamaisonducitron.com\n\nDetection Date: Sat Jan 04 12:44:26 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "lamaisonducitron.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100864,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: baldinger-ag.ch\n\nDetection Date: Sat Jan 04 12:44:07 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "baldinger-ag.ch"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100863,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: trinitesolutions.com\n\nDetection Date: Sat Jan 04 12:43:48 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "trinitesolutions.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100862,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: northernsafety.com\n\nDetection Date: Sat Jan 04 12:42:29 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "northernsafety.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100861,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: gannons.co.uk\n\nDetection Date: Sat Jan 04 12:42:11 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware #UnitedKingdom",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "gannons.co.uk"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100860,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2024-12583\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12583\n\nDescription: The Dynamics 365 Integration plugin for WordPress is vulnerable to Remote Code Execution and Arbitrary File Read in all versions up to, and including, 1.3.23 via Twig Server-Side Template Injection. This is due to missing input validation and sanitization on the render function. This makes it possible for authenticated attackers, with Contributor-level access and above, to execute code on the server.\n\nPublication Date: Sat Jan 04 12:09:46 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12583"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100859,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2024-11930\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-11930\n\nDescription: The Taskbuilder – WordPress Project & Task Management plugin plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's wppm_tasks shortcode in all versions up to, and including, 3.0.6 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Sat Jan 04 12:09:35 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-11930"
             ],
             "Matched Keywords": [
                 "Other"
