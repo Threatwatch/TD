@@ -7887,6 +7887,66 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10026,
+            "discovered": "2025-01-04",
+            "post_title": "🚨🇯🇴TechnoTouch Has Been Claimed a Victim to Funksec Ransomware\n\n🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2025-01-04 14:18:10\n🚨 Title: TechnoTouch falls victim to Funksec Ransomware\n🛡 Victim Country: Jordan\n🏭 Victim Industry: Information Technology (IT) Services\n🏢 Victim Organization: technotouch\n🌐 Victim Site: technotouch[.co\n📜 Category: Ransomware\n🔗 Claim: Paid subscribers get access to claim URLs\n🕵️‍♂️ Threat Actor: Funksec\n🌍 Network: tor\n📝 Description: The group claims to have access to 1GB of all website database backups from TechnoTouch and plans to publish it on January 10, 2025.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Jordan"
+            ],
+            "URLs": [
+                "WebInformer.com - C"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10025,
+            "discovered": "2025-01-04",
+            "post_title": "🚨🇧🇷Alleged Admin Access Sale to a Brazilian Health Insurance Organization\n\nhttps://darkwebinformer.com/alleged-admin-access-sale-to-a-brazilian-health-insurance-organization/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/alleged-admin-access-sale-to-a-brazilian-health-insurance-organization/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10024,
+            "discovered": "2025-01-04",
+            "post_title": "🚨🚨🇨🇦Montréal-Nord Falls Victim to RHYSIDA Ransomware\n\nhttps://darkwebinformer.com/montreal-nord-falls-victim-to-rhysida-ransomware/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/montreal-nord-falls-victim-to-rhysida-ransomware/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10023,
+            "discovered": "2025-01-04",
+            "post_title": "🚨Alleged Database Leak of Breach[.]vip\n\nhttps://darkwebinformer.com/alleged-database-leak-of-breach-vip/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/alleged-database-leak-of-breach-vip/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -39174,6 +39234,37 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5246,
+            "discovered": "2025-01-04",
+            "post_title": "ID: 19930\n⚠ 2025-01-04 14:43:36\n🥷 eldorado\n🎯 perucontrols.com, Peru\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19930",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Peru"
+            ],
+            "URLs": [
+                "rucontrols.com, ",
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19930"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5245,
+            "discovered": "2025-01-04",
+            "post_title": "ID: 19931\n⚠ 2025-01-04 11:38:30\n🥷 apos\n🎯 Auxis, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19931",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19931"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -58596,6 +58687,21 @@
             ],
             "URLs": [
                 "https://thehackernews.com/2025/01/researchers-uncover-nuclei.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100911,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2025-0211\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0211\n\nDescription: A vulnerability was found in Campcodes School Faculty Scheduling System 1.0 and classified as critical. Affected by this issue is some unknown functionality of the file /admin/index.php. The manipulation of the argument page leads to file inclusion. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sat Jan 04 19:10:36 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0211"
             ],
             "Matched Keywords": [
                 "Other"
@@ -83115,6 +83221,51 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 80847,
+            "discovered": "2025-01-04",
+            "post_title": "[ELDORADO] - Ransomware Victim: Perú Controls S[.]A[.]C[.] - https://www.redpacketsecurity.com/eldorado-ransomware-victim-per-controls-s-a-c/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/eldorado-ransomware-victim-per-controls-s-a-c/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80846,
+            "discovered": "2025-01-04",
+            "post_title": "[ELDORADO] - Ransomware Victim: Inventory Management and Counting Solutions - https://www.redpacketsecurity.com/eldorado-ransomware-victim-inventory-management-and-counting-solutions/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/eldorado-ransomware-victim-inventory-management-and-counting-solutions/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80845,
+            "discovered": "2025-01-04",
+            "post_title": "[ELDORADO] - Ransomware Victim: HIDROCARBUROS ARGENTINOS S[.]A[.] - https://www.redpacketsecurity.com/eldorado-ransomware-victim-hidrocarburos-argentinos-s-a/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/eldorado-ransomware-victim-hidrocarburos-argentinos-s-a/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomware Live - Ransomware Alerts": [
@@ -88240,6 +88391,29 @@
             ],
             "URLs": [
                 "https://darkforums.st/Thread-FULL-DATABASE-Foundation-of-AICPE-All-India-Council-for-Professional-Excellence"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3645,
+            "discovered": "2025-01-04",
+            "post_title": "Hacked by FidzXploit \n\nNotes:\nDon't be too stupid to be a website developer🤣\n\nDEFACED SITE:\n\nhttps://evelyneindia.com\nhttps://wastejunction.com\nhttps://hulyacavus.com.tr/home.php\nhttps://hcev.com.tr\nhttps://4tbikecare.in/home.php\nhttps://abodekart.in/home.php\nhttps://amc.ishaneowep.com\nhttp://anseeba.ishaneowep.com\nhttps://digitalhome.life\n\n\n\n#INDOHAXSEC",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://evelyneindia.com\n",
+                "ttps://wastejunction.com\n",
+                "ttps://hulyacavus.com.tr/home.php\n",
+                "ttps://hcev.com.tr\n",
+                "ttps://4tbikecare.in/home.php\n",
+                "ttps://abodekart.in/home.php\n",
+                "ttps://amc.ishaneowep.com\n",
+                "ttp://anseeba.ishaneowep.com\n",
+                "ttps://digitalhome.life\n"
             ],
             "Matched Keywords": [
                 "Other"
