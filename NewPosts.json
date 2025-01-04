@@ -7977,6 +7977,77 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10033,
+            "discovered": "2025-01-04",
+            "post_title": "🚨🇧🇩Alleged Data Sale of Budget Management System of Bangladesh Navy\n\nhttps://darkwebinformer.com/alleged-data-sale-of-budget-management-system-of-bangladesh-navy/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/alleged-data-sale-of-budget-management-system-of-bangladesh-navy/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10032,
+            "discovered": "2025-01-04",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10031,
+            "discovered": "2025-01-04",
+            "post_title": "🚨🇺🇸Alleged Data Leak of Los Angeles High School Alumni Association\n\nhttps://darkwebinformer.com/alleged-data-leak-of-los-angeles-high-school-alumni-association/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/alleged-data-leak-of-los-angeles-high-school-alumni-association/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10030,
+            "discovered": "2025-01-04",
+            "post_title": "💡BuT wHy ArE aLl ThE sCrEeNsHoTs On ThE fEaTuRe ImAgE nOw BlUrReD?\n\nBecause I don't make money like a threat actor does. This platform requires my full-time commitment, and any money I earn from it serves two purposes: first, it allows me to live a normal life like someone working a normal job, and second, it is reinvested into the platform to support new features and cover its monthly and yearly operational costs.\n\nSorry if you think this is a bullsh*t move, but consider joining or donating. Much of the site still remains free and is still my effort to keep it updated.",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10029,
+            "discovered": "2025-01-04",
+            "post_title": "🚨🇮🇷D6X Targets the Website of Iran Transfo Trading Company\n\nhttps://darkwebinformer.com/d6x-targets-the-website-of-iran-transfo-trading-company/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/d6x-targets-the-website-of-iran-transfo-trading-company/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -30024,6 +30095,23 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1285,
+            "discovered": "2025-01-04",
+            "post_title": "\"Hi, my name is Gaza\nI am here to create a screenshot of a website. To get a screenshot - send the URL of the website.\n\nFor example http://google.com\n\n• With the help of the bot, you can check suspicious links. (IP loggers, phishing sites, etc.)\n\n• You can also add me to your chats so that I can check the links sent by group chat members.\n\nOur bot works with http and https protocols.\nIt is updated every week\"\n\n• مرحبًا، اسمي غزة\nأنا هنا لإنشاء لقطة شاشة لموقع ويب. للحصول على لقطة شاشة - أرسل عنوان URL للموقع.\n\nعلى سبيل المثال http://google.com\n\n• بمساعدة الروبوت، يمكنك التحقق من الروابط المشبوهة. (مسجلات IP، مواقع التصيد الاحتيالي، إلخ.)\n\n• يمكنك أيضًا إضافتي إلى محادثاتك حتى أتمكن من التحقق من الروابط التي يرسلها أعضاء الدردشة الجماعية.\n\nيعمل الروبوت الخاص بنا مع بروتوكولي http وhttps.\nيتم تحديثه كل أسبوع\n\n👉https://t.me/GazascreenshotBot",
+            "Attack Type": "Phishing",
+            "Location": [
+                "Gaza"
+            ],
+            "URLs": [
+                "http://google.com",
+                "http://google.com",
+                "ttps://t.me/GazascreenshotBot"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "AHU Official": [
@@ -39291,6 +39379,22 @@
             ],
             "URLs": [
                 "p://www.ransomfeed.it/index.php?page=post_details&id_post=19931"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5247,
+            "discovered": "2025-01-04",
+            "post_title": "ID: 19932\n⚠ 2025-01-04 16:49:12\n🥷 eldorado\n🎯 hasa-arg.com, Argentina\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19932",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Argentina"
+            ],
+            "URLs": [
+                "sa-arg.com, ",
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19932"
             ],
             "Matched Keywords": [
                 "Other"
@@ -58762,6 +58866,37 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2025-0213"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100915,
+            "discovered": "2025-01-04",
+            "post_title": "Title: Sinisterly - ⚜️ UPGRADE YOUR YOUTUBE ACCOUNT | 100% PRIVATE UPGRADE | LIFETIME 29.99$⚜️\n\nDetection Date: Sat Jan 04 21:23:54 2025\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-%E2%9A%9C%EF%B8%8F-UPGRADE-YOUR-YOUTUBE-ACCOUNT-100-PRIVATE-UPGRADE-LIFETIME-29-99-%E2%9A%9C%EF%B8%8F\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-%E2%9A%9C%EF%B8%8F-UPGRADE-YOUR-YOUTUBE-ACCOUNT-100-PRIVATE-UPGRADE-LIFETIME-29-99-%E2%9A%9C%EF%B8%8F"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100914,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2025-0214\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0214\n\nDescription: A vulnerability was found in TMD Custom Header Menu 4.0.0.1 on OpenCart. It has been rated as problematic. This issue affects some unknown processing of the file /admin/index.php. The manipulation of the argument headermenu_id leads to sql injection. The attack may be initiated remotely. The complexity of an attack is rather high. The exploitation is known to be difficult. The exploit has been disclosed to the public and may be used. It is recommended to upgrade the affected component.\n\nPublication Date: Sat Jan 04 21:02:13 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0214",
+                "4.0.0.1"
             ],
             "Matched Keywords": [
                 "Other"
@@ -83322,6 +83457,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/eldorado-ransomware-victim-hidrocarburos-argentinos-s-a/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80848,
+            "discovered": "2025-01-04",
+            "post_title": "[FUNKSEC] - Ransomware Victim: technotouch[.]co - https://www.redpacketsecurity.com/funksec-ransomware-victim-technotouch-co/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/funksec-ransomware-victim-technotouch-co/"
             ],
             "Matched Keywords": [
                 "Other"
