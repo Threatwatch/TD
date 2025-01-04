@@ -8048,6 +8048,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10035,
+            "discovered": "2025-01-04",
+            "post_title": "🚨Alleged Database Leak of Assetto Corsa Mods\n\nhttps://darkwebinformer.com/alleged-database-leak-of-assetto-corsa-mods/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/alleged-database-leak-of-assetto-corsa-mods/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10034,
+            "discovered": "2025-01-04",
+            "post_title": "\"What Happens When Hacker From Anonymous Meets FBI Agent In Interview\"\n\nCredit: youtube.com/@Flaawsometalk\nVideo Date: November 2017",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "youtube.com/@Flaawsometalk"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -58898,6 +58928,60 @@
                 "https://nvd.nist.gov/vuln/detail/CVE-2025-0214",
                 "4.0.0.1"
             ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100919,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: Auxis\n\nDetection Date: Sat Jan 04 22:08:32 2025\n\nThreat Actor: apos\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100918,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: technotouch.co ransom\n\nDetection Date: Sat Jan 04 21:57:17 2025\n\nThreat Actor: funksec\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "technotouch.co"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100917,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: Welcome to BlackZone\n\nDetection Date: Sat Jan 04 21:56:59 2025\n\nThreat Actor: funksec\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100916,
+            "discovered": "2025-01-04",
+            "post_title": "Victim:  Funksec V1.2 \n\nDetection Date: Sat Jan 04 21:56:41 2025\n\nThreat Actor: funksec\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
             "Matched Keywords": [
                 "Other"
             ]
