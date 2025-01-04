@@ -16416,6 +16416,33 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1623,
+            "discovered": "2025-01-04",
+            "post_title": "🚨Cyberattack Alert ‼️\n\n🇨🇦Canada - Montréal Nord\n\nRhysida ransomware group claims to have breached Montréal Nord. \n\nRansom demand: 10 BTC (approx. $1,000,000).\nRansom deadline: 11th Jan 25.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Canada",
+                "Rhysida"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1622,
+            "discovered": "2025-01-04",
+            "post_title": "🚨Cyberattack Alert ‼️\n\n🇮🇳India - Maxvalue Credits and Investments\n\nQilin ransomware group claims to have breached Maxvalue Credits and Investments. \n\nRansom deadline: 15th Jan 24.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Qilin"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -34382,6 +34409,199 @@
             "Message ID": 4142,
             "discovered": "2025-01-03",
             "post_title": "Group: hunters\nApprox. Time: 12:40 03/01/25\nTitle: Nikki-Universal Co Ltd",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4158,
+            "discovered": "2025-01-04",
+            "post_title": "Group: bashe\nApprox. Time: 10:39 04/01/25\nTitle: https://t.co/8TQxZ0plhU",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/8TQxZ0plhU"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4157,
+            "discovered": "2025-01-04",
+            "post_title": "Group: bashe\nApprox. Time: 10:39 04/01/25\nTitle: https://t.co/W8ZqYfqp7E",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/W8ZqYfqp7E"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4156,
+            "discovered": "2025-01-04",
+            "post_title": "Group: bashe\nApprox. Time: 10:39 04/01/25\nTitle: https://t.co/6stLTykuvn PART3",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/6stLTykuvn"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4155,
+            "discovered": "2025-01-04",
+            "post_title": "Group: bashe\nApprox. Time: 10:39 04/01/25\nTitle: https://t.co/6stLTykuvn PART1",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/6stLTykuvn"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4154,
+            "discovered": "2025-01-04",
+            "post_title": "Group: bashe\nApprox. Time: 10:39 04/01/25\nTitle: https://t.co/6stLTykuvn  PART2",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/6stLTykuvn"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4153,
+            "discovered": "2025-01-04",
+            "post_title": "Group: bashe\nApprox. Time: 10:39 04/01/25\nTitle: https://t.co/6IGAficb8z",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/6IGAficb8z"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4152,
+            "discovered": "2025-01-04",
+            "post_title": "Group: bashe\nApprox. Time: 10:39 04/01/25\nTitle: https://t.co/3N60OvlFYk",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/3N60OvlFYk"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4151,
+            "discovered": "2025-01-04",
+            "post_title": "Group: bashe\nApprox. Time: 10:39 04/01/25\nTitle: https://t.co/HtEH38o8wR",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/HtEH38o8wR"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4150,
+            "discovered": "2025-01-04",
+            "post_title": "Group: bashe\nApprox. Time: 10:39 04/01/25\nTitle: https://t.co/KNTh9Pd7yr",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/KNTh9Pd7yr"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4149,
+            "discovered": "2025-01-04",
+            "post_title": "Group: bashe\nApprox. Time: 10:39 04/01/25\nTitle: https://t.co/r9c2WeQZVy",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/r9c2WeQZVy"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4148,
+            "discovered": "2025-01-04",
+            "post_title": "Group: bashe\nApprox. Time: 10:39 04/01/25\nTitle: https://t.co/v6rCECA9tw",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/v6rCECA9tw"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4147,
+            "discovered": "2025-01-04",
+            "post_title": "Group: bashe\nApprox. Time: 10:39 04/01/25\nTitle: https://t.co/pvYqznrAwV",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/pvYqznrAwV"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4146,
+            "discovered": "2025-01-04",
+            "post_title": "Group: rhysida\nApprox. Time: 10:38 04/01/25\nTitle: Montreal North",
             "Attack Type": "Unknown",
             "Location": [
                 "Approx"
@@ -57657,6 +57877,291 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-11930"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100893,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2025-0205\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0205\n\nDescription: A vulnerability classified as critical has been found in code-projects Online Shoe Store 1.0. Affected is an unknown function of the file /details2.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sat Jan 04 13:06:18 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0205"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100892,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2024-12221\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12221\n\nDescription: The Turnkey bbPress by WeaverTheme plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the ‘_wpnonce’ parameter in all versions up to, and including, 1.6.3 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.\n\nPublication Date: Sat Jan 04 13:06:07 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12221"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100891,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: bms.com\n\nDetection Date: Sat Jan 04 13:05:17 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "bms.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100890,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: fpj.com.py PART3\n\nDetection Date: Sat Jan 04 13:04:58 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "fpj.com.py"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100889,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: siapenet.gov.br\n\nDetection Date: Sat Jan 04 13:04:02 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "siapenet.gov.br"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100888,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: sansirostadium.com\n\nDetection Date: Sat Jan 04 13:03:44 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "sansirostadium.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100887,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: sella.eng.br\n\nDetection Date: Sat Jan 04 13:03:26 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "sella.eng.br"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100886,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: netromsoftware.ro\n\nDetection Date: Sat Jan 04 13:03:08 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "netromsoftware.ro"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100885,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: sfr.fr\n\nDetection Date: Sat Jan 04 13:02:07 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "sfr.fr"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100884,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: assurified.com\n\nDetection Date: Sat Jan 04 13:01:49 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "assurified.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100883,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: scopeset.de\n\nDetection Date: Sat Jan 04 13:01:31 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "scopeset.de"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100882,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: legilog.fr\n\nDetection Date: Sat Jan 04 13:01:13 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "legilog.fr"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100881,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: talonsolutions.co.uk\n\nDetection Date: Sat Jan 04 13:00:55 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware #UnitedKingdom",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "talonsolutions.co.uk"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100880,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: pindrophearing.co.uk\n\nDetection Date: Sat Jan 04 13:00:37 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware #UnitedKingdom",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "pindrophearing.co.uk"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100879,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: bigalsfoodservice.co.uk\n\nDetection Date: Sat Jan 04 13:00:20 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware #UnitedKingdom",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "bigalsfoodservice.co.uk"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100878,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: servicepower.com\n\nDetection Date: Sat Jan 04 13:00:03 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "servicepower.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100877,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: credio.eu\n\nDetection Date: Sat Jan 04 12:59:45 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "credio.eu"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100876,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: trifecta.com\n\nDetection Date: Sat Jan 04 12:59:27 2025\n\nThreat Actor: eraleign (apt73)\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "trifecta.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100875,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: maxvaluecredits.com\n\nDetection Date: Sat Jan 04 12:59:10 2025\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "maxvaluecredits.com"
             ],
             "Matched Keywords": [
                 "Other"
@@ -81662,6 +82167,231 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-55897/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80825,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-56321 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56321/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56321/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80824,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-55078 - https://www.redpacketsecurity.com/cve_alert_cve-2024-55078/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-55078/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80823,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-48814 - https://www.redpacketsecurity.com/cve_alert_cve-2024-48814/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-48814/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80822,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-41780 - https://www.redpacketsecurity.com/cve_alert_cve-2024-41780/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-41780/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80821,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-55507 - https://www.redpacketsecurity.com/cve_alert_cve-2024-55507/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-55507/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80820,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2025-0196 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0196/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0196/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80819,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2025-21610 - https://www.redpacketsecurity.com/cve_alert_cve-2025-21610/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-21610/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80818,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-35365 - https://www.redpacketsecurity.com/cve_alert_cve-2024-35365/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-35365/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80817,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2025-0195 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0195/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0195/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80816,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-36613 - https://www.redpacketsecurity.com/cve_alert_cve-2024-36613/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-36613/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80815,
+            "discovered": "2025-01-04",
+            "post_title": "[APT73] - Ransomware Victim: minerasancristobal[.]com - https://www.redpacketsecurity.com/apt73-ransomware-victim-minerasancristobal-com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/apt73-ransomware-victim-minerasancristobal-com/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80814,
+            "discovered": "2025-01-04",
+            "post_title": "[QILIN] - Ransomware Victim: YorkTest Laboratories - https://www.redpacketsecurity.com/qilin-ransomware-victim-yorktest-laboratories/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/qilin-ransomware-victim-yorktest-laboratories/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80813,
+            "discovered": "2025-01-04",
+            "post_title": "[QILIN] - Ransomware Victim: www[.]smawins[.]com - https://www.redpacketsecurity.com/qilin-ransomware-victim-www-smawins-com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/qilin-ransomware-victim-www-smawins-com/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80812,
+            "discovered": "2025-01-04",
+            "post_title": "[QILIN] - Ransomware Victim: maxvaluecredits[.]com - https://www.redpacketsecurity.com/qilin-ransomware-victim-maxvaluecredits-com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/qilin-ransomware-victim-maxvaluecredits-com/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80811,
+            "discovered": "2025-01-04",
+            "post_title": "[APT73] - Ransomware Victim: prixet[.]com - https://www.redpacketsecurity.com/apt73-ransomware-victim-prixet-com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/apt73-ransomware-victim-prixet-com/"
             ],
             "Matched Keywords": [
                 "Other"
