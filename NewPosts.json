@@ -8093,6 +8093,110 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10044,
+            "discovered": "2025-01-04",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10043,
+            "discovered": "2025-01-04",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10042,
+            "discovered": "2025-01-04",
+            "post_title": "🚨🇺🇸A Threat Actor *Claims* to have Leaked the Data of Social Security Administration in USA\n\nWhile the data does look genuine, it doesn't appear to be from the SSA, maybe from a loan processor or something of that sort. There is also some data within certain fields that just aren't correct, like an email address showing in the Address field and some other things. However, if you happen to be one of the lucky million in  this sheet, it's best to start locking down your information. The example screenshots from excel, are my own.\n\n- 1,033,964 lines of data\n\n- Fields: IP_Address  First_Name  Last_Name  Address  City  State  Email  Zip  Home_Phone  Work_Phone  Requested_Loan_Amount  SSN  Date_Of_Birth  Drivers_License  Drivers_License_State  Income_Type  Occupation  Net_Monthly_Income  Pay_Period  Paycheck_Type  Employer  Account_Type  Routing_Number  Bank_Name  Account_Number",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10041,
+            "discovered": "2025-01-04",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10040,
+            "discovered": "2025-01-04",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10039,
+            "discovered": "2025-01-04",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10038,
+            "discovered": "2025-01-04",
+            "post_title": "- 3 Onions added to Everything Else; Darknet Market Bible (also on my GitHub), The Drug Users Bible (the author owns this) and The Northern California Illicit Digital Economy (NCIDE) Task Force\n\n- 1 onion added to Hosting; Eternal Hosting\n\nScreenshots below",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10037,
+            "discovered": "2025-01-04",
+            "post_title": "- 6 Telegram Hacktivist channels added for paid subscribers.\n\n- 1 Vendor Shop Onion added: TopShellNL",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -59010,6 +59114,53 @@
                 "N/A"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100922,
+            "discovered": "2025-01-04",
+            "post_title": "Target: https://pabnapourashava.gov.bd/m-1.txt\n\nNotified: moncet\n\nDate: Sat, 04 Jan 2025 21:20:39 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313742\n\n#Defacements #Bangladesh",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://pabnapourashava.gov.bd/m-1.txt",
+                "http://www.zone-h.org/mirror/id/41313742"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100921,
+            "discovered": "2025-01-04",
+            "post_title": "Title: Sinisterly - ⚡ #1 Logs Shop - ⭐OnlyFans ⭐IPVanish ⭐HBO ⭐Nord ⭐Netflix ⭐Hulu & more...⚡\n\nDetection Date: Sat Jan 04 23:58:24 2025\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-Gold-%E2%9A%A1-1-Logs-Shop-%E2%AD%90OnlyFans-%E2%AD%90IPVanish-%E2%AD%90HBO-%E2%AD%90Nord-%E2%AD%90Netflix-%E2%AD%90Hulu-more-%E2%9A%A1\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "https://sinister.ly/Thread-Gold-%E2%9A%A1-1-Logs-Shop-%E2%AD%90OnlyFans-%E2%AD%90IPVanish-%E2%AD%90HBO-%E2%AD%90Nord-%E2%AD%90Netflix-%E2%AD%90Hulu-more-%E2%9A%A1"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-Gold-%E2%9A%A1-1-Logs-Shop-%E2%AD%90OnlyFans-%E2%AD%90IPVanish-%E2%AD%90HBO-%E2%AD%90Nord-%E2%AD%90Netflix-%E2%AD%90Hulu-more-%E2%9A%A1"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100920,
+            "discovered": "2025-01-04",
+            "post_title": "Target: https://mndpt.gov.mg/hack.txt\n\nNotified: SABUNMANDI CYBER TEAM\n\nDate: Sat, 04 Jan 2025 20:44:49 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313740\n\n#Defacements #Madagascar",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://mndpt.gov.mg/hack.txt",
+                "http://www.zone-h.org/mirror/id/41313740"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
