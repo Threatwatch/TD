@@ -10566,6 +10566,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 837,
+            "discovered": "2025-01-04",
+            "post_title": "https://news.housefun.com.tw/news/article/802498450750.html",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://news.housefun.com.tw/news/article/802498450750.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -18192,6 +18207,19 @@
             "Message ID": 1999,
             "discovered": "2025-01-02",
             "post_title": "🙂",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 2002,
+            "discovered": "2025-01-04",
+            "post_title": "No Text Content",
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
@@ -57168,6 +57196,47 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2025-0202"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100849,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: YorkTest Laboratories\n\nDetection Date: Sat Jan 04 10:50:36 2025\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100848,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: lscd\n\nDetection Date: Sat Jan 04 10:50:19 2025\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100847,
+            "discovered": "2025-01-04",
+            "post_title": "Title: U.S. Treasury Sanctions Beijing Cybersecurity Firm for State-Backed Hacking Campaigns\n\nDate: Jan 04, 2025\n\nSource: https://thehackernews.com/2025/01/us-treasury-sanctions-beijing.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2025/01/us-treasury-sanctions-beijing.html"
             ],
             "Matched Keywords": [
                 "Other"
