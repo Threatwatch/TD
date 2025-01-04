@@ -38728,6 +38728,38 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5240,
+            "discovered": "2025-01-04",
+            "post_title": "ID: 19895\n⚠ 2025-01-04 08:44:00\n🥷 qilin\n🎯 lscd, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19895",
+            "Attack Type": "Unknown",
+            "Location": [
+                "qilin",
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19895"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5239,
+            "discovered": "2025-01-04",
+            "post_title": "ID: 19896\n⚠ 2025-01-04 08:43:59\n🥷 qilin\n🎯 YorkTest Laboratories, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19896",
+            "Attack Type": "Unknown",
+            "Location": [
+                "qilin",
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19896"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -57237,6 +57269,141 @@
             ],
             "URLs": [
                 "https://thehackernews.com/2025/01/us-treasury-sanctions-beijing.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100858,
+            "discovered": "2025-01-04",
+            "post_title": "Victim: www.smawins.com\n\nDetection Date: Sat Jan 04 11:46:54 2025\n\nThreat Actor: qilin\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "www.smawins.com"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100857,
+            "discovered": "2025-01-04",
+            "post_title": "Title: PLAYFULGHOST Delivered via Phishing and SEO Poisoning in Trojanized VPN Apps\n\nDate: Jan 04, 2025\n\nSource: https://thehackernews.com/2025/01/playfulghost-delivered-via-phishing-and.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2025/01/playfulghost-delivered-via-phishing-and.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100856,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2025-0203\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0203\n\nDescription: A vulnerability was found in code-projects Student Management System 1.0. It has been declared as critical. This vulnerability affects the function showSubject1 of the file /config/DbFunction.php. The manipulation of the argument sid leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. Other parameters might be affected as well.\n\nPublication Date: Sat Jan 04 11:03:27 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0203"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100855,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2024-12047\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12047\n\nDescription: The WP Compress – Instant Performance & Speed Optimization plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the ‘custom_server’ parameter in all versions up to, and including, 6.30.03 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.\n\nPublication Date: Sat Jan 04 11:03:16 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12047"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100854,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2024-12701\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12701\n\nDescription: The WP Smart Import : Import any XML File to WordPress plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the ‘ page’ parameter in all versions up to, and including, 1.1.2 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.\n\nPublication Date: Sat Jan 04 11:03:05 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12701"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100853,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2024-11974\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-11974\n\nDescription: The Media Library Assistant plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the ‘smc_settings_tab', 'unattachfixit-action', and 'woofixit-action’ parameters in all versions up to, and including, 3.23 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.\n\nPublication Date: Sat Jan 04 11:02:54 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-11974"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100852,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2024-12545\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12545\n\nDescription: The Scratch & Win – Giveaways and Contests. Boost subscribers, traffic, repeat visits,  referrals, sales and more plugin for WordPress is vulnerable to Cross-Site Request Forgery in all versions up to, and including, 2.7.1. This is due to missing nonce validation on the reset_installation() function. This makes it possible for unauthenticated attackers to reset the plugin’s installation via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.\n\nPublication Date: Sat Jan 04 11:02:43 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12545"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100851,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2024-10932\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-10932\n\nDescription: The Backup Migration plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 1.4.6 via deserialization of untrusted input in the 'recursive_unserialize_replace' function. This makes it possible for unauthenticated attackers to inject a PHP Object. The additional presence of a POP chain allows attackers to delete arbitrary files, retrieve sensitive data, or execute code. An administrator must create a staging site in order to trigger the exploit.\n\nPublication Date: Sat Jan 04 11:02:32 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-10932"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100850,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2025-0204\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0204\n\nDescription: A vulnerability was found in code-projects Online Shoe Store 1.0. It has been rated as critical. This issue affects some unknown processing of the file /details.php. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sat Jan 04 11:02:22 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0204"
             ],
             "Matched Keywords": [
                 "Other"
