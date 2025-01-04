@@ -7844,6 +7844,34 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10021,
+            "discovered": "2025-01-04",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10020,
+            "discovered": "2025-01-04",
+            "post_title": "From Troll to FBI's Most Wanted Hacker\n\nCredit: https://www.youtube.com/@Crumb",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.youtube.com/@Crumb"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -56891,6 +56919,111 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100837,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2025-22386\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-22386\n\nDescription: An issue was discovered in Optimizely Configured Commerce before 5.2.2408. A medium-severity session issue exists in the Commerce B2B application, affecting the longevity of active sessions in the storefront. This allows session tokens tied to logged-out sessions to still be active and usable.\n\nPublication Date: Sat Jan 04 06:02:49 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-22386"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100836,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2025-22387\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-22387\n\nDescription: An issue was discovered in Optimizely Configured Commerce before 5.2.2408. A medium-severity issue exists in requests for resources where the session token is submitted as a URL parameter. This exposes information about the authenticated session, which can be leveraged for session hijacking.\n\nPublication Date: Sat Jan 04 06:02:39 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-22387"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100835,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2025-22388\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-22388\n\nDescription: An issue was discovered in Optimizely EPiServer.CMS.Core before 12.22.0. A high-severity Stored Cross-Site Scripting (XSS) vulnerability exists in the CMS, allowing malicious actors to inject and execute arbitrary JavaScript code, potentially compromising user data, escalating privileges, or executing unauthorized actions. The issue exists in multiple areas, including content editing, link management, and file uploads.\n\nPublication Date: Sat Jan 04 06:02:28 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-22388"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100834,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2025-22389\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-22389\n\nDescription: An issue was discovered in Optimizely EPiServer.CMS.Core before 12.32.0. A medium-severity vulnerability exists in the CMS, where the application does not properly validate uploaded files. This allows the upload of potentially malicious file types, including .docm .html. When accessed by application users, these files can be used to execute malicious actions or compromise users' systems.\n\nPublication Date: Sat Jan 04 06:02:17 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-22389"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100833,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2025-22390\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-22390\n\nDescription: An issue was discovered in Optimizely EPiServer.CMS.Core before 12.32.0. A medium-severity vulnerability exists in the CMS due to insufficient enforcement of password complexity requirements. The application permits users to set passwords with a minimum length of 6 characters, lacking adequate complexity to resist modern attack techniques such as password spraying or offline password cracking.\n\nPublication Date: Sat Jan 04 06:02:06 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-22390"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100832,
+            "discovered": "2025-01-04",
+            "post_title": "Title: DemonForums - China Kuaishou Shopping Order 351M\n\nDetection Date: Sat Jan 04 06:01:32 2025\n\nSource: demonforums\n\nURL: https://demonforums.net/Thread-China-Kuaishou-Shopping-Order-351M\n\n#darkforums #leak #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://demonforums.net/Thread-China-Kuaishou-Shopping-Order-351M"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100831,
+            "discovered": "2025-01-04",
+            "post_title": "Title: Khalil Center’s impressively rapid incident response\n\nDate: January 4, 2025\n\nSource: https://databreaches.net/2025/01/03/khalil-centers-impressively-rapid-incident-response/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://databreaches.net/2025/01/03/khalil-centers-impressively-rapid-incident-response/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -80617,6 +80750,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cisa-fortinet-releases-security-updates-for-fortimanager-04-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80800,
+            "discovered": "2025-01-04",
+            "post_title": "GLAMIRA - 999,999 breached accounts - https://www.redpacketsecurity.com/glamira-999-999-breached-accounts/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/glamira-999-999-breached-accounts/"
             ],
             "Matched Keywords": [
                 "Other"
