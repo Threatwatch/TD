@@ -8212,6 +8212,92 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10051,
+            "discovered": "2025-01-04",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10050,
+            "discovered": "2025-01-04",
+            "post_title": "💡Curious to know if you want me to bring back the Darknetlive articles, as some sort of archive on the platform? From looking at the scrape I took, there is about 700-1000 articles left behind and captured all images and posts.\n\nWhat is Darknetlive? It's a website that documented news related to the Dark Web; vendors getting arrested, Darknet Market news, etc. Archive link: https://archive.is/Pqwm9\n\nWho ran it? The exit-scamming extortionist admin from Incognito Market",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://archive.is/Pqwm9\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10049,
+            "discovered": "2025-01-04",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10048,
+            "discovered": "2025-01-04",
+            "post_title": "💡The National Police of the Netherlands Onion has been added to Everything Else; https://darkwebinformer.com/everything-else/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/everything-else/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10047,
+            "discovered": "2025-01-04",
+            "post_title": "💡Daily Dose of Dark Web Informer - January 4th, 2025\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-january-4th-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-january-4th-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10046,
+            "discovered": "2025-01-04",
+            "post_title": "https://www.wiz.io/blog/nuclei-signature-verification-bypass",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.wiz.io/blog/nuclei-signature-verification-bypass"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -59190,6 +59276,21 @@
             ],
             "URLs": [
                 "https://sinister.ly/Thread-E-BOOKING-ASSISTANCE"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100924,
+            "discovered": "2025-01-04",
+            "post_title": "Title: Nuclei flaw bypasses template signature checks to execute commands\n\nDate: January 04, 2025\n\nSource: https://www.bleepingcomputer.com/news/security/nuclei-flaw-bypasses-template-signature-checks-to-execute-commands/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/nuclei-flaw-bypasses-template-signature-checks-to-execute-commands/"
             ],
             "Matched Keywords": [
                 "Other"
