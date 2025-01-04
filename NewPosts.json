@@ -57099,6 +57099,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100843,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2025-0201\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0201\n\nDescription: A vulnerability was found in code-projects Point of Sales and Inventory Management System 1.0 and classified as critical. Affected by this issue is some unknown functionality of the file /user/update_account.php. The manipulation of the argument username leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sat Jan 04 08:04:08 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0201"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -61364,6 +61379,77 @@
                 "AI"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27041,
+            "discovered": "2025-01-04",
+            "post_title": "Anonymous Sudan destroyed the infrastructure of the Ugandan ICT Centre\nدمرنا البنية التحتية لمركز تكنولوجيا المعلومات والاتصالات الأوغندي \n\n● https://check-host.net/check-report/21f2f3a2k2c9\n● https://check-host.net/check-report/21f3127ckeff\n\n- Anonymous Sudan\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://check-host.net/check-report/21f2f3a2k2c9",
+                "https://check-host.net/check-report/21f3127ckeff"
+            ],
+            "Matched Keywords": [
+                "Ict"
+            ]
+        },
+        {
+            "Message ID": 27040,
+            "discovered": "2025-01-04",
+            "post_title": "Ugandan Airlines is out of service | الخطوط الجوية الأوغندية خارج الخدمة\n\n● https://check-host.net/check-report/21f222c7k2c2\n● https://check-host.net/check-report/21f264ebkdf1\n\n- Anonymous Sudan\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://check-host.net/check-report/21f222c7k2c2",
+                "https://check-host.net/check-report/21f264ebkdf1"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27039,
+            "discovered": "2025-01-04",
+            "post_title": "Anonymous Sudan have disabled the digital infrastructure of the Ugandan Electricity Generation Company Limited (UEGCL)\nتمكنا من تعطيل البنية التحتية الرقمية لشركة توليد الكهرباء الأوغندية\n\n\n\n⚡️Our attack targeted the core systems of UEGCL, disrupting their website and potentially halting the flow of critical information to the public and internal systems.\nWe successfully executed a decisive operation that paralyzed their online platform, which serves as the backbone for their communication with stakeholders. This marks a significant blow to an entity that prides itself on powering Uganda's development.\n\n⚡️ استهدف هجومنا الأنظمة الأساسية لشركة توليد الكهرباء الأوغندية، مما أدى إلى تعطيل موقعها الإلكتروني وربما إيقاف تدفق المعلومات الحيوية للجمهور والأنظمة الداخلية.\nلقد نفذنا عملية حاسمة شلت منصتهم الإلكترونية، التي تعتبر العمود الفقري لتواصلهم مع الشركاء، مما يشكل ضربة كبيرة لكيان يفخر بتغذية التنمية في أوغندا.\n\n• https://check-host.net/check-report/21f8b6fdk801\n• https://check-host.net/check-report/21f8b4b7k694\n• https://check-host.net/check-report/21f8b36dke43\n• https://check-host.net/check-report/21f8d73fk4b6\n• https://check-host.net/check-report/21f8c34bk1de\n\n- Anonymous Sudan \n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Uganda",
+                "بتغذية"
+            ],
+            "URLs": [
+                "https://check-host.net/check-report/21f8b6fdk801",
+                "https://check-host.net/check-report/21f8b4b7k694",
+                "https://check-host.net/check-report/21f8b36dke43",
+                "https://check-host.net/check-report/21f8d73fk4b6",
+                "https://check-host.net/check-report/21f8c34bk1de"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27038,
+            "discovered": "2025-01-04",
+            "post_title": "⚡️Anonymous Sudan have disabled the digital infrastructure of the Petroleum Authority of Uganda (PAU)\nقمنا بتخريب البنية التحتية الرقمية لهيئة البترول الأوغندية\n\n⚡️Our cyber operation successfully targeted the core digital systems of PAU, resulting in the complete disruption of their website and critical communication networks, By rendering their platform inoperative, we have effectively halted their ability to engage with stakeholders and manage key operations. This decisive action exposes the vulnerabilities of an institution that claims to oversee Uganda's natural resources transparently and effectively.\n\n⚡️ تمكنا من استهداف الأنظمة الأساسية لهيئة البترول الأوغندية، مما أدى إلى تعطيل موقعها الإلكتروني بالكامل وشل قنوات الاتصال الحيوية، هذا الإجراء يؤكد ضعف البنية التحتية الرقمية لدولة يوغندا، ويكشف زيف الادعاءات المتعلقة بالشفافية والاحترافية في إدارة موارد البلاد.\n\n❕Proof of Attack:\n• https://check-host.net/check-report/21f97769k9c8\n• https://check-host.net/check-report/21f97457kdaf\n• https://check-host.net/check-report/21f96902k5d4\n• https://check-host.net/check-report/21f9667bk879\n\n- Anonymous Sudan \n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Sudan",
+                "Uganda"
+            ],
+            "URLs": [
+                "https://check-host.net/check-report/21f97769k9c8",
+                "https://check-host.net/check-report/21f97457kdaf",
+                "https://check-host.net/check-report/21f96902k5d4",
+                "https://check-host.net/check-report/21f9667bk879"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
@@ -80866,6 +80952,156 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/glamira-999-999-breached-accounts/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80810,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-56332 - https://www.redpacketsecurity.com/cve_alert_cve-2024-56332/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-56332/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80809,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2025-0198 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0198/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0198/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80808,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-13129 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13129/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13129/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80807,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2025-0197 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0197/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0197/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80806,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2025-22376 - https://www.redpacketsecurity.com/cve_alert_cve-2025-22376/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-22376/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80805,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-12237 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12237/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12237/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80804,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2025-0199 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0199/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0199/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80803,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-11733 - https://www.redpacketsecurity.com/cve_alert_cve-2024-11733/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-11733/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80802,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-55896 - https://www.redpacketsecurity.com/cve_alert_cve-2024-55896/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-55896/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80801,
+            "discovered": "2025-01-04",
+            "post_title": "CVE Alert: CVE-2024-55897 - https://www.redpacketsecurity.com/cve_alert_cve-2024-55897/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-55897/"
             ],
             "Matched Keywords": [
                 "Other"
