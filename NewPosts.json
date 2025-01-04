@@ -57024,6 +57024,66 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100841,
+            "discovered": "2025-01-04",
+            "post_title": "Title: India’s Digital Data Protection Framework: Safety, Trust and Resilience\n\nDate: January 4, 2025\n\nSource: https://databreaches.net/2025/01/03/indias-digital-data-protection-framework-safety-trust-and-resilience/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "India"
+            ],
+            "URLs": [
+                "https://databreaches.net/2025/01/03/indias-digital-data-protection-framework-safety-trust-and-resilience/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100840,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2025-22383\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-22383\n\nDescription: An issue was discovered in Optimizely Configured Commerce before 5.2.2408. A medium-severity input validation issue exists in the Commerce B2B application, affecting the Contact Us functionality. This allows visitors to send e-mail messages that could contain unfiltered HTML markup in specific scenarios.\n\nPublication Date: Sat Jan 04 06:03:22 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-22383"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100839,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2025-22384\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-22384\n\nDescription: An issue was discovered in Optimizely Configured Commerce before 5.2.2408. A medium-severity issue concerning business logic exists in the Commerce B2B application, which allows storefront visitors to purchase discontinued products in specific scenarios where requests are altered before reaching the server.\n\nPublication Date: Sat Jan 04 06:03:11 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-22384"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100838,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2025-22385\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-22385\n\nDescription: An issue was discovered in Optimizely Configured Commerce before 5.2.2408. For newly created accounts, the Commerce B2B application does not require email confirmation. This medium-severity issue allows the mass creation of accounts. This could affect database storage; also, non-requested storefront accounts can be created on behalf of visitors.\n\nPublication Date: Sat Jan 04 06:03:00 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-22385"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
