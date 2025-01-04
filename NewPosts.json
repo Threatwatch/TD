@@ -57084,6 +57084,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100842,
+            "discovered": "2025-01-04",
+            "post_title": "CVE-ID: CVE-2025-0200\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0200\n\nDescription: A vulnerability has been found in code-projects Point of Sales and Inventory Management System 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /user/search_num.php. The manipulation of the argument search leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sat Jan 04 07:09:19 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0200"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -61321,6 +61336,32 @@
             "Attack Type": "Unknown",
             "Location": [
                 "Israel"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27037,
+            "discovered": "2025-01-04",
+            "post_title": "⚡️Apple will pay $95M to settle claims that Siri accidentally recorded and shared private conversations with third parties.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27036,
+            "discovered": "2025-01-04",
+            "post_title": "⚡️ALERT: New multi-turn jailbreaking attack, Bad Likert Judge, cleverly bypasses AI safety measures across six major platforms, including AWS, Google, and NVIDIA.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "AI"
             ],
             "URLs": [],
             "Matched Keywords": [
