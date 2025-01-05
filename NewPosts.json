@@ -8563,6 +8563,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10071,
+            "discovered": "2025-01-05",
+            "post_title": "💡Changelog updated. All changes: https://darkwebinformer.com/changelog\n\n🌟 Version 3.54 - January 5th, 2025\n\n🎉 New Features:\n\n* \n\n⚙️ Improvements:\n\n* Added 9 Telegram Channels (Hacktivist)\n* Added 6 Different Onions (Everything Else, Hosting, Vendor Shop)\n* Moved 3 sites from Everything Else to Security (all are OpSec related)\n* Added 2 Darknet Market PGPs and 4 Darknet Market admin PGPs. Also added 2 other PGPs to VIP PGPs paid subscribers area.\n\n🐛 Bug Fixes:\n\n* \n\n🐛 Open Bugs:\n\n* Mobile: Threat Feeds only look proper when changing to desktop site.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Changelog"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/changelog\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -60524,6 +60539,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100976,
+            "discovered": "2025-01-05",
+            "post_title": "Title: Windows 10 users urged to upgrade to avoid \"security fiasco\"\n\nDate: January 05, 2025\n\nSource: https://www.bleepingcomputer.com/news/microsoft/windows-10-users-urged-to-upgrade-to-avoid-security-fiasco/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/microsoft/windows-10-users-urged-to-upgrade-to-avoid-security-fiasco/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100975,
+            "discovered": "2025-01-05",
+            "post_title": "CVE-ID: CVE-2025-0229\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0229\n\nDescription: A vulnerability, which was classified as critical, has been found in code-projects Travel Management System 1.0. This issue affects some unknown processing of the file /enquiry.php. The manipulation of the argument pid/t1/t2/t3/t4/t5/t6/t7 leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Jan 05 23:08:13 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0229"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -86523,6 +86568,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/eldorado-ransomware-victim-akantha/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80937,
+            "discovered": "2025-01-05",
+            "post_title": "CVE Alert: CVE-2025-0200 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0200/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0200/"
             ],
             "Matched Keywords": [
                 "Other"
