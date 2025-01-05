@@ -8444,6 +8444,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10062,
+            "discovered": "2025-01-05",
+            "post_title": "/Thread-SELLING-BIGGEST-ARGENTINA-DATABASE-43-MILLION\n\nPoor Messi. 😭",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -22780,6 +22793,19 @@
                 "/www.ptvonline.it/\nhttps:",
                 "/check-host.net/check-report/21dd0aaak694\n\n\n#Ser"
             ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 522,
+            "discovered": "2025-01-05",
+            "post_title": "❗️After Monday, Poland will be next target\n\n\n\n#ServerKillers",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Poland"
+            ],
+            "URLs": [],
             "Matched Keywords": [
                 "Other"
             ]
@@ -60207,6 +60233,37 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-13141"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100966,
+            "discovered": "2025-01-05",
+            "post_title": "CVE-ID: CVE-2025-0221\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0221\n\nDescription: A vulnerability has been found in IOBit Protected Folder up to 1.3.0 and classified as problematic. This vulnerability affects the function 0x22200c in the library pffilter.sys of the component IOCTL Handler. The manipulation leads to null pointer dereference. The attack needs to be approached locally. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Sun Jan 05 19:05:12 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0221"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100965,
+            "discovered": "2025-01-05",
+            "post_title": "CVE-ID: CVE-2025-0222\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0222\n\nDescription: A vulnerability was found in IObit Protected Folder up to 13.6.0.5 and classified as problematic. This issue affects the function 0x8001E000/0x8001E004 in the library IUProcessFilter.sys of the component IOCTL Handler. The manipulation leads to null pointer dereference. An attack has to be approached locally. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Sun Jan 05 19:05:01 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0222",
+                "13.6.0.5"
             ],
             "Matched Keywords": [
                 "Other"
