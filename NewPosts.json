@@ -35280,6 +35280,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4162,
+            "discovered": "2025-01-05",
+            "post_title": "Group: eldorado\nApprox. Time: 12:34 05/01/25\nTitle: https://t.co/rQRTSAKnwr",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/rQRTSAKnwr"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -59615,6 +59630,36 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-13138"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100939,
+            "discovered": "2025-01-05",
+            "post_title": "CVE-ID: CVE-2024-13139\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-13139\n\nDescription: A vulnerability was found in wangl1989 mysiteforme 1.0. It has been rated as critical. This issue affects the function doContent of the file src/main/java/com/mysiteform/admin/controller/system/FileController. The manipulation of the argument content leads to server-side request forgery. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Jan 05 15:08:54 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "wangl1989"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13139"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100938,
+            "discovered": "2025-01-05",
+            "post_title": "CVE-ID: CVE-2024-13140\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-13140\n\nDescription: A vulnerability classified as problematic has been found in Emlog Pro up to 2.4.3. Affected is an unknown function of the file /admin/article.php?action=upload_cover of the component Cover Upload Handler. The manipulation of the argument image leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Jan 05 15:08:43 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Emlog"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13140"
             ],
             "Matched Keywords": [
                 "Other"
@@ -85423,6 +85468,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-12279/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80924,
+            "discovered": "2025-01-05",
+            "post_title": "Cobalt Strike Beacon Detected - 82[.]156[.]108[.]180:8080 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-82-156-108-180-port-8080/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-82-156-108-180-port-8080/"
             ],
             "Matched Keywords": [
                 "Other"
