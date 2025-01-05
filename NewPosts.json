@@ -8371,6 +8371,34 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10058,
+            "discovered": "2025-01-05",
+            "post_title": "Onion Link https://darkwebinformer.com/funksec-ransomware-has-released-v1-2/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkwebinformer.com/funksec-ransomware-has-released-v1-2/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10057,
+            "discovered": "2025-01-05",
+            "post_title": "🚨Funksec Ransomware has released v1.2",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -84646,6 +84674,111 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-05-01-2025-3/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80901,
+            "discovered": "2025-01-05",
+            "post_title": "Apple Settles Class Action for $95M Over Siri Privacy Issues - https://www.redpacketsecurity.com/apple-agrees-95m-settlement-over-siri-privacy-violations/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/apple-agrees-95m-settlement-over-siri-privacy-violations/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80900,
+            "discovered": "2025-01-05",
+            "post_title": "US Sanctions Russian GenAI Disinformation Operation Targeting Election Integrity - https://www.redpacketsecurity.com/us-confirms-russian-genai-disinformation-op-targeted-election/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "US"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/us-confirms-russian-genai-disinformation-op-targeted-election/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80899,
+            "discovered": "2025-01-05",
+            "post_title": "Web3 Security Breaches Result in $2.3 Billion Cryptocurrency Losses in 2024 - https://www.redpacketsecurity.com/web3-attacks-result-in-2-3bn-in-cryptocurrency-losses/",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/web3-attacks-result-in-2-3bn-in-cryptocurrency-losses/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80898,
+            "discovered": "2025-01-05",
+            "post_title": "Atos Group Denies Claims of Ransomware Attack by Space Bears - https://www.redpacketsecurity.com/atos-group-denies-space-bears-ransomware-attack-claims/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/atos-group-denies-space-bears-ransomware-attack-claims/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80897,
+            "discovered": "2025-01-05",
+            "post_title": "DDoS Attack Disrupts Services of Japan's Mobile Giant NTT Docomo - https://www.redpacketsecurity.com/ddos-disrupts-japanese-mobile-giant-docomo/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Japan"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/ddos-disrupts-japanese-mobile-giant-docomo/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80896,
+            "discovered": "2025-01-05",
+            "post_title": "Crypto Boss Do Kwon Extradited to Face $40bn Fraud Charges - https://www.redpacketsecurity.com/crypto-boss-extradited-to-face-40bn-fraud-charges/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/crypto-boss-extradited-to-face-40bn-fraud-charges/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80895,
+            "discovered": "2025-01-05",
+            "post_title": "US Sanctions Chinese Cybersecurity Firm Over Global Botnet Threats - https://www.redpacketsecurity.com/us-sanctions-chinese-cybersecurity-firm-for-global-botnet-attacks/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/us-sanctions-chinese-cybersecurity-firm-for-global-botnet-attacks/"
             ],
             "Matched Keywords": [
                 "Other"
