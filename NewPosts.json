@@ -59560,6 +59560,22 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100935,
+            "discovered": "2025-01-05",
+            "post_title": "CVE-ID: CVE-2024-13136\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-13136\n\nDescription: A vulnerability was found in wangl1989 mysiteforme 1.0 and classified as critical. Affected by this issue is the function rememberMeManager of the file src/main/java/com/mysiteforme/admin/config/ShiroConfig.java. The manipulation leads to deserialization. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Jan 05 13:07:53 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "wangl1989"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13136",
+                "ShiroConfig.java"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -63909,6 +63925,112 @@
                 "N/A"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27050,
+            "discovered": "2025-01-05",
+            "post_title": "⚡️CVE-2024-56513: Karmada Vulnerability Grants Attackers Control of Kubernetes Systems.\n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27049,
+            "discovered": "2025-01-05",
+            "post_title": "⚡️Fake EditThisCookie Extension Steals User Data.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27048,
+            "discovered": "2025-01-05",
+            "post_title": "⚡️Bad Tenable plugin updates take down Nessus agents worldwide.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Nessus"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27047,
+            "discovered": "2025-01-05",
+            "post_title": "⚡️Hunters International ransomware group claims to have breached Nikki Universal Co. Ltd. \n\nAllegedly, 761.8 GB (476,342 files) of data were exfiltrated. \nRansom deadline: 10th Jan 25. \n\n#CyberBulletin",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27046,
+            "discovered": "2025-01-05",
+            "post_title": "⚡️CVE-2024-10957 Exposes Over 3 Million WordPress Sites to Unauthenticated PHP Object Injection Exploits.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27045,
+            "discovered": "2025-01-05",
+            "post_title": "⚡️Malicious npm packages target Ethereum developers.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27044,
+            "discovered": "2025-01-05",
+            "post_title": "⚡️New FireScam Android malware poses as RuStore app to steal data.\n\n#CyberBulletin",
+            "Attack Type": "Unknown",
+            "Location": [
+                "️New"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 27043,
+            "discovered": "2025-01-05",
+            "post_title": "https://x.com/AnonTroyano303/status/1875853453710524816?t=xyP1KKuT7Xl182vxE2SoZQ&s=35",
+            "Attack Type": "Unknown",
+            "Location": [
+                "https://x.com/AnonTroyano303/status/1875853453710524816?t=xyP1KKuT7Xl182vxE2SoZQ&s=35"
+            ],
+            "URLs": [
+                "https://x.com/AnonTroyano303/status/1875853453710524816?t=xyP1KKuT7Xl182vxE2SoZQ&s=35"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
@@ -85108,6 +85230,156 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2025-0214/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80923,
+            "discovered": "2025-01-05",
+            "post_title": "CVE Alert: CVE-2024-12583 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12583/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12583/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80922,
+            "discovered": "2025-01-05",
+            "post_title": "CVE Alert: CVE-2025-0206 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0206/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0206/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80921,
+            "discovered": "2025-01-05",
+            "post_title": "CVE Alert: CVE-2024-12221 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12221/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12221/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80920,
+            "discovered": "2025-01-05",
+            "post_title": "CVE Alert: CVE-2024-12195 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12195/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12195/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80919,
+            "discovered": "2025-01-05",
+            "post_title": "CVE Alert: CVE-2025-0205 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0205/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0205/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80918,
+            "discovered": "2025-01-05",
+            "post_title": "CVE Alert: CVE-2025-0210 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0210/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0210/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80917,
+            "discovered": "2025-01-05",
+            "post_title": "CVE Alert: CVE-2025-0208 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0208/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0208/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80916,
+            "discovered": "2025-01-05",
+            "post_title": "CVE Alert: CVE-2025-0207 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0207/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0207/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80915,
+            "discovered": "2025-01-05",
+            "post_title": "CVE Alert: CVE-2024-12475 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12475/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12475/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80914,
+            "discovered": "2025-01-05",
+            "post_title": "CVE Alert: CVE-2024-12279 - https://www.redpacketsecurity.com/cve_alert_cve-2024-12279/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-12279/"
             ],
             "Matched Keywords": [
                 "Other"
