@@ -59485,6 +59485,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100931,
+            "discovered": "2025-01-05",
+            "post_title": "CVE-ID: CVE-2024-13133\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-13133\n\nDescription: A vulnerability, which was classified as critical, has been found in ZeroWdd studentmanager 1.0. This issue affects the function addStudent/editStudent of the file src/main/Java/com/wdd/studentmanager/controller/StudentController. java. The manipulation of the argument file leads to unrestricted upload. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Jan 05 09:02:58 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13133"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100930,
+            "discovered": "2025-01-05",
+            "post_title": "CVE-ID: CVE-2025-0219\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0219\n\nDescription: A vulnerability, which was classified as problematic, has been found in Trimble SPS851 488.01. Affected by this issue is some unknown functionality of the component Receiver Status Identity Tab. The manipulation of the argument System Name leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Sun Jan 05 09:02:47 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0219"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
