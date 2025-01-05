@@ -60595,6 +60595,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100978,
+            "discovered": "2025-01-05",
+            "post_title": "CVE-ID: CVE-2025-0230\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0230\n\nDescription: A vulnerability, which was classified as critical, was found in code-projects Responsive Hotel Site 1.0. Affected is an unknown function of the file /admin/print.php. The manipulation of the argument pid leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Jan 06 01:09:01 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0230"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100977,
+            "discovered": "2025-01-05",
+            "post_title": "CVE-ID: CVE-2025-0231\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0231\n\nDescription: A vulnerability has been found in Codezips Gym Management System 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /dashboard/admin/submit_payments.php. The manipulation of the argument m_id leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Jan 06 01:08:50 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "m_id"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0231"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
