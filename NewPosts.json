@@ -59515,6 +59515,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100932,
+            "discovered": "2025-01-05",
+            "post_title": "CVE-ID: CVE-2024-53241\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53241\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nx86/xen: don't do PV iret hypercall through hypercall page\n\nInstead of jumping to the Xen hypercall page for doing the iret\nhypercall, directly code the required sequence in xen-asm.S.\n\nThis is done in preparation of no longer using hypercall page at all,\nas it has shown to cause problems with speculation mitigations.\n\nThis is part of XSA-466 / CVE-2024-53241.\n\nPublication Date: Sun Jan 05 11:07:05 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53241"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
