@@ -16999,6 +16999,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1624,
+            "discovered": "2025-01-05",
+            "post_title": "🚨DDoS Alert - tenki​.jp\n\n🇯🇵Japan - The weather forecasting media platform \"tenki​.jp\" (both web and app versions) has experienced accessibility issues since January 5, 2025, at approximately 6:54 AM. \n\nThe issue was caused by a DDoS attack, resulting in network congestion.\n\nSource:\nhttps://www.jwa.or.jp/news/2025/01/24930/",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Japan"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -35308,6 +35321,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4163,
+            "discovered": "2025-01-05",
+            "post_title": "Group: lynx\nApprox. Time: 14:37 05/01/25\nTitle: Hunter Taubman Fischer & Li",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -39816,6 +39842,37 @@
             ],
             "URLs": [
                 "p://www.ransomfeed.it/index.php?page=post_details&id_post=19936"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5250,
+            "discovered": "2025-01-05",
+            "post_title": "ID: 19937\n⚠ 2025-01-05 14:41:53\n🥷 lynx\n🎯 Hunter Taubman Fischer  AND  Li, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19937",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19937"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5249,
+            "discovered": "2025-01-05",
+            "post_title": "ID: 19938\n⚠ 2025-01-05 12:58:09\n🥷 eldorado\n🎯 akantha.fr, France\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19938",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "antha.fr, ",
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19938"
             ],
             "Matched Keywords": [
                 "Other"
@@ -59687,6 +59744,341 @@
                 "N/A"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100961,
+            "discovered": "2025-01-05",
+            "post_title": "CVE-ID: CVE-2025-0220\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0220\n\nDescription: A vulnerability, which was classified as problematic, was found in Trimble SPS851 488.01. This affects an unknown part of the component Ethernet Configuration Menu. The manipulation of the argument Hostname leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Sun Jan 05 17:03:56 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0220"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100960,
+            "discovered": "2025-01-05",
+            "post_title": "Target: http://www.pgcds.ufrpe.br\n\nNotified: DemonSad\n\nDate: Sat, 04 Jan 2025 04:52:38 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313653\n\n#Defacements #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "http://www.pgcds.ufrpe.br",
+                "http://www.zone-h.org/mirror/id/41313653"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100959,
+            "discovered": "2025-01-05",
+            "post_title": "Target: http://www.pgsrr.ufrpe.br\n\nNotified: DemonSad\n\nDate: Sat, 04 Jan 2025 04:52:40 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313654\n\n#Defacements #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "http://www.pgsrr.ufrpe.br",
+                "http://www.zone-h.org/mirror/id/41313654"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100958,
+            "discovered": "2025-01-05",
+            "post_title": "Target: http://www.pgvet.ufrpe.br\n\nNotified: DemonSad\n\nDate: Sat, 04 Jan 2025 04:52:41 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313655\n\n#Defacements #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "http://www.pgvet.ufrpe.br",
+                "http://www.zone-h.org/mirror/id/41313655"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100957,
+            "discovered": "2025-01-05",
+            "post_title": "Target: http://www.ppgec-old.ufrpe.br\n\nNotified: DemonSad\n\nDate: Sat, 04 Jan 2025 04:52:42 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313656\n\n#Defacements #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "http://www.ppgec-old.ufrpe.br",
+                "http://www.zone-h.org/mirror/id/41313656"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100956,
+            "discovered": "2025-01-05",
+            "post_title": "Target: http://www.procad.ufrpe.br\n\nNotified: DemonSad\n\nDate: Sat, 04 Jan 2025 04:52:44 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313657\n\n#Defacements #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "http://www.procad.ufrpe.br",
+                "http://www.zone-h.org/mirror/id/41313657"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100955,
+            "discovered": "2025-01-05",
+            "post_title": "Target: http://zootecnia.uag.ufrpe.br\n\nNotified: DemonSad\n\nDate: Sat, 04 Jan 2025 04:52:48 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313658\n\n#Defacements #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "http://zootecnia.uag.ufrpe.br",
+                "http://www.zone-h.org/mirror/id/41313658"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100954,
+            "discovered": "2025-01-05",
+            "post_title": "Target: http://www.uacsa.ufrpe.br\n\nNotified: DemonSad\n\nDate: Sat, 04 Jan 2025 04:52:51 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313659\n\n#Defacements #Brazil",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Brazil"
+            ],
+            "URLs": [
+                "http://www.uacsa.ufrpe.br",
+                "http://www.zone-h.org/mirror/id/41313659"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100953,
+            "discovered": "2025-01-05",
+            "post_title": "Target: https://siseim.cancun.gob.mx/ynr.html\n\nNotified: ynR !\n\nDate: Wed, 01 Jan 2025 19:57:14 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312986\n\n#Defacements #Mexico",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://siseim.cancun.gob.mx/ynr.html",
+                "http://www.zone-h.org/mirror/id/41312986"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100952,
+            "discovered": "2025-01-05",
+            "post_title": "Target: https://pub.cancun.gob.mx/ynr.html\n\nNotified: ynR !\n\nDate: Wed, 01 Jan 2025 20:02:24 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312987\n\n#Defacements #Mexico",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://pub.cancun.gob.mx/ynr.html",
+                "http://www.zone-h.org/mirror/id/41312987"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100951,
+            "discovered": "2025-01-05",
+            "post_title": "Target: https://sugeim.cancun.gob.mx/ynr.html\n\nNotified: ynR !\n\nDate: Wed, 01 Jan 2025 20:02:59 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312988\n\n#Defacements #Mexico",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sugeim.cancun.gob.mx/ynr.html",
+                "http://www.zone-h.org/mirror/id/41312988"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100950,
+            "discovered": "2025-01-05",
+            "post_title": "Target: https://tramitesrhm.cancun.gob.mx/ynr.html\n\nNotified: ynR !\n\nDate: Wed, 01 Jan 2025 20:03:41 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312989\n\n#Defacements #Mexico",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://tramitesrhm.cancun.gob.mx/ynr.html",
+                "http://www.zone-h.org/mirror/id/41312989"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100949,
+            "discovered": "2025-01-05",
+            "post_title": "Target: https://obrastrasparencia.jalisco.gob.mx/ynr.html\n\nNotified: ynR !\n\nDate: Wed, 01 Jan 2025 20:35:38 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41312990\n\n#Defacements #Mexico",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://obrastrasparencia.jalisco.gob.mx/ynr.html",
+                "http://www.zone-h.org/mirror/id/41312990"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100948,
+            "discovered": "2025-01-05",
+            "post_title": "Target: https://bicto.bohol.gov.ph/ynr.html\n\nNotified: ynR !\n\nDate: Thu, 02 Jan 2025 17:22:27 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313041\n\n#Defacements #Philippines",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Philippines"
+            ],
+            "URLs": [
+                "https://bicto.bohol.gov.ph/ynr.html",
+                "http://www.zone-h.org/mirror/id/41313041"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100947,
+            "discovered": "2025-01-05",
+            "post_title": "Target: https://boholinvest.bohol.gov.ph/ynr.html\n\nNotified: ynR !\n\nDate: Thu, 02 Jan 2025 17:29:08 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313044\n\n#Defacements #Philippines",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Philippines"
+            ],
+            "URLs": [
+                "https://boholinvest.bohol.gov.ph/ynr.html",
+                "http://www.zone-h.org/mirror/id/41313044"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100946,
+            "discovered": "2025-01-05",
+            "post_title": "Target: https://ccad.bohol.gov.ph/ynr.html\n\nNotified: ynR !\n\nDate: Thu, 02 Jan 2025 17:29:44 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313045\n\n#Defacements #Philippines",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Philippines"
+            ],
+            "URLs": [
+                "https://ccad.bohol.gov.ph/ynr.html",
+                "http://www.zone-h.org/mirror/id/41313045"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100945,
+            "discovered": "2025-01-05",
+            "post_title": "Target: https://lamisa.bohol.gov.ph/ynr.html\n\nNotified: ynR !\n\nDate: Thu, 02 Jan 2025 17:32:07 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313047\n\n#Defacements #Philippines",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Philippines"
+            ],
+            "URLs": [
+                "https://lamisa.bohol.gov.ph/ynr.html",
+                "http://www.zone-h.org/mirror/id/41313047"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100944,
+            "discovered": "2025-01-05",
+            "post_title": "Target: https://pho.bohol.gov.ph/ynr.html\n\nNotified: ynR !\n\nDate: Thu, 02 Jan 2025 17:33:08 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313049\n\n#Defacements #Philippines",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Philippines"
+            ],
+            "URLs": [
+                "https://pho.bohol.gov.ph/ynr.html",
+                "http://www.zone-h.org/mirror/id/41313049"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100943,
+            "discovered": "2025-01-05",
+            "post_title": "Target: https://phrmdo.bohol.gov.ph/ynr.html\n\nNotified: ynR !\n\nDate: Thu, 02 Jan 2025 17:33:29 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313050\n\n#Defacements #Philippines",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Philippines"
+            ],
+            "URLs": [
+                "https://phrmdo.bohol.gov.ph/ynr.html",
+                "http://www.zone-h.org/mirror/id/41313050"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100942,
+            "discovered": "2025-01-05",
+            "post_title": "Target: https://ppmu.bohol.gov.ph/ynr.html\n\nNotified: ynR !\n\nDate: Thu, 02 Jan 2025 17:33:50 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313051\n\n#Defacements #Philippines",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Philippines"
+            ],
+            "URLs": [
+                "https://ppmu.bohol.gov.ph/ynr.html",
+                "http://www.zone-h.org/mirror/id/41313051"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100941,
+            "discovered": "2025-01-05",
+            "post_title": "Target: https://ramsac.ign.gob.ar/ynr.html\n\nNotified: ynR !\n\nDate: Fri, 03 Jan 2025 18:26:16 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313194\n\n#Defacements #Argentina",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Argentina"
+            ],
+            "URLs": [
+                "https://ramsac.ign.gob.ar/ynr.html",
+                "http://www.zone-h.org/mirror/id/41313194"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
@@ -85513,6 +85905,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 80925,
+            "discovered": "2025-01-05",
+            "post_title": "[LYNX] - Ransomware Victim: Hunter Taubman Fischer & Li - https://www.redpacketsecurity.com/lynx-ransomware-victim-hunter-taubman-fischer-li/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/lynx-ransomware-victim-hunter-taubman-fischer-li/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Ransomware Live - Ransomware Alerts": [
@@ -90676,6 +91083,23 @@
             ],
             "URLs": [
                 "https://www.hero-wars.com/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3647,
+            "discovered": "2025-01-05",
+            "post_title": "43,7K THOUSANDS OF INDIAN INFRATECH COMPANY DATABASES\n\nDarkforums:\nhttps://darkforums.st/Thread-43-7K-THOUSANDS-OF-INDIAN-INFRATECH-COMPANY-DATABASES\n\nINFRATECH is a subsidiary of the K D Rathod Group of Companies, which has made significant contributions to a variety of industries including real estate, infrastructure, auto mobiles, education, entertainment, and finance.\n\nHost: https://Infratech.ind.in\nDatabase contents:\nCostumer,name,email,phone,address,Etc.\n\n•DOWNLOAD:\nhttps://anonymfile.com/bJ4qp/infratechindin.zip\n\n\n#INDOHAXSEC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://darkforums.st/Thread-43-7K-THOUSANDS-OF-INDIAN-INFRATECH-COMPANY-DATABASES",
+                "https://Infratech.ind.in",
+                "https://anonymfile.com/bJ4qp/infratechindin.zip"
             ],
             "Matched Keywords": [
                 "Other"
