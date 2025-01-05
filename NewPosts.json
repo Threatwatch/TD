@@ -18826,6 +18826,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 2003,
+            "discovered": "2025-01-05",
+            "post_title": "We will back 🔜",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Esteem Restoration Eagle": [
@@ -59661,6 +59674,19 @@
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-13140"
             ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100940,
+            "discovered": "2025-01-05",
+            "post_title": "Victim: Hunter Taubman Fischer & Li\n\nDetection Date: Sun Jan 05 16:50:16 2025\n\nThreat Actor: lynx\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
             "Matched Keywords": [
                 "Other"
             ]
