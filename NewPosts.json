@@ -8457,6 +8457,32 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10064,
+            "discovered": "2025-01-05",
+            "post_title": "Penaldo is no better though",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10063,
+            "discovered": "2025-01-05",
+            "post_title": "Pessi*",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -17065,6 +17091,21 @@
             "Attack Type": "DDoS Attacks",
             "Location": [
                 "Japan"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1625,
+            "discovered": "2025-01-05",
+            "post_title": "🚨🚨🇦🇷Argentina - Hackers compromised the payroll system of the Policía de Seguridad Aeroportuaria (PSA), Argentina’s airport security force, stealing employees' personal data and deducting small amounts (2,000-5,000 ARS) from their salaries under fake deductions like \"DD major\" and \"DD seguros.\"\n\nThe PSA blames Banco Nación for the breach, as salaries are processed through the bank's system, though the attack origin is unclear and may involve external servers or insider complicity. \n\nThe hackers obtained sensitive data, including the entire roster of PSA personnel responsible for counter-terrorism at airports, which could be sold on the dark web.\n\nFull article:\nhttps://pagina12.com.ar/794730-el-apagon-y-hackeo-que-la-psa-queria-ocultar",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Argentina",
+                "DD",
+                "DD"
             ],
             "URLs": [],
             "Matched Keywords": [
@@ -60268,6 +60309,52 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100969,
+            "discovered": "2025-01-05",
+            "post_title": "Title: Many researchers are pseudonymous. That doesn’t justify ignoring their alerts\n\nDate: January 5, 2025\n\nSource: https://databreaches.net/2025/01/05/many-researchers-are-pseudonymous-that-doesnt-justify-ignoring-their-alerts/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://databreaches.net/2025/01/05/many-researchers-are-pseudonymous-that-doesnt-justify-ignoring-their-alerts/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100968,
+            "discovered": "2025-01-05",
+            "post_title": "CVE-ID: CVE-2025-0223\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0223\n\nDescription: A vulnerability was found in IObit Protected Folder up to 13.6.0.5. It has been classified as problematic. Affected is the function 0x8001E000/0x8001E00C/0x8001E004/0x8001E010 in the library IURegistryFilter.sys of the component IOCTL Handler. The manipulation leads to null pointer dereference. Local access is required to approach this attack. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.\n\nPublication Date: Sun Jan 05 20:11:12 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0223",
+                "13.6.0.5"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100967,
+            "discovered": "2025-01-05",
+            "post_title": "CVE-ID: CVE-2025-0224\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0224\n\nDescription: A vulnerability was found in Provision-ISR SH-4050A-2, SH-4100A-2L(MM), SH-8100A-2L(MM), SH-16200A-2(1U), SH-16200A-5(1U) and NVR5-8200PX up to 20241220. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file /server.js. The manipulation leads to information disclosure. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Jan 05 20:11:01 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0224"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -91436,6 +91523,21 @@
                 "https://darkforums.st/Thread-43-7K-THOUSANDS-OF-INDIAN-INFRATECH-COMPANY-DATABASES",
                 "https://Infratech.ind.in",
                 "https://anonymfile.com/bJ4qp/infratechindin.zip"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3648,
+            "discovered": "2025-01-05",
+            "post_title": "ACCESS LOGS\n\nhttps://awards.rai.net.in/admin/login.php\nUSERNAME: bhumika@rai.net.in\nPASSWORD: bhumika@rai\n\n\n#INDOHAXSEC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://awards.rai.net.in/admin/login.php"
             ],
             "Matched Keywords": [
                 "Other"
