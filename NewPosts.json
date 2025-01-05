@@ -8483,6 +8483,47 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10067,
+            "discovered": "2025-01-05",
+            "post_title": "🚨🚨🇨🇦natohub Allegedly Has Leakeed 42,000 Records of Data Belonging to International Civil Aviation Organization (ICAO)\n\nhttps://darkwebinformer.com/natohub-allegedly-has-leakeed-42-000-records-of-data-belonging-to-international-civil-aviation-organization-icao/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "s://darkwebinformer.com/natohub-allegedly-has-leakeed-42-000-records-of-data-belonging-to-international-civil-aviation-organization-icao/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10066,
+            "discovered": "2025-01-05",
+            "post_title": "No Text Content",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10065,
+            "discovered": "2025-01-05",
+            "post_title": "💡WhiteIntel data will be integrated back into breaches, leaks and ransomware posts on Monday for paid subscribers. I added a Show More and Show Less as most of the data that comes back is usually long.",
+            "Attack Type": "Data Breach",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -35485,6 +35526,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4164,
+            "discovered": "2025-01-05",
+            "post_title": "Group: hellcat\nApprox. Time: 18:39 05/01/25\nTitle: Car Care Plan - Turkey",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -60351,6 +60405,52 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2025-0224"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100972,
+            "discovered": "2025-01-05",
+            "post_title": "Target: https://www.sclt.gov.iq/v.html\n\nNotified: Mr V\n\nDate: Sun, 05 Jan 2025 18:44:20 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313893\n\n#Defacements #Iraq",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Iraq"
+            ],
+            "URLs": [
+                "https://www.sclt.gov.iq/v.html",
+                "http://www.zone-h.org/mirror/id/41313893"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100971,
+            "discovered": "2025-01-05",
+            "post_title": "CVE-ID: CVE-2025-0225\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0225\n\nDescription: A vulnerability classified as problematic was found in Tsinghua Unigroup Electronic Archives System 3.2.210802(62532). Affected by this vulnerability is an unknown functionality of the file /setting/ClassFy/exampleDownload.html. The manipulation of the argument name leads to path traversal: '/../filedir'. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Jan 05 21:07:18 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0225"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100970,
+            "discovered": "2025-01-05",
+            "post_title": "CVE-ID: CVE-2025-0226\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-0226\n\nDescription: A vulnerability, which was classified as problematic, has been found in Tsinghua Unigroup Electronic Archives System 3.2.210802(62532). Affected by this issue is the function download of the file /collect/PortV4/downLoad.html. The manipulation of the argument path leads to information disclosure. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Sun Jan 05 21:07:07 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-0226"
             ],
             "Matched Keywords": [
                 "Other"
@@ -86339,6 +86439,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-11930/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80936,
+            "discovered": "2025-01-05",
+            "post_title": "[ELDORADO] - Ransomware Victim: Akantha - https://www.redpacketsecurity.com/eldorado-ransomware-victim-akantha/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/eldorado-ransomware-victim-akantha/"
             ],
             "Matched Keywords": [
                 "Other"
