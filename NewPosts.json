@@ -17372,6 +17372,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1633,
+            "discovered": "2025-01-06",
+            "post_title": "🚨Cyberattack Alert ‼️\n\n🇦🇷Argentina - LOS ANDES\n\nAkira ransomware group claims to have breached LOS ANDES. \n\nAllegedly, financial data (audits, payment details, reports), contact numbers, and e-mail addresses of employees were exfiltrated.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -61877,6 +61890,68 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 101048,
+            "discovered": "2025-01-06",
+            "post_title": "Title: More US telcos reportedly breached in Chinese cyberattack\n\nDate: January 6, 2025\n\nSource: https://www.scworld.com/brief/more-us-telcos-reportedly-breached-in-chinese-cyberattack\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US",
+                "China"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/more-us-telcos-reportedly-breached-in-chinese-cyberattack"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101047,
+            "discovered": "2025-01-06",
+            "post_title": "Title: India Proposes Digital Data Rules with Tough Penalties and Cybersecurity Requirements\n\nDate: Jan 06, 2025\n\nSource: https://thehackernews.com/2025/01/india-proposes-digital-data-rules-with.html\n\n#News #India",
+            "Attack Type": "Hacking",
+            "Location": [
+                "India",
+                "India"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2025/01/india-proposes-digital-data-rules-with.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101046,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Cracking my own CrackMe with r2ai\n\nDate: January 6, 2025\n\nSource: https://cryptax.medium.com/cracking-my-own-crackme-with-r2ai-5629bcc7d5fe?source=rss-a035bab39b50------2\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cryptax.medium.com/cracking-my-own-crackme-with-r2ai-5629bcc7d5fe?source=rss-a035bab39b50------2"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101045,
+            "discovered": "2025-01-06",
+            "post_title": "Title: 2025 predictions: Artificial intelligence (AI)\n\nDate: January 6, 2025\n\nSource: https://www.sonatype.com/blog/2025-predictions-artificial-intelligence-ai\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.sonatype.com/blog/2025-predictions-artificial-intelligence-ai"
+            ],
+            "Matched Keywords": [
+                "Sonatype"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -88733,6 +88808,66 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/covenant-c2-detected-210-89-45-122-port-7443/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80997,
+            "discovered": "2025-01-06",
+            "post_title": "[AKIRA] - Ransomware Victim: Los Andes - https://www.redpacketsecurity.com/akira-ransomware-victim-los-andes/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Los Andes - https://www.redpacketsecurity.com/akira-ransomware-victim-los-andes/"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/akira-ransomware-victim-los-andes/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80996,
+            "discovered": "2025-01-06",
+            "post_title": "[AKIRA] - Ransomware Victim: Bluegrass Ingredients - https://www.redpacketsecurity.com/akira-ransomware-victim-bluegrass-ingredients/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/akira-ransomware-victim-bluegrass-ingredients/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80995,
+            "discovered": "2025-01-06",
+            "post_title": "[AKIRA] - Ransomware Victim: Gunnar Prefab - https://www.redpacketsecurity.com/akira-ransomware-victim-gunnar-prefab/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/akira-ransomware-victim-gunnar-prefab/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80994,
+            "discovered": "2025-01-06",
+            "post_title": "[AKIRA] - Ransomware Victim: Action Imports - https://www.redpacketsecurity.com/akira-ransomware-victim-action-imports/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/akira-ransomware-victim-action-imports/"
             ],
             "Matched Keywords": [
                 "Other"
