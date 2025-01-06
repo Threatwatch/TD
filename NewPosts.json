@@ -8888,6 +8888,51 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10095,
+            "discovered": "2025-01-06",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📌 CVE ID: CVE-2023-34232\n🔹 Description: snowflake-connector-nodejs, a NodeJS driver for Snowflake, is vulnerable to command injection via single sign on (SSO) browser URL authentication in versions prior to 1.6.21. In order to exploit the potential for command injection, an attacker would need to be successful in (1) establishing a malicious resource and (2) redirecting users to utilize the resource. The attacker could set up a malicious, publicly accessible server which responds to the SSO URL with an attack payload. If the attacker then tricked a user into visiting the maliciously crafted connection URL, the user’s local machine would render the malicious payload, leading to a remote code execution. This attack scenario can be mitigated through URL whitelisting as well as common anti-phishing resources. Version 1.6.21 contains a patch for this issue.\n📏 Published: 2023-06-08T20:17:49.734Z\n📏 Modified: 2025-01-06T20:19:54.764Z\n🔗 References:\n1. https://github.com/snowflakedb/snowflake-connector-nodejs/security/advisories/GHSA-h53w-7qw7-vh5c\n2. https://github.com/snowflakedb/snowflake-connector-nodejs/pull/465\n3. https://github.com/snowflakedb/snowflake-connector-nodejs/commit/0c9622ae12cd7d627df404b73a783b4a5f60728a\n4. https://community.snowflake.com/s/article/Node-js-Driver-Release-Notes",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "//github.com/snowflakedb/snowflake-connector-nodejs/security/advisories/GHSA-h53w-7qw7-vh5c\n2. ht",
+                "//github.com/snowflakedb/snowflake-connector-nodejs/pull/465\n3. ht",
+                "//github.com/snowflakedb/snowflake-connector-nodejs/commit/0c9622ae12cd7d627df404b73a783b4a5f60728a\n4. ht",
+                "//community.snowflake.com/s/article/Node-js-Driver-Release-Notes"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10094,
+            "discovered": "2025-01-06",
+            "post_title": "😂🚨🇨🇭A Threat Actor Claims to have Leaked the Data of Thothub",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10093,
+            "discovered": "2025-01-06",
+            "post_title": "🚨🇰🇷A Threat Actor Claims to be Selling the Data of NSEED",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -63589,6 +63634,339 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 101150,
+            "discovered": "2025-01-06",
+            "post_title": "Title: HPE security advisory (AV25-002)\n\nDate: January 6, 2025\n\nSource: https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-002\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-002"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101149,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2011-3544\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2011-3544\n\nDescription: Unspecified vulnerability in the Java Runtime Environment component in Oracle Java SE JDK and JRE 7 and 6 Update 27 and earlier allows remote untrusted Java Web Start applications and untrusted Java applets to affect confidentiality, integrity, and availability via unknown vectors related to Scripting.\n\nPublication Date: Mon Jan 06 23:40:58 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Scripting"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2011-3544"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101148,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-34612\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34612\n\nDescription: An issue was discovered ph-json thru 9.5.5 allows attackers to cause a denial of service or other unspecified impacts via crafted object that uses cyclic dependencies.\n\nPublication Date: Mon Jan 06 23:40:48 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34612"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101147,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2025-21617\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-21617\n\nDescription: Guzzle OAuth Subscriber signs Guzzle requests using OAuth 1.0. Prior to 0.8.1, Nonce generation does not use sufficient entropy nor a cryptographically secure pseudorandom source. This can leave servers vulnerable to replay attacks when TLS is not used. This vulnerability is fixed in 0.8.1.\n\nPublication Date: Mon Jan 06 23:40:37 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-21617"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101146,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-29751\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-29751\n\nDescription: An issue found in Yandex Navigator v.6.60 for Android allows unauthorized apps to cause a persistent denial of service by manipulating the SharedPreference files.\n\nPublication Date: Mon Jan 06 23:40:26 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-29751"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101145,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-26465\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-26465\n\nDescription: Pega Platform versions 7.2 to 8.8.1 are affected by an XSS issue.\n\nPublication Date: Mon Jan 06 23:40:15 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-26465"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101144,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-0342\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-0342\n\nDescription: MongoDB Ops Manager Diagnostics Archive may not redact sensitive PEM key file password app settings. Archives do not include the PEM files themselves. This issue affects MongoDB Ops Manager v5.0 prior to 5.0.21 and MongoDB Ops Manager v6.0 prior to 6.0.12\n\nPublication Date: Mon Jan 06 23:29:07 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-0342"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101143,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-34243\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34243\n\nDescription: TGstation is a toolset to manage production BYOND servers. In affected versions if a Windows user was registered in tgstation-server (TGS), an attacker could discover their username by brute-forcing the login endpoint with an invalid password. When a valid Windows logon was found, a distinct response would be generated. This issue has been addressed in version 5.12.5. Users are advised to upgrade. Users unable to upgrade may be mitigated by rate-limiting API calls with software that sits in front of TGS in the HTTP pipeline such as fail2ban.\n\nPublication Date: Mon Jan 06 23:28:56 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "BYOND"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34243"
+            ],
+            "Matched Keywords": [
+                "Valid"
+            ]
+        },
+        {
+            "Message ID": 101142,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-34613\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34613\n\nDescription: An issue was discovered sojo thru 1.1.1 allows attackers to cause a denial of service or other unspecified impacts via crafted object that uses cyclic dependencies.\n\nPublication Date: Mon Jan 06 23:17:50 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34613"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101141,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-34230\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34230\n\nDescription: snowflake-connector-net, the Snowflake Connector for .NET, is vulnerable to command injection prior to version 2.0.18 via SSO URL authentication. In order to exploit the potential for command injection, an attacker would need to be successful in (1) establishing a malicious resource and (2) redirecting users to utilize the resource. The attacker could set up a malicious, publicly accessible server which responds to the SSO URL with an attack payload. If the attacker then tricked a user into visiting the maliciously crafted connection URL, the user’s local machine would render the malicious payload, leading to a remote code execution. This attack scenario can be mitigated through URL whitelisting as well as common anti-phishing resources. Version 2.0.18 fixes this issue.\n\nPublication Date: Mon Jan 06 23:17:39 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34230"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101140,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-56657\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56657\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\nALSA: control: Avoid WARN() for symlink errors\n\nUsing WARN() for showing the error of symlink creations don't give\nmore information than telling that something goes wrong, since the\nusual code path is a lregister callback from each control element\ncreation.  More badly, the use of WARN() rather confuses fuzzer as if\nit were serious issues.\n\nThis patch downgrades the warning messages to use the normal dev_err()\ninstead of WARN().  For making it clearer, add the function name to\nthe prefix, too.\n\nPublication Date: Mon Jan 06 23:17:28 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56657"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101139,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-34614\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34614\n\nDescription: An issue was discovered jmarsden/jsonij thru 0.5.2 allows attackers to cause a denial of service or other unspecified impacts via crafted object that uses cyclic dependencies.\n\nPublication Date: Mon Jan 06 23:17:17 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34614"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101138,
+            "discovered": "2025-01-06",
+            "post_title": "Vulnerability ID: CVE-2024-13037\n\nDescription: A vulnerability was found in 1000 Projects Attendance Tracking Management System 1.0. It has been classified as critical. Affected is the function attendance_report of the file /admin/report.php. The manipulation of the argument course_id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-13037\n\nDate of Publishing: 2025/01/06\n\nLink to Exploit: https://github.com/matias-a11y/cve/issues/2\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13037",
+                "https://github.com/matias-a11y/cve/issues/2"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101137,
+            "discovered": "2025-01-06",
+            "post_title": "Vulnerability ID: CVE-2024-13032\n\nDescription: A vulnerability classified as problematic was found in Antabot White-Jotter up to 0.2.2. Affected by this vulnerability is an unknown functionality of the file /admin/content/editor of the component Article Editor. The manipulation of the argument articleCover leads to server-side request forgery. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-13032\n\nDate of Publishing: 2025/01/06\n\nLink to Exploit: https://github.com/cydtseng/Vulnerability-Research/blob/main/white-jotter/ServerSideRequestForgery-ArticleCoverURL.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13032",
+                "https://github.com/cydtseng/Vulnerability-Research/blob/main/white-jotter/ServerSideRequestForgery-ArticleCoverURL.md"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101136,
+            "discovered": "2025-01-06",
+            "post_title": "Vulnerability ID: CVE-2024-13031\n\nDescription: A vulnerability classified as problematic has been found in Antabot White-Jotter up to 0.2.2. Affected is an unknown function of the file /admin/content/editor of the component Article Content Editor. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-13031\n\nDate of Publishing: 2025/01/06\n\nLink to Exploit: https://github.com/cydtseng/Vulnerability-Research/blob/main/white-jotter/ReflectedXSS-ContentEditor.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13031",
+                "https://github.com/cydtseng/Vulnerability-Research/blob/main/white-jotter/ReflectedXSS-ContentEditor.md"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101135,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-29401\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-29401\n\nDescription: The filename parameter of the Context.FileAttachment function is not properly sanitized. A maliciously crafted filename can cause the Content-Disposition header to be sent with an unexpected filename value or otherwise modify the Content-Disposition header. For example, a filename of \"setup.bat\";x=.txt\" will be sent as a file named \"setup.bat\". If the FileAttachment function is called with names provided by an untrusted source, this may permit an attacker to cause a file to be served with a name different than provided. Maliciously crafted attachment file name can modify the Content-Disposition header.\n\nPublication Date: Mon Jan 06 23:05:38 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-29401"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101134,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-34624\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34624\n\nDescription: An issue was discovered htmlcleaner thru = 2.28 allows attackers to cause a denial of service or other unspecified impacts via crafted object that uses cyclic dependencies.\n\nPublication Date: Mon Jan 06 23:05:27 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34624"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101133,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-34747\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34747\n\nDescription: File upload vulnerability in ujcms 6.0.2 via /api/backend/core/web-file-upload/upload.\n\nPublication Date: Mon Jan 06 23:05:16 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34747"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101132,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-24535\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-24535\n\nDescription: Parsing invalid messages can panic. Parsing a text-format message which contains a potential number consisting of a minus sign, one or more characters of whitespace, and no further input will cause a panic.\n\nPublication Date: Mon Jan 06 23:05:05 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-24535"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101131,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-23480\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-23480\n\nDescription: IBM Sterling Partner Engagement Manager 6.1, 6.2, and 6.2.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session.  IBM X-Force ID:  245885.\n\nPublication Date: Mon Jan 06 23:04:54 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-23480"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101130,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-34233\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34233\n\nDescription: The Snowflake Connector for Python provides an interface for developing Python applications that can connect to Snowflake and perform all standard operations. Versions prior to 3.0.2 are vulnerable to command injection via single sign-on(SSO) browser URL authentication. In order to exploit the potential for command injection, an attacker would need to be successful in (1) establishing a malicious resource and (2) redirecting users to utilize the resource. The attacker could set up a malicious, publicly accessible server which responds to the SSO URL with an attack payload. If the attacker then tricked a user into visiting the maliciously crafted connection URL, the user’s local machine would render the malicious payload, leading to a remote code execution. This attack scenario can be mitigated through URL whitelisting as well as common anti-phishing resources. Version 3.0.2 contains a patch for this issue.\n\nPublication Date: Mon Jan 06 23:04:43 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34233"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101129,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Dell security advisory (AV25-001)\n\nDate: January 6, 2025\n\nSource: https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-001\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-001"
+            ],
+            "Matched Keywords": [
+                "Dell"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -90670,6 +91048,36 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/akira-ransomware-victim-maverick-constructors/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81010,
+            "discovered": "2025-01-06",
+            "post_title": "[CLOP] - Ransomware Victim: WSINC[.]COM - https://www.redpacketsecurity.com/clop-ransomware-victim-wsinc-com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/clop-ransomware-victim-wsinc-com/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81009,
+            "discovered": "2025-01-06",
+            "post_title": "[CLOP] - Ransomware Victim: VELSOL[.]COM - https://www.redpacketsecurity.com/clop-ransomware-victim-velsol-com/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/clop-ransomware-victim-velsol-com/"
             ],
             "Matched Keywords": [
                 "Other"
