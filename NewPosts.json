@@ -8845,6 +8845,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10090,
+            "discovered": "2025-01-06",
+            "post_title": "🚨🇺🇸A Threat Actor Claims to be Selling the Source Code of Zoebot AI\n\n🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📅 Date: 2025-01-06 18:02:05\n🚨 Title: Alleged source code sale of Zoebot AI\n🛡 Victim Country: USA\n🏭 Victim Industry: Information Technology (IT) Services\n🏢 Victim Organization: zoebot ai\n🌐 Victim Site: zoebot[.ai\n📜 Category: Data Breach\n🔗 Claim: Paid subscribers get access to all claim URLs\n🕵️‍♂️ Threat Actor: monkeycrazy\n🌍 Network: openweb\n📝 Description: The threat actor claims to be selling the source code of Zoebot AI, which includes the complete functionality of Zoebot[.ai, development packages with front-end and back-end interfaces, integrated APIs and ready-to-use services, as well as responsive and cross-platform solutions.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Zoebot[.ai"
+            ],
+            "URLs": [
+                "WebInformer.com - C"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -31215,6 +31230,19 @@
             "Attack Type": "Unknown",
             "Location": [
                 "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1287,
+            "discovered": "2025-01-06",
+            "post_title": "Soon we will launch a high-level distortion attack against large and sensitive targets around the world in support of Palestine\n\nLaunch the hashtag #Team_R70 on all your accounts\n\n\nقريبا سنشن هجوم تشوية عالي المستوى ضد أهداف كبيرة وحساسة حول العالم دعم لفلسطين \n\nأطلقوا هاشتاج #Team_R70 على جميع حساباتكم\n\n#Revenge\n#Team_R70 \n#Palestine\n\n\"سوف ننتقم لدماء ودموع أطفالنا\"",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Palestine"
             ],
             "URLs": [],
             "Matched Keywords": [
@@ -62989,6 +63017,279 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 101113,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Dental group lied through teeth about data breach, fined $350,000\n\nDate: January 6, 2025\n\nSource: https://www.malwarebytes.com/blog/news/2025/01/dental-group-lied-through-teeth-about-data-breach-fined-350000\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/news/2025/01/dental-group-lied-through-teeth-about-data-breach-fined-350000"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101112,
+            "discovered": "2025-01-06",
+            "post_title": "Title: GAO mulls cost evaluation of nationwide telecom hardware replacement\n\nDate: January 6, 2025\n\nSource: https://www.nextgov.com/cybersecurity/2025/01/gao-mulls-cost-evaluation-nationwide-telecom-hardware-replacement/401963/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.nextgov.com/cybersecurity/2025/01/gao-mulls-cost-evaluation-nationwide-telecom-hardware-replacement/401963/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101111,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Creating Burp Extensions: A Beginner’s Guide\n\nDate: January 6, 2025\n\nSource: https://www.blackhillsinfosec.com/creating-burp-extensions-wrapup/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.blackhillsinfosec.com/creating-burp-extensions-wrapup/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101110,
+            "discovered": "2025-01-06",
+            "post_title": "Vulnerability ID: CVE-2024-13072\n\nDescription: A vulnerability was found in 1000 Projects Beauty Parlour Management System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file /admin/add-customer-services.php of the component Customer Detail Handler. The manipulation of the argument sids[] leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-13072\n\nDate of Publishing: 2025/01/06\n\nLink to Exploit: https://github.com/lings3346/CVE/blob/main/SQL_Injection_in_Beauty_Parlour_Management_System.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13072",
+                "https://github.com/lings3346/CVE/blob/main/SQL_Injection_in_Beauty_Parlour_Management_System.md"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101109,
+            "discovered": "2025-01-06",
+            "post_title": "Vulnerability ID: CVE-2024-12792\n\nDescription: A vulnerability classified as critical was found in Codezips E-Commerce Site 1.0. Affected by this vulnerability is an unknown functionality of the file newadmin.php. The manipulation of the argument email leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-12792\n\nDate of Publishing: 2025/01/06\n\nLink to Exploit: https://github.com/laowuzi/cve/blob/main/E-commerce/E-commerce-newadmin.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12792",
+                "https://github.com/laowuzi/cve/blob/main/E-commerce/E-commerce-newadmin.md"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101108,
+            "discovered": "2025-01-06",
+            "post_title": "Vulnerability ID: CVE-2024-12791\n\nDescription: A vulnerability was found in Codezips E-Commerce Site 1.0. It has been rated as critical. This issue affects some unknown processing of the file signin.php. The manipulation of the argument email leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-12791\n\nDate of Publishing: 2025/01/06\n\nLink to Exploit: https://github.com/laowuzi/cve/blob/main/E-commerce/E-commerce-signin.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12791",
+                "https://github.com/laowuzi/cve/blob/main/E-commerce/E-commerce-signin.md"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101107,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Sinisterly - BowesPublishing – The EVERYTHING Bundle 2024 (KDP)\n\nDetection Date: Mon Jan 06 21:18:35 2025\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-BowesPublishing-%E2%80%93-The-EVERYTHING-Bundle-2024-KDP\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-BowesPublishing-%E2%80%93-The-EVERYTHING-Bundle-2024-KDP"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101106,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-51464\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-51464\n\nDescription: IBM i 7.3, 7.4, and 7.5 is vulnerable to bypassing Navigator for i interface restrictions.  By sending a specially crafted request, an authenticated attacker could exploit this vulnerability to remotely perform operations that the user is not allowed to perform when using Navigator for i.\n\nPublication Date: Mon Jan 06 21:07:50 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-51464"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101105,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-45494\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45494\n\nDescription: An issue was discovered in MSA FieldServer Gateway 5.0.0 through 6.5.2 (Fixed in 7.0.0). The FieldServer Gateway has an internally used shared administrative user account on all devices. The authentication for this user is implemented through an unsafe shared secret that is static in all affected firmware versions.\n\nPublication Date: Mon Jan 06 21:07:39 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45494"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101104,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-35031\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-35031\n\nDescription: Atos Unify OpenScape 4000 Assistant V10 R1 before V10 R1.42.0 and V10 R1.34.8, Assistant V10 R0, Manager V10 R1 before V10 R1.42.0 and V10 R1.34.8, and Manager V10 R0 allow command injection by authenticated users, aka OSFOURK-24036.\n\nPublication Date: Mon Jan 06 21:07:27 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-35031"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101103,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-45493\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45493\n\nDescription: An issue was discovered in MSA FieldServer Gateway 5.0.0 through 6.5.2 (Fixed in 7.0.0). The FieldServer Gateway has internal users, whose access is supposed to be restricted to login locally on the device. However, an attacker can bypass the check for this, which might allow them to authenticate with an internal user account from the network (if they know their password).\n\nPublication Date: Mon Jan 06 21:07:16 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45493"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101102,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-54880\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-54880\n\nDescription: SeaCMS V13.1 is vulnerable to Incorrect Access Control. A logic flaw can be exploited by an attacker to allow any user to register accounts in bulk.\n\nPublication Date: Mon Jan 06 21:07:06 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-54880"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101101,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-55586\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-55586\n\nDescription: Nette Database through 3.2.4 allows SQL injection in certain situations involving an untrusted filter that is directly passed to the where method. NOTE: the vendor's position is that this is intended behavior.\n\nPublication Date: Mon Jan 06 21:06:54 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-55586"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101100,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-34364\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34364\n\nDescription: A buffer overflow was discovered in Progress DataDirect Connect for ODBC before 08.02.2770 for Oracle. An overly large value for certain options of a connection string may overrun the buffer allocated to process the string value. This allows an attacker to execute code of their choice on an affected host by copying carefully selected data that will be executed as code.\n\nPublication Date: Mon Jan 06 21:06:44 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34364"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101099,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-34363\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34363\n\nDescription: An issue was discovered in Progress DataDirect Connect for ODBC before 08.02.2770 for Oracle. When using Oracle Advanced Security (OAS) encryption, if an error is encountered initializing the encryption object used to encrypt data, the code falls back to a different encryption mechanism that uses an insecure random number generator to generate the private key. It is possible for a well-placed attacker to predict the output of this random number generator, which could lead to an attacker decrypting traffic between the driver and the database server. The vulnerability does not exist if SSL / TLS encryption is used.\n\nPublication Date: Mon Jan 06 21:06:32 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34363"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101098,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-54879\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-54879\n\nDescription: SeaCMS V13.1 is vulnerable to Incorrect Access Control. A logic flaw can be exploited by an attacker to allow any user to recharge members indefinitely.\n\nPublication Date: Mon Jan 06 21:06:21 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-54879"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101097,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-33557\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-33557\n\nDescription: Fuel CMS v1.5.2 was discovered to contain a SQL injection vulnerability via the id parameter at /controllers/Blocks.php.\n\nPublication Date: Mon Jan 06 21:06:11 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-33557"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101096,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-30262\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-30262\n\nDescription: An issue found in MIM software Inc MIM License Server and MIMpacs services v.6.9 thru v.7.0 fixed in v.7.0.10 allows a remote unauthenticated attacker to execute arbitrary code via the RMI Registry service.\n\nPublication Date: Mon Jan 06 21:06:00 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-30262"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -90055,6 +90356,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/akira-ransomware-victim-a-bar-a-ranch/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81008,
+            "discovered": "2025-01-06",
+            "post_title": "[AKIRA] - Ransomware Victim: Maverick Constructors - https://www.redpacketsecurity.com/akira-ransomware-victim-maverick-constructors/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/akira-ransomware-victim-maverick-constructors/"
             ],
             "Matched Keywords": [
                 "Other"
