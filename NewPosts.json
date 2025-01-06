@@ -8664,6 +8664,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10078,
+            "discovered": "2025-01-06",
+            "post_title": "🚨🇵🇭A Threat Actor Claims to be Selling Complete Source Code and Gaming Infrastructure to Betrnk Inc\n\nhttps://darkwebinformer.com/a-threat-actor-claims-to-be-selling-complete-source-code-and-gaming-infrastructure-to-betrnk-inc/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-claims-to-be-selling-complete-source-code-and-gaming-infrastructure-to-betrnk-inc/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -17377,6 +17392,19 @@
             "Message ID": 1633,
             "discovered": "2025-01-06",
             "post_title": "🚨Cyberattack Alert ‼️\n\n🇦🇷Argentina - LOS ANDES\n\nAkira ransomware group claims to have breached LOS ANDES. \n\nAllegedly, financial data (audits, payment details, reports), contact numbers, and e-mail addresses of employees were exfiltrated.",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 1634,
+            "discovered": "2025-01-06",
+            "post_title": "🚨Cyberattack Alert ‼️\n\n🇺🇸USA - Velocitor Solutions\n\nCl0p ransomware group claims to have breached Velocitor Solutions.",
             "Attack Type": "Hacking",
             "Location": [
                 "N/A"
@@ -61952,6 +61980,367 @@
             "Matched Keywords": [
                 "Sonatype"
             ]
+        },
+        {
+            "Message ID": 101072,
+            "discovered": "2025-01-06",
+            "post_title": "Title: From threats to tactics: What to expect at Zero Trust World 2025\n\nDate: January 6, 2025\n\nSource: https://www.scworld.com/resource/from-threats-to-tactics-what-to-expect-at-zero-trust-world-2025\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/resource/from-threats-to-tactics-what-to-expect-at-zero-trust-world-2025"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101071,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Windows LDAP vulnerability gains POC exploit\n\nDate: January 6, 2025\n\nSource: https://www.scworld.com/brief/windows-ldap-vulnerability-gains-poc-exploit\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/windows-ldap-vulnerability-gains-poc-exploit"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101070,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Crypto phishing losses surged in 2024\n\nDate: January 6, 2025\n\nSource: https://www.scworld.com/brief/crypto-phishing-losses-surged-in-2024\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/crypto-phishing-losses-surged-in-2024"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101069,
+            "discovered": "2025-01-06",
+            "post_title": "Title: High-severity Nuclei signature verification bypass issue examined\n\nDate: January 6, 2025\n\nSource: https://www.scworld.com/brief/high-severity-nuclei-signature-verification-bypass-issue-examined\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/high-severity-nuclei-signature-verification-bypass-issue-examined"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101068,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Misconfigurations expose MyGiftCardSupply, Roomster customer data\n\nDate: January 6, 2025\n\nSource: https://www.scworld.com/brief/misconfigurations-expose-mygiftcardsupply-roomster-customer-data\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/misconfigurations-expose-mygiftcardsupply-roomster-customer-data"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101067,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Over 670K impacted by Richmond University Medical Center ransomware attack\n\nDate: January 6, 2025\n\nSource: https://www.scworld.com/brief/over-670k-impacted-by-richmond-university-medical-center-ransomware-attack\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/over-670k-impacted-by-richmond-university-medical-center-ransomware-attack"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101066,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Atos confirms third-party breach but rejects direct Space Bears compromise\n\nDate: January 6, 2025\n\nSource: https://www.scworld.com/brief/atos-confirms-third-party-breach-but-rejects-direct-space-bears-compromise\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/atos-confirms-third-party-breach-but-rejects-direct-space-bears-compromise"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101065,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Novel PLAYFULGHOST infostealer emerges\n\nDate: January 6, 2025\n\nSource: https://www.scworld.com/brief/novel-playfulghost-infostealer-emerges\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/novel-playfulghost-infostealer-emerges"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101064,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Identity Security in 2025: Defending against AI-driven cyberthreats and machine identity exploits\n\nDate: January 6, 2025\n\nSource: https://www.scworld.com/feature/identity-security-in-2025-defending-against-ai-driven-cyber-threats-and-machine-identity-exploits\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.scworld.com/feature/identity-security-in-2025-defending-against-ai-driven-cyber-threats-and-machine-identity-exploits"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101063,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Chinese cyber firm faces US sanctions over Flax Typhoon ties\n\nDate: January 6, 2025\n\nSource: https://www.scworld.com/brief/chinese-cyber-firm-faces-us-sanctions-over-flax-typhoon-ties\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US",
+                "China"
+            ],
+            "URLs": [
+                "https://www.scworld.com/brief/chinese-cyber-firm-faces-us-sanctions-over-flax-typhoon-ties"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101062,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Chinese hackers also breached Charter and Windstream networks\n\nDate: January 06, 2025\n\nSource: https://www.bleepingcomputer.com/news/security/charter-and-windstream-among-nine-us-telecoms-hacked-by-china/\n\n#News #China",
+            "Attack Type": "Hacking",
+            "Location": [
+                "China"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/charter-and-windstream-among-nine-us-telecoms-hacked-by-china/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101061,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Sinisterly - 🔍SEARCH STEALER LOGS BY URL | FIND SPECIFIC LOGINS IN SECONDS!🔍\n\nDetection Date: Mon Jan 06 18:26:10 2025\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-%F0%9F%94%8DSEARCH-STEALER-LOGS-BY-URL-FIND-SPECIFIC-LOGINS-IN-SECONDS-%F0%9F%94%8D\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "tps://sinister.ly/Thread-%F0%9F%94%8DSEARCH-STEALER-LOGS-BY-URL-FIND-SPECIFIC-LOGINS-IN-SECONDS-%F0%9F%94%8D\n\n"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101060,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Hispanic Heritage Month: Path to Collective Power - Part Two\n\nDate: January 6, 2025\n\nSource: https://www.recordedfuture.com/blog/erg-stories-hispanic-heritage-month-2024-limitless-life\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.recordedfuture.com/blog/erg-stories-hispanic-heritage-month-2024-limitless-life"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101059,
+            "discovered": "2025-01-06",
+            "post_title": "Title: [일본 애니메이션]盾の勇者の成り上がり Season 2(방패 용사 성공담 Season 2(2022)\n\nDate: January 6, 2025\n\nSource: https://wezard4u.tistory.com/429374\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://wezard4u.tistory.com/429374"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101058,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Sysdig is recognized as a Customers’ Choice in Gartner® Voice of the Customer for Cloud-Native Application Protection Platforms\n\nDate: January 6, 2025\n\nSource: https://sysdig.com/blog/sysdig-recognized-as-customers-choice-in-gartner-voice-of-the-customer-for-cnapp/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sysdig.com/blog/sysdig-recognized-as-customers-choice-in-gartner-voice-of-the-customer-for-cnapp/"
+            ],
+            "Matched Keywords": [
+                "Gartner"
+            ]
+        },
+        {
+            "Message ID": 101057,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Eagerbee backdoor deployed against Middle Eastern govt orgs, ISPs\n\nDate: January 06, 2025\n\nSource: https://www.bleepingcomputer.com/news/security/eagerbee-backdoor-deployed-against-middle-eastern-govt-orgs-isps/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bleepingcomputer.com/news/security/eagerbee-backdoor-deployed-against-middle-eastern-govt-orgs-isps/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101056,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-42867\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-42867\n\nDescription: This issue was addressed with improved validation of the process entitlement and Team ID. This issue is fixed in GarageBand 10.4.9. An app may be able to gain root privileges.\n\nPublication Date: Mon Jan 06 18:03:43 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-42867"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101055,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-12695\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12695\n\nDescription: Out of bounds write in V8 in Google Chrome prior to 131.0.6778.204 allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. (Chromium security severity: High)\n\nPublication Date: Mon Jan 06 18:03:32 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12695"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101054,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-49336\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-49336\n\nDescription: IBM Security Guardium 11.5 is vulnerable to server-side request forgery (SSRF). This may allow an authenticated attacker to send unauthorized requests from the system, potentially leading to network enumeration or facilitating other attacks.\n\nPublication Date: Mon Jan 06 18:03:21 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-49336"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101053,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2019-10891\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2019-10891\n\nDescription: An issue was discovered in D-Link DIR-806 devices. There is a command injection in function hnap_main, which calls system() without checking the parameter that can be controlled by user, and finally allows remote attackers to execute arbitrary shell commands with a special HTTP header.\n\nPublication Date: Mon Jan 06 18:03:10 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2019-10891"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101052,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2022-37056\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2022-37056\n\nDescription: D-Link GO-RT-AC750 GORTAC750_revA_v101b03 and GO-RT-AC750_revB_FWv200b02 is vulnerable to Command Injection via /cgibin, hnap_main,\n\nPublication Date: Mon Jan 06 18:02:59 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "GO"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2022-37056"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101051,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-8474\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-8474\n\nDescription: OpenVPN Connect before version 3.5.0 can contain the configuration profile's clear-text private key which is logged in the application log, which an unauthorized actor can use to decrypt the VPN traffic\n\nPublication Date: Mon Jan 06 18:02:48 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-8474"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101050,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-12997\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12997\n\nDescription: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. Reason: This candidate was issued in error. Notes: All references and descriptions in this candidate have been removed to prevent accidental usage.\n\nPublication Date: Mon Jan 06 18:02:38 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12997"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101049,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-12996\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12996\n\nDescription: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. Reason: This candidate was issued in error. Notes: All references and descriptions in this candidate have been removed to prevent accidental usage.\n\nPublication Date: Mon Jan 06 18:02:27 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12996"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -88868,6 +89257,126 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/akira-ransomware-victim-action-imports/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81005,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2024-13131 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13131/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13131/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81004,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2024-13132 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13132/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13132/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81003,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2024-13130 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13130/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13130/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81002,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2024-13133 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13133/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13133/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81001,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2024-13135 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13135/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13135/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81000,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2024-13134 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13134/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13134/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80999,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2025-0219 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0219/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0219/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80998,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2024-13136 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13136/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13136/"
             ],
             "Matched Keywords": [
                 "Other"
