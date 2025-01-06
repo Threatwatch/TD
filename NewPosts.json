@@ -11430,6 +11430,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 842,
+            "discovered": "2025-01-06",
+            "post_title": "https://x.com/falconfeedsio/status/1876189684151599130?s=46",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/falconfeedsio/status/1876189684151599130?s=46"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Anonymous Chat": [
@@ -87963,6 +87978,156 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/ransomhub-ransomware-victim-molars-co-ke/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80991,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2024-13140 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13140/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13140/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80990,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2024-13139 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13139/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13139/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80989,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2024-13138 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13138/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13138/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80988,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2025-0220 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0220/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0220/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80987,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2024-13137 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13137/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13137/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80986,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2025-0222 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0222/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0222/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80985,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2025-0221 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0221/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0221/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80984,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2025-0223 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0223/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0223/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80983,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2025-0225 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0225/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0225/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80982,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2024-13141 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13141/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13141/"
             ],
             "Matched Keywords": [
                 "Other"
