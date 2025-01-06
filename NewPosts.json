@@ -40354,6 +40354,23 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5251,
+            "discovered": "2025-01-06",
+            "post_title": "ID: 19940\n⚠ 2025-01-06 06:54:51\n🥷 ransomhub\n🎯 molars.co.ke, Kenya\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19940",
+            "Attack Type": "Unknown",
+            "Location": [
+                "06:54:51",
+                "Kenya"
+            ],
+            "URLs": [
+                "lars.co.ke, ",
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19940"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -61251,6 +61268,21 @@
             ],
             "URLs": [
                 "https://securelist.com/eagerbee-backdoor/115175/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101008,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Russian-Speaking Attackers Target Ethereum Devs with Fake Hardhat npm Packages\n\nDate: Jan 06, 2025\n\nSource: https://thehackernews.com/2025/01/russian-speaking-attackers-target.html\n\n#News #Russia",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Russia"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2025/01/russian-speaking-attackers-target.html"
             ],
             "Matched Keywords": [
                 "Other"
@@ -93131,6 +93163,19 @@
             "URLs": [
                 "https://awards.rai.net.in/admin/login.php"
             ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 3650,
+            "discovered": "2025-01-06",
+            "post_title": "This seems interesting\n\n\n\n#INDOHAXSEC",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
             "Matched Keywords": [
                 "Other"
             ]
