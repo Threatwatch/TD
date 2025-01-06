@@ -17305,6 +17305,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1626,
+            "discovered": "2025-01-06",
+            "post_title": "🚨Another DDoS?\n\n🇯🇵Japan - On January 6, 2025, users of the Mitsui Sumitomo Card app and the \"Vpass\" internet service experienced login difficulties from around 7:00 AM.\n\nThe issue was resolved by 9:30 AM, but during this period, the company’s website also became intermittently inaccessible. Mitsui Sumitomo Card is investigating the cause, including the possibility of a cyberattack. Similar disruptions affecting Mitsubishi UFJ Bank, Mizuho Bank, and Resona Bank last month were attributed to DDoS attacks.\nhttps://news.tv-asahi.co.jp/news_economy/articles/000395648.html",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "Japan"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -60817,6 +60830,217 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 100999,
+            "discovered": "2025-01-06",
+            "post_title": "Title: ISC Stormcast For Monday, January 6th, 2025 https://isc.sans.edu/podcastdetail/9266, (Mon, Jan 6th)\n\nDate: January 6, 2025\n\nSource: https://isc.sans.edu/diary/rss/31558\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/podcastdetail/9266",
+                "https://isc.sans.edu/diary/rss/31558"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100998,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-20154\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20154\n\nDescription: In Modem, there is a possible out of bounds write due to a missing bounds check. This could lead to remote code execution, if a UE has connected to a rogue base station controlled by the attacker, with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: MOLY00720348; Issue ID: MSV-2392.\n\nPublication Date: Mon Jan 06 07:09:15 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "UE"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20154"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100997,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-20140\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20140\n\nDescription: In power, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege if a malicious actor has already obtained the System privilege. User interaction is not needed for exploitation. Patch ID: ALPS09270402; Issue ID: MSV-2020.\n\nPublication Date: Mon Jan 06 07:09:04 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20140"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100996,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-20143\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20143\n\nDescription: In V6 DA, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege, if an attacker has physical access to the device, with no additional execution privileges needed. User interaction is needed for exploitation. Patch ID: ALPS09167056; Issue ID: MSV-2069.\n\nPublication Date: Mon Jan 06 07:08:54 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20143"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100995,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-20144\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20144\n\nDescription: In V6 DA, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege, if an attacker has physical access to the device, with no additional execution privileges needed. User interaction is needed for exploitation. Patch ID: ALPS09167056; Issue ID: MSV-2041.\n\nPublication Date: Mon Jan 06 07:08:43 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20144"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100994,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-20145\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20145\n\nDescription: In V6 DA, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege, if an attacker has physical access to the device, with no additional execution privileges needed. User interaction is needed for exploitation. Patch ID: ALPS09290940; Issue ID: MSV-2040.\n\nPublication Date: Mon Jan 06 07:08:32 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20145"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100993,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-20146\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20146\n\nDescription: In wlan STA driver, there is a possible out of bounds write due to improper input validation. This could lead to remote (proximal/adjacent) code execution with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: WCNCR00389496 / ALPS09137491; Issue ID: MSV-1835.\n\nPublication Date: Mon Jan 06 07:08:21 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20146"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100992,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-20148\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20148\n\nDescription: In wlan STA FW, there is a possible out of bounds write due to improper input validation. This could lead to remote (proximal/adjacent) code execution with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: WCNCR00389045 / ALPS09136494; Issue ID: MSV-1796.\n\nPublication Date: Mon Jan 06 07:08:10 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20148"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100991,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-20105\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20105\n\nDescription: In m4u, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege if a malicious actor has already obtained the System privilege. User interaction is not needed for exploitation. Patch ID: ALPS09062027; Issue ID: MSV-1743.\n\nPublication Date: Mon Jan 06 07:08:00 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20105"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100990,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-20149\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20149\n\nDescription: In Modem, there is a possible system crash due to improper input validation. This could lead to remote denial of service with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: MOLY01231341 / MOLY01263331 / MOLY01233835; Issue ID: MSV-2165.\n\nPublication Date: Mon Jan 06 07:07:49 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20149"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100989,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-20150\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20150\n\nDescription: In Modem, there is a possible system crash due to a logic error. This could lead to remote denial of service with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: MOLY01412526; Issue ID: MSV-2018.\n\nPublication Date: Mon Jan 06 07:07:38 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20150"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100988,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-20151\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20151\n\nDescription: In Modem, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege if a malicious actor has already obtained the System privilege. User interaction is not needed for exploitation. Patch ID: MOLY01399339; Issue ID: MSV-1928.\n\nPublication Date: Mon Jan 06 07:07:27 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20151"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100987,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-20152\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20152\n\nDescription: In wlan STA driver, there is a possible reachable assertion due to improper exception handling. This could lead to local denial of service if a malicious actor has already obtained the System privilege. User interaction is not needed for exploitation. Patch ID: WCNCR00389047 / ALPS09136505; Issue ID: MSV-1798.\n\nPublication Date: Mon Jan 06 07:07:17 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20152"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 100986,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-20153\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-20153\n\nDescription: In wlan STA, there is a possible way to trick a client to connect to an AP with spoofed SSID. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS08990446 / ALPS09057442; Issue ID: MSV-1598.\n\nPublication Date: Mon Jan 06 07:07:06 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-20153"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -87313,6 +87537,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cisa-cisa-releases-eight-industrial-control-systems-advisories-06-01-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80970,
+            "discovered": "2025-01-06",
+            "post_title": "Unlocking the World of Cryptographic Protocols - https://www.redpacketsecurity.com/unlocking-the-world-of-cryptographic-protocols/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/unlocking-the-world-of-cryptographic-protocols/"
             ],
             "Matched Keywords": [
                 "Other"
