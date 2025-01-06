@@ -35826,6 +35826,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 4166,
+            "discovered": "2025-01-06",
+            "post_title": "Group: darkvault\nApprox. Time: 12:38 06/01/25\nTitle: https://t.co/HM8rVG6qdF",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/HM8rVG6qdF"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RansomfeedNews": [
@@ -40382,6 +40397,21 @@
             "URLs": [
                 "lars.co.ke, ",
                 "p://www.ransomfeed.it/index.php?page=post_details&id_post=19940"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5252,
+            "discovered": "2025-01-06",
+            "post_title": "ID: 19941\n⚠ 2025-01-03 10:00:36\n🥷 clop\n🎯 WSI Warehouse Specialists, LLC, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19941",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19941"
             ],
             "Matched Keywords": [
                 "Other"
@@ -61628,6 +61658,176 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-45559"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101041,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Be Kind, Rewind... The USN Journal\n\nDate: January 6, 2025\n\nSource: https://www.youtube.com/watch?v=GDc8TbWiQio\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.youtube.com/watch?v=GDc8TbWiQio"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101040,
+            "discovered": "2025-01-06",
+            "post_title": "Title: DemonForums - ebay accounts\n\nDetection Date: Mon Jan 06 15:50:26 2025\n\nSource: demonforums\n\nURL: https://demonforums.net/Thread-ebay-accounts--4655\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://demonforums.net/Thread-ebay-accounts--4655"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101039,
+            "discovered": "2025-01-06",
+            "post_title": "Victim: yoniot.cn\n\nDetection Date: Mon Jan 06 15:50:02 2025\n\nThreat Actor: darkvault\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "yoniot.cn"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101038,
+            "discovered": "2025-01-06",
+            "post_title": "Target: https://www.bashkiahas.gov.al/2.txt\n\nNotified: Ramil Feyziyev\n\nDate: Mon, 06 Jan 2025 12:34:32 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313965\n\n#Defacements #Albania",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bashkiahas.gov.al/2.txt",
+                "http://www.zone-h.org/mirror/id/41313965"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101037,
+            "discovered": "2025-01-06",
+            "post_title": "Target: https://www.memaliaj.gov.al/2.txt\n\nNotified: Ramil Feyziyev\n\nDate: Mon, 06 Jan 2025 12:34:33 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313966\n\n#Defacements #Albania",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.memaliaj.gov.al/2.txt",
+                "http://www.zone-h.org/mirror/id/41313966"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101036,
+            "discovered": "2025-01-06",
+            "post_title": "Target: https://www.polican.gov.al/2.txt\n\nNotified: Ramil Feyziyev\n\nDate: Mon, 06 Jan 2025 12:34:34 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313967\n\n#Defacements #Albania",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.polican.gov.al/2.txt",
+                "http://www.zone-h.org/mirror/id/41313967"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101035,
+            "discovered": "2025-01-06",
+            "post_title": "Target: https://www.bashkiadivjake.gov.al\n\nNotified: Ramil Feyziyev\n\nDate: Mon, 06 Jan 2025 12:34:31 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313964\n\n#Defacements #Albania",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bashkiadivjake.gov.al",
+                "http://www.zone-h.org/mirror/id/41313964"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101034,
+            "discovered": "2025-01-06",
+            "post_title": "Target: https://www.bashkiadevoll.gov.al\n\nNotified: Ramil Feyziyev\n\nDate: Mon, 06 Jan 2025 12:34:30 +0000\n\nSource: Zone-H\n\nMirror: http://www.zone-h.org/mirror/id/41313963\n\n#Defacements #Albania",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.bashkiadevoll.gov.al",
+                "http://www.zone-h.org/mirror/id/41313963"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101033,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Weekly Vulnerability Roundup: Highlights from SingCERT’s Security Bulletin\n\nDate: January 6, 2025\n\nSource: https://cyble.com/blog/singcert-highlights-critical-cves-in-latest-security-bulletin/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://cyble.com/blog/singcert-highlights-critical-cves-in-latest-security-bulletin/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101032,
+            "discovered": "2025-01-06",
+            "post_title": "Title: ⚡ THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [6 Jan]\n\nDate: Jan 06, 2025\n\nSource: https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101031,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-12970\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12970\n\nDescription: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability in TUBITAK BILGEM Pardus OS My Computer allows OS Command Injection.This issue affects Pardus OS My Computer: before 0.7.2.\n\nPublication Date: Mon Jan 06 15:05:53 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12970"
             ],
             "Matched Keywords": [
                 "Other"
@@ -88458,6 +88658,36 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-13141/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80993,
+            "discovered": "2025-01-06",
+            "post_title": "Cobalt Strike Beacon Detected - 147[.]45[.]47[.]69:4433 - https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-147-45-47-69-port-4433/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cobalt-stike-beacon-detected-147-45-47-69-port-4433/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80992,
+            "discovered": "2025-01-06",
+            "post_title": "CovenantC2 Detected - 210[.]89[.]45[.]122:7443 - https://www.redpacketsecurity.com/covenant-c2-detected-210-89-45-122-port-7443/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/covenant-c2-detected-210-89-45-122-port-7443/"
             ],
             "Matched Keywords": [
                 "Other"
