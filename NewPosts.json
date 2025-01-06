@@ -8995,6 +8995,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10100,
+            "discovered": "2025-01-06",
+            "post_title": "💡Daily Dose of Dark Web Informer - January 6th, 2025\n\nhttps://darkwebinformer.com/daily-dose-of-dark-web-informer-january-6th-2025/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/daily-dose-of-dark-web-informer-january-6th-2025/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -64543,6 +64558,231 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 101198,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-29402\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-29402\n\nDescription: The go command may generate unexpected code at build time when using cgo. This may result in unexpected behavior when running a go program which uses cgo. This may occur when running an untrusted module which contains directories with newline characters in their names. Modules which are retrieved using the go command, i.e. via \"go get\", are not affected (modules retrieved using GOPATH-mode, i.e. GO111MODULE=off, may be affected).\n\nPublication Date: Tue Jan 07 02:11:58 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-29402"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101197,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-34566\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34566\n\nDescription: Tenda AC10 v4 US_AC10V4.0si_V16.03.10.13_cn was discovered to contain a stack overflow via parameter time at /goform/saveParentControlInfo.\n\nPublication Date: Tue Jan 07 02:11:47 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34566"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101196,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-34568\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34568\n\nDescription: Tenda AC10 v4 US_AC10V4.0si_V16.03.10.13_cn was discovered to contain a stack overflow via parameter time at /goform/PowerSaveSet.\n\nPublication Date: Tue Jan 07 02:11:37 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34568"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101195,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-46981\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-46981\n\nDescription: Redis is an open source, in-memory database that persists on disk. An authenticated user may use a specially crafted Lua script to manipulate the garbage collector and potentially lead to remote code execution. The problem is fixed in 7.4.2, 7.2.7, and 6.2.17. An additional workaround to mitigate the problem without patching the redis-server executable is to prevent users from executing Lua scripts. This can be done using ACL to restrict EVAL and EVALSHA commands.\n\nPublication Date: Tue Jan 07 02:11:26 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-46981"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101194,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-48456\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48456\n\nDescription: An issue in Netis Wifi6 Router NX10 2.0.1.3643 and 2.0.1.3582 and Netis Wifi 11AC Router NC65 3.0.0.3749 and Netis Wifi 11AC Router NC63 3.0.0.3327 and 3.0.0.3503 and Netis Wifi 11AC Router NC21 3.0.0.3800, 3.0.0.3500 and 3.0.0.3329 and Netis Wifi Router MW5360 1.0.1.3442 and 1.0.1.3031 allows a remote attacker to obtain sensitive information via the parameter password at the change admin password page at the router web interface.\n\nPublication Date: Tue Jan 07 02:11:15 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48456"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101193,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-48457\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-48457\n\nDescription: An issue in Netis Wifi6 Router NX10 2.0.1.3643 and 2.0.1.3582 and Netis Wifi 11AC Router NC65 3.0.0.3749 and Netis Wifi 11AC Router NC63 3.0.0.3327 and 3.0.0.3503 and Netis Wifi 11AC Router NC21 3.0.0.3800, 3.0.0.3500 and 3.0.0.3329 and Netis Wifi Router MW5360 1.0.1.3442 and 1.0.1.3031 allows a remote attacker to obtain sensitive information via the endpoint /cgi-bin/skk_set.cgi and binary /bin/scripts/start_wifi.sh\n\nPublication Date: Tue Jan 07 02:11:04 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-48457"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101192,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-53931\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53931\n\nDescription: The com.glitter.caller.screen (aka iCaller, Caller Theme & Dialer) application through 1.1 for Android enables any application (with no permissions) to place phone calls without user interaction by sending a crafted intent via the com.glitter.caller.screen.DialerActivity component.\n\nPublication Date: Tue Jan 07 02:10:54 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53931"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101191,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-53932\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53932\n\nDescription: The com.remi.colorphone.callscreen.calltheme.callerscreen (aka Color Phone: Call Screen Theme) application through 21.1.9 for Android enables any application (with no permissions) to place phone calls without user interaction by sending a crafted intent via the com.remi.colorphone.callscreen.calltheme.callerscreen.dialer.DialerActivity component.\n\nPublication Date: Tue Jan 07 02:10:43 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53932"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101190,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-53933\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53933\n\nDescription: The com.callerscreen.colorphone.themes.callflash (aka Color Call Theme & Call Screen) application through 1.0.7 for Android enables any application (with no permissions) to place phone calls without user interaction by sending a crafted intent via the com.android.call.color.app.activities.DialerActivity component.\n\nPublication Date: Tue Jan 07 02:10:32 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53933"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101189,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-53934\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53934\n\nDescription: The com.windymob.callscreen.ringtone.callcolor.colorphone (aka Color Phone Call Screen Themes) application through 1.1.2 for Android enables any application (with no permissions) to place phone calls without user interaction by sending a crafted intent via the com.frovis.androidbase.call.DialerActivity component.\n\nPublication Date: Tue Jan 07 02:10:21 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53934"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101188,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-53935\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53935\n\nDescription: The com.callos14.callscreen.colorphone (aka iCall OS17 - Color Phone Flash) application through 4.3 for Android enables any application (with no permissions) to place phone calls without user interaction by sending a crafted intent via the com.callos14.callscreen.colorphone.DialerActivity component.\n\nPublication Date: Tue Jan 07 02:10:10 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53935"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101187,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-53936\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-53936\n\nDescription: The com.asianmobile.callcolor (aka Color Phone Call Screen App) application through 24 for Android enables any application (with no permissions) to place phone calls without user interaction by sending a crafted intent via the com.asianmobile.callcolor.ui.component.call.CallActivity component.\n\nPublication Date: Tue Jan 07 02:10:00 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-53936"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101186,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-54763\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-54763\n\nDescription: An access control issue in the component /login/hostinfo.cgi of ipTIME A2004 v12.17.0 allows attackers to obtain sensitive information without authentication.\n\nPublication Date: Tue Jan 07 02:09:49 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-54763"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101185,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-55553\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-55553\n\nDescription: In FRRouting (FRR) before 10.3, it is possible for an attacker to trigger repeated RIB revalidation by sending approximately 500 RPKI updates, potentially leading to prolonged revalidation times and a Denial of Service (DoS) scenario.\n\nPublication Date: Tue Jan 07 02:09:38 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-55553"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101184,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2025-21620\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-21620\n\nDescription: Deno is a JavaScript, TypeScript, and WebAssembly runtime with secure defaults. When you send a request with the Authorization header to one domain, and the response asks to redirect to a different domain, Deno'sfetch() redirect handling creates a follow-up redirect request that keeps the original Authorization header, leaking its content to that second domain. This vulnerability is fixed in 2.1.2.\n\nPublication Date: Tue Jan 07 02:09:27 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-21620"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -91654,6 +91894,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/clop-ransomware-victim-velsol-com/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81011,
+            "discovered": "2025-01-06",
+            "post_title": "US-CERT Vulnerability Summary for the Week of December 30, 2024 - https://www.redpacketsecurity.com/cisa-vulnerability-summary-for-the-week-of-december-30-2024/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "US"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cisa-vulnerability-summary-for-the-week-of-december-30-2024/"
             ],
             "Matched Keywords": [
                 "Other"
