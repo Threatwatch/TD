@@ -8679,6 +8679,112 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10085,
+            "discovered": "2025-01-06",
+            "post_title": "🚨🇺🇸A Threat Actor is Allegedly Selling Coinpayment Leads\n\nhttps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-coinpayment-leads/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-is-allegedly-selling-coinpayment-leads/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10084,
+            "discovered": "2025-01-06",
+            "post_title": "🚨🇨🇳A Threat Actor Claims to Have Leaked the Data of Zhejiang Hengyi Group Co., Ltd.\n\nhttps://darkwebinformer.com/a-threat-actor-claims-to-have-leaked-the-data-of-zhejiang-hengyi-group-co-ltd/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-claims-to-have-leaked-the-data-of-zhejiang-hengyi-group-co-ltd/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10083,
+            "discovered": "2025-01-06",
+            "post_title": "🚨🇮🇳Systemadminbd Defaced the Website of State Appellate Authority\n\nhttps://darkwebinformer.com/systemadminbd-defaced-the-website-of-state-appellate-authority/",
+            "Attack Type": "Defacement",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/systemadminbd-defaced-the-website-of-state-appellate-authority/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10082,
+            "discovered": "2025-01-06",
+            "post_title": "🚨🇮🇱RipperSec Targeted the Website of National Institute of Psychobiology in Israel\n\nhttps://darkwebinformer.com/rippersec-targeted-the-website-of-national-institute-of-psychobiology-in-israel/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Israel",
+                "https://darkwebinformer.com/rippersec-targeted-the-website-of-national-institute-of-psychobiology-in-israel/"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rippersec-targeted-the-website-of-national-institute-of-psychobiology-in-israel/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10081,
+            "discovered": "2025-01-06",
+            "post_title": "🚨🇬🇧Rey of HELLCAT Ransomware Claims to have Leaked the Data of Car Care Plan (CCP)\n\nhttps://darkwebinformer.com/rey-of-hellcat-ransomware-claims-to-have-leaked-the-data-of-car-care-plan-ccp/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/rey-of-hellcat-ransomware-claims-to-have-leaked-the-data-of-car-care-plan-ccp/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10080,
+            "discovered": "2025-01-06",
+            "post_title": "🚨🇵🇱NoName Targeted Many Websites in Poland\n\nhttps://darkwebinformer.com/noname-targeted-many-websites-in-poland/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Poland"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/noname-targeted-many-websites-in-poland/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10079,
+            "discovered": "2025-01-06",
+            "post_title": "🚨🇫🇷A Threat Actor Claims to be Selling 300 CC from France\n\nhttps://darkwebinformer.com/a-threat-actor-claims-to-be-selling-300-cc-from-france/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "France"
+            ],
+            "URLs": [
+                "ps://darkwebinformer.com/a-threat-actor-claims-to-be-selling-300-cc-from-france/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -23162,6 +23268,40 @@
                 "Poland"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 524,
+            "discovered": "2025-01-06",
+            "post_title": "❗️We attacking Poland because of they are supporting Ukraine\n\n\n\n🆘 Poland Official Governments:\n\n\n\n🔴https://ade.gov.pl/\nhttps://check-host.net/check-report/22033f6fk88d\n\n🔴https://www.clp.gov.pl/\nhttps://check-host.net/check-report/22034ca5kdee\n\n🔴https://web.gov.pl/\nhttps://check-host.net/check-report/22034ddfk756\n\n🔴https://srb.gov.pl/\nhttps://check-host.net/check-report/2203504ek8ec\n\n🔴https://krus.gov.pl/\nhttps://check-host.net/check-report/220351b0kb20\n\n\n\n🆘 Utilities:\n\n🔴https://www.psgaz.pl/\nhttps://check-host.net/check-report/220a7067k3a0\n\n\n\n🆘 Transport and Railways:\n\n\n\n🔴https://www.pkp.pl/\nhttps://check-host.net/check-report/21fe7c58kd26\n\n🔴https://www.intercity.pl/\nhttps://check-host.net/check-report/2203537dk64e\n\n🔴https://rozklad-pkp.pl/\nhttps://check-host.net/check-report/220355e3k84e\n\n\n\n\n\n#ServerKillers",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Poland",
+                "Ukraine",
+                "Poland"
+            ],
+            "URLs": [
+                "tps://ade.gov.pl/\nh",
+                "tps://check-host.net/check-report/22033f6fk88d\n\n",
+                "ps://www.clp.gov.pl/\nht",
+                "ps://check-host.net/check-report/22034ca5kdee\n\n🔴",
+                "s://web.gov.pl/\nhtt",
+                "s://check-host.net/check-report/22034ddfk756\n\n🔴h",
+                "://srb.gov.pl/\nhttp",
+                "://check-host.net/check-report/2203504ek8ec\n\n🔴ht",
+                "//krus.gov.pl/\nhttps",
+                "//check-host.net/check-report/220351b0kb20\n\n\n\n🆘 ",
+                "www.psgaz.pl/\nhttps:/",
+                "check-host.net/check-report/220a7067k3a0\n\n\n\n🆘 Tr",
+                "w.pkp.pl/\nhttps://c",
+                "eck-host.net/check-report/21fe7c58kd26\n\n🔴https:/",
+                ".intercity.pl/\nhttps://ch",
+                "ck-host.net/check-report/2203537dk64e\n\n🔴https://",
+                "lad-pkp.pl/\nhttps://che",
+                "k-host.net/check-report/220355e3k84e\n\n\n\n\n\n#Serve"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
@@ -40453,6 +40593,99 @@
             ],
             "URLs": [
                 "p://www.ransomfeed.it/index.php?page=post_details&id_post=19941"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5258,
+            "discovered": "2025-01-06",
+            "post_title": "ID: 19943\n⚠ 2025-01-06 14:40:42\n🥷 akira\n🎯 Action Imports, Canada\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19943",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Canada"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19943"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5257,
+            "discovered": "2025-01-06",
+            "post_title": "ID: 19944\n⚠ 2025-01-06 13:07:15\n🥷 darkvault\n🎯 yoniot.cn, China\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19944",
+            "Attack Type": "Unknown",
+            "Location": [
+                "China",
+                "🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19944"
+            ],
+            "URLs": [
+                "niot.cn, ",
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19944"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5256,
+            "discovered": "2025-01-06",
+            "post_title": "ID: 19945\n⚠ 2025-01-06 16:39:45\n🥷 akira\n🎯 Maverick Constructors, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19945",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19945"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5255,
+            "discovered": "2025-01-06",
+            "post_title": "ID: 19946\n⚠ 2025-01-06 16:39:44\n🥷 akira\n🎯 A Bar A Ranch, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19946",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19946"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5254,
+            "discovered": "2025-01-06",
+            "post_title": "ID: 19947\n⚠ 2025-01-06 15:41:17\n🥷 akira\n🎯 Los Andes, Argentina\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19947",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Los Andes",
+                "Argentina"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19947"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5253,
+            "discovered": "2025-01-06",
+            "post_title": "ID: 19942\n⚠ 2025-01-06 14:40:43\n🥷 akira\n🎯 Bluegrass Ingredients, USA\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19942",
+            "Attack Type": "Unknown",
+            "Location": [
+                "USA"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19942"
             ],
             "Matched Keywords": [
                 "Other"
@@ -62337,6 +62570,238 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-12996"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101087,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Sonatype customers leading with innovation in the new year\n\nDate: January 6, 2025\n\nSource: https://www.sonatype.com/blog/sonatype-customers-leading-with-innovation-in-the-new-year\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.sonatype.com/blog/sonatype-customers-leading-with-innovation-in-the-new-year"
+            ],
+            "Matched Keywords": [
+                "Sonatype"
+            ]
+        },
+        {
+            "Message ID": 101086,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Sinisterly - Make Your Capital\n\nDetection Date: Mon Jan 06 19:36:20 2025\n\nSource: sinisterly\n\nURL: https://sinister.ly/Thread-Make-Your-Capital\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://sinister.ly/Thread-Make-Your-Capital"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101085,
+            "discovered": "2025-01-06",
+            "post_title": "Vulnerability ID: CVE-2024-12794\n\nDescription: A vulnerability, which was classified as critical, was found in Codezips E-Commerce Site 1.0. This affects an unknown part of the file /admin/editorder.php. The manipulation of the argument dstatus/quantity/ddate leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-12794\n\nDate of Publishing: 2025/01/06\n\nLink to Exploit: https://github.com/laowuzi/cve/blob/main/E-commerce/E-commerce_editorder.md\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12794",
+                "https://github.com/laowuzi/cve/blob/main/E-commerce/E-commerce_editorder.md"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101084,
+            "discovered": "2025-01-06",
+            "post_title": "Vulnerability ID: CVE-2024-13078\n\nDescription: A vulnerability has been found in PHPGurukul Land Record System 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /index.php. The manipulation of the argument searchdata leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-13078\n\nDate of Publishing: 2025/01/06\n\nLink to Exploit: https://vuldb.com/?submit.472187\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13078",
+                "https://vuldb.com/?submit.472187"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101083,
+            "discovered": "2025-01-06",
+            "post_title": "Vulnerability ID: CVE-2024-13079\n\nDescription: A vulnerability was found in PHPGurukul Land Record System 1.0 and classified as critical. Affected by this issue is some unknown functionality of the file /admin/property-details.php. The manipulation of the argument editid leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-13079\n\nDate of Publishing: 2025/01/06\n\nLink to Exploit: https://vuldb.com/?submit.472188\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13079",
+                "https://vuldb.com/?submit.472188"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101082,
+            "discovered": "2025-01-06",
+            "post_title": "Vulnerability ID: CVE-2024-13076\n\nDescription: A vulnerability, which was classified as problematic, has been found in PHPGurukul Land Record System 1.0. This issue affects some unknown processing of the file /admin/edit-propertytype.php. The manipulation of the argument Property Type leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-13076\n\nDate of Publishing: 2025/01/06\n\nLink to Exploit: https://vuldb.com/?submit.472185\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13076",
+                "https://vuldb.com/?submit.472185"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101081,
+            "discovered": "2025-01-06",
+            "post_title": "Vulnerability ID: CVE-2024-13077\n\nDescription: A vulnerability, which was classified as problematic, was found in PHPGurukul Land Record System 1.0. Affected is an unknown function of the file /admin/add-property.php. The manipulation of the argument Land Subtype leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-13077\n\nDate of Publishing: 2025/01/06\n\nLink to Exploit: https://vuldb.com/?submit.472186\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Exploit"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13077",
+                "https://vuldb.com/?submit.472186"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101080,
+            "discovered": "2025-01-06",
+            "post_title": "Vulnerability ID: CVE-2024-13075\n\nDescription: A vulnerability classified as problematic was found in PHPGurukul Land Record System 1.0. This vulnerability affects unknown code of the file /admin/add-propertytype.php. The manipulation of the argument Land Property Type leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.\n\nReferance: https://nvd.nist.gov/vuln/detail/CVE-2024-13075\n\nDate of Publishing: 2025/01/06\n\nLink to Exploit: https://vuldb.com/?submit.472183\n\n#CVE #vulnerability #exploit",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13075",
+                "https://vuldb.com/?submit.472183"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101079,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-12793\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12793\n\nDescription: A vulnerability, which was classified as problematic, has been found in PbootCMS up to 5.2.3. Affected by this issue is some unknown functionality of the file apps/home/controller/IndexController.php. The manipulation of the argument tag leads to path traversal. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 5.2.4 is able to address this issue. It is recommended to upgrade the affected component.\n\nPublication Date: Mon Jan 06 19:02:39 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12793"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101078,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-13072\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-13072\n\nDescription: A vulnerability was found in 1000 Projects Beauty Parlour Management System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file /admin/add-customer-services.php of the component Customer Detail Handler. The manipulation of the argument sids[] leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Jan 06 19:02:28 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13072"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101077,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-27836\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-27836\n\nDescription: TP-Link TL-WPA8630P (US)_ V2_ Version 171011 was discovered to contain a command injection vulnerability via the devicePwd parameter in the function sub_ 40A80C.\n\nPublication Date: Mon Jan 06 19:02:17 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "CVE-2023",
+                "US"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-27836"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101076,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-12792\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12792\n\nDescription: A vulnerability classified as critical was found in Codezips E-Commerce Site 1.0. Affected by this vulnerability is an unknown functionality of the file newadmin.php. The manipulation of the argument email leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Jan 06 19:02:06 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12792"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101075,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2025-21604\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-21604\n\nDescription: LangChain4j-AIDeepin is a Retrieval enhancement generation (RAG) project. Prior to 3.5.0, LangChain4j-AIDeepin uses MD5 to hash files, which may cause file upload conflicts. This issue is fixed in 3.5.0.\n\nPublication Date: Mon Jan 06 19:01:55 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-21604"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101074,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-24546\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-24546\n\nDescription: On affected versions of the CloudVision Portal improper access controls on the connection from devices to CloudVision could enable a malicious actor with network access to CloudVision to get broader access to telemetry and configuration data within the system than intended. This advisory impacts the Arista CloudVision Portal product when run on-premise. It does not impact CloudVision as-a-Service.\n\nPublication Date: Mon Jan 06 19:01:44 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-24546"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101073,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2025-21611\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-21611\n\nDescription: tgstation-server is a production scale tool for BYOND server management. Prior to 6.12.3, roles used to authorize API methods were incorrectly OR'd instead of AND'ed with the role used to determine if a user was enabled. This allows enabled users access to most, but not all, authorized actions regardless of their permissions. Notably, the WriteUsers right is unaffected so users may not use this bug to permanently elevate their account permissions. The fix is release in tgstation-server-v6.12.3.\n\nPublication Date: Mon Jan 06 19:01:33 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "BYOND"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-21611"
             ],
             "Matched Keywords": [
                 "Other"
@@ -89377,6 +89842,36 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2024-13136/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81007,
+            "discovered": "2025-01-06",
+            "post_title": "[DARKVAULT] - Ransomware Victim: yoniot[.]cn - https://www.redpacketsecurity.com/darkvault-ransomware-victim-yoniot-cn/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/darkvault-ransomware-victim-yoniot-cn/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81006,
+            "discovered": "2025-01-06",
+            "post_title": "[AKIRA] - Ransomware Victim: A Bar A Ranch - https://www.redpacketsecurity.com/akira-ransomware-victim-a-bar-a-ranch/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/akira-ransomware-victim-a-bar-a-ranch/"
             ],
             "Matched Keywords": [
                 "Other"
