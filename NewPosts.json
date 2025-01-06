@@ -26211,6 +26211,32 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5661,
+            "discovered": "2025-01-06",
+            "post_title": "That equates to roughly $3,900 of monthly revenue.\n\nChat, we are absolutely cooked",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 5660,
+            "discovered": "2025-01-06",
+            "post_title": "In 2025 thus far we have lost 2 sponsors — potentially 3 sponsors.\n\nChat, we are cooked",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "DARKFEED": [
@@ -35728,6 +35754,21 @@
                 "Approx"
             ],
             "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 4165,
+            "discovered": "2025-01-06",
+            "post_title": "Group: ransomhub\nApprox. Time: 06:44 06/01/25\nTitle: https://t.co/NX2nbXQ3xq",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Approx"
+            ],
+            "URLs": [
+                "https://t.co/NX2nbXQ3xq"
+            ],
             "Matched Keywords": [
                 "Other"
             ]
@@ -61050,6 +61091,21 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2024-20153"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101000,
+            "discovered": "2025-01-06",
+            "post_title": "Title: DemonForums - EU MIX_20 000 000\n\nDetection Date: Mon Jan 06 09:42:16 2025\n\nSource: demonforums\n\nURL: https://demonforums.net/Thread-EU-MIX-20-000-000\n\n#darkforums #leak",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://demonforums.net/Thread-EU-MIX-20-000-000"
             ],
             "Matched Keywords": [
                 "Other"
