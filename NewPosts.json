@@ -17344,6 +17344,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1632,
+            "discovered": "2025-01-06",
+            "post_title": "🚨Fake EditThisCookie Extension Steals User Data\n\nA fake Chrome extension named EditThisCookie®, developed with Manifest v3, has been identified as malicious, stealing user cookies and potentially posting phishing content through victims' social media accounts.\n\nThe fake extension mimics the popular EditThisCookie extension, which was removed from the Chrome Web Store due to its reliance on the Manifest v2 framework. Before its removal, the malicious extension was downloaded approximately 30,000 times.\n\nThe original EditThisCookie remains safely available on GitHub for manual installation.\n\nFull article:\nhttps://securityonline.info/beware-fake-editthiscookie-extension-steals-user-data/",
+            "Attack Type": "Phishing",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -61212,6 +61225,36 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 101007,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Some weeks in security (December 16 – January 5)\n\nDate: January 6, 2025\n\nSource: https://www.malwarebytes.com/blog/news/2025/01/some-weeks-in-security-december-16-january-5\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.malwarebytes.com/blog/news/2025/01/some-weeks-in-security-december-16-january-5"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101006,
+            "discovered": "2025-01-06",
+            "post_title": "Title: EAGERBEE, with updated and novel components, targets the Middle East\n\nDate: January 6, 2025\n\nSource: https://securelist.com/eagerbee-backdoor/115175/\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://securelist.com/eagerbee-backdoor/115175/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -87873,6 +87916,21 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cve_alert_cve-2025-0230/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80981,
+            "discovered": "2025-01-06",
+            "post_title": "[RANSOMHUB] - Ransomware Victim: molars[.]co[.]ke - https://www.redpacketsecurity.com/ransomhub-ransomware-victim-molars-co-ke/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/ransomhub-ransomware-victim-molars-co-ke/"
             ],
             "Matched Keywords": [
                 "Other"
