@@ -61302,6 +61302,336 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 101030,
+            "discovered": "2025-01-06",
+            "post_title": "Title: From $22M in Ransom to +100M Stolen Records: 2025's All-Star SaaS Threat Actors to Watch\n\nDate: Jan 06, 2025\n\nSource: https://thehackernews.com/2025/01/from-22m-in-ransom-to-100m-stolen.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2025/01/from-22m-in-ransom-to-100m-stolen.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101029,
+            "discovered": "2025-01-06",
+            "post_title": "Title: Cybercriminals Target Ethereum Developers with Fake Hardhat npm Packages\n\nDate: Jan 06, 2025\n\nSource: https://thehackernews.com/2025/01/russian-speaking-attackers-target.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2025/01/russian-speaking-attackers-target.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101028,
+            "discovered": "2025-01-06",
+            "post_title": "Title: FireScam Android Malware Poses as Telegram Premium to Steal Data and Control Devices\n\nDate: Jan 06, 2025\n\nSource: https://thehackernews.com/2025/01/firescam-android-malware-poses-as.html\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://thehackernews.com/2025/01/firescam-android-malware-poses-as.html"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101027,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-21464\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-21464\n\nDescription: Memory corruption while processing IPA statistics, when there are no active clients registered.\n\nPublication Date: Mon Jan 06 14:10:44 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-21464"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101026,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-23366\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-23366\n\nDescription: Information Disclosure while invoking the mailbox write API when message received from user is larger than mailbox size.\n\nPublication Date: Mon Jan 06 14:10:33 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-23366"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101025,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-33041\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-33041\n\nDescription: Memory corruption when input parameter validation for number of fences is missing for fence frame IOCTL calls,\n\nPublication Date: Mon Jan 06 14:10:22 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-33041"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101024,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-33055\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-33055\n\nDescription: Memory corruption while invoking IOCTL calls to unmap the DMA buffers.\n\nPublication Date: Mon Jan 06 14:10:11 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-33055"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101023,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-33059\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-33059\n\nDescription: Memory corruption while processing frame command IOCTL calls.\n\nPublication Date: Mon Jan 06 14:10:00 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-33059"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101022,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-33061\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-33061\n\nDescription: Information disclosure while processing IOCTL call made for releasing a trusted VM process release or opening a channel without initializing the process.\n\nPublication Date: Mon Jan 06 14:09:49 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-33061"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101021,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-33067\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-33067\n\nDescription: Information disclosure while invoking callback function of sound model driver from ADSP for every valid opcode received from sound model driver.\n\nPublication Date: Mon Jan 06 14:09:38 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "ADSP"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-33067"
+            ],
+            "Matched Keywords": [
+                "Valid"
+            ]
+        },
+        {
+            "Message ID": 101020,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-43063\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43063\n\nDescription: information disclosure while invoking the mailbox read API.\n\nPublication Date: Mon Jan 06 14:09:27 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43063"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101019,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-43064\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-43064\n\nDescription: Uncontrolled resource consumption when a driver, an application or a SMMU client tries to access the global registers through SMMU.\n\nPublication Date: Mon Jan 06 14:09:16 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-43064"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101018,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-45541\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45541\n\nDescription: Memory corruption when IOCTL call is invoked from user-space to read board data.\n\nPublication Date: Mon Jan 06 14:09:05 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45541"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101017,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-45542\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45542\n\nDescription: Memory corruption when IOCTL call is invoked from user-space to write board data to WLAN driver.\n\nPublication Date: Mon Jan 06 14:08:54 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45542"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101016,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-45546\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45546\n\nDescription: Memory corruption while processing FIPS encryption or decryption IOCTL call invoked from user-space.\n\nPublication Date: Mon Jan 06 14:08:43 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45546"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101015,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-45547\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45547\n\nDescription: Memory corruption while processing IOCTL call invoked from user-space to verify non extension FIPS encryption and decryption functionality.\n\nPublication Date: Mon Jan 06 14:08:33 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45547"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101014,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-45548\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45548\n\nDescription: Memory corruption while processing FIPS encryption or decryption validation functionality IOCTL call.\n\nPublication Date: Mon Jan 06 14:08:22 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45548"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101013,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-45550\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45550\n\nDescription: Memory corruption occurs when invoking any IOCTL-calling application that executes all MCDM driver IOCTL calls.\n\nPublication Date: Mon Jan 06 14:08:11 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45550"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101012,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-45553\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45553\n\nDescription: Memory corruption can occur when process-specific maps are added to the global list. If a map is removed from the global list while another thread is using it for a process-specific task, issues may arise.\n\nPublication Date: Mon Jan 06 14:08:00 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45553"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101011,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-45555\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45555\n\nDescription: Memory corruption can occur if an already verified IFS2 image is overwritten, bypassing boot verification. This allows unauthorized programs to be injected into security-sensitive images, enabling the booting of a tampered IFS2 system image.\n\nPublication Date: Mon Jan 06 14:07:49 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45555"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101010,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-45558\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45558\n\nDescription: Transient DOS can occur when the driver parses the per STA profile IE and tries to access the EXTN element ID without checking the IE length.\n\nPublication Date: Mon Jan 06 14:07:38 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45558"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101009,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-45559\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-45559\n\nDescription: Transient DOS can occur when GVM sends a specific message type to the Vdev-FastRPC backend.\n\nPublication Date: Mon Jan 06 14:07:27 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-45559"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
