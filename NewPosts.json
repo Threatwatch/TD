@@ -17318,6 +17318,19 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 1627,
+            "discovered": "2025-01-06",
+            "post_title": "🚨BEC Scam - Modalis\n\n🇯🇵Japan - Modalis reported a fraudulent incident where $90,000 USD (approximately 14 million JPY) was lost due to a business email compromise (BEC) scam.\n\nA malicious actor impersonated a legitimate vendor (\"A Corporation\") by hijacking their email account to send fraudulent payment instructions. The payment was sent to a fake bank account.\n\nAlthough part of the funds was recovered through bank collaboration and insurance, the company confirmed a final loss of $90,000 USD.\n\nSource:\nhttps://contents.xj-storage.jp/xcontents/AS04819/7189ea3b/e1be/4248/88ba/ff080c803bff/140120241227545975.pdf",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Japan"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "ANONYM∅US": [
@@ -87552,6 +87565,156 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/unlocking-the-world-of-cryptographic-protocols/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80980,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2025-0226 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0226/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0226/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80979,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2025-0229 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0229/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0229/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80978,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2025-0224 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0224/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0224/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80977,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2025-0228 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0228/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0228/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80976,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2025-0227 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0227/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0227/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80975,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2024-13142 - https://www.redpacketsecurity.com/cve_alert_cve-2024-13142/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2024-13142/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80974,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2025-0231 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0231/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0231/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80973,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2025-0232 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0232/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0232/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80972,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2025-0233 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0233/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0233/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 80971,
+            "discovered": "2025-01-06",
+            "post_title": "CVE Alert: CVE-2025-0230 - https://www.redpacketsecurity.com/cve_alert_cve-2025-0230/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/cve_alert_cve-2025-0230/"
             ],
             "Matched Keywords": [
                 "Other"
