@@ -8860,6 +8860,34 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10092,
+            "discovered": "2025-01-06",
+            "post_title": "Xanaxman was the vendor name",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 10091,
+            "discovered": "2025-01-06",
+            "post_title": "💡[Darknetlive Archive] Major Xanax Vendor Sentenced to Prison\n\nhttps://darkwebinformer.com/darknetlive-archive-major-xanax-vendor-sentenced-to-prison/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "ttps://darkwebinformer.com/darknetlive-archive-major-xanax-vendor-sentenced-to-prison/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
@@ -11637,6 +11665,36 @@
             ],
             "URLs": [
                 "https://x.com/falconfeedsio/status/1876189684151599130?s=46"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 844,
+            "discovered": "2025-01-06",
+            "post_title": "https://x.com/DarkWebInformer/status/1876303710323875977?t=Ou5CdzXIhrOqkXGTiDfZ_w&s=35",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/DarkWebInformer/status/1876303710323875977?t=Ou5CdzXIhrOqkXGTiDfZ_w&s=35"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 843,
+            "discovered": "2025-01-06",
+            "post_title": "https://x.com/FalconFeedsio/status/1875791695121670290?t=aRZwVHAApAtWkfhwQNibYQ&s=35",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://x.com/FalconFeedsio/status/1875791695121670290?t=aRZwVHAApAtWkfhwQNibYQ&s=35"
             ],
             "Matched Keywords": [
                 "Other"
@@ -40778,6 +40836,21 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 5259,
+            "discovered": "2025-01-06",
+            "post_title": "ID: 19948\n⚠ 2025-01-06 13:11:50\n🥷 akira\n🎯 Gunnar Prefab, Sweden\n🔗 http://www.ransomfeed.it/index.php?page=post_details&id_post=19948",
+            "Attack Type": "Unknown",
+            "Location": [
+                "Sweden"
+            ],
+            "URLs": [
+                "p://www.ransomfeed.it/index.php?page=post_details&id_post=19948"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "Yıldız Threat Intelligence News": [
@@ -63286,6 +63359,232 @@
             ],
             "URLs": [
                 "https://nvd.nist.gov/vuln/detail/CVE-2023-30262"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101128,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-55529\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-55529\n\nDescription: Z-BlogPHP 1.7.3 is vulnerable to arbitrary code execution via \\zb_users\\theme\\shell\\template.\n\nPublication Date: Mon Jan 06 22:20:39 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-55529"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101127,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-55626\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-55626\n\nDescription: Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine. Prior to 7.0.8, a large BPF filter file provided to Suricata at startup can lead to a buffer overflow at Suricata startup. The issue has been addressed in Suricata 7.0.8.\n\nPublication Date: Mon Jan 06 22:20:28 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-55626"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101126,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-55627\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-55627\n\nDescription: Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine. Prior to 7.0.8, a specially crafted TCP stream can lead to a very large buffer overflow while being zero-filled during initialization with memset due to an unsigned integer underflow. The issue has been addressed in Suricata 7.0.8.\n\nPublication Date: Mon Jan 06 22:20:17 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-55627"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101125,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-55628\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-55628\n\nDescription: Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine. Prior to version 7.0.8, DNS resource name compression can lead to small DNS messages containing very large hostnames which can be costly to decode, and lead to very large DNS log records. While there are limits in place, they were too generous. The issue has been addressed in Suricata 7.0.8.\n\nPublication Date: Mon Jan 06 22:20:06 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-55628"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101124,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-55629\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-55629\n\nDescription: Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine. Prior to 7.0.8, TCP streams with TCP urgent data (out of band data) can lead to Suricata analyzing data differently than the applications at the TCP endpoints, leading to possible evasions. Suricata 7.0.8 includes options to allow users to configure how to handle TCP urgent data. In IPS mode, you can use a rule such as drop tcp any any -> any any (sid:1; tcp.flags:U*;) to drop all the packets with urgent flag set.\n\nPublication Date: Mon Jan 06 22:19:55 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-55629"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101123,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-56828\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56828\n\nDescription: File Upload vulnerability in ChestnutCMS through 1.5.0. Based on the code analysis, it was determined that the /api/member/avatar API endpoint receives a base64 string as input. This string is then passed to the memberService.uploadAvatarByBase64 method for processing. Within the service, the base64-encoded image is parsed. For example, given a string like: data:image/html;base64,PGh0bWw+PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPjwvaHRtbD4= the content after the comma is extracted and decoded using Base64.getDecoder().decode(). The substring from the 11th character up to the first occurrence of a semicolon (;) is assigned to the suffix variable (representing the file extension). The decoded content is then written to a file. However, the file extension is not validated, and since this functionality is exposed to the frontend, it poses significant security risks.\n\nPublication Date: Mon Jan 06 22:19:44 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "ChestnutCMS",
+                "suffix"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56828"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101122,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-34856\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-34856\n\nDescription: A Cross Site Scripting (XSS) vulnerability in D-Link DI-7500G-CI-19.05.29A allows attackers to execute arbitrary code via uploading a crafted HTML file to the interface /auth_pic.cgi.\n\nPublication Date: Mon Jan 06 22:19:33 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-34856"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101121,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-29766\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-29766\n\nDescription: An issue found in CrossX v.1.15.3 for Android allows a local attacker to cause an escalation of Privileges via the database files.\n\nPublication Date: Mon Jan 06 22:19:22 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-29766"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101120,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-56668\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56668\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\niommu/vt-d: Fix qi_batch NULL pointer with nested parent domain\n\nThe qi_batch is allocated when assigning cache tag for a domain. While\nfor nested parent domain, it is missed. Hence, when trying to map pages\nto the nested parent, NULL dereference occurred. Also, there is potential\nmemleak since there is no lock around domain->qi_batch allocation.\n\nTo solve it, add a helper for qi_batch allocation, and call it in both\nthe __cache_tag_assign_domain() and __cache_tag_assign_parent_domain().\n\n  BUG: kernel NULL pointer dereference, address: 0000000000000200\n  #PF: supervisor read access in kernel mode\n  #PF: error_code(0x0000) - not-present page\n  PGD 8104795067 P4D 0\n  Oops: Oops: 0000 [#1] PREEMPT SMP NOPTI\n  CPU: 223 UID: 0 PID: 4357 Comm: qemu-system-x86 Not tainted 6.13.0-rc1-00028-g4b50c3c3b998-dirty #2632\n  Call Trace:\n   ? __die+0x24/0x70\n   ? page_fault_oops+0x80/0x150\n   ? do_user_addr_fault+0x63/0x7b0\n   ? exc_page_fault+0x7c/0x220\n   ? asm_exc_page_fault+0x26/0x30\n   ? cache_tag_flush_range_np+0x13c/0x260\n   intel_iommu_iotlb_sync_map+0x1a/0x30\n   iommu_map+0x61/0xf0\n   batch_to_domain+0x188/0x250\n   iopt_area_fill_domains+0x125/0x320\n   ? rcu_is_watching+0x11/0x50\n   iopt_map_pages+0x63/0x100\n   iopt_map_common.isra.0+0xa7/0x190\n   iopt_map_user_pages+0x6a/0x80\n   iommufd_ioas_map+0xcd/0x1d0\n   iommufd_fops_ioctl+0x118/0x1c0\n   __x64_sys_ioctl+0x93/0xc0\n   do_syscall_64+0x71/0x140\n   entry_SYSCALL_64_after_hwframe+0x76/0x7e\n\nPublication Date: Mon Jan 06 22:08:14 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56668"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101119,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-46209\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-46209\n\nDescription: A stored cross-site scripting (XSS) vulnerability in the component /media/test.html of REDAXO CMS v5.17.1 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the password parameter.\n\nPublication Date: Mon Jan 06 22:08:03 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-46209"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101118,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-56667\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56667\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/i915: Fix NULL pointer dereference in capture_engine\n\nWhen the intel_context structure contains NULL,\nit raises a NULL pointer dereference error in drm_info().\n\n(cherry picked from commit 754302a5bc1bd8fd3b7d85c168b0a1af6d4bba4d)\n\nPublication Date: Mon Jan 06 22:07:52 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56667"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101117,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2023-29761\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2023-29761\n\nDescription: An issue found in Sleep v.20230303 for Android allows unauthorized apps to cause a persistent denial of service by manipulating the SharedPreference files.\n\nPublication Date: Mon Jan 06 22:07:41 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2023-29761"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101116,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-56666\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-56666\n\nDescription: In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amdkfd: Dereference null return value\n\nIn the function pqm_uninit there is a call-assignment of \"pdd =\nkfd_get_process_device_data\" which could be null, and this value was\nlater dereferenced without checking.\n\nPublication Date: Mon Jan 06 22:07:31 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-56666"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101115,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-13033\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-13033\n\nDescription: A vulnerability, which was classified as problematic, has been found in code-projects Chat System 1.0. Affected by this issue is some unknown functionality of the file /admin/chatroom.php. The manipulation of the argument id leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.\n\nPublication Date: Mon Jan 06 22:07:20 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-13033"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101114,
+            "discovered": "2025-01-06",
+            "post_title": "CVE-ID: CVE-2024-35498\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-35498\n\nDescription: A cross-site scripting (XSS) vulnerability in Grav v1.7.45 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.\n\nPublication Date: Mon Jan 06 22:07:09 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "XSS"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-35498"
             ],
             "Matched Keywords": [
                 "Other"
