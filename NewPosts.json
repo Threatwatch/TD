@@ -9010,6 +9010,22 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 10101,
+            "discovered": "2025-01-07",
+            "post_title": "🔗 DarkWebInformer.com - Cyber Threat Intelligence\n📌 CVE ID: CVE-2025-22395\n🔹 Description: Dell Update Package Framework, versions prior to 22.01.02, contain(s) a Local Privilege Escalation Vulnerability. A local low privileged attacker could potentially exploit this vulnerability, leading to the execution of arbitrary remote scripts on the server. Exploitation may lead to a denial of service by an attacker.\n📏 Published: 2025-01-07T02:52:54.624Z\n📏 Modified: 2025-01-07T02:52:54.624Z\n🔗 References:\n1. https://www.dell.com/support/kbdoc/en-us/000269079/dsa-2025-034-security-update-for-dell-update-package-dup-framework-vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "arkWebInformer.com ",
+                "//www.dell.com/support/kbdoc/en-us/000269079/dsa-2025-034-security-update-for-dell-update-package-dup-framework-vulnerability"
+            ],
+            "Matched Keywords": [
+                "Dell"
+            ]
         }
     ],
     "RipperSec | 新闻频道 🗞️": [
