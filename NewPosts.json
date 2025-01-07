@@ -64994,6 +64994,279 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 101227,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2025-22395\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2025-22395\n\nDescription: Dell Update Package Framework, versions prior to 22.01.02, contain(s) a Local Privilege Escalation Vulnerability. A local low privileged attacker could potentially exploit this vulnerability, leading to the execution of arbitrary remote scripts on the server. Exploitation may lead to a denial of service by an attacker.\n\nPublication Date: Tue Jan 07 07:13:57 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "DDoS Attacks",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2025-22395"
+            ],
+            "Matched Keywords": [
+                "Dell"
+            ]
+        },
+        {
+            "Message ID": 101226,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-12590\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12590\n\nDescription: The WP Youtube Gallery plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'id' parameter in all versions up to, and including, 1.9 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Tue Jan 07 07:13:46 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12590"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101225,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-11437\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-11437\n\nDescription: The Timeline Designer plugin for WordPress is vulnerable to SQL Injection via the 's' parameter in all versions up to, and including, 1.4 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\nPublication Date: Tue Jan 07 07:13:36 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-11437"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101224,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-12402\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12402\n\nDescription: The Themes Coder – Create Android & iOS Apps For Your Woocommerce Site plugin for WordPress is vulnerable to privilege escalation via account takeover in all versions up to, and including, 1.3.4. This is due to the plugin not properly validating a user's identity prior to updating their password through the update_user_profile() function. This makes it possible for unauthenticated attackers to change arbitrary user's passwords, including administrators, and leverage that to gain access to their account.\n\nPublication Date: Tue Jan 07 07:13:25 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12402"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101223,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-12557\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12557\n\nDescription: The Transporters.io plugin for WordPress is vulnerable to Cross-Site Request Forgery in all versions up to, and including, 2.0.84. This is due to missing nonce validation on a function. This makes it possible for unauthenticated attackers to inject malicious web scripts via a forged request granted they can trick a site administrator into performing an action such as clicking on a link.\n\nPublication Date: Tue Jan 07 07:13:14 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12557",
+                "Transporters.io"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101222,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-11934\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-11934\n\nDescription: The Formaloo Form Maker & Customer Analytics for WordPress & WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘address’ parameter in all versions up to, and including, 2.1.3.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Tue Jan 07 07:13:03 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-11934",
+                "2.1.3.2"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101221,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-12528\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12528\n\nDescription: The WordPress Survey & Poll – Quiz, Survey and Poll Plugin for WordPress plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's 'wpsurveypoll_results' shortcode in all versions up to, and including, 1.7.5 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Tue Jan 07 07:12:52 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12528"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101220,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-12419\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12419\n\nDescription: The The Design for Contact Form 7 Style WordPress Plugin – CF7 WOW Styler plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to, and including, 1.7.0. This is due to the software allowing users to execute an action that does not properly validate a value before running do_shortcode. This makes it possible for unauthenticated attackers to execute arbitrary shortcodes. This functionality is also vulnerable to Reflected Cross-Site Scripting. Version 1.7.0 patched the Reflected XSS issue, however, the arbitrary shortcode execution issue remains.\n\nPublication Date: Tue Jan 07 07:12:42 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12419"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101219,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-12541\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12541\n\nDescription: The Chative Live chat and Chatbot plugin for WordPress is vulnerable to Cross-Site Request Forgery in all versions up to, and including, 1.1. This is due to missing or incorrect nonce validation on the add_chative_widget_action() function. This makes it possible for unauthenticated attackers to change the channel ID or organization ID via a forged request granted they can trick a site administrator into performing an action such as clicking on a link. This could lead to redirecting the live chat widget to an attacker-controlled channel.\n\nPublication Date: Tue Jan 07 07:12:31 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12541"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101218,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-12416\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12416\n\nDescription: The Live Sales Notification for Woocommerce – Woomotiv plugin for WordPress is vulnerable to SQL Injection via the 'woomotiv_seen_products_.*' cookie in all versions up to, and including, 3.6.1 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\nPublication Date: Tue Jan 07 07:12:20 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12416"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101217,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-11777\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-11777\n\nDescription: The Sell Media plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's 'sell_media_search_form_gutenberg' shortcode in all versions up to, and including, 2.5.8.5 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Tue Jan 07 07:12:09 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-11777",
+                "2.5.8.5"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101216,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-12592\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12592\n\nDescription: The Sellsy plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's 'testSellsy' shortcode in all versions up to, and including, 2.3.3 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Tue Jan 07 07:11:58 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12592"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101215,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-12098\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12098\n\nDescription: The ARS Affiliate Page Plugin plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the 'utm_keyword' parameter in all versions up to, and including, 2.0.2 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.\n\nPublication Date: Tue Jan 07 07:11:48 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12098"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101214,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-12559\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12559\n\nDescription: The ClickDesigns plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the 'clickdesigns_add_api' and the 'clickdesigns_remove_api' functions in all versions up to, and including, 1.8.0. This makes it possible for unauthenticated attackers to modify or remove the plugin's API key.\n\nPublication Date: Tue Jan 07 07:11:37 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12559"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101213,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-11899\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-11899\n\nDescription: The Slider Pro Lite plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's 'sliderpro' shortcode in all versions up to, and including, 1.4.1 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.\n\nPublication Date: Tue Jan 07 07:11:26 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-11899"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101212,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-12022\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12022\n\nDescription: The WP Menu Image plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the 'wmi_delete_img_menu' function in all versions up to, and including, 2.2. This makes it possible for unauthenticated attackers to delete images from menus.\n\nPublication Date: Tue Jan 07 07:11:15 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12022"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101211,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-12538\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12538\n\nDescription: The Duplicate Post, Page and Any Custom Post plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 3.5.3 via the 'dpp_duplicate_as_draft' function. This makes it possible for authenticated attackers, with Contributor-level access and above, to extract potentially sensitive data from draft, scheduled (future), private, and password protected posts.\n\nPublication Date: Tue Jan 07 07:11:05 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12538"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101210,
+            "discovered": "2025-01-07",
+            "post_title": "CVE-ID: CVE-2024-12540\n\nSource: https://nvd.nist.gov/vuln/detail/CVE-2024-12540\n\nDescription: The LDD Directory Lite plugin for WordPress is vulnerable to Reflected Cross-Site Scripting due to the use of remove_query_arg without appropriate escaping on the URL in all versions up to, and including, 3.3. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.\n\nPublication Date: Tue Jan 07 07:10:54 2025\n\n#CVE #Vulnerability",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://nvd.nist.gov/vuln/detail/CVE-2024-12540"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
