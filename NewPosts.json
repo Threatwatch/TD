@@ -64932,6 +64932,52 @@
             "Matched Keywords": [
                 "Other"
             ]
+        },
+        {
+            "Message ID": 101209,
+            "discovered": "2025-01-07",
+            "post_title": "Title: ISC Stormcast For Tuesday, January 7th, 2025 https://isc.sans.edu/podcastdetail/9268, (Tue, Jan 7th)\n\nDate: January 7, 2025\n\nSource: https://isc.sans.edu/diary/rss/31562\n\n#News",
+            "Attack Type": "Hacking",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://isc.sans.edu/podcastdetail/9268",
+                "https://isc.sans.edu/diary/rss/31562"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101208,
+            "discovered": "2025-01-07",
+            "post_title": "Victim:  WSINC.COM\n\nDetection Date: Tue Jan 07 05:31:33 2025\n\nThreat Actor: clop\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "WSINC.COM"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 101207,
+            "discovered": "2025-01-07",
+            "post_title": "Victim: VELSOL.COM\n\nDetection Date: Tue Jan 07 05:31:18 2025\n\nThreat Actor: clop\n\n#Ransomware",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "VELSOL.COM"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
         }
     ],
     "𝙂𝙝𝙤𝙨𝙩 𝘾𝙡𝙖𝙣™": [
@@ -92570,6 +92616,81 @@
             ],
             "URLs": [
                 "https://www.redpacketsecurity.com/cisa-cisa-adds-one-known-exploited-vulnerability-to-catalog-07-01-2025-3/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81050,
+            "discovered": "2025-01-07",
+            "post_title": "Crypto Wallet Drainers: $500m Lost in Scams in 2024 - https://www.redpacketsecurity.com/scammers-drain-500m-from-crypto-wallets-in-a-year/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/scammers-drain-500m-from-crypto-wallets-in-a-year/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81049,
+            "discovered": "2025-01-07",
+            "post_title": "PhishWP Plugin: A New Threat for Payment Page Scams - https://www.redpacketsecurity.com/new-phishwp-plugin-enables-sophisticated-payment-page-scams/",
+            "Attack Type": "Phishing",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/new-phishwp-plugin-enables-sophisticated-payment-page-scams/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81048,
+            "discovered": "2025-01-07",
+            "post_title": "Infostealer Campaign Targeting Gamers on Discord: Stay Vigilant - https://www.redpacketsecurity.com/new-infostealer-campaign-uses-discord-videogame-lure/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/new-infostealer-campaign-uses-discord-videogame-lure/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81047,
+            "discovered": "2025-01-07",
+            "post_title": "Supply Chain Attack Hits Ethereum Development Tools: How to Protect Yourself - https://www.redpacketsecurity.com/supply-chain-attack-targets-key-ethereum-development-tools/",
+            "Attack Type": "Unknown",
+            "Location": [
+                "N/A"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/supply-chain-attack-targets-key-ethereum-development-tools/"
+            ],
+            "Matched Keywords": [
+                "Other"
+            ]
+        },
+        {
+            "Message ID": 81046,
+            "discovered": "2025-01-07",
+            "post_title": "Chinese Hackers Launch Doubling Cyber-Attacks on Taiwan in 2024 - https://www.redpacketsecurity.com/chinese-hackers-double-cyber-attacks-on-taiwan/",
+            "Attack Type": "Hacking",
+            "Location": [
+                "Taiwan"
+            ],
+            "URLs": [
+                "https://www.redpacketsecurity.com/chinese-hackers-double-cyber-attacks-on-taiwan/"
             ],
             "Matched Keywords": [
                 "Other"
