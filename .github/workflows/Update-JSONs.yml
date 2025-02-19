@@ -2,45 +2,43 @@ name: Update News and Posts
 
 on:
   schedule:
-    - cron: '50 * * * *'  # Runs at the 50th minute of every hour
-  workflow_dispatch:  # Allows manual triggering of the workflow
+    - cron: "50 * * * *" # Runs at the 50th minute of every hour
+  workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
   update-news-and-posts:
     runs-on: ubuntu-latest
 
     steps:
-    # Step 1: Checkout repository
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      # Step 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    # Step 2: Set up Python
-    - name: Set up Python
-      uses: actions/setup-python@v3
-      with:
-        python-version: '3.x'
+      # Step 2: Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.x"
 
-    # Step 3: Install dependencies
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-        python -m spacy download en_core_web_sm  # Install spaCy model
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m spaCy download en_core_web_sm  # Install spaCy model
 
+      # Step 4: Run script to update posts.json
+      - name: Update Posts Data
+        run: |
+          python dashboard.py  # Run the script for NewPosts.json
 
-    # Step 4: Run script to update posts.json
-    - name: Update Posts Data
-      run: |
-        python dashboard.py  # Run the script for NewPosts.json
-
-
-    # Step 5: Commit and push changes for posts.json (similar to your previous setup)
-    - name: Commit and push changes for NewPosts.json
-      run: |
-        git config --local user.email "faisal.s.albargan@gmail.com"
-        git config --local user.name "FSBARGAN"
-        git add NewPosts.json
-        git diff --cached --exit-code || git commit -m "Auto-update JSON data for posts"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Step 5: Commit and push changes for posts.json (similar to your previous setup)
+      - name: Commit and push changes for NewPosts.json
+        run: |
+          git config --local user.email "faisal.s.albargan@gmail.com"
+          git config --local user.name "FSBARGAN"
+          git add NewPosts.json
+          git diff --cached --exit-code || git commit -m "Auto-update JSON data for posts"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
