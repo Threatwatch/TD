@@ -14,53 +14,27 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    # Step 2: Install system dependencies (Fixes g++ issues)
-    - name: Install system dependencies
-      run: |
-        sudo apt update
-        sudo apt install -y build-essential python3-dev libffi-dev libssl-dev g++
-
-    # Step 3: Set up Python
+    # Step 2: Set up Python
     - name: Set up Python
       uses: actions/setup-python@v3
       with:
         python-version: '3.x'
-        cache: 'pip'  # Enables caching for dependencies
 
-    # Step 4: Install numpy first (Fixes metadata generation issue)
-    - name: Install numpy first
-      run: |
-        python -m pip install --upgrade pip setuptools wheel
-        pip install numpy  # Install numpy first
-
-    # Step 5: Install remaining dependencies
+    # Step 3: Install dependencies
     - name: Install dependencies
       run: |
+        python -m pip install --upgrade pip
         pip install -r requirements.txt
         python -m spacy download en_core_web_sm  # Install spaCy model
 
-    # # Step 6: Run script to update news.json
-    # - name: Update News Data
-    #   run: |
-    #     python dashboard2.py  # Run the script for news.json
 
-    # Step 7: Run script to update posts.json
+    # Step 4: Run script to update posts.json
     - name: Update Posts Data
       run: |
         python dashboard.py  # Run the script for NewPosts.json
 
-    # # Step 8: Commit and push changes for news.json
-    # - name: Commit and push changes for news.json
-    #   run: |
-    #     git config --local user.email "faisal.s.albargan@gmail.com"
-    #     git config --local user.name "FSBARGAN"
-    #     git add news.json
-    #     git diff --cached --exit-code || git commit -m "Auto-update JSON data for news"
-    #     git push
-    #   env:
-    #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    # Step 9: Commit and push changes for posts.json
+    # Step 5: Commit and push changes for posts.json (similar to your previous setup)
     - name: Commit and push changes for NewPosts.json
       run: |
         git config --local user.email "faisal.s.albargan@gmail.com"
