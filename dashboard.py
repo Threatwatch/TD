@@ -40,6 +40,7 @@ channel_urls = [
     "https://t.me/RedPacketSecurity",
     "https://t.me/ransomwarelive",
     "https://t.me/sylhetgangsgofficial01",
+    "https://t.me/Laneh_dark",
 
 ]
 
