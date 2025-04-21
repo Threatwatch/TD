@@ -21,11 +21,8 @@ phone_number = '+966559166818'
 # List of Telegram channel URLs
 channel_urls = [
     "https://t.me/TheDarkWebInformer",
-    "https://t.me/RipperSec",
     "https://t.me/hackmanac",
-    "https://t.me/ANONSTU",
     "https://t.me/esteemrestorationeagle",
-    "https://t.me/ServerKillers",
     "https://t.me/alixsecenglish",
     "https://t.me/vxunderground",
     "https://t.me/DarkfeedNews",
@@ -39,7 +36,6 @@ channel_urls = [
     "https://t.me/ransomlook",
     "https://t.me/RedPacketSecurity",
     "https://t.me/ransomwarelive",
-    "https://t.me/sylhetgangsgofficial01",
     "https://t.me/Laneh_dark",
 
 ]
