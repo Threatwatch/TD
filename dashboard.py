@@ -37,6 +37,12 @@ channel_urls = [
     "https://t.me/RedPacketSecurity",
     "https://t.me/ransomwarelive",
     "https://t.me/Laneh_dark",
+    "https://t.me/AnonymousJordan",
+    "https://t.me/Dex4o4",
+    "https://t.me/Chat_Islamic_Hacker_Army",
+    "https://t.me/keymous_team",
+    "https://t.me/Nation_Of_Saviorss",
+    "https://t.me/+rHJKMGAY4rA4M2Jk", 
 
 ]
 
