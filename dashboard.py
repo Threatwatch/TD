@@ -37,12 +37,6 @@ channel_urls = [
     "https://t.me/RedPacketSecurity",
     "https://t.me/ransomwarelive",
     "https://t.me/Laneh_dark",
-    "https://t.me/AnonymousJordan",
-    "https://t.me/Dex4o4",
-    "https://t.me/Chat_Islamic_Hacker_Army",
-    "https://t.me/keymous_team",
-    "https://t.me/Nation_Of_Saviorss",
-    "https://t.me/+rHJKMGAY4rA4M2Jk", 
 
 ]
 
@@ -77,7 +71,7 @@ def extract_location(text):
     locations = [ent.text for ent in doc.ents if ent.label_ == "GPE"]
     return locations if locations else ["N/A"]
 
-def load_keywords_from_company(file_path):
+def load_keywords_from_file(file_path):
     """
     Load keywords from a JSON file and normalize them.
 
@@ -91,7 +85,7 @@ def load_keywords_from_company(file_path):
         with open(file_path, 'r', encoding='utf-8') as file:
             data = json.load(file)
             if isinstance(data, list):
-                return [kw.strip() for kw in data]  # Remove any extra spaces
+                return [kw.strip() for kw in data]
             else:
                 print(f"Unexpected structure in {file_path}: {type(data)}")
                 return []
@@ -158,12 +152,19 @@ async def fetch_messages(channel_identifier, existing_messages_ids, failed_chann
         print(f"Error fetching messages for channel '{channel_identifier}': {e}")
         return channel.id, channel.title, []
 
-    # Load keywords from company.json
+    # Load keywords from Company.json
     try:
-        keywords = load_keywords_from_company('Company.json')
+        company_keywords = load_keywords_from_file('Company.json')
     except Exception as e:
-        print(f"Error loading keywords: {e}")
-        keywords = []
+        print(f"Error loading company keywords: {e}")
+        company_keywords = []
+
+    # Load keywords from KeyWords.json
+    try:
+        matched_words = load_keywords_from_file('KeyWords.json')
+    except Exception as e:
+        print(f"Error loading Arabic keywords: {e}")
+        matched_words = []
 
     # Process each message
     for message in messages:
@@ -189,12 +190,17 @@ async def fetch_messages(channel_identifier, existing_messages_ids, failed_chann
             # Extract location from the message content
             location = extract_location(message.message) if message.message else ["N/A"]
 
-            # Match keywords from company.json
-            matched_keywords = match_keywords(message.message or "", keywords)
+            # Match separately from both JSONs
+            matched_companies = match_keywords(message.message or "", company_keywords)
+            matched_words = match_keywords(message.message or "", matched_words)
 
-            # If no keywords matched, add 'Other'
-            if not matched_keywords:
-                matched_keywords = ["Other"]
+            # Combine both results (remove duplicates)
+            combined_matches = sorted(set(matched_companies + matched_words))
+
+            # If no matches at all, label as 'Other'
+            if not combined_matches or combined_matches == ["Other"]:
+                combined_matches = ["Other"]
+
 
             # Add the processed message to the list
             new_messages.append({
@@ -204,7 +210,7 @@ async def fetch_messages(channel_identifier, existing_messages_ids, failed_chann
                 'Attack Type': attack_type,
                 'Location': location,
                 'URLs': urls,
-                'Matched Keywords': matched_keywords  # Save matched keywords
+                'Matched Keywords': combined_matches  # Save matched keywords
             })
 
         # Update the offset ID to continue fetching later messages
@@ -236,37 +242,41 @@ def log_failed_channel(channel_identifier, failed_channels_file):
 
 def test_match_keywords():
     """
-    Test the match_keywords function with various cases.
+    Test the match_keywords function using keywords from both Company.json and KeyWords.json.
     """
-    # Sample JSON file path (adjust to your actual file path)
-    json_file_path = "Company.json"
+    # Load keywords from both JSON files
+    company_keywords = load_keywords_from_file("Company.json")
+    arabic_keywords = load_keywords_from_file("KeyWords.json")
 
-    # Load keywords from JSON file
-    keywords = load_keywords_from_company(json_file_path)
+    # Combine both sets of keywords
+    all_keywords = company_keywords + arabic_keywords
 
     # Test cases
     test_cases = [
         {
             "text": "The company SABIC announced a new petrochemical project in Saudi Arabia.",
-            "keywords": keywords,
             "expected": ['Petrochemical', 'SABIC', 'Saudi']
         },
         {
+            "text": "هذا النص يحتوي على كلمة السعودية فقط.",
+            "expected": ['السعودية']
+        },
+        {
             "text": "This text has no matching keywords.",
-            "keywords": keywords,
             "expected": ['Other']
         },
         {
             "text": "Completely irrelevant text.",
-            "keywords": [],
             "expected": ['Other']
         }
     ]
 
     for i, case in enumerate(test_cases, 1):
-        result = match_keywords(case["text"], case["keywords"])
-        print(f"Test Case {i}: {'PASS' if result == case['expected'] else 'FAIL'}")
+        result = match_keywords(case["text"], all_keywords)
+        status = "PASS" if sorted(result) == sorted(case["expected"]) else "FAIL"
+        print(f"Test Case {i}: {status}")
         print(f"  Expected: {case['expected']}\n  Got: {result}\n")
+
 
 # Run the test function
 # if __name__ == "__main__":

@@ -1,14 +1,20 @@
 import pandas as pd
 import json
 
-# Load the Excel file
-excel_data = pd.read_excel(r'C:\Users\fsbks\OneDrive\Desktop\Company.xlsx')
+# Load the Excel files
+comp_data = pd.read_excel(r'C:\Users\fsbks\OneDrive\Desktop\Company.xlsx')
+key_data = pd.read_excel(r'C:\Users\fsbks\OneDrive\Desktop\KeyWords.xlsx')
 
-# Convert the column of names to a list
-names_list = excel_data.iloc[:, 0].tolist()  # Assumes names are in the first column
+# Save company names from first column
+if comp_data.shape[1] >= 1:
+    company_keywords = comp_data.iloc[:, 0].dropna().astype(str).str.strip().tolist()
+    with open('Company.json', 'w', encoding='utf-8') as json_file:
+        json.dump(company_keywords, json_file, ensure_ascii=False, indent=4)
+    print("✅ Company.json saved.")
 
-# Convert the list to JSON format and save it to a file
-with open('Company.json', 'w') as json_file:
-    json.dump(names_list, json_file, indent=4)
-
-print("Conversion complete! JSON data saved as 'Company.json'")
+# Save Arabic keywords from first column
+if key_data.shape[1] >= 1:
+    arabic_keywords = key_data.iloc[:, 0].dropna().astype(str).str.strip().tolist()
+    with open('KeyWords.json', 'w', encoding='utf-8') as json_file:
+        json.dump(arabic_keywords, json_file, ensure_ascii=False, indent=4)
+    print("✅ KeyWords.json saved.")
