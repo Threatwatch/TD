@@ -2,7 +2,7 @@ name: Update News and Posts
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"   # Runs every 12 hours (UTC)
   workflow_dispatch:
 
 permissions:
@@ -11,54 +11,40 @@ permissions:
 jobs:
   update-news-and-posts:
     runs-on: ubuntu-latest
+
     steps:
+      # Step 1: Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          ref: ${{ github.ref }}
-          fetch-depth: 1      # fast shallow clone
-          lfs: false
 
+      # Step 2: Set up Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
-          cache: "pip"
 
+      # Step 3: Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python -m spacy download en_core_web_sm
 
+      # Step 4: Run your script
       - name: Update Posts Data
-        timeout-minutes: 10
-        env:
-          PYTHONUNBUFFERED: "1"
-        run: python -u dashboard.py
+        run: python dashboard.py
 
-      # ---- Commit & Push (robust) ----
-      - name: Commit & push NewPosts.json (safe)
+      # Step 5: Commit and push changes for NewPosts.json
+      - name: Commit and push changes for NewPosts.json
         env:
-          BRANCH: ${{ github.ref_name }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "threatwatch.protect@gmail.com"
-          git config --local user.name  "Threatwatch"
-
-          # Stage only the file we expect to change
+          git config --local user.name "Threatwatch"
           git add NewPosts.json
-
-          # If nothing changed, exit cleanly
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-
           git commit -m "Auto-update JSON data for posts"
-
-          # Update local branch safely even with unstaged changes
-          git fetch origin "$BRANCH"
-          git pull --rebase --autostash origin "$BRANCH"
-
-          # Push back to the same branch
-          git push origin HEAD:"$BRANCH"
+          git push origin HEAD:${{ github.ref_name }}
