@@ -26,7 +26,6 @@ channel_urls = [
     "https://t.me/alixsecenglish",
     "https://t.me/vxunderground",
     "https://t.me/DarkfeedNews",
-    "https://t.me/TigerElectronicUnit",
     "https://t.me/Team_R70",
     "https://t.me/RansomwareNewsVX",
     "https://t.me/RansomFeedNews",
@@ -37,27 +36,14 @@ channel_urls = [
     "https://t.me/RedPacketSecurity",
     "https://t.me/ransomwarelive",
     "https://t.me/Laneh_dark",
-    "https://t.me/+kKRPXvOJcdY4NGI1",
-
 ]
 
 
-# Create the client and connect
-client = TelegramClient('anon', api_id, api_hash)
+# Output / aux files
+JSON_OUTPUT = 'NewPosts.json'
+FAILED_CHANNELS_FILE = 'failed_channels.json'
 
-# Load spaCy model for English
-nlp = spacy.load("en_core_web_sm")
-
-def load_existing_messages(file_path):
-    if os.path.exists(file_path):
-        with open(file_path, 'r', encoding='utf-8') as json_file:
-            return json.load(json_file)
-    return {}
-
-def save_messages(file_path, messages):
-    with open(file_path, 'w', encoding='utf-8') as json_file:
-        json.dump(messages, json_file, ensure_ascii=False, indent=4)
-
+# Attack keywords (category -> triggers)
 detailed_attack_keywords = {
     "DDoS Attacks": ["ddos", "denial of service", "flooding", "botnet", "amplification"],
     "Hacking": ["hack", "hacked", "hacking", "exploited", "vulnerability", "rce", "breached"],
@@ -66,78 +52,144 @@ detailed_attack_keywords = {
     "Phishing": ["phishing", "phish", "spear phishing", "email scam"]
 }
 
-def extract_location(text):
-    # Use spaCy to detect locations (GPE: Geopolitical Entity)
+# =========================
+# NLP Setup
+# =========================
+nlp = spacy.load("en_core_web_sm")
+
+# =========================
+# Utility Functions
+# =========================
+
+def load_existing_messages(file_path: str):
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return {}
+
+def save_messages(file_path: str, messages: dict):
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(messages, f, ensure_ascii=False, indent=4)
+
+def load_keywords_from_file(file_path: str):
+    """
+    Load keywords from JSON list file and return a cleaned list.
+    """
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        if isinstance(data, list):
+            # keep original casing for output, but ensure no empties
+            return [kw.strip() for kw in data if isinstance(kw, str) and kw.strip()]
+        print(f"Unexpected JSON structure in {file_path}: {type(data)}")
+        return []
+    except Exception as e:
+        print(f"Error loading {file_path}: {e}")
+        return []
+
+def extract_location(text: str):
+    """
+    Use spaCy (GPE) to extract locations. Returns ['N/A'] if none found.
+    """
+    if not text:
+        return ["N/A"]
     doc = nlp(text)
     locations = [ent.text for ent in doc.ents if ent.label_ == "GPE"]
     return locations if locations else ["N/A"]
 
-def load_keywords_from_file(file_path):
+def match_keywords(text: str, keywords: list):
     """
-    Load keywords from a JSON file and normalize them.
-
-    Args:
-        file_path (str): Path to the JSON file.
-
-    Returns:
-        list: A list of normalized keywords.
+    Return a list of matched keywords (original casing). If nothing matches, return [].
+    - Tries whole-word regex first (helpful for Latin).
+    - Falls back to substring match (helps Arabic / mixed scripts).
     """
-    try:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            data = json.load(file)
-            if isinstance(data, list):
-                return [kw.strip() for kw in data]
-            else:
-                print(f"Unexpected structure in {file_path}: {type(data)}")
-                return []
-    except Exception as e:
-        print(f"Error loading keywords from {file_path}: {e}")
+    if not text or not keywords:
         return []
 
-def match_keywords(text, keywords):
+    norm_text = re.sub(r'[^\w\s]', ' ', text.lower())
+
+    matches_norm = set()
+    norm_to_original = {}
+
+    for kw in keywords:
+        norm_kw = kw.lower().strip()
+        if not norm_kw:
+            continue
+        norm_to_original[norm_kw] = kw
+
+        # Whole-word regex (works well for Latin)
+        if re.search(rf'\b{re.escape(norm_kw)}\b', norm_text):
+            matches_norm.add(norm_kw)
+            continue
+
+        # Fallback substring (better for Arabic/phrases)
+        if norm_kw in norm_text:
+            matches_norm.add(norm_kw)
+
+    return sorted([norm_to_original[m] for m in matches_norm])
+
+def detect_attack_type(text: str):
+    if not text:
+        return "Unknown"
+    content_lower = text.lower()
+    for category, triggers in detailed_attack_keywords.items():
+        if any(t in content_lower for t in triggers):
+            return category
+    return "Unknown"
+
+def extract_urls_from_message(msg):
     """
-    Match keywords in the text. If no match is found, return the word 'Other'.
-
-    Args:
-        text (str): The text to search.
-        keywords (list): A list of keywords to match.
-
-    Returns:
-        list: A deduplicated list of matched keywords, or ['Other'] if no match is found.
+    Extract URLs from Telethon message entities (MessageEntityUrl, MessageEntityTextUrl).
     """
-    text = re.sub(r'[^\w\s]', ' ', text.lower())  # Normalize text: remove special characters and convert to lowercase
-    matches = set()  # Use a set to ensure no duplicates
-    original_keyword_map = {}  # Map normalized keywords to their original form
-
-    for keyword in keywords:
-        normalized_keyword = keyword.lower().strip()  # Normalize the keyword
-        original_keyword_map[normalized_keyword] = keyword  # Map normalized to original
-        # Match as a whole word
-        if re.search(rf'\b{re.escape(normalized_keyword)}\b', text):
-            matches.add(normalized_keyword)  # Add normalized keyword to the matches
-
-    # Convert matches back to their original formatting
-    matched_keywords = sorted([original_keyword_map[match] for match in matches])
-
-    # Return 'Other' if no matches found
-    return matched_keywords if matched_keywords else ["Other"]
-
-async def fetch_messages(channel_identifier, existing_messages_ids, failed_channels_file="failed_channels.json"):
+    urls = []
     try:
-        # Fetch the channel entity
+        if msg and msg.entities:
+            for ent in msg.entities:
+                if isinstance(ent, MessageEntityUrl):
+                    urls.append(msg.message[ent.offset:ent.offset + ent.length])
+                elif isinstance(ent, MessageEntityTextUrl) and getattr(ent, 'url', None):
+                    urls.append(ent.url)
+    except Exception:
+        pass
+    return urls
+
+def log_failed_channel(channel_identifier: str, failed_channels_file: str = FAILED_CHANNELS_FILE):
+    try:
+        if os.path.exists(failed_channels_file):
+            with open(failed_channels_file, 'r', encoding='utf-8') as f:
+                failed_channels = json.load(f)
+        else:
+            failed_channels = []
+
+        if channel_identifier not in failed_channels:
+            failed_channels.append(channel_identifier)
+
+        with open(failed_channels_file, 'w', encoding='utf-8') as f:
+            json.dump(failed_channels, f, ensure_ascii=False, indent=4)
+    except Exception as e:
+        print(f"Error handling {failed_channels_file}: {e}")
+
+# =========================
+# Telegram Fetch
+# =========================
+
+client = TelegramClient('anon', api_id, api_hash)
+
+async def fetch_messages(channel_identifier, existing_message_ids_set):
+    """
+    Returns: (channel_id, channel_title, [new_messages])
+    """
+    try:
         channel = await client.get_entity(channel_identifier)
     except Exception as e:
         print(f"Failed to fetch channel '{channel_identifier}': {e}")
-        log_failed_channel(channel_identifier, failed_channels_file)
+        log_failed_channel(channel_identifier)
         return None, None, []
 
-    # Initialize variables
     limit = 100
     offset_id = 0
-    new_messages = []
 
     try:
-        # Fetch the channel message history
         history = await client(GetHistoryRequest(
             peer=channel,
             offset_id=offset_id,
@@ -153,194 +205,109 @@ async def fetch_messages(channel_identifier, existing_messages_ids, failed_chann
         print(f"Error fetching messages for channel '{channel_identifier}': {e}")
         return channel.id, channel.title, []
 
-    # Load keywords from Company.json
-    try:
-        company_keywords = load_keywords_from_file('Company.json')
-    except Exception as e:
-        print(f"Error loading company keywords: {e}")
-        company_keywords = []
+    # Load both keyword lists ONCE per fetch
+    company_keywords = load_keywords_from_file('Company.json')
+    arabic_keywords  = load_keywords_from_file('KeyWords.json')
 
-    # Load keywords from KeyWords.json
-    try:
-        matched_words = load_keywords_from_file('KeyWords.json')
-    except Exception as e:
-        print(f"Error loading Arabic keywords: {e}")
-        matched_words = []
+    new_messages = []
 
-    # Process each message
     for message in messages:
-        if message.id not in existing_messages_ids:
-            date = message.date.strftime('%Y-%m-%d')
+        if message.id in existing_message_ids_set:
+            continue
 
-            # Extract URLs if available
-            urls = []
-            if message.entities:
-                for entity in message.entities:
-                    if isinstance(entity, MessageEntityUrl):
-                        urls.append(message.message[entity.offset:entity.offset + entity.length])
+        post_text = message.message or ""
+        discovered_date = message.date.strftime('%Y-%m-%d') if message.date else datetime.utcnow().strftime('%Y-%m-%d')
 
-            # Determine the attack type based on content
-            attack_type = "Unknown"
-            if message.message:  # Check if message content is not None
-                content_lower = message.message.lower()
-                for category, keywords_list in detailed_attack_keywords.items():
-                    if any(keyword in content_lower for keyword in keywords_list):
-                        attack_type = category
-                        break
+        urls = extract_urls_from_message(message)
+        attack_type = detect_attack_type(post_text)
+        location = extract_location(post_text)
 
-            # Extract location from the message content
-            location = extract_location(message.message) if message.message else ["N/A"]
+        # --- Keyword matching (fixed logic) ---
+        company_matches = match_keywords(post_text, company_keywords)
+        arabic_matches  = match_keywords(post_text, arabic_keywords)
 
-            # Match separately from both JSONs
-            matched_companies = match_keywords(message.message or "", company_keywords)
-            matched_words = match_keywords(message.message or "", matched_words)
+        combined_matches = sorted(set(company_matches + arabic_matches))
 
-            # Combine both results (remove duplicates)
-            combined_matches = sorted(set(matched_companies + matched_words))
+        # If nothing matched -> ["Other"], else only the matches (no "Other")
+        matched_keywords = combined_matches if combined_matches else ["Other"]
+        # --------------------------------------
 
-            # If no matches at all, label as 'Other'
-            if not combined_matches or combined_matches == ["Other"]:
-                combined_matches = ["Other"]
+        new_messages.append({
+            'Message ID': message.id,
+            'discovered': discovered_date,
+            'post_title': post_text if post_text else "No Text Content",
+            'Attack Type': attack_type,
+            'Location': location,
+            'URLs': urls,
+            'Matched Keywords': matched_keywords
+        })
 
-
-            # Add the processed message to the list
-            new_messages.append({
-                'Message ID': message.id,
-                'discovered': date,
-                'post_title': message.message or "No Text Content",  # Handle None message
-                'Attack Type': attack_type,
-                'Location': location,
-                'URLs': urls,
-                'Matched Keywords': combined_matches  # Save matched keywords
-            })
-
-        # Update the offset ID to continue fetching later messages
-        offset_id = message.id
+        offset_id = message.id  # (kept if you plan to paginate later)
 
     return channel.id, channel.title, new_messages
 
-def log_failed_channel(channel_identifier, failed_channels_file):
-    try:
-        # Load the existing failed channels file if it exists
-        if os.path.exists(failed_channels_file):
-            with open(failed_channels_file, 'r') as file:
-                failed_channels = json.load(file)
-        else:
-            failed_channels = []
-
-        # Append the new failed channel identifier if not already logged
-        if channel_identifier not in failed_channels:
-            failed_channels.append(channel_identifier)
-            print(f"Logging failed channel: {channel_identifier}")  # Debug print
-
-        # Write back to the JSON file
-        with open(failed_channels_file, 'w') as file:
-            json.dump(failed_channels, file, indent=4)
-            print(f"Failed channels updated in {failed_channels_file}")  # Debug print
-
-    except Exception as e:
-        print(f"Error handling {failed_channels_file}: {e}")
-
-def test_match_keywords():
-    """
-    Test the match_keywords function using keywords from both Company.json and KeyWords.json.
-    """
-    # Load keywords from both JSON files
-    company_keywords = load_keywords_from_file("Company.json")
-    arabic_keywords = load_keywords_from_file("KeyWords.json")
-
-    # Combine both sets of keywords
-    all_keywords = company_keywords + arabic_keywords
-
-    # Test cases
-    test_cases = [
-        {
-            "text": "The company SABIC announced a new petrochemical project in Saudi Arabia.",
-            "expected": ['Petrochemical', 'SABIC', 'Saudi']
-        },
-        {
-            "text": "هذا النص يحتوي على كلمة السعودية فقط.",
-            "expected": ['السعودية']
-        },
-        {
-            "text": "This text has no matching keywords.",
-            "expected": ['Other']
-        },
-        {
-            "text": "Completely irrelevant text.",
-            "expected": ['Other']
-        }
-    ]
-
-    for i, case in enumerate(test_cases, 1):
-        result = match_keywords(case["text"], all_keywords)
-        status = "PASS" if sorted(result) == sorted(case["expected"]) else "FAIL"
-        print(f"Test Case {i}: {status}")
-        print(f"  Expected: {case['expected']}\n  Got: {result}\n")
-
-
-# Run the test function
-# if __name__ == "__main__":
-#    test_match_keywords()
+# =========================
+# Main Loop
+# =========================
 
 async def main():
-    json_file_path = 'NewPosts.json'
-    failed_channels_file = 'failed_channels.json'
     iteration_count = 0
-    max_iterations = 1
-    channel_id_map = {}  # Dictionary to store channel URL to ID mappings
-    
-    # Test keyword matching
-    # test_match_keywords()
+    max_iterations = 1   # run once by default
+    channel_id_map = {}
 
     while True:
-        all_channel_messages = load_existing_messages(json_file_path)
-        if not all_channel_messages:
-            all_channel_messages = {}
+        all_channel_messages = load_existing_messages(JSON_OUTPUT) or {}
 
         await client.start(phone=phone_number)
 
+        # Make a global set of existing IDs across all channels to skip duplicates
+        global_existing_ids = {msg['Message ID']
+                               for msgs in all_channel_messages.values()
+                               for msg in msgs}
+
         for channel_url in channel_urls:
             channel_identifier = channel_id_map.get(channel_url, channel_url)
+
             try:
-                channel_id, channel_name, new_messages = await fetch_messages(
-                    channel_identifier, 
-                    {msg['Message ID'] for channel in all_channel_messages.values() for msg in channel},
-                    failed_channels_file=failed_channels_file
+                channel_id, channel_name, new_msgs = await fetch_messages(
+                    channel_identifier,
+                    existing_message_ids_set=global_existing_ids
                 )
             except Exception as e:
                 print(f"Error processing channel {channel_url}: {e}")
                 continue
 
-            # Skip channels that couldn't be fetched
             if channel_id is None or channel_name is None:
                 continue
 
-            # Update channel ID map if the channel was fetched successfully
             channel_id_map[channel_url] = channel_id
-            
-            # Add the channel name only if valid and not already in the messages
+
             if channel_name not in all_channel_messages:
                 all_channel_messages[channel_name] = []
-            
-            # Add only new messages that are not already in the list
-            existing_message_ids = {msg['Message ID'] for msg in all_channel_messages[channel_name]}
-            unique_new_messages = [msg for msg in new_messages if msg['Message ID'] not in existing_message_ids]
-            all_channel_messages[channel_name].extend(unique_new_messages)
 
-        save_messages(json_file_path, all_channel_messages)
+            # De-duplicate within the channel
+            existing_ids_in_channel = {m['Message ID'] for m in all_channel_messages[channel_name]}
+            unique_new = [m for m in new_msgs if m['Message ID'] not in existing_ids_in_channel]
+
+            # Update the global set to avoid re-adding across channels
+            global_existing_ids.update({m['Message ID'] for m in unique_new})
+
+            all_channel_messages[channel_name].extend(unique_new)
+
+        save_messages(JSON_OUTPUT, all_channel_messages)
 
         iteration_count += 1
-        print(f"Data updated. Iteration {iteration_count}. Sleeping for 1 minute.")
+        print(f"Data updated. Iteration {iteration_count}.")
+
+        await client.disconnect()
 
         if iteration_count >= max_iterations:
             print("Maximum iterations reached. Terminating the script.")
-            await client.disconnect()
             return
 
-        await client.disconnect()
+        # If you want it to loop, keep this sleep + reconnect
         time.sleep(60)
 
-with client:
-    client.loop.run_until_complete(main())
-
+if __name__ == "__main__":
+    with client:
+        client.loop.run_until_complete(main())
