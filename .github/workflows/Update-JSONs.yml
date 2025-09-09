@@ -11,20 +11,13 @@ permissions:
 jobs:
   update-news-and-posts:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-          # token defaults to GITHUB_TOKEN; keep persist-credentials: true (default)
-
-      - name: Show context (debug)
-        run: |
-          echo "Branch: ${{ github.ref_name }}"
-          git --version
-          python3 --version
-          ls -la
+          ref: ${{ github.ref }}
+          fetch-depth: 1
+          lfs: false
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -39,11 +32,10 @@ jobs:
           python -m spacy download en_core_web_sm
 
       - name: Update Posts Data
-        timeout-minutes: 10   # prevent infinite hang
+        timeout-minutes: 10
         env:
-          PYTHONUNBUFFERED: "1"  # flush logs
-        run: |
-          python -u dashboard.py
+          PYTHONUNBUFFERED: "1"
+        run: python -u dashboard.py
 
       - name: Commit changes (if any)
         run: |
@@ -53,8 +45,6 @@ jobs:
           git diff --cached --quiet || git commit -m "Auto-update JSON data for posts"
 
       - name: Push changes
-        if: ${{ success() }}
         run: |
-          # Ensure we're pushing to the same branch that triggered the run
           git pull --rebase origin "${{ github.ref_name }}"
           git push origin HEAD:${{ github.ref_name }}
