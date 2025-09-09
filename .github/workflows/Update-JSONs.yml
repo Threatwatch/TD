@@ -2,8 +2,11 @@ name: Update News and Posts
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"   # every 12 hours (UTC)
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-news-and-posts:
@@ -11,12 +14,15 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v5
         with:
           python-version: "3.10"
+          cache: "pip"
 
       - name: Install dependencies
         run: |
@@ -28,12 +34,14 @@ jobs:
         run: |
           python dashboard.py
 
-      - name: Commit and push changes for NewPosts.json
+      - name: Commit changes (if any)
         run: |
-          git config --local user.email "threatwatch.protect@gmail.com"
-          git config --local user.name "Threatwatch"
+          git config user.email "threatwatch.protect@gmail.com"
+          git config user.name "Threatwatch"
           git add NewPosts.json
-          git diff --cached --exit-code || git commit -m "Auto-update JSON data for posts"
-          git push
+          git diff --cached --quiet || git commit -m "Auto-update JSON data for posts"
+
+      - name: Push changes
+        run: git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
