@@ -2,7 +2,7 @@ name: Update News and Posts
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours (UTC)
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,6 +17,14 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          # token defaults to GITHUB_TOKEN; keep persist-credentials: true (default)
+
+      - name: Show context (debug)
+        run: |
+          echo "Branch: ${{ github.ref_name }}"
+          git --version
+          python3 --version
+          ls -la
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -31,17 +39,22 @@ jobs:
           python -m spacy download en_core_web_sm
 
       - name: Update Posts Data
+        timeout-minutes: 10   # prevent infinite hang
+        env:
+          PYTHONUNBUFFERED: "1"  # flush logs
         run: |
-          python dashboard.py
+          python -u dashboard.py
 
       - name: Commit changes (if any)
         run: |
-          git config user.email "threatwatch.protect@gmail.com"
-          git config user.name "Threatwatch"
+          git config --local user.email "threatwatch.protect@gmail.com"
+          git config --local user.name "Threatwatch"
           git add NewPosts.json
           git diff --cached --quiet || git commit -m "Auto-update JSON data for posts"
 
       - name: Push changes
-        run: git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        if: ${{ success() }}
+        run: |
+          # Ensure we're pushing to the same branch that triggered the run
+          git pull --rebase origin "${{ github.ref_name }}"
+          git push origin HEAD:${{ github.ref_name }}
