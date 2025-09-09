@@ -11,30 +11,30 @@ permissions:
 jobs:
   update-news-and-posts:
     runs-on: ubuntu-latest
-
     steps:
-      # Step 1: Checkout repository
+      # 1) Checkout
       - name: Checkout repository
         uses: actions/checkout@v4
+        # default persist-credentials: true -> lets us push with GITHUB_TOKEN
 
-      # Step 2: Set up Python
+      # 2) Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
-      # Step 3: Install dependencies
+      # 3) Dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python -m spacy download en_core_web_sm
 
-      # Step 4: Run your script
+      # 4) Run your script
       - name: Update Posts Data
         run: python dashboard.py
 
-      # Step 5: Commit and push changes for NewPosts.json
+      # 5) Commit & push only if NewPosts.json changed (no pull)
       - name: Commit and push changes for NewPosts.json
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
