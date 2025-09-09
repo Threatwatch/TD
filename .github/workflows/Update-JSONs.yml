@@ -30,8 +30,8 @@ jobs:
 
       - name: Commit and push changes for NewPosts.json
         run: |
-          git config --local user.email "faisal.s.albargan@gmail.com"
-          git config --local user.name "FSBARGAN"
+          git config --local user.email "threatwatch.protect@gmail.com"
+          git config --local user.name "Threatwatch"
           git add NewPosts.json
           git diff --cached --exit-code || git commit -m "Auto-update JSON data for posts"
           git push
